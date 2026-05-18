@@ -1,0 +1,48 @@
+﻿Fixed Vs Variable Costs:
+* Only introduce fixed costs as you scale revenue past $150k - $200k/month (where possible).
+   * Most costs before then should be variable so that your P&L doesn’t take as much of a hit.
+      * Eg AMs → $ per client
+      * Closers/setters → commission only
+      * CSMs → $ per client
+Marketing → 20 - 25%:
+* The goal of your marketing should be 20%. Meaning, if you’re not at 20% adspend then you should be spending more to get it to 20%. If you can’t handle that volume then you need to find the constraint on the back end, alleviate it and spend 20%.
+   * Ask yourself “Why can’t I double my adspend tomorrow?”
+      * Whatever the answer is → that’s your constraint
+Labor → 20 - 25%:
+* Any compensation plan you roll out, always start with the below 2 metrics and work backwards from there:
+   * OTE (On Tracked Earnings)
+   * Target % on P&L
+      * Targets:
+         * 9% Fulfilment
+         * 8% Sales
+         * 3% Operations/Marketing
+         * 5% Finance/Legal/HR
+            * This can also be used as overflow until you get big enough to have Finance/Legal/HR
+* Example → AM:
+   * OTE = $10k/month
+   * Target P&L %: 7%
+      * Assuming a $4k/month price point:
+         * 30 clients UM @ $335/client = $10k/m
+            * = 8% of P&L
+         * 35 clients UM @ $285/client = $10k/m
+            * = 7% of P&L
+               * Side note: If you can’t make the numbers work without requiring your AMs to handle too many clients (where client results + experience decreases), you can always increase your prices to make it make sense.
+                  * Example: If you were to increase your retainer from 4k/m to 5.5k/m here’s the math:
+                     * 25 clients UM @ $400/client = $10k/m
+                        * = 7.2% of P&L
+   * Your job then becomes hiring the right AMs and equipping them correctly to be able to handle the required clients.
+* Example → Closer:
+   * OTE = $15k/month
+   * Target P&L %: 5%
+      * Assuming a $5k/month price point ($20k package for 4 months):
+            * Assuming 10% commission
+         * 100 calls per month @ 25% close = 25 new clients
+            * $500k revenue w/ 50% UF cash = $250k CC
+            * Commission = $25k (excluding recurring commissions)
+               * = 10% of new CC
+                  * All you would need here is $125k in AR and you would be at 5% of P&L
+   * W/ keeping sales % on P&L low, you need to have a good AR and acension rate (fulfilment) as this will help decrease sales costs and allow you to have an attractive OTE for closers whilst keeping the sales % low
+      * Again, your job now becomes ensuring your closers are full and they’re closing at 25% or higher (in this example)
+Overhead → 5%
+* This is pretty basic. Any new software, insurance, prof services, etc you’re looking at just make sure the costs don’t push your overhead to above 5%.
+   * If it does and it’s something that isn’t necessary to have right now then wait until you’re slightly bigger and the amount doesn’t have as much an impact.

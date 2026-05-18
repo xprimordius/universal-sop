@@ -1,0 +1,1365 @@
+WEBVTT
+
+1
+00:00:00.275 --> 00:00:02.165
+Okay, so in this training we're gonna go through the idea
+
+2
+00:00:02.165 --> 00:00:04.245
+of proactive leadership versus reactive customer service.
+
+3
+00:00:04.315 --> 00:00:05.885
+This is something that is just
+
+4
+00:00:06.315 --> 00:00:09.565
+what you wanna make sure is installed is a value more
+
+5
+00:00:09.565 --> 00:00:11.405
+so than anything else that's installed into your
+
+6
+00:00:11.405 --> 00:00:12.605
+fulfillment initially.
+
+7
+00:00:12.605 --> 00:00:14.165
+Obviously, if it's you running fulfillment,
+
+8
+00:00:14.875 --> 00:00:16.565
+it's gonna be you that should be following this idea.
+
+9
+00:00:16.825 --> 00:00:19.205
+But eventually, when you bring on your own account managers,
+
+10
+00:00:19.715 --> 00:00:20.725
+this is what you want
+
+11
+00:00:20.725 --> 00:00:23.205
+to be leading your account manager team based on, right?
+
+12
+00:00:23.315 --> 00:00:25.685
+This idea of proactive leadership versus reactive customer
+
+13
+00:00:25.685 --> 00:00:28.485
+service, it should be evident across your entire client's
+
+14
+00:00:28.485 --> 00:00:29.605
+jour, uh, client journeys.
+
+15
+00:00:29.745 --> 00:00:32.325
+So a good account manager will always be proactively,
+
+16
+00:00:32.355 --> 00:00:34.205
+proactively leading their clients to success.
+
+17
+00:00:34.315 --> 00:00:35.885
+They will never be reactive.
+
+18
+00:00:35.885 --> 00:00:38.205
+Alright, so what does reactive customer service look like?
+
+19
+00:00:38.205 --> 00:00:39.645
+Well, think of this
+
+20
+00:00:39.645 --> 00:00:41.765
+as having a pop-up help desk on a website.
+
+21
+00:00:41.765 --> 00:00:43.285
+You know, that little thing in the bottom right hand
+
+22
+00:00:43.285 --> 00:00:44.765
+corner on websites?
+
+23
+00:00:44.765 --> 00:00:46.525
+You click and it's like, Hey, how can I help you today?
+
+24
+00:00:46.525 --> 00:00:49.285
+Right? Um, there's a customer service team obviously waiting
+
+25
+00:00:49.285 --> 00:00:51.045
+for a customer to send a message asking for help.
+
+26
+00:00:51.385 --> 00:00:53.165
+That's reactive customer service on support.
+
+27
+00:00:53.425 --> 00:00:56.565
+You are reacting to what the client is asking, right?
+
+28
+00:00:56.865 --> 00:00:57.885
+So for most agencies
+
+29
+00:00:57.885 --> 00:00:58.965
+or coaches, this refers
+
+30
+00:00:58.965 --> 00:01:01.365
+to really any time a client message you, uh,
+
+31
+00:01:01.365 --> 00:01:03.685
+messages you about questions they have on the process.
+
+32
+00:01:03.865 --> 00:01:07.285
+For example, Hey guys, I've done x What's next steps? Right?
+
+33
+00:01:07.425 --> 00:01:10.125
+Bottom line, you should never, ever receive these types
+
+34
+00:01:10.125 --> 00:01:12.045
+of messages ever, okay?
+
+35
+00:01:12.515 --> 00:01:15.325
+Instead, your account managers need to be predicting
+
+36
+00:01:15.515 --> 00:01:16.965
+what the client will be needing next,
+
+37
+00:01:16.985 --> 00:01:18.485
+or what their problem slash question
+
+38
+00:01:18.505 --> 00:01:19.765
+or constraint will be next,
+
+39
+00:01:19.985 --> 00:01:22.765
+and proactively reaching out to them to solve it.
+
+40
+00:01:23.065 --> 00:01:24.925
+That's what proactive leadership looks like.
+
+41
+00:01:24.985 --> 00:01:27.725
+And one of my favorite quotes ever is everyone is walking
+
+42
+00:01:27.725 --> 00:01:29.845
+around with that umbilical cord in their hand looking
+
+43
+00:01:29.905 --> 00:01:31.125
+for a place to plug it back in.
+
+44
+00:01:31.485 --> 00:01:33.565
+I believe this was a quote from Dan Kennedy,
+
+45
+00:01:34.345 --> 00:01:35.765
+I'm not certain, but I believe it was.
+
+46
+00:01:36.025 --> 00:01:38.685
+And just fundamentally, it's one of my favorite quotes ever,
+
+47
+00:01:38.685 --> 00:01:41.005
+because meaning, essentially meaning as humans,
+
+48
+00:01:41.145 --> 00:01:42.325
+we want to be led.
+
+49
+00:01:42.325 --> 00:01:44.765
+Whether people admit it or not, we want to be led.
+
+50
+00:01:44.865 --> 00:01:46.285
+All right? And when it comes to clients,
+
+51
+00:01:46.285 --> 00:01:48.045
+your account managers must lead those
+
+52
+00:01:48.045 --> 00:01:49.085
+clients to their goals.
+
+53
+00:01:49.345 --> 00:01:51.325
+You know exactly what that goal is
+
+54
+00:01:51.865 --> 00:01:53.445
+and you know how to get there
+
+55
+00:01:53.445 --> 00:01:55.845
+because you should have done it so many times at this point.
+
+56
+00:01:56.185 --> 00:01:58.965
+Um, and so your account managers need to take charge of
+
+57
+00:01:58.965 --> 00:02:01.365
+that client relationship and lead your clients
+
+58
+00:02:01.465 --> 00:02:02.565
+to their goals.
+
+59
+00:02:02.715 --> 00:02:05.445
+Your account managers need to be in control at all times
+
+60
+00:02:05.825 --> 00:02:07.645
+and not reacting to the client.
+
+61
+00:02:07.775 --> 00:02:09.405
+Think of this as a dog, taking the owner
+
+62
+00:02:09.405 --> 00:02:12.165
+for a walk versus the owner taking a dog for the walk.
+
+63
+00:02:12.265 --> 00:02:13.485
+That's how you need to think about it.
+
+64
+00:02:13.485 --> 00:02:16.245
+You know, if you are always in front of, you know, if,
+
+65
+00:02:16.245 --> 00:02:17.445
+if you're walking your dog, for example,
+
+66
+00:02:17.705 --> 00:02:19.365
+if you are always in front of the,
+
+67
+00:02:19.365 --> 00:02:21.125
+of your dog walking them, I don't have a dog.
+
+68
+00:02:21.145 --> 00:02:24.045
+I'm actually, uh, fun fact, dogs are my biggest fear.
+
+69
+00:02:24.345 --> 00:02:26.485
+Um, but you know, I just, from what I see,
+
+70
+00:02:26.485 --> 00:02:27.925
+people walking their dogs, uh,
+
+71
+00:02:27.925 --> 00:02:30.005
+if you're in front walking them, you know, the,
+
+72
+00:02:30.005 --> 00:02:31.725
+the dog's never gonna be dragging you.
+
+73
+00:02:31.725 --> 00:02:32.405
+And then, you know,
+
+74
+00:02:32.435 --> 00:02:33.685
+kind of, you don't know where to go, right?
+
+75
+00:02:33.685 --> 00:02:35.205
+Because the dog's running off wherever they go.
+
+76
+00:02:35.205 --> 00:02:36.845
+And it's the same kind of idea, at least
+
+77
+00:02:36.915 --> 00:02:38.605
+with your clients in
+
+78
+00:02:38.605 --> 00:02:41.285
+that you should always be one step in front of your client
+
+79
+00:02:41.285 --> 00:02:43.885
+so that your client never doesn't know what's next.
+
+80
+00:02:43.995 --> 00:02:45.165
+Your client should never be like,
+
+81
+00:02:45.795 --> 00:02:47.005
+okay, well where do we go from here?
+
+82
+00:02:47.005 --> 00:02:48.205
+Or like, what's going on?
+
+83
+00:02:48.205 --> 00:02:50.125
+Or like, what, you know, what do we do now? Kind of thing.
+
+84
+00:02:50.195 --> 00:02:51.925
+Your client should never be in that mindset
+
+85
+00:02:52.755 --> 00:02:55.045
+because your account manager should be proactively
+
+86
+00:02:55.175 --> 00:02:56.405
+predicting, okay,
+
+87
+00:02:56.565 --> 00:02:58.405
+I think the client's feeling a little like this right now,
+
+88
+00:02:58.705 --> 00:03:00.885
+Let me reach out to them, or, you know,
+
+89
+00:03:00.885 --> 00:03:02.045
+it applies to so many things.
+
+90
+00:03:02.115 --> 00:03:04.285
+Another way it apply in, in, in, um,
+
+91
+00:03:04.875 --> 00:03:07.245
+another instance this would apply is, again, on the process,
+
+92
+00:03:07.385 --> 00:03:09.485
+if they've just completed, in our case the VSL,
+
+93
+00:03:09.785 --> 00:03:11.285
+we never want the client to go, Hey guys,
+
+94
+00:03:11.285 --> 00:03:12.885
+here's the vs L, what do I do now?
+
+95
+00:03:12.935 --> 00:03:15.205
+Right? Instead, we want to go, Hey, I know you're about
+
+96
+00:03:15.205 --> 00:03:17.845
+to finish up your VSL, and so here's the next steps
+
+97
+00:03:17.845 --> 00:03:19.085
+after you get that done, right?
+
+98
+00:03:19.215 --> 00:03:20.525
+We're proactively leading them.
+
+99
+00:03:20.525 --> 00:03:22.405
+We're not being reactive to what the client says.
+
+100
+00:03:22.545 --> 00:03:25.245
+Now, this doesn't mean to say just for clarity's sake, like,
+
+101
+00:03:25.435 --> 00:03:26.925
+your clients should be asking you questions.
+
+102
+00:03:26.925 --> 00:03:28.725
+Like, if you're one of our clients, like, we want you
+
+103
+00:03:28.725 --> 00:03:30.165
+to be reaching out asking us questions.
+
+104
+00:03:30.345 --> 00:03:32.965
+But what we don't want is you to not know the process.
+
+105
+00:03:33.195 --> 00:03:35.165
+Like what goes on, what's happening now, right?
+
+106
+00:03:35.425 --> 00:03:37.645
+Or for example, if you have a slow day of ads, right?
+
+107
+00:03:37.645 --> 00:03:39.205
+Maybe, you know, we're running ads for a client
+
+108
+00:03:39.225 --> 00:03:42.885
+and there's a, a, a day or two where it slows down, right?
+
+109
+00:03:42.885 --> 00:03:44.725
+We know that we're booking in five calls a day
+
+110
+00:03:44.905 --> 00:03:46.925
+and today we, you know, it's 6:00 PM
+
+111
+00:03:47.185 --> 00:03:49.045
+and we've only booked in one call as an example.
+
+112
+00:03:49.195 --> 00:03:50.805
+Well, we don't want the client to look at that
+
+113
+00:03:50.805 --> 00:03:52.045
+and be like, guys, what's going on?
+
+114
+00:03:52.045 --> 00:03:53.845
+Like, there's, results are slow if you change
+
+115
+00:03:54.085 --> 00:03:55.125
+anything to the ads, whatever.
+
+116
+00:03:55.315 --> 00:03:57.245
+Instead, we want to be able to predict that
+
+117
+00:03:57.245 --> 00:03:58.565
+and go, oh, we're,
+
+118
+00:03:58.565 --> 00:04:00.445
+it looks like we're being a little slower today
+
+119
+00:04:00.445 --> 00:04:02.485
+with our normal, with our usual cost per book call.
+
+120
+00:04:02.515 --> 00:04:04.525
+It's a little higher, the volume's a little lower.
+
+121
+00:04:04.705 --> 00:04:06.485
+Let me reach out to the client and just let them know that,
+
+122
+00:04:06.485 --> 00:04:08.685
+hey, notice today that, uh, is slower.
+
+123
+00:04:08.815 --> 00:04:10.685
+Don't worry, I've got my eye on it, et cetera.
+
+124
+00:04:10.685 --> 00:04:12.645
+Like, you know, I, I'll get this sorted by tomorrow.
+
+125
+00:04:12.665 --> 00:04:14.685
+If it doesn't pick back up, we'll do x, Y, z.
+
+126
+00:04:15.015 --> 00:04:17.565
+Being proactive with that client relationship is exactly
+
+127
+00:04:17.595 --> 00:04:20.245
+what you and your account managers should be doing, okay?
+
+128
+00:04:20.585 --> 00:04:22.485
+Um, more
+
+129
+00:04:22.485 --> 00:04:25.485
+so this ties into client experience than it does client
+
+130
+00:04:25.485 --> 00:04:28.005
+results, but even with client results, there's a case for
+
+131
+00:04:28.075 --> 00:04:30.165
+that as well, but more so client experience.
+
+132
+00:04:30.505 --> 00:04:32.565
+Um, and this is also gonna make your clients feel
+
+133
+00:04:32.565 --> 00:04:35.045
+as though they have a, uh, you know,
+
+134
+00:04:35.045 --> 00:04:37.525
+800 pound gorilla who's in their corner fighting
+
+135
+00:04:37.585 --> 00:04:38.725
+for them every single day.
+
+136
+00:04:38.795 --> 00:04:39.805
+This is how they're gonna feel
+
+137
+00:04:39.805 --> 00:04:41.085
+confident in you and your team.
+
+138
+00:04:41.235 --> 00:04:43.525
+This is also how they're gonna feel extremely cared for,
+
+139
+00:04:43.525 --> 00:04:45.965
+knowing that you've always got your eyes on what's going on.
+
+140
+00:04:45.965 --> 00:04:47.085
+You're always thinking about them, Hey,
+
+141
+00:04:47.125 --> 00:04:48.165
+I know you're coming up to the stage.
+
+142
+00:04:48.425 --> 00:04:50.405
+Let me just let you know, just to let you know
+
+143
+00:04:50.405 --> 00:04:51.565
+that this is going on next, this
+
+144
+00:04:51.565 --> 00:04:52.605
+is what we're doing, et cetera.
+
+145
+00:04:52.605 --> 00:04:53.885
+You're always proactively leading.
+
+146
+00:04:53.905 --> 00:04:55.725
+All right, so putting this into practice,
+
+147
+00:04:55.725 --> 00:04:56.845
+what does this look like in reality?
+
+148
+00:04:56.875 --> 00:04:58.885
+Well, again, anytime a client says, what's next steps?
+
+149
+00:04:58.955 --> 00:05:00.845
+What do I do now? What's going on with X?
+
+150
+00:05:01.065 --> 00:05:03.085
+Or do you need anything from me to get this going?
+
+151
+00:05:03.145 --> 00:05:04.485
+Or Can you update me on X?
+
+152
+00:05:04.825 --> 00:05:07.685
+Any of those types of questions, uh, that means
+
+153
+00:05:07.685 --> 00:05:09.925
+that you are being reactive to what the client's saying.
+
+154
+00:05:10.225 --> 00:05:13.045
+Um, and also, yeah, just a quick note on this.
+
+155
+00:05:13.255 --> 00:05:14.685
+These are the things you should be looking
+
+156
+00:05:14.705 --> 00:05:17.725
+for at q when you're doing your QCing with account managers.
+
+157
+00:05:17.825 --> 00:05:19.605
+You should be looking at client messages.
+
+158
+00:05:19.665 --> 00:05:21.485
+Are they asking a lot of these types of messages?
+
+159
+00:05:21.645 --> 00:05:23.405
+'cause if so, um, that means
+
+160
+00:05:23.405 --> 00:05:25.405
+that your account manager is being a little sloppy,
+
+161
+00:05:25.405 --> 00:05:26.405
+essentially, uh,
+
+162
+00:05:26.405 --> 00:05:28.525
+because again, this is reactive customer service
+
+163
+00:05:28.585 --> 00:05:30.405
+and you failed at proactively leading.
+
+164
+00:05:30.785 --> 00:05:32.005
+Um, why have you failed?
+
+165
+00:05:32.005 --> 00:05:33.765
+Because if you are proactively leading your clients
+
+166
+00:05:33.765 --> 00:05:35.125
+correctly, then you should have
+
+167
+00:05:35.155 --> 00:05:36.725
+preempted all of these things.
+
+168
+00:05:36.945 --> 00:05:38.645
+And that's essentially what this comes down to.
+
+169
+00:05:39.395 --> 00:05:41.445
+Your clients still wanna ask questions, obviously.
+
+170
+00:05:41.445 --> 00:05:43.365
+It's like, how do, how would you guys approach this
+
+171
+00:05:43.565 --> 00:05:45.245
+situation where I, I felt like I could have closed
+
+172
+00:05:45.245 --> 00:05:46.325
+this client, but I didn't.
+
+173
+00:05:46.325 --> 00:05:47.565
+Like, what would you guys have done different?
+
+174
+00:05:47.565 --> 00:05:49.365
+Something like that. Like those,
+
+175
+00:05:49.365 --> 00:05:51.605
+those questions you can't preempt, but the,
+
+176
+00:05:51.825 --> 00:05:54.765
+but the, the questions that you can preempt, like, okay,
+
+177
+00:05:54.765 --> 00:05:57.285
+they've just finished their VSL, I know they don't know
+
+178
+00:05:57.285 --> 00:05:59.565
+what the next step is, so let me preempt that
+
+179
+00:05:59.565 --> 00:06:00.925
+and tell them what the next step is so
+
+180
+00:06:00.925 --> 00:06:02.965
+that they never then have to ask this question.
+
+181
+00:06:03.305 --> 00:06:06.485
+Um, or, Hey, just on the VSL, what do I do now?
+
+182
+00:06:06.505 --> 00:06:09.525
+Or, Hey guys, notice today's a a lot slower on the ads.
+
+183
+00:06:09.525 --> 00:06:10.925
+Like, you know, using the example I just
+
+184
+00:06:10.925 --> 00:06:11.965
+gave, what's going on?
+
+185
+00:06:12.075 --> 00:06:13.965
+Well, you, you could preempt those things.
+
+186
+00:06:14.345 --> 00:06:16.285
+And so if you're not preempting those things, it means
+
+187
+00:06:16.285 --> 00:06:18.325
+that the account manager isn't thinking about
+
+188
+00:06:18.435 --> 00:06:19.445
+next steps with the client.
+
+189
+00:06:19.445 --> 00:06:20.845
+They aren't thinking about what's to come.
+
+190
+00:06:21.105 --> 00:06:22.445
+All they're thinking about is the here
+
+191
+00:06:22.445 --> 00:06:24.365
+and now, which is not good for an account manager.
+
+192
+00:06:24.585 --> 00:06:26.645
+And so that's the difference between the questions.
+
+193
+00:06:26.825 --> 00:06:28.525
+If the question could have been preempted,
+
+194
+00:06:28.665 --> 00:06:30.085
+you've failed at proactively leading.
+
+195
+00:06:30.085 --> 00:06:32.805
+If it's a question that the client just has in general, Hey,
+
+196
+00:06:32.805 --> 00:06:34.685
+guys, saw this ad today, what do you think of that?
+
+197
+00:06:34.685 --> 00:06:36.565
+Do you think maybe we should test that out or what,
+
+198
+00:06:36.565 --> 00:06:37.885
+or whatever like that?
+
+199
+00:06:37.985 --> 00:06:39.165
+That's totally fine, right?
+
+200
+00:06:39.865 --> 00:06:41.325
+So that's the, that's the difference there.
+
+201
+00:06:41.585 --> 00:06:43.205
+Now, an example, um, you know,
+
+202
+00:06:43.325 --> 00:06:44.885
+a new client is completing your onboarding process
+
+203
+00:06:45.025 --> 00:06:46.485
+and once they complete it, they send a
+
+204
+00:06:46.485 --> 00:06:47.565
+message saying, what are next steps?
+
+205
+00:06:47.665 --> 00:06:50.005
+If the client messages messages you that question,
+
+206
+00:06:50.145 --> 00:06:51.925
+what's next steps after the onboarding process?
+
+207
+00:06:52.265 --> 00:06:54.765
+You failed immediately as that new client comes on board,
+
+208
+00:06:54.765 --> 00:06:56.485
+you should be explaining exactly what they need
+
+209
+00:06:56.485 --> 00:06:58.525
+to do all the way through to their first call with you.
+
+210
+00:06:58.795 --> 00:07:00.725
+That is proactively leading clients.
+
+211
+00:07:00.945 --> 00:07:02.325
+And again, this applies to everything.
+
+212
+00:07:02.325 --> 00:07:03.605
+They're about to finish the first step.
+
+213
+00:07:03.755 --> 00:07:05.885
+What do they do next? Ads aren't performing.
+
+214
+00:07:05.905 --> 00:07:07.285
+Update them and explain exactly
+
+215
+00:07:07.285 --> 00:07:09.005
+what you are doing to rectify it.
+
+216
+00:07:09.265 --> 00:07:11.725
+Um, ads are performing. What's next for them?
+
+217
+00:07:11.905 --> 00:07:13.245
+You've just completed the first step
+
+218
+00:07:13.245 --> 00:07:14.445
+of the process, update them.
+
+219
+00:07:15.115 --> 00:07:16.885
+Same with the second, the third, the fourth, and so on.
+
+220
+00:07:16.955 --> 00:07:18.165
+This is even on your end.
+
+221
+00:07:18.165 --> 00:07:19.965
+So even if it's not the client doing the thing,
+
+222
+00:07:20.155 --> 00:07:22.605
+it's on your end, like your team has just completed the
+
+223
+00:07:22.605 --> 00:07:23.805
+first stage of their website.
+
+224
+00:07:23.805 --> 00:07:25.005
+Build, update the client,
+
+225
+00:07:25.065 --> 00:07:26.925
+let them know this is just been done.
+
+226
+00:07:26.985 --> 00:07:29.245
+Here's now what we're moving on to next, right?
+
+227
+00:07:29.275 --> 00:07:32.525
+That, again, is gonna preempt the question from the client's
+
+228
+00:07:32.525 --> 00:07:34.565
+end of, Hey guys, where are you at with the process?
+
+229
+00:07:34.655 --> 00:07:36.205
+Where are you guys at with this or that,
+
+230
+00:07:36.205 --> 00:07:37.205
+or whatever it might be, right?
+
+231
+00:07:37.435 --> 00:07:39.405
+Reporting, uh, checking in on them, right?
+
+232
+00:07:39.405 --> 00:07:41.645
+Essentially, bottom line, always be leading.
+
+233
+00:07:41.645 --> 00:07:43.845
+Clients think of it as, um, taking their hand
+
+234
+00:07:43.845 --> 00:07:45.165
+and walking them to a destination.
+
+235
+00:07:45.305 --> 00:07:47.685
+If we're always in front of them, they're never gonna ask,
+
+236
+00:07:47.685 --> 00:07:49.325
+where are we going or what's next?
+
+237
+00:07:49.385 --> 00:07:50.405
+Or Can you update me
+
+238
+00:07:50.405 --> 00:07:51.925
+because you are in front of them leading them.
+
+239
+00:07:52.185 --> 00:07:53.925
+And on that topic, you also wanna
+
+240
+00:07:53.925 --> 00:07:55.005
+be your client's guiding light.
+
+241
+00:07:55.065 --> 00:07:57.605
+So majority of clients who come from ads can often be scared
+
+242
+00:07:57.605 --> 00:08:00.005
+and nervous, or at the very least, not certain, as most
+
+243
+00:08:00.005 --> 00:08:01.845
+of the time, they are in uncharted waters
+
+244
+00:08:01.845 --> 00:08:03.805
+with your deliverables, meaning they've never ran.
+
+245
+00:08:03.945 --> 00:08:05.525
+For example, if you do Facebook ads,
+
+246
+00:08:05.525 --> 00:08:07.885
+they've never ran Facebook ads or done coaching
+
+247
+00:08:07.985 --> 00:08:09.645
+or worked with an agency, you know,
+
+248
+00:08:09.645 --> 00:08:10.965
+they're in uncharted waters,
+
+249
+00:08:10.965 --> 00:08:12.125
+they're nervous, they're scared, right?
+
+250
+00:08:12.165 --> 00:08:13.565
+A lot of our clients that come on board with us,
+
+251
+00:08:13.565 --> 00:08:15.685
+they've never ran ads for their own acquisition.
+
+252
+00:08:15.785 --> 00:08:18.165
+So they're kind of nervous when they start spending money on
+
+253
+00:08:18.165 --> 00:08:19.845
+ads and like, oh, you know, 'cause now they've got a cost
+
+254
+00:08:19.845 --> 00:08:21.045
+associated to their acquisition.
+
+255
+00:08:21.045 --> 00:08:22.125
+They've never had that before.
+
+256
+00:08:22.195 --> 00:08:24.325
+That makes for uncharted waters.
+
+257
+00:08:24.505 --> 00:08:26.925
+Or again, even if they have run ads for their own agency,
+
+258
+00:08:26.955 --> 00:08:29.565
+well, at the very least, you're a brand new agency slash
+
+259
+00:08:29.565 --> 00:08:31.245
+coach to them in their mind, in their eyes,
+
+260
+00:08:31.425 --> 00:08:33.565
+and they are wary, like they're, you know,
+
+261
+00:08:34.435 --> 00:08:36.685
+just a little apprehensive, a little nervous.
+
+262
+00:08:37.425 --> 00:08:38.725
+And so you need to realize that.
+
+263
+00:08:38.865 --> 00:08:40.765
+And so because of that, you need
+
+264
+00:08:40.765 --> 00:08:43.685
+to become their guiding light, supporting them all the way
+
+265
+00:08:43.805 --> 00:08:45.285
+through to their desired end goal.
+
+266
+00:08:45.505 --> 00:08:46.885
+In other words, they need to feel
+
+267
+00:08:46.885 --> 00:08:48.125
+as though you have their back.
+
+268
+00:08:48.185 --> 00:08:50.045
+And this is obviously what a lot of this comes back
+
+269
+00:08:50.045 --> 00:08:51.685
+to, no pun intended.
+
+270
+00:08:51.945 --> 00:08:54.805
+Um, now the only way, or
+
+271
+00:08:54.985 --> 00:08:56.525
+Uh, uh, sorry, the only way you
+
+272
+00:08:56.525 --> 00:08:59.085
+or your account managers can effectively guide them is if
+
+273
+00:08:59.085 --> 00:09:00.885
+you're in front of them showing them the way.
+
+274
+00:09:00.905 --> 00:09:03.165
+In other words, being proactive, never reactive.
+
+275
+00:09:03.235 --> 00:09:05.045
+This is also where good coaching comes into play,
+
+276
+00:09:05.045 --> 00:09:07.645
+because sometimes clients can push back on your ideas
+
+277
+00:09:07.645 --> 00:09:09.085
+because they're using their
+
+278
+00:09:09.325 --> 00:09:10.485
+reference points as a source of truth.
+
+279
+00:09:10.625 --> 00:09:13.445
+But again, if they're playing in uncharted territory, um,
+
+280
+00:09:13.635 --> 00:09:15.965
+then you need to provide them with your perspective on
+
+281
+00:09:15.965 --> 00:09:18.045
+what the best course of action actually is.
+
+282
+00:09:18.225 --> 00:09:20.765
+And this ties back into being their guiding light
+
+283
+00:09:20.765 --> 00:09:23.085
+and proactively leading them to that, uh, outcome
+
+284
+00:09:23.265 --> 00:09:24.325
+and or goal.
+
+285
+00:09:24.375 --> 00:09:26.925
+Quick example on this. We had a client who, um, was,
+
+286
+00:09:26.945 --> 00:09:30.125
+is is at 50 KA month and he wants to scale to 150 KA month.
+
+287
+00:09:30.125 --> 00:09:32.285
+And what he was doing was planning on removing himself
+
+288
+00:09:32.765 --> 00:09:33.805
+entirely from fulfillment.
+
+289
+00:09:33.905 --> 00:09:36.165
+But I told him not, and it really opened up his eyes.
+
+290
+00:09:36.165 --> 00:09:38.205
+He was like, oh, damn, dude, I never would've,
+
+291
+00:09:38.225 --> 00:09:39.405
+uh, thought about that, right?
+
+292
+00:09:39.585 --> 00:09:41.285
+But the only way I was able to do this was
+
+293
+00:09:41.285 --> 00:09:42.685
+because I've been down that path
+
+294
+00:09:42.705 --> 00:09:45.085
+and I knew the hurdles he was about to stumble on.
+
+295
+00:09:45.145 --> 00:09:47.285
+So I was able to be his guiding light
+
+296
+00:09:47.285 --> 00:09:49.965
+and being like, you know, he hasn't gone from 50 to one 50
+
+297
+00:09:50.025 --> 00:09:52.485
+yet a month, but obviously we've done that.
+
+298
+00:09:52.665 --> 00:09:54.645
+And so I knew I could see the hurdles
+
+299
+00:09:54.645 --> 00:09:55.805
+he was about to encounter on.
+
+300
+00:09:55.865 --> 00:09:57.805
+And so I said, Hey, dude, don't, basically,
+
+301
+00:09:57.805 --> 00:09:59.485
+he had this plan of his fulfillment.
+
+302
+00:09:59.485 --> 00:10:00.845
+He was gonna, um, move him,
+
+303
+00:10:00.945 --> 00:10:02.365
+remove himself out of the fulfillment.
+
+304
+00:10:02.365 --> 00:10:04.725
+He was gonna put in basically a client success director
+
+305
+00:10:04.815 --> 00:10:06.205
+who's gonna handle his account managers.
+
+306
+00:10:06.205 --> 00:10:07.685
+And I said, dude, don't do that
+
+307
+00:10:07.855 --> 00:10:10.205
+until you're at about 250 KA month,
+
+308
+00:10:10.205 --> 00:10:12.205
+because here's the things that you're gonna experience.
+
+309
+00:10:12.205 --> 00:10:13.805
+And I listed off a bunch of different stuff
+
+310
+00:10:13.985 --> 00:10:15.565
+and he was like, oh my God, I I,
+
+311
+00:10:15.645 --> 00:10:16.885
+I didn't even realize, right?
+
+312
+00:10:17.705 --> 00:10:20.605
+Um, and so that was again, me being his guiding light.
+
+313
+00:10:20.785 --> 00:10:22.445
+And that's what you wanna be for your clients.
+
+314
+00:10:22.445 --> 00:10:23.485
+You wanna be their guiding light
+
+315
+00:10:23.485 --> 00:10:25.325
+to show them the road that lies ahead.
+
+316
+00:10:25.625 --> 00:10:27.725
+And the only way you can really do
+
+317
+00:10:27.725 --> 00:10:29.965
+that is if you are in front of them.
+
+318
+00:10:29.995 --> 00:10:31.485
+Because if you are behind them,
+
+319
+00:10:31.635 --> 00:10:33.085
+they're gonna encounter that road.
+
+320
+00:10:33.085 --> 00:10:34.685
+They're gonna come up to it, they're gonna come up
+
+321
+00:10:34.685 --> 00:10:37.165
+to the obstacle and not know how to, you know,
+
+322
+00:10:37.165 --> 00:10:38.165
+they're not gonna know what to do
+
+323
+00:10:38.165 --> 00:10:39.765
+because you are way behind them.
+
+324
+00:10:39.765 --> 00:10:41.045
+Whereas if you are in front of them,
+
+325
+00:10:41.065 --> 00:10:42.525
+you hit the obstacle first and go, Hey dude,
+
+326
+00:10:42.525 --> 00:10:43.725
+here's what's about to happen.
+
+327
+00:10:43.865 --> 00:10:45.165
+You are about to have this problem,
+
+328
+00:10:45.465 --> 00:10:46.965
+but here's how we're gonna get over it.
+
+329
+00:10:47.065 --> 00:10:49.005
+So then by the time he does encounter that problem,
+
+330
+00:10:49.695 --> 00:10:51.725
+we've already got the solution in place to get over it.
+
+331
+00:10:51.785 --> 00:10:54.485
+That's kind of the idea behind proactive leadership versus
+
+332
+00:10:54.525 --> 00:10:55.565
+reactive customer service.
+
+333
+00:10:55.625 --> 00:10:57.165
+And so short of video here,
+
+334
+00:10:57.165 --> 00:11:00.645
+but essentially this is just again, uh, the value, one
+
+335
+00:11:00.645 --> 00:11:02.885
+of the values you should be installing into your account
+
+336
+00:11:02.885 --> 00:11:05.405
+manager team and o overall fulfillment team,
+
+337
+00:11:05.425 --> 00:11:06.845
+always proactively lead clients.
+
+338
+00:11:07.015 --> 00:11:10.125
+Never be reactive towards, um, you know,
+
+339
+00:11:10.125 --> 00:11:11.565
+never have reactive customer service.
+
+340
+00:11:11.665 --> 00:11:13.045
+All right? So hopefully this makes sense
+
+341
+00:11:13.045 --> 00:11:13.725
+and I'll see you in the next train.

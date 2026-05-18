@@ -1,0 +1,841 @@
+WEBVTT
+
+1
+00:00:00.225 --> 00:00:02.725
+So what you are about to watch is a video of one
+
+2
+00:00:02.725 --> 00:00:05.685
+of our account managers breaking down his day daily
+
+3
+00:00:05.965 --> 00:00:07.805
+schedule, essentially how his Cal calendar looks,
+
+4
+00:00:07.945 --> 00:00:09.685
+how he breaks up his day to be able
+
+5
+00:00:09.685 --> 00:00:11.645
+to hit on client experience, hit on client resorts,
+
+6
+00:00:11.645 --> 00:00:13.845
+and basically just exactly what his calendar looks like.
+
+7
+00:00:14.165 --> 00:00:16.565
+I just quickly wanna prelude that with this video here
+
+8
+00:00:16.825 --> 00:00:19.645
+by saying, obviously, hi.
+
+9
+00:00:20.025 --> 00:00:22.405
+His calendar is very much optimized, obviously,
+
+10
+00:00:22.405 --> 00:00:24.525
+for our offer, and so it will change
+
+11
+00:00:24.745 --> 00:00:26.565
+for your offer based on your deliverables.
+
+12
+00:00:26.565 --> 00:00:28.005
+You know, obviously we run ads for clients,
+
+13
+00:00:28.065 --> 00:00:30.325
+so it's heavily centered around ads
+
+14
+00:00:30.325 --> 00:00:31.725
+and writing copy and whatever else.
+
+15
+00:00:31.945 --> 00:00:33.045
+So you, you know,
+
+16
+00:00:33.045 --> 00:00:35.285
+your offer is gonna change quite a lot based on your
+
+17
+00:00:35.285 --> 00:00:36.245
+deliverables and what it is
+
+18
+00:00:36.245 --> 00:00:37.165
+that you actually do for clients.
+
+19
+00:00:37.165 --> 00:00:38.005
+Maybe you don't even have a
+
+20
+00:00:38.125 --> 00:00:39.365
+done-for-you service, you have a coaching offer.
+
+21
+00:00:39.435 --> 00:00:40.485
+Well, again, it's gonna change.
+
+22
+00:00:40.485 --> 00:00:43.285
+However, it, this should give you a good insight into
+
+23
+00:00:43.285 --> 00:00:44.925
+what the reality of an account
+
+24
+00:00:44.925 --> 00:00:46.325
+manager's day-to-day schedule looks like.
+
+25
+00:00:46.325 --> 00:00:48.045
+And that's more so what I want you to get out of it.
+
+26
+00:00:48.185 --> 00:00:50.285
+If you have questions based on your account manager's
+
+27
+00:00:50.365 --> 00:00:52.925
+structure, really just your business in general, um,
+
+28
+00:00:52.925 --> 00:00:55.405
+you have questions that you want more context on, uh,
+
+29
+00:00:55.405 --> 00:00:56.445
+then obviously just give,
+
+30
+00:00:56.645 --> 00:00:58.365
+shoot us a message in Slack, we can help you out.
+
+31
+00:00:58.385 --> 00:01:00.245
+But again, this is gonna be, uh, one
+
+32
+00:01:00.245 --> 00:01:01.685
+of our account managers breaking down his day,
+
+33
+00:01:01.685 --> 00:01:03.085
+so hopefully you find it useful.
+
+34
+00:01:04.035 --> 00:01:05.485
+Okay, so a quick one on
+
+35
+00:01:05.485 --> 00:01:07.445
+how my schedule usually looks like.
+
+36
+00:01:08.185 --> 00:01:11.325
+Uh, I think when I first started here, one
+
+37
+00:01:11.325 --> 00:01:13.485
+of the biggest thing that I struggled with is schedule.
+
+38
+00:01:14.305 --> 00:01:16.005
+Uh, I was working day and night
+
+39
+00:01:16.005 --> 00:01:18.005
+because like, my day wasn't organized.
+
+40
+00:01:18.155 --> 00:01:20.845
+However, like when I, when this type
+
+41
+00:01:20.845 --> 00:01:25.725
+of re routine like kicked in, um, I started like
+
+42
+00:01:26.795 --> 00:01:29.205
+basically, I, I never looked back.
+
+43
+00:01:29.235 --> 00:01:31.405
+Once I started with the schedule, I never looked back.
+
+44
+00:01:31.645 --> 00:01:34.725
+I had more time, uh, in my day.
+
+45
+00:01:34.845 --> 00:01:37.045
+I had a lot more spare time than I usually did,
+
+46
+00:01:37.585 --> 00:01:39.725
+and I was a lot more productive.
+
+47
+00:01:39.845 --> 00:01:40.885
+I got a lot more done.
+
+48
+00:01:41.465 --> 00:01:45.085
+Um, so I, I managed
+
+49
+00:01:45.085 --> 00:01:47.325
+to give like my clients an even better experience
+
+50
+00:01:47.325 --> 00:01:49.525
+because like, one of the biggest, uh, mistakes
+
+51
+00:01:49.525 --> 00:01:51.565
+that I was making is, um,
+
+52
+00:01:52.955 --> 00:01:54.495
+and this is something that I,
+
+53
+00:01:55.085 --> 00:01:56.615
+that wasn't a mistake at the start
+
+54
+00:01:56.615 --> 00:01:59.335
+because I didn't have like any ads on,
+
+55
+00:01:59.375 --> 00:02:00.895
+I was just setting up clients and whatnot.
+
+56
+00:02:00.975 --> 00:02:03.455
+I was always in Slack. The moment the client replies,
+
+57
+00:02:04.175 --> 00:02:06.215
+I got back to him immediately, which I,
+
+58
+00:02:06.285 --> 00:02:08.015
+that was a hundred percent what I should have done.
+
+59
+00:02:08.575 --> 00:02:11.575
+I like, once you start running ads for clients,
+
+60
+00:02:11.765 --> 00:02:13.575
+once the loads start increasing, you,
+
+61
+00:02:14.075 --> 00:02:16.855
+you start like managing 20, 25 clients per month,
+
+62
+00:02:17.475 --> 00:02:19.135
+you need something more systematic.
+
+63
+00:02:19.195 --> 00:02:22.215
+You can't just be in Slack the moment someone replies.
+
+64
+00:02:22.835 --> 00:02:25.055
+And there are always expect exceptions students.
+
+65
+00:02:25.085 --> 00:02:29.645
+Like for example, I had a client, um, called Michael,
+
+66
+00:02:30.025 --> 00:02:33.165
+um, who has a, a problem client.
+
+67
+00:02:33.545 --> 00:02:36.285
+And, um, that client specifically
+
+68
+00:02:36.515 --> 00:02:40.725
+because it was such a sensitive situation, I always got back
+
+69
+00:02:40.725 --> 00:02:42.165
+to him as soon as he messaged me
+
+70
+00:02:42.165 --> 00:02:44.685
+because he need that much attention and care
+
+71
+00:02:45.025 --> 00:02:46.085
+and opposed to a client,
+
+72
+00:02:46.085 --> 00:02:47.845
+then I'm not saying like there is any client
+
+73
+00:02:47.845 --> 00:02:49.405
+that we shouldn't care as much on
+
+74
+00:02:49.405 --> 00:02:51.245
+because I'll get into communication a bit
+
+75
+00:02:51.245 --> 00:02:53.205
+and now I make sure like all my clients are covered,
+
+76
+00:02:53.385 --> 00:02:56.245
+but some other clients that are doing well, getting calls,
+
+77
+00:02:56.905 --> 00:02:58.965
+uh, they're closing on, uh,
+
+78
+00:02:59.155 --> 00:03:00.645
+from a sales side of things as well.
+
+79
+00:03:01.175 --> 00:03:04.325
+Those type of clients, they can wait like those, uh,
+
+80
+00:03:04.975 --> 00:03:08.485
+3, 4, 5 hours buffer that you, that I have at mean,
+
+81
+00:03:08.485 --> 00:03:11.965
+like client communication blocks until I get back to them.
+
+82
+00:03:12.305 --> 00:03:14.645
+So, uh, I hope I made myself clear
+
+83
+00:03:14.645 --> 00:03:16.085
+because it's a little tricky.
+
+84
+00:03:16.135 --> 00:03:19.885
+There is no client that, uh, that that,
+
+85
+00:03:19.915 --> 00:03:24.405
+that we don't basically care about as, uh, if that,
+
+86
+00:03:24.625 --> 00:03:26.445
+if I implied this in any way, shape,
+
+87
+00:03:26.445 --> 00:03:28.125
+or form, that is not what I meant here.
+
+88
+00:03:28.385 --> 00:03:30.045
+But there are some more clients, as
+
+89
+00:03:30.795 --> 00:03:32.405
+Addison calls them, ICU clients.
+
+90
+00:03:32.695 --> 00:03:35.885
+Those type of clients that need like urgent attention
+
+91
+00:03:36.065 --> 00:03:37.405
+and care, we need to be getting
+
+92
+00:03:37.465 --> 00:03:39.005
+to those clients as soon as possible.
+
+93
+00:03:39.435 --> 00:03:43.045
+Okay, so, uh, let me dive deep into, uh,
+
+94
+00:03:44.265 --> 00:03:46.325
+how my day routine looks like on most days.
+
+95
+00:03:47.065 --> 00:03:51.525
+So, um, I start working at around eight 30, um,
+
+96
+00:03:52.305 --> 00:03:55.885
+and I have, the very first thing I do is I go to Slack,
+
+97
+00:03:56.255 --> 00:03:58.405
+check in all the messages that I've got from clients,
+
+98
+00:03:58.585 --> 00:04:01.005
+get back to every single one record looms.
+
+99
+00:04:01.005 --> 00:04:03.885
+So the ones that I've got, uh, send Cal my calendar
+
+100
+00:04:04.025 --> 00:04:06.325
+to the ones that need to jump on the call.
+
+101
+00:04:06.905 --> 00:04:09.925
+Um, and yeah, that, that basically takes
+
+102
+00:04:09.945 --> 00:04:11.965
+around like an hour, hour and a half.
+
+103
+00:04:12.505 --> 00:04:15.965
+And this is where my first ebook session starts out
+
+104
+00:04:16.105 --> 00:04:18.005
+and I have this blocked out for copy.
+
+105
+00:04:18.585 --> 00:04:22.565
+So I, uh, I usually like write a few pieces
+
+106
+00:04:22.585 --> 00:04:24.765
+of copy in this time slot.
+
+107
+00:04:25.145 --> 00:04:26.845
+Um, now I have this as a reminder,
+
+108
+00:04:27.595 --> 00:04:29.565
+it's not fully blocked on my calendar
+
+109
+00:04:29.565 --> 00:04:31.965
+because some days, like I have one-on-ones with ADD
+
+110
+00:04:32.265 --> 00:04:34.805
+or Kai, so I just have them as reminders,
+
+111
+00:04:34.905 --> 00:04:38.405
+but, uh, no one can book a call with me at this time
+
+112
+00:04:38.405 --> 00:04:40.085
+because it's not available on my calendar.
+
+113
+00:04:40.825 --> 00:04:44.205
+Um, so this kind of takes another two hours.
+
+114
+00:04:44.315 --> 00:04:47.085
+Then I have another one hour block for client communication.
+
+115
+00:04:47.475 --> 00:04:50.365
+This is where I get back to clients that have responded.
+
+116
+00:04:51.085 --> 00:04:55.085
+I send them some messages, uh, I get back to them basically.
+
+117
+00:04:55.315 --> 00:04:59.885
+Then I have this second deep work session, uh, which is, uh,
+
+118
+00:04:59.885 --> 00:05:01.405
+focused on ads at this time.
+
+119
+00:05:01.665 --> 00:05:04.685
+So this whole block, the next four hours are focused on ads.
+
+120
+00:05:05.165 --> 00:05:06.845
+I track track client results.
+
+121
+00:05:07.645 --> 00:05:09.365
+I see how their ad accounts are looking.
+
+122
+00:05:09.645 --> 00:05:11.445
+I launched four new clients that need to launch
+
+123
+00:05:12.305 --> 00:05:14.285
+and, uh, yeah,
+
+124
+00:05:14.605 --> 00:05:16.805
+I basically dedicate like four hours for this.
+
+125
+00:05:17.425 --> 00:05:21.165
+And, um, I have my calendar actually open over here
+
+126
+00:05:21.165 --> 00:05:25.685
+because, um, I can still be able to manage
+
+127
+00:05:25.685 --> 00:05:27.445
+to get the ads were done.
+
+128
+00:05:28.105 --> 00:05:30.925
+And I have the final block over here, like
+
+129
+00:05:30.925 --> 00:05:32.125
+for client communication.
+
+130
+00:05:33.315 --> 00:05:37.605
+This is where like, uh, I unofficially in my working day,
+
+131
+00:05:38.205 --> 00:05:40.845
+I check in with all clients, uh, again,
+
+132
+00:05:41.215 --> 00:05:43.365
+eight hours apart from the first
+
+133
+00:05:43.365 --> 00:05:44.765
+check-in that I did over here.
+
+134
+00:05:46.385 --> 00:05:49.925
+Uh, I respond to all of their messages,
+
+135
+00:05:50.125 --> 00:05:52.325
+I finalize everything by five 30.
+
+136
+00:05:52.565 --> 00:05:53.565
+I should be done with everything
+
+137
+00:05:53.565 --> 00:05:56.205
+and I have this reminder to send my end of day report.
+
+138
+00:05:57.105 --> 00:06:00.005
+And, uh, I actually have a few slots that are open.
+
+139
+00:06:00.145 --> 00:06:04.405
+That's why I said like unofficial, uh, workday ends
+
+140
+00:06:04.405 --> 00:06:07.485
+because I have sometimes slots open for calls only.
+
+141
+00:06:07.965 --> 00:06:10.045
+I usually don't do any work on ads.
+
+142
+00:06:10.075 --> 00:06:12.725
+Obviously, there are sometimes exceptions when you're
+
+143
+00:06:12.725 --> 00:06:15.365
+loaded, when I'm having a hell week where I have to
+
+144
+00:06:16.425 --> 00:06:18.405
+not commit a hundred percent to this schedule.
+
+145
+00:06:19.345 --> 00:06:23.555
+Um, however, to accommodate like some clients
+
+146
+00:06:23.555 --> 00:06:26.235
+with some different time zones, uh, especially
+
+147
+00:06:26.375 --> 00:06:29.675
+for clients in the US who are not able to jump on calls
+
+148
+00:06:29.675 --> 00:06:34.115
+with me, like in my morning, uh, usually like 6:00 PM
+
+149
+00:06:34.575 --> 00:06:38.155
+and, uh, and beyond is
+
+150
+00:06:38.155 --> 00:06:40.035
+where is the time that suits them best.
+
+151
+00:06:40.135 --> 00:06:41.915
+As you can see, like this is where my most
+
+152
+00:06:41.915 --> 00:06:43.235
+of my calls are scheduled.
+
+153
+00:06:43.975 --> 00:06:48.275
+And, uh, on the call specifically, uh,
+
+154
+00:06:48.855 --> 00:06:49.915
+by, okay, let me,
+
+155
+00:06:49.915 --> 00:06:52.195
+before I get into the calls, I just want
+
+156
+00:06:52.195 --> 00:06:54.435
+to go over the very last thing that I do
+
+157
+00:06:55.095 --> 00:06:56.235
+on 12:00 AM my time.
+
+158
+00:06:56.355 --> 00:06:59.195
+I have the fulfillment call with the team.
+
+159
+00:06:59.585 --> 00:07:01.835
+This is the, uh, team call
+
+160
+00:07:01.835 --> 00:07:03.675
+that we all attend, we all go through.
+
+161
+00:07:03.975 --> 00:07:07.555
+And then I have one final client communication block where,
+
+162
+00:07:08.255 --> 00:07:11.555
+uh, this kind of like makes sure all my clients are covered
+
+163
+00:07:11.555 --> 00:07:14.155
+because in this time, um,
+
+164
+00:07:14.615 --> 00:07:16.795
+my US clients would've gotten back to me.
+
+165
+00:07:17.175 --> 00:07:19.035
+My Australian clients are just waking up
+
+166
+00:07:19.035 --> 00:07:21.075
+and some of them could have gotten back to me as well.
+
+167
+00:07:21.415 --> 00:07:22.915
+So that's when I jump in.
+
+168
+00:07:23.035 --> 00:07:25.155
+I send updates, I respond to them as well.
+
+169
+00:07:25.695 --> 00:07:28.595
+And I, I found this like as the best formula
+
+170
+00:07:28.695 --> 00:07:31.075
+to give clients, like the best experience possible
+
+171
+00:07:31.225 --> 00:07:32.915
+because I'm able
+
+172
+00:07:32.915 --> 00:07:35.595
+to check in on them like consistently throughout the day.
+
+173
+00:07:36.255 --> 00:07:40.795
+And best of all, like I found this, uh, this like seven
+
+174
+00:07:40.795 --> 00:07:45.195
+to eight hour workday to still give me the time to jump on
+
+175
+00:07:45.775 --> 00:07:49.035
+one call day with clients for half an hour
+
+176
+00:07:49.175 --> 00:07:51.195
+to an hour depending on
+
+177
+00:07:51.215 --> 00:07:53.635
+how urgent like the client situation is.
+
+178
+00:07:54.175 --> 00:07:57.835
+So, um, for example, this week I try
+
+179
+00:07:57.835 --> 00:08:00.035
+to get on one call per day with each client.
+
+180
+00:08:00.035 --> 00:08:01.435
+Sometimes that's not possible.
+
+181
+00:08:01.475 --> 00:08:03.155
+I have to get on two, uh,
+
+182
+00:08:03.155 --> 00:08:05.115
+but the next day I might not have any calls.
+
+183
+00:08:05.135 --> 00:08:08.715
+So it, it kind of makes up for itself.
+
+184
+00:08:09.255 --> 00:08:12.315
+Uh, however, if I get like only one call per day,
+
+185
+00:08:12.815 --> 00:08:16.195
+if you do the math on it, like on uh, five calls,
+
+186
+00:08:17.695 --> 00:08:21.435
+um, five calls per week on a monthly basis, that's
+
+187
+00:08:21.435 --> 00:08:25.355
+around like 20 calls, I think, um, with clients.
+
+188
+00:08:25.455 --> 00:08:26.595
+So that should be able
+
+189
+00:08:26.595 --> 00:08:28.235
+to help you cover most of your clients.
+
+190
+00:08:28.695 --> 00:08:31.035
+If you, if you follow this one call per day
+
+191
+00:08:31.215 --> 00:08:34.595
+to a t you should be able like to jump on most
+
+192
+00:08:34.595 --> 00:08:38.075
+of your clients every single month on calls to check in
+
+193
+00:08:38.415 --> 00:08:42.955
+and get more, uh, get more feedback from them, see
+
+194
+00:08:42.955 --> 00:08:44.355
+what their real problem is
+
+195
+00:08:44.705 --> 00:08:47.315
+because calls are super important to be honest.
+
+196
+00:08:47.775 --> 00:08:51.555
+Um, and they give you like a real rundown.
+
+197
+00:08:51.655 --> 00:08:53.195
+The clients are more open on calls.
+
+198
+00:08:53.195 --> 00:08:54.795
+They give you like a real rundown
+
+199
+00:08:54.795 --> 00:08:57.245
+of the real problem they're experiencing right now.
+
+200
+00:08:57.865 --> 00:09:00.205
+So yeah, that is what I'm current currently doing.
+
+201
+00:09:00.275 --> 00:09:03.205
+Nothing crazy. As you can see, just reminders already.
+
+202
+00:09:03.715 --> 00:09:05.605
+This is how my day is structured.
+
+203
+00:09:06.185 --> 00:09:10.445
+Um, one call per day with a client, um,
+
+204
+00:09:11.625 --> 00:09:13.925
+two, four or five communication blocks.
+
+205
+00:09:14.945 --> 00:09:16.405
+It could be three or four as well.
+
+206
+00:09:17.025 --> 00:09:21.895
+Um, and, uh, three or four hours that are focused on copy
+
+207
+00:09:22.035 --> 00:09:25.335
+and another three or four hours that are focused on, uh,
+
+208
+00:09:25.915 --> 00:09:26.975
+on running the ads
+
+209
+00:09:26.995 --> 00:09:29.455
+and the ads management tracking results, et cetera.
+
+210
+00:09:30.155 --> 00:09:33.015
+So yeah, that is basically it. I hope this helps. Thanks.

@@ -1,0 +1,76 @@
+﻿What Makes The Perfect Offer
+1. TAM
+We always want to start with the TAM prior to creating your offer as when running ads we need the market we’re going after to be a certain size otherwise we can’t effectively scale.
+
+
+TAM = Total Addressable Market
+
+
+Meaning, how many people are in the market we’re going after.
+
+
+The ideal TAM is more than 30,000 in the US and less than 100,000.
+
+
+We want more than 30,000 so that it gives us some good scale on ads, however, we want less than 100,000 because otherwise our messaging is too broad and we need to narrow it down.
+
+
+If the market you’re planning on going after is above 100,000 then all we need to do is refine our messaging slightly and go after a segment of the market.
+
+
+We can help you with this on your onboarding call if you don’t already have this clearly mapped out.
+
+
+This applies to the niche we’re targeting but more importantly, the revenue level (if B2B).
+
+
+For example: there may be 50,000 coffee businesses in the US but only 10,000 who make more than $500k/year…
+
+
+In this case (if your ideal client is a coffee business making over $500k/year), we would need to expand the niche/call out or go into an adjacent niche which in this instance could be CPG brands.
+
+
+Typically, you can find the TAM of almost any market by searching on Google.
+2. The Outcome
+Once we’ve defined a niche that has a TAM between 30,000 - 100,000, we then need to identify that specific markets (coffee brands making over $500k/year as an example) pre-existing desire.
+
+
+Every market segment has a pre-existing desire. 
+
+
+When we’re creating offers we’re not trying to create desire in the market, we simply need to look at the market segment and find the pre-existing desire and channel that into the offer we make.
+
+
+In other words, you want to optimize your fulfilment (and offer) around your markets pre-existing desires, not try to change the markets desires to fit your fulfilment.
+
+
+We want to ask the question:
+
+
+“If I were to ask every person in this market segment what they want.. what would 80% or more tell me? In other words, what is at the forefront of their mind every day?”
+
+
+The easiest offer framework is: find the markets “broken arm”, take the inverse of that and guarantee that you will give them a big amount of that thing in the immediate future (90-180 days) or they get their money back.
+
+
+Example: Agency owners want more qualified sales calls and $3k/month+ clients that retain for 12 months+ that are also great clients to work with.
+
+
+Our offer: Marketing agencies above $25k/month: we’ll guarantee you 15 new clients per month on your full priced retainer or you don’t pay and I’ll send you $3k for wasting your time.
+
+
+This of course has requirements (as mentioned in the previous training), however, that’s when the logistics/downsell training comes into play.
+
+
+Here’s a more formal way of defining the offer:
+
+
+* Offer (O) = [N + M(V) + T] - R
+   * Niche (N): Targeted market segment.
+   * Metrics (M): Expected results quantified.
+   * Volume (V): Quantity of results.
+   * Timeframe (T): Expected duration for results.
+   * Risk Reversal (R): Assurances to mitigate client risks.
+
+
+Again, all you need to do at this stage is just be thinking about your TAM + offer outcome, you do not need to create this yourself as we will work with you to create the perfect offer on your onboarding call.

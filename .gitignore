@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment / secrets — NEVER commit these
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets/
+
+# Logs
+*.log
+
+# Python / Node (if ever added)
+__pycache__/
+*.pyc
+node_modules/
+.pnpm-store/
+
+# Big local-only stuff
+*.zip
+*.tar.gz
+
+# Old backups can stay local if folder gets large (commented out for now — keep backups synced)
+# backups/
+
+# Claude Code internal files
+.claude/cache/
+.claude/settings.local.json

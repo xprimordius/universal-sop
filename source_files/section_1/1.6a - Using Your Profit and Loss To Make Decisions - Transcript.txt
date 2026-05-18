@@ -1,0 +1,3357 @@
+WEBVTT
+
+1
+00:00:00.105 --> 00:00:00.965
+So welcome to this training.
+
+2
+00:00:01.025 --> 00:00:03.365
+Um, in this one we're gonna be going through using your p
+
+3
+00:00:03.365 --> 00:00:04.365
+and l to make decisions.
+
+4
+00:00:04.365 --> 00:00:05.885
+So obviously in the previous one, we went
+
+5
+00:00:05.885 --> 00:00:06.925
+through this structure here.
+
+6
+00:00:07.565 --> 00:00:10.205
+I wanna make this training now though, right after,
+
+7
+00:00:10.205 --> 00:00:12.045
+because what I don't want you
+
+8
+00:00:12.045 --> 00:00:14.805
+to do is just mindlessly fill this out every month
+
+9
+00:00:15.265 --> 00:00:16.925
+and not actually use it, right?
+
+10
+00:00:17.185 --> 00:00:18.645
+If we don't use this as a tool,
+
+11
+00:00:18.645 --> 00:00:20.245
+there's no point doing it in the first place.
+
+12
+00:00:20.665 --> 00:00:23.565
+And in this video, I want to go through how we actually
+
+13
+00:00:24.405 --> 00:00:26.565
+tangibly use, uh, this tracking,
+
+14
+00:00:26.565 --> 00:00:28.925
+because obviously this gives you great insight into
+
+15
+00:00:28.925 --> 00:00:30.685
+how you're running your op, uh, uh, you know, your
+
+16
+00:00:31.445 --> 00:00:33.445
+NOI your costs and just how healthy you are
+
+17
+00:00:33.445 --> 00:00:34.725
+as a business and whatever else.
+
+18
+00:00:34.985 --> 00:00:37.965
+But it also can show you, and it tells you black
+
+19
+00:00:37.965 --> 00:00:39.925
+and white, what you should be doing next,
+
+20
+00:00:40.135 --> 00:00:41.405
+where you should be putting budget
+
+21
+00:00:41.745 --> 00:00:43.565
+and essentially obviously as well.
+
+22
+00:00:43.915 --> 00:00:46.245
+Another thing, the most common question
+
+23
+00:00:46.245 --> 00:00:49.685
+that I get asked from clients is always, what should I comp?
+
+24
+00:00:49.685 --> 00:00:51.285
+Like, how much should I pay my account manager?
+
+25
+00:00:51.345 --> 00:00:52.205
+How much should I pay my
+
+26
+00:00:52.205 --> 00:00:53.325
+closer? How much should I pay my set?
+
+27
+00:00:53.325 --> 00:00:55.605
+How much should I pay these people, right? For compensation?
+
+28
+00:00:55.905 --> 00:00:58.965
+And every single time I take the client back
+
+29
+00:00:58.965 --> 00:01:00.045
+to their p and l?
+
+30
+00:01:00.195 --> 00:01:03.485
+Because the p and l should influence your comp,
+
+31
+00:01:03.625 --> 00:01:04.645
+how you compensate your team.
+
+32
+00:01:04.825 --> 00:01:06.765
+And again, in this video, I want to go through all
+
+33
+00:01:06.765 --> 00:01:08.645
+of those use cases of the p and l.
+
+34
+00:01:08.645 --> 00:01:10.485
+Okay? So let's jump into it.
+
+35
+00:01:10.745 --> 00:01:13.965
+Um, starting off Fisk, uh, fixed cost versus variable costs.
+
+36
+00:01:14.305 --> 00:01:16.685
+Um, you really only want to introduce fixed costs,
+
+37
+00:01:16.825 --> 00:01:21.605
+in my opinion, as you scale revenue past roughly 150
+
+38
+00:01:21.605 --> 00:01:22.605
+to 200 KA month.
+
+39
+00:01:22.905 --> 00:01:25.325
+Um, where possible, obviously there's certain costs that,
+
+40
+00:01:25.345 --> 00:01:28.165
+uh, you, you can't get out of them not being fixed, right?
+
+41
+00:01:28.165 --> 00:01:29.485
+You can't make certain costs variable.
+
+42
+00:01:29.485 --> 00:01:34.125
+However, um, most of the time, as I say, you only want your,
+
+43
+00:01:34.305 --> 00:01:35.685
+uh, uh, you, you wanna try
+
+44
+00:01:35.685 --> 00:01:37.365
+and just rely on variable cost
+
+45
+00:01:37.655 --> 00:01:39.565
+until you hit about 200 KA month.
+
+46
+00:01:39.865 --> 00:01:42.325
+Um, as I say, most cost
+
+47
+00:01:42.325 --> 00:01:43.605
+before then should be variable so that your p
+
+48
+00:01:43.605 --> 00:01:45.005
+and l doesn't take as much of a hit.
+
+49
+00:01:45.005 --> 00:01:46.805
+For example, account managers should be an
+
+50
+00:01:46.805 --> 00:01:47.965
+amount per client, right?
+
+51
+00:01:48.065 --> 00:01:49.325
+So it's variable. Uh, close
+
+52
+00:01:49.325 --> 00:01:50.645
+and set should be commission only.
+
+53
+00:01:51.045 --> 00:01:53.565
+Variable, uh, cost, uh, um, uh, CSMs,
+
+54
+00:01:53.565 --> 00:01:55.565
+client success managers cost per client, right?
+
+55
+00:01:55.625 --> 00:01:58.165
+So it's variable. Um, I, you know,
+
+56
+00:01:58.275 --> 00:02:00.685
+just recently only now we're at, you know, sort
+
+57
+00:02:00.685 --> 00:02:03.685
+Of just under like, say 500 KA month or so. Um, only
+
+58
+00:02:03.825 --> 00:02:05.445
+Now have I started to introduce,
+
+59
+00:02:05.865 --> 00:02:07.045
+uh, fixed costs every month.
+
+60
+00:02:07.045 --> 00:02:09.085
+For example, we just brought on an internal sales coach.
+
+61
+00:02:09.275 --> 00:02:10.325
+He's a fixed cost.
+
+62
+00:02:10.605 --> 00:02:11.965
+I couldn't really make that work on
+
+63
+00:02:12.205 --> 00:02:13.325
+variable, on a variable structure.
+
+64
+00:02:13.625 --> 00:02:16.245
+So it's a fixed cost, but I've introduced it now
+
+65
+00:02:16.245 --> 00:02:18.245
+because we're at five 80 KA month and I can give him,
+
+66
+00:02:18.865 --> 00:02:20.725
+You know, or whoever It might be, 10,
+
+67
+00:02:20.725 --> 00:02:22.485
+15 grand a month and it's not.
+
+68
+00:02:22.485 --> 00:02:24.965
+And the percentage of my, uh, p
+
+69
+00:02:24.965 --> 00:02:26.205
+and l it's not too bad, right?
+
+70
+00:02:26.205 --> 00:02:28.765
+Whereas if I was to do that at a hundred KA month, then
+
+71
+00:02:28.765 --> 00:02:30.485
+that would've been like 15%,
+
+72
+00:02:30.825 --> 00:02:31.825
+You know what I mean? It's ridiculous.
+
+73
+00:02:31.825 --> 00:02:33.605
+Just there's no way just on a
+
+74
+00:02:33.605 --> 00:02:35.445
+Sales coach excluding all the other fulfillment costs.
+
+75
+00:02:35.785 --> 00:02:38.005
+Um, so, you know, you really wanna try
+
+76
+00:02:38.005 --> 00:02:40.245
+and rely on a variable as much as possible, as I say, on
+
+77
+00:02:40.245 --> 00:02:41.525
+until about 200 KA month.
+
+78
+00:02:42.025 --> 00:02:43.845
+Um, so that's just an overarching
+
+79
+00:02:43.845 --> 00:02:44.885
+concept to be thinking about.
+
+80
+00:02:45.125 --> 00:02:48.605
+I wanna now break this down into departments in terms of
+
+81
+00:02:48.605 --> 00:02:50.085
+how you use the, like, the use cases
+
+82
+00:02:50.105 --> 00:02:51.485
+of the p and l per department.
+
+83
+00:02:51.545 --> 00:02:54.445
+So the goal of your marketing, uh, should be about
+
+84
+00:02:54.445 --> 00:02:56.445
+20% of your p and l should be going
+
+85
+00:02:56.445 --> 00:02:57.445
+To ad spend. When
+
+86
+00:02:57.445 --> 00:03:00.005
+I say marketing, I mean ad spend specifically,
+
+87
+00:03:00.105 --> 00:03:04.125
+no other like, no, um, uh, soft marketing softwares
+
+88
+00:03:04.125 --> 00:03:06.645
+or anything like that should just be ad spend, okay?
+
+89
+00:03:06.945 --> 00:03:08.445
+Um, that should be about 20%.
+
+90
+00:03:08.445 --> 00:03:12.165
+Meaning on the flip side, if you're not at 20% ad spend,
+
+91
+00:03:12.315 --> 00:03:14.525
+then you should be spending more to get it to 20%.
+
+92
+00:03:14.625 --> 00:03:18.125
+You want, you actively want your marketing to be 20%, right?
+
+93
+00:03:18.465 --> 00:03:20.965
+Um, if you can't handle that volume, so say for example,
+
+94
+00:03:20.965 --> 00:03:22.565
+right now you're at 5% of your p
+
+95
+00:03:22.565 --> 00:03:24.565
+and l is, uh, going to ad spend
+
+96
+00:03:24.905 --> 00:03:26.765
+and you are kind of drowning in volume, right?
+
+97
+00:03:26.765 --> 00:03:27.805
+You can't really handle clients,
+
+98
+00:03:27.805 --> 00:03:29.365
+you can't really handle any more sales calls
+
+99
+00:03:29.425 --> 00:03:30.445
+and you're only at 5%.
+
+100
+00:03:30.555 --> 00:03:31.565
+Well then obviously in that instance,
+
+101
+00:03:31.565 --> 00:03:32.805
+you don't wanna then take it to 20%.
+
+102
+00:03:32.925 --> 00:03:34.365
+'cause imagine the volume at 20%, right?
+
+103
+00:03:34.705 --> 00:03:37.525
+Um, so what you would then instead wanna do is if you can't
+
+104
+00:03:37.525 --> 00:03:41.205
+handle the volume, you wanna essentially find the constraint
+
+105
+00:03:41.205 --> 00:03:42.885
+on the backend, why can't you handle the volume,
+
+106
+00:03:43.555 --> 00:03:47.725
+alleviate it, and then increase your ad spend to 20%?
+
+107
+00:03:48.025 --> 00:03:50.645
+So essentially how you tangibly do this is I always ask
+
+108
+00:03:50.645 --> 00:03:52.885
+myself, why can't I double my ad spend tomorrow?
+
+109
+00:03:53.345 --> 00:03:55.445
+Or in other words, why can't I double the volume
+
+110
+00:03:55.445 --> 00:03:57.525
+of new clients that we're closing tomorrow?
+
+111
+00:03:58.305 --> 00:04:01.205
+Why can't we do that? And then whatever your
+
+112
+00:04:01.205 --> 00:04:02.405
+answer is, that's your constraint.
+
+113
+00:04:02.405 --> 00:04:04.365
+So for example, if you ask this question,
+
+114
+00:04:04.385 --> 00:04:05.645
+why can't I double my expense tomorrow?
+
+115
+00:04:06.385 --> 00:04:08.045
+And the answer is, we can't handle
+
+116
+00:04:08.065 --> 00:04:09.285
+double the volume of clients.
+
+117
+00:04:09.875 --> 00:04:11.565
+Okay, great. Obviously, what's your constraint?
+
+118
+00:04:11.565 --> 00:04:12.725
+You need my account managers.
+
+119
+00:04:13.105 --> 00:04:16.685
+Now your focus then becomes hiring more account managers.
+
+120
+00:04:17.025 --> 00:04:19.925
+Um, you know, if you ask that same question, you're like,
+
+121
+00:04:19.945 --> 00:04:22.365
+we can't handle, uh, the volume of sales calls.
+
+122
+00:04:22.565 --> 00:04:24.445
+'cause right now my current closer is pretty packed out.
+
+123
+00:04:24.545 --> 00:04:26.925
+And if we was to double, there's nowhere else
+
+124
+00:04:26.925 --> 00:04:28.285
+for those sales calls to go unless you start
+
+125
+00:04:28.285 --> 00:04:29.445
+booking him like two weeks out.
+
+126
+00:04:29.445 --> 00:04:31.845
+Okay, great. In that instance, you need to hire a closer,
+
+127
+00:04:33.015 --> 00:04:35.725
+maybe, you know, why can't we double our ad spend?
+
+128
+00:04:35.725 --> 00:04:37.645
+Well, our ads are not profitable right now, so if it was
+
+129
+00:04:37.645 --> 00:04:38.965
+to double we're, you know,
+
+130
+00:04:38.965 --> 00:04:40.805
+that's not gonna solve the problem of profitability.
+
+131
+00:04:41.035 --> 00:04:42.285
+Well, again, in that case, we,
+
+132
+00:04:42.305 --> 00:04:43.405
+the reason you can't double your ad
+
+133
+00:04:43.405 --> 00:04:44.525
+spend is because profitability.
+
+134
+00:04:44.715 --> 00:04:45.925
+Well, why are you not profitable?
+
+135
+00:04:45.925 --> 00:04:48.445
+Well, cost per book call is way too high. Okay, great.
+
+136
+00:04:48.545 --> 00:04:51.085
+The constraint is to fix the cost per book call, right?
+
+137
+00:04:51.225 --> 00:04:52.965
+Can you see kind of how asking that question,
+
+138
+00:04:52.965 --> 00:04:54.845
+it's always gonna bring the real constraint to the surface.
+
+139
+00:04:55.145 --> 00:04:57.045
+And then what you then, as the founder or the,
+
+140
+00:04:57.045 --> 00:05:00.005
+or as as the owner, what your job then becomes is, okay,
+
+141
+00:05:00.005 --> 00:05:02.245
+this is the constraint, I need to fix it.
+
+142
+00:05:02.245 --> 00:05:04.205
+And then that becomes your focus for the next one
+
+143
+00:05:04.205 --> 00:05:05.285
+or two weeks or a month,
+
+144
+00:05:05.285 --> 00:05:06.765
+however long it takes you to fix it.
+
+145
+00:05:06.985 --> 00:05:09.565
+And then once you fix it, then you can go back to the ads
+
+146
+00:05:09.565 --> 00:05:11.245
+and go, why can't I double my ad spend?
+
+147
+00:05:11.395 --> 00:05:13.685
+Well, I can, okay, great. Double it, right?
+
+148
+00:05:13.945 --> 00:05:16.285
+And try and get your spend to be 20%.
+
+149
+00:05:16.285 --> 00:05:17.685
+This is how you force scale.
+
+150
+00:05:18.565 --> 00:05:19.765
+A lot of people, they kind of just,
+
+151
+00:05:19.815 --> 00:05:20.845
+every month they don't really
+
+152
+00:05:20.845 --> 00:05:21.965
+know what their goal is for the month.
+
+153
+00:05:21.965 --> 00:05:22.765
+They're kind of just like, oh,
+
+154
+00:05:22.765 --> 00:05:23.885
+let's hope this month's a good month.
+
+155
+00:05:23.985 --> 00:05:25.085
+No, no, you don't want that.
+
+156
+00:05:25.225 --> 00:05:28.925
+You wanna put the scale of your company in the control
+
+157
+00:05:28.925 --> 00:05:31.525
+of your hands, and also you wanna force it.
+
+158
+00:05:31.665 --> 00:05:33.765
+So again, by asking, constantly asking yourself,
+
+159
+00:05:33.965 --> 00:05:35.005
+doubling the spend, why can't I double?
+
+160
+00:05:35.025 --> 00:05:36.605
+Why can't I double? And it's always
+
+161
+00:05:36.605 --> 00:05:37.725
+gonna bring the problem to the surface.
+
+162
+00:05:37.825 --> 00:05:39.085
+You fix it and then you double
+
+163
+00:05:39.305 --> 00:05:40.485
+and then there's gonna be a new problem.
+
+164
+00:05:40.955 --> 00:05:42.725
+When you double, right, it's gonna be a new constraint
+
+165
+00:05:42.725 --> 00:05:43.925
+because now you're at increased scale.
+
+166
+00:05:43.985 --> 00:05:45.285
+So now there's gonna be a new constraint.
+
+167
+00:05:45.285 --> 00:05:46.645
+Well, what's the constraint when you double?
+
+168
+00:05:46.795 --> 00:05:48.565
+Well, now the profitability is decreased.
+
+169
+00:05:48.565 --> 00:05:50.285
+Okay, great, well, let's fix that. Okay, great.
+
+170
+00:05:50.285 --> 00:05:52.205
+Now the profitability is good at the double spend.
+
+171
+00:05:52.355 --> 00:05:54.245
+Well, again, actually set the question, why can't we double?
+
+172
+00:05:54.315 --> 00:05:55.325
+Well, now we can't double
+
+173
+00:05:55.325 --> 00:05:57.805
+because now the volume of clients is way too much.
+
+174
+00:05:57.805 --> 00:05:59.525
+Okay, well, what do I need to do to my fulfillment
+
+175
+00:05:59.525 --> 00:06:01.165
+to handle the increasing volume of clients?
+
+176
+00:06:01.825 --> 00:06:02.845
+And you go from there, right?
+
+177
+00:06:03.545 --> 00:06:05.085
+Um, okay, so that's kind
+
+178
+00:06:05.085 --> 00:06:07.245
+of primarily all I look at with marketing.
+
+179
+00:06:07.245 --> 00:06:08.645
+That's how I use, uh, the p
+
+180
+00:06:08.645 --> 00:06:10.165
+and l is just making sure that the,
+
+181
+00:06:10.265 --> 00:06:11.885
+the ad spend is always 20%.
+
+182
+00:06:11.885 --> 00:06:13.925
+So this, this cost here, ad spend is always
+
+183
+00:06:13.945 --> 00:06:15.365
+around this number here.
+
+184
+00:06:15.505 --> 00:06:17.045
+So for example, this month, if I was
+
+185
+00:06:17.045 --> 00:06:19.725
+to do 25,000 in ad spend, that's only 10%.
+
+186
+00:06:19.835 --> 00:06:21.765
+Well, that's great because now you're really profitable.
+
+187
+00:06:21.765 --> 00:06:22.765
+You did 250 grand
+
+188
+00:06:22.765 --> 00:06:24.845
+with only 25 grand in ad spend, that's great.
+
+189
+00:06:25.145 --> 00:06:27.045
+But next month, if you wanna scale,
+
+190
+00:06:27.235 --> 00:06:28.445
+well then I would really try
+
+191
+00:06:28.445 --> 00:06:31.605
+and push next month, you know, set the projection
+
+192
+00:06:31.785 --> 00:06:33.005
+of 50,000 ad spend
+
+193
+00:06:33.005 --> 00:06:35.405
+because you know that that's gonna then be 20%.
+
+194
+00:06:35.425 --> 00:06:36.925
+And guess what? If you double your ad spend
+
+195
+00:06:37.065 --> 00:06:38.205
+and you was doing 10%
+
+196
+00:06:38.585 --> 00:06:41.205
+and you was doing two 50 revenue, well, if you double it
+
+197
+00:06:41.205 --> 00:06:43.245
+for next month, obviously you're gonna do
+
+198
+00:06:43.245 --> 00:06:44.285
+a lot more revenue, right?
+
+199
+00:06:44.285 --> 00:06:46.525
+Or at least you should. And if you don't,
+
+200
+00:06:46.525 --> 00:06:48.285
+you're still at 20% anyway, which is actually not that bad.
+
+201
+00:06:48.545 --> 00:06:51.565
+Um, and so again, if you was to then project
+
+202
+00:06:51.585 --> 00:06:52.965
+to double your ad spend next month,
+
+203
+00:06:53.105 --> 00:06:55.165
+but then if you look at, like here for example, you're like,
+
+204
+00:06:55.165 --> 00:06:56.245
+oh, my fulfillment is like,
+
+205
+00:06:56.425 --> 00:06:57.885
+that's gonna be really tight if we double.
+
+206
+00:06:57.945 --> 00:06:59.885
+But then again, the focus then should also be
+
+207
+00:06:59.905 --> 00:07:01.085
+hiring an account manager.
+
+208
+00:07:01.185 --> 00:07:02.885
+Now, on the topic of labor and hiring
+
+209
+00:07:02.945 --> 00:07:05.525
+and whatnot, this is the biggest area that you want
+
+210
+00:07:05.525 --> 00:07:06.965
+to be using your p and l, which is why this is
+
+211
+00:07:06.965 --> 00:07:08.325
+like majority of this training.
+
+212
+00:07:08.505 --> 00:07:10.765
+So with the labor,
+
+213
+00:07:10.955 --> 00:07:13.685
+your labor should always be about 20 to 25%.
+
+214
+00:07:13.685 --> 00:07:15.525
+Right now, I believe we're at about 21
+
+215
+00:07:15.525 --> 00:07:17.605
+to 22% on our p and l every month.
+
+216
+00:07:17.985 --> 00:07:20.485
+Um, but that's where you want the, your labor to fall
+
+217
+00:07:20.485 --> 00:07:22.045
+between 20 and 25%.
+
+218
+00:07:23.065 --> 00:07:25.285
+Now, any compensation plan that you roll out,
+
+219
+00:07:25.305 --> 00:07:27.445
+you always wanna start with the following two metrics.
+
+220
+00:07:27.865 --> 00:07:29.285
+The OnTrack turn into the position
+
+221
+00:07:29.985 --> 00:07:31.845
+and the target percent on the p
+
+222
+00:07:31.845 --> 00:07:34.605
+and l, they're the two metrics that you wanna start with.
+
+223
+00:07:34.895 --> 00:07:38.085
+Don't ask yourself like, or,
+
+224
+00:07:38.105 --> 00:07:41.045
+or ask anyone really, how should I pay my account manager?
+
+225
+00:07:41.145 --> 00:07:42.525
+Or how should I pay my closer?
+
+226
+00:07:42.585 --> 00:07:44.965
+Or how much I should say, how much should I pay my closer?
+
+227
+00:07:45.265 --> 00:07:46.525
+No, no, you don't wanna ask that question.
+
+228
+00:07:46.635 --> 00:07:49.085
+What you wanna ask is, what's your on track earnings?
+
+229
+00:07:49.105 --> 00:07:51.445
+So how much do I want them to make each month?
+
+230
+00:07:52.595 --> 00:07:54.685
+Okay, well, I want my closes to make about 15 grand.
+
+231
+00:07:54.885 --> 00:07:56.445
+I want my account managers to make about 10
+
+232
+00:07:56.445 --> 00:07:57.525
+grand, whatever it is, right?
+
+233
+00:07:57.625 --> 00:07:59.205
+How much do I want 'em to make? Okay, great.
+
+234
+00:07:59.345 --> 00:08:01.485
+And then what's the target percent on the p and l?
+
+235
+00:08:01.555 --> 00:08:03.285
+Well, if we look at, at the targets here,
+
+236
+00:08:03.285 --> 00:08:08.125
+I've pa I basically wrote them out, um, we want about 9%.
+
+237
+00:08:08.185 --> 00:08:09.765
+And again, these are not gonna be
+
+238
+00:08:09.935 --> 00:08:11.245
+exact for every model, right?
+
+239
+00:08:11.245 --> 00:08:14.125
+If you have a very, very high ticket, high touch service,
+
+240
+00:08:14.475 --> 00:08:16.485
+then your fulfillment might be a little higher,
+
+241
+00:08:16.705 --> 00:08:18.525
+but then your sales might be a little lower, right?
+
+242
+00:08:18.525 --> 00:08:20.165
+Like you can, you wanna kind of mold this
+
+243
+00:08:20.305 --> 00:08:21.125
+for your own service
+
+244
+00:08:21.145 --> 00:08:22.365
+and your own offering, your own industry.
+
+245
+00:08:22.745 --> 00:08:25.965
+But as a rough rule of thumb, you want your targets
+
+246
+00:08:25.965 --> 00:08:29.685
+to be about 9% fulfillment, 8% sales,
+
+247
+00:08:30.175 --> 00:08:32.085
+3% operations slash marketing,
+
+248
+00:08:32.345 --> 00:08:35.085
+and 5%, you know, for like legal, uh, legal,
+
+249
+00:08:35.085 --> 00:08:36.525
+finance, hr, et cetera.
+
+250
+00:08:36.785 --> 00:08:39.445
+Now, these are the totals for each department, right?
+
+251
+00:08:39.445 --> 00:08:41.325
+That's important to know. This is for each department.
+
+252
+00:08:41.585 --> 00:08:43.485
+Now obviously within fulfillment, fulfillment,
+
+253
+00:08:43.485 --> 00:08:45.805
+you've got account managers, you've got CSMs,
+
+254
+00:08:45.865 --> 00:08:47.525
+you might have some operation type staff,
+
+255
+00:08:47.525 --> 00:08:48.565
+you might have some vass.
+
+256
+00:08:48.675 --> 00:08:50.845
+They all fall, fall under fulfillment.
+
+257
+00:08:50.945 --> 00:08:52.885
+So each position is obviously gonna be much lower.
+
+258
+00:08:52.905 --> 00:08:54.645
+As I say here, each position you hire
+
+259
+00:08:54.665 --> 00:08:57.405
+for will be a sub percent within each target,
+
+260
+00:08:57.505 --> 00:08:58.725
+and that's what you wanna define.
+
+261
+00:08:59.695 --> 00:09:01.465
+Okay? And then just as a quick one here as well,
+
+262
+00:09:01.465 --> 00:09:02.665
+obviously finance, legal,
+
+263
+00:09:02.685 --> 00:09:05.145
+and HR that's on you are only really gonna start
+
+264
+00:09:05.145 --> 00:09:06.265
+to build out these departments.
+
+265
+00:09:06.265 --> 00:09:07.345
+Like we're only starting to build
+
+266
+00:09:07.345 --> 00:09:09.425
+that out now at about a half a million a month.
+
+267
+00:09:09.605 --> 00:09:12.225
+So obviously until you get there, like you, you know,
+
+268
+00:09:12.335 --> 00:09:16.425
+what you can do is you can use this 5% as overflow
+
+269
+00:09:16.795 --> 00:09:19.305
+until you get big enough to have a finance,
+
+270
+00:09:19.705 --> 00:09:21.145
+a legal, a hr, et cetera.
+
+271
+00:09:21.465 --> 00:09:25.305
+'cause if you look at this 9%, 8%, that's 17% plus 3%,
+
+272
+00:09:25.365 --> 00:09:26.385
+that's 20%.
+
+273
+00:09:26.775 --> 00:09:30.385
+Then you've got the 5% here, which as you start to scale,
+
+274
+00:09:30.405 --> 00:09:32.665
+you will need to eat into that extra 5%.
+
+275
+00:09:32.965 --> 00:09:34.385
+Um, but again, as you are
+
+276
+00:09:34.605 --> 00:09:36.065
+before you get to the big enough to
+
+277
+00:09:36.065 --> 00:09:38.985
+where you need these departments, this overflow of the 5%
+
+278
+00:09:39.085 --> 00:09:41.065
+to, to reach the 25, you can use
+
+279
+00:09:41.065 --> 00:09:43.025
+as overflow in these areas here.
+
+280
+00:09:43.025 --> 00:09:46.625
+So you could maybe go 11% fulfillment, 10%, uh, sales,
+
+281
+00:09:46.625 --> 00:09:48.545
+and maybe 4% operations, whatever it is.
+
+282
+00:09:49.805 --> 00:09:51.945
+Uh, yeah, that would work. Okay?
+
+283
+00:09:52.805 --> 00:09:55.025
+So let's go through two examples.
+
+284
+00:09:55.025 --> 00:09:56.385
+We'll do an example for an account manager,
+
+285
+00:09:56.385 --> 00:09:58.625
+and we'll do an example for a closer, okay?
+
+286
+00:09:59.085 --> 00:10:01.585
+So again, for an account manager, you wanna start
+
+287
+00:10:01.585 --> 00:10:03.945
+with these two things on track S and target percent of the p
+
+288
+00:10:03.945 --> 00:10:06.065
+and l, well, the on track s for an account manager, um,
+
+289
+00:10:06.135 --> 00:10:07.865
+it's gonna be about 10 KA month for us.
+
+290
+00:10:07.865 --> 00:10:10.345
+This is ours. Again, you might be a little different,
+
+291
+00:10:10.345 --> 00:10:11.825
+but these are gonna be roughly the numbers.
+
+292
+00:10:12.445 --> 00:10:13.985
+Um, on track turn for an account manager,
+
+293
+00:10:14.045 --> 00:10:15.065
+10, uh, 10 KA month.
+
+294
+00:10:15.645 --> 00:10:17.145
+And I would say the target p
+
+295
+00:10:17.145 --> 00:10:19.025
+and l percent would be about 7%.
+
+296
+00:10:19.695 --> 00:10:21.665
+Okay? Because total
+
+297
+00:10:21.725 --> 00:10:23.025
+for the fulfillment fulfillment
+
+298
+00:10:23.025 --> 00:10:24.105
+department, you want about 9%.
+
+299
+00:10:24.245 --> 00:10:28.305
+So that'll give you about two percentage points for ACSM
+
+300
+00:10:28.325 --> 00:10:30.145
+or for a, uh, you know, like a VA
+
+301
+00:10:30.245 --> 00:10:31.865
+or whatever else you need those for, right?
+
+302
+00:10:33.055 --> 00:10:35.985
+Okay. So the goal then is
+
+303
+00:10:35.985 --> 00:10:38.865
+how do we make the account manager make 10 KA month
+
+304
+00:10:40.045 --> 00:10:42.745
+whilst it's only taking up 7% of the p and l?
+
+305
+00:10:42.855 --> 00:10:44.665
+Well, here's a few ways to break this down.
+
+306
+00:10:45.425 --> 00:10:48.465
+Assuming you have a four KA month price point, well,
+
+307
+00:10:48.525 --> 00:10:49.905
+if you have, say for example,
+
+308
+00:10:50.285 --> 00:10:52.185
+you make the account manager have 30 clients under
+
+309
+00:10:52.185 --> 00:10:55.105
+management at $335 per client,
+
+310
+00:10:55.695 --> 00:10:57.385
+that'll equal 10 KA month.
+
+311
+00:10:57.855 --> 00:10:59.905
+Okay? Now, that will also be,
+
+312
+00:10:59.905 --> 00:11:01.185
+if you have a four KA month price point,
+
+313
+00:11:01.215 --> 00:11:04.545
+that will also be 8% of the p and l.
+
+314
+00:11:05.525 --> 00:11:08.025
+That's a little high, okay? That's a little bit high.
+
+315
+00:11:08.605 --> 00:11:10.985
+Now, what you could also do, okay, well, if
+
+316
+00:11:10.985 --> 00:11:12.425
+that's a little high, how can we change
+
+317
+00:11:12.455 --> 00:11:14.025
+this to make it make sense?
+
+318
+00:11:14.295 --> 00:11:17.065
+Well, what you could do instead is go 35 clients under
+
+319
+00:11:17.065 --> 00:11:21.145
+management at 285 per client is your 10 K,
+
+320
+00:11:23.045 --> 00:11:25.345
+and now that's only 7% of the p and l,
+
+321
+00:11:25.345 --> 00:11:28.385
+because now it's only 285 per client on a four K month price
+
+322
+00:11:28.385 --> 00:11:30.785
+point, as opposed to th 335 on a
+
+323
+00:11:30.785 --> 00:11:32.105
+four K per month price point.
+
+324
+00:11:32.365 --> 00:11:34.145
+You see how though, we got the same outcome,
+
+325
+00:11:34.725 --> 00:11:37.265
+but we just achieved the outcome in a different way,
+
+326
+00:11:37.715 --> 00:11:41.025
+which ultimately made it more profitable on the p and l.
+
+327
+00:11:42.005 --> 00:11:43.425
+That's how you need to be thinking
+
+328
+00:11:43.605 --> 00:11:45.545
+to compensate any of your team members.
+
+329
+00:11:45.645 --> 00:11:46.905
+I'm using an account manager here,
+
+330
+00:11:47.045 --> 00:11:49.065
+but you can do this for closes, for setters,
+
+331
+00:11:49.245 --> 00:11:50.785
+for anyone, doesn't matter.
+
+332
+00:11:51.415 --> 00:11:53.105
+This is how you need to be thinking. Okay?
+
+333
+00:11:53.625 --> 00:11:54.845
+Uh, now as a side note here,
+
+334
+00:11:54.845 --> 00:11:56.645
+if you can't make these numbers work without requiring your
+
+335
+00:11:56.645 --> 00:11:58.805
+account managers to handle too many clients, obviously,
+
+336
+00:11:58.805 --> 00:12:00.605
+where client results and client experience decrease,
+
+337
+00:12:00.835 --> 00:12:02.365
+then you can always increase your
+
+338
+00:12:02.365 --> 00:12:03.805
+prices to make it make sense.
+
+339
+00:12:03.865 --> 00:12:04.885
+So here's another example.
+
+340
+00:12:05.145 --> 00:12:06.365
+If you was to increase your price
+
+341
+00:12:06.425 --> 00:12:09.965
+or your retainer from four k per month to 5.5 KA month,
+
+342
+00:12:09.965 --> 00:12:12.245
+which is really not that hard to do, if you are,
+
+343
+00:12:12.245 --> 00:12:14.605
+if you're slinging in four KA month deals, you'll be able
+
+344
+00:12:14.605 --> 00:12:15.845
+to hit 5.5 no problem.
+
+345
+00:12:16.945 --> 00:12:19.125
+Um, here's the method at that point, okay?
+
+346
+00:12:19.465 --> 00:12:21.805
+So you could then drop, if it was to increase your price,
+
+347
+00:12:22.105 --> 00:12:23.485
+you could drop your, um,
+
+348
+00:12:23.545 --> 00:12:25.005
+the clients under management required
+
+349
+00:12:25.065 --> 00:12:27.605
+to 25 clients under management for an account manager
+
+350
+00:12:28.705 --> 00:12:30.325
+at 400 per client.
+
+351
+00:12:30.985 --> 00:12:33.085
+And again, that's still 10 KA month,
+
+352
+00:12:33.745 --> 00:12:36.085
+and that's only 7.2% on your p
+
+353
+00:12:36.085 --> 00:12:39.565
+and l, which has basically hit the goal of 7% on the p
+
+354
+00:12:39.565 --> 00:12:42.125
+and l, but now your account manager only requires,
+
+355
+00:12:42.185 --> 00:12:44.885
+is only required to handle 25 clients as opposed to,
+
+356
+00:12:44.885 --> 00:12:46.605
+in this instance, handling 35 clients.
+
+357
+00:12:47.555 --> 00:12:49.885
+Does that make sense? Because obviously, I understand
+
+358
+00:12:49.885 --> 00:12:52.965
+for some industries, and for some offers like 35 clients is
+
+359
+00:12:52.965 --> 00:12:55.645
+gonna be extremely, uh, difficult to handle
+
+360
+00:12:55.705 --> 00:12:56.725
+for one account manager.
+
+361
+00:12:57.355 --> 00:12:58.805
+Well, then you can drop it by 10.
+
+362
+00:12:58.805 --> 00:13:03.045
+Clients still make 10 KA month, and it's only 7.2% of the p
+
+363
+00:13:03.045 --> 00:13:04.645
+and l just by increasing your pricing,
+
+364
+00:13:04.645 --> 00:13:06.125
+because now you're able to, uh,
+
+365
+00:13:06.125 --> 00:13:08.205
+give your account managers 400 per client,
+
+366
+00:13:08.345 --> 00:13:11.325
+and that's only obviously 7.2% of 5.5 k.
+
+367
+00:13:11.635 --> 00:13:13.765
+Does that make sense? Obviously, if you then take this
+
+368
+00:13:13.765 --> 00:13:15.485
+to six KA month, you know, you can see
+
+369
+00:13:15.485 --> 00:13:16.725
+how those numbers will change as well.
+
+370
+00:13:17.465 --> 00:13:20.165
+So hopefully that makes sense in terms of how, again,
+
+371
+00:13:20.165 --> 00:13:22.645
+how you need to be thinking about compensating your team
+
+372
+00:13:22.665 --> 00:13:24.965
+and what compensation plan you provide to the team.
+
+373
+00:13:25.465 --> 00:13:27.125
+Um, there was one other thing I was gonna say
+
+374
+00:13:27.125 --> 00:13:31.645
+as well on here, which was, um, hang on,
+
+375
+00:13:31.645 --> 00:13:32.845
+let me quickly go through.
+
+376
+00:13:33.065 --> 00:13:35.205
+So just do your other consideration real quick on this
+
+377
+00:13:35.205 --> 00:13:38.485
+as well, is if you have a, for example, right,
+
+378
+00:13:38.515 --> 00:13:39.565
+your cha target, uh,
+
+379
+00:13:39.565 --> 00:13:41.765
+you're charging your clients 1500 a month,
+
+380
+00:13:42.025 --> 00:13:43.165
+you might be looking at this right now
+
+381
+00:13:43.185 --> 00:13:46.485
+and being like, how on earth am I gonna be able
+
+382
+00:13:46.485 --> 00:13:49.125
+to charge my clients 5.5 KA month when, you know,
+
+383
+00:13:49.205 --> 00:13:51.045
+I can't even charge more than two KA month, right?
+
+384
+00:13:51.045 --> 00:13:53.605
+For my service? Well, if that's you, then most likely
+
+385
+00:13:53.635 --> 00:13:56.565
+what your service is is probably a lower touch service.
+
+386
+00:13:57.145 --> 00:13:59.085
+And it's probably maybe not as valuable
+
+387
+00:13:59.225 --> 00:14:00.845
+as maybe a seven KA month service is.
+
+388
+00:14:00.845 --> 00:14:02.605
+Maybe you're only generating your clients an extra
+
+389
+00:14:02.605 --> 00:14:03.885
+10 K or 20 KA month.
+
+390
+00:14:03.885 --> 00:14:05.805
+Maybe you have a social media management agency
+
+391
+00:14:05.805 --> 00:14:08.085
+where there's no direct revenue associated
+
+392
+00:14:08.085 --> 00:14:09.205
+to what you're providing your clients.
+
+393
+00:14:09.385 --> 00:14:11.245
+By extension, you can only charge a certain amount.
+
+394
+00:14:11.265 --> 00:14:12.885
+You can't charge seven KA month
+
+395
+00:14:12.885 --> 00:14:13.925
+to make this make sense, right?
+
+396
+00:14:14.425 --> 00:14:15.525
+So you've got a low touch service
+
+397
+00:14:15.825 --> 00:14:17.125
+and your, you know, your, uh,
+
+398
+00:14:17.125 --> 00:14:19.485
+retainer is maybe only a th even it's a thousand
+
+399
+00:14:19.485 --> 00:14:20.965
+or 1500 a month, and you're like,
+
+400
+00:14:20.965 --> 00:14:22.245
+there's no way I can increase price.
+
+401
+00:14:22.425 --> 00:14:26.005
+You gotta realize with that, again,
+
+402
+00:14:26.005 --> 00:14:27.205
+this is why the framework of
+
+403
+00:14:27.205 --> 00:14:28.165
+what I'm talking about is more
+
+404
+00:14:28.165 --> 00:14:29.365
+important than, than the numbers.
+
+405
+00:14:29.365 --> 00:14:32.965
+Because with that, well then obviously seven,
+
+406
+00:14:33.545 --> 00:14:37.245
+if we do the math right, if you charge in 1500 times 0.07,
+
+407
+00:14:37.585 --> 00:14:40.285
+so that's 7%, that's only 105 per client.
+
+408
+00:14:40.555 --> 00:14:43.285
+Here, I've just done an example of charging 400 per client.
+
+409
+00:14:43.425 --> 00:14:45.645
+You can only charge, you can only really give your account
+
+410
+00:14:45.645 --> 00:14:47.125
+managers 25% of this number.
+
+411
+00:14:47.555 --> 00:14:50.605
+Well, the thing is though, is if you're only
+
+412
+00:14:50.675 --> 00:14:53.245
+Able really max to give your, um,
+
+413
+00:14:53.245 --> 00:14:56.805
+account managers $105 based on 7% of your p
+
+414
+00:14:56.805 --> 00:14:59.325
+and l per client, here's the thing.
+
+415
+00:14:59.625 --> 00:15:00.845
+If it's a lower touch service
+
+416
+00:15:00.905 --> 00:15:02.765
+and you're not able to charge as much, then
+
+417
+00:15:02.765 --> 00:15:06.845
+by extension it means that you are probably most likely, um,
+
+418
+00:15:07.745 --> 00:15:10.445
+not doing as much for your clients, which then
+
+419
+00:15:10.465 --> 00:15:11.525
+by extension means
+
+420
+00:15:11.595 --> 00:15:14.205
+that your account managers cannot handle 25 clients.
+
+421
+00:15:14.355 --> 00:15:18.085
+They could maybe handle 75 clients or 80 clients,
+
+422
+00:15:18.105 --> 00:15:20.245
+or 85, they could handle so much more clients
+
+423
+00:15:20.245 --> 00:15:23.045
+because the input per client is probably so much lower,
+
+424
+00:15:23.175 --> 00:15:25.165
+which is also the reason why you're charging so much lower
+
+425
+00:15:25.165 --> 00:15:25.845
+because you're not actually
+
+426
+00:15:25.845 --> 00:15:27.045
+doing that much for your clients.
+
+427
+00:15:27.075 --> 00:15:29.125
+Does that make sense? And so now, you know,
+
+428
+00:15:29.125 --> 00:15:30.205
+you might then go, okay,
+
+429
+00:15:30.205 --> 00:15:32.005
+well they can actually handle 85 clients.
+
+430
+00:15:32.365 --> 00:15:34.325
+'cause really all we're doing is X, Y, Z.
+
+431
+00:15:34.425 --> 00:15:36.405
+And maybe you could look at how could we incorporate AI
+
+432
+00:15:36.405 --> 00:15:37.525
+to increase the efficiency,
+
+433
+00:15:37.585 --> 00:15:38.725
+you know, all these types of things.
+
+434
+00:15:38.905 --> 00:15:41.325
+And now you realize actually they can, they can handle, uh,
+
+435
+00:15:41.365 --> 00:15:42.645
+a, um, 85 clients.
+
+436
+00:15:43.305 --> 00:15:44.645
+But if you can handle 85 clients,
+
+437
+00:15:44.825 --> 00:15:47.205
+and again, maintaining your 7% on the p
+
+438
+00:15:47.205 --> 00:15:48.565
+and l, which was in, you know,
+
+439
+00:15:48.565 --> 00:15:50.405
+if you're charging 1500, that'll be 105.
+
+440
+00:15:50.715 --> 00:15:53.805
+Well, 85 clients at 105 per client is actually
+
+441
+00:15:53.805 --> 00:15:55.845
+8,909 KA month.
+
+442
+00:15:56.545 --> 00:15:59.645
+So again, you are achieving the same outcome
+
+443
+00:15:59.645 --> 00:16:02.965
+of a TE 9, 8, 9, 10, 11 KA month account manager
+
+444
+00:16:03.745 --> 00:16:06.045
+whilst maintaining the 7% on your p
+
+445
+00:16:06.045 --> 00:16:08.325
+and l in this example, right?
+
+446
+00:16:08.505 --> 00:16:09.925
+And then again, on the flip side,
+
+447
+00:16:10.145 --> 00:16:11.645
+you might be looking at this and being think
+
+448
+00:16:11.665 --> 00:16:15.965
+and thinking there is not a chance in hell that these client
+
+449
+00:16:15.965 --> 00:16:19.645
+that my, um, account managers are ever gonna be able
+
+450
+00:16:19.645 --> 00:16:22.205
+to handle 25 clients under management per account manager.
+
+451
+00:16:22.425 --> 00:16:25.605
+You might be thinking that there is no way, well, again,
+
+452
+00:16:26.105 --> 00:16:29.005
+that's okay because if that is the case, then that means
+
+453
+00:16:29.005 --> 00:16:31.965
+that your account managers are doing so much work per client
+
+454
+00:16:32.985 --> 00:16:35.125
+to where you, you know, they're doing so much
+
+455
+00:16:35.125 --> 00:16:37.165
+that you're probably charging your clients a lot more
+
+456
+00:16:37.165 --> 00:16:38.885
+because the import per client is so much more,
+
+457
+00:16:38.985 --> 00:16:40.605
+and probably the value you're creating
+
+458
+00:16:40.625 --> 00:16:42.325
+for your clients is so much more.
+
+459
+00:16:42.505 --> 00:16:44.245
+So then again, if you was to then maybe say,
+
+460
+00:16:44.345 --> 00:16:48.605
+my account managers can only handle 10 clients, uh, per, uh,
+
+461
+00:16:48.785 --> 00:16:52.765
+per, uh, per account manager, um, well then, okay, in
+
+462
+00:16:52.765 --> 00:16:53.885
+that instance then, you know,
+
+463
+00:16:53.885 --> 00:16:55.885
+you're probably charging a whole lot more
+
+464
+00:16:55.885 --> 00:16:57.605
+because the input per client is so much.
+
+465
+00:16:57.745 --> 00:16:59.885
+So then maybe you're charging, let's say for example,
+
+466
+00:16:59.885 --> 00:17:01.365
+you're charging your clients, um,
+
+467
+00:17:01.585 --> 00:17:03.725
+say 15,000 a month as your retainer.
+
+468
+00:17:03.785 --> 00:17:05.445
+You know, we have a couple clients doing this, right?
+
+469
+00:17:05.445 --> 00:17:06.565
+15,000 a month retainer.
+
+470
+00:17:06.565 --> 00:17:11.285
+Well, again, seven point, uh, 7% of 15,000 is 1,050 a month.
+
+471
+00:17:12.595 --> 00:17:15.805
+Okay? Still 7% still the same profitability on the p
+
+472
+00:17:15.805 --> 00:17:16.925
+and l 1,050.
+
+473
+00:17:17.265 --> 00:17:19.005
+So then again, obviously if they're charging, um,
+
+474
+00:17:19.005 --> 00:17:21.205
+if they're handling 10 clients, well, I,
+
+475
+00:17:21.365 --> 00:17:22.885
+I just randomly came up with this example,
+
+476
+00:17:22.905 --> 00:17:25.445
+but there's exactly the same 10,000 a month
+
+477
+00:17:25.865 --> 00:17:27.445
+and now they're only charging, uh,
+
+478
+00:17:27.445 --> 00:17:29.805
+they're only handling 10 clients under management at
+
+479
+00:17:29.905 --> 00:17:31.005
+10 50 per client.
+
+480
+00:17:31.265 --> 00:17:34.565
+That's still the same 10 K and it's still your 7%.
+
+481
+00:17:35.505 --> 00:17:37.605
+Now, one of the thing I want to, uh,
+
+482
+00:17:37.605 --> 00:17:39.805
+the other consideration I just wanna quickly mention on this
+
+483
+00:17:40.145 --> 00:17:41.845
+is that if you're looking at your numbers
+
+484
+00:17:41.945 --> 00:17:43.725
+and you're like, this doesn't, doesn't make sense.
+
+485
+00:17:43.885 --> 00:17:48.045
+I can only charge my clients, um, say two KA month
+
+486
+00:17:49.065 --> 00:17:51.965
+and my account managers can only handle 10 clients.
+
+487
+00:17:51.965 --> 00:17:53.525
+They can't handle any more than 10 clients
+
+488
+00:17:53.785 --> 00:17:55.165
+and they can only handle, uh,
+
+489
+00:17:55.165 --> 00:17:57.205
+and I'm, I can only charge them 2000.
+
+490
+00:17:57.425 --> 00:17:59.805
+And so 7% of 2000 is say like one 50
+
+491
+00:18:00.065 --> 00:18:01.485
+and they can only handle 10 clients.
+
+492
+00:18:01.555 --> 00:18:03.285
+Well, now they're only gonna make 1,050.
+
+493
+00:18:03.675 --> 00:18:06.765
+Like that's not obviously a, a good, uh,
+
+494
+00:18:07.185 --> 00:18:08.685
+um, a good on tracked earnings.
+
+495
+00:18:08.685 --> 00:18:09.845
+Like there is no way, like,
+
+496
+00:18:09.845 --> 00:18:12.365
+if you physically can't mathematically make it make sense,
+
+497
+00:18:12.755 --> 00:18:15.485
+well then you've got a problem with the model overall
+
+498
+00:18:15.485 --> 00:18:16.965
+because they should, the, the,
+
+499
+00:18:17.025 --> 00:18:18.885
+if you're charging a lot less, they should,
+
+500
+00:18:18.885 --> 00:18:20.645
+account managers should be able to handle a lot more.
+
+501
+00:18:20.745 --> 00:18:22.845
+If you, if you, if account managers can't handle that much,
+
+502
+00:18:22.995 --> 00:18:24.765
+then they should be in terms of client volume,
+
+503
+00:18:24.835 --> 00:18:26.525
+then you should be charging a whole lot more.
+
+504
+00:18:26.625 --> 00:18:29.125
+Now if you, if you can't make that work,
+
+505
+00:18:29.355 --> 00:18:30.765
+then you've got a bigger issue
+
+506
+00:18:30.765 --> 00:18:33.245
+that probably I would like you to tag me in Slack,
+
+507
+00:18:33.385 --> 00:18:34.405
+we can jump on a call
+
+508
+00:18:34.505 --> 00:18:36.565
+and we can really figure out what's going on there.
+
+509
+00:18:36.705 --> 00:18:38.885
+And this is also another reason why e-comm is such a
+
+510
+00:18:39.005 --> 00:18:42.245
+terrible industry because, um, what you'll find is most
+
+511
+00:18:42.245 --> 00:18:45.525
+of the time in e-comm, you can really only ch
+
+512
+00:18:45.525 --> 00:18:46.965
+unless you're like a big agency
+
+513
+00:18:46.965 --> 00:18:49.005
+and you're doing a lot of really like valuable work
+
+514
+00:18:49.005 --> 00:18:51.925
+for clients, like, you know, you can charge say 10 k, 15 k,
+
+515
+00:18:51.925 --> 00:18:52.965
+20 KA month or whatnot.
+
+516
+00:18:53.265 --> 00:18:56.245
+Um, but if you're like just the standard, you know,
+
+517
+00:18:56.245 --> 00:18:58.605
+basic Facebook ads for e-com agencies, then most
+
+518
+00:18:58.605 --> 00:19:01.805
+of the time we do see a pretty hard cap on like say
+
+519
+00:19:01.995 --> 00:19:04.125
+4, 5, 6 KA month retainers, right?
+
+520
+00:19:04.125 --> 00:19:06.325
+With e-com. Now the problem is, is that
+
+521
+00:19:06.325 --> 00:19:08.365
+because e-comm is so tailored, the delivery is
+
+522
+00:19:08.365 --> 00:19:09.565
+so difficult to make it work.
+
+523
+00:19:09.865 --> 00:19:12.365
+You again, account managers can really only make, uh,
+
+524
+00:19:12.475 --> 00:19:16.005
+they can really only handle 10, 12, 15 clients maybe max,
+
+525
+00:19:16.225 --> 00:19:18.645
+but you can't charge any more than maybe 3, 4, 5 KA month.
+
+526
+00:19:18.865 --> 00:19:21.365
+And so then that's again where the model just fundamentally
+
+527
+00:19:21.365 --> 00:19:23.245
+breaks and you need to change something up,
+
+528
+00:19:23.245 --> 00:19:24.725
+either your service or your niche.
+
+529
+00:19:25.305 --> 00:19:27.485
+And obviously if you're an eComm, you know, to, well,
+
+530
+00:19:27.485 --> 00:19:28.565
+you should be changing your niche.
+
+531
+00:19:28.865 --> 00:19:30.885
+Um, anyway, that's account managers.
+
+532
+00:19:30.905 --> 00:19:33.525
+Now, just quickly on this as well, um, your job,
+
+533
+00:19:33.595 --> 00:19:34.605
+once you've figured this out,
+
+534
+00:19:34.605 --> 00:19:37.045
+your job then becomes hiring their right account managers
+
+535
+00:19:37.225 --> 00:19:39.085
+and equipping them correctly to be able
+
+536
+00:19:39.085 --> 00:19:40.685
+to handle the required number of clients.
+
+537
+00:19:40.905 --> 00:19:42.805
+So like, you know, to handle, in this case, for example,
+
+538
+00:19:42.805 --> 00:19:45.405
+35 clients under management, that's difficult.
+
+539
+00:19:45.665 --> 00:19:48.845
+And so your job as the owner, as the founder then becomes
+
+540
+00:19:49.385 --> 00:19:52.445
+how, like, how can I equip my account managers with
+
+541
+00:19:52.445 --> 00:19:53.845
+what they need to be able
+
+542
+00:19:53.845 --> 00:19:56.005
+to handle 35 account, uh, accounts at once?
+
+543
+00:19:56.185 --> 00:19:57.925
+And also, obviously the other big thing as well is
+
+544
+00:19:58.145 --> 00:20:00.885
+how can I find the right people who can handle this as well?
+
+545
+00:20:01.025 --> 00:20:03.125
+And then obviously once I hire them, then
+
+546
+00:20:03.305 --> 00:20:05.245
+how can I train them up in the best way possible?
+
+547
+00:20:05.245 --> 00:20:06.725
+And that's obviously where we go. I'll go
+
+548
+00:20:06.725 --> 00:20:08.605
+through the onboarding and ramp and the fulfillment,
+
+549
+00:20:08.805 --> 00:20:10.325
+scalable fulfillment stuff later in the training.
+
+550
+00:20:11.105 --> 00:20:12.885
+Um, but yeah, that's how you wanna use that in
+
+551
+00:20:12.885 --> 00:20:14.005
+that instance a closer.
+
+552
+00:20:14.075 --> 00:20:15.165
+This is pretty simple as well.
+
+553
+00:20:15.585 --> 00:20:18.365
+Um, a closer, again, you wanna start with OnTrack earnings
+
+554
+00:20:18.365 --> 00:20:19.405
+and the target p and l percent.
+
+555
+00:20:19.405 --> 00:20:22.325
+So in this instance, for a close of specifically, um,
+
+556
+00:20:22.565 --> 00:20:25.125
+I would say about maybe 15 KA month is a really good
+
+557
+00:20:25.125 --> 00:20:26.405
+attractive OnTrack earnings.
+
+558
+00:20:26.745 --> 00:20:28.565
+Um, and the target p
+
+559
+00:20:28.565 --> 00:20:30.445
+and l percent, ideally for a close should be
+
+560
+00:20:30.445 --> 00:20:31.525
+about 5% every month.
+
+561
+00:20:31.905 --> 00:20:34.005
+Now this does not mean commission,
+
+562
+00:20:34.665 --> 00:20:36.885
+you can do 10% commission as we'll get into here.
+
+563
+00:20:37.145 --> 00:20:39.965
+And still it's only 5% or so on the p and l.
+
+564
+00:20:39.985 --> 00:20:41.045
+Reason being is
+
+565
+00:20:41.045 --> 00:20:45.485
+because if you look at this, um, well in this, in, uh,
+
+566
+00:20:45.615 --> 00:20:46.885
+sorry, where's sales labor?
+
+567
+00:20:47.095 --> 00:20:50.325
+Sales labor is here. You see this in this, in this example,
+
+568
+00:20:50.785 --> 00:20:54.765
+the, um, closers is 6.38%.
+
+569
+00:20:55.075 --> 00:20:56.645
+Well, how does that work if these closers
+
+570
+00:20:56.645 --> 00:20:57.725
+are getting 10% commission?
+
+571
+00:20:57.795 --> 00:21:00.245
+Well, it works because they only get commission on the new
+
+572
+00:21:00.245 --> 00:21:01.445
+revenue that they close, right?
+
+573
+00:21:01.445 --> 00:21:03.445
+Or the new cash that they collect that for
+
+574
+00:21:03.445 --> 00:21:05.045
+that month on the new clients that sign,
+
+575
+00:21:05.435 --> 00:21:08.045
+they don't get commission on all the retainer clients.
+
+576
+00:21:08.185 --> 00:21:10.125
+And so the retainer clients bumps up the revenue
+
+577
+00:21:10.545 --> 00:21:12.605
+and the, the, you know, the 10%, if it was only
+
+578
+00:21:12.605 --> 00:21:13.645
+to close the new clients,
+
+579
+00:21:13.785 --> 00:21:15.725
+the 10% will be 10% on the p and l.
+
+580
+00:21:15.825 --> 00:21:16.845
+But if you factor in all
+
+581
+00:21:16.845 --> 00:21:19.365
+of your ar your accounts receivable, your retainer clients,
+
+582
+00:21:19.425 --> 00:21:20.605
+that's gonna then bump it up,
+
+583
+00:21:20.605 --> 00:21:22.405
+which then brings this down to a lower percentage.
+
+584
+00:21:22.405 --> 00:21:25.165
+Does that make sense? Um, so just quickly on that,
+
+585
+00:21:25.865 --> 00:21:29.325
+now in this instance, again, 15 KA month commission,
+
+586
+00:21:29.555 --> 00:21:30.565
+5% target p
+
+587
+00:21:30.565 --> 00:21:31.925
+and l percent, well assuming a
+
+588
+00:21:31.925 --> 00:21:33.005
+five KA month price point, right?
+
+589
+00:21:33.005 --> 00:21:35.245
+So a 20 k package for four months, which is
+
+590
+00:21:35.245 --> 00:21:36.645
+what you would want your closers to be selling,
+
+591
+00:21:36.665 --> 00:21:39.085
+you wouldn't want your closers to be selling five KA month.
+
+592
+00:21:39.105 --> 00:21:41.645
+You would want them to sell 20 K for four months, right?
+
+593
+00:21:41.645 --> 00:21:43.005
+Like, like what we do, right?
+
+594
+00:21:43.075 --> 00:21:44.565
+Because then they get commissioned on the
+
+595
+00:21:44.565 --> 00:21:45.725
+20 K as opposed to the five K.
+
+596
+00:21:45.845 --> 00:21:47.445
+'cause you won't be able to make the numbers work.
+
+597
+00:21:47.445 --> 00:21:49.965
+The economics work on only a five K price point.
+
+598
+00:21:49.975 --> 00:21:52.165
+You'd have to do a package like this.
+
+599
+00:21:53.065 --> 00:21:55.605
+So again, in this instance, a hundred calls a month, okay?
+
+600
+00:21:55.605 --> 00:21:57.125
+Which is basically five per day.
+
+601
+00:21:57.125 --> 00:22:00.765
+Monday to Friday, roughly a hundred calls a month at 25%
+
+602
+00:22:00.765 --> 00:22:02.525
+close rate would be 25 new clients.
+
+603
+00:22:03.025 --> 00:22:04.645
+Now, in this instance, this would equal,
+
+604
+00:22:05.245 --> 00:22:08.165
+assuming you know this price point here, 250 K,
+
+605
+00:22:08.945 --> 00:22:10.805
+uh, that's not right.
+
+606
+00:22:10.805 --> 00:22:12.245
+Hang on, let me redo this.
+
+607
+00:22:12.755 --> 00:22:14.085
+Okay, I did the math wrong initially.
+
+608
+00:22:14.145 --> 00:22:17.645
+So, um, 25% close rate would be 25 new clients
+
+609
+00:22:17.645 --> 00:22:18.645
+with a hundred calls on a month.
+
+610
+00:22:18.675 --> 00:22:20.325
+That would equal, assuming
+
+611
+00:22:20.515 --> 00:22:22.725
+that they're selling the 20 K package for four months,
+
+612
+00:22:22.835 --> 00:22:24.965
+that would equal 500 K in new revenue.
+
+613
+00:22:25.505 --> 00:22:27.525
+Um, and let's say for example, they have a,
+
+614
+00:22:27.755 --> 00:22:31.165
+this is very low, uh, upfront cash collected of only 25%.
+
+615
+00:22:31.165 --> 00:22:35.085
+Well, that would be 125,000 cash collected. Okay?
+
+616
+00:22:35.405 --> 00:22:39.765
+'cause you, they'll collect 500, uh, divided by,
+
+617
+00:22:40.625 --> 00:22:45.205
+um, 25% is your 1 25 cash collected.
+
+618
+00:22:45.235 --> 00:22:48.205
+Okay? Now that would then equal, um,
+
+619
+00:22:49.785 --> 00:22:51.765
+12.5 K commission for the closer.
+
+620
+00:22:51.965 --> 00:22:53.485
+'cause they only get commissioned on if this is,
+
+621
+00:22:53.485 --> 00:22:55.365
+if you were doing 10%, uh, commission, right?
+
+622
+00:22:55.705 --> 00:23:00.525
+So that would be, uh, yeah, that would be, um, 12.5,
+
+623
+00:23:00.825 --> 00:23:05.125
+uh, 12.5 K commission on the cash collected,
+
+624
+00:23:05.635 --> 00:23:06.845
+excluding their recurring
+
+625
+00:23:06.845 --> 00:23:07.965
+commissions from the previous months.
+
+626
+00:23:08.305 --> 00:23:11.445
+Um, which would then equal 10% on the p
+
+627
+00:23:11.445 --> 00:23:13.005
+and l of new cash collected.
+
+628
+00:23:13.705 --> 00:23:17.365
+So now in this example, all you would need
+
+629
+00:23:19.145 --> 00:23:21.725
+is, I, I might just make a note here as well.
+
+630
+00:23:22.465 --> 00:23:26.445
+Uh, 'cause I realized I didn't, assuming 10%
+
+631
+00:23:27.015 --> 00:23:30.805
+commission just to make that clear.
+
+632
+00:23:31.465 --> 00:23:33.045
+Um, so now all you would need in this case
+
+633
+00:23:33.825 --> 00:23:36.565
+to make the overall percent of your p
+
+634
+00:23:36.565 --> 00:23:41.005
+and l 5% with for the closer you would just need 125 K in AR
+
+635
+00:23:41.005 --> 00:23:43.165
+or accounts receivable or, you know, client retainers.
+
+636
+00:23:43.305 --> 00:23:44.925
+And you would be at 5% of the p and l because
+
+637
+00:23:44.970 --> 00:23:47.445
+because they've done 125 k cash collected,
+
+638
+00:23:48.075 --> 00:23:49.805
+they get 10% of the 1 25.
+
+639
+00:23:50.025 --> 00:23:51.645
+So if all you had was the 1 25,
+
+640
+00:23:51.755 --> 00:23:53.965
+then the closer would be at 10% of the p and l
+
+641
+00:23:54.045 --> 00:23:55.045
+'cause they're getting 10% commission.
+
+642
+00:23:55.105 --> 00:23:57.405
+But if you have 125 K in retainers,
+
+643
+00:23:57.495 --> 00:23:59.205
+which is pretty simple for an agency, right?
+
+644
+00:23:59.205 --> 00:24:00.805
+Especially if you're doing this volume on the front end,
+
+645
+00:24:00.905 --> 00:24:03.765
+you should at least have a 1 25 in the backend retainers.
+
+646
+00:24:03.875 --> 00:24:05.165
+Well, if you've got that in retainers,
+
+647
+00:24:05.315 --> 00:24:09.165
+then now the commission total on the p
+
+648
+00:24:09.165 --> 00:24:10.845
+and l would half to 5%
+
+649
+00:24:10.845 --> 00:24:12.805
+because now they're only getting 12.5 K,
+
+650
+00:24:12.985 --> 00:24:14.725
+but you've done two 50 total.
+
+651
+00:24:15.035 --> 00:24:17.085
+Does that make sense? So it's only 5% of the total p and l
+
+652
+00:24:17.085 --> 00:24:18.165
+and that's how you would get it, right?
+
+653
+00:24:18.905 --> 00:24:20.405
+So that's pretty simple there, to be honest.
+
+654
+00:24:21.385 --> 00:24:25.285
+Now with keeping, um, your sales percent low on the p
+
+655
+00:24:25.285 --> 00:24:28.085
+and l, what you need to make sure that you have is a,
+
+656
+00:24:28.145 --> 00:24:29.245
+is is good AR
+
+657
+00:24:29.665 --> 00:24:32.205
+and, um, a high rece, uh, a high retention rate,
+
+658
+00:24:32.205 --> 00:24:33.805
+which essentially means, in other words,
+
+659
+00:24:33.805 --> 00:24:35.045
+you need to have good fulfillment, right?
+
+660
+00:24:35.045 --> 00:24:36.965
+Because this will help decrease your sales cost
+
+661
+00:24:36.965 --> 00:24:39.165
+and allow you to have an attractive on target earnings
+
+662
+00:24:39.305 --> 00:24:41.165
+for closers whilst keeping, as I say,
+
+663
+00:24:41.165 --> 00:24:42.685
+the sales percent low on the p and l.
+
+664
+00:24:42.985 --> 00:24:45.005
+Um, because as I said here, right?
+
+665
+00:24:45.005 --> 00:24:46.885
+Imagine if you had here in this instance,
+
+666
+00:24:47.035 --> 00:24:49.245
+they closed 1 25 new cash collected,
+
+667
+00:24:49.245 --> 00:24:51.085
+they got commissioned 12.5 K.
+
+668
+00:24:51.225 --> 00:24:53.365
+Now I know the on track s here was 15 K,
+
+669
+00:24:53.625 --> 00:24:56.445
+but each month your closers should probably have recurring
+
+670
+00:24:56.445 --> 00:24:58.405
+from the previous month because like for example here,
+
+671
+00:24:59.345 --> 00:25:02.485
+if they, uh, you know, do 20 K packages for four months,
+
+672
+00:25:02.555 --> 00:25:04.245
+well naturally they're gonna have some full pays.
+
+673
+00:25:04.385 --> 00:25:07.205
+And so if they, um, you know, pay today,
+
+674
+00:25:07.425 --> 00:25:09.845
+the first installment today, well next month's installment,
+
+675
+00:25:09.945 --> 00:25:11.605
+the closer is also gonna get commissioned on
+
+676
+00:25:11.605 --> 00:25:12.165
+that next month's
+
+677
+00:25:12.165 --> 00:25:13.325
+installment just for the first four months.
+
+678
+00:25:13.325 --> 00:25:15.045
+If they ascend after the first, first four months,
+
+679
+00:25:15.045 --> 00:25:16.285
+obviously they don't get anything
+
+680
+00:25:16.955 --> 00:25:19.405
+because if anyone should get compensated on them,
+
+681
+00:25:19.405 --> 00:25:20.525
+we're sending after the first four months,
+
+682
+00:25:20.525 --> 00:25:22.445
+it's the fulfillment team, not the sales team, right?
+
+683
+00:25:22.865 --> 00:25:26.445
+Um, and so though in, in this, in this example,
+
+684
+00:25:26.445 --> 00:25:28.285
+if they did 1 25 K cash collected,
+
+685
+00:25:28.345 --> 00:25:31.165
+but you had 250 K in retainers,
+
+686
+00:25:32.075 --> 00:25:33.925
+then the commission wouldn't be,
+
+687
+00:25:34.025 --> 00:25:36.245
+or the sales, uh, percent wouldn't be 5%,
+
+688
+00:25:36.265 --> 00:25:38.405
+it would be 2.5%, right?
+
+689
+00:25:38.905 --> 00:25:40.645
+And if you, that, that was only
+
+690
+00:25:40.645 --> 00:25:41.645
+because though you have better
+
+691
+00:25:41.645 --> 00:25:43.045
+fulfillment, you have more clients retaining.
+
+692
+00:25:43.045 --> 00:25:44.405
+Does that make sense? So that's why you need a good
+
+693
+00:25:44.465 --> 00:25:45.525
+AR and good ascension rate.
+
+694
+00:25:45.705 --> 00:25:47.685
+Uh, and that will help you decrease your, uh,
+
+695
+00:25:47.685 --> 00:25:49.045
+sales percent on the p and l.
+
+696
+00:25:49.665 --> 00:25:51.165
+Now, just another quick thing I wanna mention here
+
+697
+00:25:51.165 --> 00:25:54.605
+as well is if you wanted, if you didn't have as many cause
+
+698
+00:25:54.765 --> 00:25:57.685
+as this, but you still wanted to get your cl uh, um,
+
+699
+00:25:57.825 --> 00:26:01.325
+closes commission to 15 KA month, then what they could do
+
+700
+00:26:01.425 --> 00:26:03.725
+to increase their commission each month is instead
+
+701
+00:26:03.725 --> 00:26:05.765
+of taking more calls, 'cause you know, five a day Monday
+
+702
+00:26:05.785 --> 00:26:08.205
+to Friday, that's pretty much max that they can take, right?
+
+703
+00:26:08.465 --> 00:26:10.925
+So then the question becomes, well, is this then the max
+
+704
+00:26:10.925 --> 00:26:11.965
+that they can earn each month?
+
+705
+00:26:12.195 --> 00:26:13.325
+Well, no, it's not.
+
+706
+00:26:13.665 --> 00:26:15.165
+The way they would increase this is
+
+707
+00:26:15.185 --> 00:26:18.565
+by increasing their close rate from 25% to 35%, right?
+
+708
+00:26:18.745 --> 00:26:20.525
+And then the another way would be increasing
+
+709
+00:26:20.525 --> 00:26:22.885
+that upfront cash from 25% low.
+
+710
+00:26:22.885 --> 00:26:26.165
+Last month we had a 53%, I believe, upfront cash collected,
+
+711
+00:26:26.165 --> 00:26:29.485
+meaning if, you know, we do, um, on a 20 K package
+
+712
+00:26:29.485 --> 00:26:32.405
+for four months, it is, uh, you know,
+
+713
+00:26:32.405 --> 00:26:34.885
+that would've been 53% is like just over 10 K.
+
+714
+00:26:35.025 --> 00:26:38.525
+So in reality that, you know, if I do an example here, say
+
+715
+00:26:39.055 --> 00:26:42.045
+50% easy numbers, well then they would've collected
+
+716
+00:26:43.545 --> 00:26:45.085
+250 k cash collected,
+
+717
+00:26:45.225 --> 00:26:50.165
+and then the commission on two 50 is now 25 K, right?
+
+718
+00:26:50.225 --> 00:26:52.245
+So now they've just doubled their income just
+
+719
+00:26:52.245 --> 00:26:54.045
+by collecting more cash upfront in this example,
+
+720
+00:26:54.155 --> 00:26:55.725
+without taking any more sales calls.
+
+721
+00:26:56.145 --> 00:26:58.725
+So again, what your then job becomes is now ensuring
+
+722
+00:26:58.725 --> 00:27:00.005
+that your closes are full.
+
+723
+00:27:00.005 --> 00:27:02.445
+Obviously they're getting their full, you know, they,
+
+724
+00:27:02.445 --> 00:27:04.205
+they've got a full calendar of five calls a day
+
+725
+00:27:04.305 --> 00:27:05.445
+that's on you as the founder,
+
+726
+00:27:06.265 --> 00:27:07.965
+or it's on us if obviously you're working with us.
+
+727
+00:27:08.385 --> 00:27:12.405
+Um, and you need to make sure that they're closing at 25%
+
+728
+00:27:12.745 --> 00:27:14.205
+or higher in this example,
+
+729
+00:27:14.425 --> 00:27:16.205
+and that they're making that, you know, that they're, um,
+
+730
+00:27:16.355 --> 00:27:17.885
+that they've got a really healthy upfront
+
+731
+00:27:17.885 --> 00:27:19.045
+cash, uh, collection.
+
+732
+00:27:19.145 --> 00:27:21.245
+And as I say, closing either 25%
+
+733
+00:27:21.245 --> 00:27:22.725
+or higher, that's how you're gonna ensure
+
+734
+00:27:22.725 --> 00:27:25.125
+that they're gonna be able to make this 25 K or,
+
+735
+00:27:25.145 --> 00:27:26.765
+or the 15 k on track earnings.
+
+736
+00:27:26.825 --> 00:27:28.445
+And obviously with all of the closer stuff,
+
+737
+00:27:28.445 --> 00:27:30.965
+increasing your sales, uh, your closes performance
+
+738
+00:27:30.965 --> 00:27:33.445
+and all that type of stuff, make sure you lean on us as well
+
+739
+00:27:33.445 --> 00:27:34.565
+because we're really good at this stuff
+
+740
+00:27:34.565 --> 00:27:36.485
+and we can help you help your closes
+
+741
+00:27:36.485 --> 00:27:37.925
+or we can help your closes directly
+
+742
+00:27:38.565 --> 00:27:40.005
+increase their close rates, increase, uh,
+
+743
+00:27:40.075 --> 00:27:41.605
+collected on all that good stuff.
+
+744
+00:27:41.785 --> 00:27:46.485
+So that is closers. Um, um, uh, that's a closer example.
+
+745
+00:27:46.585 --> 00:27:48.965
+And again, hopefully the framework of
+
+746
+00:27:48.965 --> 00:27:50.965
+how I'm thinking about this makes sense
+
+747
+00:27:50.965 --> 00:27:52.645
+because this is what I want you to take away from it.
+
+748
+00:27:52.675 --> 00:27:55.005
+It's anytime you have a position, you wanna start
+
+749
+00:27:55.005 --> 00:27:56.885
+with the OnTrack and it's what do you want this person
+
+750
+00:27:56.945 --> 00:27:58.685
+to earn, okay, this much?
+
+751
+00:27:58.755 --> 00:28:01.325
+Okay, great. And then also, what do you want this position
+
+752
+00:28:01.585 --> 00:28:03.525
+to be as a percent on your p and l?
+
+753
+00:28:03.635 --> 00:28:05.005
+Okay, this much? Okay, great.
+
+754
+00:28:05.155 --> 00:28:07.725
+Then the question becomes how do we make that up?
+
+755
+00:28:07.785 --> 00:28:10.805
+How do we achieve that in a way that hits the p
+
+756
+00:28:10.805 --> 00:28:13.485
+and l percent and they can make what they wanna make?
+
+757
+00:28:13.485 --> 00:28:16.245
+Right? And then finally, overhead. This one's quite simple.
+
+758
+00:28:16.385 --> 00:28:18.605
+You know, we want about 5% of your overhead.
+
+759
+00:28:18.625 --> 00:28:19.965
+So again, where is this on here?
+
+760
+00:28:20.315 --> 00:28:23.485
+This is here overhead expenses, okay?
+
+761
+00:28:23.945 --> 00:28:25.925
+Um, you want that to be about 5%.
+
+762
+00:28:26.345 --> 00:28:29.045
+So pretty basic, any new software, insurance,
+
+763
+00:28:29.045 --> 00:28:31.085
+professional services you wanna engage, et cetera,
+
+764
+00:28:31.305 --> 00:28:34.925
+you are always wanna be, uh, uh, just looking at making sure
+
+765
+00:28:35.475 --> 00:28:38.325
+that the cost of whatever it is doesn't push your total
+
+766
+00:28:38.685 --> 00:28:40.245
+overhead to above 5%.
+
+767
+00:28:40.245 --> 00:28:41.485
+That's really all you wanna make sure.
+
+768
+00:28:42.265 --> 00:28:44.645
+Now, if it does and it's something that isn't necessary
+
+769
+00:28:44.645 --> 00:28:46.125
+to have right now, then you wanna wait
+
+770
+00:28:46.125 --> 00:28:48.005
+until you're slightly bigger and the amount obviously
+
+771
+00:28:48.005 --> 00:28:49.045
+doesn't have as much of an impact.
+
+772
+00:28:49.065 --> 00:28:51.165
+For example, if you look in here, you know,
+
+773
+00:28:51.165 --> 00:28:52.205
+and you go to like legal
+
+774
+00:28:52.305 --> 00:28:54.165
+and professional services, so it's like legal,
+
+775
+00:28:54.235 --> 00:28:55.445
+well, that might be a lawyer, right?
+
+776
+00:28:55.445 --> 00:28:56.925
+That might be, you know, if you're, uh,
+
+777
+00:28:56.925 --> 00:29:00.445
+doing high volume B two C, you know, a typical lawyer
+
+778
+00:29:00.445 --> 00:29:02.645
+that a lot of, I know a lot of B two C companies have is
+
+779
+00:29:02.645 --> 00:29:03.725
+an FTC lawyer, right?
+
+780
+00:29:03.725 --> 00:29:04.965
+If you're in the us. Um,
+
+781
+00:29:05.705 --> 00:29:08.125
+but here's the thing, if you are only doing right, a,
+
+782
+00:29:08.245 --> 00:29:10.005
+a lawyer is most likely gonna be a fixed cost.
+
+783
+00:29:10.225 --> 00:29:12.965
+But if you're only doing 50 KA month or a hundred KA month
+
+784
+00:29:12.965 --> 00:29:15.725
+or 200 KA month, you don't need a lawyer, right?
+
+785
+00:29:15.785 --> 00:29:17.405
+So just leave, that's what I'm saying here, right?
+
+786
+00:29:17.405 --> 00:29:18.765
+If you wanna look at the cost, uh,
+
+787
+00:29:18.765 --> 00:29:22.045
+and make sure it doesn't bump you above 5%, um, if it does,
+
+788
+00:29:22.235 --> 00:29:25.005
+then just hold off until you really need it, right?
+
+789
+00:29:25.265 --> 00:29:28.885
+Um, so as I say, an FTC lawyer might be say 15 KA month,
+
+790
+00:29:28.885 --> 00:29:30.245
+10 KA month, whatever it is.
+
+791
+00:29:30.555 --> 00:29:32.165
+Well, if you're doing a hundred KA month,
+
+792
+00:29:32.165 --> 00:29:33.285
+that's gonna be 10% of your p
+
+793
+00:29:33.285 --> 00:29:35.285
+and l just on the lawyer excluding all the other costs.
+
+794
+00:29:35.285 --> 00:29:36.445
+There's no way you can have that.
+
+795
+00:29:36.625 --> 00:29:38.445
+But if you're doing 1.5 million a month,
+
+796
+00:29:38.475 --> 00:29:40.885
+then AFTC lawyer is probably more important for you.
+
+797
+00:29:41.355 --> 00:29:43.205
+It's not, probably it is more important for you.
+
+798
+00:29:43.425 --> 00:29:46.125
+And then at 1.5 million a month, 10 KA month, I don't,
+
+799
+00:29:46.125 --> 00:29:47.245
+I don't even know what that math is.
+
+800
+00:29:48.985 --> 00:29:52.085
+Uh, okay, hang on.
+
+801
+00:29:54.075 --> 00:29:56.165
+Yeah, so look at this, right? If you're doing 1.5 million a
+
+802
+00:29:56.165 --> 00:30:00.205
+month and you've got, um, say a 15 KA month lawyer,
+
+803
+00:30:00.345 --> 00:30:02.005
+that's only gonna be 1% of your p
+
+804
+00:30:02.005 --> 00:30:06.085
+and l, which is totally fine if you're doing 1.5 million,
+
+805
+00:30:06.185 --> 00:30:07.845
+but a 15 KA month lawyer, a hundred KA month,
+
+806
+00:30:07.845 --> 00:30:08.965
+it's 15%, right?
+
+807
+00:30:09.025 --> 00:30:10.765
+So that's kind of just how you need to be thinking about it.
+
+808
+00:30:10.985 --> 00:30:13.805
+Um, and yet, as I say, if it's, if it, um,
+
+809
+00:30:14.025 --> 00:30:17.285
+if it is something that, uh, bumps you above 5% total,
+
+810
+00:30:17.345 --> 00:30:20.805
+if you was to factor it into your overhead, then, um,
+
+811
+00:30:21.345 --> 00:30:22.445
+if it's something that does,
+
+812
+00:30:22.445 --> 00:30:24.965
+but it's not necessary to have right now, then as I say,
+
+813
+00:30:24.965 --> 00:30:26.365
+just wait until you're slightly bigger
+
+814
+00:30:26.385 --> 00:30:27.645
+and the amount doesn't have as much
+
+815
+00:30:27.645 --> 00:30:29.205
+of an impact, that's all you need to do.
+
+816
+00:30:29.305 --> 00:30:33.125
+So hopefully this was useful in terms of how to use the p
+
+817
+00:30:33.125 --> 00:30:35.645
+and l to make decisions in your company
+
+818
+00:30:35.785 --> 00:30:37.525
+and, um, make sure you do this
+
+819
+00:30:37.525 --> 00:30:39.845
+because as I say, everything that I do, every decision,
+
+820
+00:30:39.845 --> 00:30:42.485
+every new hire, everything that I do is built off the back
+
+821
+00:30:42.485 --> 00:30:43.885
+of the p and l and by extension,
+
+822
+00:30:44.705 --> 00:30:45.845
+my p and l is always healthy.
+
+823
+00:30:46.065 --> 00:30:49.245
+I'm always above 50% profit every single month without
+
+824
+00:30:49.245 --> 00:30:50.365
+fail, no matter what.
+
+825
+00:30:50.395 --> 00:30:52.725
+Even as we scale, that's the other thing.
+
+826
+00:30:52.785 --> 00:30:54.485
+As you scale, you want to keep making sure
+
+827
+00:30:54.485 --> 00:30:57.165
+that you're continually factor in, in, uh, factoring this in
+
+828
+00:30:57.165 --> 00:30:59.765
+because as you scale, most of the time,
+
+829
+00:30:59.765 --> 00:31:01.765
+most people's margins decrease.
+
+830
+00:31:01.985 --> 00:31:04.445
+But if you are always making decisions using this training
+
+831
+00:31:04.445 --> 00:31:07.285
+that I've just gone through now, it's pretty much within
+
+832
+00:31:07.285 --> 00:31:09.005
+reason impossible for it to decrease.
+
+833
+00:31:09.005 --> 00:31:10.165
+Literally, it's impossible
+
+834
+00:31:10.675 --> 00:31:12.965
+because as long as every decision you're making,
+
+835
+00:31:13.225 --> 00:31:14.485
+it makes sense on the p and l.
+
+836
+00:31:14.505 --> 00:31:16.765
+Now if it scales, you should be still okay,
+
+837
+00:31:16.765 --> 00:31:19.245
+and you should always maintain, as I say, above 50% profit.
+
+838
+00:31:19.345 --> 00:31:20.485
+So hopefully this was useful
+
+839
+00:31:20.485 --> 00:31:21.205
+and I'll see you in the next training.

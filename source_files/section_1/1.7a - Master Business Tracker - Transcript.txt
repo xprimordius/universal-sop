@@ -1,0 +1,2717 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.965
+Alright, so this is the master business tracker.
+
+2
+00:00:02.025 --> 00:00:03.445
+Now I wanna give a bit of context
+
+3
+00:00:03.625 --> 00:00:07.285
+before I go into the specifics of, you know, how to use it,
+
+4
+00:00:07.285 --> 00:00:09.125
+what each metric means, et cetera, et cetera.
+
+5
+00:00:09.465 --> 00:00:11.005
+Um, and also like how I use it on
+
+6
+00:00:11.005 --> 00:00:12.125
+a day-to-day basis as well.
+
+7
+00:00:12.505 --> 00:00:17.065
+Um, so basically if you read a book called The Only Three
+
+8
+00:00:17.065 --> 00:00:20.105
+Things a CEO should Do, one of the three is numbers.
+
+9
+00:00:20.295 --> 00:00:23.145
+Just basically look at numbers also, uh, in the book,
+
+10
+00:00:23.165 --> 00:00:25.785
+the Road Less Stupid, uh, I forget the,
+
+11
+00:00:25.905 --> 00:00:27.785
+I think it's Keith Cunningham or something.
+
+12
+00:00:27.905 --> 00:00:29.225
+I forget his, uh, exact name,
+
+13
+00:00:29.885 --> 00:00:32.745
+but he also talks about as a CEO within Reason.
+
+14
+00:00:32.965 --> 00:00:35.705
+All you should be doing is looking at dashboards in terms
+
+15
+00:00:35.705 --> 00:00:39.185
+of just looking at numbers and then putting a solution
+
+16
+00:00:39.185 --> 00:00:41.345
+or a plan in place based on your current numbers.
+
+17
+00:00:41.765 --> 00:00:45.185
+Now, those two things really have always stuck with me,
+
+18
+00:00:45.365 --> 00:00:47.865
+and what kind of has added onto that is
+
+19
+00:00:47.965 --> 00:00:49.745
+how I think about scaling in general.
+
+20
+00:00:49.775 --> 00:00:51.145
+Like all day, every day.
+
+21
+00:00:51.485 --> 00:00:55.025
+My mind is on trying to find our current biggest constraint
+
+22
+00:00:55.125 --> 00:00:57.625
+and putting a plan in place to alleviate our constraint.
+
+23
+00:00:57.685 --> 00:01:00.825
+If you've listened to any other, um, any other, uh,
+
+24
+00:01:01.325 --> 00:01:02.385
+you know, videos from me,
+
+25
+00:01:02.405 --> 00:01:03.545
+you would've heard me talk about that.
+
+26
+00:01:03.655 --> 00:01:05.585
+That is li I, I live and die by that.
+
+27
+00:01:05.585 --> 00:01:06.905
+Like that, that is my entire thing.
+
+28
+00:01:06.905 --> 00:01:09.425
+That's all I think about. And personally, I think as CEO,
+
+29
+00:01:09.535 --> 00:01:11.585
+that really should be the only thing you think about is
+
+30
+00:01:11.905 --> 00:01:13.065
+identifying your current biggest constraint
+
+31
+00:01:13.365 --> 00:01:15.825
+and alleviating it on a day-to-day basis.
+
+32
+00:01:15.885 --> 00:01:17.585
+Of course, then you've got the other stuff like culture
+
+33
+00:01:17.685 --> 00:01:19.225
+and, you know, building a strong vision
+
+34
+00:01:19.285 --> 00:01:21.305
+and whatnot, getting everybody on the boat,
+
+35
+00:01:21.365 --> 00:01:23.305
+rowing in the same direction, all that good stuff as well.
+
+36
+00:01:23.525 --> 00:01:25.945
+But on a day-to-day, really as a CEO,
+
+37
+00:01:25.945 --> 00:01:27.985
+you should just be identifying the constraint biggest,
+
+38
+00:01:28.285 --> 00:01:29.425
+you know, current base constraint,
+
+39
+00:01:29.575 --> 00:01:31.385
+putting a plan to alleviate it.
+
+40
+00:01:31.405 --> 00:01:35.945
+That's it. Now, I always struggled a ton
+
+41
+00:01:36.175 --> 00:01:38.585
+with trying to find our current biggest constraint.
+
+42
+00:01:38.645 --> 00:01:40.905
+And I see this so much in clients as well.
+
+43
+00:01:41.055 --> 00:01:44.665
+What I see often is, for the most part,
+
+44
+00:01:45.485 --> 00:01:48.865
+if a, you know, a competent business owner knows
+
+45
+00:01:49.425 --> 00:01:51.145
+specifically what their current problem is,
+
+46
+00:01:51.145 --> 00:01:52.265
+and it's accurate.
+
+47
+00:01:52.265 --> 00:01:54.545
+Like genuinely their current biggest constraint is X.
+
+48
+00:01:54.545 --> 00:01:56.225
+And it's like, yes, it definitely is X.
+
+49
+00:01:56.225 --> 00:02:00.025
+That's the real problem. Most of the time people do know
+
+50
+00:02:00.565 --> 00:02:01.705
+how to solve it, right?
+
+51
+00:02:01.705 --> 00:02:05.065
+Like if you are, I dunno, you know, that for example, um,
+
+52
+00:02:05.455 --> 00:02:07.545
+your, you know, cost per call is too high, for example,
+
+53
+00:02:08.725 --> 00:02:11.665
+you know, there's only a certain, you know, set of, um,
+
+54
+00:02:11.845 --> 00:02:13.025
+levers that you can really pull
+
+55
+00:02:13.025 --> 00:02:14.585
+to like decrease the cost per qualified
+
+56
+00:02:14.585 --> 00:02:15.665
+call as an example, right?
+
+57
+00:02:16.045 --> 00:02:18.665
+New creatives, better offer, better mechanism, et cetera.
+
+58
+00:02:18.665 --> 00:02:20.225
+Now, of course, then you've got the thing of like, well,
+
+59
+00:02:20.225 --> 00:02:22.065
+how do you create new, new creatives and whatever else,
+
+60
+00:02:22.085 --> 00:02:24.225
+but let's just look at its surface level for now.
+
+61
+00:02:24.855 --> 00:02:25.865
+Most of the time people know how
+
+62
+00:02:25.865 --> 00:02:28.585
+to solve the current problem if it's the real thing.
+
+63
+00:02:28.815 --> 00:02:30.065
+What most people struggle
+
+64
+00:02:30.065 --> 00:02:33.665
+with is actually identifying the genuine real issue.
+
+65
+00:02:34.125 --> 00:02:36.865
+Now, I found as well as, you know, working with
+
+66
+00:02:37.165 --> 00:02:39.705
+so many clients, I found the easiest way
+
+67
+00:02:39.705 --> 00:02:42.265
+to identify the real issue is through tracking.
+
+68
+00:02:42.265 --> 00:02:44.585
+Because if you can just track, obviously you've heard it
+
+69
+00:02:44.585 --> 00:02:45.745
+before, numbers never lie.
+
+70
+00:02:45.745 --> 00:02:50.145
+There's no emotion, there's no, um, uh, subjective, like,
+
+71
+00:02:50.145 --> 00:02:52.185
+you know, input or bias or anything like that.
+
+72
+00:02:52.185 --> 00:02:55.025
+It's just black and white. Numbers never lie, right?
+
+73
+00:02:55.165 --> 00:02:57.225
+And, and, and the numbers will always show you
+
+74
+00:02:57.915 --> 00:02:59.230
+where the real constraint is.
+
+75
+00:02:59.665 --> 00:03:02.325
+Now I've, again, I've kind of always known that,
+
+76
+00:03:02.325 --> 00:03:03.885
+but what I've always struggled with is like, okay,
+
+77
+00:03:03.885 --> 00:03:05.645
+how do I actually apply this on a day-to-day basis?
+
+78
+00:03:05.915 --> 00:03:08.005
+Long story short, this is how I do it.
+
+79
+00:03:08.265 --> 00:03:11.805
+And this, by the way, we fill this out, this doc every day.
+
+80
+00:03:11.805 --> 00:03:13.725
+So these daily, daily totals we fill out every day.
+
+81
+00:03:13.725 --> 00:03:15.605
+Of course, the months, this is all automated.
+
+82
+00:03:15.785 --> 00:03:17.445
+And then there's a couple I'll show you in a minute,
+
+83
+00:03:17.455 --> 00:03:19.725
+where we manually input these at the end of each month.
+
+84
+00:03:20.105 --> 00:03:22.085
+But for the most part, we fill this doc
+
+85
+00:03:22.085 --> 00:03:23.365
+out every single day.
+
+86
+00:03:23.705 --> 00:03:26.845
+And then every single day you have a perfect snapshot
+
+87
+00:03:26.945 --> 00:03:28.685
+of the entire business, first of all.
+
+88
+00:03:28.685 --> 00:03:30.605
+So you can just see your entire company at
+
+89
+00:03:30.605 --> 00:03:31.685
+a bird's eye level view, right?
+
+90
+00:03:31.685 --> 00:03:32.925
+Just in a couple columns here.
+
+91
+00:03:33.025 --> 00:03:34.565
+And then you've got your month totals here
+
+92
+00:03:34.825 --> 00:03:36.125
+so you can see your entire business.
+
+93
+00:03:36.125 --> 00:03:39.005
+That's one a huge benefit that I've never been able to see
+
+94
+00:03:39.005 --> 00:03:40.645
+before until this.
+
+95
+00:03:40.905 --> 00:03:45.245
+But the second thing is, all of these cells are, um,
+
+96
+00:03:45.355 --> 00:03:47.245
+they have conditional format built in.
+
+97
+00:03:47.545 --> 00:03:49.445
+So you can see here on show rate, show rates,
+
+98
+00:03:49.445 --> 00:03:50.725
+obviously it's based on a percent and
+
+99
+00:03:50.725 --> 00:03:53.445
+because the, the resting cells here are are 0%,
+
+100
+00:03:53.465 --> 00:03:55.845
+it says it's red, but they all show up as red.
+
+101
+00:03:56.185 --> 00:03:58.135
+Now, it that, you know,
+
+102
+00:03:58.135 --> 00:04:00.855
+that just basically shows you without needing to think
+
+103
+00:04:00.875 --> 00:04:03.535
+or do anything, just where you, your focus should go
+
+104
+00:04:03.595 --> 00:04:06.055
+as a CEO and then you can just simply put a plan in place
+
+105
+00:04:06.235 --> 00:04:07.255
+to solve that constraint.
+
+106
+00:04:07.685 --> 00:04:09.335
+Also, the other thing on top of all of this,
+
+107
+00:04:09.675 --> 00:04:11.895
+if you are somebody who's interested in selling,
+
+108
+00:04:11.895 --> 00:04:16.615
+at some point, when it goes, when you get to the point of,
+
+109
+00:04:16.675 --> 00:04:19.255
+you know, the, the, the, uh, potential acquirer going
+
+110
+00:04:19.255 --> 00:04:23.815
+through due diligence, they will love you forever if you
+
+111
+00:04:23.815 --> 00:04:25.255
+send them something like this.
+
+112
+00:04:25.255 --> 00:04:26.455
+Because again, like I said
+
+113
+00:04:26.455 --> 00:04:28.895
+before, it just gives a perfect snapshot
+
+114
+00:04:29.035 --> 00:04:31.855
+of your entire company in one view,
+
+115
+00:04:32.155 --> 00:04:35.295
+and it goes through every single metric that's important.
+
+116
+00:04:35.675 --> 00:04:37.215
+So that's another benefit as well.
+
+117
+00:04:37.355 --> 00:04:39.975
+But again, I wanna go back to the big thing from this is
+
+118
+00:04:40.035 --> 00:04:44.415
+as CEO, you should 1000% have this dashboard active
+
+119
+00:04:44.515 --> 00:04:47.175
+and live always up to date until yesterday.
+
+120
+00:04:47.175 --> 00:04:49.295
+So we never, obviously we always report on yesterday's data.
+
+121
+00:04:49.315 --> 00:04:50.735
+We never report on today. 'cause
+
+122
+00:04:50.755 --> 00:04:51.975
+you know, it'll be constantly updating.
+
+123
+00:04:52.275 --> 00:04:53.495
+So it's always accurate
+
+124
+00:04:53.495 --> 00:04:56.215
+and completely up to date as of yesterday.
+
+125
+00:04:56.435 --> 00:04:58.055
+And you can see any view you want,
+
+126
+00:04:58.055 --> 00:04:59.455
+you can obviously see here year to date,
+
+127
+00:04:59.455 --> 00:05:02.215
+you've got your months and then in here you've also, on top
+
+128
+00:05:02.215 --> 00:05:04.705
+of that, you've got your dailies, right,
+
+129
+00:05:04.705 --> 00:05:06.265
+which we really never look at dailies.
+
+130
+00:05:06.265 --> 00:05:09.625
+Just as a side note, we, um, obviously we look at our year
+
+131
+00:05:09.625 --> 00:05:11.985
+to date monthlies, and then also we look at
+
+132
+00:05:11.985 --> 00:05:13.065
+this trailing section here.
+
+133
+00:05:13.085 --> 00:05:15.825
+So you can see the last four days always up until yesterday.
+
+134
+00:05:15.825 --> 00:05:17.905
+So it'll be yesterday, the day before, the day
+
+135
+00:05:17.905 --> 00:05:19.745
+before, the day before that would be the last four days.
+
+136
+00:05:19.935 --> 00:05:21.305
+Then you've obviously got the same thing,
+
+137
+00:05:21.305 --> 00:05:22.945
+but for the last seven days, last 30 days,
+
+138
+00:05:22.945 --> 00:05:24.225
+and then you've got month to date as well.
+
+139
+00:05:25.125 --> 00:05:26.665
+Now also in your month total,
+
+140
+00:05:27.165 --> 00:05:28.625
+the way we have it structured is month
+
+141
+00:05:28.625 --> 00:05:29.825
+to date is always act, you know,
+
+142
+00:05:29.825 --> 00:05:31.305
+it's always actively being updated
+
+143
+00:05:31.305 --> 00:05:33.105
+with each new set of, uh, numbers.
+
+144
+00:05:33.565 --> 00:05:37.505
+But anyway, you've got at a snapshot, at an instance,
+
+145
+00:05:37.505 --> 00:05:39.585
+you can see your entire business, you can see all
+
+146
+00:05:39.585 --> 00:05:40.905
+of the constraints, and then you can simply
+
+147
+00:05:41.085 --> 00:05:42.185
+put a plan in place to solve them.
+
+148
+00:05:42.365 --> 00:05:44.465
+On top of that, what we also added in at the top
+
+149
+00:05:44.465 --> 00:05:45.585
+here is KPIs.
+
+150
+00:05:45.765 --> 00:05:48.105
+So all of these are are KPIs.
+
+151
+00:05:48.205 --> 00:05:49.545
+You can go in, you can change this.
+
+152
+00:05:49.545 --> 00:05:51.705
+This is just manual input, like this is not a formula
+
+153
+00:05:51.805 --> 00:05:53.265
+or anything, it's not gonna affect anything else,
+
+154
+00:05:53.445 --> 00:05:55.345
+but you can go in and you can change these numbers at the
+
+155
+00:05:55.345 --> 00:05:56.745
+top here, uh,
+
+156
+00:05:56.745 --> 00:05:58.965
+For whatever it is that you, uh, you know,
+
+157
+00:05:59.165 --> 00:06:01.845
+whatever your ideal, uh, KPIs are for each metric.
+
+158
+00:06:02.225 --> 00:06:05.445
+Um, and then for us, this is what our conditional for, uh,
+
+159
+00:06:05.445 --> 00:06:06.525
+formatting is based on.
+
+160
+00:06:06.525 --> 00:06:09.645
+So for example, if we go here a thousand
+
+161
+00:06:09.905 --> 00:06:14.365
+and we go, uh, maybe not two calls, we go, uh, like one call
+
+162
+00:06:14.365 --> 00:06:17.445
+for example, in ours, this will go red, right?
+
+163
+00:06:17.445 --> 00:06:20.525
+Because it's obviously above our KPI of six 50.
+
+164
+00:06:20.525 --> 00:06:24.925
+Hopefully that makes sense. So going through, um, in terms
+
+165
+00:06:24.925 --> 00:06:27.965
+of how to use it and uh, how to fill it out, et cetera.
+
+166
+00:06:27.965 --> 00:06:29.445
+Obviously this is pretty simple.
+
+167
+00:06:29.605 --> 00:06:32.565
+I mean, here, I would just, uh, either start this, the date
+
+168
+00:06:32.565 --> 00:06:34.645
+that you open this up and you start tracking,
+
+169
+00:06:34.905 --> 00:06:36.125
+or you can go back
+
+170
+00:06:36.385 --> 00:06:38.645
+and maybe pre, you know, if you start it now, 27th of,
+
+171
+00:06:38.645 --> 00:06:41.085
+of March, you could obviously start, um, you could go back,
+
+172
+00:06:41.145 --> 00:06:43.685
+set the start date for the 1st of March, backfill all
+
+173
+00:06:43.685 --> 00:06:45.205
+of March, and then obviously you are off
+
+174
+00:06:45.205 --> 00:06:47.125
+to the races from now on in whatever you wanna do.
+
+175
+00:06:47.825 --> 00:06:49.285
+Uh, total ad spend, super simple.
+
+176
+00:06:49.285 --> 00:06:50.965
+You just go into your ad account, pull total ad spend,
+
+177
+00:06:51.055 --> 00:06:52.165
+total qualified calls.
+
+178
+00:06:52.435 --> 00:06:54.125
+Same thing. You'll notice we do not
+
+179
+00:06:54.125 --> 00:06:55.245
+track total booked calls.
+
+180
+00:06:55.305 --> 00:06:57.045
+We only track total qualified calls.
+
+181
+00:06:57.265 --> 00:06:58.885
+So this is, if you had, you know,
+
+182
+00:06:58.885 --> 00:07:02.525
+you spent a thousand today, you got, um, 10 calls booked,
+
+183
+00:07:02.745 --> 00:07:06.045
+but you canceled, you know, um, whatever, three of them.
+
+184
+00:07:06.395 --> 00:07:09.245
+Then your number that you track here would be seven, right?
+
+185
+00:07:09.265 --> 00:07:11.325
+You don't track the total 10, like they, it,
+
+186
+00:07:11.465 --> 00:07:14.285
+the unqualified calls or the the, um, the canceled calls.
+
+187
+00:07:15.235 --> 00:07:17.045
+They're just useless. Like you just cancel them.
+
+188
+00:07:17.045 --> 00:07:18.085
+You never think about 'em again.
+
+189
+00:07:18.205 --> 00:07:19.205
+A lot of people track that
+
+190
+00:07:19.225 --> 00:07:21.405
+and I wanna make that clear, like just don't track it.
+
+191
+00:07:21.405 --> 00:07:22.965
+Just they, they don't mean anything.
+
+192
+00:07:23.385 --> 00:07:26.565
+Um, so this is auto calculated, as you can see here, 1 42,
+
+193
+00:07:27.025 --> 00:07:29.045
+uh, then you have canceled due to fit.
+
+194
+00:07:29.665 --> 00:07:31.805
+So, um, uh, by the way,
+
+195
+00:07:31.805 --> 00:07:34.005
+you can see here the reason why this is not populating is
+
+196
+00:07:34.005 --> 00:07:36.485
+because this date is past last four,
+
+197
+00:07:36.485 --> 00:07:37.805
+last seven, last 30 a month today.
+
+198
+00:07:37.905 --> 00:07:39.165
+So if I actually change this,
+
+199
+00:07:39.165 --> 00:07:41.885
+you'll see this update correctly.
+
+200
+00:07:42.345 --> 00:07:46.045
+Uh, lemme just go, okay, just for the example.
+
+201
+00:07:46.345 --> 00:07:49.045
+So you can see here now it automatically updates in here.
+
+202
+00:07:49.545 --> 00:07:53.405
+Um, so okay, cancel due to fit these metrics.
+
+203
+00:07:53.675 --> 00:07:56.045
+Just, um, I have all, I go through all
+
+204
+00:07:56.045 --> 00:07:57.925
+of these show rate metrics in a separate training.
+
+205
+00:07:58.715 --> 00:08:00.005
+It's called like show rate tracking
+
+206
+00:08:00.025 --> 00:08:01.365
+and calendar efficiency or whatever.
+
+207
+00:08:01.545 --> 00:08:03.725
+Um, but just high level cancel due to fit means any cause
+
+208
+00:08:03.725 --> 00:08:05.125
+that qualified, but then you cancel
+
+209
+00:08:05.125 --> 00:08:07.445
+because they don't fit your ideal client criteria.
+
+210
+00:08:07.865 --> 00:08:10.045
+Uh, so let's say for example, you have three of them,
+
+211
+00:08:10.395 --> 00:08:12.325
+this will then give you a percentage.
+
+212
+00:08:12.625 --> 00:08:15.845
+Now this, uh, cancellation percentage is based on total
+
+213
+00:08:15.845 --> 00:08:18.205
+qualified bookings versus how many
+
+214
+00:08:18.225 --> 00:08:20.845
+of those qualified bookings did you cancel due to fit.
+
+215
+00:08:20.915 --> 00:08:22.605
+Okay, quite simple.
+
+216
+00:08:23.065 --> 00:08:25.085
+Uh, let's go one that's probably more realistic.
+
+217
+00:08:25.085 --> 00:08:28.405
+So 14.29, our KPI here is again sub 10%.
+
+218
+00:08:28.405 --> 00:08:29.445
+So that's why this has gone red.
+
+219
+00:08:29.705 --> 00:08:31.445
+Uh, then you have canceled, uh, um,
+
+220
+00:08:31.505 --> 00:08:32.725
+or rescheduled by the prospect.
+
+221
+00:08:32.725 --> 00:08:34.765
+So that's just basically if the prospect cancels
+
+222
+00:08:34.765 --> 00:08:37.605
+or reschedules, then you would track that here.
+
+223
+00:08:37.605 --> 00:08:40.245
+So how many of those per day that would be, say two
+
+224
+00:08:40.245 --> 00:08:43.005
+for example, uh, let's go one again, kind of overshoot it.
+
+225
+00:08:43.145 --> 00:08:44.285
+So our KPI here.
+
+226
+00:08:44.285 --> 00:08:46.885
+So we allow for 20% of, uh,
+
+227
+00:08:47.085 --> 00:08:48.245
+prospects to cancel or reschedule.
+
+228
+00:08:48.795 --> 00:08:51.445
+Then net calls in the calendar means after all cancels
+
+229
+00:08:51.445 --> 00:08:52.885
+and reschedules, how many calls are
+
+230
+00:08:52.885 --> 00:08:53.965
+left on the calendar for the day?
+
+231
+00:08:54.615 --> 00:08:57.005
+Let's say five. Then you've obviously got live calls taken,
+
+232
+00:08:57.005 --> 00:08:58.445
+that's gonna give you your show rate here.
+
+233
+00:08:59.185 --> 00:09:02.315
+Uh, okay, two seconds, apologies,
+
+234
+00:09:02.475 --> 00:09:03.835
+I dunno why that didn't have the thing in there.
+
+235
+00:09:03.895 --> 00:09:06.555
+So that's 60%. Then you have your cost per live call.
+
+236
+00:09:06.555 --> 00:09:08.755
+So cost per live call is based on the ad spend for that day.
+
+237
+00:09:08.895 --> 00:09:10.075
+How many live calls did you take?
+
+238
+00:09:10.095 --> 00:09:12.075
+You go obviously ad spend divided by live calls.
+
+239
+00:09:12.075 --> 00:09:15.235
+You've got your cost per live call, then offers made, uh,
+
+240
+00:09:15.235 --> 00:09:17.395
+that's obviously how many prospects did you pitch that day?
+
+241
+00:09:17.395 --> 00:09:20.035
+So you had three live, you pitched two 67% offer
+
+242
+00:09:20.035 --> 00:09:21.315
+rate, total closes.
+
+243
+00:09:21.315 --> 00:09:24.395
+How many one, so then you've obviously got your close rate,
+
+244
+00:09:25.355 --> 00:09:26.755
+CPA cost per acquisition.
+
+245
+00:09:26.825 --> 00:09:28.195
+Then in here you manually input the
+
+246
+00:09:28.295 --> 00:09:29.475
+for cash that you collected.
+
+247
+00:09:30.015 --> 00:09:33.555
+So let's say it was 3000, then it's gonna give you, uh,
+
+248
+00:09:33.905 --> 00:09:36.195
+this will only fill out when you fill out this contracted
+
+249
+00:09:36.195 --> 00:09:37.475
+revenue column because that's
+
+250
+00:09:37.475 --> 00:09:39.355
+what the upfront cash percent's based on.
+
+251
+00:09:39.355 --> 00:09:41.075
+So out of the total contract value,
+
+252
+00:09:41.135 --> 00:09:42.435
+how much of that did you collect upfront?
+
+253
+00:09:42.435 --> 00:09:44.075
+That's what this metric tracks.
+
+254
+00:09:44.415 --> 00:09:46.515
+Um, here you've got your front end cash row as,
+
+255
+00:09:46.515 --> 00:09:49.155
+so typically we wanna see this at a two x plus on day one.
+
+256
+00:09:49.185 --> 00:09:50.915
+Meaning you spent a thousand today,
+
+257
+00:09:50.935 --> 00:09:52.075
+how much did you collect today?
+
+258
+00:09:52.215 --> 00:09:54.035
+And obviously usually you're not looking at it on a daily
+
+259
+00:09:54.035 --> 00:09:56.075
+basis, you're looking at it on a monthly basis.
+
+260
+00:09:56.215 --> 00:09:59.515
+So this month we spent a hundred grand ideally to scale.
+
+261
+00:09:59.655 --> 00:10:02.435
+You want that number in terms of, um, cash collected
+
+262
+00:10:02.435 --> 00:10:03.915
+to be at least 200 grand.
+
+263
+00:10:03.985 --> 00:10:05.755
+Otherwise your margins become really slim
+
+264
+00:10:06.095 --> 00:10:09.155
+and um, you know, your, uh, it becomes really,
+
+265
+00:10:09.275 --> 00:10:10.275
+really difficult to scale.
+
+266
+00:10:10.815 --> 00:10:13.155
+Um, and so in that instance,
+
+267
+00:10:13.155 --> 00:10:14.675
+that's why we also wanna track upfront cash.
+
+268
+00:10:14.875 --> 00:10:16.795
+'cause like in this instance, let's say, uh,
+
+269
+00:10:18.285 --> 00:10:20.235
+let's say we're at 10,000 contracted revenue.
+
+270
+00:10:21.155 --> 00:10:22.875
+Contracted revenue by the way means, um,
+
+271
+00:10:24.525 --> 00:10:25.695
+what was the contract to sign?
+
+272
+00:10:25.695 --> 00:10:27.215
+Basically what was the value of the contract?
+
+273
+00:10:27.395 --> 00:10:29.975
+So like in our case, we'll do typically 15 K
+
+274
+00:10:29.975 --> 00:10:31.335
+or 20 K for four months.
+
+275
+00:10:31.715 --> 00:10:33.495
+Um, but if a client payment plans on that,
+
+276
+00:10:33.495 --> 00:10:35.695
+let's say they do a two pay on 20 K, um,
+
+277
+00:10:35.915 --> 00:10:37.335
+the contract value is 20 k,
+
+278
+00:10:37.335 --> 00:10:39.295
+but if they do a two pay, we only collect
+
+279
+00:10:39.315 --> 00:10:40.495
+10 K on day one, right?
+
+280
+00:10:41.035 --> 00:10:42.655
+That's the difference between, uh,
+
+281
+00:10:42.715 --> 00:10:44.455
+new cash collected and contracted revenue.
+
+282
+00:10:44.795 --> 00:10:46.455
+But based on that, as I say here,
+
+283
+00:10:46.475 --> 00:10:47.895
+you get your upfront cash percent.
+
+284
+00:10:48.195 --> 00:10:52.615
+Now this percent, ideally we found 40%. That's what this is.
+
+285
+00:10:52.615 --> 00:10:54.095
+So if I did this is like say
+
+286
+00:10:54.095 --> 00:10:55.655
+5,000, this will go green, right?
+
+287
+00:10:56.035 --> 00:10:57.055
+Uh, 'cause it's 6%.
+
+288
+00:10:57.195 --> 00:11:00.495
+So our thing is, is is ideally 40%, uh, we want
+
+289
+00:11:00.495 --> 00:11:02.095
+to collect upfront on day one
+
+290
+00:11:02.095 --> 00:11:04.295
+because that then, like the reason you wanna try
+
+291
+00:11:04.295 --> 00:11:06.095
+and bump it up as much as possible is
+
+292
+00:11:06.095 --> 00:11:07.735
+because you wanna decrease your payback period.
+
+293
+00:11:07.955 --> 00:11:10.695
+So that, again, you can scale if it, if you know,
+
+294
+00:11:10.795 --> 00:11:13.215
+you sign a contract for 20 grand
+
+295
+00:11:13.395 --> 00:11:15.895
+and your CPA is one grand, that looks amazing.
+
+296
+00:11:16.155 --> 00:11:18.815
+But if that 20 grand is paid out, um,
+
+297
+00:11:19.035 --> 00:11:21.695
+or let's say contract 24 grand for easy numbers, um,
+
+298
+00:11:21.755 --> 00:11:24.975
+and that contract's paid out over two years at one KA month,
+
+299
+00:11:25.165 --> 00:11:28.295
+your CPA at one K is actually not really that great, right?
+
+300
+00:11:28.295 --> 00:11:30.335
+Because you're only, you're breaking even on day one.
+
+301
+00:11:30.485 --> 00:11:34.175
+That means you have to have enough, um, cash to be able
+
+302
+00:11:34.175 --> 00:11:35.575
+to basically survive.
+
+303
+00:11:35.735 --> 00:11:37.375
+'cause you're not getting paid more than
+
+304
+00:11:37.375 --> 00:11:38.455
+your CPA on day one.
+
+305
+00:11:38.635 --> 00:11:40.415
+So you need to make sure that you've got obviously enough
+
+306
+00:11:40.415 --> 00:11:41.975
+cash flow to be able to survive
+
+307
+00:11:41.975 --> 00:11:44.495
+and until you start to profit from that client, right?
+
+308
+00:11:44.525 --> 00:11:47.655
+Over the, the contract period, um,
+
+309
+00:11:48.085 --> 00:11:49.495
+here you've got your revenue rows
+
+310
+00:11:49.995 --> 00:11:51.455
+and then total AR collected.
+
+311
+00:11:51.455 --> 00:11:53.965
+This refers to your accounts receivables.
+
+312
+00:11:54.025 --> 00:11:57.725
+So this is, for example, if you, um, in this instance,
+
+313
+00:11:57.735 --> 00:12:00.245
+let's say it was, uh, this person did a two pay,
+
+314
+00:12:00.245 --> 00:12:02.285
+so they paid three K up front contract value,
+
+315
+00:12:02.385 --> 00:12:03.765
+six K, they did a two pay.
+
+316
+00:12:04.075 --> 00:12:06.445
+Well AR is all of those clients
+
+317
+00:12:06.445 --> 00:12:07.765
+that you've got due this month
+
+318
+00:12:07.765 --> 00:12:09.765
+that were from payment plans the month before.
+
+319
+00:12:10.185 --> 00:12:14.445
+And or if you have, um, you know, typical in an agency type
+
+320
+00:12:14.445 --> 00:12:16.805
+of business, you'll have an initial contracted, uh,
+
+321
+00:12:17.145 --> 00:12:20.605
+or a contract, uh, value, like in our case
+
+322
+00:12:20.905 --> 00:12:22.245
+to say it's 20 K for four months.
+
+323
+00:12:22.625 --> 00:12:24.685
+Um, that will be for four months,
+
+324
+00:12:25.105 --> 00:12:27.125
+and then month, five months, six months seven,
+
+325
+00:12:27.305 --> 00:12:28.445
+we will obviously trying to send
+
+326
+00:12:28.555 --> 00:12:31.445
+that client into just an ongoing monthly service.
+
+327
+00:12:31.985 --> 00:12:35.165
+Um, and so the AR includes all of those clients
+
+328
+00:12:35.185 --> 00:12:37.445
+who are basically retained on monthly payment plans.
+
+329
+00:12:38.145 --> 00:12:40.965
+So that will be just basically all other cash collected.
+
+330
+00:12:40.965 --> 00:12:43.045
+In other words, on that particular day,
+
+331
+00:12:43.045 --> 00:12:45.245
+let's say you had 15 K on that day, right?
+
+332
+00:12:45.515 --> 00:12:46.885
+Then you have total defaulted.
+
+333
+00:12:46.885 --> 00:12:49.365
+Defaulted just basically means you had a client who was,
+
+334
+00:12:49.365 --> 00:12:51.045
+should have been auto billed three K,
+
+335
+00:12:51.225 --> 00:12:52.885
+but it failed due to whatever reason.
+
+336
+00:12:52.985 --> 00:12:55.885
+That's a default. So you put in this instance three K in
+
+337
+00:12:55.885 --> 00:12:57.885
+there, then you have your AR success rate,
+
+338
+00:12:58.015 --> 00:13:01.045
+which basically is total, um, you know,
+
+339
+00:13:01.045 --> 00:13:03.525
+if you had a hundred grand for, uh, due to be billed
+
+340
+00:13:04.145 --> 00:13:06.125
+and you only processed 90 grand of that,
+
+341
+00:13:06.125 --> 00:13:08.445
+your AR success rate would be 90%.
+
+342
+00:13:08.445 --> 00:13:10.885
+In this case it's 16.67%, right?
+
+343
+00:13:11.825 --> 00:13:14.305
+Um, actually no, this is incorrect.
+
+344
+00:13:14.305 --> 00:13:16.345
+This should be the inverse. I'll sort that out.
+
+345
+00:13:16.615 --> 00:13:19.375
+It's actually, um, it would be the inverse.
+
+346
+00:13:19.375 --> 00:13:24.135
+So it'll be like 86, 84, technically 83, 80 4% success rate.
+
+347
+00:13:24.245 --> 00:13:28.255
+This is failure rate. So this is AR failure rate was 16.67%.
+
+348
+00:13:28.605 --> 00:13:29.855
+I'll flip that now.
+
+349
+00:13:29.855 --> 00:13:31.535
+Number of refunds and disputes, pretty simple.
+
+350
+00:13:31.595 --> 00:13:33.015
+How many did you have that day? Let's say?
+
+351
+00:13:33.125 --> 00:13:35.855
+Well, it won't be two. Let's say one, um, refund
+
+352
+00:13:35.855 --> 00:13:37.255
+and dispute amounts of what did, like
+
+353
+00:13:37.255 --> 00:13:38.695
+what was the actual amount that you refunded?
+
+354
+00:13:38.695 --> 00:13:41.215
+Let's say it was 5K, then you have all cash,
+
+355
+00:13:41.215 --> 00:13:43.215
+which is obviously a automatically calculated.
+
+356
+00:13:43.445 --> 00:13:45.735
+This is based on total AR as well
+
+357
+00:13:45.735 --> 00:13:46.895
+as new cash collected for the day.
+
+358
+00:13:47.045 --> 00:13:49.575
+Then you have all cash collective roas, which is based on
+
+359
+00:13:50.035 --> 00:13:51.535
+how much did you spend that day versus
+
+360
+00:13:51.715 --> 00:13:52.935
+all cash collected that day.
+
+361
+00:13:53.035 --> 00:13:54.575
+That's your all cash collective roas.
+
+362
+00:13:54.845 --> 00:13:56.295
+Then obviously as you do this daily,
+
+363
+00:13:56.675 --> 00:13:58.295
+it will automatically populate here.
+
+364
+00:13:58.295 --> 00:14:00.495
+So you get your averages last four, last seven,
+
+365
+00:14:00.525 --> 00:14:01.615
+last 30 a month today.
+
+366
+00:14:02.115 --> 00:14:03.935
+Now, in terms of who fills this out,
+
+367
+00:14:04.755 --> 00:14:06.765
+what we do is we have individual
+
+368
+00:14:06.765 --> 00:14:08.085
+trackers for each department.
+
+369
+00:14:08.425 --> 00:14:09.685
+So they fill out their trackers.
+
+370
+00:14:09.685 --> 00:14:11.445
+Like for example, if you go into the, uh,
+
+371
+00:14:11.445 --> 00:14:13.645
+show rate tracker training, you'll see
+
+372
+00:14:13.645 --> 00:14:15.645
+that there's a sales coordinator tracker
+
+373
+00:14:15.645 --> 00:14:17.965
+where they track on their, um, in, in,
+
+374
+00:14:17.965 --> 00:14:19.045
+in that, uh, template.
+
+375
+00:14:19.155 --> 00:14:21.845
+They track all of these metrics here, right?
+
+376
+00:14:21.945 --> 00:14:24.045
+And offers made not cost per live call.
+
+377
+00:14:24.825 --> 00:14:26.125
+Uh, all these are the ones though, right?
+
+378
+00:14:26.225 --> 00:14:27.285
+So they'll track those there.
+
+379
+00:14:27.385 --> 00:14:28.725
+And then what we have is just a VA
+
+380
+00:14:28.825 --> 00:14:31.085
+who then goes into those trackers, takes the metrics,
+
+381
+00:14:31.185 --> 00:14:32.685
+and then comes into here and plugs it
+
+382
+00:14:32.685 --> 00:14:33.725
+into the respective columns.
+
+383
+00:14:33.875 --> 00:14:36.565
+Very, very simple. Not anything crazy, okay?
+
+384
+00:14:37.105 --> 00:14:39.605
+Now, month totals you can see here actually,
+
+385
+00:14:39.605 --> 00:14:41.405
+because with that just one example,
+
+386
+00:14:41.755 --> 00:14:45.085
+it's automatically pulled in all of these metrics here
+
+387
+00:14:45.425 --> 00:14:48.125
+for March, you know, month to date basically.
+
+388
+00:14:48.265 --> 00:14:50.885
+And so what will happen is as you go through, you fill all
+
+389
+00:14:50.885 --> 00:14:54.445
+of of this out for, you know, the 30, 31 days of March, um,
+
+390
+00:14:54.625 --> 00:14:56.845
+you'll then have a total for March
+
+391
+00:14:57.025 --> 00:14:58.445
+for all of those respective metrics.
+
+392
+00:14:58.865 --> 00:15:00.405
+Now, in this month, total section,
+
+393
+00:15:00.555 --> 00:15:03.845
+there's also a lot more metrics, which is speaking really
+
+394
+00:15:04.025 --> 00:15:05.405
+to, to just overall business success.
+
+395
+00:15:05.405 --> 00:15:07.205
+So you'll see here, uh,
+
+396
+00:15:09.095 --> 00:15:11.085
+where the first new one start.
+
+397
+00:15:11.515 --> 00:15:12.725
+Okay? So you've got here,
+
+398
+00:15:12.995 --> 00:15:15.045
+basically all these metrics are exactly the
+
+399
+00:15:15.045 --> 00:15:16.085
+same as on the daily totals.
+
+400
+00:15:16.085 --> 00:15:17.485
+You'll be able to cross reference those,
+
+401
+00:15:17.825 --> 00:15:21.085
+but here you've got first 30 day churn, which is essentially
+
+402
+00:15:21.305 --> 00:15:22.565
+how many new clients did you sign?
+
+403
+00:15:22.565 --> 00:15:23.805
+Like how many clients signed
+
+404
+00:15:24.025 --> 00:15:27.005
+and then churned within the first 30 days of them signing.
+
+405
+00:15:27.445 --> 00:15:29.325
+I like to track that metric differently
+
+406
+00:15:29.625 --> 00:15:31.045
+to my overall churn rate
+
+407
+00:15:31.045 --> 00:15:34.525
+because it's a very, very different solution in my opinion.
+
+408
+00:15:34.785 --> 00:15:38.045
+If you have a very high first 30 day churn, typically
+
+409
+00:15:38.305 --> 00:15:41.205
+that's indicative of, um, the congruency
+
+410
+00:15:41.205 --> 00:15:43.365
+between the sales call and the onboarding process.
+
+411
+00:15:43.925 --> 00:15:45.485
+Normally, if first 30 day churn is
+
+412
+00:15:45.485 --> 00:15:47.325
+high, normally there's something off there.
+
+413
+00:15:47.325 --> 00:15:50.925
+Either closes are over promising, um, saying, you know,
+
+414
+00:15:50.925 --> 00:15:52.125
+it's gonna be X, y, Z to get in
+
+415
+00:15:52.125 --> 00:15:53.845
+and like, this is not X, Y, ZI want out.
+
+416
+00:15:54.485 --> 00:15:56.725
+Normally that will happen in 30 days, first 30 days,
+
+417
+00:15:57.105 --> 00:15:59.325
+or, um, it can also be indicative
+
+418
+00:15:59.325 --> 00:16:00.725
+of your onboarding's just terrible.
+
+419
+00:16:01.155 --> 00:16:02.965
+Like you're just not onboarding clients very well.
+
+420
+00:16:03.265 --> 00:16:07.205
+You are, um, all your new clients have very high buys
+
+421
+00:16:07.325 --> 00:16:09.405
+remorse, so you're not like, you know, immediately trying
+
+422
+00:16:09.405 --> 00:16:12.605
+to deliver quick wins, introduce them proactively leading
+
+423
+00:16:12.605 --> 00:16:13.885
+them, et cetera, et cetera.
+
+424
+00:16:13.885 --> 00:16:15.205
+You're being very reactive.
+
+425
+00:16:15.205 --> 00:16:17.245
+There's a lot of things that can be happening in onboarding,
+
+426
+00:16:17.465 --> 00:16:18.925
+um, that could cause them to churn as well,
+
+427
+00:16:18.925 --> 00:16:20.125
+but that's also very common and
+
+428
+00:16:20.125 --> 00:16:22.445
+that's why your first 30 day churn could be high.
+
+429
+00:16:22.665 --> 00:16:24.205
+But again, I like to track that differently
+
+430
+00:16:24.205 --> 00:16:28.645
+because it's always first 30 day churn is really only based
+
+431
+00:16:28.645 --> 00:16:31.685
+on what's happening in those first 30 days, which sometimes
+
+432
+00:16:32.265 --> 00:16:36.725
+may not be a true representation of your core service,
+
+433
+00:16:36.725 --> 00:16:38.765
+which is why, again, I like to track that differently.
+
+434
+00:16:38.765 --> 00:16:39.765
+Whereas churn rate,
+
+435
+00:16:40.025 --> 00:16:41.725
+if you've got a very high churn rate in general,
+
+436
+00:16:41.915 --> 00:16:44.845
+that just means your overall service isn't good, right?
+
+437
+00:16:44.845 --> 00:16:46.285
+Like even after the first 30 days,
+
+438
+00:16:46.285 --> 00:16:47.405
+they're still not getting results
+
+439
+00:16:47.705 --> 00:16:50.005
+or client experience is bad, or whatever it is.
+
+440
+00:16:50.615 --> 00:16:52.805
+Churn rate really is just propped up
+
+441
+00:16:52.945 --> 00:16:54.325
+by client results and client experience.
+
+442
+00:16:54.325 --> 00:16:56.205
+That's literally it. Um,
+
+443
+00:16:56.225 --> 00:16:57.645
+but anyway, I like to track that differently.
+
+444
+00:16:57.865 --> 00:17:00.525
+So what we do is obviously you're not gonna ever track churn
+
+445
+00:17:00.525 --> 00:17:01.925
+rate on a daily basis
+
+446
+00:17:02.305 --> 00:17:05.125
+and all the, the metrics that are on the month total
+
+447
+00:17:05.345 --> 00:17:07.165
+and not on the daily total, it's because of that.
+
+448
+00:17:07.165 --> 00:17:09.885
+Like, you're not gonna track churn rate daily, right?
+
+449
+00:17:09.885 --> 00:17:11.725
+You'll really only track that monthly, right?
+
+450
+00:17:11.905 --> 00:17:13.125
+So that's why it's just only on the
+
+451
+00:17:13.125 --> 00:17:14.165
+month total, not the day total.
+
+452
+00:17:15.025 --> 00:17:17.885
+Now total active clients, um, uh,
+
+453
+00:17:17.885 --> 00:17:20.205
+total active pay paying clients at the end of the month,
+
+454
+00:17:20.465 --> 00:17:21.725
+we like to track this metric
+
+455
+00:17:21.725 --> 00:17:24.565
+because then we like to look at what's our net new clients.
+
+456
+00:17:24.825 --> 00:17:26.445
+That's an extremely important metric.
+
+457
+00:17:26.565 --> 00:17:27.485
+'cause that shows you if you're growing
+
+458
+00:17:27.485 --> 00:17:28.205
+or if you're not, right?
+
+459
+00:17:28.225 --> 00:17:29.725
+If you sign 10 new clients
+
+460
+00:17:30.025 --> 00:17:31.925
+and you churn 10 clients, you're not growing,
+
+461
+00:17:31.925 --> 00:17:33.485
+you're completely stagnating, right?
+
+462
+00:17:33.485 --> 00:17:35.605
+Whereas if you track net new clients each month,
+
+463
+00:17:35.975 --> 00:17:37.045
+it'll become very obvious.
+
+464
+00:17:37.045 --> 00:17:38.005
+That goes back to what I was
+
+465
+00:17:38.005 --> 00:17:38.805
+saying at the start of the video.
+
+466
+00:17:39.425 --> 00:17:43.005
+Um, it allows you to diagnose the real constraint.
+
+467
+00:17:43.005 --> 00:17:44.485
+And it's very easy to do. So.
+
+468
+00:17:44.715 --> 00:17:47.645
+Like, you know, you like, I've, I've had it in the past
+
+469
+00:17:47.645 --> 00:17:49.045
+where like, uh, somebody will come to me, me
+
+470
+00:17:49.045 --> 00:17:51.325
+and say, I'm not growing, and they have no idea.
+
+471
+00:17:51.355 --> 00:17:53.005
+Like genuinely they have no idea why,
+
+472
+00:17:53.025 --> 00:17:54.965
+but that example I just gave is exactly why
+
+473
+00:17:54.965 --> 00:17:56.325
+they're signing 10 new clients a month.
+
+474
+00:17:56.325 --> 00:17:57.445
+So they're like, you know, we're signing
+
+475
+00:17:57.505 --> 00:17:58.965
+10, 20, 30 new clients a month.
+
+476
+00:17:59.345 --> 00:18:02.205
+Um, but they don't realize they're also churning 10, 20,
+
+477
+00:18:02.205 --> 00:18:04.565
+or 30 new clients, uh, uh, existing clients a month.
+
+478
+00:18:04.825 --> 00:18:07.685
+So I'm like, that's why, right? But they can't see that.
+
+479
+00:18:07.715 --> 00:18:10.565
+Whereas this, it just shows you clear as day, like,
+
+480
+00:18:10.625 --> 00:18:13.005
+you know, your net new clients, then you have number
+
+481
+00:18:13.005 --> 00:18:16.845
+of refunds, same as before, the value of those refunds.
+
+482
+00:18:17.195 --> 00:18:19.965
+Here you have your refund dispute rate, which is based on,
+
+483
+00:18:20.665 --> 00:18:22.645
+uh, this, this is automatically pulled in.
+
+484
+00:18:23.145 --> 00:18:26.405
+Um, but obviously that's just basically, uh, um, it's,
+
+485
+00:18:26.475 --> 00:18:29.805
+it's technically it's based on your total payments versus
+
+486
+00:18:30.345 --> 00:18:32.125
+how many refunds or disputes that you had,
+
+487
+00:18:32.265 --> 00:18:34.245
+but it's total unique payments,
+
+488
+00:18:34.265 --> 00:18:35.565
+not total volume of payments.
+
+489
+00:18:35.565 --> 00:18:37.205
+Does that make sense? So if you have a client pays you twice
+
+490
+00:18:37.305 --> 00:18:39.085
+in a month for whatever reason, um,
+
+491
+00:18:39.195 --> 00:18:40.925
+that would still be counted as one payment, right?
+
+492
+00:18:40.925 --> 00:18:43.445
+In terms of total payments, this actually, I don't know
+
+493
+00:18:43.445 --> 00:18:45.165
+what this formula is based on, 'cause that is not correct.
+
+494
+00:18:45.385 --> 00:18:48.205
+We manually, um, you can delete this formula
+
+495
+00:18:48.305 --> 00:18:49.405
+for refund and dispute rate.
+
+496
+00:18:49.585 --> 00:18:52.165
+We manually put this in at the end of each month
+
+497
+00:18:52.165 --> 00:18:54.085
+because again, we need
+
+498
+00:18:54.085 --> 00:18:55.925
+to track total unique payments for the month.
+
+499
+00:18:56.065 --> 00:18:58.165
+And then we look at total refunds or disputes for the month,
+
+500
+00:18:58.165 --> 00:19:01.485
+and then we divide it, divide, um, uh, refunds, disputes
+
+501
+00:19:01.485 --> 00:19:03.085
+by total unique payments,
+
+502
+00:19:03.185 --> 00:19:05.205
+and then that will give you your refund and
+
+503
+00:19:05.205 --> 00:19:07.005
+or dis well refund and dispute rate.
+
+504
+00:19:08.025 --> 00:19:11.405
+Um, all cash collected, cash row ads, same stuff that
+
+505
+00:19:11.405 --> 00:19:13.325
+that's automatically, um, uh,
+
+506
+00:19:13.385 --> 00:19:14.645
+pulled from the, from the daily.
+
+507
+00:19:14.945 --> 00:19:16.245
+Now here is where all
+
+508
+00:19:16.245 --> 00:19:18.365
+of these metrics are only month end metrics
+
+509
+00:19:18.365 --> 00:19:19.365
+that you manually import.
+
+510
+00:19:19.365 --> 00:19:21.245
+And again, who does this for us is our CFO.
+
+511
+00:19:21.245 --> 00:19:23.045
+So he just basically works this out,
+
+512
+00:19:23.045 --> 00:19:24.725
+comes in each month and plugs it in here.
+
+513
+00:19:25.145 --> 00:19:30.045
+Um, so revenue on a accruals basis essentially refers
+
+514
+00:19:30.045 --> 00:19:32.085
+to, in our case, right?
+
+515
+00:19:32.625 --> 00:19:35.365
+We will, if in a given month, let's say for example,
+
+516
+00:19:35.425 --> 00:19:36.725
+we sign 10, well,
+
+517
+00:19:36.725 --> 00:19:39.765
+we sign 10 pay in full specific clients, right?
+
+518
+00:19:40.225 --> 00:19:43.805
+So that's 150 grand who paid in full for four months, okay?
+
+519
+00:19:44.355 --> 00:19:47.365
+That would be 150 K in cash collected, obviously,
+
+520
+00:19:48.225 --> 00:19:52.525
+but revenue there on a accruals basis would only be,
+
+521
+00:19:53.225 --> 00:19:56.645
+uh, uh, well, I'll tell you this, it will be three, uh,
+
+522
+00:19:56.645 --> 00:19:58.245
+37,500.
+
+523
+00:19:58.545 --> 00:20:01.365
+Why is that? Because that, that client has bought
+
+524
+00:20:01.585 --> 00:20:03.005
+for four months, right?
+
+525
+00:20:03.865 --> 00:20:08.005
+Um, and our expenses are split across four months.
+
+526
+00:20:08.225 --> 00:20:11.045
+So yes, this month we did 150 grand in cash collected.
+
+527
+00:20:11.125 --> 00:20:13.805
+'cause we had 10 clients, for example, pay in full, um,
+
+528
+00:20:13.905 --> 00:20:15.925
+or 200 k if they did 20 k pay in full.
+
+529
+00:20:16.185 --> 00:20:19.205
+But, um, on from an accrual perspective,
+
+530
+00:20:19.345 --> 00:20:21.405
+it was really only 37,500
+
+531
+00:20:21.405 --> 00:20:23.485
+because we need to save the remainder
+
+532
+00:20:23.705 --> 00:20:24.885
+for obviously the next three months.
+
+533
+00:20:25.085 --> 00:20:26.565
+'cause our costs, we also have costs on
+
+534
+00:20:26.565 --> 00:20:27.605
+that account for the next three months.
+
+535
+00:20:27.865 --> 00:20:29.405
+If we had 150 grand this month
+
+536
+00:20:29.425 --> 00:20:32.565
+and then we just used all of that cash for whatever, well,
+
+537
+00:20:32.615 --> 00:20:34.885
+we're gonna be in a bad situation
+
+538
+00:20:34.885 --> 00:20:36.885
+because we need to still fulfill on that service
+
+539
+00:20:36.945 --> 00:20:38.165
+for the next three months for that client
+
+540
+00:20:38.265 --> 00:20:39.685
+who just paid in advance, right?
+
+541
+00:20:39.945 --> 00:20:43.085
+So we track here, as you can see, all cash collected.
+
+542
+00:20:43.085 --> 00:20:45.165
+So we track this, but we also track revenue
+
+543
+00:20:45.755 --> 00:20:46.965
+from an accrual perspective.
+
+544
+00:20:47.825 --> 00:20:51.365
+And of course, cash is always significantly higher than the
+
+545
+00:20:51.365 --> 00:20:53.045
+revenue because of the pay in force, right?
+
+546
+00:20:53.045 --> 00:20:54.365
+Hopefully that makes sense. So we track that,
+
+547
+00:20:54.675 --> 00:20:56.645
+then we track total marketing expense.
+
+548
+00:20:56.865 --> 00:20:58.845
+So that's just basically ad cost, like how much,
+
+549
+00:20:58.845 --> 00:21:00.005
+what was the total ad cost?
+
+550
+00:21:00.185 --> 00:21:02.485
+Um, and sometimes the reason we don't just automatically
+
+551
+00:21:02.485 --> 00:21:04.845
+pull from this number here, which is total ad spend, is
+
+552
+00:21:04.925 --> 00:21:07.125
+'cause there can be, or the cost for, uh, marketing.
+
+553
+00:21:07.125 --> 00:21:09.725
+Like if you have a marketing team, for example, so like
+
+554
+00:21:09.725 --> 00:21:11.645
+with if you're a client where we are done for you,
+
+555
+00:21:12.215 --> 00:21:13.725
+where we're running our ads for you,
+
+556
+00:21:14.265 --> 00:21:16.325
+our expense would go into marketing expense.
+
+557
+00:21:16.325 --> 00:21:17.125
+Does that make sense? So
+
+558
+00:21:17.155 --> 00:21:18.405
+this, sometimes there is other costs.
+
+559
+00:21:18.705 --> 00:21:22.485
+Um, then you have, so we track, uh, marketing as a percent
+
+560
+00:21:22.585 --> 00:21:23.725
+of total income.
+
+561
+00:21:23.905 --> 00:21:26.205
+So if we did a hundred K in cash
+
+562
+00:21:26.625 --> 00:21:29.925
+and we spent 10 K on ads, this number would be 10%,
+
+563
+00:21:29.925 --> 00:21:31.405
+which actually would be extremely healthy.
+
+564
+00:21:31.825 --> 00:21:35.405
+Um, typically our KPI for this number is around between 20
+
+565
+00:21:35.585 --> 00:21:36.645
+and 25%.
+
+566
+00:21:37.665 --> 00:21:39.685
+Um, then we do the exact same thing for payroll.
+
+567
+00:21:39.825 --> 00:21:42.165
+So we go, what was total payroll for the month, um,
+
+568
+00:21:42.545 --> 00:21:44.245
+versus cash collected for the month.
+
+569
+00:21:44.245 --> 00:21:46.125
+So again, using the example, a hundred k, yeah,
+
+570
+00:21:46.125 --> 00:21:47.965
+20 K in payroll, you'll be at 20%.
+
+571
+00:21:48.265 --> 00:21:51.085
+Uh, again, usually payroll, we wanna see it between 25
+
+572
+00:21:51.305 --> 00:21:52.925
+and 30% on the p
+
+573
+00:21:52.925 --> 00:21:54.605
+and l, which we track right here, payroll,
+
+574
+00:21:54.605 --> 00:21:55.645
+percent of total income.
+
+575
+00:21:55.665 --> 00:21:57.285
+And then we do the exact same thing for overhead.
+
+576
+00:21:57.725 --> 00:21:59.765
+Overhead really is just like, um, you know,
+
+577
+00:21:59.765 --> 00:22:01.405
+like miscellaneous costs, like if you was
+
+578
+00:22:01.405 --> 00:22:02.725
+to get a new contract scripted up,
+
+579
+00:22:02.725 --> 00:22:04.005
+for example, that would be overhead.
+
+580
+00:22:04.185 --> 00:22:08.005
+Uh, your, um, uh, payment processor fees, right?
+
+581
+00:22:08.005 --> 00:22:09.805
+On Stripe, they take X percent or whatever.
+
+582
+00:22:10.065 --> 00:22:12.965
+Um, they, uh, you know, that would be part of your overhead.
+
+583
+00:22:13.185 --> 00:22:15.725
+Any software expenses will be part of overhead, et cetera.
+
+584
+00:22:15.985 --> 00:22:17.445
+Um, and then we do the exact same thing.
+
+585
+00:22:17.595 --> 00:22:20.085
+Typically, you wanna see overhead at about five,
+
+586
+00:22:20.085 --> 00:22:24.005
+between five and 7% total of, uh, cash collected.
+
+587
+00:22:24.715 --> 00:22:27.725
+Then you have your gross profit, gross profit margin, uh,
+
+588
+00:22:27.725 --> 00:22:31.005
+then you have your ebitda EBITDA margin, which is, again,
+
+589
+00:22:31.005 --> 00:22:32.765
+extremely important, uh, to track.
+
+590
+00:22:32.945 --> 00:22:34.405
+And again, that's what I was also talking about.
+
+591
+00:22:34.405 --> 00:22:36.005
+You know, if you ever want to look at selling,
+
+592
+00:22:36.235 --> 00:22:37.685
+this is the best track of all that.
+
+593
+00:22:37.795 --> 00:22:42.005
+Then you have your estimated tax on your, um, on your,
+
+594
+00:22:42.005 --> 00:22:43.685
+on the obviously really the ebitda,
+
+595
+00:22:43.865 --> 00:22:45.205
+and then you have retained earnings.
+
+596
+00:22:45.205 --> 00:22:47.245
+So retained earnings, I define, I think a lot
+
+597
+00:22:47.245 --> 00:22:49.045
+of people have different definitions for this.
+
+598
+00:22:49.365 --> 00:22:51.765
+I define retainer earnings as essentially
+
+599
+00:22:52.655 --> 00:22:53.845
+after all expenses.
+
+600
+00:22:53.945 --> 00:22:57.165
+So EBITDA is basically, there's, again,
+
+601
+00:22:57.325 --> 00:22:58.605
+different people have different, um,
+
+602
+00:22:58.925 --> 00:23:00.125
+meanings for these things, right?
+
+603
+00:23:00.305 --> 00:23:03.845
+But I look at EBITDA as basically your NOI, okay, so your,
+
+604
+00:23:03.905 --> 00:23:07.165
+um, uh, NOI, uh, being net operating income.
+
+605
+00:23:07.265 --> 00:23:10.725
+So let's say you did a hundred K in, in, in total cash,
+
+606
+00:23:11.745 --> 00:23:15.755
+then you had, uh, 50 K in expenses, right?
+
+607
+00:23:16.225 --> 00:23:18.875
+Your EBITDA would be 50 K, right?
+
+608
+00:23:19.425 --> 00:23:21.195
+Then you have outta that 50 K,
+
+609
+00:23:21.195 --> 00:23:23.355
+you've gotta then take out taxes, et cetera.
+
+610
+00:23:23.785 --> 00:23:28.435
+Then also outta that 50 k, if you wanted to look at,
+
+611
+00:23:28.495 --> 00:23:31.955
+for example, a new coaching program, right now, you would,
+
+612
+00:23:32.315 --> 00:23:35.315
+I, I would argue that coaching program you're gonna buy is
+
+613
+00:23:35.315 --> 00:23:38.195
+essential to you keeping your competitive edge, right?
+
+614
+00:23:38.295 --> 00:23:40.515
+In your business for you to learn more stuff so
+
+615
+00:23:40.515 --> 00:23:41.835
+that you can eventually grow the business
+
+616
+00:23:42.015 --> 00:23:43.915
+or maybe you're currently experiencing a constraint,
+
+617
+00:23:43.915 --> 00:23:46.445
+which this coaching program is gonna eventually allow you
+
+618
+00:23:46.445 --> 00:23:49.005
+to, um, solve, right?
+
+619
+00:23:49.005 --> 00:23:50.605
+Hopefully if they're, you know, if it's a good program.
+
+620
+00:23:51.185 --> 00:23:53.725
+Um, okay, great. So all of that needs to come out
+
+621
+00:23:53.725 --> 00:23:56.805
+of your 50 k uh, uh, ebitda, right?
+
+622
+00:23:57.035 --> 00:24:00.245
+Okay, great. Then retained earnings is basically
+
+623
+00:24:00.255 --> 00:24:04.085
+after all of those expenses, your tax, your, um, your, uh,
+
+624
+00:24:04.225 --> 00:24:06.845
+you know, uh, investment into, uh, it's kind
+
+625
+00:24:06.845 --> 00:24:10.725
+of like CapEx in a way, depending on how you look at CapEx,
+
+626
+00:24:10.845 --> 00:24:12.645
+I would probably say it's capital expenditure, right?
+
+627
+00:24:12.645 --> 00:24:13.645
+Where you are investing
+
+628
+00:24:13.645 --> 00:24:15.285
+for the future growth of the business, et cetera.
+
+629
+00:24:15.655 --> 00:24:18.645
+After all of that, you then have retained earnings.
+
+630
+00:24:18.875 --> 00:24:21.125
+Does that make sense? So in other words, retained earnings,
+
+631
+00:24:21.125 --> 00:24:22.365
+you can kind of look at it is
+
+632
+00:24:22.495 --> 00:24:26.485
+after all expenses, whether it's, you know, uh, cost
+
+633
+00:24:26.485 --> 00:24:28.765
+to run the business, like operating costs
+
+634
+00:24:29.265 --> 00:24:31.165
+or it's investment costs.
+
+635
+00:24:31.825 --> 00:24:33.565
+As I say, capital expenditure, CapEx,
+
+636
+00:24:33.855 --> 00:24:36.565
+after all of those, your retained earnings is what's left
+
+637
+00:24:36.585 --> 00:24:37.645
+at the end of the day, okay?
+
+638
+00:24:38.105 --> 00:24:39.485
+Uh, again, at least that's
+
+639
+00:24:39.485 --> 00:24:41.085
+how I track it, that's how I look at it.
+
+640
+00:24:41.305 --> 00:24:44.195
+Now, as you, you know,
+
+641
+00:24:44.195 --> 00:24:45.515
+if you're doing like 10 grand a month right now,
+
+642
+00:24:45.515 --> 00:24:46.635
+you might be looking at this and thinking,
+
+643
+00:24:46.635 --> 00:24:47.715
+this is just way too much.
+
+644
+00:24:48.655 --> 00:24:51.315
+Please just start tracking anyway, yes.
+
+645
+00:24:51.315 --> 00:24:53.515
+You won't need a lot of this. You probably won't even have
+
+646
+00:24:53.595 --> 00:24:54.675
+a lot of these metrics, right?
+
+647
+00:24:54.975 --> 00:24:56.915
+Um, well you probably have most of them actually.
+
+648
+00:24:56.915 --> 00:24:58.275
+But like, maybe if you're really, really small,
+
+649
+00:24:58.275 --> 00:25:00.875
+you may not have like payroll for example, but that's fine.
+
+650
+00:25:00.875 --> 00:25:03.755
+Just put zero in payroll, like, you know, still use it.
+
+651
+00:25:03.755 --> 00:25:05.115
+Still get into the habit of this
+
+652
+00:25:05.115 --> 00:25:07.435
+because I'll tell you one thing, if I had this earlier,
+
+653
+00:25:08.675 --> 00:25:11.435
+I would be a lot further than I am right now, period.
+
+654
+00:25:11.695 --> 00:25:13.515
+And obviously if you are doing, you know, a hundred,
+
+655
+00:25:13.515 --> 00:25:17.035
+200, 300, 500 KA month, whatever, if you start this like,
+
+656
+00:25:17.325 --> 00:25:19.755
+trust me, your life's gonna become so much easier.
+
+657
+00:25:20.035 --> 00:25:21.915
+'cause like I said before, I just opened this,
+
+658
+00:25:21.915 --> 00:25:23.835
+typically at the start of every week on a Sunday
+
+659
+00:25:23.855 --> 00:25:25.635
+or a Monday, I'll just look at it.
+
+660
+00:25:26.065 --> 00:25:27.835
+I'll identify our current biggest constraint
+
+661
+00:25:27.835 --> 00:25:29.075
+and my focus for that week is
+
+662
+00:25:29.075 --> 00:25:30.555
+to put a plan in place to solve it.
+
+663
+00:25:30.585 --> 00:25:32.115
+That might mean hiring somebody new.
+
+664
+00:25:32.225 --> 00:25:33.715
+That might mean creating better ads.
+
+665
+00:25:33.715 --> 00:25:36.275
+That might mean, you know, better training our managers
+
+666
+00:25:36.475 --> 00:25:38.435
+or our leaders to be able to improve.
+
+667
+00:25:39.025 --> 00:25:40.115
+Like at one point, for example,
+
+668
+00:25:40.135 --> 00:25:42.235
+our churn rate was very high and it was very evident.
+
+669
+00:25:42.435 --> 00:25:44.635
+I could just see it, it was above what we wanted it to be.
+
+670
+00:25:44.775 --> 00:25:46.755
+So then I went on a, it was probably a month
+
+671
+00:25:46.775 --> 00:25:49.635
+or two where I went like really, really deep
+
+672
+00:25:49.745 --> 00:25:50.995
+with our client success director,
+
+673
+00:25:51.335 --> 00:25:53.115
+and now all of a sudden our churn rate's perfect.
+
+674
+00:25:53.335 --> 00:25:55.595
+I'm like, great, now it's on to the next thing, right?
+
+675
+00:25:55.895 --> 00:25:58.675
+So anyway, that's the, uh, master business tracker.
+
+676
+00:25:59.175 --> 00:26:00.715
+Any questions on this, please, lemme know.
+
+677
+00:26:00.715 --> 00:26:03.155
+I know it's a lot, but just let me know, start to use it
+
+678
+00:26:03.255 --> 00:26:04.515
+and, uh, thank me later.
+
+679
+00:26:04.735 --> 00:26:06.315
+So I will, uh, see you in the next one.

@@ -1,0 +1,5361 @@
+WEBVTT
+
+1
+00:00:00.105 --> 00:00:01.125
+So if you're a CEO
+
+2
+00:00:01.125 --> 00:00:02.925
+and you're at 5 million a year wanting to get to 10,
+
+3
+00:00:02.925 --> 00:00:04.805
+you're at 10 wanting to get to 20 million a year,
+
+4
+00:00:05.285 --> 00:00:06.565
+whatever your current situation is,
+
+5
+00:00:06.565 --> 00:00:07.965
+you're at a million wanting to get to five.
+
+6
+00:00:08.435 --> 00:00:12.165
+There's really only one thing that you can physically do
+
+7
+00:00:12.425 --> 00:00:14.125
+to get to that point and
+
+8
+00:00:14.125 --> 00:00:16.445
+that one thing is you could influence
+
+9
+00:00:17.315 --> 00:00:18.605
+this metric in your business,
+
+10
+00:00:18.605 --> 00:00:20.165
+which is lifetime gross profit to C.
+
+11
+00:00:20.185 --> 00:00:22.365
+Now, you would've heard, uh, Alex mostly speak about this.
+
+12
+00:00:22.365 --> 00:00:24.645
+This is what I first learned about this
+
+13
+00:00:24.745 --> 00:00:26.045
+metric in this format.
+
+14
+00:00:26.625 --> 00:00:30.005
+Um, obviously we do the, these six levers to pull, um,
+
+15
+00:00:30.775 --> 00:00:31.965
+which influence this format,
+
+16
+00:00:31.965 --> 00:00:33.085
+which I'll get into here in a minute.
+
+17
+00:00:33.705 --> 00:00:35.445
+So we was, we've always been focused on those,
+
+18
+00:00:35.505 --> 00:00:38.845
+but like talking about it in this way over ratio
+
+19
+00:00:38.865 --> 00:00:41.325
+as lifetime graphs puppet to cag, I got it from homo.
+
+20
+00:00:41.585 --> 00:00:43.725
+So communicating it in that way, I wanna give him credit for
+
+21
+00:00:43.725 --> 00:00:44.925
+that because that's where I got it from.
+
+22
+00:00:45.345 --> 00:00:49.205
+But really there's this, it's this metric
+
+23
+00:00:49.225 --> 00:00:52.125
+and again, based on this metric, there are six levers
+
+24
+00:00:52.125 --> 00:00:53.445
+that stem from this metric,
+
+25
+00:00:53.575 --> 00:00:56.445
+which the six levers are the only levers
+
+26
+00:00:56.445 --> 00:00:58.765
+that you can pull in your business outside of volume.
+
+27
+00:00:58.865 --> 00:01:00.365
+So you can obviously just put more volume
+
+28
+00:01:00.365 --> 00:01:02.725
+through the system, but if you wanna make the system more
+
+29
+00:01:02.925 --> 00:01:04.725
+efficient, there's only six things
+
+30
+00:01:04.725 --> 00:01:06.805
+that you can do in your company to scale.
+
+31
+00:01:07.705 --> 00:01:12.005
+And as I said here, those six levers fundamentally group up
+
+32
+00:01:12.305 --> 00:01:13.805
+two this metric.
+
+33
+00:01:13.875 --> 00:01:17.285
+Does that make sense? And this one metric is the only thing
+
+34
+00:01:17.285 --> 00:01:19.085
+you really need to know and manipulate
+
+35
+00:01:19.305 --> 00:01:20.685
+to scale any business.
+
+36
+00:01:20.875 --> 00:01:23.205
+Also, if you ever wanted to go into the investing world,
+
+37
+00:01:23.465 --> 00:01:25.765
+the this is the only metric primarily that you need
+
+38
+00:01:25.765 --> 00:01:27.725
+to know about a bi a potential business.
+
+39
+00:01:27.725 --> 00:01:29.045
+You're weighing up to see whether
+
+40
+00:01:29.105 --> 00:01:31.605
+or not it's a efficient business to see whether
+
+41
+00:01:31.605 --> 00:01:33.125
+or not it's profitable business to see
+
+42
+00:01:33.425 --> 00:01:34.845
+how profitable it actually is.
+
+43
+00:01:35.225 --> 00:01:38.265
+So essentially what this, uh, metric refers
+
+44
+00:01:38.265 --> 00:01:40.825
+to lifetime gross profit to CAC is it refers to
+
+45
+00:01:40.925 --> 00:01:42.825
+how much do you make in profit per new
+
+46
+00:01:42.825 --> 00:01:43.985
+client over their lifetime.
+
+47
+00:01:43.985 --> 00:01:44.985
+That's essentially what it is.
+
+48
+00:01:44.985 --> 00:01:47.025
+How much do you make in profit per new
+
+49
+00:01:47.025 --> 00:01:48.465
+client over their lifetime?
+
+50
+00:01:48.925 --> 00:01:50.865
+And so let's break each side down.
+
+51
+00:01:50.865 --> 00:01:53.065
+So you've got the left side, which is LTGP,
+
+52
+00:01:53.065 --> 00:01:54.105
+which is lifetime gross profit,
+
+53
+00:01:54.525 --> 00:01:59.025
+and that's determined by lifetime value minus total cost
+
+54
+00:01:59.025 --> 00:02:00.545
+of goods sold or total cos
+
+55
+00:02:00.655 --> 00:02:02.265
+that equals your lifetime gross profit.
+
+56
+00:02:02.565 --> 00:02:05.385
+And it essentially means the total profit a business
+
+57
+00:02:05.385 --> 00:02:07.505
+receives over the lifetime from a client.
+
+58
+00:02:07.605 --> 00:02:10.825
+And this should be the total gross profit.
+
+59
+00:02:11.095 --> 00:02:13.665
+Okay, so let's just, let's say for example,
+
+60
+00:02:13.885 --> 00:02:14.905
+you have the following numbers.
+
+61
+00:02:14.975 --> 00:02:17.865
+Yeah, your price point's 2K, your cogs cost
+
+62
+00:02:17.865 --> 00:02:19.505
+of good sold are 500 a month
+
+63
+00:02:19.645 --> 00:02:22.305
+and you have a 10% churn rate, obviously very simple.
+
+64
+00:02:22.725 --> 00:02:25.905
+Um, in terms of determining these metrics specifically,
+
+65
+00:02:25.905 --> 00:02:27.905
+obviously your price point is your price home.
+
+66
+00:02:27.985 --> 00:02:29.105
+I mean that's not hard. Uh,
+
+67
+00:02:29.105 --> 00:02:30.905
+but your cogs, how you figure out your cost
+
+68
+00:02:30.905 --> 00:02:33.585
+of goods sold is this is essentially how much does it cost
+
+69
+00:02:33.585 --> 00:02:34.945
+to fulfill on a respective client
+
+70
+00:02:34.975 --> 00:02:36.945
+inclusive of sales commissions.
+
+71
+00:02:37.205 --> 00:02:38.905
+And normally you, ideally you want
+
+72
+00:02:38.905 --> 00:02:40.545
+to figure this out on a monthly basis
+
+73
+00:02:40.785 --> 00:02:42.465
+'cause it makes all the other metrics downstream
+
+74
+00:02:42.465 --> 00:02:43.505
+much easier to figure out as well.
+
+75
+00:02:43.725 --> 00:02:47.225
+So if you have fixed costs of any kind, you want
+
+76
+00:02:47.225 --> 00:02:50.465
+to do your best job averaging those costs, um,
+
+77
+00:02:50.645 --> 00:02:53.905
+on a per client per month basis so that you can get as close
+
+78
+00:02:53.905 --> 00:02:56.705
+to accurate cogs as possible again, on a monthly basis.
+
+79
+00:02:56.845 --> 00:02:59.205
+Now, if you need to, I would obviously recommend
+
+80
+00:02:59.205 --> 00:03:01.125
+to overestimate versus underestimate.
+
+81
+00:03:01.125 --> 00:03:02.325
+So if you can't figure something out,
+
+82
+00:03:02.325 --> 00:03:03.485
+whether it's a hundred a month
+
+83
+00:03:03.485 --> 00:03:04.525
+or 200 a month, just go
+
+84
+00:03:04.525 --> 00:03:06.765
+with the 200 go uh, worst case scenario.
+
+85
+00:03:07.425 --> 00:03:08.845
+So that's how you figure out your CO's very simple.
+
+86
+00:03:08.905 --> 00:03:10.645
+We just look at when a new client comes on board,
+
+87
+00:03:10.715 --> 00:03:12.965
+what are my costs associated to fulfilling on that account?
+
+88
+00:03:12.965 --> 00:03:14.325
+That's really all it is.
+
+89
+00:03:14.425 --> 00:03:15.885
+And then as I say, if you have fixed cost,
+
+90
+00:03:16.075 --> 00:03:18.565
+well then you need to look at how much capacity can
+
+91
+00:03:18.565 --> 00:03:20.045
+that fixed cost, um,
+
+92
+00:03:20.305 --> 00:03:23.085
+or how much capacity, how many clients does
+
+93
+00:03:23.085 --> 00:03:24.405
+that fixed cost service?
+
+94
+00:03:24.785 --> 00:03:27.645
+So for example, if you have a fixed cost of a copywriter,
+
+95
+00:03:27.795 --> 00:03:29.645
+well that copywriter is going to, whether
+
+96
+00:03:29.665 --> 00:03:30.885
+or not you know this number right now
+
+97
+00:03:30.885 --> 00:03:33.245
+or not, they are going to have some kind of capacity.
+
+98
+00:03:33.245 --> 00:03:34.645
+They're not gonna be able to write the copy
+
+99
+00:03:34.705 --> 00:03:36.365
+for like a thousand clients in one month, right?
+
+100
+00:03:36.365 --> 00:03:38.085
+So at some point they're gonna get capped out.
+
+101
+00:03:38.085 --> 00:03:39.565
+So you wanna try and just figure out roughly
+
+102
+00:03:39.835 --> 00:03:42.325
+what the capacity of that copywriter even a software.
+
+103
+00:03:42.705 --> 00:03:45.645
+Um, so you know, if a software is infinitely scalable,
+
+104
+00:03:45.715 --> 00:03:48.045
+like you genuinely could have 10,000 clients for
+
+105
+00:03:48.045 --> 00:03:49.365
+that one software and the cost isn't
+
+106
+00:03:49.365 --> 00:03:50.485
+gonna increase, that's okay.
+
+107
+00:03:50.675 --> 00:03:53.245
+What I would do though in that instance is I would look at,
+
+108
+00:03:53.245 --> 00:03:55.845
+okay, on average, how many clients am I signing a month?
+
+109
+00:03:56.065 --> 00:03:57.725
+And then divide. If it's 20 a month,
+
+110
+00:03:57.755 --> 00:04:00.565
+your software cost is whatever it is, 2000.
+
+111
+00:04:00.865 --> 00:04:04.605
+Um, then obviously I would, um, go 2000 divided by 20.
+
+112
+00:04:04.625 --> 00:04:06.205
+And then you get your monthly per,
+
+113
+00:04:06.275 --> 00:04:08.365
+like your monthly cost per client that you sign.
+
+114
+00:04:08.365 --> 00:04:10.285
+Now of course in that instance, you're gonna get the scale,
+
+115
+00:04:10.305 --> 00:04:11.325
+uh, economics of scale.
+
+116
+00:04:11.325 --> 00:04:13.405
+So as you sign more clients, the cost is gonna go down.
+
+117
+00:04:13.545 --> 00:04:16.485
+But again, in this instance we just wanna look at worst case
+
+118
+00:04:16.725 --> 00:04:17.725
+scenario right now, if we was
+
+119
+00:04:17.725 --> 00:04:19.925
+to only continue signing 20 clients a month as an example,
+
+120
+00:04:20.305 --> 00:04:21.685
+uh, what is this cost worth
+
+121
+00:04:21.705 --> 00:04:23.605
+or what's the software cost per new client?
+
+122
+00:04:23.605 --> 00:04:25.565
+Okay, so you wanna add all those up.
+
+123
+00:04:25.715 --> 00:04:28.085
+Find your cost could sold right per client that you sign.
+
+124
+00:04:28.385 --> 00:04:30.405
+Now churn, churn is very simple as well.
+
+125
+00:04:30.545 --> 00:04:31.685
+All you need to look at is
+
+126
+00:04:31.685 --> 00:04:33.725
+how many active clients did you enter a particular month
+
+127
+00:04:33.725 --> 00:04:36.365
+with and how many of those existing clients were still
+
+128
+00:04:36.365 --> 00:04:37.885
+active by end of month?
+
+129
+00:04:38.145 --> 00:04:40.805
+Now the churn does not include new client signed.
+
+130
+00:04:40.805 --> 00:04:41.885
+That's really important to note.
+
+131
+00:04:42.145 --> 00:04:45.205
+So if you enter the month of August, uh,
+
+132
+00:04:45.205 --> 00:04:46.365
+with a hundred active clients
+
+133
+00:04:46.665 --> 00:04:50.565
+and in August you sign 50 new clients in that month, um,
+
+134
+00:04:51.055 --> 00:04:52.245
+churn will be determined
+
+135
+00:04:52.245 --> 00:04:54.565
+by the original a hundred you enter the month with.
+
+136
+00:04:54.905 --> 00:04:57.685
+Um, and the 50 new clients will be counted in
+
+137
+00:04:57.965 --> 00:04:59.445
+September's active clients.
+
+138
+00:04:59.545 --> 00:05:02.605
+So September would be, in this case, 150 clients active,
+
+139
+00:05:03.205 --> 00:05:04.565
+assuming non left in August.
+
+140
+00:05:04.665 --> 00:05:06.685
+So as an example, if you entered August with a hundred,
+
+141
+00:05:06.705 --> 00:05:07.925
+you signed 50 new ones
+
+142
+00:05:08.185 --> 00:05:09.805
+and 10 left in the month of August,
+
+143
+00:05:09.805 --> 00:05:10.845
+that was all in one month.
+
+144
+00:05:11.075 --> 00:05:13.245
+Well, your churn rate in that case would be 10%
+
+145
+00:05:13.245 --> 00:05:15.925
+because you had 110 left of the a hundred, 10
+
+146
+00:05:15.925 --> 00:05:16.965
+of a hundred is 10%.
+
+147
+00:05:16.995 --> 00:05:20.165
+Very simple. Now to figure out your churn though, if you,
+
+148
+00:05:20.165 --> 00:05:21.965
+if this is not a metric that you track, first
+
+149
+00:05:21.965 --> 00:05:23.005
+of all, track it.
+
+150
+00:05:23.075 --> 00:05:24.525
+Just please track it.
+
+151
+00:05:24.825 --> 00:05:28.405
+Um, and if you want to get a rough churn rate,
+
+152
+00:05:28.405 --> 00:05:30.165
+even if you've got a new service, doesn't matter.
+
+153
+00:05:30.465 --> 00:05:33.205
+All I would do is I would look at your last three months
+
+154
+00:05:33.385 --> 00:05:35.525
+and get an average churn over the last three months.
+
+155
+00:05:35.525 --> 00:05:38.085
+So I'd look at, in this case right now it's April.
+
+156
+00:05:38.105 --> 00:05:40.445
+So I would look at January, February, March, I would go,
+
+157
+00:05:40.445 --> 00:05:42.365
+how many new clients did we enter January with?
+
+158
+00:05:42.505 --> 00:05:44.365
+How many of those existing clients were, uh,
+
+159
+00:05:44.375 --> 00:05:45.765
+still active at the end of March?
+
+160
+00:05:45.815 --> 00:05:47.685
+Great, I'd repeat for Feb, repeat for March.
+
+161
+00:05:47.785 --> 00:05:49.565
+And then I would just average those three numbers,
+
+162
+00:05:49.705 --> 00:05:51.325
+add 'em all up together, divide by three.
+
+163
+00:05:51.325 --> 00:05:53.365
+In that case you would get an average churn rate.
+
+164
+00:05:53.575 --> 00:05:56.845
+Definitely don't, um, come to the conclusion
+
+165
+00:05:56.845 --> 00:06:00.245
+that your churn rate is X percent based on only one month's
+
+166
+00:06:00.245 --> 00:06:01.925
+worth of data because you'll have months
+
+167
+00:06:01.925 --> 00:06:02.965
+where your churn's really high
+
+168
+00:06:02.965 --> 00:06:03.885
+and then you'll have another month
+
+169
+00:06:03.885 --> 00:06:04.765
+where your churn's really low.
+
+170
+00:06:04.905 --> 00:06:06.725
+If you only use one month's worth of data,
+
+171
+00:06:06.835 --> 00:06:08.165
+it's completely inaccurate.
+
+172
+00:06:08.225 --> 00:06:09.925
+You have to do at minimum three months.
+
+173
+00:06:09.925 --> 00:06:13.125
+That's why I said three. But to be honest, uh, we track our,
+
+174
+00:06:13.425 --> 00:06:15.205
+um, churn rate yearly.
+
+175
+00:06:15.345 --> 00:06:17.365
+So when you look at it on a yearly basis, you know
+
+176
+00:06:17.365 --> 00:06:20.325
+with certainty our churn rate is definitely 9%
+
+177
+00:06:20.325 --> 00:06:21.565
+or 10% or whatever it is.
+
+178
+00:06:21.785 --> 00:06:23.405
+Uh, 'cause it's obviously over so many months.
+
+179
+00:06:24.315 --> 00:06:25.575
+So once you know your churn,
+
+180
+00:06:25.595 --> 00:06:27.855
+you can then easily figure out your average client retention
+
+181
+00:06:27.855 --> 00:06:29.855
+rate in months and your LTV.
+
+182
+00:06:29.875 --> 00:06:32.615
+So your average client retention rate in months is simply
+
+183
+00:06:32.955 --> 00:06:36.255
+100 divided by a hundred times your churn rate.
+
+184
+00:06:36.285 --> 00:06:38.815
+Okay? So how this basically looks is,
+
+185
+00:06:39.275 --> 00:06:41.455
+um, I've got an example here.
+
+186
+00:06:41.515 --> 00:06:44.095
+So let's say your monthly churn you figure out is 10%
+
+187
+00:06:44.115 --> 00:06:46.375
+and you have a two KA month service, okay?
+
+188
+00:06:46.755 --> 00:06:49.015
+Uh, how you figure out your retention rate is simply you
+
+189
+00:06:49.015 --> 00:06:50.695
+would go a hundred divided
+
+190
+00:06:50.795 --> 00:06:53.695
+by in brackets a hundred times 10%
+
+191
+00:06:54.425 --> 00:06:55.685
+and that gives you 10 months.
+
+192
+00:06:55.825 --> 00:06:58.245
+So on average, your clients stay with you for 10 months.
+
+193
+00:06:58.505 --> 00:07:00.125
+Now, LTV is also very simple.
+
+194
+00:07:00.305 --> 00:07:04.045
+You can either just simply go retention rate times your, um,
+
+195
+00:07:04.115 --> 00:07:05.325
+monthly price point.
+
+196
+00:07:05.325 --> 00:07:10.045
+So in this case it's 10, you know, uh, 10, uh, 10 months.
+
+197
+00:07:10.265 --> 00:07:11.365
+No, no, that took me so long.
+
+198
+00:07:11.505 --> 00:07:15.085
+Uh, 10 months times by two KA month. So that gives you 20 k.
+
+199
+00:07:15.085 --> 00:07:16.245
+Another very easy way
+
+200
+00:07:16.245 --> 00:07:20.685
+to figure out your LTV is you just go your price point, uh,
+
+201
+00:07:20.705 --> 00:07:25.645
+in this case 2000 divided by your um, uh, churn rate.
+
+202
+00:07:25.715 --> 00:07:28.245
+Okay? So in this case, so you go price point divided by 10%,
+
+203
+00:07:28.345 --> 00:07:29.845
+you get 20,000, right?
+
+204
+00:07:30.115 --> 00:07:31.205
+Very simple. So there's a
+
+205
+00:07:31.205 --> 00:07:32.285
+couple different ways you can figure that out.
+
+206
+00:07:32.425 --> 00:07:34.125
+But you have to know these metrics.
+
+207
+00:07:34.195 --> 00:07:36.245
+Like if you don't know these numbers for your own business,
+
+208
+00:07:36.455 --> 00:07:38.725
+there is no way you are going to scale
+
+209
+00:07:38.905 --> 00:07:40.245
+unless outside of hope.
+
+210
+00:07:40.265 --> 00:07:41.885
+And outside of, look, quite frankly,
+
+211
+00:07:42.265 --> 00:07:45.125
+if you don't know these metrics you like, it's it's,
+
+212
+00:07:45.125 --> 00:07:46.685
+it's crazy to me honestly that some people,
+
+213
+00:07:47.005 --> 00:07:48.445
+I would ask them like, what's X?
+
+214
+00:07:48.605 --> 00:07:50.845
+What's y, what's Z? And they just have no idea.
+
+215
+00:07:50.985 --> 00:07:52.085
+But then they wonder why
+
+216
+00:07:52.185 --> 00:07:53.525
+so many clients leave them each month,
+
+217
+00:07:53.905 --> 00:07:56.325
+but they don't track churn or they wonder why, you know,
+
+218
+00:07:56.435 --> 00:07:58.445
+they're not scaling, they've been stagnant at the same
+
+219
+00:07:58.445 --> 00:07:59.765
+revenue for the last 12 months,
+
+220
+00:08:00.225 --> 00:08:02.285
+but yet they don't know their average retention rate,
+
+221
+00:08:02.285 --> 00:08:03.325
+they don't know their average churn rate,
+
+222
+00:08:03.325 --> 00:08:04.565
+they don't know any of these metrics.
+
+223
+00:08:04.765 --> 00:08:07.365
+I mean it's, it's crazy. So you have to know these metrics.
+
+224
+00:08:07.785 --> 00:08:10.485
+Um, uh, Ozzy calls this the language of business
+
+225
+00:08:10.485 --> 00:08:11.805
+and this is exactly what it is.
+
+226
+00:08:11.905 --> 00:08:14.445
+And this is also why if you go into the school, uh, training
+
+227
+00:08:15.615 --> 00:08:16.635
+and you go into classroom
+
+228
+00:08:17.815 --> 00:08:20.635
+and then inside of, uh, foundations to a million a month,
+
+229
+00:08:20.785 --> 00:08:22.835
+there's a training here called Master Business Tracker.
+
+230
+00:08:22.935 --> 00:08:24.035
+And in this training, I
+
+231
+00:08:24.035 --> 00:08:25.355
+definitely recommend to watch it if you haven't.
+
+232
+00:08:25.815 --> 00:08:26.995
+But I have this tracker
+
+233
+00:08:27.015 --> 00:08:29.915
+and this tracker shows us all, like we track all
+
+234
+00:08:29.915 --> 00:08:32.155
+of these metrics on a monthly basis.
+
+235
+00:08:32.215 --> 00:08:34.515
+We also track them on a daily basis. Some we don't do daily.
+
+236
+00:08:34.575 --> 00:08:35.795
+So like churn rate, um,
+
+237
+00:08:35.795 --> 00:08:37.475
+basically these numbers down the bottom here,
+
+238
+00:08:37.475 --> 00:08:39.315
+we don't track daily, but you can see on here,
+
+239
+00:08:39.415 --> 00:08:43.115
+we track every single metric associated
+
+240
+00:08:43.255 --> 00:08:47.195
+to our entire business every single month now.
+
+241
+00:08:47.215 --> 00:08:48.755
+And we also track it year to date.
+
+242
+00:08:48.975 --> 00:08:52.155
+And so, um, you can see like if we go, so all
+
+243
+00:08:52.155 --> 00:08:53.435
+of these are like obviously acquisition metrics.
+
+244
+00:08:53.595 --> 00:08:55.405
+I won't go into this, there's a separate training on this,
+
+245
+00:08:55.425 --> 00:08:58.085
+but down here you can see we track first 30 day churn,
+
+246
+00:08:58.265 --> 00:08:59.325
+we track churn rate,
+
+247
+00:08:59.585 --> 00:09:02.085
+and then down here you can see that we track, um,
+
+248
+00:09:02.535 --> 00:09:05.525
+gross profit, gross profit mar uh, margin.
+
+249
+00:09:05.905 --> 00:09:07.205
+We track ebitda, EBITDA margin,
+
+250
+00:09:07.205 --> 00:09:08.565
+estimated tax retained earnings.
+
+251
+00:09:08.825 --> 00:09:11.325
+So if you are now tracking these numbers in your business,
+
+252
+00:09:11.785 --> 00:09:13.685
+do not expect to grow is my point.
+
+253
+00:09:13.865 --> 00:09:16.165
+If you're not tracking them, watch this training
+
+254
+00:09:16.305 --> 00:09:18.165
+and start tracking them religiously
+
+255
+00:09:18.165 --> 00:09:21.645
+because this training is all determined by that training.
+
+256
+00:09:21.985 --> 00:09:24.965
+And this training will actually be right after this one.
+
+257
+00:09:24.965 --> 00:09:26.365
+So it's just the one right before this one.
+
+258
+00:09:26.365 --> 00:09:27.965
+That's what the one I'm referring to here. Okay?
+
+259
+00:09:28.345 --> 00:09:31.645
+So, alright, that's how you figure these numbers out though.
+
+260
+00:09:32.425 --> 00:09:33.445
+Now, um, and,
+
+261
+00:09:33.445 --> 00:09:35.605
+and by the way, once you track these numbers on here,
+
+262
+00:09:35.625 --> 00:09:37.485
+you can figure out everything else, as I said
+
+263
+00:09:37.485 --> 00:09:38.605
+before, very, very simple.
+
+264
+00:09:38.605 --> 00:09:39.925
+Obviously once you know your churn rate,
+
+265
+00:09:39.985 --> 00:09:42.325
+you can then basically divide your price point
+
+266
+00:09:42.385 --> 00:09:44.805
+by your churn rate and then you'll know your client lifetime
+
+267
+00:09:44.805 --> 00:09:46.765
+value like we just went through before.
+
+268
+00:09:46.835 --> 00:09:48.885
+Also, once we know your churn rate, as we said here,
+
+269
+00:09:49.105 --> 00:09:51.325
+we can also figure out your retention rate in terms
+
+270
+00:09:51.325 --> 00:09:53.165
+of months because it's just simply a hundred divided
+
+271
+00:09:53.305 --> 00:09:55.845
+by a hundred times your churn rate.
+
+272
+00:09:56.465 --> 00:09:58.285
+Um, in this case it's 10 months.
+
+273
+00:09:58.785 --> 00:10:02.485
+Now to determine lifetime gross profit, essentially you need
+
+274
+00:10:02.485 --> 00:10:06.205
+to find a lifetime value and total lifetime cost to fulfill.
+
+275
+00:10:06.505 --> 00:10:09.285
+So we would first find the lifetime value by using
+
+276
+00:10:09.285 --> 00:10:10.485
+that formula we just went through.
+
+277
+00:10:10.905 --> 00:10:12.485
+Um, and then in this case,
+
+278
+00:10:12.485 --> 00:10:14.365
+that will give us a 20 K lifetime value.
+
+279
+00:10:15.105 --> 00:10:18.245
+Now, to find the total cost to fulfill, we simply need
+
+280
+00:10:18.245 --> 00:10:19.805
+to take the monthly cost of the sold.
+
+281
+00:10:19.905 --> 00:10:21.965
+In this example up here that we did, it was 500,
+
+282
+00:10:22.025 --> 00:10:23.405
+but it might be whatever it'll be for you.
+
+283
+00:10:23.785 --> 00:10:26.085
+Uh, where was it? Here, here we set 500.
+
+284
+00:10:26.105 --> 00:10:29.125
+So let's assume 500. Uh, so we would take the monthly, uh,
+
+285
+00:10:29.145 --> 00:10:30.965
+the, the monthly Cox on average.
+
+286
+00:10:31.915 --> 00:10:33.855
+And again, this is broken down per client.
+
+287
+00:10:34.125 --> 00:10:36.775
+This is important. It's not total cost of good sold
+
+288
+00:10:36.775 --> 00:10:37.895
+for the month across all clients.
+
+289
+00:10:38.275 --> 00:10:39.695
+It would be, or you could,
+
+290
+00:10:39.695 --> 00:10:41.415
+if you figured out your total cost of good sold
+
+291
+00:10:41.415 --> 00:10:42.775
+for all clients, you would just divide that by
+
+292
+00:10:42.775 --> 00:10:43.815
+how many clients you have and
+
+293
+00:10:43.815 --> 00:10:45.495
+that would give you a rough monthly cost
+
+294
+00:10:45.495 --> 00:10:46.655
+of goods sold per client.
+
+295
+00:10:46.995 --> 00:10:49.735
+Um, but to again, figure out total lifetime cost
+
+296
+00:10:49.735 --> 00:10:51.975
+to fulfill per client, you would take your monthly cogs
+
+297
+00:10:52.115 --> 00:10:54.055
+and times that by the average retention rate,
+
+298
+00:10:54.055 --> 00:10:56.335
+which in this month, in this example we figured out is 10.
+
+299
+00:10:56.355 --> 00:10:57.455
+And so obviously in this case here,
+
+300
+00:10:57.455 --> 00:11:00.215
+500 times our 10 months gives us a total cost
+
+301
+00:11:00.215 --> 00:11:01.615
+to fulfill of 5K.
+
+302
+00:11:01.835 --> 00:11:04.655
+Now remember, the lifetime gross profit is lifetime value
+
+303
+00:11:04.945 --> 00:11:06.975
+minus lifetime costs of goods sold.
+
+304
+00:11:07.195 --> 00:11:10.855
+So again, in this case we have 20 KLTV minus our, uh,
+
+305
+00:11:10.905 --> 00:11:12.695
+total cost to fulfill with 5K.
+
+306
+00:11:12.875 --> 00:11:14.575
+Our lifetime gross profit is 15.
+
+307
+00:11:14.795 --> 00:11:16.855
+Now, this number, again, I keep stressing it,
+
+308
+00:11:16.855 --> 00:11:19.015
+but it's vital that you understand it.
+
+309
+00:11:19.015 --> 00:11:20.855
+Otherwise, if you was to even come to me
+
+310
+00:11:20.855 --> 00:11:22.135
+and say, Hey, how do I grow?
+
+311
+00:11:22.455 --> 00:11:25.695
+I wouldn't know what to do unless I had these metrics.
+
+312
+00:11:25.835 --> 00:11:27.735
+Now if you just gave me this tracker here,
+
+313
+00:11:28.375 --> 00:11:29.615
+I could just tell you immediately
+
+314
+00:11:29.615 --> 00:11:31.575
+after reviewing it for five minutes exactly
+
+315
+00:11:31.575 --> 00:11:32.655
+what needs to be focused on.
+
+316
+00:11:32.795 --> 00:11:33.855
+But unless you have the numbers,
+
+317
+00:11:35.865 --> 00:11:38.445
+unless you have the numbers, nobody, no matter
+
+318
+00:11:38.445 --> 00:11:39.845
+who it is, could tell you what to do.
+
+319
+00:11:40.505 --> 00:11:43.235
+You need the numbers to be able to review them, to see
+
+320
+00:11:43.235 --> 00:11:44.995
+where the constraints are, to see what the problems are.
+
+321
+00:11:45.015 --> 00:11:46.875
+And then based on that, typically
+
+322
+00:11:46.875 --> 00:11:47.995
+the solutions are very clear.
+
+323
+00:11:48.215 --> 00:11:49.755
+But if you don't have the numbers, it doesn't matter
+
+324
+00:11:49.775 --> 00:11:50.515
+who reviews them,
+
+325
+00:11:50.715 --> 00:11:52.155
+nobody's gonna be able to tell you what to do.
+
+326
+00:11:53.145 --> 00:11:54.685
+So it's vital that you understand this stuff.
+
+327
+00:11:54.985 --> 00:11:58.245
+Now, of course, with lifetime gross profit, the goal is
+
+328
+00:11:58.245 --> 00:12:00.445
+to get it as high as humanly possible.
+
+329
+00:12:00.665 --> 00:12:03.205
+That's the first metric in our equation. Now we've got cac.
+
+330
+00:12:03.205 --> 00:12:04.845
+So cac, super simple to understand.
+
+331
+00:12:04.875 --> 00:12:07.205
+It's basically total ad spend over a given period, divided
+
+332
+00:12:07.265 --> 00:12:09.325
+by total clients, close over that same period.
+
+333
+00:12:09.635 --> 00:12:10.765
+It's as basic as it gets.
+
+334
+00:12:11.385 --> 00:12:13.605
+Of course with cac, the goal is to get it as close
+
+335
+00:12:13.605 --> 00:12:14.805
+to zero as possible.
+
+336
+00:12:15.185 --> 00:12:18.605
+Um, and that's it. There's nothing more to explain for cac.
+
+337
+00:12:18.605 --> 00:12:20.685
+Now, let's look at the most important thing, okay,
+
+338
+00:12:20.915 --> 00:12:23.005
+what are the levers we can pull to significantly
+
+339
+00:12:23.565 --> 00:12:24.565
+increase lifetime gross profit?
+
+340
+00:12:24.835 --> 00:12:26.005
+Well, the good thing, like I mentioned earlier,
+
+341
+00:12:26.005 --> 00:12:29.605
+there's only six things that you can do to improve or impact
+
+342
+00:12:29.625 --> 00:12:32.245
+or manipulate the lifetime gross profit to CAC ratio.
+
+343
+00:12:32.665 --> 00:12:35.685
+Um, and so which of the six you should focus on today,
+
+344
+00:12:35.685 --> 00:12:38.445
+right here, right now is simply based on the biggest
+
+345
+00:12:38.445 --> 00:12:39.765
+constraint out of the six.
+
+346
+00:12:39.785 --> 00:12:41.725
+And this is where the theory of constraints comes into play.
+
+347
+00:12:41.905 --> 00:12:44.205
+So all you'll notice, like all these trainings end up tying
+
+348
+00:12:44.365 --> 00:12:46.765
+together, but really the only things you can do
+
+349
+00:12:46.765 --> 00:12:48.085
+to decrease cac.
+
+350
+00:12:48.185 --> 00:12:49.685
+So you've got lifetime gross profit,
+
+351
+00:12:49.685 --> 00:12:51.245
+you've got cac, lifetime gross profit.
+
+352
+00:12:51.245 --> 00:12:52.445
+We wanna try and get as high as possible,
+
+353
+00:12:52.445 --> 00:12:54.085
+we wanna increase it cac, we wanna try
+
+354
+00:12:54.085 --> 00:12:55.205
+and get as low as possible, right?
+
+355
+00:12:55.205 --> 00:12:56.805
+That's as basically as it gets.
+
+356
+00:12:56.825 --> 00:13:00.325
+So on the CAC front, there's only, you know, three things
+
+357
+00:13:00.325 --> 00:13:01.885
+that we can do to decrease the cac.
+
+358
+00:13:01.885 --> 00:13:04.565
+Number one, we can get a cheaper cost per
+
+359
+00:13:04.565 --> 00:13:05.965
+qualified call, right?
+
+360
+00:13:06.305 --> 00:13:08.845
+So we can get more qualified calls for a less amount.
+
+361
+00:13:09.025 --> 00:13:10.685
+That's number one. Number two,
+
+362
+00:13:10.945 --> 00:13:12.645
+we can get more of the qualified calls.
+
+363
+00:13:12.665 --> 00:13:16.325
+We do book to show up on number three, we can close more
+
+364
+00:13:16.325 --> 00:13:18.525
+of the calls that show there's nothing else you can do
+
+365
+00:13:18.555 --> 00:13:20.605
+outside those three things to get your cost
+
+366
+00:13:20.605 --> 00:13:21.965
+of acquisition lower.
+
+367
+00:13:22.115 --> 00:13:24.525
+Nothing. And even if you think about like, okay,
+
+368
+00:13:24.525 --> 00:13:26.525
+maybe you don't run ads, maybe you like start running,
+
+369
+00:13:26.705 --> 00:13:28.205
+you know, doing, uh, organic,
+
+370
+00:13:28.305 --> 00:13:29.965
+or you start creating a YouTube channel
+
+371
+00:13:29.985 --> 00:13:31.405
+and you know, videos blow up.
+
+372
+00:13:31.475 --> 00:13:33.895
+Well, if you think about it, all your, the,
+
+373
+00:13:33.915 --> 00:13:36.175
+the thing you're manipulating there is obviously volume,
+
+374
+00:13:36.595 --> 00:13:38.695
+but it's the cost to acquire those bookings.
+
+375
+00:13:38.695 --> 00:13:40.535
+That's what you are, you know, um, manipulating.
+
+376
+00:13:40.535 --> 00:13:43.015
+Because if you think about even doing YouTube organic,
+
+377
+00:13:43.045 --> 00:13:44.175
+it's still cost involved, right?
+
+378
+00:13:44.255 --> 00:13:45.735
+You've probably still got some sort of editor.
+
+379
+00:13:45.915 --> 00:13:49.415
+You've got, um, your cost of time, you've got, uh, you know,
+
+380
+00:13:49.755 --> 00:13:50.815
+if you have like a, you know,
+
+381
+00:13:51.015 --> 00:13:52.735
+creative director, et cetera, you've got their costs.
+
+382
+00:13:52.915 --> 00:13:54.695
+But let's say for example, you have a creative director
+
+383
+00:13:54.875 --> 00:13:56.295
+who costs you 10 KA month,
+
+384
+00:13:56.295 --> 00:13:58.175
+and then you've got an editor that's five KA month,
+
+385
+00:13:58.175 --> 00:13:59.735
+and then you've got some other miscellaneous costs.
+
+386
+00:13:59.735 --> 00:14:00.775
+You're all in cost
+
+387
+00:14:00.995 --> 00:14:03.455
+to run your YouTube channel is 25 KA month.
+
+388
+00:14:03.525 --> 00:14:06.535
+Well, if you book a hundred qualified calls a month with
+
+389
+00:14:06.535 --> 00:14:08.775
+that 20 5K, your cost of ac your,
+
+390
+00:14:08.775 --> 00:14:10.775
+your cost per booked call in
+
+391
+00:14:10.775 --> 00:14:12.495
+that case would be, what is that?
+
+392
+00:14:12.495 --> 00:14:14.255
+250? So despite you're not running ads,
+
+393
+00:14:14.315 --> 00:14:16.615
+you still have a cost per qualified book call.
+
+394
+00:14:16.615 --> 00:14:17.935
+In that case you're at two 50, right?
+
+395
+00:14:18.085 --> 00:14:20.775
+Obviously if the, the, there's an opportunity cost there
+
+396
+00:14:20.775 --> 00:14:23.495
+because what about if we took those that same 25 KA month
+
+397
+00:14:23.635 --> 00:14:24.695
+and put it into paid ads,
+
+398
+00:14:24.695 --> 00:14:27.095
+could we get a cost per qualified call lower than two 50
+
+399
+00:14:28.215 --> 00:14:29.455
+probably depending on your industry, right?
+
+400
+00:14:29.455 --> 00:14:32.135
+We could probably get it under 200, 1 50, 100, whatever.
+
+401
+00:14:32.355 --> 00:14:35.175
+But my point is even if it's not associated to paid ads,
+
+402
+00:14:35.275 --> 00:14:36.935
+you still have a cost per qualified call.
+
+403
+00:14:37.085 --> 00:14:38.975
+Same thing with shows, same thing with close rate, right?
+
+404
+00:14:39.555 --> 00:14:41.055
+So as I say, there's nothing else you can do
+
+405
+00:14:41.055 --> 00:14:42.495
+to get a cheaper cost of acquisition.
+
+406
+00:14:42.925 --> 00:14:45.215
+Then on the lifetime gross profit side,
+
+407
+00:14:45.215 --> 00:14:46.895
+obviously we wanna get that as high as possible,
+
+408
+00:14:47.155 --> 00:14:48.535
+but again, there's only three things we can do
+
+409
+00:14:48.535 --> 00:14:49.855
+to increase the lifetime gross profit.
+
+410
+00:14:49.855 --> 00:14:52.205
+Number one, you can charge more per client.
+
+411
+00:14:52.345 --> 00:14:53.525
+In other words, increase prices.
+
+412
+00:14:53.945 --> 00:14:56.325
+You could decrease cost to fulfill of each client
+
+413
+00:14:56.505 --> 00:14:58.285
+so you make more profit per client.
+
+414
+00:14:58.505 --> 00:15:00.205
+Or number three, you can just keep clients longer,
+
+415
+00:15:00.205 --> 00:15:03.405
+meaning you keep them paying you longer over their lifetime.
+
+416
+00:15:03.625 --> 00:15:06.165
+So instead of keeping a client for, you know, two months
+
+417
+00:15:06.165 --> 00:15:09.125
+and making three k, um, lifetime gross profit of
+
+418
+00:15:09.125 --> 00:15:11.365
+that client over two months as an example, uh,
+
+419
+00:15:11.365 --> 00:15:13.285
+you could keep them, you know, what about if you kept them
+
+420
+00:15:13.345 --> 00:15:16.445
+for six months and then made six K lifetime gross profit?
+
+421
+00:15:16.505 --> 00:15:18.565
+So you double your lifetime gross profit not
+
+422
+00:15:18.565 --> 00:15:20.845
+by doing anything else other than just keeping them paying
+
+423
+00:15:20.845 --> 00:15:24.685
+you longer or, you know, um, I kind of package ascensions
+
+424
+00:15:24.685 --> 00:15:25.885
+and upsells as well into
+
+425
+00:15:25.885 --> 00:15:27.045
+quote, keeping them paying you longer.
+
+426
+00:15:27.045 --> 00:15:28.645
+Because if you have a four month program
+
+427
+00:15:28.945 --> 00:15:31.045
+and then you send them into a high ticket mastermind
+
+428
+00:15:31.045 --> 00:15:34.125
+or backend offer of some sort, well that is a version
+
+429
+00:15:34.145 --> 00:15:35.485
+of keeping them paying you longer
+
+430
+00:15:35.485 --> 00:15:36.605
+even though it's a different product.
+
+431
+00:15:36.865 --> 00:15:39.085
+And of course you've got churn factored into that as well.
+
+432
+00:15:39.825 --> 00:15:41.245
+So they're the only six things you
+
+433
+00:15:41.245 --> 00:15:42.285
+can do to become more profitable.
+
+434
+00:15:42.425 --> 00:15:43.725
+In other words, all
+
+435
+00:15:43.725 --> 00:15:47.005
+of your focus should be on the biggest constraint out
+
+436
+00:15:47.005 --> 00:15:48.965
+of those six levers 24 7.
+
+437
+00:15:48.965 --> 00:15:50.565
+That's the only thing in my opinion
+
+438
+00:15:50.745 --> 00:15:53.645
+as a CEO you should be focused on outside of team,
+
+439
+00:15:53.745 --> 00:15:55.205
+of course, uh, there's a great book,
+
+440
+00:15:55.405 --> 00:15:57.365
+CEO only does three things in that book.
+
+441
+00:15:57.365 --> 00:15:59.005
+They talk about, uh, as a CEO,
+
+442
+00:15:59.005 --> 00:15:59.925
+you should be focused on the
+
+443
+00:15:59.925 --> 00:16:01.005
+culture, the people and the numbers.
+
+444
+00:16:01.275 --> 00:16:02.885
+This is the numbers, okay?
+
+445
+00:16:03.025 --> 00:16:07.165
+And the people stem from these numbers in my opinion.
+
+446
+00:16:07.465 --> 00:16:09.725
+So people typically you hire you, you know,
+
+447
+00:16:09.905 --> 00:16:12.165
+for the most part, why would you hire somebody new?
+
+448
+00:16:12.165 --> 00:16:13.405
+It's because you have a constraint.
+
+449
+00:16:13.405 --> 00:16:14.765
+You have a capacity constraint.
+
+450
+00:16:14.945 --> 00:16:16.925
+But how you know whether or not you have a constraint
+
+451
+00:16:16.925 --> 00:16:18.925
+and whether or not you should make that higher is purely
+
+452
+00:16:19.245 --> 00:16:21.405
+determined and based on the numbers, the only thing
+
+453
+00:16:21.435 --> 00:16:23.605
+that you should be focusing on as a CEO
+
+454
+00:16:23.795 --> 00:16:25.565
+that isn't some way tied
+
+455
+00:16:25.565 --> 00:16:27.565
+to your numbers is the culture of the company.
+
+456
+00:16:27.665 --> 00:16:30.205
+Of course, like that's completely detached from the numbers
+
+457
+00:16:30.225 --> 00:16:32.245
+and that's a, you know, a topic for a separate video.
+
+458
+00:16:32.625 --> 00:16:34.285
+But everything else as a CEO,
+
+459
+00:16:34.385 --> 00:16:36.205
+it should be based on the numbers.
+
+460
+00:16:36.505 --> 00:16:39.565
+And the numbers all tie back to this tracker here.
+
+461
+00:16:40.715 --> 00:16:43.535
+And then once you have all of these numbers in this tracker,
+
+462
+00:16:43.875 --> 00:16:46.775
+you can then think through, okay, well, you know,
+
+463
+00:16:46.835 --> 00:16:49.055
+our current let's, you know, you see here, uh, there's a,
+
+464
+00:16:49.055 --> 00:16:52.295
+there's a metric, uh, which is all cash collected, right?
+
+465
+00:16:52.675 --> 00:16:55.375
+So let's say, you know, this is obviously just a template,
+
+466
+00:16:55.555 --> 00:16:56.895
+but last month you did 18 K
+
+467
+00:16:56.915 --> 00:16:59.215
+and you wanted to increase that this month in April.
+
+468
+00:16:59.525 --> 00:17:03.575
+Well, again, when it comes to how do we make more than 18 k,
+
+469
+00:17:03.575 --> 00:17:04.695
+if you want to double this month
+
+470
+00:17:04.755 --> 00:17:07.935
+and go to 36 k as an example, how do you do that?
+
+471
+00:17:08.145 --> 00:17:10.175
+Again, these only six things that you can do,
+
+472
+00:17:10.245 --> 00:17:11.455
+it's one of these six lever.
+
+473
+00:17:11.475 --> 00:17:13.695
+Now there's technically a seventh lever, which is volume.
+
+474
+00:17:13.915 --> 00:17:15.455
+So again, as a CEO, you,
+
+475
+00:17:15.455 --> 00:17:17.095
+your focus should only be on these six things.
+
+476
+00:17:17.395 --> 00:17:19.855
+Or if all of these look pretty good, you know,
+
+477
+00:17:19.855 --> 00:17:21.655
+if you look at all of the metrics downstream
+
+478
+00:17:21.655 --> 00:17:23.055
+and you're like, our cost per call is good,
+
+479
+00:17:23.315 --> 00:17:26.415
+our profit margin is good, our CPAs healthy, um,
+
+480
+00:17:26.715 --> 00:17:29.295
+our close rates in KPI, everything looks good.
+
+481
+00:17:29.525 --> 00:17:32.255
+Well then obviously you've not necessarily got a constraint,
+
+482
+00:17:32.515 --> 00:17:34.335
+but I would argue you actually kind of do,
+
+483
+00:17:34.445 --> 00:17:37.135
+it's not involved in these six metrics per se,
+
+484
+00:17:37.235 --> 00:17:38.855
+but this constraint is
+
+485
+00:17:39.475 --> 00:17:41.375
+why aren't we doubling our ad spend then tomorrow?
+
+486
+00:17:41.475 --> 00:17:43.135
+Why aren't we doubling the volume through the system
+
+487
+00:17:43.445 --> 00:17:44.895
+that then creates a new constraint,
+
+488
+00:17:44.895 --> 00:17:46.135
+which is if you're not running ads,
+
+489
+00:17:46.355 --> 00:17:47.895
+the problem is you can't just double,
+
+490
+00:17:47.955 --> 00:17:49.645
+if you're doing organic, you can't just double
+
+491
+00:17:49.645 --> 00:17:50.685
+the volume of calls you get.
+
+492
+00:17:51.025 --> 00:17:54.605
+So in that instance, you then may need to do more, you know,
+
+493
+00:17:54.605 --> 00:17:56.325
+organic posting, or you may need
+
+494
+00:17:56.325 --> 00:17:59.285
+to introduce a new acquisition channel like paid ads
+
+495
+00:17:59.285 --> 00:18:00.685
+that puts you fully in control.
+
+496
+00:18:00.905 --> 00:18:02.725
+And then obviously if you are already running paid ads,
+
+497
+00:18:02.755 --> 00:18:04.245
+well guess what the constraint is,
+
+498
+00:18:04.255 --> 00:18:05.485
+let's double the spend for tomorrow.
+
+499
+00:18:05.745 --> 00:18:07.525
+Now here's the thing, and this is where the theory
+
+500
+00:18:07.525 --> 00:18:08.605
+of constraints comes into play.
+
+501
+00:18:08.785 --> 00:18:12.725
+If you double ad spend tomorrow as an example, um, typically
+
+502
+00:18:12.725 --> 00:18:15.685
+what can happen is your cost per call rises, right?
+
+503
+00:18:15.685 --> 00:18:17.165
+So if you increase spend, it's very common,
+
+504
+00:18:17.165 --> 00:18:18.165
+you would've heard of it before.
+
+505
+00:18:18.345 --> 00:18:20.605
+If you do it the wrong way, your cost per call rises.
+
+506
+00:18:21.145 --> 00:18:22.565
+So then the new constraint Becomes, okay,
+
+507
+00:18:22.565 --> 00:18:23.485
+now we've doubled our spend, but now
+
+508
+00:18:23.485 --> 00:18:24.485
+our cost per call's too high.
+
+509
+00:18:24.585 --> 00:18:26.005
+How do we get that down? Well,
+
+510
+00:18:26.005 --> 00:18:27.365
+our constraint is cost per call.
+
+511
+00:18:27.665 --> 00:18:30.845
+We need to now put a, a, a, um, a solution in place
+
+512
+00:18:30.865 --> 00:18:33.285
+to alleviate that cost per qualifi, per call constraint.
+
+513
+00:18:33.285 --> 00:18:34.525
+You alleviate it. Now all
+
+514
+00:18:34.525 --> 00:18:36.645
+of a sudden you've double spend metrics are good
+
+515
+00:18:36.785 --> 00:18:39.685
+and obviously your overall cash should within reason double.
+
+516
+00:18:40.145 --> 00:18:41.805
+That's the game right there.
+
+517
+00:18:42.145 --> 00:18:45.965
+But again, all of this stems from tracking these numbers.
+
+518
+00:18:46.225 --> 00:18:47.565
+So as I mentioned, you would push more
+
+519
+00:18:47.565 --> 00:18:49.845
+Volume through the system until a new constraint arises.
+
+520
+00:18:49.915 --> 00:18:52.125
+Once that new particular constraint is resolved,
+
+521
+00:18:52.305 --> 00:18:53.405
+you then increase volume
+
+522
+00:18:53.745 --> 00:18:55.605
+and you move to the next biggest constraint.
+
+523
+00:18:55.605 --> 00:18:57.125
+That's, I mean, that's literally the game.
+
+524
+00:18:57.185 --> 00:18:58.965
+So let's have a look at how this plays out in real life.
+
+525
+00:18:58.965 --> 00:19:01.525
+Just so you know, all these numbers are actually based on
+
+526
+00:19:01.665 --> 00:19:04.285
+client examples that I've just worked through over
+
+527
+00:19:04.285 --> 00:19:05.285
+The past few months here.
+
+528
+00:19:05.625 --> 00:19:07.685
+Um, and so these are gonna be the,
+
+529
+00:19:07.685 --> 00:19:09.765
+these are real life examples, right? I didn't wanna just
+
+530
+00:19:10.005 --> 00:19:12.165
+Randomly put in some numbers and just make up
+
+531
+00:19:12.405 --> 00:19:13.405
+Scenarios. Um,
+
+532
+00:19:13.405 --> 00:19:17.005
+these are real life stuff and it's so clear and I,
+
+533
+00:19:17.005 --> 00:19:18.805
+and I give you obviously a wide array of different
+
+534
+00:19:18.805 --> 00:19:20.165
+Problems and how we solve them,
+
+535
+00:19:20.625 --> 00:19:23.835
+but when you have the metrics, it's just
+
+536
+00:19:23.835 --> 00:19:24.955
+so clear what needs to be done.
+
+537
+00:19:25.015 --> 00:19:27.235
+So let's go through, uh, let's go through a couple of them.
+
+538
+00:19:27.335 --> 00:19:30.715
+So let's say for example, we look at your, you know,
+
+539
+00:19:30.715 --> 00:19:33.195
+on this tracker we look at last month's numbers
+
+540
+00:19:33.335 --> 00:19:35.715
+and your last month, your last month's numbers
+
+541
+00:19:35.855 --> 00:19:37.075
+as it pertains to the six metrics.
+
+542
+00:19:37.075 --> 00:19:38.515
+Obviously there's a lot more metrics involved,
+
+543
+00:19:38.515 --> 00:19:41.395
+but as it pertains to six, the six metrics, um,
+
+544
+00:19:41.505 --> 00:19:44.395
+your last month's cost per qualified per call is $300.
+
+545
+00:19:44.425 --> 00:19:46.995
+Your show rate was 60%, close rate is 20%.
+
+546
+00:19:47.295 --> 00:19:51.595
+Uh, price point is 1.5 k, and your A OV is 1.5 K.
+
+547
+00:19:51.735 --> 00:19:54.075
+So a OV just so you know, refers to, um,
+
+548
+00:19:54.265 --> 00:19:55.675
+average order value obviously,
+
+549
+00:19:55.815 --> 00:19:58.235
+and that's basically how much cash you collect on day
+
+550
+00:19:58.295 --> 00:19:59.395
+one per new client.
+
+551
+00:19:59.435 --> 00:20:01.395
+So if you have a 10 K offer, most
+
+552
+00:20:01.395 --> 00:20:03.195
+of the time you're not gonna have a hundred percent pay
+
+553
+00:20:03.195 --> 00:20:04.235
+in full rate on the 10 K.
+
+554
+00:20:04.255 --> 00:20:05.315
+You're gonna collect, you know,
+
+555
+00:20:05.315 --> 00:20:06.395
+you're gonna do some payment plans,
+
+556
+00:20:06.395 --> 00:20:08.075
+some CL clients come in on a full pay,
+
+557
+00:20:08.205 --> 00:20:09.395
+other clients come in on a two
+
+558
+00:20:09.395 --> 00:20:10.795
+pay, or the client's pay in full. So
+
+559
+00:20:10.795 --> 00:20:13.595
+What your A OV basically refers to, on average,
+
+560
+00:20:13.815 --> 00:20:15.435
+how much do you collect on day one
+
+561
+00:20:15.565 --> 00:20:17.435
+after you factor in the four pays,
+
+562
+00:20:17.435 --> 00:20:18.635
+the pay in full, et cetera.
+
+563
+00:20:18.935 --> 00:20:20.315
+How much cash do you collect on
+
+564
+00:20:20.315 --> 00:20:21.715
+Day one on average, or in other words,
+
+565
+00:20:21.715 --> 00:20:22.915
+your average order value, right?
+
+566
+00:20:23.735 --> 00:20:26.915
+Um, and also let's say last month your cogs was $300
+
+567
+00:20:27.615 --> 00:20:29.755
+per client, that is, um, per month.
+
+568
+00:20:29.975 --> 00:20:31.515
+And then your churn rate for last month was
+
+569
+00:20:31.515 --> 00:20:32.915
+10%. Okay? So based
+
+570
+00:20:32.915 --> 00:20:34.435
+On these metrics, we can figure out obviously
+
+571
+00:20:34.435 --> 00:20:35.435
+Our cac. So our CAC
+
+572
+00:20:35.435 --> 00:20:38.035
+is just very simply cost per qualified per call
+
+573
+00:20:38.185 --> 00:20:41.115
+divided by show rate, divided by close rate.
+
+574
+00:20:41.295 --> 00:20:45.515
+So if you wanna see how I got to the 200, you go 300 divided
+
+575
+00:20:45.535 --> 00:20:46.875
+by show rate gives
+
+576
+00:20:46.875 --> 00:20:48.965
+You cost per life, call of five, cost per life call
+
+577
+00:20:48.965 --> 00:20:51.165
+of 500, uh, divided by your close rate
+
+578
+00:20:51.165 --> 00:20:54.245
+of 20% in this example gives you, you can see here, 2,500.
+
+579
+00:20:54.245 --> 00:20:55.445
+So that's where the CPA came from
+
+580
+00:20:55.445 --> 00:20:57.485
+or the cac, uh, lifetime value.
+
+581
+00:20:57.735 --> 00:20:59.805
+Again, very simply, you look at your price point,
+
+582
+00:20:59.805 --> 00:21:03.165
+in this case it's 1.5 K, uh, the churn is 10%.
+
+583
+00:21:03.225 --> 00:21:06.405
+So you just simply again, go 1500 divided
+
+584
+00:21:06.425 --> 00:21:08.485
+by your monthly churn rate of 10%.
+
+585
+00:21:08.485 --> 00:21:10.885
+That gives you the 15,000 LTV here.
+
+586
+00:21:10.895 --> 00:21:13.045
+Total lifetime cost of goods sold is three K.
+
+587
+00:21:13.045 --> 00:21:14.725
+So again, how we found that is, I mean,
+
+588
+00:21:14.725 --> 00:21:16.045
+we already have the lifetime value, so
+
+589
+00:21:16.045 --> 00:21:18.005
+that makes it a lot easier because now what we can do,
+
+590
+00:21:18.065 --> 00:21:20.845
+we can go lifetime value, 15,000 divided
+
+591
+00:21:20.845 --> 00:21:25.405
+by a monthly price point of uh, uh, 1500 gives us 10 months.
+
+592
+00:21:25.865 --> 00:21:28.925
+Or we can also see obviously, uh, our churn rate here,
+
+593
+00:21:29.155 --> 00:21:31.005
+whereas churn rate here is 10%.
+
+594
+00:21:31.005 --> 00:21:33.325
+So obviously the average monthly retention rate's 10 months.
+
+595
+00:21:33.585 --> 00:21:37.245
+And so we just go 10 times our monthly cogs per month per
+
+596
+00:21:37.245 --> 00:21:38.645
+client of 300, that's the three.
+
+597
+00:21:38.825 --> 00:21:40.485
+And then finally you got your day one cash raw as,
+
+598
+00:21:40.485 --> 00:21:42.045
+which is in this case 0.6.
+
+599
+00:21:42.505 --> 00:21:45.565
+Um, and again, how you figured that out is cac, um,
+
+600
+00:21:45.635 --> 00:21:47.205
+well technically it's your A LV
+
+601
+00:21:47.205 --> 00:21:49.725
+how much you're collecting on day one divided by your cac.
+
+602
+00:21:49.725 --> 00:21:51.285
+So in this case our A LV,
+
+603
+00:21:51.345 --> 00:21:52.965
+how much we're collecting on day one's 1500.
+
+604
+00:21:53.185 --> 00:21:57.645
+So we'll go 1500 divided by our CAC of 2,500 gives us 0.6.
+
+605
+00:21:57.755 --> 00:22:00.005
+Okay? So that's your day one cash row as, so in other words,
+
+606
+00:22:00.005 --> 00:22:02.245
+if you spend a hundred grand in this with these numbers,
+
+607
+00:22:02.245 --> 00:22:04.245
+you're gonna collect 60 K on day.
+
+608
+00:22:04.265 --> 00:22:06.645
+And obviously that's excluding any payment plans. Okay?
+
+609
+00:22:07.265 --> 00:22:10.045
+So in this instance, our lifetime gross profit
+
+610
+00:22:10.065 --> 00:22:13.045
+to CAC equals 4.8 to,
+
+611
+00:22:13.145 --> 00:22:15.165
+and how you get to this point again is you simply go
+
+612
+00:22:15.325 --> 00:22:18.485
+lifetime value minus total cost to fulfill, so that we have,
+
+613
+00:22:18.505 --> 00:22:21.965
+uh, in this case 12,000 lifetime gross profit to cac.
+
+614
+00:22:22.185 --> 00:22:25.485
+Uh, like, uh, 12,000 divided by 2.5
+
+615
+00:22:26.265 --> 00:22:30.765
+is 12,000 divided by 2,500
+
+616
+00:22:31.385 --> 00:22:33.085
+is 4.8 to what, okay?
+
+617
+00:22:33.085 --> 00:22:34.205
+That's how I figured that out, right?
+
+618
+00:22:34.825 --> 00:22:39.265
+So based on these numbers, where would you put your energy
+
+619
+00:22:39.765 --> 00:22:42.545
+and focus or your resources first, right?
+
+620
+00:22:42.565 --> 00:22:44.905
+If these were your numbers, for example, last month,
+
+621
+00:22:45.835 --> 00:22:47.335
+how would you know what to focus on
+
+622
+00:22:47.335 --> 00:22:48.895
+or where should you focus this month
+
+623
+00:22:49.115 --> 00:22:51.535
+to improve your current lifetime growth
+
+624
+00:22:51.535 --> 00:22:52.735
+profit to CAC and scale revenue?
+
+625
+00:22:53.005 --> 00:22:55.015
+Well, there's two primary issues here.
+
+626
+00:22:55.075 --> 00:22:57.295
+Number one, the CAC is high
+
+627
+00:22:57.315 --> 00:23:01.455
+for such a low price service like 2,500 CPA or cac.
+
+628
+00:23:01.755 --> 00:23:05.855
+Uh, for a $1,500 a month offer is very, very high.
+
+629
+00:23:06.635 --> 00:23:10.455
+Now, to clarify, a 2.5 K CAC would be a dream
+
+630
+00:23:10.675 --> 00:23:12.015
+for a company like ours.
+
+631
+00:23:12.075 --> 00:23:14.095
+Our, our CAC is about 5K, four
+
+632
+00:23:14.115 --> 00:23:15.855
+and a half to 5K on any given month.
+
+633
+00:23:16.115 --> 00:23:18.815
+So it's not that quote 2.5 K is high, it's
+
+634
+00:23:18.815 --> 00:23:22.175
+that it's high when you are only collecting 1.5 K upfront.
+
+635
+00:23:22.175 --> 00:23:23.175
+Hopefully that makes sense.
+
+636
+00:23:23.175 --> 00:23:24.175
+Like I don't want you to watch this.
+
+637
+00:23:24.275 --> 00:23:26.815
+You have a 2.5 K cac, but you're charging 15 K
+
+638
+00:23:26.995 --> 00:23:28.455
+and your numbers look great, but you get scared
+
+639
+00:23:28.455 --> 00:23:29.695
+that you've got two and a half K cac.
+
+640
+00:23:29.695 --> 00:23:31.175
+And I'm saying that's bad. It's not bad.
+
+641
+00:23:31.315 --> 00:23:35.535
+But when you factor in the A LV of 1.5 K, that's not good.
+
+642
+00:23:35.645 --> 00:23:37.615
+Okay? Now the second issue here is
+
+643
+00:23:37.615 --> 00:23:41.175
+that LTV at 15 K is very, very, very low.
+
+644
+00:23:41.595 --> 00:23:43.735
+So if we look at problem one, which is the cac,
+
+645
+00:23:43.755 --> 00:23:45.015
+we basically have three options.
+
+646
+00:23:45.345 --> 00:23:46.765
+We could decrease cost per per call.
+
+647
+00:23:46.865 --> 00:23:49.085
+We could increase show rate or we could increase close rate.
+
+648
+00:23:49.085 --> 00:23:51.365
+This goes back to the only three levers that we can pull
+
+649
+00:23:51.625 --> 00:23:53.085
+to decrease cap, right?
+
+650
+00:23:53.755 --> 00:23:55.405
+Well, again, if we look at our numbers though,
+
+651
+00:23:55.485 --> 00:23:58.325
+I mean our cost here, cost per call 300 show rate 60,
+
+652
+00:23:58.375 --> 00:24:01.005
+close rate 20, like none of those numbers are amazing,
+
+653
+00:24:01.105 --> 00:24:02.205
+but they're also not terrible,
+
+654
+00:24:02.455 --> 00:24:04.485
+especially when you factor in the market.
+
+655
+00:24:04.585 --> 00:24:08.725
+So here, as I said, if we assume this is a saturated market,
+
+656
+00:24:08.835 --> 00:24:10.645
+like an e-commerce agency market
+
+657
+00:24:10.785 --> 00:24:14.565
+or an agency on a market of any kind or like coaches or SaaS
+
+658
+00:24:14.585 --> 00:24:17.445
+or any type of more saturated, more aware market,
+
+659
+00:24:17.445 --> 00:24:20.285
+higher awareness market, um, based on the example
+
+660
+00:24:20.545 --> 00:24:21.765
+of those numbers, none
+
+661
+00:24:21.765 --> 00:24:23.485
+of those metrics are actually too terrible.
+
+662
+00:24:23.555 --> 00:24:25.045
+Like they're all pretty decent.
+
+663
+00:24:25.105 --> 00:24:27.005
+Of course you could increase it. I think I say that here.
+
+664
+00:24:27.265 --> 00:24:29.405
+Uh, well I don't, but you could increase
+
+665
+00:24:29.405 --> 00:24:30.805
+them, but they're not too bad.
+
+666
+00:24:31.225 --> 00:24:34.765
+Now, if this was a less saturated industry like B2C,
+
+667
+00:24:35.035 --> 00:24:37.205
+then I'll tell you the biggest issue straight off the bat is
+
+668
+00:24:37.205 --> 00:24:38.885
+the cost per call is way too high.
+
+669
+00:24:39.035 --> 00:24:40.125
+Like if you're in B2C,
+
+670
+00:24:40.125 --> 00:24:41.805
+you should not be getting a 300 cost per call.
+
+671
+00:24:41.805 --> 00:24:43.805
+It should be a lot lower. If you're in any type
+
+672
+00:24:43.805 --> 00:24:45.805
+of less saturated, even B2B industry,
+
+673
+00:24:45.805 --> 00:24:48.445
+like if you're serving, um, like local retailers
+
+674
+00:24:48.445 --> 00:24:50.685
+for example, you know, you have some kind of B2B service
+
+675
+00:24:50.785 --> 00:24:53.325
+and you're serving local retailers, I mean, 300 for
+
+676
+00:24:53.325 --> 00:24:55.045
+that market is just way too high.
+
+677
+00:24:55.505 --> 00:24:57.485
+Um, but again, like our cost per call
+
+678
+00:24:57.485 --> 00:24:58.845
+for context is about 400.
+
+679
+00:24:59.105 --> 00:25:00.965
+So for us, a 300 would be a bargain.
+
+680
+00:25:00.965 --> 00:25:03.575
+Like that would be amazing. So, um,
+
+681
+00:25:04.395 --> 00:25:06.135
+if it was a less saturated industry,
+
+682
+00:25:06.575 --> 00:25:08.055
+I would be looking at getting that cost per call
+
+683
+00:25:08.055 --> 00:25:09.175
+down to a hundred to 200.
+
+684
+00:25:09.635 --> 00:25:10.895
+Um, and here's the thing,
+
+685
+00:25:10.895 --> 00:25:13.815
+if we dropped it in a less saturated industry down
+
+686
+00:25:13.815 --> 00:25:15.215
+to a hundred cost per qualified call,
+
+687
+00:25:15.215 --> 00:25:18.195
+which is very achievable, the lifetime gross profit
+
+688
+00:25:18.195 --> 00:25:19.635
+to CAC would jump to 14
+
+689
+00:25:19.775 --> 00:25:22.755
+to one without changing anything else.
+
+690
+00:25:22.855 --> 00:25:25.635
+In other words, you would triple roughly, uh,
+
+691
+00:25:25.785 --> 00:25:27.795
+well just under triple your business
+
+692
+00:25:29.405 --> 00:25:32.425
+by simply getting your cost per call from 300 down to 100,
+
+693
+00:25:33.135 --> 00:25:34.905
+just by that you can keep everything else the same.
+
+694
+00:25:34.925 --> 00:25:36.425
+You would triple your business just
+
+695
+00:25:36.425 --> 00:25:37.785
+by dropping that cost per qualified.
+
+696
+00:25:37.925 --> 00:25:40.305
+And that's why looking at the biggest constraint out
+
+697
+00:25:40.305 --> 00:25:41.585
+of the all of the six levers
+
+698
+00:25:41.585 --> 00:25:43.825
+and then putting all of your resources onto fixing
+
+699
+00:25:43.935 --> 00:25:46.065
+that thing is so important right?
+
+700
+00:25:46.325 --> 00:25:47.385
+Now, let's assume though
+
+701
+00:25:47.385 --> 00:25:50.145
+that this particular client was in a more saturated market
+
+702
+00:25:50.445 --> 00:25:52.225
+to make the example obviously a little bit harder.
+
+703
+00:25:52.375 --> 00:25:53.945
+Well, again, all those metrics,
+
+704
+00:25:53.945 --> 00:25:55.345
+300 cost per qualified calls,
+
+705
+00:25:55.345 --> 00:25:58.625
+60% show 20% clo close isn't too bad at all.
+
+706
+00:25:58.765 --> 00:26:00.745
+If anything, we could bump the show rate and the close rate
+
+707
+00:26:00.865 --> 00:26:03.065
+'cause that they, you know, they are technically under KPI
+
+708
+00:26:03.065 --> 00:26:05.465
+typically say in a more saturated industry,
+
+709
+00:26:05.465 --> 00:26:07.145
+you should be looking at like 70 plus percent.
+
+710
+00:26:07.445 --> 00:26:09.665
+Um, and close rate typically is, you know, you want it to be
+
+711
+00:26:09.665 --> 00:26:11.745
+around 25, uh, a Canada minimum.
+
+712
+00:26:12.855 --> 00:26:15.635
+Um, but I'm telling you right now,
+
+713
+00:26:15.635 --> 00:26:16.835
+that's not the biggest constraint.
+
+714
+00:26:16.835 --> 00:26:18.675
+You can increase it and there's definitely free money there
+
+715
+00:26:18.675 --> 00:26:20.515
+for you to take, but that's not the biggest constraint.
+
+716
+00:26:20.515 --> 00:26:22.675
+The problem is the price without a question.
+
+717
+00:26:23.055 --> 00:26:26.275
+So the price and the a OV is far too low.
+
+718
+00:26:26.775 --> 00:26:28.515
+So there's two things that you can do here.
+
+719
+00:26:28.575 --> 00:26:30.515
+You can increase the A OV, this won't have anything to do
+
+720
+00:26:30.515 --> 00:26:32.555
+with actually increasing the price as of yet.
+
+721
+00:26:32.975 --> 00:26:34.395
+Um, all this really speaks
+
+722
+00:26:34.395 --> 00:26:36.315
+to is decreasing the payback period.
+
+723
+00:26:36.615 --> 00:26:40.315
+So for example, if you, if, if in this example you, um,
+
+724
+00:26:40.415 --> 00:26:42.955
+was doing say 1.5 K per month, right?
+
+725
+00:26:43.065 --> 00:26:44.965
+So the price is 1.5 K, let's say
+
+726
+00:26:44.965 --> 00:26:46.325
+for example you had a four month
+
+727
+00:26:46.395 --> 00:26:47.685
+guar, uh, four month minimum.
+
+728
+00:26:48.145 --> 00:26:50.445
+Uh, so it's 1.5 KA month for four months minimum.
+
+729
+00:26:51.075 --> 00:26:53.325
+Well, in that instance what I would do is
+
+730
+00:26:53.885 --> 00:26:54.925
+I would, where are we?
+
+731
+00:26:55.345 --> 00:26:58.425
+Um, change instead of charging monthly,
+
+732
+00:26:58.585 --> 00:27:01.105
+I would start charging for the four month project period
+
+733
+00:27:01.255 --> 00:27:02.425
+upfront in full,
+
+734
+00:27:02.485 --> 00:27:04.625
+or in other words, you would start pitching six K,
+
+735
+00:27:04.925 --> 00:27:06.065
+not 1.5 K, right?
+
+736
+00:27:06.065 --> 00:27:07.465
+1.5 K times four is six.
+
+737
+00:27:07.465 --> 00:27:09.345
+So you would start pitching it six K for four months.
+
+738
+00:27:09.345 --> 00:27:11.505
+That's your new pricing. Again, not increased price,
+
+739
+00:27:11.775 --> 00:27:13.545
+it's just the way you're presenting the terms
+
+740
+00:27:13.565 --> 00:27:15.145
+of the deal changes a little bit.
+
+741
+00:27:15.365 --> 00:27:17.425
+Now, if you was to charge six K front, again,
+
+742
+00:27:17.445 --> 00:27:18.665
+1.5 K times four,
+
+743
+00:27:18.965 --> 00:27:22.545
+and then you increase your upfront cash to 50%, um,
+
+744
+00:27:23.325 --> 00:27:25.265
+and maintained your 2.5 KCPA,
+
+745
+00:27:25.335 --> 00:27:27.745
+that would take you from a 0.6 x cash ROAS
+
+746
+00:27:27.885 --> 00:27:29.465
+to a 1.2 X cash R.
+
+747
+00:27:29.685 --> 00:27:32.745
+So you would immediately double your day one profitability.
+
+748
+00:27:33.045 --> 00:27:34.065
+That's pretty big, right?
+
+749
+00:27:34.285 --> 00:27:37.185
+But the problem with that is your lifetime gross profit
+
+750
+00:27:37.205 --> 00:27:39.145
+to CAC ratio won't actually change
+
+751
+00:27:39.335 --> 00:27:40.345
+because all
+
+752
+00:27:40.345 --> 00:27:43.785
+that changes in this is in this example is the window in
+
+753
+00:27:43.785 --> 00:27:45.145
+which the cash is collected.
+
+754
+00:27:45.295 --> 00:27:47.705
+It's not the amount of cash collected, it's just the window
+
+755
+00:27:47.885 --> 00:27:50.065
+or the window refers to the payback period.
+
+756
+00:27:50.325 --> 00:27:51.945
+You've just decreased the payback period,
+
+757
+00:27:52.115 --> 00:27:54.145
+which a hundred percent will help you with scale.
+
+758
+00:27:54.385 --> 00:27:56.425
+'cause now you are actually profitable on day one,
+
+759
+00:27:56.425 --> 00:27:58.665
+which means you're making more cash on day one than you're
+
+760
+00:27:58.745 --> 00:28:00.745
+spending, which means you can take that extra cash
+
+761
+00:28:00.885 --> 00:28:02.025
+and put it right back into ads,
+
+762
+00:28:02.025 --> 00:28:03.345
+so you're more profitable on day one.
+
+763
+00:28:03.405 --> 00:28:07.235
+But again, when we look at the LTGP to CAC ratio, um,
+
+764
+00:28:07.465 --> 00:28:08.755
+that doesn't improve because you've
+
+765
+00:28:08.755 --> 00:28:09.835
+not actually changed your price.
+
+766
+00:28:10.375 --> 00:28:12.355
+So what I would recommend to do in this instance
+
+767
+00:28:12.355 --> 00:28:14.155
+and what actually the client I'm referencing here
+
+768
+00:28:14.155 --> 00:28:16.715
+who had these numbers, what we did was we did this,
+
+769
+00:28:16.735 --> 00:28:19.995
+we increased the A LV at the same time we did number two
+
+770
+00:28:19.995 --> 00:28:21.835
+here, which was increased price as well.
+
+771
+00:28:22.175 --> 00:28:25.715
+So if we're in a saturated market, um, such as this example,
+
+772
+00:28:25.715 --> 00:28:26.995
+because remember here's the thing,
+
+773
+00:28:27.255 --> 00:28:29.635
+if we're not in a saturated market, the price isn't,
+
+774
+00:28:29.845 --> 00:28:30.955
+maybe you could increase price
+
+775
+00:28:30.955 --> 00:28:32.635
+and there's always room for increase in price.
+
+776
+00:28:32.735 --> 00:28:34.435
+But if you're not in a saturated market,
+
+777
+00:28:34.705 --> 00:28:37.035
+then I would say you can easily get
+
+778
+00:28:37.035 --> 00:28:38.595
+that cost per qualified call down
+
+779
+00:28:38.595 --> 00:28:39.995
+to a hundred like we spoke about before.
+
+780
+00:28:40.255 --> 00:28:41.675
+But if you can't do that, then
+
+781
+00:28:41.675 --> 00:28:43.755
+by default it means you're in a more saturated industry,
+
+782
+00:28:44.005 --> 00:28:45.115
+which if that's the case,
+
+783
+00:28:45.285 --> 00:28:46.875
+means you can increase price, right?
+
+784
+00:28:46.935 --> 00:28:49.275
+As I say here, 1.5 K is just far too cheap.
+
+785
+00:28:49.375 --> 00:28:50.635
+Unless the service
+
+786
+00:28:50.855 --> 00:28:53.955
+or the product is just not valuable, which at that point,
+
+787
+00:28:54.295 --> 00:28:56.755
+uh, we would need to look at adding a more valuable
+
+788
+00:28:56.775 --> 00:28:58.915
+or desirable deliverable, okay?
+
+789
+00:28:59.095 --> 00:29:01.195
+But for the most part you're probably just under, uh,
+
+790
+00:29:01.195 --> 00:29:02.595
+you're probably just undercharging, right?
+
+791
+00:29:02.855 --> 00:29:04.555
+I'm sure if this is your situation,
+
+792
+00:29:04.555 --> 00:29:06.315
+and at least the client that I was working through this
+
+793
+00:29:06.315 --> 00:29:08.115
+with, they had a very valuable product.
+
+794
+00:29:08.115 --> 00:29:09.675
+They had a lot of client testimonials,
+
+795
+00:29:09.675 --> 00:29:10.835
+they just weren't charging enough for it.
+
+796
+00:29:10.835 --> 00:29:13.995
+And that's honestly most people's, uh, current situation,
+
+797
+00:29:13.995 --> 00:29:15.635
+like they can charge a lot more.
+
+798
+00:29:15.635 --> 00:29:17.395
+They just don't because they don't have the sales skill.
+
+799
+00:29:17.775 --> 00:29:20.915
+But I would much rather acquire the scale sales skill
+
+800
+00:29:20.915 --> 00:29:23.435
+or go through the process of acquiring the sales skill so
+
+801
+00:29:23.435 --> 00:29:25.995
+that I can charge higher prices rather than keep my close
+
+802
+00:29:25.995 --> 00:29:28.235
+rate high quote unquote or good,
+
+803
+00:29:28.455 --> 00:29:30.835
+but charge a lower price just so that I don't have
+
+804
+00:29:30.835 --> 00:29:32.115
+to incur the cost
+
+805
+00:29:32.135 --> 00:29:33.715
+and spend the time trying
+
+806
+00:29:33.715 --> 00:29:35.435
+to learn the sales skill, if that makes sense.
+
+807
+00:29:35.895 --> 00:29:37.435
+So as I say,
+
+808
+00:29:37.435 --> 00:29:38.875
+for the most part, you probably just spend the charging.
+
+809
+00:29:39.135 --> 00:29:42.565
+So if we just took the 1.5 K price point to three KA month,
+
+810
+00:29:42.575 --> 00:29:44.685
+which is still very low for a saturated market,
+
+811
+00:29:44.685 --> 00:29:45.725
+like it's only three KA month.
+
+812
+00:29:45.865 --> 00:29:47.645
+If you're providing anything of real value
+
+813
+00:29:47.645 --> 00:29:49.725
+to these businesses, which for the most part this type
+
+814
+00:29:49.725 --> 00:29:50.845
+of offer would be in
+
+815
+00:29:50.845 --> 00:29:53.885
+or be in B2B three KA month is still so cheap.
+
+816
+00:29:53.985 --> 00:29:55.285
+But even if we did just that
+
+817
+00:29:55.745 --> 00:29:58.605
+and we pitched the four months, which was uh, 0.1 here,
+
+818
+00:29:58.605 --> 00:29:59.725
+we increased the A OV
+
+819
+00:29:59.865 --> 00:30:02.005
+by pitching four months upfront as a pay in full.
+
+820
+00:30:02.145 --> 00:30:05.325
+And we assume that you had 50% upfront cash collection then
+
+821
+00:30:05.525 --> 00:30:07.925
+assuming that all other metrics stayed the same,
+
+822
+00:30:08.345 --> 00:30:12.205
+the new profit numbers are 2.4 x cash roas.
+
+823
+00:30:12.385 --> 00:30:14.325
+So now all of a sudden we're putting a dollar in
+
+824
+00:30:14.325 --> 00:30:17.805
+and we're getting $2 40 back on day one as opposed
+
+825
+00:30:17.945 --> 00:30:19.405
+to putting a dollar in
+
+826
+00:30:19.405 --> 00:30:22.605
+and getting 60 cents back, which is our original reality.
+
+827
+00:30:23.785 --> 00:30:26.005
+And on top of that, our lifetime gross profit
+
+828
+00:30:26.025 --> 00:30:29.695
+to CAC now is 11 to one as opposed
+
+829
+00:30:29.715 --> 00:30:31.215
+to 4.8 to one.
+
+830
+00:30:31.555 --> 00:30:33.655
+So without changing the ads, changing the sales process
+
+831
+00:30:33.715 --> 00:30:35.055
+or changing the service or the product
+
+832
+00:30:35.055 --> 00:30:37.615
+or anything like that, just by increasing the price
+
+833
+00:30:37.875 --> 00:30:40.695
+and decreasing the payback period, you went from a five
+
+834
+00:30:40.795 --> 00:30:44.695
+to one return, roughly 4.8 to one, to an 11 to one return,
+
+835
+00:30:45.495 --> 00:30:48.865
+doubling your business, that's pretty good, right?
+
+836
+00:30:49.565 --> 00:30:50.905
+But again, we wouldn't have been able
+
+837
+00:30:50.905 --> 00:30:52.905
+to get into those specific solutions if we
+
+838
+00:30:52.905 --> 00:30:54.425
+didn't track these numbers.
+
+839
+00:30:54.565 --> 00:30:57.145
+Now let's have a look at, uh, example number two.
+
+840
+00:30:57.285 --> 00:31:00.305
+So let's assume you have a two 50 cost per qualified call.
+
+841
+00:31:00.355 --> 00:31:04.305
+65% show 16% close price points five KA month,
+
+842
+00:31:04.465 --> 00:31:08.305
+A OV six K cogs, eight 50 a month per month per client
+
+843
+00:31:08.485 --> 00:31:09.785
+and churn rate 15%.
+
+844
+00:31:09.855 --> 00:31:14.385
+Okay? So our CAC here is 2,400 LT vs 33.3 k,
+
+845
+00:31:14.635 --> 00:31:19.545
+total lifetime Cox is 5,600 and day one cash ROAS is 2.5 x
+
+846
+00:31:19.805 --> 00:31:22.705
+and our lifetime va, uh, lifetime, uh, gross profit
+
+847
+00:31:22.725 --> 00:31:24.665
+to CAC is 11 point a half to one.
+
+848
+00:31:25.405 --> 00:31:26.985
+In this case, I would scale,
+
+849
+00:31:27.365 --> 00:31:29.665
+and this is something that you definitely need to keep top
+
+850
+00:31:29.665 --> 00:31:30.945
+of mind, like I was saying before,
+
+851
+00:31:31.285 --> 00:31:32.545
+you can look at all these numbers
+
+852
+00:31:32.605 --> 00:31:33.985
+and I really would recommend
+
+853
+00:31:33.985 --> 00:31:35.505
+to obviously be constantly trying
+
+854
+00:31:35.505 --> 00:31:37.185
+to identify your current biggest constraint.
+
+855
+00:31:37.325 --> 00:31:38.745
+But sometimes what can happen is,
+
+856
+00:31:38.745 --> 00:31:41.265
+and we get this just as much as a client comes to us
+
+857
+00:31:41.285 --> 00:31:44.025
+and you know, there's a clear constraint that we can fix
+
+858
+00:31:44.525 --> 00:31:46.545
+for every one of those, we also get another client come
+
+859
+00:31:46.545 --> 00:31:48.985
+to us and they say like, oh, my numbers are X, Y, z.
+
+860
+00:31:49.165 --> 00:31:50.425
+You know, they watch these trainings
+
+861
+00:31:50.425 --> 00:31:52.225
+and so they start tracking everything, which is amazing,
+
+862
+00:31:52.485 --> 00:31:54.345
+but then they're trying to almost like find a
+
+863
+00:31:54.345 --> 00:31:55.665
+constraint that's not really there.
+
+864
+00:31:55.965 --> 00:31:56.985
+And then I look at their numbers
+
+865
+00:31:57.045 --> 00:31:59.265
+and I'm just like, we need to just spend more on ads.
+
+866
+00:31:59.265 --> 00:32:00.745
+Like your numbers are amazing.
+
+867
+00:32:00.775 --> 00:32:02.505
+Like, and, and that that would be one of these,
+
+868
+00:32:02.775 --> 00:32:05.025
+like this type of client, I can almost guarantee you would
+
+869
+00:32:05.025 --> 00:32:07.185
+immediately tell me I need to increase my close rate.
+
+870
+00:32:07.405 --> 00:32:09.945
+And like, whilst again, a hundred percent like this free
+
+871
+00:32:09.945 --> 00:32:12.065
+money, just getting that 16% close rate up
+
+872
+00:32:12.065 --> 00:32:14.065
+to 25% without a doubt, if we do that,
+
+873
+00:32:14.065 --> 00:32:15.305
+it's, it's gonna be extra cash.
+
+874
+00:32:15.925 --> 00:32:18.985
+But at the same time, we can still scale with these numbers.
+
+875
+00:32:19.195 --> 00:32:20.745
+These numbers are amazing.
+
+876
+00:32:20.855 --> 00:32:24.225
+Like CAC 2,400, you're collecting on day one six K,
+
+877
+00:32:24.245 --> 00:32:27.145
+you're paying 2,400 to collect six K cash today.
+
+878
+00:32:27.245 --> 00:32:31.505
+Day one, excluding contract value, your churn rate's 15%,
+
+879
+00:32:31.505 --> 00:32:33.225
+which is definitely high, we could decrease that.
+
+880
+00:32:33.485 --> 00:32:37.465
+But your um, uh, lifetime gross profit to tax 11.5 to one,
+
+881
+00:32:37.465 --> 00:32:39.445
+meaning for every $1 you spend,
+
+882
+00:32:39.465 --> 00:32:42.285
+you make 11.5 k back in gross profit,
+
+883
+00:32:42.545 --> 00:32:44.245
+not in revenue gross profit.
+
+884
+00:32:44.945 --> 00:32:47.605
+So like why aren't we just spending as many $1
+
+885
+00:32:47.705 --> 00:32:49.445
+as we possibly can, like why aren't we just spending
+
+886
+00:32:49.465 --> 00:32:51.285
+as much money as we possibly can?
+
+887
+00:32:51.785 --> 00:32:52.925
+That's what I would do in this case.
+
+888
+00:32:53.435 --> 00:32:55.405
+However, while you're scaling,
+
+889
+00:32:55.745 --> 00:32:58.365
+and bear in mind these things aren't mutually exclusive.
+
+890
+00:32:58.675 --> 00:33:01.765
+It's not that you have to do x so
+
+891
+00:33:01.765 --> 00:33:04.445
+that you can do y in some cases when it's really bad.
+
+892
+00:33:04.715 --> 00:33:06.085
+Yeah, we have to do that, right?
+
+893
+00:33:06.085 --> 00:33:08.245
+Like we have to figure X out so
+
+894
+00:33:08.245 --> 00:33:09.605
+that we can go scale or whatever.
+
+895
+00:33:09.745 --> 00:33:12.125
+But in cases like this, it's not mutually exclusive.
+
+896
+00:33:12.125 --> 00:33:14.765
+We can scale, we could double out spend, increase out spend
+
+897
+00:33:14.765 --> 00:33:17.365
+by 50%, whatever it is, however aggressive we want to be
+
+898
+00:33:17.825 --> 00:33:21.045
+and whatever your current capacity allows for us to spend,
+
+899
+00:33:22.075 --> 00:33:24.485
+but for the most part we can do that
+
+900
+00:33:24.945 --> 00:33:27.445
+and also work on a couple constraints here,
+
+901
+00:33:27.445 --> 00:33:28.565
+which I'll mention, right?
+
+902
+00:33:28.585 --> 00:33:30.685
+So it's not, we have to do this before that, right?
+
+903
+00:33:31.145 --> 00:33:33.645
+Um, so as I say, while you're scaling,
+
+904
+00:33:33.745 --> 00:33:36.245
+the second constraint I would be focusing on here is
+
+905
+00:33:36.335 --> 00:33:37.645
+close rate and churn rate.
+
+906
+00:33:37.645 --> 00:33:40.165
+Close rate at 16, as I say is easy money,
+
+907
+00:33:40.165 --> 00:33:41.325
+free money in getting that up.
+
+908
+00:33:41.425 --> 00:33:43.805
+And your churn rate at 15% is definitely high.
+
+909
+00:33:44.105 --> 00:33:46.885
+Two 50 cost per qualified call is very good in almost all
+
+910
+00:33:46.885 --> 00:33:49.605
+industries, especially if it's in a more saturated industry.
+
+911
+00:33:49.865 --> 00:33:52.125
+Um, again, if it's a very cheap like local lead gen
+
+912
+00:33:52.125 --> 00:33:55.085
+or B2C niche, then I would focus on decreasing this first.
+
+913
+00:33:55.465 --> 00:33:58.285
+But if it's a more saturated industry, then I, and,
+
+914
+00:33:58.285 --> 00:33:59.445
+and that's typically B2B,
+
+915
+00:33:59.445 --> 00:34:01.085
+if you don't know if your industry saturated, by the way,
+
+916
+00:34:01.085 --> 00:34:02.405
+just lemme know, I can tell you.
+
+917
+00:34:02.645 --> 00:34:04.605
+'cause we see, you know, on the front lines,
+
+918
+00:34:04.625 --> 00:34:08.485
+in every single industry we have every, we have at least two
+
+919
+00:34:08.485 --> 00:34:10.525
+to three clients and basically every industry, you know,
+
+920
+00:34:10.525 --> 00:34:13.205
+so we just know what's saturated, what's not.
+
+921
+00:34:13.305 --> 00:34:14.725
+We know what a good cost per call is
+
+922
+00:34:14.725 --> 00:34:16.165
+and what's not per industry.
+
+923
+00:34:16.585 --> 00:34:20.485
+Um, so as I say though, for most industries, two 50 is good.
+
+924
+00:34:20.725 --> 00:34:22.885
+I would just focus on close rate, show rate as well.
+
+925
+00:34:22.885 --> 00:34:24.085
+At 65% is good.
+
+926
+00:34:24.125 --> 00:34:25.525
+I would just make sure you're not doing anything like
+
+927
+00:34:25.525 --> 00:34:27.565
+stupid, um, and ensure
+
+928
+00:34:27.565 --> 00:34:28.845
+that you're following all the best practices.
+
+929
+00:34:28.845 --> 00:34:30.925
+So like in this case, if you came to me with these numbers,
+
+930
+00:34:31.125 --> 00:34:33.365
+I would just say, Hey, go watch the show rate playbook,
+
+931
+00:34:33.365 --> 00:34:35.405
+which is this training and uh,
+
+932
+00:34:35.435 --> 00:34:37.925
+show rate slash calendar efficiency tracking this training.
+
+933
+00:34:38.225 --> 00:34:40.205
+Um, and as long as like you're following those trainings,
+
+934
+00:34:40.375 --> 00:34:43.165
+65% is good, price point is great,
+
+935
+00:34:43.585 --> 00:34:45.685
+and COGS is good based on the price.
+
+936
+00:34:46.115 --> 00:34:50.565
+However, churn is relatively high as usually for most
+
+937
+00:34:51.285 --> 00:34:52.325
+B2B type of offers.
+
+938
+00:34:52.565 --> 00:34:54.565
+I wanna see that at maximum 10%.
+
+939
+00:34:54.565 --> 00:34:57.205
+Like I want most B2B offers to be single digit churn.
+
+940
+00:34:57.665 --> 00:34:59.845
+So in this case, if we were to bump the close rate
+
+941
+00:34:59.845 --> 00:35:02.085
+to 25% up from 16, which I,
+
+942
+00:35:02.285 --> 00:35:04.525
+I can guarantee you if you're at 16 with these numbers,
+
+943
+00:35:05.065 --> 00:35:08.205
+the reason you're not at 25 is simply a skill deficiency.
+
+944
+00:35:08.335 --> 00:35:11.525
+Which is a good thing because a skill deficiency means
+
+945
+00:35:11.525 --> 00:35:14.045
+that you are in control of acquiring that skill.
+
+946
+00:35:14.045 --> 00:35:16.045
+Like you can acquire the skill, you just don't have it yet,
+
+947
+00:35:16.045 --> 00:35:17.885
+which is fine, but it means that you know,
+
+948
+00:35:17.885 --> 00:35:19.885
+you can acquire it and we can help you with that.
+
+949
+00:35:19.885 --> 00:35:21.605
+We're the best in the world at training up salespeople.
+
+950
+00:35:21.865 --> 00:35:23.725
+So if it's yourself, we can train you.
+
+951
+00:35:23.725 --> 00:35:24.805
+If it's one of your team members,
+
+952
+00:35:24.805 --> 00:35:26.925
+obviously we can train your sales team as well.
+
+953
+00:35:27.305 --> 00:35:29.685
+Um, but we could get you up to 25% Now question.
+
+954
+00:35:29.945 --> 00:35:32.165
+And then if we can drop churn down to 10%,
+
+955
+00:35:32.585 --> 00:35:33.765
+the new lifetime gross profit
+
+956
+00:35:33.765 --> 00:35:36.245
+to CAC ratio is now at 23 to one.
+
+957
+00:35:36.245 --> 00:35:38.805
+Meaning for every $1 you make $23 back
+
+958
+00:35:39.025 --> 00:35:40.285
+in lifetime gross profit.
+
+959
+00:35:40.585 --> 00:35:43.335
+So again, these numbers just played out like this.
+
+960
+00:35:43.375 --> 00:35:45.175
+I really didn't plan for it to all be a double end profit,
+
+961
+00:35:45.275 --> 00:35:48.535
+but again, we've double profit without spending a dime
+
+962
+00:35:48.805 --> 00:35:49.815
+more on ads.
+
+963
+00:35:50.115 --> 00:35:51.455
+And then when you combine, and this is
+
+964
+00:35:51.455 --> 00:35:53.375
+where the exponential scale comes from, and this is where
+
+965
+00:35:53.955 --> 00:35:56.455
+or why we have so many client resorts
+
+966
+00:35:56.545 --> 00:35:59.335
+where the results are like eye watering, it's not
+
+967
+00:35:59.335 --> 00:36:01.255
+because we just spend more on ads or we just
+
+968
+00:36:01.435 --> 00:36:02.735
+Get A really good cost per call.
+
+969
+00:36:02.925 --> 00:36:04.975
+It's because we run through all these metrics,
+
+970
+00:36:05.395 --> 00:36:07.855
+we get the lifetime gross property cta, uh,
+
+971
+00:36:07.855 --> 00:36:10.375
+23 in some cases we've got clients at like 30
+
+972
+00:36:10.475 --> 00:36:11.735
+to one, 40 to one.
+
+973
+00:36:12.115 --> 00:36:13.495
+Um, so we get it to that point
+
+974
+00:36:13.875 --> 00:36:16.255
+and then we triple ad spend, you know,
+
+975
+00:36:16.255 --> 00:36:18.095
+and then when you combine those two forces together,
+
+976
+00:36:18.915 --> 00:36:20.615
+you just exponentially grow, right?
+
+977
+00:36:20.925 --> 00:36:22.175
+Just by default, you know?
+
+978
+00:36:22.555 --> 00:36:24.335
+Um, so that's what would happen in this case.
+
+979
+00:36:24.795 --> 00:36:26.215
+Now example number three,
+
+980
+00:36:26.215 --> 00:36:27.415
+and this is, this is the last example.
+
+981
+00:36:27.415 --> 00:36:29.575
+Hopefully though by me running through these examples
+
+982
+00:36:29.575 --> 00:36:31.015
+and running through how I think about this stuff,
+
+983
+00:36:31.155 --> 00:36:33.295
+you can start to apply it to your own situation
+
+984
+00:36:33.295 --> 00:36:35.815
+and it just really, it becomes a math problem.
+
+985
+00:36:35.815 --> 00:36:38.695
+Like you don't necessarily need me to look at your numbers.
+
+986
+00:36:38.955 --> 00:36:40.095
+I'm obviously more than happy to,
+
+987
+00:36:40.275 --> 00:36:42.215
+but my point is like you can look at your own numbers
+
+988
+00:36:42.515 --> 00:36:43.935
+and if you have this mindset
+
+989
+00:36:44.285 --> 00:36:47.055
+that I'm showing you in this video, you can see just
+
+990
+00:36:47.055 --> 00:36:49.135
+as clearly as I can see what the constraint is
+
+991
+00:36:49.135 --> 00:36:50.295
+because it's, it's just black and white.
+
+992
+00:36:50.355 --> 00:36:52.335
+All you need to do is you just need to look at, okay,
+
+993
+00:36:52.335 --> 00:36:54.135
+if I was to increase my close rate to X,
+
+994
+00:36:54.285 --> 00:36:56.215
+what would my lifetime gross property to CAC jump to?
+
+995
+00:36:56.215 --> 00:36:57.695
+Okay? It would jump to 10 to one.
+
+996
+00:36:57.695 --> 00:36:59.775
+Okay, well let me keep that the same for now.
+
+997
+00:36:59.885 --> 00:37:02.175
+What would happen if I just increased my show rate to X?
+
+998
+00:37:02.325 --> 00:37:04.455
+Well, oh, oh, now it jumps to 11 to one.
+
+999
+00:37:04.455 --> 00:37:05.975
+Okay, so clearly show rate is a
+
+1000
+00:37:05.975 --> 00:37:07.015
+bigger constraint as of right now.
+
+1001
+00:37:07.205 --> 00:37:09.215
+Then close rate, okay, well let's put close rate
+
+1002
+00:37:09.215 --> 00:37:10.295
+up against my price point.
+
+1003
+00:37:10.295 --> 00:37:12.855
+If I increase price point by X, what would my life, oh,
+
+1004
+00:37:12.855 --> 00:37:14.175
+now it goes to 12 and a half to one.
+
+1005
+00:37:14.175 --> 00:37:15.895
+Okay, great. So let me focus on price point,
+
+1006
+00:37:16.125 --> 00:37:17.335
+then my show rate, then my
+
+1007
+00:37:17.335 --> 00:37:18.455
+close rate, you know what I mean, it's just
+
+1008
+00:37:18.855 --> 00:37:19.855
+A math problem.
+
+1009
+00:37:19.955 --> 00:37:20.955
+Um,
+
+1010
+00:37:21.195 --> 00:37:22.655
+But again, let's Go into uh,
+
+1011
+00:37:22.655 --> 00:37:23.655
+client example number three.
+
+1012
+00:37:23.675 --> 00:37:24.895
+So cost per qualifi for
+
+1013
+00:37:24.895 --> 00:37:28.015
+Call $50 Show rate, 50% close rate,
+
+1014
+00:37:28.055 --> 00:37:32.775
+20% price 0.1 0.5 KA month, A OV, 1.5 K, again, uh,
+
+1015
+00:37:33.045 --> 00:37:34.135
+cogs 1200 a month.
+
+1016
+00:37:34.225 --> 00:37:35.575
+Churn rate, 10%.
+
+1017
+00:37:35.755 --> 00:37:39.135
+So here CAC would be 500, lifetime value would be 15 k.
+
+1018
+00:37:39.225 --> 00:37:41.415
+Total lifetime cost of good sold would be 12 k.
+
+1019
+00:37:41.795 --> 00:37:43.735
+Day one cash ROAS would be three x.
+
+1020
+00:37:44.035 --> 00:37:46.385
+So lifetime gross profit
+
+1021
+00:37:46.405 --> 00:37:48.385
+to CAC in this case would be six to one.
+
+1022
+00:37:49.405 --> 00:37:51.465
+So it's not necessarily a harder example,
+
+1023
+00:37:51.685 --> 00:37:54.265
+but um, this example is a very, very common.
+
+1024
+00:37:54.645 --> 00:37:56.465
+Now in this example, there is
+
+1025
+00:37:56.575 --> 00:37:57.865
+Nothing that we can
+
+1026
+00:37:57.865 --> 00:38:00.505
+Do on the front end, um, to get better results.
+
+1027
+00:38:00.505 --> 00:38:03.305
+Quite frankly, the cost per per call at $50 cost per
+
+1028
+00:38:03.305 --> 00:38:05.745
+qualifiable call is never going to get cheaper.
+
+1029
+00:38:05.925 --> 00:38:07.425
+The show rate could definitely increase,
+
+1030
+00:38:07.645 --> 00:38:11.345
+but even if we improve that to 65%, which is a decent jump,
+
+1031
+00:38:11.645 --> 00:38:13.985
+the lifetime gross profit to CAC would only increase
+
+1032
+00:38:13.985 --> 00:38:17.305
+to 7.8 x to one, which is still an improvement.
+
+1033
+00:38:17.325 --> 00:38:19.265
+And you know, we should definitely make those changes
+
+1034
+00:38:19.265 --> 00:38:20.465
+needed to grab that extra profit.
+
+1035
+00:38:20.465 --> 00:38:21.785
+Which again, if you just go
+
+1036
+00:38:21.785 --> 00:38:23.505
+through these two show rate trainings, like you'll be able
+
+1037
+00:38:23.505 --> 00:38:26.225
+to, you know, these two here, you'll be able to increase
+
+1038
+00:38:26.225 --> 00:38:28.145
+that to, in that case around 65%.
+
+1039
+00:38:28.565 --> 00:38:31.385
+But even at that point, you're still only at 7.8
+
+1040
+00:38:31.385 --> 00:38:32.905
+to one, which again, it's
+
+1041
+00:38:32.905 --> 00:38:33.905
+An improvement, let's do it. But
+
+1042
+00:38:33.905 --> 00:38:35.760
+like that's not gonna solve all your problems,
+
+1043
+00:38:35.760 --> 00:38:37.045
+right? Um, and the
+
+1044
+00:38:37.045 --> 00:38:38.565
+Close rate is similar, getting that
+
+1045
+00:38:38.565 --> 00:38:43.045
+to a 25% close rate from a up from 20%, um,
+
+1046
+00:38:43.875 --> 00:38:45.125
+that will certainly add more profit
+
+1047
+00:38:45.145 --> 00:38:47.765
+and we should definitely look at how we can improve that as
+
+1048
+00:38:47.785 --> 00:38:49.405
+If we increased show rate
+
+1049
+00:38:49.405 --> 00:38:53.445
+To 65% and close rate to 25%, the lifetime gross profit
+
+1050
+00:38:53.485 --> 00:38:55.045
+to CAC becomes 9.7 to one.
+
+1051
+00:38:55.065 --> 00:38:56.205
+So again, free
+
+1052
+00:38:56.205 --> 00:38:59.485
+Money, easy changes to make, we can just immediately get
+
+1053
+00:38:59.485 --> 00:39:03.125
+You from the current six to one to 9.7 slash 10 to one.
+
+1054
+00:39:03.125 --> 00:39:04.925
+So it's a huge increase, don't get me wrong.
+
+1055
+00:39:05.425 --> 00:39:08.325
+But whilst these are levers we should definitely be pulling
+
+1056
+00:39:08.415 --> 00:39:10.485
+again 'cause it's easy money. We can't
+
+1057
+00:39:10.595 --> 00:39:13.725
+Rely on only those levers to see a 20
+
+1058
+00:39:13.745 --> 00:39:17.045
+To one or A 30, 30 to one return without needing
+
+1059
+00:39:17.045 --> 00:39:18.845
+To hit metrics that are just simply impossible.
+
+1060
+00:39:18.845 --> 00:39:21.125
+Like a 70% close rate on cold ads, right?
+
+1061
+00:39:21.355 --> 00:39:24.045
+Like, you know, you just, that's unrealistic.
+
+1062
+00:39:24.385 --> 00:39:25.645
+Um, and so even if we get
+
+1063
+00:39:25.645 --> 00:39:28.765
+These metrics to a realistic level, it's still impossible
+
+1064
+00:39:28.765 --> 00:39:30.805
+to see a 20 or 30 to one return.
+
+1065
+00:39:31.225 --> 00:39:32.685
+So how do you achieve those returns
+
+1066
+00:39:32.705 --> 00:39:33.705
+In this example? Well,
+
+1067
+00:39:33.705 --> 00:39:35.805
+the root problem in this example is the cost
+
+1068
+00:39:35.805 --> 00:39:37.445
+of good sold versus the price.
+
+1069
+00:39:37.785 --> 00:39:40.565
+The gross profit in this example is 20%.
+
+1070
+00:39:40.745 --> 00:39:44.285
+Now for context, the cogs should be around 20%
+
+1071
+00:39:44.395 --> 00:39:45.765
+with 80% gross profit.
+
+1072
+00:39:45.785 --> 00:39:49.045
+So in this example, it's precisely the inverse, right?
+
+1073
+00:39:49.145 --> 00:39:50.485
+So there's only two levers
+
+1074
+00:39:50.485 --> 00:39:51.845
+that can be pulled in this example.
+
+1075
+00:39:51.845 --> 00:39:54.685
+Either decrease the cost to fulfill or increase the price,
+
+1076
+00:39:54.905 --> 00:39:56.365
+or now which one you decide
+
+1077
+00:39:56.365 --> 00:39:58.445
+to pull should be based on your model
+
+1078
+00:39:58.825 --> 00:40:00.805
+and general product or service.
+
+1079
+00:40:01.225 --> 00:40:02.245
+So again, for example,
+
+1080
+00:40:02.505 --> 00:40:04.445
+if your service was standard ad
+
+1081
+00:40:04.445 --> 00:40:05.645
+management, let's say, right?
+
+1082
+00:40:05.665 --> 00:40:07.445
+You were doing standard ad ad management,
+
+1083
+00:40:07.545 --> 00:40:08.885
+you're doing some funnel building
+
+1084
+00:40:08.905 --> 00:40:10.525
+and some basic lead gen for your clients.
+
+1085
+00:40:10.865 --> 00:40:13.205
+The issue in that instance, if that was your service,
+
+1086
+00:40:13.255 --> 00:40:15.725
+would be the cogs are way too high.
+
+1087
+00:40:15.995 --> 00:40:18.045
+With some basic restructuring, you would be able
+
+1088
+00:40:18.045 --> 00:40:19.365
+to get your cost of goods sold
+
+1089
+00:40:19.425 --> 00:40:23.605
+or cost to fulfill down to around $500 a month very easily,
+
+1090
+00:40:23.605 --> 00:40:25.565
+like with some very simple restructuring.
+
+1091
+00:40:25.905 --> 00:40:28.885
+Um, which again, by the way would get your lifetime gross
+
+1092
+00:40:28.885 --> 00:40:31.805
+profit to cap to 20 to one without the show rate
+
+1093
+00:40:31.805 --> 00:40:33.765
+or close rate improvements that we spoke about before.
+
+1094
+00:40:34.105 --> 00:40:36.245
+So just by going from 1200, uh,
+
+1095
+00:40:36.385 --> 00:40:38.965
+the cogs were in this example, yeah, 1200 down
+
+1096
+00:40:38.965 --> 00:40:40.525
+to 500, you would go to 20 to one.
+
+1097
+00:40:40.705 --> 00:40:41.885
+So like I was saying before,
+
+1098
+00:40:42.015 --> 00:40:44.685
+where you see those massive improvements isn't gonna be from
+
+1099
+00:40:44.685 --> 00:40:46.045
+increasing show rate
+
+1100
+00:40:46.045 --> 00:40:49.125
+or close rate, it's simply by just focusing on Cox, like
+
+1101
+00:40:49.125 --> 00:40:50.725
+that's the number one constraint.
+
+1102
+00:40:50.825 --> 00:40:51.965
+And of course we can look at show
+
+1103
+00:40:51.965 --> 00:40:53.005
+rate and close rate on the side.
+
+1104
+00:40:53.305 --> 00:40:56.365
+Um, now if we added in those show rate
+
+1105
+00:40:56.365 --> 00:40:58.685
+and close rate improvements as well as the cog improvements,
+
+1106
+00:40:58.915 --> 00:41:02.365
+then the lifetime gross profit to CAC would jump from 20
+
+1107
+00:41:02.385 --> 00:41:04.605
+to one, to 32 to one.
+
+1108
+00:41:05.265 --> 00:41:08.445
+And of course that is without increasing the price,
+
+1109
+00:41:08.705 --> 00:41:11.045
+that's just focusing on decreasing cost
+
+1110
+00:41:11.045 --> 00:41:12.805
+to fulfill crazy right?
+
+1111
+00:41:13.505 --> 00:41:14.845
+Now, let's assume though
+
+1112
+00:41:14.845 --> 00:41:17.045
+that you weren't doing ba remember if this was your service,
+
+1113
+00:41:17.745 --> 00:41:19.435
+you could get it down to 500 a month.
+
+1114
+00:41:19.495 --> 00:41:20.835
+But this is a very basic service.
+
+1115
+00:41:20.835 --> 00:41:22.595
+That's why you could get it down so cheaply.
+
+1116
+00:41:22.975 --> 00:41:24.915
+Now, let's assume you weren't doing basic ads
+
+1117
+00:41:25.055 --> 00:41:26.475
+and rather your service was something
+
+1118
+00:41:26.475 --> 00:41:27.835
+that was much more in depth, where
+
+1119
+00:41:27.835 --> 00:41:31.075
+after going deep you find out that it's impossible
+
+1120
+00:41:31.135 --> 00:41:32.555
+to decrease your cost of goods sold
+
+1121
+00:41:32.615 --> 00:41:34.965
+and continue to deliver a great client
+
+1122
+00:41:34.965 --> 00:41:36.085
+experience with great client results.
+
+1123
+00:41:36.085 --> 00:41:37.085
+Because that is the fine line.
+
+1124
+00:41:37.085 --> 00:41:40.485
+You need to, you need to tread very carefully when it comes
+
+1125
+00:41:40.485 --> 00:41:42.925
+to co You don't wanna decrease your costs so much to
+
+1126
+00:41:42.925 --> 00:41:44.685
+where your lifetime growth profit to C looks great,
+
+1127
+00:41:44.865 --> 00:41:47.765
+but then, because then your client results and, and
+
+1128
+00:41:47.765 --> 00:41:49.005
+or client experience drops
+
+1129
+00:41:49.005 --> 00:41:50.885
+because now you're not spending as much to fulfill on them,
+
+1130
+00:41:51.195 --> 00:41:53.925
+that could then potentially be impacted, which would then
+
+1131
+00:41:54.185 --> 00:41:57.645
+for every dollar essentially you, uh, decrease your cogs
+
+1132
+00:41:57.645 --> 00:42:01.245
+by your churn rate probably would increase accordingly.
+
+1133
+00:42:01.385 --> 00:42:03.805
+So you're actually not changing the lifetime gross profit
+
+1134
+00:42:03.805 --> 00:42:06.005
+to CAC ratio because although your cogs are lower,
+
+1135
+00:42:06.005 --> 00:42:07.965
+your churn's higher, so you just net the same
+
+1136
+00:42:08.265 --> 00:42:10.445
+or net negative, which wouldn't be good either.
+
+1137
+00:42:10.825 --> 00:42:13.805
+Um, so you need to tread that line very carefully.
+
+1138
+00:42:13.905 --> 00:42:15.605
+Now, as I said, if you go
+
+1139
+00:42:15.605 --> 00:42:17.165
+through your fulfillment, where are we?
+
+1140
+00:42:17.505 --> 00:42:19.285
+And you realize that again,
+
+1141
+00:42:19.285 --> 00:42:21.085
+after going deep, you find out that it's impossible
+
+1142
+00:42:21.085 --> 00:42:22.885
+to decrease costs without
+
+1143
+00:42:23.345 --> 00:42:25.165
+or whilst maintaining great client
+
+1144
+00:42:25.165 --> 00:42:26.285
+experience and great client resorts.
+
+1145
+00:42:26.685 --> 00:42:29.645
+Although this will be rare since there's always wasted
+
+1146
+00:42:29.645 --> 00:42:32.045
+increased cost, it can happen from time to time.
+
+1147
+00:42:32.125 --> 00:42:33.885
+I don't see it too often, but it can definitely happen.
+
+1148
+00:42:34.185 --> 00:42:36.965
+And when it does, the only solution of course then is
+
+1149
+00:42:36.965 --> 00:42:39.845
+to increase your price, assuming your costs aren't variable,
+
+1150
+00:42:39.845 --> 00:42:41.445
+otherwise the model would be broken.
+
+1151
+00:42:41.445 --> 00:42:42.885
+However, this is very, very rare
+
+1152
+00:42:42.885 --> 00:42:46.285
+because typical, typically your costs shouldn't be pegged
+
+1153
+00:42:46.305 --> 00:42:47.885
+to your pricing in any way.
+
+1154
+00:42:47.885 --> 00:42:50.045
+If they are, we need to have a conversation about that
+
+1155
+00:42:50.245 --> 00:42:51.605
+'cause that would basically break the model.
+
+1156
+00:42:51.625 --> 00:42:54.525
+In other words, if you increase your price by 50%, uh,
+
+1157
+00:42:54.525 --> 00:42:55.565
+what I'm referring to here is
+
+1158
+00:42:55.565 --> 00:42:58.165
+that your cost would also increase by 50%, which again,
+
+1159
+00:42:58.405 --> 00:43:00.525
+normally there's no correlation between price
+
+1160
+00:43:00.625 --> 00:43:03.365
+and your cost in terms of they're not connected in any way.
+
+1161
+00:43:03.655 --> 00:43:06.045
+Again, if they were, we need to have a conversation about
+
+1162
+00:43:06.045 --> 00:43:07.125
+that because that shouldn't happen.
+
+1163
+00:43:07.585 --> 00:43:09.285
+Um, now usually though,
+
+1164
+00:43:09.305 --> 00:43:13.205
+if this situation arises this situation here, you'll be able
+
+1165
+00:43:13.205 --> 00:43:14.325
+to easily increase your price
+
+1166
+00:43:14.325 --> 00:43:16.125
+because if your cogs are so high
+
+1167
+00:43:16.425 --> 00:43:19.005
+and there's no way to decrease them without losing quality,
+
+1168
+00:43:19.425 --> 00:43:21.925
+it by default means the outcome you're providing your
+
+1169
+00:43:21.925 --> 00:43:23.925
+clients it's ex is extremely valuable, right?
+
+1170
+00:43:23.925 --> 00:43:25.925
+Otherwise, there would be a way to find cheaper labor.
+
+1171
+00:43:26.145 --> 00:43:28.045
+So if your cost, if your cost to fulfill
+
+1172
+00:43:28.625 --> 00:43:32.215
+is extremely expensive, then again, just by the very nature
+
+1173
+00:43:32.215 --> 00:43:35.055
+of it, being expensive means it must be valuable.
+
+1174
+00:43:35.555 --> 00:43:37.735
+If it's not valuable or it's not that valuable,
+
+1175
+00:43:37.805 --> 00:43:39.895
+then there would be a way to find cheaper labor
+
+1176
+00:43:39.995 --> 00:43:42.655
+or some way to deliver that outcome in a cheaper fashion.
+
+1177
+00:43:43.235 --> 00:43:46.055
+But if there's no way, then it means your service is
+
+1178
+00:43:46.255 --> 00:43:47.775
+valuable, which is totally fine, but
+
+1179
+00:43:47.775 --> 00:43:50.015
+that then further means we can easily increase price
+
+1180
+00:43:50.015 --> 00:43:52.295
+because it's clearly valuable to a certain type of person.
+
+1181
+00:43:53.255 --> 00:43:55.115
+Um, and people would be willing to pay more for it.
+
+1182
+00:43:55.415 --> 00:43:57.355
+So with our example, if we were to bump price
+
+1183
+00:43:57.495 --> 00:43:59.595
+to three KA month, assuming again,
+
+1184
+00:43:59.595 --> 00:44:02.115
+your cogs aren't variable, then our lifetime gross profit
+
+1185
+00:44:02.135 --> 00:44:05.995
+to cap would skyrocket to 36 to one
+
+1186
+00:44:06.775 --> 00:44:08.315
+at like a huge increase.
+
+1187
+00:44:08.415 --> 00:44:11.635
+Now, one important note here in this third example is
+
+1188
+00:44:11.635 --> 00:44:13.635
+what can sometimes happen, not all the time,
+
+1189
+00:44:13.635 --> 00:44:16.395
+but sometimes what can happen is you identify the cogs
+
+1190
+00:44:16.395 --> 00:44:17.675
+versus the prices, the constraint.
+
+1191
+00:44:17.775 --> 00:44:18.955
+You look through all the cogs
+
+1192
+00:44:18.955 --> 00:44:21.275
+and you realize there's no way to decrease costs.
+
+1193
+00:44:21.295 --> 00:44:24.235
+And so you look at pricing, but when it comes to pricing
+
+1194
+00:44:24.615 --> 00:44:25.635
+or increasing the price,
+
+1195
+00:44:25.815 --> 00:44:28.035
+you simultaneously realize there's no way
+
+1196
+00:44:28.035 --> 00:44:30.275
+to increase the price because we're already charging the
+
+1197
+00:44:30.275 --> 00:44:32.165
+upper limit for what someone is willing to pay
+
+1198
+00:44:32.385 --> 00:44:34.205
+for the outcome that we're providing.
+
+1199
+00:44:34.545 --> 00:44:36.445
+Now, this is when you have a model
+
+1200
+00:44:36.585 --> 00:44:39.485
+that's fundamentally broken, it simply doesn't work.
+
+1201
+00:44:39.665 --> 00:44:40.965
+You know where your costs are so high,
+
+1202
+00:44:41.185 --> 00:44:43.205
+you can't get them down because what, in order
+
+1203
+00:44:43.205 --> 00:44:45.205
+to deliver the outcome you're providing, you have
+
+1204
+00:44:45.205 --> 00:44:46.765
+to have those costs, okay?
+
+1205
+00:44:47.105 --> 00:44:49.685
+But then when you look at increasing price to compensate for
+
+1206
+00:44:49.685 --> 00:44:52.165
+that, you realize no one's willing to pay more than
+
+1207
+00:44:52.165 --> 00:44:54.695
+what they're currently paying for that service.
+
+1208
+00:44:55.005 --> 00:44:56.135
+Well, now we're at a, we're
+
+1209
+00:44:56.135 --> 00:44:57.295
+stuck between a rock and a hard place.
+
+1210
+00:44:57.295 --> 00:44:58.295
+There's nowhere that we can go,
+
+1211
+00:44:58.295 --> 00:44:59.535
+which means the model's broken.
+
+1212
+00:45:00.355 --> 00:45:05.295
+Um, and so a good example of this is a design agency
+
+1213
+00:45:05.295 --> 00:45:06.295
+for low revenue brands.
+
+1214
+00:45:06.295 --> 00:45:07.935
+So if you do like any type of design
+
+1215
+00:45:08.115 --> 00:45:10.015
+or brand guidelines, et cetera,
+
+1216
+00:45:10.015 --> 00:45:12.695
+for like low revenue e-comm brands, uh, first off,
+
+1217
+00:45:12.715 --> 00:45:14.375
+the overall desire for like graphic
+
+1218
+00:45:14.435 --> 00:45:15.935
+design isn't that hard, right?
+
+1219
+00:45:16.195 --> 00:45:18.495
+So the front end ads won't attract that many, uh,
+
+1220
+00:45:18.495 --> 00:45:20.015
+won't attract that much response.
+
+1221
+00:45:20.315 --> 00:45:22.615
+Uh, but let's say for example, they do, for whatever reason,
+
+1222
+00:45:22.615 --> 00:45:24.335
+you have a great cost per call, okay, well,
+
+1223
+00:45:24.455 --> 00:45:25.695
+a good designer isn't cheap.
+
+1224
+00:45:26.075 --> 00:45:28.735
+And what typically you'll find is the time, energy
+
+1225
+00:45:28.735 --> 00:45:31.775
+and expertise it takes to make a quote, good design, um,
+
+1226
+00:45:32.145 --> 00:45:35.655
+isn't all too far away from making a great design, okay?
+
+1227
+00:45:35.955 --> 00:45:39.855
+So your cogs are naturally going to be high, which again,
+
+1228
+00:45:39.875 --> 00:45:41.855
+is okay if you're working with, for example,
+
+1229
+00:45:41.855 --> 00:45:43.295
+enterprise level clients who are willing
+
+1230
+00:45:43.295 --> 00:45:44.935
+to pay a hundred grand for a logo.
+
+1231
+00:45:44.955 --> 00:45:47.295
+And that's very much, I'm not being sarcastic there,
+
+1232
+00:45:47.295 --> 00:45:49.695
+like a lot of big companies are willing to pay a lot
+
+1233
+00:45:49.695 --> 00:45:52.095
+of money for design, so that's fine,
+
+1234
+00:45:52.235 --> 00:45:54.095
+but if you're trying to attract those guys through ads,
+
+1235
+00:45:54.095 --> 00:45:55.175
+they're just not gonna be there.
+
+1236
+00:45:55.315 --> 00:45:58.055
+So if you wanna only do like LinkedIn outreach code, DM,
+
+1237
+00:45:58.295 --> 00:45:59.535
+outreach, et cetera, to get those
+
+1238
+00:45:59.535 --> 00:46:00.775
+enterprise level clients, that's okay.
+
+1239
+00:46:01.115 --> 00:46:03.175
+But if you're trying to run ads to get clients
+
+1240
+00:46:03.235 --> 00:46:04.495
+and scale through ads,
+
+1241
+00:46:05.075 --> 00:46:07.255
+you know you're not gonna get those guys through the ads.
+
+1242
+00:46:07.595 --> 00:46:11.095
+So, um, in this case, if you're then willing, if,
+
+1243
+00:46:11.095 --> 00:46:13.215
+if you're working with lower revenue brands
+
+1244
+00:46:13.275 --> 00:46:14.615
+who need graphic design work
+
+1245
+00:46:14.715 --> 00:46:16.815
+but don't have a huge budget, they might be willing
+
+1246
+00:46:16.815 --> 00:46:18.135
+to pay 2K, for example.
+
+1247
+00:46:18.265 --> 00:46:20.095
+Which if you think about it, it's still quite a lot
+
+1248
+00:46:20.095 --> 00:46:21.975
+for design, but again, the cost
+
+1249
+00:46:21.975 --> 00:46:23.495
+to fulfill isn't any cheaper.
+
+1250
+00:46:23.715 --> 00:46:24.855
+And so that's where the model breaks.
+
+1251
+00:46:24.875 --> 00:46:27.015
+You just simply don't have the margin required
+
+1252
+00:46:27.275 --> 00:46:29.455
+to service those clients in a profitable manner.
+
+1253
+00:46:29.755 --> 00:46:32.375
+So it becomes impossible to decrease cogs
+
+1254
+00:46:32.435 --> 00:46:34.575
+or increase price without changing the model.
+
+1255
+00:46:34.835 --> 00:46:37.095
+Now, when I say changing, when I say changing the model,
+
+1256
+00:46:37.415 --> 00:46:40.015
+I mean either completely abandoning the current model,
+
+1257
+00:46:40.475 --> 00:46:42.535
+or in this example, you might bake
+
+1258
+00:46:42.535 --> 00:46:44.695
+and design into a paid ads deliverable
+
+1259
+00:46:44.915 --> 00:46:47.055
+or some other adjacent deliverable that you can add,
+
+1260
+00:46:47.055 --> 00:46:50.895
+which will allow you to justify a much higher price point.
+
+1261
+00:46:51.355 --> 00:46:52.575
+And that is very common
+
+1262
+00:46:52.575 --> 00:46:54.095
+with a lot of clients that we work with.
+
+1263
+00:46:54.365 --> 00:46:56.415
+They, you know, have gotten to their current revenue
+
+1264
+00:46:56.415 --> 00:46:57.495
+through referrals only,
+
+1265
+00:46:57.495 --> 00:46:59.175
+and referrals are willing to pay a lot
+
+1266
+00:46:59.195 --> 00:47:01.615
+for maybe not something that's for, for something
+
+1267
+00:47:01.615 --> 00:47:02.655
+that's not overly valuable.
+
+1268
+00:47:02.835 --> 00:47:04.655
+But when you again, move to paid ads and
+
+1269
+00:47:04.675 --> 00:47:06.575
+or you move to just colder prospects in general
+
+1270
+00:47:06.635 --> 00:47:08.735
+and you start scaling your revenue, um,
+
+1271
+00:47:11.485 --> 00:47:14.305
+all cold prospects care about is the value they
+
+1272
+00:47:14.305 --> 00:47:15.665
+receive from your services.
+
+1273
+00:47:15.685 --> 00:47:17.545
+That's all they care about. And so if you have a deliverable
+
+1274
+00:47:17.545 --> 00:47:19.025
+right now that isn't that valuable,
+
+1275
+00:47:19.205 --> 00:47:22.655
+but it's costly to deliver, it's difficult
+
+1276
+00:47:22.655 --> 00:47:24.495
+because you're not gonna be able to increase your price
+
+1277
+00:47:24.595 --> 00:47:27.985
+so much to where it makes sense to
+
+1278
+00:47:27.985 --> 00:47:30.405
+where your margins make sense and you're able to scale.
+
+1279
+00:47:30.665 --> 00:47:32.765
+So in that case, again, that's where a lot of our clients,
+
+1280
+00:47:32.785 --> 00:47:35.725
+we help them either restructure their current fulfillment,
+
+1281
+00:47:35.815 --> 00:47:37.925
+maybe we help them in some other instances,
+
+1282
+00:47:38.025 --> 00:47:40.645
+we help them like completely redo their fulfillment.
+
+1283
+00:47:40.865 --> 00:47:42.445
+But typically something needs to change in
+
+1284
+00:47:42.445 --> 00:47:43.565
+that instance specifically
+
+1285
+00:47:43.565 --> 00:47:45.205
+because again, otherwise the model breaks.
+
+1286
+00:47:45.265 --> 00:47:48.765
+Now, I do wanna make a point here and or a a disclaimer,
+
+1287
+00:47:48.765 --> 00:47:49.845
+and this is a big disclaimer.
+
+1288
+00:47:53.525 --> 00:47:56.095
+This is oftentimes a rare occurrence
+
+1289
+00:47:56.095 --> 00:47:57.775
+where the model is fundamentally broken.
+
+1290
+00:47:57.805 --> 00:47:59.375
+Like sometimes we want to add certain things
+
+1291
+00:47:59.375 --> 00:48:00.615
+to make it more valuable, et cetera,
+
+1292
+00:48:00.615 --> 00:48:03.255
+but like it's very rare where it's just, it's just broken.
+
+1293
+00:48:03.285 --> 00:48:04.535
+Like it's just never gonna work, right?
+
+1294
+00:48:04.875 --> 00:48:06.575
+Um, uh, and the reason why is
+
+1295
+00:48:06.575 --> 00:48:09.055
+because there's always ways to increase cost, number one.
+
+1296
+00:48:09.475 --> 00:48:12.415
+And usually you can always charge more for the most.
+
+1297
+00:48:12.795 --> 00:48:14.455
+It simply just takes more sales skills.
+
+1298
+00:48:15.055 --> 00:48:16.615
+Remember, there's a very big difference
+
+1299
+00:48:16.615 --> 00:48:17.975
+between you not being able
+
+1300
+00:48:17.975 --> 00:48:20.895
+to charge more on the sales call due to lack of sales skills
+
+1301
+00:48:21.235 --> 00:48:22.775
+and a market simply not willing
+
+1302
+00:48:22.775 --> 00:48:24.895
+to pay more than your current price
+
+1303
+00:48:25.155 --> 00:48:26.295
+for the result that you're offering.
+
+1304
+00:48:26.295 --> 00:48:28.335
+There's a very big difference between the two.
+
+1305
+00:48:28.445 --> 00:48:30.055
+They both look similar on the surface.
+
+1306
+00:48:30.275 --> 00:48:31.575
+No one buys and everyone kind
+
+1307
+00:48:31.575 --> 00:48:32.855
+of box at the high price point,
+
+1308
+00:48:33.235 --> 00:48:35.975
+but in one instance you could definitely charge more.
+
+1309
+00:48:36.075 --> 00:48:38.215
+And another instance, you literally cannot charge more.
+
+1310
+00:48:38.215 --> 00:48:40.815
+And so obviously if that's you right now, um, just come
+
+1311
+00:48:40.815 --> 00:48:41.935
+to one of my weekly calls, drop,
+
+1312
+00:48:41.935 --> 00:48:44.335
+drop a post in the school group, um, walk me
+
+1313
+00:48:44.335 --> 00:48:45.855
+through your numbers and I'll be able to tell you
+
+1314
+00:48:45.855 --> 00:48:49.455
+for the most part like what um, the situation is,
+
+1315
+00:48:49.455 --> 00:48:50.455
+whether it's a market problem
+
+1316
+00:48:50.515 --> 00:48:51.735
+or whether it's just a you problem.
+
+1317
+00:48:51.995 --> 00:48:53.495
+And most of the time it's just the you problem.
+
+1318
+00:48:53.495 --> 00:48:55.055
+Like we just need to help you get better at sales,
+
+1319
+00:48:55.055 --> 00:48:56.455
+which again, we're the best in the world at,
+
+1320
+00:48:56.455 --> 00:48:57.615
+so you're in good hands.
+
+1321
+00:48:58.035 --> 00:49:01.295
+Um, but anyway, this overall is the only way you can scale.
+
+1322
+00:49:01.295 --> 00:49:03.375
+This is how you should be thinking every single month.
+
+1323
+00:49:03.375 --> 00:49:05.775
+You should be looking at your tracker, going
+
+1324
+00:49:05.775 --> 00:49:06.335
+through the numbers,
+
+1325
+00:49:07.135 --> 00:49:08.415
+identifying your current biggest constraint.
+
+1326
+00:49:08.415 --> 00:49:10.695
+And again, for the most part, whatever the constraint is
+
+1327
+00:49:10.695 --> 00:49:13.655
+that you identify, um, whether it's cost per qualified call,
+
+1328
+00:49:13.805 --> 00:49:15.655
+show rate, close rate, price point, cogs,
+
+1329
+00:49:15.655 --> 00:49:18.895
+or churn, whatever it is, there's only then six levers
+
+1330
+00:49:18.895 --> 00:49:20.055
+that you can do to improve those.
+
+1331
+00:49:20.315 --> 00:49:22.415
+And obviously within the six levers, there's a lot
+
+1332
+00:49:22.695 --> 00:49:24.695
+of sub levers and sub things,
+
+1333
+00:49:24.755 --> 00:49:26.095
+but overall high level,
+
+1334
+00:49:26.485 --> 00:49:28.495
+there's only six ways you can scale the company
+
+1335
+00:49:28.675 --> 00:49:30.335
+or you just push more volume through the system.
+
+1336
+00:49:30.395 --> 00:49:31.815
+So hopefully this was useful.
+
+1337
+00:49:32.255 --> 00:49:33.695
+Questions as always dropping in the school group.
+
+1338
+00:49:33.695 --> 00:49:35.655
+Come to one of my weekly calls. I'm here to help.
+
+1339
+00:49:35.875 --> 00:49:37.375
+And with that being said, I appreciate your time
+
+1340
+00:49:37.375 --> 00:49:38.495
+and we'll uh, see you in the next video.

@@ -1,0 +1,2053 @@
+WEBVTT
+
+1
+00:00:00.155 --> 00:00:01.645
+Alright, so in this one we're gonna go
+
+2
+00:00:01.645 --> 00:00:02.845
+through pricing for scale.
+
+3
+00:00:02.945 --> 00:00:04.525
+So here's a pricing rule of thumb.
+
+4
+00:00:04.525 --> 00:00:06.365
+Your price should always be one 10th
+
+5
+00:00:06.625 --> 00:00:08.125
+of the value slash return
+
+6
+00:00:08.125 --> 00:00:10.125
+that your clients receive right now,
+
+7
+00:00:10.155 --> 00:00:11.245
+when I talk about the value
+
+8
+00:00:11.245 --> 00:00:13.925
+or return your clients receive, depending on the service,
+
+9
+00:00:14.105 --> 00:00:16.685
+it doesn't, that doesn't necessarily mean a, uh,
+
+10
+00:00:16.865 --> 00:00:19.205
+direct cash return every single month.
+
+11
+00:00:19.205 --> 00:00:21.605
+Obviously, if you can make it a direct cash return.
+
+12
+00:00:21.745 --> 00:00:23.285
+So in other words, if you can facilitate,
+
+13
+00:00:23.345 --> 00:00:26.285
+if you can change your backend to facilitate direct cash,
+
+14
+00:00:26.395 --> 00:00:27.405
+then you should, right?
+
+15
+00:00:27.405 --> 00:00:29.005
+Because if you can show your clients, Hey,
+
+16
+00:00:29.005 --> 00:00:30.005
+you're paying me three KA month
+
+17
+00:00:30.065 --> 00:00:32.725
+and I'm giving you 30 K per month in new cash,
+
+18
+00:00:32.725 --> 00:00:34.165
+that's hitting your bank account every single month,
+
+19
+00:00:34.275 --> 00:00:36.725
+that wouldn't have otherwise been in there if it wasn't
+
+20
+00:00:36.725 --> 00:00:38.245
+for the services that we're giving you.
+
+21
+00:00:38.385 --> 00:00:40.165
+If you can show your clients that in black
+
+22
+00:00:40.165 --> 00:00:41.765
+and white, it's just like, there you go.
+
+23
+00:00:42.555 --> 00:00:44.245
+It's, that's indisputable, you know?
+
+24
+00:00:44.505 --> 00:00:47.925
+Um, so if you can facilitate that direct cash return
+
+25
+00:00:48.155 --> 00:00:49.485
+with your services, then
+
+26
+00:00:49.505 --> 00:00:50.725
+you always wanna go down that route.
+
+27
+00:00:50.725 --> 00:00:52.165
+However, it's not always necessary.
+
+28
+00:00:52.185 --> 00:00:55.325
+For example, I know an eight figure company, um,
+
+29
+00:00:55.615 --> 00:00:57.605
+which has a VA placement service
+
+30
+00:00:58.025 --> 00:01:01.085
+and they charge 1000 a month on recurring rev, you know, in,
+
+31
+00:01:01.085 --> 00:01:02.485
+in, in a recurring retainer.
+
+32
+00:01:02.705 --> 00:01:04.405
+Now, their VAs obviously don't
+
+33
+00:01:04.965 --> 00:01:07.045
+directly generate their clients 10 KA month,
+
+34
+00:01:07.225 --> 00:01:10.325
+but they do generate that value indirectly when, you know,
+
+35
+00:01:10.325 --> 00:01:12.845
+when you factor in, uh, the cost of finding, hiring
+
+36
+00:01:12.905 --> 00:01:15.245
+and training and onboarding new VAs yourself,
+
+37
+00:01:15.505 --> 00:01:17.005
+and the value of not having to hire
+
+38
+00:01:17.025 --> 00:01:20.005
+and fire 10 VAs to find one good one, you know,
+
+39
+00:01:20.005 --> 00:01:21.285
+that is probably in value
+
+40
+00:01:22.705 --> 00:01:24.645
+way more honestly than 10,000 a month.
+
+41
+00:01:24.825 --> 00:01:26.565
+So you can see there that it's kind of indirect.
+
+42
+00:01:26.705 --> 00:01:29.005
+So it doesn't always need to be that direct cash return.
+
+43
+00:01:29.005 --> 00:01:32.605
+However, if you can do one 10th, so for example,
+
+44
+00:01:32.605 --> 00:01:35.125
+if you charge your clients 1000 a month, your clients,
+
+45
+00:01:35.145 --> 00:01:38.405
+if you can get them 10,000 a month in direct cash that they,
+
+46
+00:01:38.405 --> 00:01:40.885
+again, they wouldn't otherwise have had, um,
+
+47
+00:01:41.025 --> 00:01:42.165
+if they weren't working with you,
+
+48
+00:01:42.825 --> 00:01:44.125
+that's the tip of the iceberg.
+
+49
+00:01:44.125 --> 00:01:45.525
+That's the best place to be, right?
+
+50
+00:01:45.525 --> 00:01:47.125
+Obviously if you charge 5,000,
+
+51
+00:01:47.125 --> 00:01:48.525
+you should be generating 50 KA month in revenue,
+
+52
+00:01:48.675 --> 00:01:49.685
+same thing for 10,000.
+
+53
+00:01:49.705 --> 00:01:52.765
+Now, I promise you, if the minimum return your clients make
+
+54
+00:01:52.785 --> 00:01:57.325
+is 10 x, you will never, ever have a retention problem ever,
+
+55
+00:01:57.535 --> 00:01:59.765
+which then means you can spend way more on the,
+
+56
+00:01:59.785 --> 00:02:00.925
+on your front end acquisition,
+
+57
+00:02:00.925 --> 00:02:03.405
+which ultimately means you'll be able to scale far easier.
+
+58
+00:02:03.875 --> 00:02:07.005
+I've found that getting beyond 10 x is more a function of,
+
+59
+00:02:07.225 --> 00:02:09.605
+uh, fulfillment than it is a function
+
+60
+00:02:09.605 --> 00:02:11.325
+of pricing, for example.
+
+61
+00:02:12.185 --> 00:02:15.725
+Um, you wanna price it 10 x and then you wanna hyper iterate
+
+62
+00:02:15.725 --> 00:02:17.885
+and improve on your fulfillment to get your price
+
+63
+00:02:17.885 --> 00:02:21.485
+to value ratio to 20 x, 30 x 40 x and so on, okay?
+
+64
+00:02:21.485 --> 00:02:24.205
+And there's gonna be more, uh, trainings on this in terms of
+
+65
+00:02:24.205 --> 00:02:25.565
+how to do that from a fulfillment
+
+66
+00:02:25.565 --> 00:02:27.045
+perspective in the later trainings.
+
+67
+00:02:27.105 --> 00:02:29.565
+But just know that like whatever your fulfillment is at
+
+68
+00:02:29.565 --> 00:02:31.165
+right now, charge one 10th of that.
+
+69
+00:02:31.305 --> 00:02:33.085
+And then if you wanna get it to a 20, 30
+
+70
+00:02:33.105 --> 00:02:34.765
+or 40, that's not, you know,
+
+71
+00:02:35.045 --> 00:02:38.085
+'cause you could price based on a 20 x return,
+
+72
+00:02:38.265 --> 00:02:40.445
+but then your price is gonna be so ridiculously low.
+
+73
+00:02:40.445 --> 00:02:42.925
+You know, if you gen generate your clients 20,000 a month,
+
+74
+00:02:43.155 --> 00:02:44.285
+well, you know, uh,
+
+75
+00:02:44.445 --> 00:02:47.165
+a 20 x return on pricing would mean
+
+76
+00:02:47.165 --> 00:02:48.405
+you're charging a thousand a month.
+
+77
+00:02:48.505 --> 00:02:49.685
+But if you're charging a thousand a month
+
+78
+00:02:49.685 --> 00:02:51.245
+and generating your clients 20,000 a month,
+
+79
+00:02:51.245 --> 00:02:52.405
+you're charging way too low.
+
+80
+00:02:52.515 --> 00:02:54.525
+Like, that should be 2000 a month, minimum,
+
+81
+00:02:54.525 --> 00:02:55.765
+20,000 a month return.
+
+82
+00:02:55.955 --> 00:02:57.685
+Then if you wanted to get that 20,000 a month
+
+83
+00:02:57.685 --> 00:02:58.725
+return to, you know,
+
+84
+00:02:58.985 --> 00:03:02.405
+Um, or that, that, uh, uh, 10 x return to 20 x
+
+85
+00:03:02.405 --> 00:03:03.885
+or 30 x, just make your fulfillment better.
+
+86
+00:03:03.905 --> 00:03:05.845
+Get your clients from 20,000 to 30,000
+
+87
+00:03:05.845 --> 00:03:06.925
+or 40,000 a month return.
+
+88
+00:03:06.985 --> 00:03:09.405
+And even then you could probably look at bumping your, um,
+
+89
+00:03:09.405 --> 00:03:11.565
+your price up anyway as your value increases.
+
+90
+00:03:11.565 --> 00:03:13.485
+Hopefully that makes sense. So that's kind
+
+91
+00:03:13.485 --> 00:03:14.925
+of just like the general rule of thumb.
+
+92
+00:03:15.065 --> 00:03:17.685
+Now, if it's a new offer, okay, um,
+
+93
+00:03:18.665 --> 00:03:20.365
+if you have a relatively new offer,
+
+94
+00:03:20.455 --> 00:03:22.885
+which you don't have much proof with yet, here's
+
+95
+00:03:22.885 --> 00:03:24.325
+how I recommend pricing to start.
+
+96
+00:03:24.425 --> 00:03:26.965
+So, when I talk about a new offer, I particularly, I'm, I'm,
+
+97
+00:03:27.025 --> 00:03:28.765
+I'm more specifically referring to offers
+
+98
+00:03:28.765 --> 00:03:30.565
+where you don't have much proof, okay?
+
+99
+00:03:30.745 --> 00:03:33.405
+If that is you, here's how I recommend to, uh, price.
+
+100
+00:03:33.585 --> 00:03:35.445
+If you are any type of agency
+
+101
+00:03:35.445 --> 00:03:38.725
+or service-based business, I would recommend to do 2.5 K
+
+102
+00:03:38.725 --> 00:03:41.045
+to three K per month with a three month,
+
+103
+00:03:41.055 --> 00:03:42.245
+three to four month minimum.
+
+104
+00:03:42.905 --> 00:03:46.445
+So, in other words, you know, that would be a roughly 12 k
+
+105
+00:03:46.745 --> 00:03:49.445
+for four month type pro, um, initial project period.
+
+106
+00:03:49.665 --> 00:03:51.565
+That's what I recommend to, again, start
+
+107
+00:03:51.565 --> 00:03:54.405
+with if you're an agency, if you're a coaching
+
+108
+00:03:54.445 --> 00:03:56.485
+or consulting type business, if it's biz op,
+
+109
+00:03:56.485 --> 00:03:59.805
+then I recommend doing a roughly 4,800 for 12 to 16 weeks,
+
+110
+00:03:59.905 --> 00:04:01.525
+or in other words, four months just
+
+111
+00:04:01.585 --> 00:04:03.045
+for whatever reason in the coaching space,
+
+112
+00:04:03.045 --> 00:04:05.125
+typically it's based on weeks, like 12
+
+113
+00:04:05.125 --> 00:04:06.765
+to 16 weeks is how people think about it.
+
+114
+00:04:06.765 --> 00:04:09.125
+Whereas in the agency space, it's month, you know,
+
+115
+00:04:09.145 --> 00:04:10.325
+um, uh, months, right?
+
+116
+00:04:10.425 --> 00:04:14.725
+So if it's biz op, as I say, 4,800 for 12 to 16 weeks,
+
+117
+00:04:14.865 --> 00:04:16.005
+if you're in health weight loss
+
+118
+00:04:16.005 --> 00:04:18.965
+or relationships, I recommend doing 28 to 3,800
+
+119
+00:04:19.465 --> 00:04:20.805
+for 12 to 16 weeks.
+
+120
+00:04:20.995 --> 00:04:24.165
+Okay? So just as, again, starting points, right?
+
+121
+00:04:24.165 --> 00:04:27.565
+And essentially the idea here is you wanna price low enough
+
+122
+00:04:27.565 --> 00:04:30.965
+initially to where price isn't an objection, all right?
+
+123
+00:04:30.965 --> 00:04:32.845
+Because in the early days of any new offer,
+
+124
+00:04:32.985 --> 00:04:34.805
+you always wanna optimize for flow.
+
+125
+00:04:35.025 --> 00:04:38.085
+In other words, new clients over profit. Why?
+
+126
+00:04:38.085 --> 00:04:39.685
+Because that's what's gonna allow you
+
+127
+00:04:39.685 --> 00:04:40.845
+to get the results you need
+
+128
+00:04:40.905 --> 00:04:42.445
+to be able to increase your price.
+
+129
+00:04:42.665 --> 00:04:44.325
+If you're just starting out on a brand new offer
+
+130
+00:04:45.145 --> 00:04:48.165
+and you're not closing, but your price is 10 K
+
+131
+00:04:48.305 --> 00:04:50.965
+or something ridiculous, um, given
+
+132
+00:04:50.965 --> 00:04:53.325
+that you've got no results to back up that price point
+
+133
+00:04:53.465 --> 00:04:56.365
+to prove that actually the price is, you know, one 10th
+
+134
+00:04:56.365 --> 00:04:58.325
+of the value, you're gonna, uh, be generating them.
+
+135
+00:04:58.385 --> 00:04:59.405
+If you don't have that proof,
+
+136
+00:04:59.635 --> 00:05:01.765
+then people aren't gonna be buying your offer, not
+
+137
+00:05:01.765 --> 00:05:02.525
+because they don't want your
+
+138
+00:05:02.525 --> 00:05:03.605
+offer, but because of the price.
+
+139
+00:05:03.785 --> 00:05:05.165
+So now you're losing out on clients
+
+140
+00:05:05.165 --> 00:05:07.125
+because the pricing is too high.
+
+141
+00:05:07.185 --> 00:05:10.285
+It it, it's too high for the value that you have
+
+142
+00:05:10.305 --> 00:05:11.645
+to show proof of, right?
+
+143
+00:05:11.865 --> 00:05:14.205
+Um, and so instead what you wanna do is just drop it a
+
+144
+00:05:14.205 --> 00:05:18.405
+little bit and optimize for flow first, get the clients in,
+
+145
+00:05:18.595 --> 00:05:20.365
+work with the clients, get them results.
+
+146
+00:05:20.625 --> 00:05:22.245
+Now that you've got those results, you can go back
+
+147
+00:05:22.245 --> 00:05:24.445
+to your pricing and bump it at to where it really should be,
+
+148
+00:05:24.445 --> 00:05:26.005
+which again, really where it should be
+
+149
+00:05:26.025 --> 00:05:27.125
+is 1 cent of the value.
+
+150
+00:05:27.355 --> 00:05:30.085
+Hopefully this is making sense. That's how I think about it.
+
+151
+00:05:30.265 --> 00:05:31.525
+Now, pretty much as I say here,
+
+152
+00:05:31.525 --> 00:05:33.485
+once you sign your first few clients, you are then able
+
+153
+00:05:33.485 --> 00:05:35.885
+to use the results to determine your true pricing,
+
+154
+00:05:35.885 --> 00:05:38.405
+which is one 10th of the value that you provide.
+
+155
+00:05:38.625 --> 00:05:39.965
+So these are some starting points
+
+156
+00:05:39.965 --> 00:05:43.285
+that I would start at if you are, if you have a new offer,
+
+157
+00:05:43.625 --> 00:05:45.205
+or again, in other words, a new offer
+
+158
+00:05:45.205 --> 00:05:46.965
+that doesn't have any past results.
+
+159
+00:05:47.065 --> 00:05:50.565
+Now again, thinking back to the offer logistics training.
+
+160
+00:05:51.465 --> 00:05:53.005
+If it's your highest tier offer,
+
+161
+00:05:53.505 --> 00:05:54.925
+you want to double it or more.
+
+162
+00:05:54.985 --> 00:05:56.645
+So if it's your highest tier guarantee,
+
+163
+00:05:56.795 --> 00:06:00.005
+then if you are gonna do 12 k in this instance for, uh,
+
+164
+00:06:00.005 --> 00:06:03.645
+four months minimum, I would do 25 K
+
+165
+00:06:03.785 --> 00:06:07.565
+or 30 k even for your higher tier packet for your, you know,
+
+166
+00:06:07.565 --> 00:06:09.125
+your your highest tier guarantee.
+
+167
+00:06:10.005 --> 00:06:11.255
+Does that make sense? And then the one
+
+168
+00:06:11.255 --> 00:06:13.055
+that you actually want your clients to come in on your down
+
+169
+00:06:13.055 --> 00:06:15.455
+sell guarantee would be the 12 k for four months.
+
+170
+00:06:15.535 --> 00:06:17.135
+Hopefully this is making sense. Alright?
+
+171
+00:06:17.915 --> 00:06:19.295
+Now, for pre-existing offers
+
+172
+00:06:19.555 --> 00:06:21.415
+or again offers that you have results for,
+
+173
+00:06:21.645 --> 00:06:22.775
+this is actually pretty simple.
+
+174
+00:06:22.955 --> 00:06:25.215
+You just wanna look at your past clients who all did exactly
+
+175
+00:06:25.215 --> 00:06:27.095
+what you required them to do and got results.
+
+176
+00:06:27.225 --> 00:06:28.855
+Again, look at your best clients.
+
+177
+00:06:28.855 --> 00:06:30.375
+Don't look at the clients who didn't do anything.
+
+178
+00:06:30.375 --> 00:06:32.175
+Look at the clients who did everything that they needed
+
+179
+00:06:32.175 --> 00:06:34.575
+to do and had the resources required.
+
+180
+00:06:34.605 --> 00:06:36.295
+Okay? Don't base your pricing off clients
+
+181
+00:06:36.295 --> 00:06:38.615
+who don't actually take action or didn't get any results.
+
+182
+00:06:38.635 --> 00:06:40.455
+All right? So look at those clients, your best clients,
+
+183
+00:06:40.685 --> 00:06:41.735
+take five to 10 of them
+
+184
+00:06:41.915 --> 00:06:43.855
+and figure out their average monthly return.
+
+185
+00:06:44.415 --> 00:06:46.015
+Whatever that number is, divide it by 10.
+
+186
+00:06:46.185 --> 00:06:48.335
+Again, this is where I would start, okay?
+
+187
+00:06:48.335 --> 00:06:49.575
+Because you can always increase price.
+
+188
+00:06:50.555 --> 00:06:52.975
+So again, if you are any type of agency,
+
+189
+00:06:52.975 --> 00:06:55.295
+obviously you wanna do this formula to figure out
+
+190
+00:06:55.295 --> 00:06:57.695
+what exactly is it for you specifically in your service.
+
+191
+00:06:58.015 --> 00:06:59.655
+'cause different industries produce different results,
+
+192
+00:06:59.655 --> 00:07:01.295
+different services produce different results.
+
+193
+00:07:01.475 --> 00:07:03.455
+So it is gotta vary a little bit,
+
+194
+00:07:03.515 --> 00:07:06.095
+but again, if you're any type of agency, ideally
+
+195
+00:07:06.105 --> 00:07:10.015
+where you want to be is three care a month plus, uh,
+
+196
+00:07:10.075 --> 00:07:12.295
+for four months for, for a four months minimum.
+
+197
+00:07:12.515 --> 00:07:15.575
+So again, 12 k plus for four months, if you are above
+
+198
+00:07:15.575 --> 00:07:17.015
+that range, you're in a good spot
+
+199
+00:07:17.015 --> 00:07:19.255
+because that's gonna give you a nice padding to be able
+
+200
+00:07:19.255 --> 00:07:20.775
+to use to scale with ads, right?
+
+201
+00:07:21.035 --> 00:07:22.175
+And again, if you're in coaching
+
+202
+00:07:22.175 --> 00:07:25.695
+or consulting, if you're in bop, then ideally you want
+
+203
+00:07:25.695 --> 00:07:27.575
+to be at 6,800 plus for 12
+
+204
+00:07:27.575 --> 00:07:29.135
+to 16 weeks, three to four months.
+
+205
+00:07:29.475 --> 00:07:31.535
+Or if you're in health weight loss
+
+206
+00:07:31.555 --> 00:07:33.935
+or relationships, you wanna be at 4,800 plus
+
+207
+00:07:34.075 --> 00:07:35.135
+for 12 to 16 weeks.
+
+208
+00:07:35.345 --> 00:07:37.095
+Again, this is not what you should be charging,
+
+209
+00:07:37.245 --> 00:07:39.015
+it's just if you're above this range,
+
+210
+00:07:39.155 --> 00:07:40.495
+you're gonna have enough profit
+
+211
+00:07:40.715 --> 00:07:43.455
+and, um, margin to be able to scale, right?
+
+212
+00:07:44.035 --> 00:07:45.455
+So that's where you wanna be. And again,
+
+213
+00:07:45.605 --> 00:07:46.855
+this is where you would start.
+
+214
+00:07:47.155 --> 00:07:50.495
+Now from here, I, I keep saying this is where I would start.
+
+215
+00:07:50.495 --> 00:07:52.375
+This is where I would start. So what does that refer to?
+
+216
+00:07:52.375 --> 00:07:53.815
+Well, this means that you start here,
+
+217
+00:07:53.835 --> 00:07:55.935
+but that doesn't mean to say you can't increase your price.
+
+218
+00:07:56.155 --> 00:08:00.255
+So in, in terms of increasing price, um, how do you do that?
+
+219
+00:08:00.325 --> 00:08:01.775
+Well, again, the above is
+
+220
+00:08:01.775 --> 00:08:03.575
+where I'd recommend you start your pricing with the goal
+
+221
+00:08:03.575 --> 00:08:04.655
+of eventually increasing.
+
+222
+00:08:04.915 --> 00:08:09.055
+So you wanna increase your prices when your close rate is
+
+223
+00:08:09.055 --> 00:08:13.055
+above 30% and your cash collected is above 50%.
+
+224
+00:08:13.355 --> 00:08:14.935
+Now, why do you wanna do it only when
+
+225
+00:08:14.935 --> 00:08:16.135
+you've got these two metrics in place?
+
+226
+00:08:16.285 --> 00:08:19.135
+Well, because if you are at 15% close rate right now
+
+227
+00:08:19.355 --> 00:08:20.615
+and you increase your price,
+
+228
+00:08:20.745 --> 00:08:22.215
+guess what's gonna happen to your close rate?
+
+229
+00:08:22.215 --> 00:08:25.375
+It's going to drop because, uh, it's,
+
+230
+00:08:25.375 --> 00:08:26.535
+it's gonna be more difficult
+
+231
+00:08:26.555 --> 00:08:28.295
+to close on a higher price point obviously.
+
+232
+00:08:28.475 --> 00:08:31.615
+So you have to have a high enough price point, uh,
+
+233
+00:08:31.615 --> 00:08:33.975
+high enough close rate currently on your current price
+
+234
+00:08:33.975 --> 00:08:36.895
+point, um, to where it makes sense for you to increase.
+
+235
+00:08:36.895 --> 00:08:38.495
+And even if you increase your price point
+
+236
+00:08:38.715 --> 00:08:40.935
+and maybe your close rate drops a little bit, well
+
+237
+00:08:40.935 --> 00:08:43.135
+that's okay because now you're charging way more per client,
+
+238
+00:08:43.135 --> 00:08:43.855
+so you're actually gonna be
+
+239
+00:08:43.855 --> 00:08:45.095
+more profitable at the end of the day.
+
+240
+00:08:45.155 --> 00:08:46.575
+But if you're in a place where you,
+
+241
+00:08:46.645 --> 00:08:48.015
+your close rate cannot drop
+
+242
+00:08:48.015 --> 00:08:50.055
+because if it does, you're gonna be unprofitable,
+
+243
+00:08:50.265 --> 00:08:52.615
+don't increase your price because your close rate most
+
+244
+00:08:52.615 --> 00:08:54.455
+likely is gonna drop if you increase price. Okay?
+
+245
+00:08:55.225 --> 00:08:56.285
+So if your close rate
+
+246
+00:08:56.285 --> 00:08:58.805
+and cash collected are above those two KPIs,
+
+247
+00:08:58.805 --> 00:09:00.165
+these two KPIs here, um,
+
+248
+00:09:00.165 --> 00:09:03.325
+then it's clear your prices are actually too low, okay?
+
+249
+00:09:03.435 --> 00:09:05.045
+Because if you're closing, you know,
+
+250
+00:09:05.045 --> 00:09:07.125
+some people flex at the closing at 70%.
+
+251
+00:09:07.275 --> 00:09:08.725
+Well, I could close at a hundred percent,
+
+252
+00:09:08.725 --> 00:09:10.725
+our team could close at a hundred percent if we're charging
+
+253
+00:09:10.725 --> 00:09:12.885
+our clients 10, uh, $10 a month, right?
+
+254
+00:09:12.945 --> 00:09:15.085
+And that's a, you know, extreme example,
+
+255
+00:09:15.105 --> 00:09:17.085
+but you get the point, you can close a hundred percent,
+
+256
+00:09:17.345 --> 00:09:20.445
+no problem at all, but you're charging $10 a month.
+
+257
+00:09:20.505 --> 00:09:22.645
+And so this same idea applies to where when, you know,
+
+258
+00:09:22.645 --> 00:09:23.885
+if you're closing at 50%
+
+259
+00:09:24.105 --> 00:09:27.005
+but you're charging 2,500 a month, that's a clear indication
+
+260
+00:09:27.005 --> 00:09:28.125
+that you should be increasing your price
+
+261
+00:09:28.125 --> 00:09:29.165
+because it's way too high, too
+
+262
+00:09:29.165 --> 00:09:30.205
+many people are joining, right?
+
+263
+00:09:30.665 --> 00:09:34.165
+Um, now if you're in this position, I recommend your, uh,
+
+264
+00:09:34.405 --> 00:09:35.845
+I recommend increasing your price
+
+265
+00:09:36.185 --> 00:09:38.725
+by two K on the three to four month package.
+
+266
+00:09:38.825 --> 00:09:42.045
+So if you charge 20 K for four months, bump it to 22 K,
+
+267
+00:09:42.475 --> 00:09:44.525
+find your new closing and cash collected baseline
+
+268
+00:09:44.525 --> 00:09:45.685
+at 22 K, right?
+
+269
+00:09:45.705 --> 00:09:47.405
+In terms of, you know, where, what's your close rate at?
+
+270
+00:09:47.405 --> 00:09:49.725
+What's your cash collective rate at, at the new price point
+
+271
+00:09:49.725 --> 00:09:53.805
+of 22 k, work it, refine it, get better at closing at
+
+272
+00:09:53.805 --> 00:09:58.085
+that 22 K price point until you're above 30%, uh, close rate
+
+273
+00:09:58.085 --> 00:10:01.285
+and 50% cash collected and then increase it to 24 K
+
+274
+00:10:01.385 --> 00:10:03.885
+and go again, find the new baseline and repeat.
+
+275
+00:10:03.955 --> 00:10:06.325
+Okay? Just remember, as you're increasing your prices,
+
+276
+00:10:06.465 --> 00:10:09.245
+you still need to maintain one, one 10th price
+
+277
+00:10:09.245 --> 00:10:10.605
+to value, right?
+
+278
+00:10:10.605 --> 00:10:13.085
+That ratio, you still need to maintain that meaning
+
+279
+00:10:13.145 --> 00:10:15.085
+as you increase price, you may also need
+
+280
+00:10:15.085 --> 00:10:18.045
+to increase the value of your products, which you now can do
+
+281
+00:10:18.045 --> 00:10:19.725
+because you also have more margin to play with.
+
+282
+00:10:19.825 --> 00:10:21.165
+So, like for example, one of the things
+
+283
+00:10:21.165 --> 00:10:24.365
+that we've just recently kind of done is we've really gone,
+
+284
+00:10:24.585 --> 00:10:28.005
+uh, uh, built out a whole editing side of what we've done.
+
+285
+00:10:28.305 --> 00:10:30.525
+Uh, so that's made our client results way better,
+
+286
+00:10:30.585 --> 00:10:32.325
+our client experience way better.
+
+287
+00:10:32.705 --> 00:10:35.365
+And so what we've, but obviously it's a huge cost to us,
+
+288
+00:10:35.505 --> 00:10:37.925
+so we've just bumped our price, only small,
+
+289
+00:10:38.345 --> 00:10:39.765
+but we've bumped it a little bit.
+
+290
+00:10:39.765 --> 00:10:42.085
+So now we've got extra margin to play with to be able
+
+291
+00:10:42.085 --> 00:10:43.965
+to actually provide our clients a better experience.
+
+292
+00:10:44.145 --> 00:10:45.845
+And you gotta remember that when you increase price,
+
+293
+00:10:46.025 --> 00:10:47.845
+you now have more money to be able
+
+294
+00:10:47.845 --> 00:10:49.405
+to deliver your clients a better result
+
+295
+00:10:49.465 --> 00:10:50.565
+and a better experience.
+
+296
+00:10:50.665 --> 00:10:53.445
+And you wanna do that as well so that you are maintaining
+
+297
+00:10:53.445 --> 00:10:56.165
+that one 10th uh, price to value ratio.
+
+298
+00:10:56.165 --> 00:10:58.605
+Because again, if you are able to maintain this,
+
+299
+00:10:59.105 --> 00:11:01.245
+you are always, you're gonna have a hundred percent
+
+300
+00:11:01.445 --> 00:11:02.645
+retention, maybe not a hundred percent, but you know
+
+301
+00:11:02.645 --> 00:11:05.085
+what I mean, you're gonna massively increase your retention
+
+302
+00:11:05.115 --> 00:11:06.765
+rate simply by making sure
+
+303
+00:11:06.765 --> 00:11:07.925
+that you're maintaining that ratio.
+
+304
+00:11:07.925 --> 00:11:09.165
+Alright? So one
+
+305
+00:11:09.165 --> 00:11:10.725
+of the things you might be having a question on right now
+
+306
+00:11:10.825 --> 00:11:11.885
+is what do I refer?
+
+307
+00:11:11.885 --> 00:11:13.805
+What am I, what am I referring to?
+
+308
+00:11:14.705 --> 00:11:17.925
+Um, when I am, uh, talking about cash collected?
+
+309
+00:11:17.995 --> 00:11:19.445
+Well, this is where the idea
+
+310
+00:11:19.445 --> 00:11:21.645
+of accelerating your cash flow comes into play.
+
+311
+00:11:21.665 --> 00:11:22.885
+So you would've noticed above,
+
+312
+00:11:22.965 --> 00:11:24.605
+I keep saying X months minimum
+
+313
+00:11:24.785 --> 00:11:27.845
+or X weeks minimum, 12 weeks minimum 16 weeks minimum,
+
+314
+00:11:27.865 --> 00:11:29.245
+or three or four months minimum, right?
+
+315
+00:11:29.465 --> 00:11:32.285
+That's because when pitching your pricing upfront,
+
+316
+00:11:33.615 --> 00:11:37.165
+never pitch a monthly amount saying it's three K per month.
+
+317
+00:11:37.355 --> 00:11:40.165
+This is particularly common for agencies.
+
+318
+00:11:40.285 --> 00:11:42.325
+A lot of agencies charge on a two KA month retainer.
+
+319
+00:11:42.325 --> 00:11:44.765
+Yeah, we charge two KA month. Don't do that. Don't do that.
+
+320
+00:11:44.785 --> 00:11:47.485
+Rather, you want clients to pay for three
+
+321
+00:11:47.485 --> 00:11:48.765
+to four months upfront,
+
+322
+00:11:49.015 --> 00:11:52.565
+which is the most common in full and then they
+
+323
+00:11:52.625 --> 00:11:54.125
+Retain on a monthly basis.
+
+324
+00:11:54.355 --> 00:11:55.645
+This is exactly how we work.
+
+325
+00:11:55.705 --> 00:11:58.645
+So if you charge five KA month, you would pitch prospects,
+
+326
+00:11:59.025 --> 00:12:00.765
+um, 20 K for four months.
+
+327
+00:12:00.765 --> 00:12:02.885
+This is how you pitch them or sell them on the phone.
+
+328
+00:12:02.985 --> 00:12:04.925
+So when they ask about your price, oh, what's the price?
+
+329
+00:12:05.105 --> 00:12:07.525
+You don't say, oh, it's five KA month like most people do.
+
+330
+00:12:07.745 --> 00:12:09.485
+You go, it's 20 K for four months
+
+331
+00:12:09.745 --> 00:12:12.245
+and we'll show you more specifics on the sales aspect
+
+332
+00:12:12.245 --> 00:12:13.845
+of doing that in a sales week and whatnot.
+
+333
+00:12:13.845 --> 00:12:16.125
+So don't worry too much about the specifics for now,
+
+334
+00:12:16.125 --> 00:12:19.165
+but just know that's how you wanna, uh, pitch the pricing.
+
+335
+00:12:19.545 --> 00:12:20.685
+Get clients to pay in full.
+
+336
+00:12:21.025 --> 00:12:23.765
+You'll be shocked, you will be shocked at
+
+337
+00:12:23.825 --> 00:12:25.765
+how many clients pay in full.
+
+338
+00:12:26.025 --> 00:12:28.965
+And what this does is it scales your business without you
+
+339
+00:12:28.965 --> 00:12:30.845
+needing to sign any more clients.
+
+340
+00:12:30.845 --> 00:12:33.965
+Because if you close 10 clients at three k per month each,
+
+341
+00:12:34.105 --> 00:12:35.645
+that's 30 k cash collected.
+
+342
+00:12:36.385 --> 00:12:38.685
+If you close those same clients, um,
+
+343
+00:12:39.065 --> 00:12:42.645
+and 50% of them pay in full for four months
+
+344
+00:12:42.905 --> 00:12:45.285
+and the other 50% do month to month.
+
+345
+00:12:45.485 --> 00:12:46.565
+'cause you'll always have a split. Not
+
+346
+00:12:46.565 --> 00:12:47.685
+every client is gonna pay in full.
+
+347
+00:12:47.745 --> 00:12:50.325
+So those guys, you sell them on your payment plans, which is
+
+348
+00:12:50.325 --> 00:12:51.845
+what you would've sold them on in the
+
+349
+00:12:51.845 --> 00:12:53.125
+other, you know, in the first place.
+
+350
+00:12:53.225 --> 00:12:55.365
+So at least try go for the f pay in full first.
+
+351
+00:12:55.625 --> 00:12:57.565
+If they don't, then you can just downsell
+
+352
+00:12:57.565 --> 00:12:58.725
+them to your payment plan.
+
+353
+00:12:58.745 --> 00:13:01.045
+But it's the same total amount, it's the same, it's uh,
+
+354
+00:13:01.345 --> 00:13:02.645
+the same contract value, okay?
+
+355
+00:13:02.905 --> 00:13:05.605
+Um, so in this case though, same 10 clients,
+
+356
+00:13:05.735 --> 00:13:06.765
+50% pay in full.
+
+357
+00:13:06.765 --> 00:13:08.245
+The other 50% do a month to month,
+
+358
+00:13:08.835 --> 00:13:13.365
+that would be then 75 K cash collected, which equates
+
+359
+00:13:13.365 --> 00:13:17.405
+to 30 k versus 75 K from the same 10 clients
+
+360
+00:13:17.425 --> 00:13:18.885
+closed for that particular month.
+
+361
+00:13:18.985 --> 00:13:23.645
+So you just 2.5 x 2.5 extra business simply
+
+362
+00:13:23.705 --> 00:13:26.685
+by just getting 50% of your new clients to pay in full.
+
+363
+00:13:26.865 --> 00:13:28.965
+And as you can imagine, this acceleration
+
+364
+00:13:28.965 --> 00:13:31.485
+of cash flow is huge when it comes
+
+365
+00:13:31.505 --> 00:13:33.205
+to scaling and your ad spend.
+
+366
+00:13:33.855 --> 00:13:36.005
+Super important when it comes to scaling and ad spend
+
+367
+00:13:36.105 --> 00:13:37.885
+and particularly on your p and l
+
+368
+00:13:37.885 --> 00:13:39.885
+because imagine if you spent 10 K this month.
+
+369
+00:13:39.955 --> 00:13:40.965
+Well, if 10 K
+
+370
+00:13:41.305 --> 00:13:44.885
+and you only collected um, 30 K cash, well
+
+371
+00:13:44.885 --> 00:13:46.925
+that's gonna be 33% of your p and l.
+
+372
+00:13:47.065 --> 00:13:48.805
+But if you collected 75 K cash,
+
+373
+00:13:49.105 --> 00:13:51.525
+10 K would've been whatever the math would equate
+
+374
+00:13:51.525 --> 00:13:53.725
+to a lot less than 33% in that instance.
+
+375
+00:13:53.785 --> 00:13:55.725
+All right? So if you're wondering what you would do, uh,
+
+376
+00:13:55.725 --> 00:13:57.685
+in this instance where a prospect can't pay in full,
+
+377
+00:13:57.795 --> 00:13:59.165
+well I kind of just gave it away,
+
+378
+00:13:59.265 --> 00:14:02.685
+you simply downsell them the payment plans, which again is
+
+379
+00:14:02.845 --> 00:14:04.245
+what you would've pitched them on anyway.
+
+380
+00:14:04.245 --> 00:14:05.925
+So instead of pitching three K month upfront
+
+381
+00:14:06.225 --> 00:14:07.605
+for four months minimum, you would
+
+382
+00:14:07.605 --> 00:14:08.885
+pitch 'em 12 k pay in full.
+
+383
+00:14:09.115 --> 00:14:11.525
+Then if they can't do the 12 k pay in full cash is tight,
+
+384
+00:14:11.725 --> 00:14:14.885
+whatever, you then try and loop back down to a split pay.
+
+385
+00:14:14.945 --> 00:14:16.885
+So let's do six K today, six K in 30 days.
+
+386
+00:14:16.905 --> 00:14:18.925
+If they can't do that, you try loop back
+
+387
+00:14:18.925 --> 00:14:20.005
+down to a three pay.
+
+388
+00:14:20.185 --> 00:14:21.685
+And then again, if they can't do that,
+
+389
+00:14:21.755 --> 00:14:23.125
+then you would go, okay, no problem.
+
+390
+00:14:23.225 --> 00:14:25.165
+The best we can do is a three K per month
+
+391
+00:14:25.305 --> 00:14:26.445
+for for the four months.
+
+392
+00:14:26.705 --> 00:14:27.765
+So you downsell them to
+
+393
+00:14:27.765 --> 00:14:29.925
+what you would've pitched them up front in, um, what, um,
+
+394
+00:14:30.075 --> 00:14:31.685
+what you would've pitched them up front anyway.
+
+395
+00:14:31.825 --> 00:14:33.965
+And so this then obviously ties back
+
+396
+00:14:33.965 --> 00:14:35.805
+to increasing your prices.
+
+397
+00:14:36.025 --> 00:14:37.525
+If your close rate is above 30%
+
+398
+00:14:37.705 --> 00:14:39.925
+and your cash collected is above 50%,
+
+399
+00:14:40.105 --> 00:14:41.405
+that's when you should increase price.
+
+400
+00:14:41.505 --> 00:14:43.405
+So when I talk about cash collected, what I mean is
+
+401
+00:14:43.665 --> 00:14:45.685
+how many, you know, on average, what,
+
+402
+00:14:45.745 --> 00:14:47.245
+how much cash are you collecting upfront
+
+403
+00:14:47.425 --> 00:14:48.605
+for your initial project period?
+
+404
+00:14:48.705 --> 00:14:50.485
+So again, for example, with us on average,
+
+405
+00:14:50.705 --> 00:14:52.565
+We actually collect about 45
+
+406
+00:14:52.565 --> 00:14:54.365
+to 50% depending on the month.
+
+407
+00:14:54.465 --> 00:14:56.045
+So we have a, uh,
+
+408
+00:14:56.105 --> 00:14:59.485
+our ALVI believe right now is about 25 K for the first four months.
+
+409
+00:14:59.665 --> 00:15:03.005
+And so on average we collect about 12 to 13 K
+
+410
+00:15:03.025 --> 00:15:04.125
+of that upfront.
+
+411
+00:15:05.025 --> 00:15:07.005
+On average, because our cash collected is 50%,
+
+412
+00:15:07.005 --> 00:15:10.125
+that then means obviously a handful of clients pay in full,
+
+413
+00:15:10.365 --> 00:15:12.765
+a handful of clients do a four pay, a myriad
+
+414
+00:15:12.765 --> 00:15:14.325
+of clients do two pays and three pays.
+
+415
+00:15:14.545 --> 00:15:16.205
+Um, but at the end of the month, on average,
+
+416
+00:15:16.295 --> 00:15:18.565
+we're at about 45 to 50% of
+
+417
+00:15:18.565 --> 00:15:22.125
+that total front end value is collected on day one
+
+418
+00:15:22.125 --> 00:15:23.725
+and the rest is put onto a payment plan.
+
+419
+00:15:23.725 --> 00:15:25.005
+Hopefully this is making sense.
+
+420
+00:15:25.005 --> 00:15:28.165
+Alright, so to roll out, um,
+
+421
+00:15:28.525 --> 00:15:30.005
+a price increase, how do you do it?
+
+422
+00:15:30.005 --> 00:15:32.645
+How does that look? Well, get your highest performing closer
+
+423
+00:15:32.865 --> 00:15:34.205
+or you, if you're still on the
+
+424
+00:15:34.205 --> 00:15:35.445
+phones, I recommend you to do it.
+
+425
+00:15:35.445 --> 00:15:36.845
+If you're not on the phones, like I'm not on the phones
+
+426
+00:15:36.845 --> 00:15:38.805
+anymore, so I'm not gonna dial this in myself,
+
+427
+00:15:38.865 --> 00:15:40.845
+but I would get one of our highest performing closers
+
+428
+00:15:40.945 --> 00:15:44.005
+to use the new pricing on their sales calls whilst you keep
+
+429
+00:15:44.005 --> 00:15:45.965
+the rest of the team at the normal price point.
+
+430
+00:15:46.345 --> 00:15:49.205
+Now, once the highest performing closer hits KPI,
+
+431
+00:15:49.205 --> 00:15:52.165
+meaning they get to 30% close rate, 25% close rate
+
+432
+00:15:52.235 --> 00:15:55.605
+with the new pricing, you then run, roll it out
+
+433
+00:15:55.825 --> 00:15:57.085
+to the remainder of the team
+
+434
+00:15:57.425 --> 00:15:59.965
+and get the highest performing, uh, the highest performer
+
+435
+00:16:00.185 --> 00:16:01.365
+to give some coaching.
+
+436
+00:16:01.515 --> 00:16:03.525
+Okay? Give some coaching points to what he
+
+437
+00:16:03.525 --> 00:16:05.765
+or she has found with the different price.
+
+438
+00:16:05.995 --> 00:16:07.125
+Okay, that's super important.
+
+439
+00:16:07.125 --> 00:16:09.325
+With the different price increase, is there any tweaks?
+
+440
+00:16:09.325 --> 00:16:10.525
+Usually there's not. Honestly.
+
+441
+00:16:10.565 --> 00:16:13.205
+I mean, if you go from 20 to 22, it's just most
+
+442
+00:16:13.205 --> 00:16:14.405
+of the time the most common problem
+
+443
+00:16:14.405 --> 00:16:16.925
+with the price increase when people can't close it is they
+
+444
+00:16:16.925 --> 00:16:19.885
+just, um, get a little, oh, like, oh, we're charging more.
+
+445
+00:16:19.885 --> 00:16:21.485
+So they make it like this big thing in their mind.
+
+446
+00:16:21.705 --> 00:16:24.045
+And then when they drop the 22 K price point, they're like,
+
+447
+00:16:24.195 --> 00:16:25.245
+it's 22 K.
+
+448
+00:16:25.395 --> 00:16:27.525
+Like, they're like, oh, it's 22 k.
+
+449
+00:16:27.625 --> 00:16:29.485
+You know, like, 'cause they've always sold it 20 k,
+
+450
+00:16:29.625 --> 00:16:31.365
+so like it's, it's a hundred percent
+
+451
+00:16:31.365 --> 00:16:32.525
+of the time it's a mindset thing.
+
+452
+00:16:32.705 --> 00:16:35.285
+Unless you massively go from like 20 k, um,
+
+453
+00:16:35.425 --> 00:16:36.885
+as your price point to like 30 k,
+
+454
+00:16:36.905 --> 00:16:38.245
+you ridiculously increase it.
+
+455
+00:16:38.355 --> 00:16:39.885
+Well then that's where sometimes yeah,
+
+456
+00:16:39.885 --> 00:16:41.685
+it might just be too much for your market,
+
+457
+00:16:41.905 --> 00:16:44.165
+but if you just incrementally increase the price,
+
+458
+00:16:44.595 --> 00:16:48.365
+it's never gonna be so much to where the clients, you know,
+
+459
+00:16:48.365 --> 00:16:49.445
+they're just like, oh, no way.
+
+460
+00:16:49.465 --> 00:16:51.085
+I'm not paying that. If someone's gonna pay 20 k,
+
+461
+00:16:51.085 --> 00:16:52.125
+they're gonna pay 22 K.
+
+462
+00:16:52.185 --> 00:16:54.485
+So in that instance, if then the closer doesn't get the
+
+463
+00:16:54.485 --> 00:16:57.085
+close with the prospect, who would've paid 22 versus 20?
+
+464
+00:16:57.305 --> 00:16:59.205
+If they don't get the closer, it's a hundred percent on the
+
+465
+00:16:59.205 --> 00:17:00.845
+closer because it's in their mind.
+
+466
+00:17:00.985 --> 00:17:02.845
+It that's all it is. It's just a mindset thing.
+
+467
+00:17:03.465 --> 00:17:06.405
+So as I said here, usually there's not too much difference,
+
+468
+00:17:06.465 --> 00:17:08.085
+but always get your highest performing closer
+
+469
+00:17:08.105 --> 00:17:09.365
+to roll out with the new price point.
+
+470
+00:17:09.435 --> 00:17:10.445
+This is the easiest way
+
+471
+00:17:10.445 --> 00:17:12.165
+to roll it out without having any
+
+472
+00:17:12.165 --> 00:17:13.485
+major hit to revenue, right?
+
+473
+00:17:13.485 --> 00:17:15.445
+If it doesn't work out. 'cause obviously if you keep
+
+474
+00:17:15.445 --> 00:17:18.045
+increasing it at some point you can't just continue
+
+475
+00:17:18.045 --> 00:17:20.765
+to increase and increase and increase at some point it's
+
+476
+00:17:20.765 --> 00:17:24.605
+gonna, um, it's going to, uh, be too much
+
+477
+00:17:24.665 --> 00:17:25.805
+for what it is that you're offering.
+
+478
+00:17:26.025 --> 00:17:28.445
+So, you know, at that line you obviously then wanna just
+
+479
+00:17:28.445 --> 00:17:33.405
+bring it down right below the um, uh, there's a word
+
+480
+00:17:33.405 --> 00:17:34.805
+for it, but you know, you just wanna bring it just
+
+481
+00:17:34.805 --> 00:17:36.925
+below the point to where it becomes too much.
+
+482
+00:17:37.065 --> 00:17:38.565
+All right? Um,
+
+483
+00:17:38.985 --> 00:17:41.885
+now it also again gives you the ability to have a case study.
+
+484
+00:17:41.905 --> 00:17:43.805
+So this is really important. When you give your top
+
+485
+00:17:43.805 --> 00:17:45.685
+performer the higher price point, get them
+
+486
+00:17:45.685 --> 00:17:46.565
+to dial it in first, then
+
+487
+00:17:46.565 --> 00:17:47.525
+roll it out to the rest of the
+
+488
+00:17:47.525 --> 00:17:48.885
+team. It gives you the ability
+
+489
+00:17:48.885 --> 00:17:50.925
+To quote, have a case study for the rest
+
+490
+00:17:50.925 --> 00:17:53.245
+of the team if they can't close on the higher price point.
+
+491
+00:17:53.305 --> 00:17:55.925
+So if someone on your team just isn't that great of a closer
+
+492
+00:17:55.945 --> 00:17:58.045
+or isn't as good as the rest of the people on the team
+
+493
+00:17:58.225 --> 00:17:59.805
+and they're not closing on the new price point,
+
+494
+00:17:59.995 --> 00:18:02.245
+well you can show them like, Hey, this performer,
+
+495
+00:18:02.245 --> 00:18:04.085
+this closer is closing on it.
+
+496
+00:18:04.545 --> 00:18:06.485
+You are not, what's the different variable here?
+
+497
+00:18:06.485 --> 00:18:08.485
+It's you, you are the problem. It's not the price point.
+
+498
+00:18:08.805 --> 00:18:10.325
+'cause that sometimes can happen.
+
+499
+00:18:10.475 --> 00:18:12.485
+Certain closers, again who aren't as skilled,
+
+500
+00:18:12.555 --> 00:18:14.725
+they're gonna be blaming the, oh, it's just too much.
+
+501
+00:18:14.725 --> 00:18:15.925
+These guys aren't gonna pay. It's like,
+
+502
+00:18:15.925 --> 00:18:18.245
+well this closer did, so it can be done.
+
+503
+00:18:18.475 --> 00:18:19.765
+It's just you, we need to figure out
+
+504
+00:18:19.765 --> 00:18:21.165
+how can we get you better so you can actually
+
+505
+00:18:21.165 --> 00:18:22.205
+close on the new price point, whatever.
+
+506
+00:18:22.265 --> 00:18:24.565
+So that is pricing. Hopefully this makes sense.
+
+507
+00:18:24.565 --> 00:18:26.725
+If you have any more specific, uh, uh,
+
+508
+00:18:26.965 --> 00:18:29.045
+specific contextual questions around your offer,
+
+509
+00:18:29.045 --> 00:18:30.765
+your deliverables, your industry, et cetera,
+
+510
+00:18:30.865 --> 00:18:33.485
+and how you should price just hit us up, hit up, um,
+
+511
+00:18:34.265 --> 00:18:35.325
+uh, hit us up in Slack.
+
+512
+00:18:35.325 --> 00:18:36.485
+Obviously we're here to help.
+
+513
+00:18:36.545 --> 00:18:38.325
+And, uh, as always, whatever else you need, let us know.

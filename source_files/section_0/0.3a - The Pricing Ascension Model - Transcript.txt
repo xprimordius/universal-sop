@@ -1,0 +1,2769 @@
+WEBVTT
+
+1
+00:00:00.140 --> 00:00:03.467
+<v 0>Alright, so this is going to be on the Pricing Ascension Model and to</v>
+
+2
+00:00:03.467 --> 00:00:06.618
+be clear, this is going to apply for you if you're at zero,
+
+3
+00:00:06.618 --> 00:00:08.921
+you've never sold a client in the past, you don't have any case studies
+
+4
+00:00:08.921 --> 00:00:12.621
+or anything like that, you're brand spanking new if you're at 10k a month,
+
+5
+00:00:12.621 --> 00:00:15.043
+if you're at 100k a month if you're at a million a month plus,
+
+6
+00:00:15.391 --> 00:00:20.031
+this pricing model is something that I would highly recommend
+
+7
+00:00:20.031 --> 00:00:22.200
+that you install Now, what's going to change,
+
+8
+00:00:22.200 --> 00:00:24.290
+depending on whether you're at zero or a million a month plus,
+
+9
+00:00:24.290 --> 00:00:28.509
+for example, is how you install it and the structure of it,
+
+10
+00:00:28.633 --> 00:00:30.645
+but the general theory behind it,
+
+11
+00:00:30.645 --> 00:00:34.531
+I, just, if there's one thing that you take out of this program please
+
+12
+00:00:34.531 --> 00:00:38.364
+implement this, because just for context, the reason I'm so clear confident in this,
+
+13
+00:00:38.364 --> 00:00:41.285
+and it's one of the things where I'm like, every client that comes to
+
+14
+00:00:41.285 --> 00:00:44.612
+us, I now almost force them to just uh,
+
+15
+00:00:44.623 --> 00:00:48.711
+in, in, input this, uh, pricing model. The reason for that is because I've
+
+16
+00:00:48.711 --> 00:00:50.978
+seen what it's done for our own company, right? So a lot of,
+
+17
+00:00:51.114 --> 00:00:53.889
+I say a lot, everything that I talk about in this course,
+
+18
+00:00:54.281 --> 00:00:56.351
+I talk about it with such conviction,
+
+19
+00:00:56.351 --> 00:00:59.757
+because it's all stuff that I've done in the past for my own company,
+
+20
+00:00:59.757 --> 00:01:01.821
+so I just know it works, period. Like,
+
+21
+00:01:02.182 --> 00:01:05.596
+I've, I've seen it with my own eyes, right? And for the pricing model,
+
+22
+00:01:06.297 --> 00:01:09.381
+pricing ascension model, before we implemented it,
+
+23
+00:01:09.837 --> 00:01:13.293
+we would do, you know, a decent amount in new cash per month,
+
+24
+00:01:13.293 --> 00:01:15.350
+maybe like 200 to 300k a month in new cash,
+
+25
+00:01:15.350 --> 00:01:17.488
+now obviously if you're at zero a month, that might sound like crazy,
+
+26
+00:01:17.488 --> 00:01:21.513
+and it's, you know, very good numbers, don't get me wrong, but we had
+
+27
+00:01:21.513 --> 00:01:25.420
+to almost fight tooth and nail for every sale that we made,
+
+28
+00:01:25.420 --> 00:01:28.555
+right? Because at the time, we was charging 15k on the front end,
+
+29
+00:01:28.555 --> 00:01:31.472
+15k or 18k, depending on whether they did a payment plan or not,
+
+30
+00:01:31.737 --> 00:01:35.080
+so we was charging 15 to 18k on the front end, and then we
+
+31
+00:01:35.080 --> 00:01:38.402
+would have this crazy set of deliverables to justify the price point,
+
+32
+00:01:38.603 --> 00:01:42.325
+we'd obviously have to, like, we had to be extremely good at sales,
+
+33
+00:01:42.325 --> 00:01:46.323
+because, you know, to sell somebody, a complete stranger on a 15k or 18k
+
+34
+00:01:46.323 --> 00:01:48.914
+offer, you know, in one sales call,
+
+35
+00:01:48.914 --> 00:01:51.511
+complete stranger on the internet, it's very, very difficult to do.
+
+36
+00:01:52.298 --> 00:01:54.634
+But we cracked the code, so to speak, and we was doing 200 to
+
+37
+00:01:54.634 --> 00:01:56.777
+300k a month in new cash collected, that's new, right,
+
+38
+00:01:56.777 --> 00:01:59.885
+that's excluding recurring. As soon as,
+
+39
+00:01:59.885 --> 00:02:03.580
+and when I say as soon as, I mean literally within 90 days of
+
+40
+00:02:03.580 --> 00:02:06.417
+us installing this pricing ascension model into our own company,
+
+41
+00:02:06.894 --> 00:02:09.566
+we went from doing 200 to 300k a month to doing,
+
+42
+00:02:09.566 --> 00:02:12.664
+now we average, okay, I'm an open book,
+
+43
+00:02:12.664 --> 00:02:17.448
+right, I've got nothing to hide, we average about 35k per day
+
+44
+00:02:17.976 --> 00:02:22.523
+in new cash collected, obviously again excluding any recurring deals,
+
+45
+00:02:22.699 --> 00:02:25.114
+and nothing else changed, let me be clear here,
+
+46
+00:02:25.706 --> 00:02:30.426
+nothing else changed outside of how we now price our
+
+47
+00:02:30.426 --> 00:02:32.940
+offers, and how we ascend, as the name states,
+
+48
+00:02:33.084 --> 00:02:35.787
+how we ascend clients through our offerings,
+
+49
+00:02:35.909 --> 00:02:38.613
+okay, so that's the power, and again,
+
+50
+00:02:38.840 --> 00:02:41.428
+I wanna be really clear, we didn't change anything else,
+
+51
+00:02:41.772 --> 00:02:44.292
+all we changed was the pricing, and we went from 2 to 300k a
+
+52
+00:02:44.292 --> 00:02:46.435
+month, and over the, it wasn't like the next day,
+
+53
+00:02:46.435 --> 00:02:48.658
+obviously, but over the course of a 90 day period,
+
+54
+00:02:48.658 --> 00:02:51.876
+3 months, not a long time, we went from 2 to 300k a month,
+
+55
+00:02:52.114 --> 00:02:56.045
+to 30 to 35k a day on average,
+
+56
+00:02:56.550 --> 00:02:58.537
+and it was all from this, so, I'm gonna give it to you in
+
+57
+00:02:58.537 --> 00:03:00.792
+this training, and obviously now you can hopefully see why,
+
+58
+00:03:00.792 --> 00:03:03.425
+why I like force it with every new client to implement this,
+
+59
+00:03:03.425 --> 00:03:06.586
+so, let's get into it, uhm,
+
+60
+00:03:06.597 --> 00:03:09.488
+I basically just explained exactly this,
+
+61
+00:03:09.581 --> 00:03:13.188
+but to be clear, when I started to implement this with clients as well,
+
+62
+00:03:13.291 --> 00:03:17.200
+it took many of our clients to go from 10k to 20k a month,
+
+63
+00:03:17.200 --> 00:03:19.780
+like, that kind of range, up to 100k a month plus,
+
+64
+00:03:19.780 --> 00:03:21.971
+like, they just rocketed past, again,
+
+65
+00:03:21.971 --> 00:03:25.900
+by implementing this model, and And it's taken hundreds of our clients from zero
+
+66
+00:03:25.900 --> 00:03:28.144
+to a like I said before, with no experience, no case studies,
+
+67
+00:03:28.295 --> 00:03:31.737
+brand new offer, brand new business, and start to get to 10k a month
+
+68
+00:03:31.941 --> 00:03:34.754
+quickly, again, all from this pricing model,
+
+69
+00:03:34.959 --> 00:03:37.442
+okay? Now, in other words, no matter what stage you're at,
+
+70
+00:03:37.442 --> 00:03:39.691
+especially if you're a complete beginner, this pricing model I'm about to show you
+
+71
+00:03:39.714 --> 00:03:44.979
+is the easiest way to sign a high velocity of clients with extremely
+
+72
+00:03:45.141 --> 00:03:47.198
+profitable economics, okay?
+
+73
+00:03:47.198 --> 00:03:49.794
+From cold traffic as well, this is, like, from cold traffic,
+
+74
+00:03:49.794 --> 00:03:52.417
+you don't need these guys to be pre-sold, you don't need them to be
+
+75
+00:03:52.417 --> 00:03:55.290
+referrals to be able to close them, you can take an ice-cold stranger and
+
+76
+00:03:55.290 --> 00:03:57.419
+close them into a new client by implementing this. So,
+
+77
+00:03:57.725 --> 00:04:02.428
+most people, like, the issue with how most people structure their
+
+78
+00:04:02.428 --> 00:04:07.226
+pricing is they slap a high-ticket price tag onto their product or service,
+
+79
+00:04:07.226 --> 00:04:10.345
+like 5k, 10k, 15k+, just like we did historically,
+
+80
+00:04:10.345 --> 00:04:14.913
+right, and this is me speaking from experience, and they expect a complete stranger
+
+81
+00:04:14.913 --> 00:04:17.123
+to pay without any objections,
+
+82
+00:04:17.320 --> 00:04:20.503
+and when they don't make a close at a 10k price point,
+
+83
+00:04:20.871 --> 00:04:22.958
+they start to think there's an issue with their market,
+
+84
+00:04:22.958 --> 00:04:25.397
+and then they hop niches, or they start to think,
+
+85
+00:04:26.031 --> 00:04:29.000
+you know, there's something up with their sales skills, or there's something up with
+
+86
+00:04:29.006 --> 00:04:32.476
+whatever it might be, their product, whatever. Most of the time,
+
+87
+00:04:32.769 --> 00:04:35.230
+that's not the issue, the issue is you're just trying to, you know,
+
+88
+00:04:35.230 --> 00:04:38.226
+sell somebody on a 10 or a 15k offer up front.
+
+89
+00:04:38.226 --> 00:04:40.446
+Keep in mind, am I saying that's impossible to do?
+
+90
+00:04:40.446 --> 00:04:42.874
+No, like, we did it at a decently successful level,
+
+91
+00:04:42.874 --> 00:04:47.472
+I know many people who do it, it's just extremely difficult to make work,
+
+92
+00:04:47.627 --> 00:04:51.622
+okay? The reason why is because they have many objections,
+
+93
+00:04:51.622 --> 00:04:56.546
+like many objections, one of which is even more pronounced if you're a beginner,
+
+94
+00:04:56.636 --> 00:04:58.942
+which is trust. So even with us,
+
+95
+00:04:58.942 --> 00:05:01.533
+we have hundreds of client case studies, we have hundreds of testimonies,
+
+96
+00:05:01.533 --> 00:05:03.899
+like we've got hundreds more proof than anyone else in our industry,
+
+97
+00:05:04.306 --> 00:05:06.810
+and even with all that proof, we struggled,
+
+98
+00:05:07.067 --> 00:05:11.832
+to a certain extent, to close cold traffic on a 18k plus offer
+
+99
+00:05:11.832 --> 00:05:14.753
+on the front end, even with all the proof. So then you can imagine
+
+100
+00:05:14.914 --> 00:05:17.312
+the double lack of trust, right,
+
+101
+00:05:17.473 --> 00:05:19.882
+when you don't have any case studies and you have no past,
+
+102
+00:05:19.882 --> 00:05:23.853
+uhm, results to show and proof and justification for why you're charging a high
+
+103
+00:05:23.853 --> 00:05:26.159
+ticket price point. It's even more difficult, there is zero.
+
+104
+00:05:26.173 --> 00:05:30.757
+Zero trust, especially now, as our industries get more evolved and there's more agencies
+
+105
+00:05:30.757 --> 00:05:34.398
+and there's more competition, trust massively depletes,
+
+106
+00:05:34.398 --> 00:05:37.847
+because a lot of your ideal clients have tried similar services to you in
+
+107
+00:05:37.847 --> 00:05:40.054
+the past, most likely, and they didn't get a result.
+
+108
+00:05:40.054 --> 00:05:42.437
+That's why they're speaking to you, right? If they worked with a partner in
+
+109
+00:05:42.437 --> 00:05:44.714
+the past, and it crushed it, they wouldn't be on the sales call with
+
+110
+00:05:44.714 --> 00:05:48.221
+you. So a lot of the people you'll speak with have tried solutions in
+
+111
+00:05:48.221 --> 00:05:51.884
+the past, and it didn't work, and now, because of those past experiences,
+
+112
+00:05:51.979 --> 00:05:54.229
+they have very, very,
+
+113
+00:05:54.229 --> 00:05:57.353
+very little trust. And again, that's a double negative,
+
+114
+00:05:57.353 --> 00:05:59.710
+almost, if you also don't have any proof.
+
+115
+00:05:59.922 --> 00:06:02.386
+So now it's just like there's zero trust at all,
+
+116
+00:06:02.471 --> 00:06:04.886
+right? So then again, you can imagine to try and sell that person on
+
+117
+00:06:04.886 --> 00:06:06.041
+a 10K offer, or higher, like we was doing, very difficult, okay? The other
+
+118
+00:06:06.041 --> 00:06:09.411
+issue is they're probably speaking with five to ten competitors of yours,
+
+119
+00:06:09.411 --> 00:06:09.652
+who,
+
+120
+00:06:14.482 --> 00:06:17.965
+Right? One of the most common objections that we used to get is,
+
+121
+00:06:18.781 --> 00:06:22.542
+you know, I'm speaking with five other agencies that all do the exact same
+
+122
+00:06:22.542 --> 00:06:25.069
+thing that you guys offer. Right? And obviously in the new AI world,
+
+123
+00:06:25.069 --> 00:06:29.576
+if you're an AI agency, I mean, everyone now is offering AI.
+
+124
+00:06:29.795 --> 00:06:31.964
+And that doesn't mean it's saturated, but what,
+
+125
+00:06:32.631 --> 00:06:35.568
+at least as of right now, it's definitely not saturated, because the market's so
+
+126
+00:06:35.702 --> 00:06:38.903
+big, even though there is so many people offering AI. but eventually it's going
+
+127
+00:06:38.903 --> 00:06:41.675
+to become extremely saturated. And when that happens,
+
+128
+00:06:41.675 --> 00:06:44.459
+again, even more difficult to close on a high ticket price point,
+
+129
+00:06:44.691 --> 00:06:47.732
+you need extreme proof and justification as to why you're charging that much,
+
+130
+00:06:47.954 --> 00:06:50.471
+which obviously is hard to show when you're a beginner with no case studies,
+
+131
+00:06:50.471 --> 00:06:52.530
+if it's a new offer. And here's the thing,
+
+132
+00:06:52.741 --> 00:06:55.547
+there's also problems, even if you get the sale,
+
+133
+00:06:55.684 --> 00:06:58.334
+right? Because it's not over if you get the sale. So if you close
+
+134
+00:06:58.334 --> 00:07:02.903
+them, their expectations are so high that it's almost impossible to make
+
+135
+00:07:02.903 --> 00:07:05.419
+them happy. You could deliver an amazing service,
+
+136
+00:07:05.419 --> 00:07:08.546
+but because they expected the amazing service times ten,
+
+137
+00:07:08.785 --> 00:07:12.024
+even though you've delivered a perfectly, uhm,
+
+138
+00:07:12.035 --> 00:07:15.825
+great result, they're still not happy because they expected so much more because they've
+
+139
+00:07:15.825 --> 00:07:17.886
+just paid you so much money on day one.
+
+140
+00:07:18.093 --> 00:07:21.511
+Secondly, if you close them, because there's a lack of trust,
+
+141
+00:07:21.697 --> 00:07:24.070
+given that you've only known the person for a few days,
+
+142
+00:07:24.277 --> 00:07:26.815
+there's no leeway or forgiveness for the clients.
+
+143
+00:07:27.002 --> 00:07:29.661
+If something goes wrong in your fulfillment, so if in the set up,
+
+144
+00:07:30.520 --> 00:07:33.737
+something goes wrong, or it's not as flawless or as smooth as the client
+
+145
+00:07:33.737 --> 00:07:37.551
+again expected, well, because they've just paid you twenty grand up front,
+
+146
+00:07:37.973 --> 00:07:40.291
+they expect everything to be perfect.
+
+147
+00:07:40.308 --> 00:07:43.120
+And the moment something goes wrong, there's no forgiveness,
+
+148
+00:07:43.120 --> 00:07:45.665
+they'll immediately ask for a refund, they'll immediately ask for a dispute,
+
+149
+00:07:45.809 --> 00:07:47.904
+and you've lost the client, right? So, here,
+
+150
+00:07:48.112 --> 00:07:50.540
+I genuinely could go on and on and on with all the problems with
+
+151
+00:07:50.540 --> 00:07:54.581
+charging money. The point is, trying to charge a high up front fee to
+
+152
+00:07:54.581 --> 00:07:58.073
+a co-prospect who has come through your ads is not the way to scale
+
+153
+00:07:58.073 --> 00:08:01.581
+profitably. So, I've already gave you our example of how we've implemented this and
+
+154
+00:08:01.581 --> 00:08:03.708
+how it changed the game for us, but also,
+
+155
+00:08:03.708 --> 00:08:06.678
+one of our clients, Ben, he runs UpDigital,
+
+156
+00:08:08.223 --> 00:08:11.582
+he came to me, and you can even see it in one of the
+
+157
+00:08:11.582 --> 00:08:15.196
+weekly group call recordings that we put inside of school You can see all
+
+158
+00:08:15.196 --> 00:08:18.224
+the past call recordings. In one of those, you can literally see him coming
+
+159
+00:08:18.224 --> 00:08:20.858
+to me with a problem, and the problem he came to me with was
+
+160
+00:08:20.858 --> 00:08:23.599
+he could not overcome the trust objection,
+
+161
+00:08:23.650 --> 00:08:26.008
+right, that I was just talking about. He could not overcome it.
+
+162
+00:08:26.166 --> 00:08:28.173
+He said there were so many other people offering the same service,
+
+163
+00:08:28.309 --> 00:08:30.657
+his clients were like, I can't differentiate you from everyone else,
+
+164
+00:08:30.826 --> 00:08:32.762
+and all the other guys have burnt me in the past, I've paid a
+
+165
+00:08:32.762 --> 00:08:34.890
+ton of agencies, AI agencies, etc.,
+
+166
+00:08:35.090 --> 00:08:37.310
+to help me with this result, with this thing,
+
+167
+00:08:37.457 --> 00:08:39.580
+and no one's worked better than everyone I've paid,
+
+168
+00:08:39.580 --> 00:08:41.607
+it's just had a terrible service, all the stuff,
+
+169
+00:08:41.648 --> 00:08:46.053
+and he just could not overcome that particular objection,
+
+170
+00:08:46.179 --> 00:08:49.901
+and obviously, he wasn't closing many deals, because when he was dropping his price,
+
+171
+00:08:49.901 --> 00:08:52.987
+I can't remember exactly what it was, but I'm pretty sure it was 15K
+
+172
+00:08:52.987 --> 00:08:55.542
+for three months or four months, one of the two. So again,
+
+173
+00:08:55.753 --> 00:09:00.254
+high-ticket price point. What I told him was implement this pricing essential model,
+
+174
+00:09:00.466 --> 00:09:03.335
+and literally, again, you can find him in school, you can go to DM
+
+175
+00:09:03.335 --> 00:09:05.595
+and ask him yourself. He implemented this.
+
+176
+00:09:05.595 --> 00:09:07.693
+At the time he came to me, he was at about 30K a month.
+
+177
+00:09:07.933 --> 00:09:10.956
+He implemented this exact structure. Last month,
+
+178
+00:09:11.238 --> 00:09:14.743
+he hit 130K from this pricing essential model.
+
+179
+00:09:14.743 --> 00:09:16.812
+All he tweaked was this model. That was it.
+
+180
+00:09:16.812 --> 00:09:18.963
+Everything else stayed the same. We're still running his ads.
+
+181
+00:09:19.831 --> 00:09:22.633
+Same ads, same everything. Just implemented this,
+
+182
+00:09:22.633 --> 00:09:26.320
+130K a month. He added 100K a month in recurring revenue from implementing this
+
+183
+00:09:26.320 --> 00:09:28.336
+pricing model. And now,
+
+184
+00:09:28.456 --> 00:09:31.504
+he's shooting for 200K a month and we changed nothing.
+
+185
+00:09:31.504 --> 00:09:33.912
+Nothing. It was just this.
+
+186
+00:09:34.011 --> 00:09:36.531
+Okay? So, let's get into it.
+
+187
+00:09:36.531 --> 00:09:39.413
+I think I've built it up enough to now for you to know that
+
+188
+00:09:39.661 --> 00:09:42.772
+you should implement this. So, let's look at how does it look,
+
+189
+00:09:42.924 --> 00:09:45.551
+what do you actually need to do, and how does it affect your numbers.
+
+190
+00:09:45.551 --> 00:09:49.602
+So, essentially what you need to think about is imagine a world where you
+
+191
+00:09:49.602 --> 00:09:53.550
+could manufacture refinement. Meaning, you can create referrals out of thin air,
+
+192
+00:09:53.651 --> 00:09:56.453
+right? I.e., when you click your fingers, uhm,
+
+193
+00:09:56.463 --> 00:10:00.072
+and, you know, when you click your fingers, you generate instant referrals who already
+
+194
+00:10:00.072 --> 00:10:02.570
+love you, they already know what you do works,
+
+195
+00:10:02.852 --> 00:10:05.883
+and they immediately were willing to pay you whatever price you told them.
+
+196
+00:10:05.883 --> 00:10:08.711
+5K, 10K, 15K plus. Like, whatever price you tell them,
+
+197
+00:10:08.823 --> 00:10:11.249
+they would pay you, you'd send them a payment link for that amount,
+
+198
+00:10:11.265 --> 00:10:13.360
+and they would pay you. Imagine if you could do that, right?
+
+199
+00:10:13.568 --> 00:10:16.472
+Well, that's exactly what the pricing is saying that your model does.
+
+200
+00:10:17.012 --> 00:10:20.204
+That's what it does, right? So, let me explain. Instead of trying to pitch
+
+201
+00:10:20.488 --> 00:10:22.859
+a high upfront cost, like,
+
+202
+00:10:22.859 --> 00:10:27.143
+10K, 15K plus, you want to decrease the barrier to entry.
+
+203
+00:10:27.143 --> 00:10:30.183
+As contradictory as this sounds to scale,
+
+204
+00:10:30.702 --> 00:10:33.268
+just listen, hear me out,
+
+205
+00:10:33.268 --> 00:10:36.632
+okay? Instead of trying to pitch a high upfront cost,
+
+206
+00:10:36.632 --> 00:10:40.508
+you want to decrease the barrier to entry and offer a 20% trial-like pricing
+
+207
+00:10:40.508 --> 00:10:45.796
+structure for two to four weeks so that your entry point becomes almost
+
+208
+00:10:45.860 --> 00:10:48.568
+an impulse buy, okay?
+
+209
+00:10:48.878 --> 00:10:52.246
+Now, you want it to be high enough to recoup your ad spend,
+
+210
+00:10:52.396 --> 00:10:54.171
+so you don't want to do it for free. What I'm not saying here
+
+211
+00:10:54.171 --> 00:10:56.436
+is do a free trial. Do not do a free trial,
+
+212
+00:10:56.501 --> 00:10:59.705
+right? You want to charge on the front end for many reasons,
+
+213
+00:10:59.705 --> 00:11:02.194
+but just charge on the front end, but you want it to be low
+
+214
+00:11:02.194 --> 00:11:04.161
+enough to where it can be an impulse buy. An impulse buy, but high
+
+215
+00:11:04.161 --> 00:11:07.021
+enough to where you can still recoup your ad spend,
+
+216
+00:11:07.197 --> 00:11:09.428
+so that you still get the effects of client finance acquisition,
+
+217
+00:11:09.428 --> 00:11:13.304
+i.e. every new client you bring on board finances or pays for the next
+
+218
+00:11:13.304 --> 00:11:15.465
+one, okay? But low enough,
+
+219
+00:11:15.706 --> 00:11:17.627
+you want it to be high enough to do that, but low enough to
+
+220
+00:11:17.627 --> 00:11:19.728
+where the client kind of doesn't need to think twice about purchasing,
+
+221
+00:11:19.728 --> 00:11:22.718
+like, yeah, let's do it, right? And of course, there's still a level of
+
+222
+00:11:22.718 --> 00:11:26.567
+sales that needs to happen, but it's far less than trying to sell them
+
+223
+00:11:26.567 --> 00:11:29.141
+on a 10K offer. Now, after that,
+
+224
+00:11:29.399 --> 00:11:32.906
+once you get them in for the trial, okay, after you've completed the two
+
+225
+00:11:32.906 --> 00:11:37.165
+to four week trial, you can then ascend them into a high ticket backend
+
+226
+00:11:37.165 --> 00:11:39.270
+offer at 10K plus, for example,
+
+227
+00:11:39.507 --> 00:11:41.839
+or a higher ticket MRR,
+
+228
+00:11:42.002 --> 00:11:45.091
+like, monthly recurring revenue type of offer, like a retainer based offer,
+
+229
+00:11:45.115 --> 00:11:49.640
+okay? Now, what this does on the front end is the
+
+230
+00:11:49.640 --> 00:11:52.104
+following. It makes sense. It makes it, of course,
+
+231
+00:11:52.389 --> 00:11:57.488
+much easier to sell, right? Your sales skills don't need to be as expert,
+
+232
+00:11:57.656 --> 00:12:00.250
+as good as they need to be,
+
+233
+00:12:00.524 --> 00:12:02.941
+in order to sell a 1K offer as they do need,
+
+234
+00:12:02.941 --> 00:12:06.187
+oh, sorry, I messed that up. Your sales skills don't need to be as
+
+235
+00:12:06.187 --> 00:12:09.926
+expert to sell a 1K as they need to be to sell a 10K
+
+236
+00:12:09.926 --> 00:12:15.576
+offer, okay? 1K
+
+237
+00:12:15.576 --> 00:12:17.676
+offer than it is to sell a 10K offer,
+
+238
+00:12:17.676 --> 00:12:22.767
+which means you can start ROIing and closing deals much quicker,
+
+239
+00:12:22.767 --> 00:12:28.801
+because you don't need to spend as It also immediately positions you as
+
+240
+00:12:28.801 --> 00:12:30.150
+different from everyone mentioned before, right? It positions you as different, because everyone else
+
+241
+00:12:30.150 --> 00:12:33.940
+is trying to sell the 5K,
+
+242
+00:12:33.940 --> 00:12:35.609
+10K, or 15K plus offer on the front end, right? But no one else
+
+243
+00:12:35.609 --> 00:12:40.694
+is doing a trial-like pricing
+
+244
+00:12:40.694 --> 00:12:43.184
+structure. So you're immediately positioned as different.
+
+245
+00:12:43.706 --> 00:12:45.770
+It builds immediate trust. Remember,
+
+246
+00:12:45.770 --> 00:12:47.972
+one of the biggest issues in our industry is a lack of trust.
+
+247
+00:12:48.259 --> 00:12:51.074
+Well, this builds an immediate trust, uhm,
+
+248
+00:12:51.085 --> 00:12:55.349
+in your market, since you're showing that you are happy for them to quote-unquote
+
+249
+00:12:55.349 --> 00:12:58.548
+trial your services before committing to the full package.
+
+250
+00:12:58.740 --> 00:13:01.544
+So it shows a sheer level of confidence that nothing else can,
+
+251
+00:13:01.544 --> 00:13:03.570
+uh, immediately portray, right?
+
+252
+00:13:03.570 --> 00:13:07.280
+On the call, and again, I've not mentioned anything about results.
+
+253
+00:13:07.280 --> 00:13:09.311
+You don't need results to do this. Obviously, if you have results,
+
+254
+00:13:09.311 --> 00:13:11.620
+great, use them, but you don't need results to do this,
+
+255
+00:13:11.683 --> 00:13:14.498
+right? Which is why it's so powerful, because you get the same effects as
+
+256
+00:13:14.615 --> 00:13:17.207
+everything, you know, as somebody with a hundred plus results like us,
+
+257
+00:13:17.441 --> 00:13:19.797
+you get the same effects even if you don't have results, right?
+
+258
+00:13:19.882 --> 00:13:22.335
+Because we don't need results to implement this structure.
+
+259
+00:13:23.059 --> 00:13:25.555
+And guess what? Again,
+
+260
+00:13:25.672 --> 00:13:29.685
+as ironic as this kind of sounds, it makes you way more money,
+
+261
+00:13:29.921 --> 00:13:32.276
+because not only do you close way more clients,
+
+262
+00:13:32.800 --> 00:13:34.858
+right, given that more people can buy,
+
+263
+00:13:34.858 --> 00:13:37.906
+and it's easier to sell, so you just close way more people,
+
+264
+00:13:38.291 --> 00:13:42.970
+but also, by the time that you ask for the high-ticket sale,
+
+265
+00:13:43.110 --> 00:13:45.711
+right, which you still sell the high-ticket, it's just in the back end,
+
+266
+00:13:45.711 --> 00:13:47.598
+it's not on the front end, and I'll explain the difference here in a
+
+267
+00:13:47.598 --> 00:13:49.815
+minute, by the time you ask for the high-ticket sale,
+
+268
+00:13:50.382 --> 00:13:53.422
+the client will already love you, they highly trust you,
+
+269
+00:13:53.769 --> 00:13:57.189
+and they will know your service works, since they've seen it with their own
+
+270
+00:13:57.189 --> 00:14:00.931
+eyes. So how much easier do you think it is to be able to
+
+271
+00:14:00.931 --> 00:14:03.657
+sell that kind of client on a high-ticket offer,
+
+272
+00:14:03.791 --> 00:14:05.992
+versus someone who's never seen you before,
+
+273
+00:14:06.286 --> 00:14:09.205
+okay? So let me show you the math, and show you exactly how this
+
+274
+00:14:09.205 --> 00:14:11.348
+plays out between the front end and the back end.
+
+275
+00:14:11.355 --> 00:14:16.355
+Alright,
+
+276
+00:14:11.608 --> 00:14:14.529
+so, let's assume, okay, I'm gonna run a couple different examples,
+
+277
+00:14:14.529 --> 00:14:17.777
+but these metrics here are gonna stay the same for both examples,
+
+278
+00:14:17.903 --> 00:14:20.895
+because, you know, if you change your price, these numbers here are not gonna
+
+279
+00:14:20.895 --> 00:14:24.967
+change. So let's just assume, that over a certain period of time,
+
+280
+00:14:24.967 --> 00:14:27.137
+you don't have, don't, please don't look at this and think you need to
+
+281
+00:14:27.137 --> 00:14:29.557
+spend 10k on ads, but you don't, I'm just, round numbers,
+
+282
+00:14:29.557 --> 00:14:32.212
+right? So let's just say over the last month, over the last six months,
+
+283
+00:14:32.212 --> 00:14:34.414
+over the last year, whatever the time frame is that you wanna use,
+
+284
+00:14:34.414 --> 00:14:39.201
+you've spent 10k on ads, right? And you have a $300 cost per qualified
+
+285
+00:14:39.201 --> 00:14:42.218
+book call, meaning it's costing you $300 to get a qualified prospect in your
+
+286
+00:14:42.218 --> 00:14:44.708
+market, in your niche, to book a call with you and get on the
+
+287
+00:14:44.708 --> 00:14:47.429
+calendar, okay? So from that $10,000 in ad spend,
+
+288
+00:14:47.648 --> 00:14:51.491
+if you had a $300 cost per call, you would've booked 33 sales calls,
+
+289
+00:14:51.689 --> 00:14:53.723
+okay? And I've put the math here as well, just in case you wanna
+
+290
+00:14:53.723 --> 00:14:55.914
+see how I've got to these numbers, I won't run through the math in
+
+291
+00:14:55.914 --> 00:14:59.182
+the video, but the doc will obviously be linked right below the video as
+
+292
+00:14:59.182 --> 00:15:01.330
+always, so if you wanna go through and see how I've got to the
+
+293
+00:15:01.330 --> 00:15:03.837
+numbers, just check it out and you can see the math. And of course,
+
+294
+00:15:04.282 --> 00:15:06.512
+at any point in this video, if you have questions that come up, hit
+
+295
+00:15:06.512 --> 00:15:09.918
+us in the group and I will kind of explain live what I mean
+
+296
+00:15:09.918 --> 00:15:12.078
+by whatever it is that you're confused on,
+
+297
+00:15:12.279 --> 00:15:16.013
+okay? So, 33 sales calls booked from 10k ad spend,
+
+298
+00:15:16.181 --> 00:15:19.530
+and let's say on those 33 calls booked, you have a $600 70% show
+
+299
+00:15:19.530 --> 00:15:22.464
+rate, meaning for every 10 calls that you get booked on the calendar,
+
+300
+00:15:22.715 --> 00:15:24.735
+seven of them actually show up to the call, okay,
+
+301
+00:15:24.741 --> 00:15:26.769
+which is a good show rate, by the way, right? So,
+
+302
+00:15:26.769 --> 00:15:29.291
+out of those 33 calls booked, you would have had,
+
+303
+00:15:29.291 --> 00:15:32.569
+if you had a 70% show rate, you would have had 23 live calls.
+
+304
+00:15:32.569 --> 00:15:36.378
+In other words, you would have spoke to 23 qualified prospects,
+
+305
+00:15:37.610 --> 00:15:40.227
+Or in other words, had a sales call, right, with 23 of them.
+
+306
+00:15:40.308 --> 00:15:44.260
+Great. So, let's look at if you have a one-time offer,
+
+307
+00:15:44.260 --> 00:15:46.649
+and then I want to look at a different example,
+
+308
+00:15:46.649 --> 00:15:49.453
+if you have a retainer-based offer, okay, so a one-time offer is like you
+
+309
+00:15:49.453 --> 00:15:51.574
+just charge 5K for a certain setup,
+
+310
+00:15:51.574 --> 00:15:53.701
+or a certain build of some sort, or whatever it is,
+
+311
+00:15:53.701 --> 00:15:55.832
+just a one-time thing, there's no recurring, okay?
+
+312
+00:15:56.689 --> 00:15:59.350
+So, with a standard pricing model,
+
+313
+00:15:59.568 --> 00:16:03.636
+right, something like this, someone with the old pricing model,
+
+314
+00:16:03.726 --> 00:16:06.123
+that you don't want to do, it would be, let's just say,
+
+315
+00:16:06.123 --> 00:16:08.463
+for example, a 5K offer, okay,
+
+316
+00:16:08.463 --> 00:16:10.451
+is what you're trying to sell on the front end, again, a high-ticket offer
+
+317
+00:16:10.451 --> 00:16:12.962
+that you're trying to sell on the front end. Well, out of those 23
+
+318
+00:16:12.962 --> 00:16:15.873
+live calls, let's assume you close 20%,
+
+319
+00:16:15.873 --> 00:16:18.091
+which is a good close rate, as I say here, this is an extremely
+
+320
+00:16:18.091 --> 00:16:21.380
+good close rate, and very difficult to achieve, especially if you're a beginner,
+
+321
+00:16:21.380 --> 00:16:25.927
+like, this takes real, genuine skill that takes a while
+
+322
+00:16:25.927 --> 00:16:29.264
+to build, right? So, like, you're probably talking 6 to 12 months of skill,
+
+323
+00:16:29.264 --> 00:16:33.744
+of sales skill development. To get to a point you can close at 20%
+
+324
+00:16:33.744 --> 00:16:36.861
+on a 5K offer on cold traffic, that's a good close rate,
+
+325
+00:16:36.861 --> 00:16:39.189
+I want that to be clear, like, that's not easy to achieve,
+
+326
+00:16:39.245 --> 00:16:41.403
+okay? Uhm,
+
+327
+00:16:41.414 --> 00:16:43.727
+but, let's assume, for this example, you're a very good salesperson,
+
+328
+00:16:43.727 --> 00:16:46.162
+you're at 20% close rate on those 23 live calls,
+
+329
+00:16:46.538 --> 00:16:51.013
+in that case, 20%, if you close 20% of the 23 live calls,
+
+330
+00:16:51.112 --> 00:16:53.540
+you would have closed 4.6 new clients,
+
+331
+00:16:53.692 --> 00:16:55.697
+okay? Okay, now full power. 4.6 new clients,
+
+332
+00:16:55.811 --> 00:17:00.463
+at the 5K price point, equals 23K in total cash collected,
+
+333
+00:17:00.609 --> 00:17:04.717
+which means, for every $1 you spend on this model here,
+
+334
+00:17:05.151 --> 00:17:07.493
+you would have made back $2.30, because again,
+
+335
+00:17:07.493 --> 00:17:12.168
+remember, we've spent 10K on ads, and you've collected 23K
+
+336
+00:17:12.168 --> 00:17:14.259
+in cash, Cool.
+
+337
+00:17:15.013 --> 00:17:17.979
+Is that good? Is that not good? It's okay. But look at how this
+
+338
+00:17:17.979 --> 00:17:21.924
+changes. When you would switch to an Ascension pricing model for the same exact
+
+339
+00:17:21.924 --> 00:17:26.633
+offer, okay? So, let's assume you implement the Ascension pricing model,
+
+340
+00:17:26.810 --> 00:17:29.179
+and you do a $500 two-week trial.
+
+341
+00:17:29.179 --> 00:17:32.164
+It sounds super small, I know, but just stick with me and look at
+
+342
+00:17:32.164 --> 00:17:35.888
+the economics of this, okay? So let's say you do a $500 two-week trial,
+
+343
+00:17:36.096 --> 00:17:38.426
+and then, after the two-week trial,
+
+344
+00:17:38.506 --> 00:17:41.845
+you ascend them into a higher-ticket 7.5K price point.
+
+345
+00:17:42.880 --> 00:17:45.250
+Back-end offer, okay? So,
+
+346
+00:17:46.427 --> 00:17:48.534
+same again, 23 live calls.
+
+347
+00:17:48.719 --> 00:17:52.169
+Now, because you're only pitching a $500 offer on the front-end,
+
+348
+00:17:52.547 --> 00:17:54.848
+obviously, it's much easier to sell,
+
+349
+00:17:54.848 --> 00:17:56.873
+and far more people can pay for that. So,
+
+350
+00:17:56.873 --> 00:17:59.185
+naturally, your close rate's gonna shoot through the roof.
+
+351
+00:17:59.488 --> 00:18:01.872
+I'm gonna assume, for this example, a 50% close rate.
+
+352
+00:18:02.015 --> 00:18:05.134
+Now, this is very conservative, just so you know,
+
+353
+00:18:05.330 --> 00:18:07.567
+given the price is $500. $500,
+
+354
+00:18:07.567 --> 00:18:12.499
+you're trying to sell somebody on giving you $500. It's an extremely
+
+355
+00:18:12.499 --> 00:18:14.562
+easy sale. So, this is conservative.
+
+356
+00:18:14.562 --> 00:18:19.082
+I've seen clients implement this, and they close upwards of 80% of
+
+357
+00:18:19.082 --> 00:18:21.087
+their sales calls, right? Because, again,
+
+358
+00:18:21.087 --> 00:18:24.152
+the sale is so easy. You're trying to sell a $500 offer,
+
+359
+00:18:24.152 --> 00:18:26.284
+that's it, right? So, 50%,
+
+360
+00:18:26.284 --> 00:18:28.923
+let's assume. Well, based on that, 23 live calls,
+
+361
+00:18:28.923 --> 00:18:31.013
+you close 50% of them.
+
+362
+00:18:31.013 --> 00:18:34.461
+You'll have 11.5 new closes,
+
+363
+00:18:34.484 --> 00:18:39.057
+right? Or 11.5 new clients. You charge them all $500 on the initial sales
+
+364
+00:18:39.057 --> 00:18:43.375
+call. That, in and of itself, is $5,750 in cash,
+
+365
+00:18:43.621 --> 00:18:46.392
+okay? For only two weeks of work for each client. Now,
+
+366
+00:18:46.585 --> 00:18:51.089
+this is where it gets interesting. So, you collect $5,750 on day
+
+367
+00:18:51.089 --> 00:18:54.874
+one, the moment you close the client, but it's for a two-week trial.
+
+368
+00:18:54.874 --> 00:18:57.076
+So, what happens? What happens after that two-week trial? Well,
+
+369
+00:18:57.076 --> 00:18:59.113
+now you want to try and upsell them, and by the way, in terms
+
+370
+00:18:59.113 --> 00:19:01.735
+of how to upsell them and the process for that, don't worry,
+
+371
+00:19:01.981 --> 00:19:03.985
+you know, we're going to help you with that. So, just for now, think
+
+372
+00:19:03.985 --> 00:19:06.363
+about the economics and the pricing. So,
+
+373
+00:19:06.587 --> 00:19:10.238
+after that two-week trial, we then ascend them into a 7.5K offer,
+
+374
+00:19:10.238 --> 00:19:12.419
+right? So, uhm, as I said here,
+
+375
+00:19:12.419 --> 00:19:16.006
+after the two weeks, we will then show you how to ascend those clients
+
+376
+00:19:16.006 --> 00:19:19.136
+into, in this example, a 7.5K back-end offer.
+
+377
+00:19:19.136 --> 00:19:23.720
+Now, just to be clear, this 7.5K offer can be the exact same as
+
+378
+00:19:23.720 --> 00:19:27.063
+this 5K offer. Now, you might wonder why we charge an extra two and
+
+379
+00:19:27.063 --> 00:19:30.645
+a half grand, because you're selling it to people who already love you and
+
+380
+00:19:30.645 --> 00:19:34.388
+trust you, so naturally, you have a far higher pricing power there,
+
+381
+00:19:34.504 --> 00:19:38.045
+so you can charge a whole lot more for the same exact thing,
+
+382
+00:19:38.193 --> 00:19:40.619
+because they already love you, they already know it's going to work,
+
+383
+00:19:40.619 --> 00:19:42.683
+and the client will just be like, yep, no problem, take my money,
+
+384
+00:19:42.778 --> 00:19:44.799
+right? So that's why you can charge a lot more,
+
+385
+00:19:44.799 --> 00:19:47.006
+so not only are you charging 50% more, but,
+
+386
+00:19:47.017 --> 00:19:49.714
+as I'm going to show you, you're going to close a ton more people
+
+387
+00:19:49.735 --> 00:19:52.859
+on it, okay? So, on average,
+
+388
+00:19:53.073 --> 00:19:56.804
+across all of our clients who have got this implemented, we see a 50%
+
+389
+00:19:56.804 --> 00:20:02.199
+ascension rate. That's average. Again, a lot of our clients ascend upwards of 80-90%
+
+390
+00:20:02.199 --> 00:20:05.046
+of the clients from the trial into the back-end offer,
+
+391
+00:20:05.227 --> 00:20:07.152
+but again, I don't want to oversell you here, let's just look at worst-case
+
+392
+00:20:07.152 --> 00:20:09.183
+scenarios. Worst-case, 50%, okay? Well, average-case,
+
+393
+00:20:09.183 --> 00:20:13.874
+50%, okay? So, 50% ascension rate from the trial into the
+
+394
+00:20:13.874 --> 00:20:16.653
+back-end offer, so in this case,
+
+395
+00:20:16.778 --> 00:20:18.805
+let's just assume it was 11.5, just for easy numbers,
+
+396
+00:20:18.805 --> 00:20:23.337
+let's round down, look at 11 clients. If 50% of them ascend into the
+
+397
+00:20:23.337 --> 00:20:27.175
+high-ticket back-end, that would be 5.5 new high-ticket the clients,
+
+398
+00:20:27.175 --> 00:20:31.293
+it's 7.5K each, which totals $41,000.
+
+399
+00:20:31.317 --> 00:20:34.419
+0.2K in total cash collected,
+
+400
+00:20:34.559 --> 00:20:37.186
+okay? Now, remember, well,
+
+401
+00:20:37.186 --> 00:20:39.607
+I've got it down here, so I'm not gonna, I was gonna say exactly
+
+402
+00:20:39.607 --> 00:20:42.416
+this, but let me go through the training, and then I'll get to that.
+
+403
+00:20:42.416 --> 00:20:44.575
+So, 47K in total cash, right?
+
+404
+00:20:44.575 --> 00:20:48.877
+Because remember, you've got the initial 5,700 that you collected from the trials,
+
+405
+00:20:49.048 --> 00:20:53.094
+and then you've got 41K from all of the ascensions.
+
+406
+00:20:53.094 --> 00:20:55.357
+So, in total, you've collected 5,700.
+
+407
+00:20:55.381 --> 00:20:57.737
+47,000 in cash. Now,
+
+408
+00:20:57.737 --> 00:21:02.285
+remember, this is all from the same $10,000 in
+
+409
+00:21:02.285 --> 00:21:04.847
+ad spend. So, using the pricing essential model,
+
+410
+00:21:04.904 --> 00:21:09.701
+you'll collect 47K, as opposed to only 23K in the
+
+411
+00:21:09.701 --> 00:21:12.421
+standard pricing model,
+
+412
+00:21:19.445 --> 00:21:23.210
+$2.30 back in an instance where you're a genuinely good closer,
+
+413
+00:21:23.250 --> 00:21:26.285
+right? Remember, this is not easy to do. So,
+
+414
+00:21:26.285 --> 00:21:28.971
+you're gonna go from spending a dollar on ads and making $2.30 back to
+
+415
+00:21:28.971 --> 00:21:32.976
+spending a dollar on ads and making $4.70 back.
+
+416
+00:21:33.187 --> 00:21:38.158
+So, you've almost doubled your profit by simply changing
+
+417
+00:21:38.273 --> 00:21:40.465
+the pricing structure. And, remember,
+
+418
+00:21:40.465 --> 00:21:42.870
+also, this is far easier to implement.
+
+419
+00:21:42.985 --> 00:21:45.999
+It's way easier to do it. You don't need nowhere near as much skill.
+
+420
+00:21:46.147 --> 00:21:48.696
+You can implement this. Yeah, you're gonna need a little bit of feedback and
+
+421
+00:21:48.696 --> 00:21:51.266
+a little bit of hand-holding, most likely, in the beginning, if you're a beginner.
+
+422
+00:21:52.182 --> 00:21:54.549
+If you're more established and you implement something like this, you'll be able to
+
+423
+00:21:54.549 --> 00:21:56.864
+just rip this out the gate. But,
+
+424
+00:21:56.894 --> 00:21:59.369
+if you're a bit more of a beginner, sure, it's not,
+
+425
+00:21:59.369 --> 00:22:01.768
+like, you know, you're gonna need a little bit of skill.
+
+426
+00:22:02.556 --> 00:22:05.952
+But you're gonna need probably about 10% of the skill you would need in
+
+427
+00:22:05.952 --> 00:22:09.923
+order to do this, right, in an instance, to do this structure.
+
+428
+00:22:10.085 --> 00:22:12.098
+Okay? Now, also remember,
+
+429
+00:22:12.793 --> 00:22:14.913
+as I just said, these are much easier sales to make,
+
+430
+00:22:15.064 --> 00:22:17.173
+making it more enjoyable for you. It's nowhere near as hard,
+
+431
+00:22:17.218 --> 00:22:20.852
+so it's more enjoyable. You can start closing clients much faster because you don't
+
+432
+00:22:20.852 --> 00:22:22.932
+need to spend as much time building the sales skill.
+
+433
+00:22:22.932 --> 00:22:25.602
+As I said before, it might take 6 or 12 months to build the
+
+434
+00:22:25.602 --> 00:22:28.912
+sales skills required to close at this level.
+
+435
+00:22:29.767 --> 00:22:32.552
+Whereas, in this instance, You know, it might be. 6 weeks,
+
+436
+00:22:32.630 --> 00:22:35.337
+as opposed to 6 months. So, you can start closing clients a whole lot
+
+437
+00:22:35.337 --> 00:22:38.039
+quicker, and start ROIing a whole lot quicker,
+
+438
+00:22:38.039 --> 00:22:40.208
+and cash flowing a whole lot quicker. And,
+
+439
+00:22:40.208 --> 00:22:42.788
+you're going to be working with clients who inherently trust you,
+
+440
+00:22:43.068 --> 00:22:46.477
+rather than them constantly doubting you, which is going to make your fulfillment even
+
+441
+00:22:46.565 --> 00:22:49.366
+easier to deliver as well. So, not only are you making way more money,
+
+442
+00:22:49.785 --> 00:22:52.215
+but also you're working with clients who are way better, and are going to
+
+443
+00:22:52.215 --> 00:22:54.619
+stay with you a whole lot longer, and are going to be happier with
+
+444
+00:22:54.619 --> 00:22:56.991
+your services. It's a no-brainer.
+
+445
+00:22:57.556 --> 00:23:00.040
+So, that's if you have a one-time type of offer.
+
+446
+00:23:01.011 --> 00:23:03.671
+Now, let's look at if you have a retainer type of offer,
+
+447
+00:23:03.671 --> 00:23:05.979
+where it's basically, retainer, just think of this as like a recurring,
+
+448
+00:23:05.979 --> 00:23:09.130
+right? If you charge 2K a month, or you charge 5K a month for
+
+449
+00:23:09.130 --> 00:23:12.318
+an ongoing service, here's how you can also use this pricing model.
+
+450
+00:23:12.318 --> 00:23:14.839
+So, again, we're going to assume the exact same metrics up here,
+
+451
+00:23:14.839 --> 00:23:17.963
+10K ad spend, 33 sales calls, 23 live calls.
+
+452
+00:23:18.016 --> 00:23:20.794
+Okay? So. Given,
+
+453
+00:23:20.943 --> 00:23:23.417
+if, you know, you have a standard pricing model of what a lot of
+
+454
+00:23:23.417 --> 00:23:25.661
+people do, is they'll just try and pitch a 3K a month retainer out
+
+455
+00:23:25.661 --> 00:23:29.004
+the gate. That's it, right? Call one, 3K a month retainer as an example,
+
+456
+00:23:29.004 --> 00:23:31.254
+if it was 3K. Now, on that,
+
+457
+00:23:31.477 --> 00:23:34.255
+that's a big commitment, right? 3K every single month.
+
+458
+00:23:34.255 --> 00:23:37.192
+So, what we typically see on a retainer type of offer, naturally,
+
+459
+00:23:37.192 --> 00:23:39.528
+on the standard retainer offer, that is,
+
+460
+00:23:40.027 --> 00:23:42.747
+naturally your close rate's going to drop a lot, because it's a much bigger
+
+461
+00:23:42.747 --> 00:23:44.991
+commitment, and it's actually a higher price point over time,
+
+462
+00:23:45.056 --> 00:23:47.971
+okay? So, that's naturally going to have a lower close rate,
+
+463
+00:23:47.971 --> 00:23:50.391
+assuming the same skill set, okay? So,
+
+464
+00:23:50.391 --> 00:23:54.929
+that would result in, 23 live calls, 15% close rate will be 3.45
+
+465
+00:23:55.179 --> 00:23:58.339
+new clients, okay?
+
+466
+00:23:58.339 --> 00:24:01.817
+Now, 3.45 new clients at a 3K a month price point is 10.3K per
+
+467
+00:24:01.817 --> 00:24:02.169
+month
+
+468
+00:24:07.893 --> 00:24:09.215
+10K to make 10.3K back in recurring revenue. So, for every $1 an ad,
+
+469
+00:24:09.215 --> 00:24:13.211
+you're making $1.03 back before the recurring kicks in,
+
+470
+00:24:13.211 --> 00:24:17.711
+okay? So, remember, given these prospects are much colder and have less trust in
+
+471
+00:24:17.711 --> 00:24:23.472
+you being able to deliver, they must see an ROI on their investment
+
+472
+00:24:23.472 --> 00:24:25.862
+within their first month or two.
+
+473
+00:24:25.862 --> 00:24:28.697
+Otherwise, they're going to cancel their payment with you,
+
+474
+00:24:28.697 --> 00:24:32.240
+right? They're going to cancel and you'll receive no recurring revenue. So,
+
+475
+00:24:32.240 --> 00:24:34.681
+your entire economics is going to be based on what you collect on day
+
+476
+00:24:34.681 --> 00:24:37.002
+one, and in this instance,
+
+477
+00:24:37.137 --> 00:24:39.335
+what you collect on day one is exactly what you're spending on ads.
+
+478
+00:24:39.335 --> 00:24:41.992
+It's one-for-one, right? You're spending $1 and you're getting $1 out.
+
+479
+00:24:42.382 --> 00:24:44.732
+Not good. You can't scale on that, right? So,
+
+480
+00:24:45.005 --> 00:24:48.720
+although adding 10K a month in new recurring revenue sounds great,
+
+481
+00:24:48.982 --> 00:24:53.585
+if you also churn or lose 10K a month from existing clients who are
+
+482
+00:24:53.585 --> 00:24:56.172
+leaving you each month because they're not happy with the results, They never you
+
+483
+00:24:56.254 --> 00:24:59.134
+stagnate. You're not getting it going anyway. You've got all this risk and you're
+
+484
+00:24:59.134 --> 00:25:01.565
+just, you know, chugging along at the same level.
+
+485
+00:25:01.565 --> 00:25:04.541
+You're not adding revenue per month. You're not growing in any way,
+
+486
+00:25:04.784 --> 00:25:06.827
+even though you're going to be working a ton,
+
+487
+00:25:06.827 --> 00:25:09.030
+you're going to be stressed out, and all the negatives, right?
+
+488
+00:25:09.432 --> 00:25:12.728
+So, when working with clients who don't inherently trust you,
+
+489
+00:25:12.728 --> 00:25:16.300
+as I said before, previously, this also has a massive impact on fulfillment because
+
+490
+00:25:16.300 --> 00:25:20.613
+it's much more difficult to retain a client who doesn't trust you past the
+
+491
+00:25:20.613 --> 00:25:24.276
+first one to two months, which puts a massive strain on your fulfillment,
+
+492
+00:25:24.435 --> 00:25:28.796
+since now you're forced to deliver these massive results as soon as humanly possible,
+
+493
+00:25:29.030 --> 00:25:31.451
+and if you don't, they're going to leave you,
+
+494
+00:25:32.282 --> 00:25:36.419
+right? So, now you're, like, chasing your own tail every single month to try
+
+495
+00:25:36.419 --> 00:25:40.237
+and make 1.03x in return.
+
+496
+00:25:40.694 --> 00:25:42.806
+Not a good model, but again, this is what everyone runs,
+
+497
+00:25:42.912 --> 00:25:45.243
+right? And, including me. Including us, right? Historically.
+
+498
+00:25:46.094 --> 00:25:49.213
+So, again, real quick, uhm,
+
+499
+00:25:49.224 --> 00:25:52.444
+how does this change if you implement the essential pricing model for a recurring
+
+500
+00:25:52.444 --> 00:25:54.764
+type of offer? Well, let's assume, again, same exact thing,
+
+501
+00:25:54.764 --> 00:25:59.502
+$500, two-week trial, and you have a 3k per month offer,
+
+502
+00:25:59.502 --> 00:26:01.731
+but you keep that for the back-end, after the trial,
+
+503
+00:26:01.731 --> 00:26:05.457
+after they've already tested the service, then you pitch them the 3k a month
+
+504
+00:26:05.457 --> 00:26:07.664
+recurring offer, same exact one as before. Well,
+
+505
+00:26:07.664 --> 00:26:10.351
+you remember, the front-end offer's not gonna change,
+
+506
+00:26:10.351 --> 00:26:13.512
+it's still the $500 two-week trial, so the close rate's gonna be the exact
+
+507
+00:26:13.512 --> 00:26:15.812
+same as it was in the first example,
+
+508
+00:26:15.881 --> 00:26:18.592
+right? It's still gonna be 50%. So, the close rate here will stay the
+
+509
+00:26:18.592 --> 00:26:21.860
+same, although it decreased when switching to our retainer structure,
+
+510
+00:26:21.860 --> 00:26:25.859
+uh, with the essential pricing model, given the front-end offer and commitment is still
+
+511
+00:26:25.859 --> 00:26:28.273
+a $500 two-week trial, it's gonna stay the exact same,
+
+512
+00:26:28.273 --> 00:26:30.275
+so you're still gonna close 50%,
+
+513
+00:26:30.275 --> 00:26:32.288
+which is 11 and a half new clients on average.
+
+514
+00:26:32.288 --> 00:26:35.259
+At the $500 price point, it's the same exact thing as before,
+
+515
+00:26:35.259 --> 00:26:40.124
+$5,700 cash. Now, let's assume only a 40%,
+
+516
+00:26:40.124 --> 00:26:44.141
+uh, only 40% of clients ascend to the recurring offer,
+
+517
+00:26:44.253 --> 00:26:46.692
+okay? Which is very, very low. Again, like I said before,
+
+518
+00:26:46.692 --> 00:26:48.938
+we've seen clients upwards of 80% ascension rate,
+
+519
+00:26:49.158 --> 00:26:51.540
+but I wanna make this on, like, kind of worst-case scenario.
+
+520
+00:26:51.696 --> 00:26:53.771
+Let's assume only 40% ascend, because, again,
+
+521
+00:26:53.771 --> 00:26:56.352
+the commitment of a 3K a month is slightly higher,
+
+522
+00:26:56.352 --> 00:26:58.779
+than the commitment of a 7.5K one time,
+
+523
+00:26:58.861 --> 00:27:01.636
+okay? So, let's assume less ascend,
+
+524
+00:27:01.932 --> 00:27:05.304
+so that would only be 4.6 ascended clients,
+
+525
+00:27:05.472 --> 00:27:09.855
+okay? Uhm, now, 4.6 ascended clients on a 3K per month retainer,
+
+526
+00:27:09.855 --> 00:27:14.365
+though, equals $13,800 per month in new recurring revenue
+
+527
+00:27:14.365 --> 00:27:18.928
+that you're adding. So, the total cash from this structure is basically
+
+528
+00:27:18.928 --> 00:27:23.033
+$20,000. Or, in other words, it's $20 and it's double this structure,
+
+529
+00:27:23.919 --> 00:27:26.242
+okay? Now, again,
+
+530
+00:27:26.510 --> 00:27:29.686
+for the same 10K ad spend, you've not spent any more money to acquire
+
+531
+00:27:29.686 --> 00:27:31.813
+these clients, right, you're spending the exact same amount,
+
+532
+00:27:31.813 --> 00:27:42.365
+all that's changing is how you charge. Or
+
+533
+00:27:33.645 --> 00:27:37.045
+put differently, all you're really changing is how you collect the money,
+
+534
+00:27:37.292 --> 00:27:39.786
+at what stage in the client journey you collect the money,
+
+535
+00:27:39.786 --> 00:27:41.859
+right? So, uhm,
+
+536
+00:27:41.870 --> 00:27:44.157
+in this instance, as I say, from the same 10K ad spend, using the
+
+537
+00:27:44.157 --> 00:27:47.623
+pricing ascension model, you'll collect 19.5K,
+
+538
+00:27:47.623 --> 00:27:51.505
+as opposed to only 10K, which means for every dollar, you'll collect $1.95 back,
+
+539
+00:27:51.821 --> 00:27:54.064
+before any of the recurring kicks in,
+
+540
+00:27:54.242 --> 00:27:57.330
+so by month 3, you've, you know, you're still only spending a dollar,
+
+541
+00:27:57.330 --> 00:28:00.930
+and now you're gonna be making $1.95 times 3 back,
+
+542
+00:28:01.097 --> 00:28:03.359
+each and every month. Does that make sense? Hopefully it does.
+
+543
+00:28:03.359 --> 00:28:05.955
+If it doesn't, again, if any of this, I know the math piece can
+
+544
+00:28:05.955 --> 00:28:08.397
+sometimes be a little confusing, also I get,
+
+545
+00:28:08.397 --> 00:28:10.417
+sometimes I get hyped, and I talk a little quick,
+
+546
+00:28:10.417 --> 00:28:12.918
+so, anything that doesn't make sense, please just post it in the group.
+
+547
+00:28:12.918 --> 00:28:15.794
+I'm gonna be there to support you, but you can see how this is
+
+548
+00:28:15.938 --> 00:28:18.606
+significantly more profitable, okay? And remember,
+
+549
+00:28:18.606 --> 00:28:22.023
+this is the big thing, all of your recurring clients with this model will
+
+550
+00:28:22.023 --> 00:28:24.987
+already love and trust you by the time they ascend,
+
+551
+00:28:24.987 --> 00:28:27.074
+by the time they start paying you the 3K a month,
+
+552
+00:28:27.314 --> 00:28:29.889
+they're gonna already know, love, and trust you,
+
+553
+00:28:30.150 --> 00:28:32.629
+which means it's gonna be far easier to retain them,
+
+554
+00:28:32.784 --> 00:28:35.340
+which means you're gonna have a significantly lower churn rate,
+
+555
+00:28:35.340 --> 00:28:38.127
+or in other words, you're going to keep more content. clients for longer,
+
+556
+00:28:38.288 --> 00:28:43.480
+paying you the 3K a month. So not only are the front-end metrics significantly
+
+557
+00:28:43.480 --> 00:28:47.313
+better, but also, you're gonna make far more money in the back-end because far
+
+558
+00:28:47.313 --> 00:28:49.802
+more clients are gonna stay with you because they love you already,
+
+559
+00:28:50.112 --> 00:28:52.884
+okay? And as I say, uhm,
+
+560
+00:28:52.884 --> 00:28:55.837
+uh, you'll be able to not only make more money on the front-end,
+
+561
+00:28:55.837 --> 00:28:58.844
+but also much more money in the back-end, and you're gonna have way more
+
+562
+00:28:58.844 --> 00:29:01.046
+fun doing so because you're gonna be working with clients who love you.
+
+563
+00:29:01.046 --> 00:29:03.807
+It's much better working with clients who love you than working with clients who
+
+564
+00:29:03.807 --> 00:29:05.888
+don't, okay? So, not a bad outcome.
+
+565
+00:29:05.970 --> 00:29:08.498
+Now, how do you implement it? This part is actually very,
+
+566
+00:29:08.498 --> 00:29:11.409
+very simple, as you'll see below. So, uhm,
+
+567
+00:29:11.420 --> 00:29:13.872
+if you think, this, this is all it comes down to.
+
+568
+00:29:13.872 --> 00:29:16.100
+If you're a beginner, this is what it comes down to. I'm gonna hit
+
+569
+00:29:16.100 --> 00:29:18.211
+on a little note if you're more advanced.
+
+570
+00:29:18.211 --> 00:29:20.216
+If you're already at 100K a month, or a million a month,
+
+571
+00:29:20.216 --> 00:29:22.275
+or whatever it may be, like we are.
+
+572
+00:29:22.581 --> 00:29:25.110
+I'm gonna show you how we've implemented it, uhm, Bye for now.
+
+573
+00:29:25.110 --> 00:29:27.699
+Uh, as it differs a little bit from this.
+
+574
+00:29:27.744 --> 00:29:31.197
+So, if you're a beginner, all you need to think through is the following.
+
+575
+00:29:32.254 --> 00:29:34.566
+If you think you can deploy your product or service,
+
+576
+00:29:34.994 --> 00:29:37.221
+and earn the trust of your clients, meaning,
+
+577
+00:29:37.319 --> 00:29:39.939
+prove your service works. And that doesn't mean to say, by the way,
+
+578
+00:29:40.208 --> 00:29:43.155
+that you need to deliver some crazy big outcome,
+
+579
+00:29:43.155 --> 00:29:46.577
+or anything like that. It's just, prove that what you say you're gonna do,
+
+580
+00:29:46.577 --> 00:29:49.019
+you do. Okay? That's all you need to prove in the first two weeks.
+
+581
+00:29:49.019 --> 00:29:51.667
+So, that's might be, or four weeks. That might be that,
+
+582
+00:29:51.840 --> 00:29:55.015
+you know, when we implement this, we're gonna recover at least ten booked appointments,
+
+583
+00:29:55.145 --> 00:29:57.495
+as an example, in the first two weeks. If you can do that,
+
+584
+00:29:57.495 --> 00:30:00.122
+if you think you can do that, in the first two weeks,
+
+585
+00:30:00.743 --> 00:30:03.086
+then you should do two weeks, as the trial period.
+
+586
+00:30:03.270 --> 00:30:05.614
+Okay? That's the holy grail, as,
+
+587
+00:30:05.614 --> 00:30:09.835
+uhm, the commitment and the price point is obviously much lower,
+
+588
+00:30:09.923 --> 00:30:12.883
+right? It's only two weeks they need to commit, and it's only $500.
+
+589
+00:30:13.243 --> 00:30:15.293
+Which, again, makes the barrier to entry much lower.
+
+590
+00:30:16.066 --> 00:30:19.459
+So, you guessed it, that means you're gonna close more clients and make more
+
+591
+00:30:19.459 --> 00:30:23.382
+profit. And, by the way, $500 and $1,000 for the two week or the
+
+592
+00:30:23.382 --> 00:30:26.594
+four week, it's just round numbers, it can be $750 for the two weeks.
+
+593
+00:30:26.770 --> 00:30:28.937
+The idea is, you just wanna make it as low as possible,
+
+594
+00:30:28.937 --> 00:30:31.123
+so that barrier to entry is as low as possible,
+
+595
+00:30:31.123 --> 00:30:33.197
+so the client can just make an impulse buy. It's like, yeah, let's just
+
+596
+00:30:33.197 --> 00:30:35.846
+do it, right? So that you can start to cash flow on the ads
+
+597
+00:30:35.846 --> 00:30:38.857
+much quicker. Now, I'm If,
+
+598
+00:30:38.857 --> 00:30:41.044
+however, you can't do that in two weeks, you're like,
+
+599
+00:30:41.044 --> 00:30:43.400
+two weeks is too short of a time, I need at least four weeks,
+
+600
+00:30:43.400 --> 00:30:46.259
+for example, to install my service and,
+
+601
+00:30:46.406 --> 00:30:49.063
+you know, prove that it's gonna do what I say it's gonna do,
+
+602
+00:30:49.455 --> 00:30:52.251
+then, if that's the case, totally fine, there's zero issues,
+
+603
+00:30:52.355 --> 00:30:55.107
+just extend it to four weeks and give yourself a little bit more time
+
+604
+00:30:55.107 --> 00:30:57.432
+to prove what you do works, and in the four week case,
+
+605
+00:30:57.590 --> 00:31:00.326
+you're most likely gonna charge $1,000 to $1,500,
+
+606
+00:31:00.326 --> 00:31:03.322
+again, you don't have to do $1,000, I just use those numbers because they're
+
+607
+00:31:03.322 --> 00:31:05.926
+nice and round, but it might be $1,000 to $1,500 that you do,
+
+608
+00:31:05.996 --> 00:31:09.048
+again, though, it proves that it's a much lower barrier to entry,
+
+609
+00:31:09.048 --> 00:31:11.481
+that's the key, okay? Now,
+
+610
+00:31:11.636 --> 00:31:14.178
+as for your retainer, or the back-end pricing structure,
+
+611
+00:31:14.429 --> 00:31:17.103
+we'll cover that on your onboarding call, uhm,
+
+612
+00:31:17.113 --> 00:31:19.187
+and, if you, uh,
+
+613
+00:31:19.187 --> 00:31:22.087
+uhm, uh, you know, have already had your onboarding call in the past,
+
+614
+00:31:22.087 --> 00:31:24.363
+or whatever it is, or maybe you tweaked your offer, whatever,
+
+615
+00:31:24.363 --> 00:31:26.918
+totally fine, just extend again, post your service in the group,
+
+616
+00:31:27.087 --> 00:31:30.803
+and I can personally help you with how I would price for your service,
+
+617
+00:31:30.803 --> 00:31:33.208
+because that piece we have to do custom,
+
+618
+00:31:33.228 --> 00:31:35.458
+almost, right, tailored to your offer, because, you know,
+
+619
+00:31:35.521 --> 00:31:37.643
+the pricing naturally is very specific to your service,
+
+620
+00:31:37.643 --> 00:31:40.868
+to your market, uhm, and there's a few other key variables that kind of
+
+621
+00:31:40.868 --> 00:31:42.921
+impact how you should charge, so,
+
+622
+00:31:42.931 --> 00:31:44.786
+I can't sit here and tell you in a video, you're like, yeah, you
+
+623
+00:31:44.786 --> 00:31:46.855
+should charge this, because, obviously, you know,
+
+624
+00:31:46.908 --> 00:31:49.499
+might be 50 different people watching this with 50 different services.
+
+625
+00:31:49.499 --> 00:31:51.503
+and offers, and, you know, in different markets,
+
+626
+00:31:51.503 --> 00:31:55.230
+so, post that in the group, and I'll help you there, now, that's basically
+
+627
+00:31:55.230 --> 00:31:57.703
+it, I want to do, I want to quickly touch on,
+
+628
+00:31:57.703 --> 00:32:00.230
+uhm, how we've implemented this for us,
+
+629
+00:32:00.230 --> 00:32:02.961
+uh, given that we was at a higher scale, so what we did,
+
+630
+00:32:03.236 --> 00:32:06.693
+is the exact same idea, the difference,
+
+631
+00:32:06.861 --> 00:32:08.413
+and this is what you need to do if you're like, sort of a
+
+632
+00:32:08.413 --> 00:32:11.277
+100K a month plus, I would say, the difference is,
+
+633
+00:32:11.371 --> 00:32:13.382
+instead of doing a trial type of structure,
+
+634
+00:32:13.382 --> 00:32:15.706
+Take care. What you want is, so,
+
+635
+00:32:15.706 --> 00:32:17.940
+basically, what we used to do is sell our front end, sorry,
+
+636
+00:32:17.940 --> 00:32:21.309
+our done for you offer on the front end, and that's the 18K offer
+
+637
+00:32:21.309 --> 00:32:24.015
+that I spoke about before, or 15K if a new client pays in full,
+
+638
+00:32:24.829 --> 00:32:27.551
+so, we was trying to sell that on the front end, now what we've
+
+639
+00:32:27.551 --> 00:32:30.489
+done is implemented this exact same structure, but instead of doing a two or
+
+640
+00:32:30.489 --> 00:32:33.419
+a four week trial, we now have our done with you offer,
+
+641
+00:32:33.529 --> 00:32:36.204
+which is our group coaching offer, which is a lot less,
+
+642
+00:32:36.204 --> 00:32:38.687
+again, decreasing the barrier to entry, it's so it's a lot less of a
+
+643
+00:32:38.687 --> 00:32:42.307
+commitment than 18K, it's much lower than that on the front end,
+
+644
+00:32:42.499 --> 00:32:46.012
+okay, and then, what we now do is the same exact idea,
+
+645
+00:32:46.012 --> 00:32:49.696
+it's just extended, so it's obviously not $500 or $1,000,
+
+646
+00:32:49.696 --> 00:32:53.150
+it's about 10K, and so, we now have that on the front end,
+
+647
+00:32:53.150 --> 00:32:55.832
+which is a much easier offer to sell than a 20K offer,
+
+648
+00:32:55.832 --> 00:32:58.599
+right, and we have that for four months, Sorry. People come through that,
+
+649
+00:32:58.599 --> 00:33:01.339
+again, immediately love us, it builds trust,
+
+650
+00:33:01.339 --> 00:33:04.014
+it proves what we do works, then,
+
+651
+00:33:04.336 --> 00:33:08.925
+we now ascend those people into our 20K plus back end offers,
+
+652
+00:33:08.925 --> 00:33:11.626
+right, and so, that's how we've implemented it,
+
+653
+00:33:11.725 --> 00:33:15.082
+and that's what we've now used to scale to about 30 to 35K a
+
+654
+00:33:15.082 --> 00:33:17.416
+day on average, so, again,
+
+655
+00:33:18.015 --> 00:33:21.452
+what I was trying to get across before is, like, this trial structure is
+
+656
+00:33:21.452 --> 00:33:24.395
+perfect for if you're a beginner, even if, like I was saying about before
+
+657
+00:33:24.395 --> 00:33:26.851
+with Ben, uhm, the one example I gave, he was already at 30,
+
+658
+00:33:26.851 --> 00:33:29.531
+40K a month, he implemented the structure, now crushes it,
+
+659
+00:33:29.751 --> 00:33:32.621
+so, there's different forms that you can implement it,
+
+660
+00:33:32.621 --> 00:33:35.459
+uhm, yeah, there's different styles that you can implement it,
+
+661
+00:33:35.711 --> 00:33:38.295
+but if you're a beginner, you should definitely do the trial structure,
+
+662
+00:33:38.398 --> 00:33:41.577
+if you're 100K a month plus, you don't have to do the trial structure
+
+663
+00:33:41.577 --> 00:33:44.882
+if you don't want to, again, like, we've had tons of clients go far
+
+664
+00:33:44.882 --> 00:33:46.980
+beyond 100K a month for from the trial structure,
+
+665
+00:33:47.348 --> 00:33:49.667
+so, you definitely can, but you don't have to,
+
+666
+00:33:49.917 --> 00:33:52.234
+but, you know, and so if you don't want to,
+
+667
+00:33:52.234 --> 00:33:54.606
+you can do it in the way that we've done it, which is, uh,
+
+668
+00:33:54.616 --> 00:33:57.706
+almost like a more productized, scalable offer,
+
+669
+00:33:57.818 --> 00:34:01.288
+like, product almost, that's a lot lower price point,
+
+670
+00:34:01.485 --> 00:34:03.882
+but also there's a lot lower cogs on the back end, so it doesn't
+
+671
+00:34:03.882 --> 00:34:06.057
+cost as much to deliver, so you can charge more,
+
+672
+00:34:06.057 --> 00:34:08.552
+less, uhm, and then have that as,
+
+673
+00:34:08.552 --> 00:34:10.882
+like, the product one You that everyone buys,
+
+674
+00:34:11.318 --> 00:34:14.122
+and the delivery should be really scalable, because a lot more people are gonna
+
+675
+00:34:14.122 --> 00:34:15.684
+buy it, so you need to be able to deliver on it in a
+
+676
+00:34:15.684 --> 00:34:18.926
+lot more of a scalable fashion, and then you can use that as almost
+
+677
+00:34:18.926 --> 00:34:21.405
+like your crockpot to warm people up,
+
+678
+00:34:21.405 --> 00:34:24.758
+nurture people, build the trust, and then ascend them into,
+
+679
+00:34:24.758 --> 00:34:26.971
+in our case, like a higher ticket, done-for-you offer,
+
+680
+00:34:27.129 --> 00:34:29.359
+maybe a more custom offer, or whatever it may be.
+
+681
+00:34:29.443 --> 00:34:32.899
+It's far easier doing it that way than trying to sell the big custom,
+
+682
+00:34:32.940 --> 00:34:38.581
+done-for-you type offer. So,
+
+683
+00:34:38.581 --> 00:34:40.895
+if it doesn't, if there's any questions,
+
+684
+00:34:41.332 --> 00:34:43.613
+please ask in the group, because once you crack this,
+
+685
+00:34:43.613 --> 00:34:45.895
+and once we tailor it and tweak it for your offer, et cetera,
+
+686
+00:34:46.428 --> 00:34:50.165
+I promise you, like, this is gonna blow the doors off of your business,
+
+687
+00:34:50.165 --> 00:34:53.113
+like it did with us, it's every other client that we've implemented it with,
+
+688
+00:34:53.113 --> 00:34:55.170
+this has crushed it. Crushed it.
+
+689
+00:34:55.533 --> 00:34:58.021
+So, please, if you have questions,
+
+690
+00:34:58.021 --> 00:35:00.456
+if you need help setting it up, if you need help implementing it,
+
+691
+00:35:00.605 --> 00:35:02.896
+just reach out, we're here to support, and with that being said,
+
+692
+00:35:03.099 --> 00:35:04.111
+I will see you in the next training.

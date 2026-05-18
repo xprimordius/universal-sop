@@ -1,0 +1,6301 @@
+WEBVTT
+
+1
+00:00:00.115 --> 00:00:01.725
+This is gonna be the step-by-step on
+
+2
+00:00:01.725 --> 00:00:03.125
+scaling to a million a month.
+
+3
+00:00:03.225 --> 00:00:04.685
+So not only have we done this ourselves,
+
+4
+00:00:04.705 --> 00:00:06.405
+or we're very near that mark,
+
+5
+00:00:06.545 --> 00:00:09.245
+but also we have right now, I think 15, 20 clients
+
+6
+00:00:09.245 --> 00:00:10.805
+that we've helped scale past a million a month.
+
+7
+00:00:10.805 --> 00:00:13.925
+Obviously we've got probably 50, 60 clients
+
+8
+00:00:13.925 --> 00:00:15.605
+that we've scaled past a hundred thousand a month
+
+9
+00:00:15.705 --> 00:00:16.805
+and a multitude in between.
+
+10
+00:00:16.865 --> 00:00:18.365
+So we've done this a lot
+
+11
+00:00:18.505 --> 00:00:21.085
+and there really has become a framework
+
+12
+00:00:21.085 --> 00:00:22.445
+that I'm just like every single time,
+
+13
+00:00:22.465 --> 00:00:23.605
+if you just do these things,
+
+14
+00:00:23.995 --> 00:00:25.725
+it's gonna get you to that stage.
+
+15
+00:00:26.465 --> 00:00:27.605
+Um, there's a couple different
+
+16
+00:00:27.605 --> 00:00:28.725
+phases depending on where you're at.
+
+17
+00:00:28.725 --> 00:00:30.165
+You're gonna have like a different starting point,
+
+18
+00:00:30.225 --> 00:00:31.925
+but this is gonna be the end to end.
+
+19
+00:00:31.945 --> 00:00:33.165
+Now, before I get into it,
+
+20
+00:00:33.355 --> 00:00:36.645
+like pretty much every training in this course content, um,
+
+21
+00:00:36.865 --> 00:00:39.405
+I'm gonna be speaking in this video as if like,
+
+22
+00:00:39.505 --> 00:00:40.925
+you need to do this, you need to do that.
+
+23
+00:00:41.065 --> 00:00:42.725
+And part of it, yes, you do need to do,
+
+24
+00:00:42.745 --> 00:00:45.685
+but also I want you to realize that I want you to use Oz
+
+25
+00:00:45.685 --> 00:00:46.885
+during this process as well.
+
+26
+00:00:46.885 --> 00:00:49.325
+Obviously, half of this will be, will, will be doing
+
+27
+00:00:49.465 --> 00:00:52.285
+for you, you know, um, but just so you know, right?
+
+28
+00:00:52.295 --> 00:00:54.205
+Don't feel as though you watch this
+
+29
+00:00:54.205 --> 00:00:55.565
+and you're like, oh, these guys are just telling me
+
+30
+00:00:55.565 --> 00:00:56.605
+what to do and they're not even helping.
+
+31
+00:00:56.605 --> 00:00:59.085
+It's like, no, it's just the way I'll be going through it.
+
+32
+00:00:59.085 --> 00:01:00.565
+It's like this is what needs to almost,
+
+33
+00:01:00.715 --> 00:01:02.045
+this is what needs to get done.
+
+34
+00:01:02.385 --> 00:01:03.245
+If you are at this stage
+
+35
+00:01:03.265 --> 00:01:04.325
+now, how are you gonna get that done?
+
+36
+00:01:04.325 --> 00:01:05.765
+Well, part of it's obviously gonna be you.
+
+37
+00:01:06.025 --> 00:01:07.405
+The other part of it is gonna be us.
+
+38
+00:01:07.575 --> 00:01:10.325
+We'll be working with you, um, and growing with you. Okay?
+
+39
+00:01:10.325 --> 00:01:13.005
+So just wanted to get that out. Now let's just get into it.
+
+40
+00:01:13.005 --> 00:01:14.165
+Alright, so phase one,
+
+41
+00:01:15.155 --> 00:01:17.125
+it's basically zero to 40 care a month.
+
+42
+00:01:17.225 --> 00:01:19.285
+All right? Now the only focus, if you're at this stage,
+
+43
+00:01:19.345 --> 00:01:22.925
+the only focus during this initial stage is to figure out
+
+44
+00:01:23.035 --> 00:01:26.805
+what offer is gonna convert someone who has no idea
+
+45
+00:01:26.805 --> 00:01:28.845
+who you are into a high ticket client.
+
+46
+00:01:29.065 --> 00:01:31.085
+And that high ticket client is defined as somebody
+
+47
+00:01:31.105 --> 00:01:34.325
+who will pay three care a month, plus if you're an agency
+
+48
+00:01:34.425 --> 00:01:35.885
+or a service-based type business,
+
+49
+00:01:36.345 --> 00:01:39.405
+or four KA month plus if you're coaching or consulting,
+
+50
+00:01:39.405 --> 00:01:41.485
+or one time done with you type offers.
+
+51
+00:01:41.675 --> 00:01:44.445
+Okay? That is the first focus of,
+
+52
+00:01:44.705 --> 00:01:45.845
+uh, for, for you to achieve.
+
+53
+00:01:45.985 --> 00:01:47.485
+If you're at zero to 40 KA month,
+
+54
+00:01:47.875 --> 00:01:49.685
+what offer is gonna convert somebody who has no idea
+
+55
+00:01:49.685 --> 00:01:51.005
+who you are into a high ticket client?
+
+56
+00:01:51.005 --> 00:01:53.965
+If you can, if you can figure that out, again,
+
+57
+00:01:53.975 --> 00:01:55.685
+we've got trainings, we'll help you with this process.
+
+58
+00:01:55.785 --> 00:01:57.765
+But if you can figure that out during this stage,
+
+59
+00:01:58.505 --> 00:01:59.725
+it like the fact
+
+60
+00:01:59.725 --> 00:02:02.325
+that you're at maybe 20 KA month right now, doesn't matter.
+
+61
+00:02:02.625 --> 00:02:04.765
+The bigger focus is not to get to 40 KA month.
+
+62
+00:02:04.765 --> 00:02:07.365
+If you're at 20, the bigger focus is figure out that offer.
+
+63
+00:02:07.365 --> 00:02:08.525
+Because if you figure that out, you can get
+
+64
+00:02:08.525 --> 00:02:09.845
+to a hundred, you can get to 200.
+
+65
+00:02:10.035 --> 00:02:12.485
+This is how people have such quick growth.
+
+66
+00:02:12.835 --> 00:02:14.805
+It's because they find an offer that takes somebody
+
+67
+00:02:14.805 --> 00:02:17.365
+who has no idea who they are, a complete stranger,
+
+68
+00:02:17.625 --> 00:02:19.205
+and it makes them want to pay you.
+
+69
+00:02:19.225 --> 00:02:20.525
+It makes them want this offer.
+
+70
+00:02:20.795 --> 00:02:23.845
+This thing makes this stranger want to give you money.
+
+71
+00:02:24.115 --> 00:02:26.285
+That is the goal. It's zero to 40 KA month.
+
+72
+00:02:27.005 --> 00:02:28.805
+'cause as I say, that's gonna set the foundation
+
+73
+00:02:29.185 --> 00:02:31.085
+for the later scale, as you'll see here in a minute.
+
+74
+00:02:31.105 --> 00:02:33.325
+All right? So as I say, this is the easiest way to scale
+
+75
+00:02:33.325 --> 00:02:34.965
+and move fast to have an in-demand offer,
+
+76
+00:02:34.985 --> 00:02:36.965
+or in other words, to find product market fit.
+
+77
+00:02:36.985 --> 00:02:39.525
+Now, to use this to, to, um, create the offer,
+
+78
+00:02:39.525 --> 00:02:40.765
+obviously we've got trainings on this.
+
+79
+00:02:40.765 --> 00:02:42.245
+I'll tell you what specific trainings to go
+
+80
+00:02:42.245 --> 00:02:43.645
+through if you're in this phase here in a minute.
+
+81
+00:02:43.665 --> 00:02:46.805
+But the basic framework of the offer is niche metric,
+
+82
+00:02:46.825 --> 00:02:48.525
+volume, timeframe, guarantee.
+
+83
+00:02:48.525 --> 00:02:51.205
+So if you think about our offer 15 clients in the next, um,
+
+84
+00:02:51.705 --> 00:02:53.125
+30 days, or you don't pay, right?
+
+85
+00:02:53.125 --> 00:02:55.725
+So the niche marketing is about 25 KA month, right?
+
+86
+00:02:55.725 --> 00:02:57.325
+That's our niche metric.
+
+87
+00:02:57.325 --> 00:02:59.725
+15 clients, oh, clients is the metric
+
+88
+00:02:59.725 --> 00:03:01.205
+and the volume is 15 right?
+
+89
+00:03:01.475 --> 00:03:04.805
+Timeframe, next 30 days guarantee or you don't pay, right?
+
+90
+00:03:04.825 --> 00:03:05.925
+That's the very,
+
+91
+00:03:05.955 --> 00:03:08.405
+very basic high level overview of the offer framework.
+
+92
+00:03:08.505 --> 00:03:09.765
+But again, what's your offer? Trainings,
+
+93
+00:03:09.765 --> 00:03:10.205
+which I'll show you
+
+94
+00:03:10.205 --> 00:03:11.325
+here in a minute, which ones to go through.
+
+95
+00:03:11.625 --> 00:03:14.685
+Uh, if you need help on that right now, you,
+
+96
+00:03:14.875 --> 00:03:16.685
+this is important when you're starting out,
+
+97
+00:03:16.705 --> 00:03:18.765
+you can scale multiple offers, uh,
+
+98
+00:03:18.765 --> 00:03:20.845
+and just test which one is gonna be hitting the best,
+
+99
+00:03:21.065 --> 00:03:22.205
+and then just scale that.
+
+100
+00:03:22.415 --> 00:03:24.165
+Don't fall into paralysis by analysis.
+
+101
+00:03:24.165 --> 00:03:25.485
+Like a lot of people, a lot of the time,
+
+102
+00:03:25.485 --> 00:03:28.245
+if you're at 5, 10, 15 KA month, um, you're like,
+
+103
+00:03:28.245 --> 00:03:31.485
+you're trying to make everything perfect, do not think
+
+104
+00:03:31.485 --> 00:03:32.885
+that perfection is gonna be the
+
+105
+00:03:32.885 --> 00:03:33.925
+thing that's gonna get you to scale.
+
+106
+00:03:33.925 --> 00:03:36.525
+What's gonna get you to scale is action, not perfection.
+
+107
+00:03:36.715 --> 00:03:37.925
+It's really important you understand that.
+
+108
+00:03:37.925 --> 00:03:40.005
+So if you don't know which offer to run with,
+
+109
+00:03:40.005 --> 00:03:41.685
+or, you know, maybe you bring a couple different offers
+
+110
+00:03:41.685 --> 00:03:43.605
+to us and we're like, all of these could work, like,
+
+111
+00:03:43.605 --> 00:03:46.325
+there's not necessarily a best one to go
+
+112
+00:03:46.325 --> 00:03:48.405
+after, um, that's fine.
+
+113
+00:03:48.905 --> 00:03:50.245
+We can run multiple at once.
+
+114
+00:03:50.305 --> 00:03:52.045
+If you're starting out, obviously you don't wanna be doing
+
+115
+00:03:52.245 --> 00:03:54.125
+multiple offers and have multiple businesses at scale,
+
+116
+00:03:54.265 --> 00:03:57.485
+but if you're just starting out, we can just test, you know,
+
+117
+00:03:57.505 --> 00:03:59.125
+two or three different offers on the front end.
+
+118
+00:03:59.465 --> 00:04:01.165
+See which one's picking up the best response,
+
+119
+00:04:01.185 --> 00:04:03.445
+see which one's getting the most interest from people
+
+120
+00:04:03.465 --> 00:04:05.205
+who you know the most interest from strangers,
+
+121
+00:04:05.205 --> 00:04:06.405
+people who have no idea who you are.
+
+122
+00:04:06.665 --> 00:04:08.645
+And then once we go, okay, this one's performing the best,
+
+123
+00:04:08.705 --> 00:04:09.765
+we can just triple down into that.
+
+124
+00:04:10.015 --> 00:04:11.645
+Don't fall into paralysis by analysis.
+
+125
+00:04:11.665 --> 00:04:13.565
+The only way you're gonna be able to scale is
+
+126
+00:04:13.565 --> 00:04:15.765
+through massive action, right?
+
+127
+00:04:15.905 --> 00:04:18.405
+Not perfection. Perfection doesn't even exist, right?
+
+128
+00:04:18.705 --> 00:04:22.325
+Um, alright, so, um, once you've kind
+
+129
+00:04:22.325 --> 00:04:23.765
+of figured out the offer, you wanna ensure the offers
+
+130
+00:04:23.765 --> 00:04:26.245
+that you create are always built off the back
+
+131
+00:04:26.465 --> 00:04:28.045
+of the market's, preexisting desires
+
+132
+00:04:28.185 --> 00:04:30.885
+and not based on the, on the, on what you want to offer.
+
+133
+00:04:31.515 --> 00:04:34.205
+Okay? So for as a, as an example,
+
+134
+00:04:34.835 --> 00:04:37.965
+when I first started scale clients Doo, uh, probably
+
+135
+00:04:38.575 --> 00:04:41.285
+maybe 18 to 24 months ago at this point, I dunno exactly,
+
+136
+00:04:41.305 --> 00:04:42.525
+but roughly in that timeframe.
+
+137
+00:04:42.915 --> 00:04:44.685
+Initially this offer started off
+
+138
+00:04:44.745 --> 00:04:46.525
+as a pure coaching offer, okay?
+
+139
+00:04:46.745 --> 00:04:48.205
+So all we did was coaching
+
+140
+00:04:48.545 --> 00:04:51.685
+and it worked really well on my organic audience.
+
+141
+00:04:51.685 --> 00:04:53.405
+So I used to have AU, well, I still have the YouTube
+
+142
+00:04:53.405 --> 00:04:55.925
+channel, but I used to get all of our clients from YouTube
+
+143
+00:04:56.825 --> 00:04:58.365
+and, um, it was a coaching offer
+
+144
+00:04:58.385 --> 00:04:59.725
+and this offer did really, really well.
+
+145
+00:04:59.905 --> 00:05:02.125
+But I realized the scale, I had to crack the code on ads.
+
+146
+00:05:02.365 --> 00:05:03.965
+'cause, you know, organic just wasn't scalable.
+
+147
+00:05:04.385 --> 00:05:07.125
+And so, okay, I took the exact offer that we was,
+
+148
+00:05:07.125 --> 00:05:08.245
+that was working on organic.
+
+149
+00:05:08.405 --> 00:05:09.845
+I took it over to ads. Why?
+
+150
+00:05:09.845 --> 00:05:11.125
+Because it was working on organic.
+
+151
+00:05:11.185 --> 00:05:12.925
+Why wouldn't it work on ads? Well, it didn't,
+
+152
+00:05:13.265 --> 00:05:14.725
+and I was having sales calls.
+
+153
+00:05:14.885 --> 00:05:16.205
+'cause at the time, I was the one taking all the sales
+
+154
+00:05:16.205 --> 00:05:17.605
+calls, which is what I recommend for you
+
+155
+00:05:17.605 --> 00:05:18.685
+to do if you're starting out.
+
+156
+00:05:18.685 --> 00:05:22.045
+I'll get onto that in a minute. And I took it onto ads
+
+157
+00:05:22.185 --> 00:05:23.845
+and essentially nobody bought,
+
+158
+00:05:24.585 --> 00:05:28.525
+and every single person had the same reason why they didn't
+
+159
+00:05:28.525 --> 00:05:30.125
+buy, because everyone who didn't buy,
+
+160
+00:05:30.365 --> 00:05:31.685
+I asked them, well, what, what do you want?
+
+161
+00:05:31.685 --> 00:05:33.445
+Right? Because everyone always buys something.
+
+162
+00:05:33.585 --> 00:05:34.845
+Um, so if they don't buy your thing,
+
+163
+00:05:34.845 --> 00:05:36.005
+it's because you're not giving them what they want.
+
+164
+00:05:36.005 --> 00:05:37.525
+So just the easiest way
+
+165
+00:05:37.525 --> 00:05:38.685
+to figure out what does your market want?
+
+166
+00:05:38.685 --> 00:05:39.725
+Have a sales call with someone.
+
+167
+00:05:39.865 --> 00:05:42.005
+If they don't buy, ask them, well, what would make you buy?
+
+168
+00:05:42.035 --> 00:05:43.605
+What could I give you right now that would make you buy?
+
+169
+00:05:43.605 --> 00:05:45.645
+And they'll tell you, right? And I ask everyone
+
+170
+00:05:45.885 --> 00:05:46.965
+that, that question.
+
+171
+00:05:47.185 --> 00:05:48.365
+And every single person said,
+
+172
+00:05:48.525 --> 00:05:49.845
+I don't wanna know how to do this myself.
+
+173
+00:05:50.125 --> 00:05:51.165
+I just want somebody to run it.
+
+174
+00:05:51.485 --> 00:05:52.765
+Specifically referring to the ads, right?
+
+175
+00:05:53.445 --> 00:05:55.005
+I don't want to run my ads myself.
+
+176
+00:05:55.325 --> 00:05:56.805
+I would just want you to come in and run them for me.
+
+177
+00:05:56.845 --> 00:05:57.920
+I, I thought that's what you were gonna do.
+
+178
+00:05:57.920 --> 00:05:59.140
+I thought you were gonna run the ads for me.
+
+179
+00:06:00.085 --> 00:06:02.005
+Everyone said the same thing. And so at that time,
+
+180
+00:06:02.685 --> 00:06:04.725
+I did not want to be an agency
+
+181
+00:06:04.725 --> 00:06:06.685
+because in my mind back then,
+
+182
+00:06:07.235 --> 00:06:09.245
+naively I thought agencies didn't scale.
+
+183
+00:06:10.025 --> 00:06:11.165
+So I wanted to be a coaching offer.
+
+184
+00:06:11.365 --> 00:06:12.805
+'cause I knew coaching offers scaled.
+
+185
+00:06:13.025 --> 00:06:16.245
+And so I really was against, you know, building an agency,
+
+186
+00:06:16.375 --> 00:06:18.245
+doing one-on-one service, all that type of stuff.
+
+187
+00:06:18.665 --> 00:06:19.885
+Or in other words, I didn't want
+
+188
+00:06:19.885 --> 00:06:21.285
+to offer what the market wanted.
+
+189
+00:06:21.315 --> 00:06:23.165
+However, it was very clear to me
+
+190
+00:06:23.165 --> 00:06:25.205
+that everyone in the market wanted this particular thing,
+
+191
+00:06:25.205 --> 00:06:26.285
+which was a done for you service.
+
+192
+00:06:26.665 --> 00:06:28.325
+And so what I ended up doing
+
+193
+00:06:28.345 --> 00:06:29.445
+was building a done for you service.
+
+194
+00:06:29.545 --> 00:06:32.165
+And it was only by me building that done for you service.
+
+195
+00:06:32.355 --> 00:06:34.725
+That is the only reason why we then started to close
+
+196
+00:06:34.725 --> 00:06:36.325
+and started to really aggressively scale
+
+197
+00:06:36.325 --> 00:06:38.925
+because I gave the market what they wanted,
+
+198
+00:06:39.425 --> 00:06:40.485
+not what I wanted.
+
+199
+00:06:41.105 --> 00:06:42.605
+That's a really important distinction.
+
+200
+00:06:42.605 --> 00:06:45.365
+You wanna look at what's the market's preexisting
+
+201
+00:06:45.365 --> 00:06:46.725
+desires, what do they want?
+
+202
+00:06:46.875 --> 00:06:48.205
+Okay, this is what they want.
+
+203
+00:06:48.505 --> 00:06:50.725
+How can I make my fulfillment deliver that thing?
+
+204
+00:06:50.865 --> 00:06:52.445
+How can I change my fulfillment,
+
+205
+00:06:52.605 --> 00:06:54.365
+change my deliverables, change my service?
+
+206
+00:06:54.525 --> 00:06:55.845
+I mean, again, we went from a coaching
+
+207
+00:06:56.005 --> 00:06:57.245
+business to a done for you business.
+
+208
+00:06:57.245 --> 00:06:58.565
+That's a pretty drastic change.
+
+209
+00:06:58.705 --> 00:07:01.525
+But I just changed the backend to suit
+
+210
+00:07:01.525 --> 00:07:04.005
+what the market wanted as opposed to trying
+
+211
+00:07:04.005 --> 00:07:07.365
+to get the market to, um, suit what my offer wanted.
+
+212
+00:07:07.625 --> 00:07:10.325
+Uh, what what, sorry. Tried to get the market to want
+
+213
+00:07:10.795 --> 00:07:12.645
+what my services were.
+
+214
+00:07:12.885 --> 00:07:15.485
+I just changed my services to suit what the market wanted.
+
+215
+00:07:15.875 --> 00:07:17.805
+It's the easiest way to create the best offer.
+
+216
+00:07:17.805 --> 00:07:19.685
+Look at what the market wants and just give them that.
+
+217
+00:07:19.745 --> 00:07:20.845
+Change your deliverables.
+
+218
+00:07:20.845 --> 00:07:22.645
+Change your backend to just give what the market wants.
+
+219
+00:07:22.745 --> 00:07:23.885
+That's how you're gonna scale. All right?
+
+220
+00:07:23.905 --> 00:07:27.245
+So during this phase, um, once you've created the offer
+
+221
+00:07:27.245 --> 00:07:28.805
+and whatnot, and again, we're gonna be working
+
+222
+00:07:28.805 --> 00:07:30.765
+with you on this thing, just so you know, don't feel
+
+223
+00:07:30.765 --> 00:07:32.285
+as though this is all on you by any means, right?
+
+224
+00:07:32.505 --> 00:07:34.725
+But during this phase, your main focus needs
+
+225
+00:07:34.725 --> 00:07:37.445
+to be on generating sales calls and taking sales calls.
+
+226
+00:07:37.915 --> 00:07:39.845
+They're the only two things you should be focusing on.
+
+227
+00:07:40.065 --> 00:07:42.605
+If you're zero to 40 KA month, getting sales calls
+
+228
+00:07:43.105 --> 00:07:44.605
+and, uh, taking sales calls.
+
+229
+00:07:44.905 --> 00:07:46.765
+Now, the way you generate these sales calls is
+
+230
+00:07:46.765 --> 00:07:48.245
+through having the most attractive offer.
+
+231
+00:07:48.345 --> 00:07:50.205
+I'm running ads, which again, we do
+
+232
+00:07:50.205 --> 00:07:51.725
+that obviously entirely done for you, right?
+
+233
+00:07:51.725 --> 00:07:53.605
+You don't need to worry about generating sales calls.
+
+234
+00:07:54.225 --> 00:07:56.085
+But again, just more so from a business standpoint,
+
+235
+00:07:56.105 --> 00:07:58.285
+I'm saying you need to be focusing on generating
+
+236
+00:07:58.285 --> 00:07:59.965
+and closing, but more specifically,
+
+237
+00:08:00.085 --> 00:08:00.765
+'cause you're working with us,
+
+238
+00:08:00.935 --> 00:08:02.125
+we'll be generating them for you.
+
+239
+00:08:02.305 --> 00:08:03.965
+You just need to focus on closing them, right?
+
+240
+00:08:04.305 --> 00:08:07.125
+Um, now the ads will provide you with a consistent
+
+241
+00:08:07.125 --> 00:08:10.085
+and repeatable way to get sales calls every single day
+
+242
+00:08:10.085 --> 00:08:11.445
+that you are in complete control of,
+
+243
+00:08:11.495 --> 00:08:13.285
+which means it's also scalable, all right?
+
+244
+00:08:13.385 --> 00:08:16.405
+And again, that's why we push ads so much for our clients
+
+245
+00:08:16.405 --> 00:08:20.205
+because once we lock them in for you, it's consistent,
+
+246
+00:08:20.315 --> 00:08:22.565
+it's repeatable, and if you want more sales
+
+247
+00:08:22.565 --> 00:08:23.765
+calls, we just spend more.
+
+248
+00:08:23.765 --> 00:08:25.925
+It's like almost as easy as that.
+
+249
+00:08:25.965 --> 00:08:27.485
+I wish it was as easy as that. It's not.
+
+250
+00:08:27.585 --> 00:08:30.285
+But like that's what you get is a consistent, repeatable
+
+251
+00:08:30.285 --> 00:08:32.485
+and scalable way to get calls onto your calendar.
+
+252
+00:08:32.625 --> 00:08:35.965
+All right? Now, these two things, generating sales calls
+
+253
+00:08:36.105 --> 00:08:39.005
+and closing sales calls, these two things will get you
+
+254
+00:08:39.005 --> 00:08:40.005
+to 40 KA month roughly,
+
+255
+00:08:40.585 --> 00:08:43.245
+and we'll give you a base in which you can scale on.
+
+256
+00:08:43.315 --> 00:08:45.725
+This is important. If you're at 40 KA month
+
+257
+00:08:45.865 --> 00:08:48.245
+or a hundred KA month, even with referrals,
+
+258
+00:08:48.515 --> 00:08:50.325
+this approach is far better.
+
+259
+00:08:50.335 --> 00:08:54.365
+Being at 40 KA month is far superior than getting
+
+260
+00:08:54.365 --> 00:08:56.125
+to a hundred KA month with referrals,
+
+261
+00:08:56.235 --> 00:08:58.485
+because this will be a model you can actually scale.
+
+262
+00:08:58.705 --> 00:09:00.525
+If you get to a hundred KA month through referrals,
+
+263
+00:09:00.525 --> 00:09:03.365
+that's awesome, but you can't scale it.
+
+264
+00:09:03.505 --> 00:09:05.125
+And more importantly, it probably took you to get
+
+265
+00:09:05.125 --> 00:09:06.885
+to a hundred KA month purely through referrals.
+
+266
+00:09:07.285 --> 00:09:08.805
+Probably took you five or 10 years, right?
+
+267
+00:09:09.185 --> 00:09:11.925
+Um, what's much better is to get to 40 to 50 KA month
+
+268
+00:09:11.955 --> 00:09:15.925
+through, um, this model, with this model, um,
+
+269
+00:09:16.385 --> 00:09:19.365
+as if you, yeah, sorry, I read this wrong.
+
+270
+00:09:19.545 --> 00:09:21.725
+What's much better is to get to 40 to 50 KA month
+
+271
+00:09:21.725 --> 00:09:23.965
+with this particular model as opposed to a hundred KA month.
+
+272
+00:09:23.985 --> 00:09:26.525
+Get to 40 to 50 KA month with this model running ads
+
+273
+00:09:26.525 --> 00:09:27.725
+and closing those sales calls
+
+274
+00:09:27.725 --> 00:09:29.365
+that you're generating from the ads, right?
+
+275
+00:09:29.365 --> 00:09:32.525
+Get to 40, 50 KA month with that, which you will do.
+
+276
+00:09:32.905 --> 00:09:34.925
+Um, because then if you wanted,
+
+277
+00:09:35.185 --> 00:09:38.525
+you could hit a hundred K the next month if you are actually
+
+278
+00:09:38.545 --> 00:09:40.485
+in control of your acquisition, right?
+
+279
+00:09:40.485 --> 00:09:41.885
+If you are wanting to double your business,
+
+280
+00:09:41.885 --> 00:09:43.245
+you just need to double your ad spend.
+
+281
+00:09:43.545 --> 00:09:44.845
+That's all it comes down to.
+
+282
+00:09:44.845 --> 00:09:46.765
+When you get ads locked in with an offer
+
+283
+00:09:46.765 --> 00:09:49.405
+that converts strangers into high ticket clients,
+
+284
+00:09:49.755 --> 00:09:52.045
+it's the most powerful important
+
+285
+00:09:52.045 --> 00:09:53.245
+thing for you to be focusing on.
+
+286
+00:09:53.245 --> 00:09:55.165
+Again, if you're in this zero to 40 KA month range,
+
+287
+00:09:55.505 --> 00:09:58.325
+or even if you're at a hundred KA month right now with, uh,
+
+288
+00:09:58.325 --> 00:09:59.645
+your agency or coaching business
+
+289
+00:09:59.645 --> 00:10:01.405
+or whatever, if it's all three referrals,
+
+290
+00:10:01.545 --> 00:10:03.725
+what's also the most important thing you focus on right now
+
+291
+00:10:03.725 --> 00:10:05.445
+despite you're already at a hundred KA month, is
+
+292
+00:10:05.445 --> 00:10:08.525
+to get an offer that's working on ads and get that close.
+
+293
+00:10:08.745 --> 00:10:11.085
+You know, get that pipeline working, get that, um,
+
+294
+00:10:11.905 --> 00:10:13.965
+convey belt, working with your ads
+
+295
+00:10:14.105 --> 00:10:15.925
+and closing those deals, et cetera, right?
+
+296
+00:10:16.345 --> 00:10:20.005
+Um, so what's also high,
+
+297
+00:10:20.435 --> 00:10:22.405
+extremely important at this phase
+
+298
+00:10:23.145 --> 00:10:25.845
+and is, is that I highly recommend doing the sales calls
+
+299
+00:10:26.085 --> 00:10:28.405
+yourself in the beginning as the founder,
+
+300
+00:10:28.905 --> 00:10:32.525
+as there is literally nothing more important than you
+
+301
+00:10:32.525 --> 00:10:33.885
+generating, uh, sales calls
+
+302
+00:10:34.105 --> 00:10:35.805
+and taking them during this phase.
+
+303
+00:10:35.975 --> 00:10:38.965
+Right? Now, what oftentimes I hear clients say
+
+304
+00:10:38.985 --> 00:10:40.045
+is, I don't have the time.
+
+305
+00:10:40.605 --> 00:10:41.845
+I don't have the time to take sales calls,
+
+306
+00:10:41.945 --> 00:10:43.645
+but they're doing 30 KA month, right?
+
+307
+00:10:43.745 --> 00:10:45.245
+Or, you know, 'cause like I don't have time
+
+308
+00:10:45.245 --> 00:10:48.005
+to take sales calls, but we're also past 40 KA month, right?
+
+309
+00:10:48.265 --> 00:10:49.405
+So if you're in this stage
+
+310
+00:10:49.905 --> 00:10:51.645
+and you say you don't have time to take sales calls,
+
+311
+00:10:52.425 --> 00:10:55.245
+you need to restructure whatever it is that you're doing,
+
+312
+00:10:55.485 --> 00:10:58.085
+whatever's taking up your time, you need to restructure
+
+313
+00:10:58.505 --> 00:10:59.885
+and either delegate that
+
+314
+00:10:59.885 --> 00:11:01.605
+or just stop doing whatever it is that you are doing,
+
+315
+00:11:01.835 --> 00:11:04.845
+because that is, if, if you are choosing
+
+316
+00:11:04.865 --> 00:11:06.965
+to do something else other than taking sales calls,
+
+317
+00:11:07.145 --> 00:11:09.685
+you are actively choosing to lose money at this stage.
+
+318
+00:11:09.685 --> 00:11:11.965
+Because the most important, biggest focus
+
+319
+00:11:11.965 --> 00:11:14.085
+that you should have is taking sales calls.
+
+320
+00:11:14.245 --> 00:11:15.725
+'cause that's what's gonna give you the biggest return.
+
+321
+00:11:15.985 --> 00:11:17.965
+If you are, again, zero to 40 KA month,
+
+322
+00:11:18.025 --> 00:11:19.685
+you're focusing on the wrong things If you quote,
+
+323
+00:11:19.695 --> 00:11:21.605
+don't have time to take sales calls.
+
+324
+00:11:21.785 --> 00:11:23.165
+All right? So if that is you
+
+325
+00:11:23.505 --> 00:11:25.805
+and you don't know how to make more time for yourself
+
+326
+00:11:25.805 --> 00:11:26.805
+to be able to take these sales calls
+
+327
+00:11:26.805 --> 00:11:28.125
+during this phase, hit us up.
+
+328
+00:11:28.125 --> 00:11:29.885
+We can help you, you know, do like a time audit.
+
+329
+00:11:30.585 --> 00:11:33.325
+Go through where is your time actually going right now, um,
+
+330
+00:11:33.385 --> 00:11:35.085
+and how can we either again, delegate
+
+331
+00:11:35.085 --> 00:11:36.765
+or just remove entirely those things
+
+332
+00:11:36.765 --> 00:11:38.965
+that you're currently doing so that it frees up your time
+
+333
+00:11:38.965 --> 00:11:40.045
+to focus on sales calls.
+
+334
+00:11:40.285 --> 00:11:41.365
+'cause being a dead horse,
+
+335
+00:11:41.585 --> 00:11:43.125
+but this is all you need to focus on
+
+336
+00:11:43.265 --> 00:11:44.565
+to go from zero to 40 KA month.
+
+337
+00:11:44.565 --> 00:11:46.965
+And again, if you do these things you like 40 KA month,
+
+338
+00:11:47.265 --> 00:11:49.765
+you know, if you're at like, say 10 KA month, right now,
+
+339
+00:11:49.865 --> 00:11:51.805
+you're probably thinking 40 k is like your goal.
+
+340
+00:11:51.805 --> 00:11:53.330
+You're like, oh my God, this is such a big, big thing.
+
+341
+00:11:53.330 --> 00:11:54.350
+And I'm just talking about getting
+
+342
+00:11:54.350 --> 00:11:57.085
+to 40 KA month is just like, just hit 40 K, right?
+
+343
+00:11:57.085 --> 00:11:59.285
+It's not that hard. But if you do these things,
+
+344
+00:11:59.425 --> 00:12:00.725
+it really isn't that hard.
+
+345
+00:12:00.955 --> 00:12:03.725
+It's difficult to get to 40 KA month from 10 or whatever.
+
+346
+00:12:04.185 --> 00:12:06.685
+Uh, if you're only taking one sales call a month,
+
+347
+00:12:06.825 --> 00:12:08.325
+and then you've got a 30% close rate,
+
+348
+00:12:08.325 --> 00:12:09.845
+so you're closing one client every quarter, right?
+
+349
+00:12:09.845 --> 00:12:11.805
+Like that, yeah, it's gonna take you easy
+
+350
+00:12:11.825 --> 00:12:14.325
+to get 40 KA month, but if you have this, you'll be fine.
+
+351
+00:12:14.385 --> 00:12:18.565
+All right? So, uh, with fulfillment during phase one,
+
+352
+00:12:18.805 --> 00:12:20.485
+I recommend to also do this yourself
+
+353
+00:12:20.625 --> 00:12:22.525
+and potentially introduce a contractor
+
+354
+00:12:22.545 --> 00:12:23.805
+or a freelancer to help you.
+
+355
+00:12:24.325 --> 00:12:26.165
+Although you should be leading the fulfillment
+
+356
+00:12:26.305 --> 00:12:29.005
+and the freelancer or contractor should be helping you,
+
+357
+00:12:29.305 --> 00:12:31.285
+but you should be the one leading your fulfillment.
+
+358
+00:12:31.295 --> 00:12:33.405
+Again, if you're in zero to 40 KA month phase, right?
+
+359
+00:12:34.065 --> 00:12:35.965
+You need to be getting your hands dirty with fulfillment
+
+360
+00:12:35.965 --> 00:12:38.365
+as this is gonna be a huge advantage in the later process
+
+361
+00:12:38.785 --> 00:12:40.285
+or in the later phases I should say.
+
+362
+00:12:40.715 --> 00:12:42.965
+Alright, when we get deeper into fulfillment,
+
+363
+00:12:43.165 --> 00:12:45.525
+building out your team for, for fulfillment, it's gonna be
+
+364
+00:12:45.585 --> 00:12:47.325
+so much easier for you to do those things.
+
+365
+00:12:47.585 --> 00:12:49.565
+If in these early phases, you,
+
+366
+00:12:49.705 --> 00:12:51.685
+you are working in fulfillment, getting your hands dirty,
+
+367
+00:12:51.785 --> 00:12:53.685
+you know how to deliver results for clients,
+
+368
+00:12:53.985 --> 00:12:58.325
+you do not wanna, del you know, this is a huge big, uh,
+
+369
+00:12:58.325 --> 00:12:59.685
+misconception in the early phases.
+
+370
+00:12:59.685 --> 00:13:01.645
+You can just quote, delegate fulfillment to someone.
+
+371
+00:13:01.945 --> 00:13:03.605
+You then think nothing about fulfillment.
+
+372
+00:13:03.605 --> 00:13:06.165
+And this other person, whoever you hire, uh, for like,
+
+373
+00:13:06.625 --> 00:13:07.845
+you know, two KA month
+
+374
+00:13:08.745 --> 00:13:11.165
+is gonna run your entire fulfillment department for you,
+
+375
+00:13:11.185 --> 00:13:13.125
+handle it all, and it's all gonna be sweet.
+
+376
+00:13:13.465 --> 00:13:16.005
+It never works out. It sounds great in theory, in reality,
+
+377
+00:13:16.205 --> 00:13:18.365
+I wish that was the truth, but it's not.
+
+378
+00:13:18.745 --> 00:13:21.525
+It never works out. You have to go all in
+
+379
+00:13:21.955 --> 00:13:26.125
+with fulfillment in these early stages as as, as as, um,
+
+380
+00:13:26.425 --> 00:13:28.005
+as you need to as well with sales.
+
+381
+00:13:28.385 --> 00:13:29.605
+So again, fulfillment
+
+382
+00:13:29.605 --> 00:13:31.045
+and sales, you need to be doing the
+
+383
+00:13:31.045 --> 00:13:32.205
+thing in these early stages.
+
+384
+00:13:32.685 --> 00:13:33.765
+'cause again, the other thing is,
+
+385
+00:13:33.905 --> 00:13:35.645
+if you're at this stage, what else are you doing?
+
+386
+00:13:35.795 --> 00:13:37.045
+Like, there's nothing else for you
+
+387
+00:13:37.045 --> 00:13:38.685
+to be doing other than those two things, right?
+
+388
+00:13:39.425 --> 00:13:42.445
+So the outcome of phase one is, again, to create an offer
+
+389
+00:13:42.675 --> 00:13:45.245
+that strangers will pay you for and get to 40 KA month.
+
+390
+00:13:45.245 --> 00:13:46.525
+That is the outcome of phase one.
+
+391
+00:13:46.545 --> 00:13:48.165
+And then obviously, again, the fact
+
+392
+00:13:48.165 --> 00:13:49.685
+that you're gonna be closing clients means
+
+393
+00:13:49.685 --> 00:13:51.245
+that you're gonna have to obviously be, you know,
+
+394
+00:13:51.375 --> 00:13:53.405
+fulfilling on whatever it is that you're selling them on.
+
+395
+00:13:53.505 --> 00:13:56.165
+And so when you do get those closes, that's where you need
+
+396
+00:13:56.165 --> 00:13:57.445
+to also be in fulfillment.
+
+397
+00:13:57.545 --> 00:13:59.365
+And then again, you can have somebody helping you,
+
+398
+00:13:59.625 --> 00:14:01.485
+but you can't expect them to do the thing.
+
+399
+00:14:01.485 --> 00:14:03.205
+You gotta be doing the thing and then having
+
+400
+00:14:03.205 --> 00:14:04.245
+them help you in the backend.
+
+401
+00:14:04.385 --> 00:14:06.805
+All right? Um, now if you're in phase one,
+
+402
+00:14:06.805 --> 00:14:08.005
+here's the trainings that I recommend
+
+403
+00:14:08.005 --> 00:14:09.525
+to consume in order, all right?
+
+404
+00:14:09.525 --> 00:14:12.205
+So week wa uh, sorry, week zero watch
+
+405
+00:14:12.205 --> 00:14:13.925
+before your onboarding call that you need to go
+
+406
+00:14:13.925 --> 00:14:15.765
+through again, obviously before your onboarding call,
+
+407
+00:14:15.865 --> 00:14:17.405
+but also make sure that you're rewatching that,
+
+408
+00:14:17.485 --> 00:14:19.565
+'cause that's all of the stuff related to the offer, okay?
+
+409
+00:14:19.925 --> 00:14:22.565
+Creating your offer. Then also, you need to go
+
+410
+00:14:22.565 --> 00:14:24.645
+through week one foundations to a million a month,
+
+411
+00:14:24.645 --> 00:14:26.045
+which is this week that you're watching this video.
+
+412
+00:14:26.145 --> 00:14:29.205
+In week two, designing your front end client acquisition.
+
+413
+00:14:29.595 --> 00:14:32.765
+Week five, the Bulletproof sales process for any offer.
+
+414
+00:14:33.025 --> 00:14:34.645
+And then week three, designing
+
+415
+00:14:34.645 --> 00:14:35.725
+your front end client acquisition.
+
+416
+00:14:36.105 --> 00:14:40.525
+Oh, sorry, uh, let me change that. Okay?
+
+417
+00:14:40.645 --> 00:14:42.565
+I meant to say week three, designing your, uh,
+
+418
+00:14:42.725 --> 00:14:43.845
+scalable fulfillment conveyor belt.
+
+419
+00:14:43.905 --> 00:14:46.045
+All right? Um, they're the trainings to go
+
+420
+00:14:46.045 --> 00:14:47.565
+through if you're in phase one, it's quite a bit,
+
+421
+00:14:47.665 --> 00:14:49.645
+but again, this is gonna be what's gonna get you to,
+
+422
+00:14:49.705 --> 00:14:51.725
+you know, from zero to 40 KA month, right?
+
+423
+00:14:51.785 --> 00:14:53.285
+I'm probably past that to be honest. Alright?
+
+424
+00:14:53.285 --> 00:14:55.485
+So that's phase one. Phase two is 40 K to a hundred K.
+
+425
+00:14:55.505 --> 00:14:58.365
+So only enter phase two once you have an offer
+
+426
+00:14:58.365 --> 00:15:00.165
+that converts strangers into high ticket clients,
+
+427
+00:15:00.635 --> 00:15:01.965
+even if, right?
+
+428
+00:15:02.305 --> 00:15:04.365
+Um, you are at, oh, as I say here, right?
+
+429
+00:15:04.365 --> 00:15:06.285
+Again, if you don't have that offer, then you need
+
+430
+00:15:06.285 --> 00:15:09.125
+to revert back to phase one, even if you're doing 50
+
+431
+00:15:09.145 --> 00:15:11.485
+to a hundred KA month, because more specifically,
+
+432
+00:15:11.775 --> 00:15:14.725
+phase one is not necessarily about going from zero
+
+433
+00:15:14.745 --> 00:15:16.885
+to 40 K in terms of those specific revenue numbers.
+
+434
+00:15:17.145 --> 00:15:18.685
+What's more specific about phase one
+
+435
+00:15:18.785 --> 00:15:19.965
+is that you create the offer.
+
+436
+00:15:19.965 --> 00:15:21.325
+That is phase one, create the offer.
+
+437
+00:15:21.465 --> 00:15:22.805
+So again, if you've not created that offer,
+
+438
+00:15:22.805 --> 00:15:24.485
+don't go into phase two, even if you are
+
+439
+00:15:24.485 --> 00:15:25.525
+doing more than 40 KA month.
+
+440
+00:15:25.845 --> 00:15:27.285
+'cause if you don't have that offer, again,
+
+441
+00:15:27.355 --> 00:15:30.845
+that is the foundation of everything that's gonna, that's
+
+442
+00:15:30.845 --> 00:15:33.285
+to come essentially, and that's really, again, going, uh,
+
+443
+00:15:33.285 --> 00:15:34.805
+gonna get you to, uh, a million a month.
+
+444
+00:15:34.905 --> 00:15:37.405
+All right? So assuming you have the offer,
+
+445
+00:15:37.535 --> 00:15:39.645
+there are now three systems you need to build
+
+446
+00:15:39.645 --> 00:15:41.325
+that will take you to a hundred KA month.
+
+447
+00:15:41.625 --> 00:15:42.885
+Number one is a consistent,
+
+448
+00:15:42.885 --> 00:15:44.445
+repeatable way to generate sales calls.
+
+449
+00:15:44.585 --> 00:15:46.965
+All right? Now, obviously this is what you, uh, what
+
+450
+00:15:46.965 --> 00:15:49.085
+what we do for you and to scale, it's required.
+
+451
+00:15:49.265 --> 00:15:51.205
+And actually it's one of the most, IM like,
+
+452
+00:15:51.205 --> 00:15:54.245
+everything else will be non-existent if you don't have this
+
+453
+00:15:54.245 --> 00:15:56.485
+front end consistent, repeatable way
+
+454
+00:15:56.625 --> 00:15:58.005
+to generate sales calls.
+
+455
+00:15:58.225 --> 00:15:59.965
+And so this is why we do this done for you,
+
+456
+00:15:59.965 --> 00:16:01.845
+because we know if we handle it, it's gonna be covered.
+
+457
+00:16:02.025 --> 00:16:03.845
+And then by once it's covered,
+
+458
+00:16:04.745 --> 00:16:05.965
+that's when we can then help
+
+459
+00:16:05.965 --> 00:16:07.125
+you with all of these other things.
+
+460
+00:16:07.345 --> 00:16:10.605
+But if that front end volume isn't coming in consistently
+
+461
+00:16:10.605 --> 00:16:11.605
+every day, every month,
+
+462
+00:16:12.185 --> 00:16:13.925
+all the other stuff doesn't, doesn't matter.
+
+463
+00:16:14.025 --> 00:16:16.085
+That's why in a lot of instances, people do say
+
+464
+00:16:16.085 --> 00:16:19.285
+that marketing is one of the most important, um, uh, uh,
+
+465
+00:16:19.285 --> 00:16:22.045
+departments in any company, especially in our space, like in
+
+466
+00:16:22.555 --> 00:16:24.365
+SaaS and in product led companies.
+
+467
+00:16:24.365 --> 00:16:26.445
+Obviously the product is oftentimes the most important
+
+468
+00:16:26.445 --> 00:16:28.725
+thing, and the product is important in our industry as well.
+
+469
+00:16:28.905 --> 00:16:32.205
+But you can't really build a product that only grows by word
+
+470
+00:16:32.205 --> 00:16:33.885
+of mouth and referrals in our space,
+
+471
+00:16:33.885 --> 00:16:35.845
+like Hoose always talks about, you know,
+
+472
+00:16:35.865 --> 00:16:37.165
+the marketing should be done by the product,
+
+473
+00:16:37.465 --> 00:16:39.445
+yet he was still spending, you know,
+
+474
+00:16:39.445 --> 00:16:42.045
+millions a month on gym launch is at why.
+
+475
+00:16:42.045 --> 00:16:44.525
+Because in the coaching consulting agency space,
+
+476
+00:16:44.755 --> 00:16:47.325
+it's very difficult to scale only through word
+
+477
+00:16:47.325 --> 00:16:48.405
+of mouth and referrals.
+
+478
+00:16:48.405 --> 00:16:50.405
+Whereas if it's, you know, personal brand type stuff,
+
+479
+00:16:50.505 --> 00:16:51.885
+or if it's obviously a book
+
+480
+00:16:52.105 --> 00:16:54.405
+or, um, you know, any type of SaaS type product,
+
+481
+00:16:54.695 --> 00:16:57.605
+those can oftentimes be just marketed by the product.
+
+482
+00:16:57.675 --> 00:16:58.685
+Hopefully that makes sense.
+
+483
+00:16:59.345 --> 00:17:01.685
+So, um, again, we do this
+
+484
+00:17:01.685 --> 00:17:02.725
+for you, you don't need to worry about this.
+
+485
+00:17:02.825 --> 00:17:05.325
+Now, you must have though also a system slash a process to
+
+486
+00:17:05.325 --> 00:17:07.045
+where you can buy a qualified sales call
+
+487
+00:17:07.305 --> 00:17:08.405
+for a cost that makes sense.
+
+488
+00:17:08.405 --> 00:17:11.525
+Usually this is sub two 50 to 300 depending on your market
+
+489
+00:17:11.785 --> 00:17:13.725
+for context, just yesterday we went
+
+490
+00:17:13.725 --> 00:17:14.965
+through our November projections
+
+491
+00:17:15.345 --> 00:17:18.845
+and, uh, we realized in November we can spend up to
+
+492
+00:17:19.555 --> 00:17:24.245
+$450 USD on a booked call with,
+
+493
+00:17:24.305 --> 00:17:26.765
+and then with that, we can maintain if we,
+
+494
+00:17:26.905 --> 00:17:30.405
+if we have a 60% show rate, we'll do a million a month,
+
+495
+00:17:30.455 --> 00:17:32.125
+we'll do a million in, uh, in November.
+
+496
+00:17:32.425 --> 00:17:35.925
+If we maintain those numbers with our ad spend being,
+
+497
+00:17:36.205 --> 00:17:39.485
+I think it was, uh, 25% that we did a projection on.
+
+498
+00:17:39.865 --> 00:17:42.805
+So oftentimes you'll be shocked at
+
+499
+00:17:42.865 --> 00:17:44.325
+how much you can actually spend
+
+500
+00:17:44.325 --> 00:17:46.725
+to get a qualified call if you're closing.
+
+501
+00:17:46.725 --> 00:17:49.005
+That was assuming that was actually assuming our close rate
+
+502
+00:17:49.085 --> 00:17:51.765
+was 30%, which for us is like average, right?
+
+503
+00:17:51.765 --> 00:17:53.365
+Obviously, that's why we base it on the
+
+504
+00:17:53.365 --> 00:17:54.525
+projection is, is based on the average.
+
+505
+00:17:54.585 --> 00:17:56.845
+But my point is, is that you'll actually be shocked
+
+506
+00:17:56.845 --> 00:17:58.365
+oftentimes how much you can spend
+
+507
+00:17:58.505 --> 00:18:00.765
+to get a qualified sales call on the calendar if you are
+
+508
+00:18:01.005 --> 00:18:03.205
+actually closing at 30%, which is why closing
+
+509
+00:18:03.225 --> 00:18:05.365
+and getting your sales process dialed in is so important,
+
+510
+00:18:05.365 --> 00:18:06.845
+which is the next point here, all right?
+
+511
+00:18:07.185 --> 00:18:09.965
+Um, and yeah, again, it needs to be consistent.
+
+512
+00:18:09.965 --> 00:18:12.005
+Usually if you can buy calls at a price that makes sense,
+
+513
+00:18:12.005 --> 00:18:13.205
+then it is naturally consistent
+
+514
+00:18:13.405 --> 00:18:14.405
+'cause you just keep buying them and
+
+515
+00:18:14.475 --> 00:18:16.045
+that provides a consistent flow.
+
+516
+00:18:16.185 --> 00:18:17.525
+So again, though, we do this for you,
+
+517
+00:18:17.525 --> 00:18:19.245
+but I want you to realize like this is one
+
+518
+00:18:19.245 --> 00:18:20.445
+of the things that you need to scale.
+
+519
+00:18:20.705 --> 00:18:22.285
+And again, that's why we do that for you. All right?
+
+520
+00:18:22.465 --> 00:18:24.925
+So then the second thing is a consistent, repeatable way
+
+521
+00:18:24.925 --> 00:18:26.805
+to close sales calls into high ticket clients.
+
+522
+00:18:26.985 --> 00:18:28.965
+So this is essentially referring to a sales script
+
+523
+00:18:28.965 --> 00:18:30.325
+or a framework that, you know,
+
+524
+00:18:30.585 --> 00:18:33.525
+if you take a hundred qualified prospects through 30%
+
+525
+00:18:33.525 --> 00:18:35.125
+or more are gonna buy your high ticket offer.
+
+526
+00:18:35.215 --> 00:18:37.525
+Again, high ticket referring to three KA month,
+
+527
+00:18:37.525 --> 00:18:40.165
+plus if you're an agency and four KA month plus if coaching
+
+528
+00:18:40.165 --> 00:18:43.005
+or consulting, that is an important distinction, is
+
+529
+00:18:43.005 --> 00:18:45.725
+that you are actually able to close on a high amount.
+
+530
+00:18:45.905 --> 00:18:47.885
+So one of the reasons why we can do, you know,
+
+531
+00:18:47.925 --> 00:18:51.725
+a million a month off of very relatively small ad spend
+
+532
+00:18:51.725 --> 00:18:52.925
+and whatever else is
+
+533
+00:18:52.925 --> 00:18:55.045
+because we're taught like we're, we're high ticket, right?
+
+534
+00:18:55.185 --> 00:18:57.165
+You've gotta be able to close high ticket
+
+535
+00:18:57.165 --> 00:19:00.565
+because again, to scale pricing becomes extremely,
+
+536
+00:19:01.155 --> 00:19:02.165
+extremely important.
+
+537
+00:19:02.585 --> 00:19:05.125
+And oftentimes, if you are, you know,
+
+538
+00:19:05.125 --> 00:19:07.445
+you've got a good cost per call, you've got good, um,
+
+539
+00:19:07.495 --> 00:19:09.285
+close rates, but you're still not scaling.
+
+540
+00:19:09.475 --> 00:19:10.565
+Pricing is the thing.
+
+541
+00:19:10.665 --> 00:19:12.565
+You, if you change your prices, that's gonna,
+
+542
+00:19:12.665 --> 00:19:14.485
+that's gonna be the thing that's gonna allow you to scale.
+
+543
+00:19:14.545 --> 00:19:16.085
+So that's an important distinction, right?
+
+544
+00:19:16.515 --> 00:19:18.965
+That the sales script can close people on a high number.
+
+545
+00:19:19.125 --> 00:19:21.405
+'cause everyone could have a a hundred percent close rate,
+
+546
+00:19:21.825 --> 00:19:24.405
+uh, if they're closing at $10 a month, right?
+
+547
+00:19:24.425 --> 00:19:26.445
+You, you'd have a a hundred percent close rate of course,
+
+548
+00:19:26.745 --> 00:19:28.245
+but you're closing at $10 a month, right?
+
+549
+00:19:28.385 --> 00:19:30.645
+So you gotta be able to close at that high ticket, um,
+
+550
+00:19:30.825 --> 00:19:34.005
+and it needs to also be one process that you can use over
+
+551
+00:19:34.145 --> 00:19:35.965
+and over and over and over again, right?
+
+552
+00:19:35.965 --> 00:19:37.765
+In other words, it's repeatable, right?
+
+553
+00:19:37.765 --> 00:19:39.805
+That's why I say consistent and it's repeatable.
+
+554
+00:19:39.955 --> 00:19:42.605
+It's the same thing over and over and over again, right?
+
+555
+00:19:42.605 --> 00:19:44.925
+And it consistently produces the same result.
+
+556
+00:19:44.925 --> 00:19:46.605
+30% plus close close rate.
+
+557
+00:19:46.605 --> 00:19:48.405
+Referring to the sales process specifically,
+
+558
+00:19:48.745 --> 00:19:51.285
+the only way you can build one singular sales process
+
+559
+00:19:51.475 --> 00:19:54.325
+that closes every call you take at 30% is by talking
+
+560
+00:19:54.325 --> 00:19:56.165
+to the same person with the same set of problems.
+
+561
+00:19:56.215 --> 00:19:58.125
+Which is why in one of the following trainings
+
+562
+00:19:58.125 --> 00:20:01.045
+that in this week, we're gonna, we're, you know, I go
+
+563
+00:20:01.045 --> 00:20:02.965
+through productizing your AT coaching
+
+564
+00:20:02.965 --> 00:20:04.245
+or consulting business, you have
+
+565
+00:20:04.245 --> 00:20:05.485
+to productize to scale as well.
+
+566
+00:20:05.485 --> 00:20:08.365
+Right? Now, if you don't have this yet, that's exactly
+
+567
+00:20:08.365 --> 00:20:09.445
+what your focus needs to be on
+
+568
+00:20:09.445 --> 00:20:11.165
+during phase two as the founder, right?
+
+569
+00:20:11.465 --> 00:20:15.045
+Uh, is to basically build this consistent,
+
+570
+00:20:15.135 --> 00:20:16.765
+repeatable sales process, alright?
+
+571
+00:20:17.145 --> 00:20:20.485
+You'll also, to do this need, you'll have to,
+
+572
+00:20:20.625 --> 00:20:24.845
+and I want you to really badly lean on our sales department
+
+573
+00:20:24.865 --> 00:20:27.405
+to help you dial in this process, all right?
+
+574
+00:20:27.545 --> 00:20:30.885
+We have helped literally every one of ev, every single one
+
+575
+00:20:30.885 --> 00:20:32.605
+of our clients build their consistent
+
+576
+00:20:32.605 --> 00:20:34.685
+and repeat, uh, repeatable sales process
+
+577
+00:20:34.795 --> 00:20:37.965
+that converts their ideal prospects into clients at a
+
+578
+00:20:37.965 --> 00:20:39.445
+30% or higher rate.
+
+579
+00:20:39.945 --> 00:20:41.205
+You need to use us for that.
+
+580
+00:20:41.345 --> 00:20:43.525
+Now, the reason why I was almost gonna say every,
+
+581
+00:20:43.745 --> 00:20:47.445
+but, um, it's not every client that uses us.
+
+582
+00:20:47.625 --> 00:20:49.285
+And the reason why I know that is
+
+583
+00:20:49.285 --> 00:20:52.605
+because the clients who do use us, every single one
+
+584
+00:20:52.605 --> 00:20:56.845
+of them closes above 30% and generates that consistent
+
+585
+00:20:56.865 --> 00:20:58.405
+and repeatable way to close, um,
+
+586
+00:20:58.455 --> 00:21:00.245
+sales calls into high ticket clients.
+
+587
+00:21:00.395 --> 00:21:03.285
+They proj, they, they, they create that system, those
+
+588
+00:21:03.285 --> 00:21:04.725
+who use us, the few clients
+
+589
+00:21:04.945 --> 00:21:07.045
+who don't never create that system.
+
+590
+00:21:07.065 --> 00:21:08.325
+And so they never scale. I mean,
+
+591
+00:21:08.325 --> 00:21:10.125
+it's like black and white at this point.
+
+592
+00:21:10.145 --> 00:21:11.365
+We can just see it. Oh, they,
+
+593
+00:21:11.595 --> 00:21:12.805
+that client's struggling closing.
+
+594
+00:21:12.915 --> 00:21:14.525
+Yeah, but they've never jumped on a call with us.
+
+595
+00:21:14.525 --> 00:21:16.485
+They've never showed up to the weekly group coaching calls
+
+596
+00:21:16.555 --> 00:21:18.125
+that we have for sales specifically, right?
+
+597
+00:21:18.275 --> 00:21:19.525
+This client's crushing it.
+
+598
+00:21:19.635 --> 00:21:20.565
+Well, they're on every single
+
+599
+00:21:20.565 --> 00:21:21.805
+weekly group coaching call that we have.
+
+600
+00:21:21.915 --> 00:21:23.445
+They book a bunch of one-on-ones
+
+601
+00:21:23.445 --> 00:21:24.565
+with our sales department, right?
+
+602
+00:21:25.185 --> 00:21:27.485
+You gotta users us, you gotta lean on us for your sales.
+
+603
+00:21:27.485 --> 00:21:30.885
+Like just, if you take one thing from this training, it's
+
+604
+00:21:30.885 --> 00:21:32.165
+that please just use us
+
+605
+00:21:32.165 --> 00:21:33.365
+because it will be the thing
+
+606
+00:21:33.365 --> 00:21:34.565
+that's gonna allow you to scale.
+
+607
+00:21:34.745 --> 00:21:35.765
+All right? Um,
+
+608
+00:21:35.825 --> 00:21:38.005
+and again, I always recommend for you as the founder
+
+609
+00:21:38.025 --> 00:21:39.765
+or the co-founder, uh, uh,
+
+610
+00:21:39.765 --> 00:21:42.965
+to be building this out initially in the earlier phases.
+
+611
+00:21:42.965 --> 00:21:45.445
+All right? Many clients think that getting a closer is best
+
+612
+00:21:45.515 --> 00:21:46.725
+when they can't close themselves.
+
+613
+00:21:46.905 --> 00:21:49.565
+But the issue is closers operate best when they join an
+
+614
+00:21:49.565 --> 00:21:51.245
+offer that already has results,
+
+615
+00:21:51.275 --> 00:21:52.805
+already has a proven track record,
+
+616
+00:21:52.905 --> 00:21:55.125
+and most importantly, already has a sales process
+
+617
+00:21:55.355 --> 00:21:58.085
+that has been battle tested and is proven to convert.
+
+618
+00:21:58.265 --> 00:22:00.485
+And in those closers, just come in and rinse
+
+619
+00:22:00.485 --> 00:22:02.045
+and repeat that consistent
+
+620
+00:22:02.045 --> 00:22:04.765
+and repeatable sales process that's already been proven.
+
+621
+00:22:05.025 --> 00:22:08.005
+You as the founder or the co-founder, need to build
+
+622
+00:22:08.005 --> 00:22:09.925
+that proven process and you need to work
+
+623
+00:22:09.925 --> 00:22:11.765
+with us on building that proven process.
+
+624
+00:22:12.115 --> 00:22:14.645
+Then once we've built it, then you can hire a closer
+
+625
+00:22:14.745 --> 00:22:16.485
+and then just give them that proven process.
+
+626
+00:22:17.265 --> 00:22:19.085
+Or in other words, when I say proven process,
+
+627
+00:22:19.225 --> 00:22:21.045
+I'm more specifically I'm referring to the script.
+
+628
+00:22:21.715 --> 00:22:24.045
+Give them that script, just hand it over to them
+
+629
+00:22:24.145 --> 00:22:25.125
+and then they just start reading
+
+630
+00:22:25.145 --> 00:22:26.365
+the script that it's been proven.
+
+631
+00:22:26.745 --> 00:22:29.045
+And guess what? They start closing every single time.
+
+632
+00:22:29.045 --> 00:22:30.725
+A closer doesn't work out. It's usually
+
+633
+00:22:30.725 --> 00:22:33.165
+because of one of two things, either number one, um,
+
+634
+00:22:33.275 --> 00:22:35.085
+there's, again, nothing's been proven,
+
+635
+00:22:35.345 --> 00:22:37.885
+or number two, there's not enough volume.
+
+636
+00:22:37.885 --> 00:22:40.085
+They're the two common, most common reasons why closer
+
+637
+00:22:40.085 --> 00:22:43.485
+doesn't work out, not, uh, um, using a proven process.
+
+638
+00:22:44.065 --> 00:22:45.765
+You know, the founder or the whoever hires them,
+
+639
+00:22:45.765 --> 00:22:47.325
+expects them to just build everything for them.
+
+640
+00:22:47.325 --> 00:22:48.885
+And it's just like, that's just never gonna work.
+
+641
+00:22:49.225 --> 00:22:50.325
+And then number two,
+
+642
+00:22:50.325 --> 00:22:51.685
+as I say, you just don't give them enough volume.
+
+643
+00:22:51.715 --> 00:22:52.885
+Well, because we're running your ads,
+
+644
+00:22:53.055 --> 00:22:54.285
+we'll be giving them enough volume,
+
+645
+00:22:54.505 --> 00:22:56.485
+but you need to give them that proven process.
+
+646
+00:22:56.865 --> 00:22:59.005
+All right? So that's the second one.
+
+647
+00:22:59.375 --> 00:23:00.365
+First one, consistent,
+
+648
+00:23:00.365 --> 00:23:01.805
+repeatable way to generate sales calls.
+
+649
+00:23:01.905 --> 00:23:03.885
+Second system you need to build is a consistent
+
+650
+00:23:03.885 --> 00:23:05.365
+and repeatable way to close sales
+
+651
+00:23:05.365 --> 00:23:06.445
+calls into high ticket clients.
+
+652
+00:23:07.105 --> 00:23:08.925
+And the third is a consistent
+
+653
+00:23:08.925 --> 00:23:11.125
+and repeatable way to deliver client results.
+
+654
+00:23:11.305 --> 00:23:12.525
+So similar to the sales process,
+
+655
+00:23:12.585 --> 00:23:13.965
+we also wanna build a consistent
+
+656
+00:23:13.985 --> 00:23:16.085
+and repeatable fulfillment process to
+
+657
+00:23:16.085 --> 00:23:18.445
+where you essentially create a fulfillment conveyor belt.
+
+658
+00:23:18.505 --> 00:23:21.165
+In other words, every time you close a new client, you know,
+
+659
+00:23:21.215 --> 00:23:23.605
+there are a certain set of hoops or pillars
+
+660
+00:23:23.605 --> 00:23:26.085
+or whatever you wanna call it that they need to go through.
+
+661
+00:23:27.385 --> 00:23:29.365
+And once they get through the quote last hoop,
+
+662
+00:23:29.795 --> 00:23:33.525
+they get the result similar to a, uh, um, conveyor belt.
+
+663
+00:23:33.585 --> 00:23:36.325
+All right? Now the way I built our fulfillment conveyor belt
+
+664
+00:23:36.545 --> 00:23:40.005
+is through constant product service, feedback, results,
+
+665
+00:23:40.315 --> 00:23:42.405
+refunds, iteration, feedback loop.
+
+666
+00:23:42.435 --> 00:23:44.205
+What does that refer to? Or just literally,
+
+667
+00:23:44.465 --> 00:23:45.685
+we had clients come on,
+
+668
+00:23:46.395 --> 00:23:48.405
+some clients got results, other clients didn't.
+
+669
+00:23:48.505 --> 00:23:49.765
+So the clients that obviously didn't,
+
+670
+00:23:49.765 --> 00:23:51.045
+we looked at why didn't this, what, you know,
+
+671
+00:23:51.135 --> 00:23:52.845
+where did this, um, veer off track?
+
+672
+00:23:53.035 --> 00:23:54.365
+What did we do differently to the
+
+673
+00:23:54.365 --> 00:23:55.405
+clients that did get results?
+
+674
+00:23:55.665 --> 00:23:57.125
+Um, you know, what was their feedback?
+
+675
+00:23:57.125 --> 00:23:58.325
+What was their experience like with us?
+
+676
+00:23:58.325 --> 00:23:59.285
+What did they say that, you
+
+677
+00:23:59.285 --> 00:24:00.325
+know, they would've preferred us to do?
+
+678
+00:24:00.465 --> 00:24:03.325
+Not do, do more of, do less of all of this stuff,
+
+679
+00:24:03.395 --> 00:24:05.805
+this iteration, it was a constant daily
+
+680
+00:24:06.325 --> 00:24:08.805
+feedback iteration loop that we went through, right?
+
+681
+00:24:08.945 --> 00:24:11.805
+As I say here, for all of literally all of 2022,
+
+682
+00:24:12.065 --> 00:24:14.245
+the entire year of 2022, me
+
+683
+00:24:14.245 --> 00:24:16.565
+and our first account manager had a daily call
+
+684
+00:24:16.705 --> 00:24:19.725
+and we literally went through every single client account
+
+685
+00:24:20.025 --> 00:24:22.205
+and looked at resorts and client messages
+
+686
+00:24:22.465 --> 00:24:24.365
+and looked at what's working and what's not,
+
+687
+00:24:24.465 --> 00:24:25.765
+and continue to optimize
+
+688
+00:24:25.765 --> 00:24:27.165
+and iterate our fulfillment process
+
+689
+00:24:27.495 --> 00:24:30.245
+until we built a fulfillment conveyor belt, until we built,
+
+690
+00:24:30.245 --> 00:24:32.365
+in other words, a process to where we know, okay,
+
+691
+00:24:32.385 --> 00:24:34.445
+if they do this, they do this, they do this, they do this,
+
+692
+00:24:34.445 --> 00:24:35.685
+they're gonna be happy, number one,
+
+693
+00:24:35.685 --> 00:24:36.525
+they're gonna have a good experience
+
+694
+00:24:36.545 --> 00:24:37.605
+and they're gonna get the results.
+
+695
+00:24:37.905 --> 00:24:40.645
+We spent the entire year just doing that.
+
+696
+00:24:41.225 --> 00:24:42.365
+Now, I'm not saying you are gonna have
+
+697
+00:24:42.365 --> 00:24:43.365
+to do the the same thing.
+
+698
+00:24:43.645 --> 00:24:45.005
+I think we did a lot of things wrong.
+
+699
+00:24:45.005 --> 00:24:46.085
+We could have done a lot of things better.
+
+700
+00:24:46.105 --> 00:24:47.645
+And because we now have that experience,
+
+701
+00:24:47.865 --> 00:24:49.125
+you basically have that experience.
+
+702
+00:24:49.285 --> 00:24:50.765
+'cause we can just tell you what works and what doesn't.
+
+703
+00:24:50.825 --> 00:24:55.325
+But you do need to commit to that feedback iteration process
+
+704
+00:24:55.435 --> 00:24:57.565
+because that is what's gonna allow you to build
+
+705
+00:24:57.565 --> 00:24:58.645
+that fulfillment conveyor belt.
+
+706
+00:24:58.645 --> 00:25:01.445
+Which again, all of these things are like little, uh,
+
+707
+00:25:01.635 --> 00:25:05.165
+foundations that are required in order for you to have here
+
+708
+00:25:05.425 --> 00:25:06.685
+so that you can scale to here.
+
+709
+00:25:06.715 --> 00:25:07.885
+Does that make sense? And
+
+710
+00:25:07.885 --> 00:25:10.725
+so the only way you can build a true, um, uh,
+
+711
+00:25:10.725 --> 00:25:13.485
+you can truly build a fulfillment conveyor belt is
+
+712
+00:25:13.485 --> 00:25:16.005
+by having the same client come to you with the same set
+
+713
+00:25:16.005 --> 00:25:18.205
+of problems who need the same set of solutions.
+
+714
+00:25:18.275 --> 00:25:20.005
+This is why we want to niche down on the front end
+
+715
+00:25:20.005 --> 00:25:22.485
+and create a specific offer for a specific person.
+
+716
+00:25:22.875 --> 00:25:24.085
+This is also really important
+
+717
+00:25:24.285 --> 00:25:27.245
+'cause you can't build a conveyor belt that does this, this,
+
+718
+00:25:27.305 --> 00:25:29.645
+and this just over and over and over again.
+
+719
+00:25:29.785 --> 00:25:31.925
+If there's different clients coming in on the front end
+
+720
+00:25:32.065 --> 00:25:34.445
+who don't, not everyone needs this, this, and this.
+
+721
+00:25:35.005 --> 00:25:36.165
+Somebody needs something over here and
+
+722
+00:25:36.165 --> 00:25:37.245
+that over there and that over there.
+
+723
+00:25:37.385 --> 00:25:40.085
+You can't build a productized process if
+
+724
+00:25:40.085 --> 00:25:41.285
+that's your reality.
+
+725
+00:25:41.315 --> 00:25:43.445
+However, you can build something
+
+726
+00:25:43.445 --> 00:25:45.445
+where it just delivers 1, 2, 3 things,
+
+727
+00:25:45.725 --> 00:25:47.885
+whatever those three things are, if it's the same person
+
+728
+00:25:47.885 --> 00:25:49.045
+coming in every single time
+
+729
+00:25:49.305 --> 00:25:51.325
+who need the same things every single time.
+
+730
+00:25:51.325 --> 00:25:53.165
+So then can just build that, uh, conveyor belt.
+
+731
+00:25:53.395 --> 00:25:55.525
+I've got a whole section that dives into this idea
+
+732
+00:25:55.525 --> 00:25:57.845
+and how to build this for your agency or coaching business.
+
+733
+00:25:57.845 --> 00:26:00.125
+So don't worry too much if it's a little confusing right
+
+734
+00:26:00.125 --> 00:26:02.605
+now, but again, just so you know, this is what needs
+
+735
+00:26:02.605 --> 00:26:05.485
+to happen at this stage of 40 to a hundred KA month.
+
+736
+00:26:05.485 --> 00:26:09.965
+Alright? Um, uh, now during phase two,
+
+737
+00:26:09.965 --> 00:26:12.205
+you simply need to start taking note of what is working
+
+738
+00:26:12.225 --> 00:26:13.525
+for clients and what isn't
+
+739
+00:26:13.525 --> 00:26:16.045
+and start to build out your conveyor ba uh,
+
+740
+00:26:16.305 --> 00:26:17.485
+um, your conveyor belt.
+
+741
+00:26:17.485 --> 00:26:19.205
+Alright? Don't get overwhelmed though,
+
+742
+00:26:19.365 --> 00:26:21.405
+'cause it does seem like a lot, and it is a lot.
+
+743
+00:26:21.405 --> 00:26:23.725
+And you've gotta realize like this is again, what you need
+
+744
+00:26:23.725 --> 00:26:25.885
+to get to a million a month, like eight figures,
+
+745
+00:26:25.905 --> 00:26:27.205
+10 million a year, 12 million a year.
+
+746
+00:26:27.205 --> 00:26:28.885
+Like, you know, there's gonna be some work
+
+747
+00:26:28.885 --> 00:26:29.925
+that's gonna go into it, right?
+
+748
+00:26:30.345 --> 00:26:35.085
+Um, so it, it is a lot. But don't get overwhelmed, right?
+
+749
+00:26:35.085 --> 00:26:36.685
+This, I, I don't want you to get overwhelmed.
+
+750
+00:26:36.945 --> 00:26:39.325
+Um, rather just realize that you're, you're, you're starting
+
+751
+00:26:39.325 --> 00:26:41.805
+that process and you're starting the process required,
+
+752
+00:26:41.945 --> 00:26:44.685
+or you're starting to go down the path required to scale.
+
+753
+00:26:44.985 --> 00:26:47.605
+All right? Um, so I just wanna make that clear now
+
+754
+00:26:47.605 --> 00:26:48.765
+as a, just a quick recap.
+
+755
+00:26:48.765 --> 00:26:50.805
+During phase two, you should have your day split up
+
+756
+00:26:50.805 --> 00:26:52.085
+between sales and fulfillment
+
+757
+00:26:52.185 --> 00:26:54.485
+as your marketing will obviously be completely hands off.
+
+758
+00:26:54.625 --> 00:26:55.605
+We are running that for you. So you
+
+759
+00:26:55.605 --> 00:26:56.685
+don't need to worry about your marketing.
+
+760
+00:26:57.025 --> 00:27:00.445
+Um, but you do need to be conscious of your sales
+
+761
+00:27:00.445 --> 00:27:02.685
+and your fulfillment and you wanna split your day up based
+
+762
+00:27:02.685 --> 00:27:03.925
+on sales and fulfillment.
+
+763
+00:27:04.065 --> 00:27:06.725
+So usually clients during phase two get hung up on specifics
+
+764
+00:27:06.725 --> 00:27:09.005
+around their website or their logo or their branding
+
+765
+00:27:09.025 --> 00:27:11.005
+or you know, just don't be this person.
+
+766
+00:27:11.025 --> 00:27:14.085
+Please don't be this person because none of that matters.
+
+767
+00:27:14.425 --> 00:27:16.165
+All that matters is what I'm going through in this training.
+
+768
+00:27:16.165 --> 00:27:18.445
+And honestly, if you're doing anything outside of
+
+769
+00:27:18.445 --> 00:27:19.485
+what I'm going through in this training,
+
+770
+00:27:19.825 --> 00:27:20.845
+you're just wasting time
+
+771
+00:27:20.845 --> 00:27:23.405
+because nothing else outside of this training matters.
+
+772
+00:27:23.515 --> 00:27:25.525
+It's just what I'm talking about here is
+
+773
+00:27:25.585 --> 00:27:26.685
+all you should be focusing on.
+
+774
+00:27:26.945 --> 00:27:30.165
+And if you just do this for even three months,
+
+775
+00:27:30.195 --> 00:27:31.525
+just commit to it for three months.
+
+776
+00:27:31.585 --> 00:27:33.365
+What's your results at the end of the three months, right?
+
+777
+00:27:33.545 --> 00:27:34.925
+So again, you could split your day up,
+
+778
+00:27:34.955 --> 00:27:37.125
+however works best for you, it really doesn't matter.
+
+779
+00:27:37.195 --> 00:27:39.645
+However, if you wanna know what I did when I was going
+
+780
+00:27:39.645 --> 00:27:42.085
+through this phase, uh, I did the following.
+
+781
+00:27:42.145 --> 00:27:45.165
+So 5:00 AM to 11:00 AM I took sales calls, partly
+
+782
+00:27:45.165 --> 00:27:46.405
+because I'm in Australia
+
+783
+00:27:46.625 --> 00:27:49.365
+and all of our sales calls, um, are, you know, like US,
+
+784
+00:27:49.705 --> 00:27:51.725
+uk you know, I had a couple of Australians,
+
+785
+00:27:51.725 --> 00:27:52.605
+but you know what I mean, like it's,
+
+786
+00:27:52.625 --> 00:27:53.685
+so, it's in different countries.
+
+787
+00:27:53.685 --> 00:27:55.845
+So the time zones are, it is like very morning heavy.
+
+788
+00:27:56.265 --> 00:27:58.605
+Um, and I'm also a morning person, so I,
+
+789
+00:27:58.685 --> 00:28:00.125
+I just did this 'cause that's what worked for me.
+
+790
+00:28:00.385 --> 00:28:03.525
+Um, but yeah, 5:00 AM to 11:00 AM What I did was sales calls
+
+791
+00:28:03.545 --> 00:28:05.645
+and I really focused on building out the consistent
+
+792
+00:28:05.645 --> 00:28:08.125
+and repeatable sales script and, uh, framework, right?
+
+793
+00:28:08.425 --> 00:28:10.325
+And so I was taking sales calls,
+
+794
+00:28:10.325 --> 00:28:12.005
+getting feedback on the sales script, on
+
+795
+00:28:12.005 --> 00:28:13.325
+what people wanted again, on the product
+
+796
+00:28:13.545 --> 00:28:16.245
+or more specifically on the offer and the deliverables.
+
+797
+00:28:16.385 --> 00:28:18.485
+Um, and then I was tweaking it, okay, maybe I'll do this.
+
+798
+00:28:18.485 --> 00:28:20.045
+That's when also I changed from
+
+799
+00:28:20.045 --> 00:28:21.325
+the coaching to the done for you.
+
+800
+00:28:21.545 --> 00:28:24.925
+Um, those tweaks slowly, slowly, slowly was the,
+
+801
+00:28:25.125 --> 00:28:26.245
+I was like bang straight away.
+
+802
+00:28:26.245 --> 00:28:27.965
+We then went from like a 5% close rate
+
+803
+00:28:27.965 --> 00:28:29.125
+to like a 30% close rate, right?
+
+804
+00:28:29.185 --> 00:28:31.165
+So that's what you need to be focusing on in the
+
+805
+00:28:31.165 --> 00:28:32.245
+first half of your day.
+
+806
+00:28:32.875 --> 00:28:34.605
+Then in the second half
+
+807
+00:28:34.605 --> 00:28:36.125
+or vice versa, whatever works best for you.
+
+808
+00:28:36.315 --> 00:28:39.125
+What I then did though was 12:00 PM to like, say 5:00 PM
+
+809
+00:28:39.145 --> 00:28:40.885
+or so, I was all in on fulfillment,
+
+810
+00:28:41.445 --> 00:28:43.885
+specifically focusing on building a repeatable delivery
+
+811
+00:28:43.885 --> 00:28:45.925
+process and building a healthy client retention,
+
+812
+00:28:45.925 --> 00:28:47.045
+which is typically made up
+
+813
+00:28:47.045 --> 00:28:48.325
+of client results and client experience.
+
+814
+00:28:48.355 --> 00:28:49.405
+I've got entire trainings on this,
+
+815
+00:28:49.405 --> 00:28:50.765
+so don't worry about the specifics here.
+
+816
+00:28:51.425 --> 00:28:53.805
+Um, but that's what I did. That was why I was jumping on the
+
+817
+00:28:53.805 --> 00:28:54.845
+call with our first account manager
+
+818
+00:28:54.945 --> 00:28:56.525
+and we was going through every single client account,
+
+819
+00:28:56.685 --> 00:28:58.685
+figuring out what's working, what's not, what do we need
+
+820
+00:28:58.685 --> 00:29:00.005
+to do more of, less of, et cetera.
+
+821
+00:29:00.005 --> 00:29:01.205
+What's the feedback this client gave?
+
+822
+00:29:01.225 --> 00:29:02.925
+Why did they give that? How do we change our process
+
+823
+00:29:02.985 --> 00:29:04.605
+to be able to better deliver next time?
+
+824
+00:29:04.745 --> 00:29:05.925
+All that type of stuff. That's
+
+825
+00:29:05.925 --> 00:29:07.565
+what I was focusing on in the second half of my day
+
+826
+00:29:07.585 --> 00:29:08.645
+and that was my entire day.
+
+827
+00:29:08.695 --> 00:29:10.765
+Sales and fulfillment. That was it. Okay?
+
+828
+00:29:10.945 --> 00:29:13.525
+And then again, that doing that was
+
+829
+00:29:13.525 --> 00:29:14.725
+what got us to a hundred KA month.
+
+830
+00:29:14.725 --> 00:29:16.245
+It was a lot of work, but like that's what got us
+
+831
+00:29:16.245 --> 00:29:17.285
+to a hundred KA month, right?
+
+832
+00:29:17.905 --> 00:29:19.725
+And that's again, specifically the outcome
+
+833
+00:29:19.905 --> 00:29:21.925
+of phase two 40 K to a hundred KA month, right?
+
+834
+00:29:22.545 --> 00:29:24.365
+Um, so if, if you're in phase two,
+
+835
+00:29:24.365 --> 00:29:25.525
+here's the trainings I recommend for you
+
+836
+00:29:25.525 --> 00:29:27.885
+to consume in order number one foundation
+
+837
+00:29:27.885 --> 00:29:29.405
+to a million a month, again, which is
+
+838
+00:29:29.405 --> 00:29:30.525
+obviously the week you're in.
+
+839
+00:29:31.145 --> 00:29:32.685
+Uh, number two is week five,
+
+840
+00:29:32.785 --> 00:29:34.645
+the bulletproof sales process for any offer.
+
+841
+00:29:35.185 --> 00:29:37.165
+And, uh, number three is week three,
+
+842
+00:29:37.715 --> 00:29:39.325
+designing your fulfillment conveyor belt.
+
+843
+00:29:39.355 --> 00:29:41.085
+This is where I go a lot deeper into building, building
+
+844
+00:29:41.085 --> 00:29:43.005
+that fulfillment, uh, conveyor belt, right?
+
+845
+00:29:43.145 --> 00:29:47.125
+That's scalable and um, uh, it, it allows you to build
+
+846
+00:29:47.125 --> 00:29:49.045
+that consistent and repeatable process that works
+
+847
+00:29:49.045 --> 00:29:50.805
+for every single client, every single time.
+
+848
+00:29:50.805 --> 00:29:52.805
+Alright? So that's phase two.
+
+849
+00:29:52.805 --> 00:29:55.445
+Phase three is a hundred KA month to 250 KA month.
+
+850
+00:29:55.445 --> 00:29:58.005
+So I call this productizing. This phase is productizing.
+
+851
+00:29:58.545 --> 00:30:00.485
+So to make something productized
+
+852
+00:30:00.555 --> 00:30:02.005
+basically means to make it scalable.
+
+853
+00:30:02.345 --> 00:30:04.565
+And if you've successfully completed phases one
+
+854
+00:30:04.565 --> 00:30:06.325
+and two, that means you have a consistent
+
+855
+00:30:06.325 --> 00:30:07.765
+and repeatable way to close clients.
+
+856
+00:30:08.585 --> 00:30:10.805
+You know, if a qualified prospect joins a sales call,
+
+857
+00:30:10.905 --> 00:30:12.085
+you can close 'em at 30%
+
+858
+00:30:12.085 --> 00:30:13.645
+with a specific sales script or process.
+
+859
+00:30:14.065 --> 00:30:16.245
+And secondly, you've built a consistent
+
+860
+00:30:16.265 --> 00:30:17.965
+and repeatable way to fulfill on clients.
+
+861
+00:30:18.225 --> 00:30:20.805
+You know, if you close a qualified client, uh, you need
+
+862
+00:30:20.805 --> 00:30:22.725
+to take them through X hoops, whatever those are,
+
+863
+00:30:23.625 --> 00:30:26.045
+or milestones or activation points, whatever you wanna refer
+
+864
+00:30:26.045 --> 00:30:28.725
+to 'em as, and they will receive the result that they paid
+
+865
+00:30:28.785 --> 00:30:30.605
+for by the end of that process, they take 'em
+
+866
+00:30:30.605 --> 00:30:33.285
+through 10 activation points, five activation, uh,
+
+867
+00:30:33.285 --> 00:30:35.685
+activation points, these specific seven activation
+
+868
+00:30:35.685 --> 00:30:36.845
+points, whatever that is for you.
+
+869
+00:30:37.025 --> 00:30:38.365
+And by the end of that, they get
+
+870
+00:30:38.365 --> 00:30:39.405
+the result every single time.
+
+871
+00:30:39.425 --> 00:30:40.885
+And again, if you don't have that process,
+
+872
+00:30:41.335 --> 00:30:42.445
+don't move on to phase three.
+
+873
+00:30:43.245 --> 00:30:44.805
+Continue iterating on phase two.
+
+874
+00:30:44.945 --> 00:30:47.405
+And obviously again, you can use those Lean on us a lot
+
+875
+00:30:47.405 --> 00:30:49.405
+to help you with this stuff 'cause we've done it ourselves.
+
+876
+00:30:49.425 --> 00:30:50.765
+We do it for all of our clients so we can
+
+877
+00:30:50.925 --> 00:30:51.965
+a hundred percent help you with this stuff.
+
+878
+00:30:52.385 --> 00:30:56.165
+Um, but if you've done that in phase two, now what we need
+
+879
+00:30:56.165 --> 00:30:58.845
+to do in phase three is we need to create a consistent,
+
+880
+00:30:58.845 --> 00:31:03.205
+repeatable, and scalable way to close clients, a consistent,
+
+881
+00:31:03.205 --> 00:31:05.845
+repeatable and scalable way to fulfill on clients.
+
+882
+00:31:06.515 --> 00:31:08.205
+Okay? So phase three is about productizing,
+
+883
+00:31:08.305 --> 00:31:09.965
+and again, productizing basically
+
+884
+00:31:09.965 --> 00:31:11.005
+means to make something scalable.
+
+885
+00:31:11.065 --> 00:31:13.165
+And that's what all phase three is focused on.
+
+886
+00:31:13.625 --> 00:31:16.965
+So you will find yourself most likely stretched thin at this
+
+887
+00:31:16.965 --> 00:31:19.525
+phase and feeling as though everything is on the verge
+
+888
+00:31:19.525 --> 00:31:22.005
+of breaking or maybe it's starting to break.
+
+889
+00:31:22.385 --> 00:31:24.445
+And this is totally normal. This is part of the process.
+
+890
+00:31:24.585 --> 00:31:27.485
+You need to realize, you've gotta have your systems
+
+891
+00:31:27.585 --> 00:31:29.685
+and whatnot break in order to scale.
+
+892
+00:31:29.825 --> 00:31:31.405
+And I know that kind of sounds counterintuitive,
+
+893
+00:31:31.505 --> 00:31:33.485
+but just realize that if this start
+
+894
+00:31:33.505 --> 00:31:36.805
+or if you feel like everything's just ab everything feels
+
+895
+00:31:36.805 --> 00:31:39.525
+really fragile, it's like it's about to break
+
+896
+00:31:39.665 --> 00:31:41.725
+or again, maybe it's starting to break, it's totally normal.
+
+897
+00:31:41.725 --> 00:31:43.685
+This is part of the process and that really should show you
+
+898
+00:31:43.685 --> 00:31:45.045
+that now you're in phase three, right?
+
+899
+00:31:45.465 --> 00:31:47.645
+Um, hence why the outcome of phase three is
+
+900
+00:31:47.645 --> 00:31:49.485
+to make your cons, is to make your consistent
+
+901
+00:31:49.485 --> 00:31:51.365
+and repeatable processes scalable.
+
+902
+00:31:51.395 --> 00:31:54.765
+Alright? So the following are interchangeable, uh, in terms
+
+903
+00:31:54.765 --> 00:31:57.005
+of which you do first, you could productize sales
+
+904
+00:31:57.105 --> 00:31:59.725
+or you could productize fulfillment first or second.
+
+905
+00:31:59.785 --> 00:32:01.165
+It doesn't really matter which one you do.
+
+906
+00:32:01.315 --> 00:32:03.405
+What matters is that you only do one at a time
+
+907
+00:32:03.405 --> 00:32:05.805
+because doing both is gonna be difficult and it won't work.
+
+908
+00:32:05.985 --> 00:32:09.005
+So just do one and then do the next one.
+
+909
+00:32:09.025 --> 00:32:11.245
+And which one you do is completely dependent on you.
+
+910
+00:32:11.245 --> 00:32:12.725
+I'll give you some pointers here in a minute.
+
+911
+00:32:12.745 --> 00:32:15.005
+But one of the things you need to productize is sales.
+
+912
+00:32:15.005 --> 00:32:17.125
+Alright? Whether you do this first or second.
+
+913
+00:32:17.145 --> 00:32:18.205
+So now that you have a consistent
+
+914
+00:32:18.205 --> 00:32:20.885
+and repeatable sales process, you can now hire a closer
+
+915
+00:32:21.185 --> 00:32:23.725
+and install them into an already proven system.
+
+916
+00:32:23.945 --> 00:32:26.165
+The biggest pitfall I see here is clients thinking they can
+
+917
+00:32:26.165 --> 00:32:27.685
+give us, give someone a script
+
+918
+00:32:28.065 --> 00:32:30.605
+and they perfectly implement it and start closing, right?
+
+919
+00:32:30.875 --> 00:32:33.325
+This isn't the case. And so at this stage, uh,
+
+920
+00:32:33.585 --> 00:32:35.965
+so this stage requires you to hire the right person
+
+921
+00:32:36.265 --> 00:32:38.165
+and obviously we can help you if you need, uh,
+
+922
+00:32:38.165 --> 00:32:40.765
+we can help you, uh, get a closer if you need to.
+
+923
+00:32:41.865 --> 00:32:43.765
+You then need to onboard them correctly.
+
+924
+00:32:44.385 --> 00:32:47.005
+You then need to ramp them effectively and efficiently
+
+925
+00:32:47.345 --> 00:32:49.445
+and also have a daily meeting cadence.
+
+926
+00:32:50.145 --> 00:32:52.285
+So now what your focus switches from,
+
+927
+00:32:52.285 --> 00:32:53.325
+and I think I mentioned this in a minute,
+
+928
+00:32:53.325 --> 00:32:55.685
+but your focus now switches from doing the thing.
+
+929
+00:32:56.105 --> 00:32:57.245
+So in, in other words,
+
+930
+00:32:57.325 --> 00:32:58.725
+before you was taking the sales calls,
+
+931
+00:32:58.745 --> 00:33:00.565
+you was doing the thing, you was doing the sales calls.
+
+932
+00:33:01.105 --> 00:33:03.085
+Now your focus doesn't necessarily mean
+
+933
+00:33:03.085 --> 00:33:04.085
+to say you don't focus on
+
+934
+00:33:04.085 --> 00:33:05.205
+sales anymore 'cause you've gotta close.
+
+935
+00:33:05.225 --> 00:33:06.525
+You don't need to worry about it. No, no.
+
+936
+00:33:06.625 --> 00:33:09.245
+That's not what happens. What happens is you change your
+
+937
+00:33:09.245 --> 00:33:10.405
+focus from doing the thing
+
+938
+00:33:10.745 --> 00:33:12.925
+to focusing on the person who does the thing.
+
+939
+00:33:13.625 --> 00:33:15.925
+That's the switch that you have at this stage.
+
+940
+00:33:16.745 --> 00:33:19.925
+And so, again, the biggest pitfall I see every single time
+
+941
+00:33:20.265 --> 00:33:22.605
+is founders don't set up their team for success.
+
+942
+00:33:22.745 --> 00:33:24.165
+In other words, they might hire a closer,
+
+943
+00:33:24.225 --> 00:33:25.285
+and again, they'll just say, yep,
+
+944
+00:33:25.435 --> 00:33:27.045
+even if they've built the proven process,
+
+945
+00:33:27.225 --> 00:33:29.885
+the proven sales script that converts prospects,
+
+946
+00:33:29.905 --> 00:33:31.045
+if you just give that to someone
+
+947
+00:33:31.045 --> 00:33:32.485
+and just go, yep, run with it, there you go.
+
+948
+00:33:32.595 --> 00:33:34.325
+Done. And don't give them anything else.
+
+949
+00:33:34.495 --> 00:33:36.565
+Don't give them any feedback, don't give them any coaching.
+
+950
+00:33:36.745 --> 00:33:37.925
+You don't onboard them correctly,
+
+951
+00:33:37.925 --> 00:33:38.925
+you don't ramp them properly
+
+952
+00:33:39.265 --> 00:33:41.045
+or do any of those things that are required.
+
+953
+00:33:41.115 --> 00:33:42.245
+They're never gonna work out
+
+954
+00:33:42.245 --> 00:33:43.405
+even if you have the proven system.
+
+955
+00:33:43.425 --> 00:33:45.205
+So again, now your mindset's gotta shift
+
+956
+00:33:45.205 --> 00:33:47.445
+to these things here, onboarding them correctly,
+
+957
+00:33:48.355 --> 00:33:50.965
+just big picture, setting them up for success.
+
+958
+00:33:51.395 --> 00:33:52.925
+That is what your focus should become,
+
+959
+00:33:53.315 --> 00:33:54.925
+setting your team up for success.
+
+960
+00:33:55.265 --> 00:33:56.925
+So that's the first thing. Productizing sales.
+
+961
+00:33:57.105 --> 00:33:59.285
+And then the second thing is productizing fulfillment.
+
+962
+00:33:59.285 --> 00:34:01.165
+So similar to sales, you now need
+
+963
+00:34:01.165 --> 00:34:03.325
+to start hiring your first or second.
+
+964
+00:34:03.945 --> 00:34:06.485
+If you hired someone in first in in phase one account
+
+965
+00:34:06.485 --> 00:34:09.245
+manager to facilitate the fulfillment conveyor with clients.
+
+966
+00:34:09.545 --> 00:34:10.605
+Now these account managers,
+
+967
+00:34:10.605 --> 00:34:12.805
+unlike the first hire, will be self-sufficient.
+
+968
+00:34:12.805 --> 00:34:14.565
+So quickly on this, when I say about, you know,
+
+969
+00:34:14.565 --> 00:34:16.605
+if you hired someone in phase one, I'm referring
+
+970
+00:34:16.605 --> 00:34:18.365
+to like the, the VA or the, you know,
+
+971
+00:34:18.365 --> 00:34:20.405
+the contractor type person to help you
+
+972
+00:34:20.405 --> 00:34:22.085
+with fulfillment that you hired back then, right?
+
+973
+00:34:22.305 --> 00:34:24.765
+If you did hire someone, now this first hire as well,
+
+974
+00:34:24.765 --> 00:34:27.605
+that the one that you made in phase one, um, the, the,
+
+975
+00:34:27.605 --> 00:34:29.605
+the hire you make in phase one to help with fulfillment,
+
+976
+00:34:29.605 --> 00:34:32.885
+it's usually gonna end up being your account manager or lead
+
+977
+00:34:33.185 --> 00:34:35.325
+or they usually churn and you rehire.
+
+978
+00:34:35.985 --> 00:34:37.405
+So it's kind of weird how that plays out.
+
+979
+00:34:37.425 --> 00:34:38.765
+Our first account manager we've ever,
+
+980
+00:34:38.825 --> 00:34:41.325
+we ever hired is actually now our account manager lead.
+
+981
+00:34:41.585 --> 00:34:44.045
+Um, but what I also see sometimes you might make
+
+982
+00:34:44.045 --> 00:34:46.565
+that first hire and at the time they were good
+
+983
+00:34:46.865 --> 00:34:48.685
+but they just weren't able to keep up
+
+984
+00:34:48.765 --> 00:34:49.845
+with the growth of the company.
+
+985
+00:34:50.065 --> 00:34:52.525
+And so they just become not good
+
+986
+00:34:52.525 --> 00:34:53.725
+enough to be able to stay on the team.
+
+987
+00:34:53.725 --> 00:34:55.405
+And so they churn and you gotta rehire.
+
+988
+00:34:55.405 --> 00:34:56.925
+So it just kind of depends on who you hire.
+
+989
+00:34:56.975 --> 00:34:58.325
+Again, either situation is fine,
+
+990
+00:34:58.435 --> 00:34:59.725
+it's just normally one or the other.
+
+991
+00:34:59.795 --> 00:35:01.765
+From what I've seen, it's like one extreme to the other.
+
+992
+00:35:01.765 --> 00:35:04.445
+They become the one who manages fulfillment eventually,
+
+993
+00:35:04.445 --> 00:35:06.045
+which is one of the later phases here.
+
+994
+00:35:06.225 --> 00:35:08.965
+Or as I say, they just don't keep up and you gotta churn
+
+995
+00:35:08.965 --> 00:35:11.085
+and rehire whichever one is totally fine.
+
+996
+00:35:11.785 --> 00:35:14.325
+But again, what you now wanna look at hiring is an account
+
+997
+00:35:14.325 --> 00:35:16.445
+manager who will be self-sufficient
+
+998
+00:35:16.985 --> 00:35:20.365
+and run, you know, handle clients for you in a way.
+
+999
+00:35:20.545 --> 00:35:23.085
+Now say, uh, same as sales, you can't hire someone
+
+1000
+00:35:23.145 --> 00:35:25.685
+and expect them to perform perfectly without any,
+
+1001
+00:35:26.225 --> 00:35:27.525
+um, any input from you.
+
+1002
+00:35:27.625 --> 00:35:28.885
+So again, at this point you need
+
+1003
+00:35:28.885 --> 00:35:30.125
+to focus on hiring the right person,
+
+1004
+00:35:30.335 --> 00:35:32.805
+onboarding them correctly, ramp them effectively
+
+1005
+00:35:32.805 --> 00:35:34.605
+and efficiently, and have a daily meeting.
+
+1006
+00:35:34.605 --> 00:35:37.005
+Cadence. Exactly the same as sales. Same thing.
+
+1007
+00:35:37.465 --> 00:35:40.405
+Now what's important to note is, again,
+
+1008
+00:35:40.525 --> 00:35:41.885
+I would not do these simultaneously.
+
+1009
+00:35:42.125 --> 00:35:43.605
+I would not try and hire out sales
+
+1010
+00:35:43.825 --> 00:35:46.285
+and hire out fulfillment, both at the same time.
+
+1011
+00:35:46.765 --> 00:35:49.245
+I would recommend for you to hire, um, hire
+
+1012
+00:35:49.305 --> 00:35:52.445
+for whichever department is the most efficient slash dialed
+
+1013
+00:35:52.445 --> 00:35:55.845
+in and just whichever you like doing least.
+
+1014
+00:35:55.905 --> 00:36:00.285
+So like initially when I was, um, when I was uh, you know,
+
+1015
+00:36:00.285 --> 00:36:02.125
+in this phase I hide out sales
+
+1016
+00:36:02.155 --> 00:36:03.685
+because I had that down packed.
+
+1017
+00:36:03.785 --> 00:36:06.485
+It was working. I'm also not much of a people's person.
+
+1018
+00:36:06.585 --> 00:36:08.045
+So I just, you know, I didn't really
+
+1019
+00:36:08.045 --> 00:36:09.125
+like sales to be honest.
+
+1020
+00:36:09.345 --> 00:36:10.765
+Um, but I did it 'cause I knew I had to,
+
+1021
+00:36:11.105 --> 00:36:12.285
+but I wasn't a fan of it.
+
+1022
+00:36:12.545 --> 00:36:15.205
+And so, um, uh, but, but it was working
+
+1023
+00:36:15.345 --> 00:36:17.605
+and it was like, it was fulfillment.
+
+1024
+00:36:17.605 --> 00:36:18.965
+There was problems with fulfillment,
+
+1025
+00:36:18.965 --> 00:36:20.565
+whereas sales, there was no real problem.
+
+1026
+00:36:20.625 --> 00:36:21.765
+So I hired that out first
+
+1027
+00:36:21.965 --> 00:36:23.405
+'cause it was easy to hand over to someone.
+
+1028
+00:36:23.705 --> 00:36:26.205
+Um, it was easy for me to manage that person 'cause I did it
+
+1029
+00:36:26.205 --> 00:36:27.485
+and I had it working really, really well.
+
+1030
+00:36:27.625 --> 00:36:29.685
+And then again, that freed up time for me
+
+1031
+00:36:29.685 --> 00:36:32.005
+to then focus more on fulfillment, which was more
+
+1032
+00:36:32.005 --> 00:36:33.125
+of a problem department.
+
+1033
+00:36:33.225 --> 00:36:34.605
+But for you, if it was the inverse,
+
+1034
+00:36:34.705 --> 00:36:35.725
+you don't like fulfillment
+
+1035
+00:36:35.785 --> 00:36:37.565
+and it's kind of running relatively smoothly
+
+1036
+00:36:38.425 --> 00:36:40.485
+and you prefer sales, you wanna be closing all day,
+
+1037
+00:36:40.595 --> 00:36:41.805
+then that's also sick.
+
+1038
+00:36:41.805 --> 00:36:44.085
+Perfect, just higher out fulfillment
+
+1039
+00:36:44.105 --> 00:36:45.205
+and focus on sales, right?
+
+1040
+00:36:45.505 --> 00:36:48.165
+Um, this will allow you to get, um, this will allow you
+
+1041
+00:36:48.165 --> 00:36:50.125
+to get one off your plate, which frees up time to be able
+
+1042
+00:36:50.125 --> 00:36:51.805
+to go deeper into the other department.
+
+1043
+00:36:51.985 --> 00:36:53.765
+Now once the initial department you hire for is run,
+
+1044
+00:36:53.765 --> 00:36:56.085
+running smoothly, then you can hire out the second.
+
+1045
+00:36:56.305 --> 00:36:59.325
+So again, for context, I brought on a closer, uh,
+
+1046
+00:36:59.325 --> 00:37:01.605
+went all in on fulfillment, uh,
+
+1047
+00:37:01.665 --> 00:37:03.925
+and then yeah, over the following few months, I slowly hired
+
+1048
+00:37:03.925 --> 00:37:05.485
+for fulfill, um, I, yeah,
+
+1049
+00:37:05.485 --> 00:37:06.805
+slowly hired out for, for fulfillment.
+
+1050
+00:37:06.805 --> 00:37:09.085
+Right? Now, the big outcome for phase three should be
+
+1051
+00:37:09.085 --> 00:37:12.765
+to have both sales and, uh, fulfillment performing at
+
+1052
+00:37:12.905 --> 00:37:16.925
+or above KPI, without you needing to be as involved
+
+1053
+00:37:17.265 --> 00:37:18.645
+as you were in phase one
+
+1054
+00:37:18.645 --> 00:37:20.325
+and two, pretty much what I just said
+
+1055
+00:37:20.325 --> 00:37:22.285
+before, you're still gonna be involved,
+
+1056
+00:37:22.285 --> 00:37:25.045
+however, you shouldn't be doing the work itself.
+
+1057
+00:37:25.425 --> 00:37:27.285
+So taking a sales call, speaking with the clients,
+
+1058
+00:37:27.315 --> 00:37:29.885
+running the ads, or building the websites, et cetera,
+
+1059
+00:37:30.065 --> 00:37:31.645
+you should, when I say running the ads
+
+1060
+00:37:31.645 --> 00:37:33.445
+or building the websites, I mean, if that's what you was
+
+1061
+00:37:33.445 --> 00:37:35.885
+to do for your clients, like from a fulfillment standpoint,
+
+1062
+00:37:36.145 --> 00:37:38.085
+you shouldn't be doing those things anymore, right?
+
+1063
+00:37:38.425 --> 00:37:40.005
+Uh, but you're still gonna be
+
+1064
+00:37:40.125 --> 00:37:41.245
+involved in sales and fulfillment.
+
+1065
+00:37:41.245 --> 00:37:42.485
+You're just gonna be focusing on the people
+
+1066
+00:37:42.665 --> 00:37:45.445
+who now do these things, if that makes sense.
+
+1067
+00:37:46.105 --> 00:37:49.685
+And so that structure will allow you to get to 250 KA month.
+
+1068
+00:37:49.795 --> 00:37:52.045
+Okay? So here's the trainings I recommend to, uh,
+
+1069
+00:37:52.045 --> 00:37:53.485
+consume for phase three.
+
+1070
+00:37:53.745 --> 00:37:56.205
+If you're in phase three, in order week six,
+
+1071
+00:37:56.205 --> 00:37:57.765
+company wide recruitment and onboarding
+
+1072
+00:37:57.985 --> 00:37:59.845
+and week seven, uh, building
+
+1073
+00:37:59.865 --> 00:38:03.605
+and leading your sales department and or week eight building
+
+1074
+00:38:03.605 --> 00:38:05.165
+and leading your fulfillment department.
+
+1075
+00:38:05.285 --> 00:38:08.485
+So obviously, which, uh, which one you do, uh,
+
+1076
+00:38:08.485 --> 00:38:10.005
+which one you decide to hire for first
+
+1077
+00:38:10.665 --> 00:38:12.525
+is gonna be dependent on which week you watch.
+
+1078
+00:38:12.525 --> 00:38:14.805
+So if you hire out for sales f uh, sorry, for, for
+
+1079
+00:38:14.865 --> 00:38:17.525
+for fulfillment first you'll watch, you'll watch week eight,
+
+1080
+00:38:17.795 --> 00:38:19.245
+week week six, then week eight,
+
+1081
+00:38:19.275 --> 00:38:21.365
+then week seven 'cause you'll do sales last.
+
+1082
+00:38:21.425 --> 00:38:23.085
+If you do vice versa, you watch week six,
+
+1083
+00:38:23.085 --> 00:38:24.725
+then week seven, then week eight.
+
+1084
+00:38:24.725 --> 00:38:28.205
+Hopefully that makes sense. So that's phase three.
+
+1085
+00:38:28.385 --> 00:38:31.925
+And again, I know I'm going quite just rushing, not rushing,
+
+1086
+00:38:31.925 --> 00:38:33.245
+but like kind of just touching on these
+
+1087
+00:38:33.245 --> 00:38:34.565
+concepts quite lightly.
+
+1088
+00:38:34.785 --> 00:38:36.405
+Um, but just realize like
+
+1089
+00:38:36.405 --> 00:38:37.645
+this has giving you the high level.
+
+1090
+00:38:37.645 --> 00:38:39.685
+Then these trainings that I'm giving you are gonna give you
+
+1091
+00:38:39.685 --> 00:38:42.725
+all the specifics on how to hire, you know, and, and lead
+
+1092
+00:38:42.745 --> 00:38:44.165
+and manage and onboard effectively
+
+1093
+00:38:44.165 --> 00:38:46.485
+and how to do all of the specifics around each phase.
+
+1094
+00:38:47.075 --> 00:38:48.405
+That brings us into phase four.
+
+1095
+00:38:48.465 --> 00:38:50.445
+So this is roughly, again,
+
+1096
+00:38:50.445 --> 00:38:51.845
+these numbers are also rough, right?
+
+1097
+00:38:51.845 --> 00:38:53.845
+It's not like, oh, now we're at 251 K,
+
+1098
+00:38:53.845 --> 00:38:54.845
+so now we're go into phase four.
+
+1099
+00:38:54.845 --> 00:38:57.565
+It's like, it's rough numbers, but two 50 to 500.
+
+1100
+00:38:58.065 --> 00:39:01.445
+Um, so by this point, you should have a consistent,
+
+1101
+00:39:01.445 --> 00:39:03.325
+repeatable, and scalable pro uh, process
+
+1102
+00:39:03.585 --> 00:39:05.645
+to generate qualified sales calls, which you will
+
+1103
+00:39:05.645 --> 00:39:06.965
+because we're, we're doing that for you.
+
+1104
+00:39:07.145 --> 00:39:08.965
+You should have that same consistent, repeatable
+
+1105
+00:39:08.965 --> 00:39:10.565
+and scalable process to close clients
+
+1106
+00:39:10.945 --> 00:39:13.245
+and the same to fulfill on clients.
+
+1107
+00:39:13.245 --> 00:39:15.365
+Alright? Now by phase four is
+
+1108
+00:39:15.365 --> 00:39:17.605
+where you will switch your mindset from being on the front
+
+1109
+00:39:17.605 --> 00:39:21.085
+lines to running your organization through your team.
+
+1110
+00:39:21.585 --> 00:39:23.605
+So your goal should be making your team win.
+
+1111
+00:39:23.915 --> 00:39:27.325
+This is the biggest mindset shift that I had at this phase.
+
+1112
+00:39:27.625 --> 00:39:28.965
+Um, because initially I was
+
+1113
+00:39:29.105 --> 00:39:32.045
+so focused on taking the sales calls, working
+
+1114
+00:39:32.045 --> 00:39:34.565
+with the clients, running the ads, doing, doing the thing
+
+1115
+00:39:35.515 --> 00:39:37.565
+that I, I was almost a little bit of a, like a,
+
+1116
+00:39:38.405 --> 00:39:40.165
+I was very kind of controlling on those things
+
+1117
+00:39:40.325 --> 00:39:41.525
+'cause like that's all I've ever done, right?
+
+1118
+00:39:41.525 --> 00:39:43.325
+So I was like so specific on it,
+
+1119
+00:39:43.505 --> 00:39:46.085
+but then when I had people come in the team, you know,
+
+1120
+00:39:46.085 --> 00:39:48.925
+I was hiring people to to, to run the stuff, it was kind
+
+1121
+00:39:49.165 --> 00:39:50.845
+of difficult to let go of that control.
+
+1122
+00:39:51.145 --> 00:39:52.925
+But you've gotta do it because then
+
+1123
+00:39:53.235 --> 00:39:55.405
+what your focus should be on now is not controlling the
+
+1124
+00:39:55.405 --> 00:39:57.605
+sales calls themselves, but the people taking the sales
+
+1125
+00:39:57.605 --> 00:39:59.925
+calls, not controlling your, the clients themselves,
+
+1126
+00:40:00.105 --> 00:40:02.885
+but the people handling, handing, um, handling the clients
+
+1127
+00:40:03.505 --> 00:40:05.165
+and you win through your team, right?
+
+1128
+00:40:05.345 --> 00:40:09.365
+So this specifically now requires you to do two things.
+
+1129
+00:40:09.585 --> 00:40:12.965
+Number one is do more and do stuff better, right?
+
+1130
+00:40:12.965 --> 00:40:14.445
+This is, uh, from Mozzi actually.
+
+1131
+00:40:14.505 --> 00:40:16.325
+He has this like little saying, do more and do better.
+
+1132
+00:40:17.225 --> 00:40:19.405
+So when I say, uh, do more, do better.
+
+1133
+00:40:19.525 --> 00:40:22.845
+I mean specifically spend more on ads, hire more closers,
+
+1134
+00:40:22.995 --> 00:40:25.525
+hire more account managers, hire more operations staff,
+
+1135
+00:40:25.705 --> 00:40:27.045
+get better at recruiting,
+
+1136
+00:40:27.155 --> 00:40:28.965
+have better daily team calls, et cetera.
+
+1137
+00:40:28.965 --> 00:40:31.205
+And there's 101 other things, but like, just do more
+
+1138
+00:40:31.225 --> 00:40:32.405
+and do better because again,
+
+1139
+00:40:32.595 --> 00:40:34.285
+because you've gone through these phases,
+
+1140
+00:40:34.285 --> 00:40:36.525
+this is why I say anything you're focusing on outside
+
+1141
+00:40:36.525 --> 00:40:38.565
+of this training is just wasted time.
+
+1142
+00:40:38.595 --> 00:40:40.965
+Because if you go through these phases and you do,
+
+1143
+00:40:41.025 --> 00:40:42.365
+and you achieve each phase
+
+1144
+00:40:42.705 --> 00:40:44.045
+before you move on to the next one,
+
+1145
+00:40:44.275 --> 00:40:47.205
+well at this point in phase four, you're gonna have
+
+1146
+00:40:48.065 --> 00:40:49.805
+the three systems required to scale
+
+1147
+00:40:50.025 --> 00:40:51.325
+and they're all gonna be consistent,
+
+1148
+00:40:51.325 --> 00:40:52.605
+they're all gonna be repeatable
+
+1149
+00:40:52.605 --> 00:40:53.685
+and they're all gonna be scalable.
+
+1150
+00:40:54.145 --> 00:40:55.765
+So now you've got your foundation,
+
+1151
+00:40:55.865 --> 00:40:57.925
+you've just gotta do more, spend more on ads,
+
+1152
+00:40:57.995 --> 00:40:59.485
+hire more account manager, and uh,
+
+1153
+00:40:59.485 --> 00:41:01.205
+hire more account managers and just do more
+
+1154
+00:41:01.385 --> 00:41:03.005
+and just get better at what the, what,
+
+1155
+00:41:03.005 --> 00:41:04.245
+what it is that you are doing.
+
+1156
+00:41:04.505 --> 00:41:06.605
+That's it, that's literally all you gotta do.
+
+1157
+00:41:06.945 --> 00:41:08.285
+And then secondly, at this phase,
+
+1158
+00:41:08.425 --> 00:41:10.325
+you gotta focus on developing your team.
+
+1159
+00:41:10.505 --> 00:41:12.805
+So the number one focus for you at this stage is developing,
+
+1160
+00:41:12.865 --> 00:41:15.325
+uh, your team and building them up, right?
+
+1161
+00:41:15.325 --> 00:41:16.845
+Getting them better, training them,
+
+1162
+00:41:16.845 --> 00:41:18.205
+make them become better people.
+
+1163
+00:41:18.435 --> 00:41:19.645
+Make them become a better closer.
+
+1164
+00:41:19.645 --> 00:41:21.525
+Make them become a better account manager, right?
+
+1165
+00:41:21.915 --> 00:41:24.005
+Develop your team, build your team up.
+
+1166
+00:41:24.295 --> 00:41:26.645
+Again, you, you, you at this stage,
+
+1167
+00:41:26.745 --> 00:41:27.965
+you win through your team.
+
+1168
+00:41:28.745 --> 00:41:31.485
+So if your team increases, that's a win for you.
+
+1169
+00:41:31.595 --> 00:41:34.245
+That should, that's what you should be optimizing for.
+
+1170
+00:41:34.265 --> 00:41:35.685
+So for context in the book,
+
+1171
+00:41:35.685 --> 00:41:36.765
+the hard thing about hard things,
+
+1172
+00:41:36.765 --> 00:41:38.165
+if you've never read this book by, by the way,
+
+1173
+00:41:38.185 --> 00:41:39.325
+highly recommend it.
+
+1174
+00:41:39.755 --> 00:41:41.125
+It's by Ben Horowitz, he's one
+
+1175
+00:41:41.125 --> 00:41:42.525
+of my favorite entrepreneurs ever.
+
+1176
+00:41:42.945 --> 00:41:45.885
+Um, but in the book he says, if you have a mid, if if,
+
+1177
+00:41:45.885 --> 00:41:48.525
+sorry, if you have 10 people on your team next year,
+
+1178
+00:41:48.955 --> 00:41:51.405
+they will work roughly 20,000 hours combined
+
+1179
+00:41:51.605 --> 00:41:52.685
+right across the whole team.
+
+1180
+00:41:52.945 --> 00:41:55.445
+And let's say you spent 12 hours training them
+
+1181
+00:41:55.625 --> 00:41:57.725
+for in a certain month you spent 12 hours, whatever,
+
+1182
+00:41:57.725 --> 00:42:00.045
+it's 12 hours training that 10 person team
+
+1183
+00:42:01.025 --> 00:42:04.285
+and that training equates to only very small,
+
+1184
+00:42:04.865 --> 00:42:05.925
+1% improvement.
+
+1185
+00:42:05.925 --> 00:42:08.045
+Just the 1% which to increase the team
+
+1186
+00:42:08.045 --> 00:42:09.965
+by 1% is not difficult to do, right?
+
+1187
+00:42:10.395 --> 00:42:13.245
+Just the 1% improvement from 12 hours worth of work,
+
+1188
+00:42:13.355 --> 00:42:16.485
+very easy to do, you'll gain over the course
+
+1189
+00:42:16.485 --> 00:42:18.325
+of the next year an additional
+
+1190
+00:42:18.785 --> 00:42:23.365
+or the equivalent 200 hours worth of work as a result
+
+1191
+00:42:23.385 --> 00:42:24.805
+of your 12 hour training.
+
+1192
+00:42:25.925 --> 00:42:29.005
+I mean, what else would give you an increase
+
+1193
+00:42:29.005 --> 00:42:31.765
+of 200 hours worth of work from 12 hours?
+
+1194
+00:42:31.825 --> 00:42:33.285
+Or in other words, you spend, you know,
+
+1195
+00:42:33.285 --> 00:42:34.445
+think about it from an ad perspective.
+
+1196
+00:42:34.465 --> 00:42:38.445
+You spend 12,000 on ads, you get a $200,000 return from
+
+1197
+00:42:38.445 --> 00:42:41.965
+that 12 hour, 12,000 spent, there is nothing
+
+1198
+00:42:41.965 --> 00:42:43.285
+that would give you that type of return.
+
+1199
+00:42:43.285 --> 00:42:45.245
+That's like a, I dunno what that is.
+
+1200
+00:42:45.665 --> 00:42:47.605
+10 x, no, it's over 10 x,
+
+1201
+00:42:47.675 --> 00:42:50.965
+it's like 15 x return insane there.
+
+1202
+00:42:51.145 --> 00:42:53.005
+And so in other words, at this stage,
+
+1203
+00:42:53.015 --> 00:42:55.725
+there is literally nothing more leverage
+
+1204
+00:42:55.835 --> 00:42:57.245
+that you could be doing with your time
+
+1205
+00:42:57.435 --> 00:42:58.885
+than training your team.
+
+1206
+00:42:59.375 --> 00:43:00.485
+Again, when you're at this stage,
+
+1207
+00:43:00.685 --> 00:43:02.365
+specifically when you're in the earlier phases, obviously
+
+1208
+00:43:02.475 --> 00:43:04.245
+that is not, you know, the thing to do.
+
+1209
+00:43:04.245 --> 00:43:05.565
+But when you're at this stage,
+
+1210
+00:43:05.835 --> 00:43:08.045
+there's nothing more leverage, literally nothing.
+
+1211
+00:43:08.465 --> 00:43:10.885
+And that is based on a 1% improvement.
+
+1212
+00:43:10.915 --> 00:43:14.205
+What would happen if you improved your team by 30%, which
+
+1213
+00:43:14.745 --> 00:43:15.885
+is more than achievable.
+
+1214
+00:43:15.885 --> 00:43:20.325
+Like if you look at the people who we hire, um,
+
+1215
+00:43:20.665 --> 00:43:22.845
+and look at them when they were, when they were hired,
+
+1216
+00:43:23.225 --> 00:43:26.405
+and you look at them now, even if it's just three or six
+
+1217
+00:43:26.405 --> 00:43:29.685
+or 12 months later, whatever it is, they are a, they're,
+
+1218
+00:43:29.685 --> 00:43:32.285
+they're way more than 30% improved.
+
+1219
+00:43:32.585 --> 00:43:33.925
+And I'm not saying that's all down to me,
+
+1220
+00:43:34.265 --> 00:43:36.685
+but we do give a lot of training, right?
+
+1221
+00:43:36.945 --> 00:43:38.045
+And so again, at this stage,
+
+1222
+00:43:38.045 --> 00:43:39.245
+there is nothing more leveraged than that.
+
+1223
+00:43:39.745 --> 00:43:41.765
+You should also be doing a lot of recruiting
+
+1224
+00:43:41.765 --> 00:43:44.245
+and hiring top players and get really good at it.
+
+1225
+00:43:44.245 --> 00:43:46.645
+So this speaks to the idea of just getting better,
+
+1226
+00:43:46.645 --> 00:43:49.165
+essentially get, become a better recruiter, right?
+
+1227
+00:43:49.825 --> 00:43:51.645
+Um, and also to become a better recruiter,
+
+1228
+00:43:51.645 --> 00:43:52.805
+you've gotta hire bad people so you
+
+1229
+00:43:52.805 --> 00:43:53.925
+know now what not to hire.
+
+1230
+00:43:54.105 --> 00:43:55.085
+And you've gotta hire good people
+
+1231
+00:43:55.085 --> 00:43:56.245
+so you know what to hire, right?
+
+1232
+00:43:56.245 --> 00:43:57.925
+So if you hire, if you start hiring people
+
+1233
+00:43:58.225 --> 00:44:01.525
+and you hire someone who's not good, don't look at it
+
+1234
+00:44:01.685 --> 00:44:03.085
+as like, oh, you know, they didn't work out.
+
+1235
+00:44:03.085 --> 00:44:04.925
+Like, whatever. I'm not good at recruiting or whatever.
+
+1236
+00:44:05.035 --> 00:44:06.525
+I've had so many people that have had to fire,
+
+1237
+00:44:06.985 --> 00:44:08.645
+but it's helped me every single time
+
+1238
+00:44:08.705 --> 00:44:11.285
+and now know, okay, don't hire someone like that, right?
+
+1239
+00:44:11.285 --> 00:44:15.125
+Gives you that point to, you know, uh, John p uh, John
+
+1240
+00:44:15.125 --> 00:44:18.125
+and Peterson always says to people who do the most in life
+
+1241
+00:44:18.385 --> 00:44:19.525
+of running towards something,
+
+1242
+00:44:19.825 --> 00:44:22.645
+but more specifically, they're also in addition,
+
+1243
+00:44:22.645 --> 00:44:23.645
+running away from something.
+
+1244
+00:44:23.785 --> 00:44:25.965
+And that's kind of how you wanna look at recruiting.
+
+1245
+00:44:25.965 --> 00:44:27.445
+It's like if you hire someone bad, well now you've got
+
+1246
+00:44:27.445 --> 00:44:28.605
+someone to run away from.
+
+1247
+00:44:28.745 --> 00:44:30.565
+And if you hire someone good, you've got someone to run to.
+
+1248
+00:44:30.745 --> 00:44:31.845
+It becomes much easier
+
+1249
+00:44:31.905 --> 00:44:33.765
+to become better at hiring by hiring bad people.
+
+1250
+00:44:33.825 --> 00:44:35.045
+So, just as a side note,
+
+1251
+00:44:35.065 --> 00:44:37.725
+but, um, you should also be creating better onboarding
+
+1252
+00:44:37.725 --> 00:44:38.805
+and ramping processes
+
+1253
+00:44:38.945 --> 00:44:41.525
+for every new hire in every department.
+
+1254
+00:44:41.745 --> 00:44:44.605
+So you will now notice that, um, sorry, you will notice
+
+1255
+00:44:44.665 --> 00:44:46.365
+as well when you're scaling that one
+
+1256
+00:44:46.365 --> 00:44:48.685
+of the constraints you'll face is scalable talent
+
+1257
+00:44:48.805 --> 00:44:50.685
+acquisition, meaning acquiring
+
+1258
+00:44:50.865 --> 00:44:55.125
+and ramping new talent to KPI in the most efficient pro, uh,
+
+1259
+00:44:55.125 --> 00:44:58.605
+in the most efficient way possible, it becomes a constraint.
+
+1260
+00:44:58.785 --> 00:45:02.205
+And so one of the ways that you can, uh, alleviate,
+
+1261
+00:45:02.635 --> 00:45:04.245
+alleviate this constraint is
+
+1262
+00:45:04.245 --> 00:45:06.245
+by having better onboarding and ramping processes.
+
+1263
+00:45:06.425 --> 00:45:07.565
+And again, we go
+
+1264
+00:45:07.565 --> 00:45:09.885
+through deeper in trainings on, on, on how to do that.
+
+1265
+00:45:09.885 --> 00:45:12.045
+And you'll see how much I've built out our
+
+1266
+00:45:12.045 --> 00:45:13.365
+onboarding and ramp processes.
+
+1267
+00:45:13.385 --> 00:45:14.525
+You'll probably look at it and be like,
+
+1268
+00:45:14.525 --> 00:45:15.725
+oh my God, that's so overkill.
+
+1269
+00:45:16.065 --> 00:45:18.445
+But when you get to this stage, you'll realize, oh,
+
+1270
+00:45:18.765 --> 00:45:20.165
+actually we need those types of systems.
+
+1271
+00:45:20.305 --> 00:45:22.685
+But now, because you're not in the thing doing the work,
+
+1272
+00:45:22.785 --> 00:45:24.485
+you've got the time to be able
+
+1273
+00:45:24.485 --> 00:45:26.085
+to focus on building these things out.
+
+1274
+00:45:26.585 --> 00:45:29.165
+Uh, also weekly one-on-ones with everyone on your team,
+
+1275
+00:45:29.215 --> 00:45:30.405
+these should be where you dive deep
+
+1276
+00:45:30.405 --> 00:45:31.565
+into the personal side of your team.
+
+1277
+00:45:31.745 --> 00:45:33.765
+Uh, and this is also how you can understand what it is
+
+1278
+00:45:33.765 --> 00:45:36.525
+that they really want, what they hate, what they get annoyed
+
+1279
+00:45:36.545 --> 00:45:38.405
+by, et cetera, so that you can do, uh,
+
+1280
+00:45:38.405 --> 00:45:40.485
+build a better environment for them to work in.
+
+1281
+00:45:40.665 --> 00:45:42.565
+One of the big mindset shifts that you'll have at this stage
+
+1282
+00:45:42.565 --> 00:45:45.485
+as well, muscle stage five, actually 500 k
+
+1283
+00:45:45.485 --> 00:45:48.365
+to 1 million a month, is that you'll start to think about
+
+1284
+00:45:49.185 --> 00:45:52.405
+how can you build a big enough vision for your company so
+
+1285
+00:45:52.405 --> 00:45:56.365
+that your team's vision, your team's goals can fit inside
+
+1286
+00:45:56.785 --> 00:45:58.165
+of your overarching vision.
+
+1287
+00:45:58.265 --> 00:46:01.365
+Uh, vision, uh, uh, Lela Mozzi talks about this quite a lot.
+
+1288
+00:46:01.665 --> 00:46:03.165
+And, um, it's, it,
+
+1289
+00:46:03.505 --> 00:46:05.605
+it really becomes prevalent at this stage.
+
+1290
+00:46:06.025 --> 00:46:07.925
+Um, and then also daily team meetings.
+
+1291
+00:46:07.925 --> 00:46:09.685
+So these should be ran extremely efficiently
+
+1292
+00:46:09.685 --> 00:46:12.685
+and effectively as they, as they act, as the center
+
+1293
+00:46:12.705 --> 00:46:14.645
+of your culture and ultimately your company.
+
+1294
+00:46:14.885 --> 00:46:16.725
+'cause your culture is your company within reason.
+
+1295
+00:46:17.105 --> 00:46:19.725
+And given that most of you are gonna be online, like we are,
+
+1296
+00:46:19.915 --> 00:46:21.005
+like remote companies,
+
+1297
+00:46:22.145 --> 00:46:24.685
+the meetings are the center of your culture.
+
+1298
+00:46:25.105 --> 00:46:27.685
+So the quality of your meetings determine the quality
+
+1299
+00:46:27.685 --> 00:46:28.925
+and the effectiveness of your culture.
+
+1300
+00:46:29.225 --> 00:46:30.845
+So you want to get better and better
+
+1301
+00:46:30.845 --> 00:46:32.285
+and better at running those daily team meetings.
+
+1302
+00:46:32.305 --> 00:46:35.085
+Now, once you get to a 250 KA month, a lot
+
+1303
+00:46:35.085 --> 00:46:37.045
+of your work becomes extremely boring.
+
+1304
+00:46:37.185 --> 00:46:39.685
+If you watch a mosey, he has a saying, do the boring work.
+
+1305
+00:46:39.985 --> 00:46:42.765
+And this is where it becomes really important.
+
+1306
+00:46:42.795 --> 00:46:44.765
+Like it does get a little boring at some stages
+
+1307
+00:46:44.765 --> 00:46:47.005
+because you're constantly just QCing quality,
+
+1308
+00:46:47.005 --> 00:46:48.565
+controlling your, um, team's work.
+
+1309
+00:46:48.665 --> 00:46:50.885
+You're do, you know, building better onboarding processes.
+
+1310
+00:46:50.885 --> 00:46:53.445
+Like it's not the most fun invigorating stuff,
+
+1311
+00:46:53.785 --> 00:46:55.485
+but it's required to scale.
+
+1312
+00:46:55.665 --> 00:46:57.405
+And so essentially in phase four, you need
+
+1313
+00:46:57.405 --> 00:46:59.405
+to become an exceptional manager or a leader,
+
+1314
+00:46:59.625 --> 00:47:01.645
+and you win again by making your team win.
+
+1315
+00:47:01.645 --> 00:47:02.845
+You lead through your team
+
+1316
+00:47:03.025 --> 00:47:04.965
+and you get results through your team.
+
+1317
+00:47:04.965 --> 00:47:06.725
+Alright, so here are the trainings I recommend
+
+1318
+00:47:06.725 --> 00:47:09.405
+to go deeper on, um, in phase four.
+
+1319
+00:47:09.985 --> 00:47:11.685
+So week one foundations to 1 million a month,
+
+1320
+00:47:11.685 --> 00:47:13.925
+and specifically the theory of constraints training, um,
+
+1321
+00:47:13.925 --> 00:47:15.285
+because that's gonna show you what your biggest
+
+1322
+00:47:15.285 --> 00:47:16.525
+constraints are at this stage.
+
+1323
+00:47:16.745 --> 00:47:19.805
+And then you want dive deeper into the respective trainings
+
+1324
+00:47:19.805 --> 00:47:21.165
+that are gonna alleviate whatever it is
+
+1325
+00:47:21.165 --> 00:47:22.365
+that your particular constraint is.
+
+1326
+00:47:22.515 --> 00:47:23.965
+It's very hard. Like you,
+
+1327
+00:47:23.965 --> 00:47:25.165
+you're gonna have different problems
+
+1328
+00:47:25.185 --> 00:47:27.125
+and different people are gonna have different problems even
+
+1329
+00:47:27.125 --> 00:47:28.245
+though you're in the same phase.
+
+1330
+00:47:28.545 --> 00:47:30.405
+And so this theory of constraints training
+
+1331
+00:47:31.105 --> 00:47:32.725
+is gonna show you based on your problems
+
+1332
+00:47:32.725 --> 00:47:33.885
+that you're experiencing right now,
+
+1333
+00:47:34.195 --> 00:47:35.725
+what training should you go deeper on
+
+1334
+00:47:35.745 --> 00:47:37.165
+and then go deeper on those trainings, right?
+
+1335
+00:47:37.345 --> 00:47:40.005
+And then also the two weeks, again, week seven
+
+1336
+00:47:40.005 --> 00:47:41.685
+and week eight, which is, uh, building
+
+1337
+00:47:41.685 --> 00:47:43.085
+and leading your sales department and building
+
+1338
+00:47:43.085 --> 00:47:44.245
+and leading your fulfillment department
+
+1339
+00:47:44.305 --> 00:47:46.885
+that's gonna go deeper into these ideas
+
+1340
+00:47:47.345 --> 00:47:48.565
+of developing your team
+
+1341
+00:47:48.625 --> 00:47:50.685
+and how to do it, how to create those onboarding
+
+1342
+00:47:50.685 --> 00:47:52.485
+and ramping processes, all that good stuff.
+
+1343
+00:47:52.485 --> 00:47:55.245
+And how to essentially, again, build a better environment
+
+1344
+00:47:55.425 --> 00:47:58.245
+for your team to win build, um, allow yourself
+
+1345
+00:47:58.385 --> 00:48:00.645
+to set up your team for better success.
+
+1346
+00:48:00.645 --> 00:48:02.085
+That's really what these two weeks focus on
+
+1347
+00:48:02.145 --> 00:48:03.685
+and they go very deep into those.
+
+1348
+00:48:03.985 --> 00:48:06.885
+Um, that then brings us on to phase five,
+
+1349
+00:48:06.885 --> 00:48:08.285
+which is basically roughly,
+
+1350
+00:48:08.525 --> 00:48:10.125
+I would say 500 KA month to a million a month.
+
+1351
+00:48:10.125 --> 00:48:12.205
+So up until this point, you will have had, uh,
+
+1352
+00:48:12.325 --> 00:48:14.165
+a team running sales and fulfillment
+
+1353
+00:48:14.225 --> 00:48:15.445
+and us running your marketing.
+
+1354
+00:48:15.445 --> 00:48:18.205
+However, you may still be involved with, with fulfillment
+
+1355
+00:48:18.345 --> 00:48:20.245
+by jumping into certain problem client channels
+
+1356
+00:48:20.305 --> 00:48:24.085
+or giving strategy or maybe, um, for sales, you have been,
+
+1357
+00:48:24.085 --> 00:48:27.205
+you know, quote, saving sales calls by taking follow ups
+
+1358
+00:48:27.205 --> 00:48:28.685
+with particular prospects, et cetera.
+
+1359
+00:48:28.685 --> 00:48:31.365
+That's very common. Sub 500 KA month.
+
+1360
+00:48:32.065 --> 00:48:34.445
+So now what you need to do is now we need to remove
+
+1361
+00:48:34.445 --> 00:48:35.885
+that dependency on you.
+
+1362
+00:48:36.025 --> 00:48:38.645
+So you have clients who, and this is really the goal here.
+
+1363
+00:48:38.905 --> 00:48:40.925
+You need to get to a million a month.
+
+1364
+00:48:41.385 --> 00:48:43.965
+You need to have clients who close
+
+1365
+00:48:44.745 --> 00:48:48.245
+and move all the way through their activation points
+
+1366
+00:48:48.785 --> 00:48:50.525
+and receive the result that they paid for
+
+1367
+00:48:51.155 --> 00:48:53.565
+without ever speaking with you.
+
+1368
+00:48:54.355 --> 00:48:55.525
+That is the goal at this phase.
+
+1369
+00:48:55.625 --> 00:48:57.285
+You wanna be completely detached.
+
+1370
+00:48:57.465 --> 00:49:00.365
+We have, you know, like right now I think we're closing,
+
+1371
+00:49:01.315 --> 00:49:02.365
+depending on the month.
+
+1372
+00:49:02.365 --> 00:49:03.445
+It's like 30, 40
+
+1373
+00:49:03.505 --> 00:49:05.525
+to 60 clients roughly, depending on the month.
+
+1374
+00:49:05.815 --> 00:49:07.845
+There is no way, and there's only one of me.
+
+1375
+00:49:08.015 --> 00:49:10.765
+We've got I think eight or nine account managers.
+
+1376
+00:49:11.105 --> 00:49:14.365
+Um, but there's only one founder, right?
+
+1377
+00:49:14.365 --> 00:49:16.365
+There's only one of me. And so in the early days,
+
+1378
+00:49:16.485 --> 00:49:18.565
+I was jumping into client channels 'cause it was manageable,
+
+1379
+00:49:18.665 --> 00:49:21.125
+but at this scale it's impossible.
+
+1380
+00:49:21.225 --> 00:49:24.245
+And so unless you have the systems that allow clients to go
+
+1381
+00:49:24.245 --> 00:49:25.845
+through, get closed, do all that stuff,
+
+1382
+00:49:26.665 --> 00:49:29.125
+and then go through your fulfillment conveyor belt
+
+1383
+00:49:29.225 --> 00:49:31.405
+and get the result that they paid for, without speaking
+
+1384
+00:49:31.405 --> 00:49:32.885
+with you, unless you have that system,
+
+1385
+00:49:32.885 --> 00:49:34.525
+you're never gonna be able to get to this scale
+
+1386
+00:49:34.525 --> 00:49:35.485
+because you're gonna have a bunch
+
+1387
+00:49:35.485 --> 00:49:36.525
+of clients not getting results.
+
+1388
+00:49:36.725 --> 00:49:38.125
+'cause it's required, you know, you are required
+
+1389
+00:49:38.125 --> 00:49:40.005
+to deliver the result in a way, um,
+
+1390
+00:49:40.145 --> 00:49:42.365
+or at least facilitate the fulfillment, uh, process.
+
+1391
+00:49:43.905 --> 00:49:45.565
+But you, you, you're not gonna have the time to,
+
+1392
+00:49:45.945 --> 00:49:47.205
+you know, at, at some point.
+
+1393
+00:49:47.465 --> 00:49:49.725
+And so you've gotta have that system running without you.
+
+1394
+00:49:49.945 --> 00:49:52.765
+That's the key. Having the entire thing run without you
+
+1395
+00:49:52.985 --> 00:49:55.005
+and still having your clients get
+
+1396
+00:49:55.275 --> 00:49:57.005
+results and have a great experience.
+
+1397
+00:49:57.585 --> 00:49:59.365
+Now we're at the biggest scale we've ever been,
+
+1398
+00:49:59.365 --> 00:50:01.285
+and our clients are getting the best results
+
+1399
+00:50:01.425 --> 00:50:02.805
+and experience that they've ever gotten.
+
+1400
+00:50:02.985 --> 00:50:05.845
+And it's because we've set it up obviously in that way.
+
+1401
+00:50:05.985 --> 00:50:08.005
+And this is where you, again, need a focus on that.
+
+1402
+00:50:08.625 --> 00:50:11.885
+And so I, once you, uh, achieve this, this is
+
+1403
+00:50:11.885 --> 00:50:13.365
+where you can really ramp the volume
+
+1404
+00:50:13.705 --> 00:50:16.685
+and again, still maintain client results, close rates,
+
+1405
+00:50:16.685 --> 00:50:19.445
+profitability, all that type of stuff at scale.
+
+1406
+00:50:19.785 --> 00:50:22.085
+And so how you achieve this is through installing managers
+
+1407
+00:50:22.105 --> 00:50:24.205
+or leads into each department
+
+1408
+00:50:24.305 --> 00:50:27.325
+who essentially become you in a way that you, you know,
+
+1409
+00:50:27.325 --> 00:50:29.165
+initially you was the manager of you,
+
+1410
+00:50:29.165 --> 00:50:31.485
+you'll be managing the sales team managing fulfillment,
+
+1411
+00:50:32.345 --> 00:50:34.805
+but now you wanna replace yourself at the management level.
+
+1412
+00:50:34.865 --> 00:50:37.685
+So the first step of replacing was replacing you off the
+
+1413
+00:50:37.685 --> 00:50:39.045
+sales calls or replacing you out
+
+1414
+00:50:39.045 --> 00:50:40.645
+of client deliverables, right?
+
+1415
+00:50:40.705 --> 00:50:42.685
+By having an account manager or installing a closer.
+
+1416
+00:50:43.065 --> 00:50:44.965
+Um, but the second layer
+
+1417
+00:50:44.965 --> 00:50:47.165
+of replacing is then replacing you from the
+
+1418
+00:50:47.165 --> 00:50:48.285
+management of those teams.
+
+1419
+00:50:48.345 --> 00:50:49.805
+And that's what you wanna focus on here.
+
+1420
+00:50:50.145 --> 00:50:51.325
+Um, these managers
+
+1421
+00:50:51.325 --> 00:50:54.405
+or leads should be ideally developed from within.
+
+1422
+00:50:54.875 --> 00:50:56.845
+Okay? I strongly recommend, uh,
+
+1423
+00:50:56.845 --> 00:50:59.245
+against hiring external managers, especially
+
+1424
+00:50:59.245 --> 00:51:01.245
+for our industry because there's not many people who,
+
+1425
+00:51:02.035 --> 00:51:04.525
+like if you are, you know, running a insurance company,
+
+1426
+00:51:04.675 --> 00:51:07.805
+there's probably a bunch of external managers you can hire,
+
+1427
+00:51:08.105 --> 00:51:09.845
+um, who have been in the insurance industry
+
+1428
+00:51:09.865 --> 00:51:11.685
+for 25 years, they're great, whatever.
+
+1429
+00:51:12.025 --> 00:51:14.765
+But because our industry of agencies and, um, coaching
+
+1430
+00:51:14.765 --> 00:51:17.565
+and consulting and whatnot, it's so new in comparison
+
+1431
+00:51:17.625 --> 00:51:18.965
+to other companies that you,
+
+1432
+00:51:19.485 --> 00:51:21.365
+I just find it really difficult to hire external managers.
+
+1433
+00:51:21.365 --> 00:51:22.405
+Maybe that's my naivety,
+
+1434
+00:51:22.665 --> 00:51:25.565
+but I just find always is best to develop from within.
+
+1435
+00:51:25.665 --> 00:51:28.285
+And so what you'll specifically need is a sales manager
+
+1436
+00:51:28.825 --> 00:51:30.925
+client ce, uh, client success director
+
+1437
+00:51:31.065 --> 00:51:32.645
+and finance slash legal director.
+
+1438
+00:51:32.645 --> 00:51:35.565
+Right now, the only one I would say in here you can hire
+
+1439
+00:51:35.565 --> 00:51:38.365
+from external is the finance, legal are, um,
+
+1440
+00:51:39.645 --> 00:51:40.765
+fractional type CFO.
+
+1441
+00:51:40.825 --> 00:51:42.525
+Now that we've got, he's external
+
+1442
+00:51:43.385 --> 00:51:44.765
+and he, it, it works really well.
+
+1443
+00:51:45.465 --> 00:51:48.205
+So, um, your focus now, those switches from, again,
+
+1444
+00:51:48.205 --> 00:51:50.605
+leading the team to leading your account managers
+
+1445
+00:51:50.705 --> 00:51:52.645
+who lead the team, who take care of the clients.
+
+1446
+00:51:52.825 --> 00:51:54.445
+So again, you one step removed
+
+1447
+00:51:54.465 --> 00:51:55.685
+or two steps removed now, right?
+
+1448
+00:51:55.685 --> 00:51:58.645
+So initially you was doing the thing, sales calls, whatever,
+
+1449
+00:51:59.465 --> 00:52:01.685
+you hire the hire, you know, your initial team,
+
+1450
+00:52:02.115 --> 00:52:04.925
+they then take the, uh, the, you know, the,
+
+1451
+00:52:04.945 --> 00:52:06.085
+the load off of your plate.
+
+1452
+00:52:06.085 --> 00:52:07.885
+They take the sales calls, they handle the clients,
+
+1453
+00:52:07.885 --> 00:52:09.725
+they do the, the deliverables for your clients.
+
+1454
+00:52:10.265 --> 00:52:12.045
+So then you go one step removed
+
+1455
+00:52:12.065 --> 00:52:14.405
+and focus on the team who handle the clients.
+
+1456
+00:52:14.865 --> 00:52:17.685
+But now you wanna go two steps removed
+
+1457
+00:52:18.705 --> 00:52:21.285
+and have the clients have the team who handles the clients,
+
+1458
+00:52:21.435 --> 00:52:23.605
+then have your, the managers who manage the team,
+
+1459
+00:52:23.825 --> 00:52:26.165
+and then you are managing the managers
+
+1460
+00:52:26.345 --> 00:52:28.045
+or the leads, whatever you wanna call it, right?
+
+1461
+00:52:28.045 --> 00:52:29.405
+Well, it's actually two separate
+
+1462
+00:52:29.405 --> 00:52:30.485
+roles, but you know what I mean.
+
+1463
+00:52:30.485 --> 00:52:32.125
+You are managing the management, uh, managers.
+
+1464
+00:52:32.185 --> 00:52:33.685
+And that's essentially where you now start
+
+1465
+00:52:33.685 --> 00:52:36.205
+to wanna look at the idea of middle management, which kind
+
+1466
+00:52:36.205 --> 00:52:38.005
+of scales a lot of people, especially founders,
+
+1467
+00:52:38.005 --> 00:52:39.765
+because founders typically like, you know,
+
+1468
+00:52:39.765 --> 00:52:41.485
+they wanna build their own, uh, thing
+
+1469
+00:52:41.485 --> 00:52:43.125
+and they, they kind of have this idea
+
+1470
+00:52:43.125 --> 00:52:44.445
+that they don't wanna become corporate.
+
+1471
+00:52:44.545 --> 00:52:46.565
+But again, if you wanna get to a million a month plus you
+
+1472
+00:52:46.565 --> 00:52:47.605
+gotta have middle management,
+
+1473
+00:52:47.605 --> 00:52:50.205
+you gotta become a little bit more legitimized,
+
+1474
+00:52:50.285 --> 00:52:51.445
+a little bit more corporate, not
+
+1475
+00:52:51.445 --> 00:52:52.765
+corporate, but you get the point.
+
+1476
+00:52:53.185 --> 00:52:54.645
+Um, and that's what you wanna focus on at
+
+1477
+00:52:54.645 --> 00:52:55.885
+500 to a million a month.
+
+1478
+00:52:56.705 --> 00:53:01.325
+Um, so there's usually, from what I've found,
+
+1479
+00:53:01.565 --> 00:53:03.605
+a three to five month transition period
+
+1480
+00:53:03.605 --> 00:53:05.725
+between you leading a, leading a department,
+
+1481
+00:53:05.985 --> 00:53:08.565
+and you, uh, you promoting someone to take over
+
+1482
+00:53:08.565 --> 00:53:10.445
+that department about a three to five month.
+
+1483
+00:53:10.545 --> 00:53:12.645
+And again, this goes back to the idea of setting your,
+
+1484
+00:53:12.645 --> 00:53:14.725
+setting the manager up for success.
+
+1485
+00:53:15.065 --> 00:53:18.485
+You could have this transition period be a day, right?
+
+1486
+00:53:18.745 --> 00:53:20.805
+You could technically, you could just hire someone,
+
+1487
+00:53:20.835 --> 00:53:22.645
+bang your manager, there you go, run it,
+
+1488
+00:53:22.945 --> 00:53:24.605
+and then you just never look at that apartment again.
+
+1489
+00:53:24.605 --> 00:53:26.165
+But guess, guess what? Next week the
+
+1490
+00:53:26.165 --> 00:53:27.205
+apartment's gonna crash and burn.
+
+1491
+00:53:27.205 --> 00:53:28.525
+Maybe not next week, but a couple
+
+1492
+00:53:28.525 --> 00:53:29.765
+months later it's gonna crash and burn.
+
+1493
+00:53:29.765 --> 00:53:31.725
+It's not gonna perform. So if you have a three
+
+1494
+00:53:31.725 --> 00:53:33.845
+to five month transition period, it's going
+
+1495
+00:53:33.865 --> 00:53:34.925
+to sustain at that point.
+
+1496
+00:53:35.625 --> 00:53:38.245
+Um, however, once you do this, once you eventually get,
+
+1497
+00:53:38.245 --> 00:53:40.325
+you know, it's not difficult, but again, you know,
+
+1498
+00:53:40.325 --> 00:53:41.765
+we're scaling to a million a month here.
+
+1499
+00:53:41.795 --> 00:53:43.565
+It's, it's not gonna be the easiest thing in the world.
+
+1500
+00:53:43.665 --> 00:53:47.925
+But once you do this, it is a huge release, uh, for you
+
+1501
+00:53:47.985 --> 00:53:50.445
+as the founder because this, this will be the first time,
+
+1502
+00:53:51.035 --> 00:53:53.165
+nothing in your business depends on you
+
+1503
+00:53:53.345 --> 00:53:55.445
+and you will still get, uh, great client results
+
+1504
+00:53:55.905 --> 00:53:59.525
+and your revenue will grow really without you needing
+
+1505
+00:53:59.525 --> 00:54:00.765
+to do too much, right?
+
+1506
+00:54:01.265 --> 00:54:02.485
+Um, and so this is
+
+1507
+00:54:02.485 --> 00:54:04.445
+where you can then look at taking on new initiatives.
+
+1508
+00:54:04.585 --> 00:54:06.285
+And if you want, you can make yourself a pretty
+
+1509
+00:54:06.285 --> 00:54:07.605
+website and a logo, right?
+
+1510
+00:54:07.845 --> 00:54:10.245
+Everyone tries to do this stuff in the zero, you know,
+
+1511
+00:54:10.245 --> 00:54:11.965
+phase one zero to 40 KA month range.
+
+1512
+00:54:12.745 --> 00:54:15.565
+Um, and I've never even thought about that until now
+
+1513
+00:54:15.565 --> 00:54:17.645
+that we're in, you know, kind of phase five,
+
+1514
+00:54:17.645 --> 00:54:19.765
+just getting outta phase five, going onto the next phase.
+
+1515
+00:54:20.265 --> 00:54:23.485
+Um, now I'm thinking about like, you know, this other stuff.
+
+1516
+00:54:23.505 --> 00:54:26.125
+But anyway, that's why you can then take on new initiatives
+
+1517
+00:54:26.185 --> 00:54:27.965
+and obviously again, you're still gonna have a,
+
+1518
+00:54:28.205 --> 00:54:30.005
+a weekly meeting cadence with the managers.
+
+1519
+00:54:30.005 --> 00:54:31.445
+You're still gonna be running things.
+
+1520
+00:54:31.555 --> 00:54:32.805
+It's not like you're just gonna be able
+
+1521
+00:54:32.805 --> 00:54:33.685
+to then just never go on
+
+1522
+00:54:33.685 --> 00:54:34.845
+into Slack and never check anything.
+
+1523
+00:54:34.945 --> 00:54:38.325
+But, you know, it's, it's not gonna be as, um,
+
+1524
+00:54:38.755 --> 00:54:40.405
+time intensive as it once was.
+
+1525
+00:54:41.185 --> 00:54:43.885
+And so, um, yeah,
+
+1526
+00:54:43.885 --> 00:54:45.085
+there was something else I was gonna say there,
+
+1527
+00:54:45.185 --> 00:54:47.165
+but anyway, lost my train of thought.
+
+1528
+00:54:47.345 --> 00:54:49.645
+Um, here are the trainings though for, uh,
+
+1529
+00:54:49.715 --> 00:54:52.285
+this phase specifically that I recommend to consume
+
+1530
+00:54:52.285 --> 00:54:53.885
+for phase four is really just week nine,
+
+1531
+00:54:53.885 --> 00:54:55.485
+which is building a c-suite, right?
+
+1532
+00:54:55.755 --> 00:54:58.725
+That training that week really dives deep into
+
+1533
+00:54:58.725 --> 00:54:59.845
+all of this stuff here.
+
+1534
+00:54:59.945 --> 00:55:03.485
+So that's basically zero to a million a month now,
+
+1535
+00:55:03.725 --> 00:55:06.045
+I know I kind of, again, it was, you know, just do this
+
+1536
+00:55:06.045 --> 00:55:07.805
+and just do that and make it kind of seem easy.
+
+1537
+00:55:07.915 --> 00:55:09.485
+It's not gonna be the easiest thing in the world,
+
+1538
+00:55:09.745 --> 00:55:12.165
+but it is gonna be, again, the exact,
+
+1539
+00:55:12.165 --> 00:55:14.245
+everything I mentioned in here is exactly what you need
+
+1540
+00:55:14.245 --> 00:55:17.045
+to focus on to go from zero to a million in a month.
+
+1541
+00:55:17.065 --> 00:55:19.085
+And so, in other words, I wanna reiterate this.
+
+1542
+00:55:19.265 --> 00:55:22.005
+If you are doing something that's outside of this training,
+
+1543
+00:55:22.285 --> 00:55:24.725
+I highly recommend to stop doing that thing
+
+1544
+00:55:24.785 --> 00:55:26.525
+and focus on this because this is
+
+1545
+00:55:26.525 --> 00:55:27.565
+what's gonna get you to scale.
+
+1546
+00:55:27.895 --> 00:55:29.645
+Trust me. Even if you can't see it right now,
+
+1547
+00:55:29.785 --> 00:55:31.285
+or maybe you're like, ah, I don't really know,
+
+1548
+00:55:31.305 --> 00:55:32.845
+or whatever, hit us up in Slack.
+
+1549
+00:55:32.845 --> 00:55:34.805
+We can have a conversation and see where you are at
+
+1550
+00:55:34.825 --> 00:55:36.565
+and what it is that you have going on
+
+1551
+00:55:36.565 --> 00:55:37.085
+because obviously
+
+1552
+00:55:37.085 --> 00:55:38.285
+there's a lot of people that go through this.
+
+1553
+00:55:38.345 --> 00:55:41.245
+So, you know, um, there, there can be a lot
+
+1554
+00:55:41.245 --> 00:55:42.565
+of times contextual situations
+
+1555
+00:55:42.565 --> 00:55:43.605
+that may be a little different
+
+1556
+00:55:43.665 --> 00:55:44.765
+and we can help you out with it.
+
+1557
+00:55:44.825 --> 00:55:46.725
+But I, I really, I I,
+
+1558
+00:55:46.725 --> 00:55:48.165
+we've worked with so many clients at this point.
+
+1559
+00:55:48.235 --> 00:55:50.045
+I've done this myself with our own company.
+
+1560
+00:55:50.185 --> 00:55:51.765
+That's the same company that you are running
+
+1561
+00:55:51.765 --> 00:55:53.445
+and ACR coaching type business.
+
+1562
+00:55:53.535 --> 00:55:55.485
+We've got both arms, we've got an AT, we've got a dump.
+
+1563
+00:55:55.485 --> 00:55:56.765
+Few elements of what we do, we've
+
+1564
+00:55:56.765 --> 00:55:58.045
+got coaching, we've got consulting.
+
+1565
+00:55:58.045 --> 00:55:59.405
+So I've done this myself.
+
+1566
+00:55:59.565 --> 00:56:02.165
+I just see what it is that you need to do and this is it.
+
+1567
+00:56:02.225 --> 00:56:03.445
+So hopefully this was useful.
+
+1568
+00:56:03.625 --> 00:56:05.925
+And again, don't feel as though this is on you
+
+1569
+00:56:05.925 --> 00:56:07.685
+by any means in, you know, throughout,
+
+1570
+00:56:07.685 --> 00:56:09.085
+I might have said you need to do this and you need to do
+
+1571
+00:56:09.085 --> 00:56:11.005
+that, but I want you to use those and work with us
+
+1572
+00:56:11.005 --> 00:56:12.725
+because again, we've done this
+
+1573
+00:56:12.725 --> 00:56:14.045
+hundreds of times at this point.
+
+1574
+00:56:14.265 --> 00:56:16.125
+And so with that being said,
+
+1575
+00:56:16.315 --> 00:56:17.245
+I'll see you in the next training.

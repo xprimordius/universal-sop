@@ -1,0 +1,146 @@
+﻿New Client Onboarding Process
+
+
+The client is BY FAR the MOST nervous, apprehensive, and IMPRESSIONABLE right after they purchase. Especially if they’re from ads. They are apprehensive about whether or not they’ve made the right purchase and it’s the job of fulfilment to not only ensure they HAVE made the right decision but also ensure that there’s NO WHERE ELSE they could be that’s going to treat them better and get them better results than at your company.
+
+
+Within the onboarding phase you MUST be accommodating enough to make the client feel unique, valued, and ensure they have trust in you to do what’s best for them… But you also can’t give up power to the client and be reactionary to what they “demand” - you must ensure you maintain leadership within the client relationship.
+
+
+The OB experience (including the onboarding call itself) and diagnosis sets the stage for the entire engagement with the client.
+
+
+After the first 5-7 days of a new client being onboard they should be thinking:
+1. I can see the path to success (the reason I bought the service/program in the first place)
+2. I REALLY like who I’m working with (emotional side → Their perspective on us/the team/the company/the process)
+3. And I have full confidence in the fact that this is THE team that will get me to exactly where I want to go
+
+
+Essentially the client should feel loved, genuinely cared for, and ultimately feel as though they have someone in their corner who’s continuously fighting for their best interests.
+The Handover From Sales To Fulfilment
+Closer:
+1. Set the correct expectations on the sales call
+2. Collect payment + sign the contract on the sales call
+3. Get the prospect HYPED for making the decision to become a client and immediately start setting up their slack channel (do this as they’re paying the invoice + signing the contract)
+   1. “Awesome! While you’re doing that, let me get your slack channel set up so we can hit the ground running ASAP!”
+      1. Explain to client that the slack channel is where everything is run out of when working with us.
+   2. As you create the channel, introduce the rest of the team (as you’re adding them in)
+4. Make sure they get access. Explain the immediate next steps, which is they need to complete the OB funnel (more on this in a minute). While you’re still on the call, walk them through the OB funnel step by step and explain each step + WHY we require each step to be complete (OB funnel is here)
+5. Make sure they’re clear on the OB steps - then manually schedule them into the OB calendar so that they’re locked in for their next call with us. (proactive)
+6. Get them excited about the process and mention that you’ll be dropping a loom video in their channel as well.
+   1. Just before you end the call make sure to ask how they’re feeling and any questions/worries they have.
+   2. End the call
+7. Send over a loom video re-explaining next steps and re-selling them on the process (send this with a voice note)
+   1. Examples:
+      1. https://loom.com/share/4da7d03890cf482e9d44824bf7cf7476
+      2. https://loom.com/share/b9282318ef614beb8a9f248d1d04b172
+      3. https://www.loom.com/share/a6b562dcc22f4b989b42b0a8902db852
+      4. https://loom.com/share/db9fd7b8dc73480da02a364c3623a2ee
+      5. https://loom.com/share/edde8ec9580f4ef2a81596baa0d6987b
+   2. Either in the loom or in the voice note the closer needs to hand over trust from themselves onto the fulfilment team.
+      1. Explain each team member and potentially some of their track record/past results.
+8. Inside a Slack channel called “new-clients” the closer needs to tag @channel with the below message:
+   1. NEW CLIENT @channel
+   2. Name:
+   3. Email:
+   4. Doc:
+      1. + voice note on the client:
+         1. The voice note needs to cover who the client is, their offer, their starting point (current revenue), their goals, their biggest struggles/past failures, etc
+            1. Essentially in the voice note we want enough information so that the rest of the team knows exactly where the new client is currently at and what exactly is it they want.
+
+
+Fulfilment Team:
+* As the closer tags the “New-Clients”, the fulfilment team will see the new client information given the closer sends the below message:
+      * NEW CLIENT @channel
+      * Name:
+      * Email:
+      * Doc:
+         * + voice note on the client:
+* CSM creates a channel using client info (if closer hasn’t already) → introduce yourself FIRST → THEN add the client
+* Pile on: The whole team introduces themselves using the info the closer dropped in new-clients channel
+   * Relate this new client to one you currently have who’s getting great results.
+      * Ideally, speak about a current client who’s in the same niche AND is CURRENTLY achieving the same outcome as the new client wants to achieve with the program/service (this would be the most ideal situation)
+   * Reference their offer, their current struggles, their goals, etc. (all given by the closer in the “new-clients” channel)
+   * Introducing yourself is a PRIORITY as it will have the BIGGEST impact on the client and by extension their results - so this takes priority over ANY OTHER TASK as soon as a new client pays (provided you’re awake)
+* Get the new client to complete your onboarding process
+   * If they haven’t already booked their OB call then push them to do so.
+The OB Funnel:
+1. Intro video selling prospect on the process
+   1. Indirectly cover client results
+   2. Show the math (if it makes sense) to your client achieving their goals and what it looks like in reality
+   3. What’s needed from the client? Set expectations in terms of requirements
+   4. Next steps
+2. In-take form
+   1. Getting the required insight you need into your clients business
+   2. Getting access to the tech you need
+3. Schedule OB call
+4. Any other required access
+5. Next steps
+
+
+Here’s ours for reference: http://scaleclients.io/onboarding
+
+
+Here’s the plug n play funnel template (for clickfunnels): https://app.clickfunnels.com/funnels/12163151/share/ihhmycz40d6slz19 
+Once The Client Has Completed The OB Funnel…
+* The next big milestone will be the CSD taking the OB call with the client (typically taken within 1-3 days of onboarding).
+   * When the client books the OB call I recommend setting up a zap/automation that notifies a specific channel (we have a “ob-call-booked”).
+      * This gives the rest of the team understanding on when the call is scheduled for so that the AM can follow up with the client with context.
+         *      * What the AM needs to focus on in the interim between the client completing the OB funnel and them getting on the OB call is the following:
+   * Ensuring full access has been provided
+   * For us this refers to: Skool, their teams in Slack, we’ve gotten access to their FB assets
+   * Answering any upfront questions they have
+   * Ensuring Asana is fully complete with the new client + their info
+   * Making sure the client knows you’re available for anything they need
+   * The OB call takes place…
+   * Once this is complete, the CSD will drop the respective clients “OB doc” in their slack channel for the clients reference and this’ll give the AMs the cue that they’ve completed the call.
+   * Now the AM needs to want to watch the OB call recording (it’ll be inside Asana) so they’re up to speed with the client and start proactively leading them on next steps
+   * “Next Steps” should be spoken about on the OB call
+   * Now you start your normal communication cadence with the client.
+How To Conduct Onboarding Calls w/ New Clients
+In my opinion, this should be the last thing you delegate as the founder given the impacts (as discussed above) onboarding can have on a clients experience.
+
+
+When you delegate them, you can either get your AMs to do them or your CSD. We have our CSD take all onboarding calls.
+Here’s The Call Flow:
+   1. Build rapport
+   1. I’m not a fan of building rapport on sales calls but on onboarding calls it’s super important to making the client “like who they’re working with”.
+   2. Usually I start by asking where they’re based and from there we go on a 5 minute conversation about family/their history/how they got started with what they’re currently doing, etc
+   3. This shouldn’t last longer than 10 minutes
+   2. “Before we dive in, were there any specific questions/queries you had on your end during the onboarding process so far?”
+   1. This is more so to get the tech/access/basic questions out the way that the client may have.
+   1. Usually it’ll only take a few minutes
+________________
+
+
+The above will be universal for almost every offer. The main part of the onboarding call is obviously going to be very tailored depending on your market and deliverables.
+
+
+Below is the framework we follow. I would take what we do and apply it to your own offer.
+
+
+________________
+
+
+
+
+   3. Create immediate pathways to goals
+   1. In our onboarding form we ask “What’s your main goal?” as well as “Please list up to 5 other goals you would like to achieve”
+   1. In the onboarding call we take those 5-6 main focuses/priorities for the client and map out immediate pathways to help them getting those solved.
+   1. A lot of these pathways involve the client watching certain trainings/course content. Othertimes it can involve them booking in calls with certain team members (sales, AM, etc). And othertimes they’re topics we can discuss immediately on the OB call.
+   4. Build out a productized offer
+   1. This is something WE need to go through with the client (whether they think they need to or not). Oftentimes a handful of their goals (from the prior section) tie into creating a better, more scalable, more productized offer so this ties in well.
+   2. For our service we need to help clients create a good offer otherwise we will never be able to make the ads work.
+   1. This is usually where 20-30 minutes of the call gets spent and we make sure the client has 100% buy in to what we discuss and they feel GOOD about moving forward.
+   5. Specifically explain next steps and how they ought to do them
+   1. For us this is primarily the VSL.
+   1. We share screen and show clients exactly how they need to create the VSL, etc
+   2. This also includes the pathways created above for their other goals/focuses
+   6. Answer any final questions from the client
+   7. End the call
+
+
+These should usually be 60 minutes and be filled with super valuable and clear information.
+
+
+The client should leave this call with CLARITY on EXACTLY what they need to do (if anything) over the next few weeks and they should also really like you as well as feel as though you are THE team to get them to their goals.

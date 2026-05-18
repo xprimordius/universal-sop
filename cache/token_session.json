@@ -1,0 +1,127 @@
+{
+  "id": "2026-03-13T12-27-01-245Z",
+  "started": "2026-03-13T12:27:01.249Z",
+  "budget": 160000,
+  "activities": [
+    {
+      "timestamp": "2026-03-13T12:27:17.032Z",
+      "activity": "System prompt + CLAUDE.md",
+      "tokens": 15000,
+      "cumulative_before": 0,
+      "cumulative_after": 15000
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.110Z",
+      "activity": "Alan session-start message",
+      "tokens": 1500,
+      "cumulative_before": 15000,
+      "cumulative_after": 16500
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.182Z",
+      "activity": "Read CONTEXT_TRANSFER.md",
+      "tokens": 1379,
+      "cumulative_before": 16500,
+      "cumulative_after": 17879
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.257Z",
+      "activity": "Read APW_MASTER_CACHE.md",
+      "tokens": 3480,
+      "cumulative_before": 17879,
+      "cumulative_after": 21359
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.326Z",
+      "activity": "Read BUILD_STATE_CACHE.md",
+      "tokens": 2216,
+      "cumulative_before": 21359,
+      "cumulative_after": 23575
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.394Z",
+      "activity": "Read SCIO_KNOWLEDGE_CACHE.md",
+      "tokens": 6015,
+      "cumulative_before": 23575,
+      "cumulative_after": 29590
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.463Z",
+      "activity": "Read PROGRAM_DETAILS_CACHE.md",
+      "tokens": 1757,
+      "cumulative_before": 29590,
+      "cumulative_after": 31347
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.531Z",
+      "activity": "Read USER_FOUNDATION_CACHE.md",
+      "tokens": 1588,
+      "cumulative_before": 31347,
+      "cumulative_after": 32935
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.601Z",
+      "activity": "Read TOKEN_BUDGET_LOG.md",
+      "tokens": 1269,
+      "cumulative_before": 32935,
+      "cumulative_after": 34204
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.671Z",
+      "activity": "Read SUBCACHE_INDEX.md",
+      "tokens": 945,
+      "cumulative_before": 34204,
+      "cumulative_after": 35149
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.739Z",
+      "activity": "Read BACKUP_LOG.md",
+      "tokens": 522,
+      "cumulative_before": 35149,
+      "cumulative_after": 35671
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.806Z",
+      "activity": "D25 session start report (output)",
+      "tokens": 4000,
+      "cumulative_before": 35671,
+      "cumulative_after": 39671
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.878Z",
+      "activity": "Alan message 2 (implement code)",
+      "tokens": 500,
+      "cumulative_before": 39671,
+      "cumulative_after": 40171
+    },
+    {
+      "timestamp": "2026-03-13T12:27:17.951Z",
+      "activity": "Read sop_v38_CURRENT.js (30 lines)",
+      "tokens": 500,
+      "cumulative_before": 40171,
+      "cumulative_after": 40671
+    },
+    {
+      "timestamp": "2026-03-13T12:27:18.023Z",
+      "activity": "Token tracker code (output)",
+      "tokens": 5000,
+      "cumulative_before": 40671,
+      "cumulative_after": 45671
+    },
+    {
+      "timestamp": "2026-03-13T12:27:59.074Z",
+      "activity": "Token tracker testing + this response",
+      "tokens": 3000,
+      "cumulative_before": 45671,
+      "cumulative_after": 48671
+    },
+    {
+      "timestamp": "2026-03-13T12:29:08.063Z",
+      "activity": "Threshold confirmation (Alan msg + response)",
+      "tokens": 1500,
+      "cumulative_before": 48671,
+      "cumulative_after": 50171
+    }
+  ],
+  "cumulative": 50171
+}

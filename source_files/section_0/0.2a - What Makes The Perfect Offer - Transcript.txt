@@ -1,0 +1,1189 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.690
+Alright, in this trend we're gonna go through
+
+2
+00:00:01.690 --> 00:00:03.245
+what makes the perfect offer.
+
+3
+00:00:03.245 --> 00:00:05.245
+Alright? So there's two core things that you need
+
+4
+00:00:05.245 --> 00:00:07.165
+to be looking at and factoring in when
+
+5
+00:00:07.165 --> 00:00:08.285
+you are creating your offer.
+
+6
+00:00:08.505 --> 00:00:09.885
+Number one is the tamp
+
+7
+00:00:09.885 --> 00:00:11.445
+or the total addressable market
+
+8
+00:00:11.865 --> 00:00:13.845
+of the particular industry that you're going after.
+
+9
+00:00:14.025 --> 00:00:15.445
+So we always wanna start with the tam prior
+
+10
+00:00:15.445 --> 00:00:17.765
+to creating your offer as when running ads.
+
+11
+00:00:17.905 --> 00:00:19.405
+We need the market that we're going
+
+12
+00:00:19.525 --> 00:00:20.885
+after to be a certain size,
+
+13
+00:00:20.885 --> 00:00:23.725
+otherwise we can't effectively scale the ads, right?
+
+14
+00:00:23.745 --> 00:00:25.965
+And obviously, tam, as I said, total addressable market,
+
+15
+00:00:26.395 --> 00:00:28.965
+meaning how many people are in the
+
+16
+00:00:28.965 --> 00:00:30.285
+market that we're going after.
+
+17
+00:00:30.625 --> 00:00:33.845
+Now, the ideal TAM is more than 30,000 in the US
+
+18
+00:00:34.185 --> 00:00:35.605
+and less than a hundred thousand.
+
+19
+00:00:36.105 --> 00:00:38.885
+And the reason why we want it to be more than 30,000 is so
+
+20
+00:00:38.885 --> 00:00:41.005
+that it gives us some good scale on ads, right?
+
+21
+00:00:41.035 --> 00:00:43.845
+However, we want less than a hundred thousand because
+
+22
+00:00:43.845 --> 00:00:46.045
+otherwise our messaging is gonna be too broad.
+
+23
+00:00:46.225 --> 00:00:47.765
+And then we, we would just need
+
+24
+00:00:47.765 --> 00:00:49.205
+to narrow it down a little bit at that point.
+
+25
+00:00:49.385 --> 00:00:51.445
+Now, if the market that you are planning on, on going
+
+26
+00:00:51.445 --> 00:00:53.445
+after is above a hundred thousand, then all we need
+
+27
+00:00:53.445 --> 00:00:55.885
+to do is refine our messaging slightly and go
+
+28
+00:00:55.885 --> 00:00:57.805
+after a segment of that market.
+
+29
+00:00:58.025 --> 00:01:01.085
+Now, we can help you with this, with, um, um, you know,
+
+30
+00:01:01.085 --> 00:01:03.245
+we can help you on your onboarding call if you don't already
+
+31
+00:01:03.245 --> 00:01:04.445
+have this clearly mapped out.
+
+32
+00:01:04.625 --> 00:01:06.165
+But it's just something I want you
+
+33
+00:01:06.165 --> 00:01:08.325
+to be thinking about again, prior to your onboarding call.
+
+34
+00:01:08.665 --> 00:01:10.605
+Now this applies to the niche that we're targeting,
+
+35
+00:01:10.785 --> 00:01:13.005
+but more importantly, it re, uh, applies
+
+36
+00:01:13.025 --> 00:01:14.445
+to the revenue level, okay?
+
+37
+00:01:14.445 --> 00:01:16.765
+If it, you know, if you're gonna have to B two B,
+
+38
+00:01:16.865 --> 00:01:18.605
+if you're gonna have to B two C, don't worry about it.
+
+39
+00:01:18.825 --> 00:01:20.485
+But B two B, this is super important.
+
+40
+00:01:20.485 --> 00:01:23.805
+So, for example, this is a complete example by the way.
+
+41
+00:01:24.065 --> 00:01:27.205
+Uh, there may be 50,000 coffee businesses in the US
+
+42
+00:01:27.505 --> 00:01:31.925
+but only a 10,000, uh, who make more than 500,000 a year.
+
+43
+00:01:32.025 --> 00:01:34.925
+So the TAM of coffee businesses is perfect, 50,000.
+
+44
+00:01:34.925 --> 00:01:36.045
+That's a great niche to go after.
+
+45
+00:01:36.115 --> 00:01:40.245
+However, if in this case you wanted people, as I said here,
+
+46
+00:01:40.425 --> 00:01:42.565
+if your ideal client is a coffee business making over
+
+47
+00:01:42.565 --> 00:01:46.245
+500,000 per year, well, for that specific segment,
+
+48
+00:01:46.245 --> 00:01:48.845
+there's only 10,000, which is below the ideal TAM
+
+49
+00:01:48.845 --> 00:01:50.685
+that we need to, that we want of 30,000.
+
+50
+00:01:50.905 --> 00:01:53.285
+All right? So in this instance, what we would need
+
+51
+00:01:53.285 --> 00:01:55.485
+to do is expand the niche slash call out
+
+52
+00:01:55.665 --> 00:01:57.085
+or go into an adjacent market,
+
+53
+00:01:57.255 --> 00:01:59.685
+which in this instance could be maybe CPG brands.
+
+54
+00:01:59.735 --> 00:02:01.485
+Again, complete example. But you get the point
+
+55
+00:02:01.485 --> 00:02:03.205
+of we would just need to expand the market
+
+56
+00:02:03.385 --> 00:02:05.765
+and go into, you know, either an adjacent market,
+
+57
+00:02:05.775 --> 00:02:07.245
+which could be CCP G brands,
+
+58
+00:02:07.585 --> 00:02:10.205
+or we would just, maybe instead of saying, uh,
+
+59
+00:02:10.205 --> 00:02:12.285
+coffee businesses above 500,000 a year,
+
+60
+00:02:12.285 --> 00:02:14.725
+which is about 40 KA month, maybe just change the call out,
+
+61
+00:02:15.145 --> 00:02:17.005
+expand the call out, or broaden the call out
+
+62
+00:02:17.185 --> 00:02:19.685
+to coffee businesses making more than 10 K per month.
+
+63
+00:02:19.865 --> 00:02:20.925
+And then obviously, you know,
+
+64
+00:02:20.945 --> 00:02:24.205
+if there's 10,000 people making 500,000 a year, well,
+
+65
+00:02:24.205 --> 00:02:26.485
+if you was to drop that from 40 KA month, 500,000 a year
+
+66
+00:02:26.485 --> 00:02:30.085
+to 10 KA month, that would then massively open up your tam
+
+67
+00:02:30.265 --> 00:02:32.165
+and most likely would probably take you
+
+68
+00:02:32.165 --> 00:02:34.965
+to about 30,000 if the total bi, if the total, uh,
+
+69
+00:02:34.965 --> 00:02:35.965
+amount was 50,000.
+
+70
+00:02:35.965 --> 00:02:36.965
+Hopefully that makes sense.
+
+71
+00:02:37.435 --> 00:02:40.205
+However, and typically you can find the TAM
+
+72
+00:02:40.425 --> 00:02:43.085
+of almost any market by just simply searching on Google.
+
+73
+00:02:43.185 --> 00:02:45.245
+So if we was to do it, how many coffee
+
+74
+00:02:47.685 --> 00:02:49.045
+businesses in the us?
+
+75
+00:02:49.955 --> 00:02:53.085
+Usually it gives you a rough number. There you go.
+
+76
+00:02:53.725 --> 00:02:54.805
+I actually didn't know. Um,
+
+77
+00:02:54.805 --> 00:02:57.005
+but the number of coffee shops, oh, that's coffee shops,
+
+78
+00:02:57.115 --> 00:02:58.445
+okay, uh, in the, in the
+
+79
+00:02:58.445 --> 00:03:01.365
+United States grew to approximately 38,400.
+
+80
+00:03:01.365 --> 00:03:03.925
+So my 50,000 guests wasn't actually far off, right?
+
+81
+00:03:04.105 --> 00:03:06.565
+So that's it. This is, you know, if you was to go
+
+82
+00:03:06.565 --> 00:03:07.765
+after coffee shops, this was,
+
+83
+00:03:07.765 --> 00:03:10.645
+this would be all the confirmation you need 38,400,
+
+84
+00:03:10.745 --> 00:03:12.205
+that's perfect for the TAM size.
+
+85
+00:03:12.265 --> 00:03:14.125
+That's a great needs to go after. Let's hit it, right?
+
+86
+00:03:14.125 --> 00:03:18.405
+That's all you need. That the second part to the creating
+
+87
+00:03:18.555 --> 00:03:20.205
+what makes the perfect offer is the tam.
+
+88
+00:03:20.465 --> 00:03:22.645
+And then it's the outcome itself.
+
+89
+00:03:22.745 --> 00:03:24.245
+The specific outcome, okay?
+
+90
+00:03:24.385 --> 00:03:26.405
+So once you've defined a niche that has a tam between 30
+
+91
+00:03:26.405 --> 00:03:28.485
+to a hundred thousand, we then need to identify
+
+92
+00:03:28.675 --> 00:03:30.245
+that specific markets.
+
+93
+00:03:30.675 --> 00:03:31.805
+When I say that specific markets,
+
+94
+00:03:31.925 --> 00:03:34.285
+I mean coffee brands making over 500 KA year.
+
+95
+00:03:34.305 --> 00:03:35.445
+If that's who it was to go
+
+96
+00:03:35.445 --> 00:03:37.125
+after, if we figured out that actually the time
+
+97
+00:03:37.125 --> 00:03:39.845
+of those guys is between 30 to a hundred thousand, great,
+
+98
+00:03:40.035 --> 00:03:41.725
+well, now we need to figure out what is
+
+99
+00:03:41.725 --> 00:03:44.325
+that specific market's preexisting desire?
+
+100
+00:03:44.475 --> 00:03:45.805
+What is the preexisting desire
+
+101
+00:03:45.805 --> 00:03:47.805
+of coffee brands making over 500 KA year?
+
+102
+00:03:48.105 --> 00:03:49.605
+Not coffee brands period,
+
+103
+00:03:49.745 --> 00:03:51.765
+but coffee brands making over 500 KA year
+
+104
+00:03:51.765 --> 00:03:53.605
+because of, uh, you know, coffee brand
+
+105
+00:03:54.275 --> 00:03:57.685
+five KA month is gonna have a very different pre-existing
+
+106
+00:03:57.685 --> 00:04:00.365
+desire to a coffee company at 50 KA month.
+
+107
+00:04:00.395 --> 00:04:01.565
+Does that make sense? So you have
+
+108
+00:04:01.565 --> 00:04:04.125
+to base it on the specific qualified person
+
+109
+00:04:04.125 --> 00:04:05.925
+that you're trying to go after in terms of the outcome.
+
+110
+00:04:06.545 --> 00:04:08.365
+So every market segment has a
+
+111
+00:04:08.365 --> 00:04:09.565
+pre-existing pre-existing desire.
+
+112
+00:04:09.705 --> 00:04:11.445
+And when we're creating offers, we're not trying
+
+113
+00:04:11.445 --> 00:04:14.325
+to create desire in the market, we simply need
+
+114
+00:04:14.325 --> 00:04:16.805
+to look at the market segment and find the preexisting
+
+115
+00:04:16.805 --> 00:04:19.565
+desire and channel that into the offer that we make.
+
+116
+00:04:19.705 --> 00:04:21.485
+So we're not trying to create desire in the market,
+
+117
+00:04:21.575 --> 00:04:23.925
+we're trying to find the desire that already exists,
+
+118
+00:04:24.015 --> 00:04:26.605
+which there is a desire in every market that already exists.
+
+119
+00:04:26.865 --> 00:04:29.325
+You wanna find that. And again, you don't need, like we,
+
+120
+00:04:29.325 --> 00:04:32.005
+we'll work with you on this, but we need to find whatever
+
+121
+00:04:32.005 --> 00:04:33.805
+that is for the industry that you want to go after.
+
+122
+00:04:34.185 --> 00:04:35.885
+And then we need to create an offer
+
+123
+00:04:35.885 --> 00:04:37.165
+around that specific market.
+
+124
+00:04:37.385 --> 00:04:39.965
+Uh, sorry, that specific desire. Hopefully this makes sense.
+
+125
+00:04:39.985 --> 00:04:42.285
+In other words, you wanna optimize your fulfillment
+
+126
+00:04:42.285 --> 00:04:45.605
+and offer around your preexisting de uh, uh,
+
+127
+00:04:45.605 --> 00:04:48.405
+around your market's preexisting desires, not try
+
+128
+00:04:48.405 --> 00:04:51.885
+to change the market's desires to fit your fulfillment.
+
+129
+00:04:51.995 --> 00:04:53.085
+This is really important.
+
+130
+00:04:53.305 --> 00:04:56.685
+You wanna optimize your business for the market's desires,
+
+131
+00:04:57.025 --> 00:04:58.725
+not try to change the market's
+
+132
+00:04:58.725 --> 00:05:00.285
+desires to suit your business.
+
+133
+00:05:00.945 --> 00:05:02.085
+If, if you do the latter,
+
+134
+00:05:02.635 --> 00:05:05.525
+that is literally you signing a note to never scale.
+
+135
+00:05:05.835 --> 00:05:07.125
+It's like, I never wanna scale.
+
+136
+00:05:07.345 --> 00:05:08.925
+If that's what you're trying to do, you're trying
+
+137
+00:05:08.925 --> 00:05:09.965
+to force your fulfillment,
+
+138
+00:05:09.965 --> 00:05:12.365
+your business onto the market, it doesn't work.
+
+139
+00:05:12.625 --> 00:05:14.405
+You have to look at what is it that they want.
+
+140
+00:05:14.945 --> 00:05:18.005
+How can I deliver that? Not what can I deliver, okay?
+
+141
+00:05:18.025 --> 00:05:19.405
+How can I make the market want?
+
+142
+00:05:19.405 --> 00:05:22.005
+That it, it seems so small,
+
+143
+00:05:22.225 --> 00:05:23.485
+but that is gonna be the difference
+
+144
+00:05:23.485 --> 00:05:25.685
+between you be doing a million a month
+
+145
+00:05:25.865 --> 00:05:27.365
+and you doing 10 KA month.
+
+146
+00:05:27.475 --> 00:05:30.045
+Like literally it is so important.
+
+147
+00:05:31.225 --> 00:05:34.605
+So in other words, you wanna ask the question, if I was
+
+148
+00:05:34.605 --> 00:05:37.245
+to ask every person in this market segment,
+
+149
+00:05:37.425 --> 00:05:39.325
+coffee business is making over 500 KA
+
+150
+00:05:39.325 --> 00:05:40.365
+year for using that as an example.
+
+151
+00:05:40.865 --> 00:05:43.845
+If I was to ask every single one of them what they want,
+
+152
+00:05:44.195 --> 00:05:46.245
+what would 80% or more tell me?
+
+153
+00:05:46.505 --> 00:05:48.405
+In other words, what is at the forefront
+
+154
+00:05:48.405 --> 00:05:49.845
+of their mind every single day?
+
+155
+00:05:50.665 --> 00:05:52.485
+That's it. Now, the easiest
+
+156
+00:05:52.485 --> 00:05:53.845
+to offer framework is actually just
+
+157
+00:05:53.845 --> 00:05:55.925
+to find the market's, quote broken arm.
+
+158
+00:05:56.835 --> 00:05:58.125
+Take the inverse of that
+
+159
+00:05:58.665 --> 00:06:01.485
+and guarantee that you will give them a big amount of
+
+160
+00:06:01.485 --> 00:06:03.565
+that thing in the immediate future, 90
+
+161
+00:06:03.565 --> 00:06:05.285
+to a hundred days, or they get their money back.
+
+162
+00:06:05.475 --> 00:06:07.965
+That is like the easiest offer framework,
+
+163
+00:06:07.965 --> 00:06:09.205
+the most basic offer framework.
+
+164
+00:06:09.205 --> 00:06:11.325
+So for example, acis one, you know, if I was
+
+165
+00:06:11.325 --> 00:06:14.645
+to ask this question to my market, ant's coaches, et cetera,
+
+166
+00:06:15.265 --> 00:06:17.925
+uh, they would all say, I want more qualified sales calls
+
+167
+00:06:18.105 --> 00:06:20.165
+and three k per month plus clients that retain
+
+168
+00:06:20.165 --> 00:06:22.845
+for 12 months plus that also are great clients to work with.
+
+169
+00:06:23.315 --> 00:06:25.325
+Like ask any owner,
+
+170
+00:06:25.395 --> 00:06:27.165
+they will tell you some variation of this.
+
+171
+00:06:27.825 --> 00:06:29.165
+I'm telling you right now, I, I know
+
+172
+00:06:29.165 --> 00:06:30.685
+because I've done the search research, right?
+
+173
+00:06:31.305 --> 00:06:32.605
+And so then guess what our offer is?
+
+174
+00:06:33.105 --> 00:06:35.925
+Our offer is marks 90, above 25 KA month.
+
+175
+00:06:36.175 --> 00:06:38.405
+We'll guarantee you 15 new clients per month in your full
+
+176
+00:06:38.405 --> 00:06:39.725
+price retainer or you don't pay.
+
+177
+00:06:39.725 --> 00:06:41.085
+And I'll send you three K for wasting your time.
+
+178
+00:06:42.035 --> 00:06:43.645
+That is our offer. It's literally
+
+179
+00:06:43.645 --> 00:06:44.725
+the inverse of their desire.
+
+180
+00:06:45.495 --> 00:06:48.085
+Again, this has been built off the back of
+
+181
+00:06:48.085 --> 00:06:49.685
+what my market's preexisting desire is.
+
+182
+00:06:49.985 --> 00:06:51.685
+I'm not trying to change their
+
+183
+00:06:51.825 --> 00:06:53.605
+desire, I'm just looking at it.
+
+184
+00:06:54.105 --> 00:06:56.245
+Oh, this is what everyone in my market deeply wants.
+
+185
+00:06:56.245 --> 00:06:58.125
+This is what they really want. Like, you know,
+
+186
+00:06:58.135 --> 00:06:59.885
+would agency owners like more leads?
+
+187
+00:07:00.155 --> 00:07:01.125
+It's like, yeah, they would,
+
+188
+00:07:01.345 --> 00:07:02.405
+but that's not what they really want.
+
+189
+00:07:02.425 --> 00:07:04.125
+You know, if in, in our ads I said,
+
+190
+00:07:04.125 --> 00:07:05.165
+Hey, I'll get you more leads.
+
+191
+00:07:05.425 --> 00:07:06.765
+You would never be watching this video right now
+
+192
+00:07:06.845 --> 00:07:09.765
+'cause you never would've been interested in our ad, but
+
+193
+00:07:09.765 --> 00:07:12.565
+because I spoke to your preexisting desire of more clients,
+
+194
+00:07:12.675 --> 00:07:14.165
+more sales calls, et cetera,
+
+195
+00:07:14.265 --> 00:07:15.445
+you were like, oh, that's what I want.
+
+196
+00:07:15.445 --> 00:07:17.685
+You click the ad, you became a client. Simple as that.
+
+197
+00:07:18.585 --> 00:07:20.765
+Now, of course, with our offer, this
+
+198
+00:07:20.765 --> 00:07:21.845
+of course has requirements
+
+199
+00:07:21.865 --> 00:07:23.085
+as mentioned in the previous training,
+
+200
+00:07:23.085 --> 00:07:24.125
+the offer logistics training.
+
+201
+00:07:24.625 --> 00:07:26.125
+It of course has requirements.
+
+202
+00:07:26.125 --> 00:07:27.725
+However, that's when the logistics
+
+203
+00:07:27.725 --> 00:07:29.645
+and the downsell training comes into play.
+
+204
+00:07:29.645 --> 00:07:31.365
+Like we covered in the previous one. Right?
+
+205
+00:07:31.585 --> 00:07:33.725
+Now, if you want a more formal way of defining the offer,
+
+206
+00:07:33.955 --> 00:07:36.165
+it's essentially this little framework here, um,
+
+207
+00:07:36.215 --> 00:07:40.765
+which is basically the offer equals the niche plus
+
+208
+00:07:41.305 --> 00:07:45.005
+the, uh, metrics times by the volume plus the timeframe
+
+209
+00:07:46.035 --> 00:07:47.045
+with a risk reversal.
+
+210
+00:07:47.105 --> 00:07:49.645
+In other words, what's the niche that you're going after?
+
+211
+00:07:49.645 --> 00:07:51.605
+What's the target targeted market segment
+
+212
+00:07:51.875 --> 00:07:53.685
+that you know fits the, uh, the tam?
+
+213
+00:07:53.875 --> 00:07:56.285
+Okay? So the 30 to uh, 30,000 to a hundred thousand,
+
+214
+00:07:56.585 --> 00:07:58.965
+what's the metric that they all want, right?
+
+215
+00:07:59.425 --> 00:08:01.405
+What's the quantity? What's the volume
+
+216
+00:08:01.515 --> 00:08:02.525
+that would get them excited?
+
+217
+00:08:02.595 --> 00:08:05.765
+Because I could say here, one new client a month.
+
+218
+00:08:05.865 --> 00:08:08.485
+So even though the metric of new clients is the thing
+
+219
+00:08:08.485 --> 00:08:11.205
+that our market really, really wants, if I was
+
+220
+00:08:11.205 --> 00:08:13.205
+to say a volume of one per month,
+
+221
+00:08:13.585 --> 00:08:15.005
+you would've also never clicked the ad.
+
+222
+00:08:15.185 --> 00:08:17.565
+So you need the metric that everybody wants as well
+
+223
+00:08:17.565 --> 00:08:20.045
+as a desirable volume of that metric, right?
+
+224
+00:08:20.045 --> 00:08:22.245
+So what is the volume? Then you need a timeframe.
+
+225
+00:08:23.025 --> 00:08:25.925
+So in our case, we say per month, okay,
+
+226
+00:08:26.145 --> 00:08:29.045
+you could do in the next 180 days, in the next six months,
+
+227
+00:08:29.065 --> 00:08:30.725
+in the next three months, whatever it might be.
+
+228
+00:08:30.945 --> 00:08:34.485
+But you do need a quantifiable specific timeframe in which
+
+229
+00:08:34.485 --> 00:08:36.805
+you're going to deliver the specific result.
+
+230
+00:08:37.185 --> 00:08:39.325
+And then you need a risk reversal.
+
+231
+00:08:39.545 --> 00:08:41.405
+So what are some ass assurances
+
+232
+00:08:41.405 --> 00:08:43.005
+that you're gonna give the client in order for them
+
+233
+00:08:43.005 --> 00:08:44.445
+to be able to mitigate their risk?
+
+234
+00:08:44.755 --> 00:08:47.125
+Okay? Typically the best one to do is all you don't pay.
+
+235
+00:08:47.265 --> 00:08:50.045
+And again, you, you, you are, you are not open to a lot
+
+236
+00:08:50.045 --> 00:08:51.765
+of risk at that point because of the previous training
+
+237
+00:08:51.765 --> 00:08:53.085
+that we went through with the o offer
+
+238
+00:08:53.405 --> 00:08:54.525
+logistics, okay? So you cover
+
+239
+00:08:54.765 --> 00:08:56.885
+Yourself, uh, as a business owner from risk
+
+240
+00:08:57.185 --> 00:08:58.205
+by having those things
+
+241
+00:08:58.205 --> 00:09:00.005
+that we spoke about previously in place.
+
+242
+00:09:00.825 --> 00:09:02.565
+And again, I wanna reinforce this.
+
+243
+00:09:02.825 --> 00:09:04.445
+At this stage, all you need
+
+244
+00:09:04.445 --> 00:09:06.485
+to do is just be thinking about your TAM
+
+245
+00:09:06.665 --> 00:09:08.085
+and about the market that you're going after
+
+246
+00:09:08.505 --> 00:09:10.005
+and the your offers outcome.
+
+247
+00:09:10.005 --> 00:09:11.525
+That's all you need to be thinking about right now.
+
+248
+00:09:11.865 --> 00:09:14.045
+You do not need to create this yourself as we will work
+
+249
+00:09:14.045 --> 00:09:15.525
+with you to create the perfect
+
+250
+00:09:15.525 --> 00:09:16.805
+offer on your onboarding call.
+
+251
+00:09:16.875 --> 00:09:18.525
+Just wanna put, put that out there.
+
+252
+00:09:18.535 --> 00:09:20.645
+Don't feel as though you need to do this on your own.
+
+253
+00:09:21.395 --> 00:09:24.565
+Just be thinking, okay, what is my tam Uh, oh, sorry,
+
+254
+00:09:24.565 --> 00:09:27.165
+what is the market that fits 30 to a hundred thousand?
+
+255
+00:09:27.745 --> 00:09:31.325
+And then be thinking about if I could give them, you know,
+
+256
+00:09:31.325 --> 00:09:32.925
+if, if, if I could give them exactly
+
+257
+00:09:32.955 --> 00:09:34.765
+what they want, what would that be?
+
+258
+00:09:35.185 --> 00:09:38.205
+Not what would they like, what would maybe interest them?
+
+259
+00:09:38.465 --> 00:09:39.845
+No, no, don't think about that.
+
+260
+00:09:39.845 --> 00:09:42.565
+Think about what is the thing that they just would die
+
+261
+00:09:42.565 --> 00:09:45.725
+for if they just could get 10 of those a month, 50
+
+262
+00:09:45.725 --> 00:09:47.365
+of those a month, a hundred of those a month.
+
+263
+00:09:47.555 --> 00:09:50.485
+What is that thing? Get specific.
+
+264
+00:09:51.385 --> 00:09:53.045
+And then think about a number
+
+265
+00:09:53.065 --> 00:09:55.725
+or volume of what is 50 enough?
+
+266
+00:09:55.745 --> 00:09:57.325
+Is a hundred enough? Is 10 enough?
+
+267
+00:09:57.515 --> 00:09:59.765
+What is the thing that if they saw this, they would be like,
+
+268
+00:10:00.105 --> 00:10:02.005
+oh my gosh, this is insane.
+
+269
+00:10:02.235 --> 00:10:04.885
+Like, what would that look like? And then let's start there.
+
+270
+00:10:05.265 --> 00:10:07.005
+Not saying that we have to, 'cause you know, we don't wanna,
+
+271
+00:10:07.465 --> 00:10:10.725
+you know, if a hundred clients a month for an AC on,
+
+272
+00:10:10.725 --> 00:10:12.645
+it might be like, obviously that's gonna be insane,
+
+273
+00:10:12.705 --> 00:10:14.445
+but I'm also not gonna do a hundred clients a month.
+
+274
+00:10:14.445 --> 00:10:15.285
+We're not actually gonna be able
+
+275
+00:10:15.285 --> 00:10:16.325
+to deliver that for a client, right?
+
+276
+00:10:17.065 --> 00:10:19.565
+So I'm not gonna, but you could start there though, and,
+
+277
+00:10:19.665 --> 00:10:20.845
+and then work your way back.
+
+278
+00:10:20.845 --> 00:10:23.245
+Okay, well that's obviously massively over projecting.
+
+279
+00:10:23.245 --> 00:10:24.765
+That's, that's a ridiculous offer.
+
+280
+00:10:24.765 --> 00:10:26.685
+That's never gonna, you know, I'm never gonna do that. Okay?
+
+281
+00:10:27.745 --> 00:10:29.445
+But at least we've crossed a line
+
+282
+00:10:30.025 --> 00:10:31.685
+of desirability, you know what I mean?
+
+283
+00:10:31.785 --> 00:10:33.925
+So then we can just slowly inch it back.
+
+284
+00:10:34.075 --> 00:10:37.085
+Okay, well what about, you know, maybe not a hundred but 50.
+
+285
+00:10:37.595 --> 00:10:40.005
+Yeah, 50 would work metric, you know, and, and,
+
+286
+00:10:40.025 --> 00:10:40.765
+and then from there we
+
+287
+00:10:40.765 --> 00:10:41.845
+can actually create a really good offer.
+
+288
+00:10:41.845 --> 00:10:43.445
+Okay? So hopefully that makes sense.
+
+289
+00:10:44.985 --> 00:10:47.565
+Um, if this is overwhelming, don't worry
+
+290
+00:10:47.565 --> 00:10:51.445
+because again, this is what literally, this is exactly
+
+291
+00:10:51.445 --> 00:10:53.005
+what we're gonna be going through on your onboarding call,
+
+292
+00:10:53.105 --> 00:10:54.965
+but I just want you to show up to the onboarding call
+
+293
+00:10:54.995 --> 00:10:58.245
+with some more context around these two things of TAM
+
+294
+00:10:58.505 --> 00:10:59.965
+and the outcome, the offer outcome.
+
+295
+00:11:00.145 --> 00:11:01.685
+So that's it. We'll work with you on this,
+
+296
+00:11:01.685 --> 00:11:03.045
+we'll create this on your onboarding call.
+
+297
+00:11:03.065 --> 00:11:04.565
+And with that being said, we'll speak soon.

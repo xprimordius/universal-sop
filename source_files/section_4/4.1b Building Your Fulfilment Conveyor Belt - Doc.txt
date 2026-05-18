@@ -1,0 +1,213 @@
+﻿Building Your Fulfilment Conveyor Belt
+The Purpose Of Having Scalable Fulfilment:
+The only way to scale an agency/coaching biz to $1M/m is by having a consistent, repeatable and scalable way to deliver client results.
+
+
+And the only way (I’ve found) to generate these client results in this way is via having a “Fulfilment Conveyor Belt”.
+
+
+Not only does this allow you to maintain client results and expereince at scale (which is required), but it makes your fulfilment department almost become its own profit center.
+
+
+At scale, everything becomes less efficient, including your ad costs (ad costs rise as you spend more and more).
+
+
+However, by having a fulfilment department that retains and/or ascends your clients into higher backend products/services, you massively increase your LTV which essentially combats the rising ad costs that are inevitable at scale.
+
+
+The reason we consistently outspend all of our competitors is not because our ads are better (everyone copy’s our ads word for word) but because our client results are far better which gives us 50x their LTV.
+
+
+This is why you probably see so many new ads every day, then the next day they’re gone. 
+
+
+We compete on our backend, not our frontend as nobody can copy our backend.
+
+
+And it’s all thanks to our Fulfilment Conveyor Belt.
+Building A Fulfilment Converyor Belt 
+* This is similar to a drink manufacturer where there are thousands of bottles on a conveyor belt that get put through various stages from the liquid being added to the bottle to the label being stuck on and the lid being added, etc.
+* This conveyor can run 24/7, 365, and facilitate thousands of bottles which all end up in the exact same position at the end of the belt. A finalized bottle ready to be shipped out.
+* We want the same conveyor belt idea for our fulfilment to make it scalable:
+   * A client gets onto the belt (onboards)
+   * They automatically go through various stages (your fulfilment pipeline)
+   * At the end of the belt (their initial project period) they receive the desired result and are ready to be ascended
+      * Your delivery has to be the same thing, every time, for every client otherwise it won’t scale
+         * If you currently have a wide range of services, I’d highly recommend you dial in on one service, for one person.
+The Process:
+Stage 1: 
+What you’re really wanting to find in this beginning stage is the following:
+
+
+1. Exactly what deliverables you’re going to use to deliver your clients desired outcome.
+
+
+Purely base this off the results they generate not what you think clients want
+
+
+Example: Facebook ads
+
+
+2. Exactly how these deliverables should be implemented.
+
+
+Example: Facebook ads (deliverable)
+
+
+* What copy should be used?
+* Which creatives should be used?
+   * Who does the creatives? Should this be a deliverable of your service?
+* What media buying strategy should be used?
+* What funnel should be used?
+   * Who creates the funnel? Should this be a deliverable?
+* What happens when the results slow down?
+* What happens when a client wants to scale spend? How do you do that?
+* What happens when a client isn’t happy?
+* What’s the process you go through to give clients the best experience possible?
+
+
+Realize in the beginning you’re going to get a lot of this wrong. That’s totally okay. What’s not okay is to not know why. If you don’t know why then you can’t change anything.
+
+
+So always be on the hunt to figure out why something worked and why it didn’t.
+
+
+You can then use these insights to create new hypotheses to re-test.
+
+
+3. What is the most efficient and effective way to get the client to their end goal?
+   1. What should they do first? Immediately as they onboard?
+   2. What about second?
+   3. What next?
+   4. And after that?
+
+
+These are the things you need to find in this first stage. You don’t need to find every intricate detail but you do need to start getting a feel of each one of these areas.
+
+
+The way you find the answers to all these questions surrounding your fulfilment process is primarily through constant a product/service/feedback/results/refunds iteration feedback loop.
+
+
+Meaning, you bring on a client and you take them through what you think is going to work… you see the results it generates as well as how the client reacts/feels through said process…
+
+
+You then iterate your process based on the clients feedback/results and make a new fulfilment process hypothesis.
+
+
+For the next client (and the current client/s) you test the new fulfilment hypothesis.
+
+
+You rinse and repeat this process for the next 20-30 clients until you define your Fulfilment Conveyor Belt.
+
+
+For context, we did the above rise and repeat system (step by step) for the whole of 2022. It was only the start of 2023 where we could almost blindly take a client from onboarding through to getting them ridiculous results.
+
+
+That’s simply because we had refined, and refined, and refined, and refined the process so much.
+
+
+Hence why we now have “Scalable Fulfilment”.
+
+
+The outcome of stage 1 should be to:
+
+
+Define your niche that will allow you to build a fulfilment conveyor belt, define your service (deliverables), define how you’re going to deliver the services and in what sequence.
+Stage 2:
+Once you’ve built your conveyor belt, create a fulfilment pipeline in what ever client CRM you’re using.
+
+
+The fulfilment pipeline shouldn’t include all the specifics around how to implement each step, it should only focus on the 100,000 foot view of the steps themselves.
+
+
+Or in other words, what are the big pillars your clients need to go through to get the result.
+
+
+For us they’re:
+* Needs To Return OB Material
+* Booked OB Call
+* VSL
+* Ads
+* Launching Sequence
+* Launched/Active
+   * Ascended
+   * Offboarded
+   * Refunded
+
+
+I also recommend inside your fulfilment pipeline you have “cards” that represent each client and inside those cards you should have all the important information on that particular client.
+
+
+For us we have:
+* Link to sales call notes (helps handover)
+* Link to OB call recording + doc
+* Link to ad + VSL scripts
+* Link to creatives (both edited + raw files)
+* Link to any check in/coaching calls
+* All funnel links
+* Pixel base code
+
+
+You should be able to open up any client in your fulfilment pipeline and know exactly where they’re at, what’s going on with them and have access to everything that relates to them.
+
+
+Similar to how whenever you go to a doctors, they can pull up a “file” and get in sync with your entire history, we want the same for clients.
+
+
+This increases visibility massively (which becomes increasingly important at scale) and helps tremendously if you ever have an AM leave.
+
+
+It’s much simpler to distribute clients to new AMs in the event of someone leaving when you essentially have an end to end “file” on every single client (trust me lol).
+Stage 3
+This is where we ought to dive deeper into the “weeds” of how you deliver each stage within the conveyor belt.
+
+
+Essentially, you want to document (if you’re doing FB ads):
+* How to write ad copy that coverts
+* How to create creatives
+   * The process behind how you get the creatives
+* How to run the media buying
+* How to set up and create funnels
+   * Or how to get the funnels from the client (if you don’t have this as a deliverable)
+* How to revive ad accounts when they slow down
+* How to scale ad spend
+* How do you make clients happy?
+* How do you communicate with clients?
+
+
+This can be done in typical SOP style (docs/checklists) or in video style or both.
+
+
+I’ve always done it in the typical SOP style with an accompanying video explaining everything to the nth degree.
+
+
+When you have this type of SOP/step by step checklist laid out you will be shocked at how much easier it is to hire new AMs and remove yourself from fulfilment (eventually).
+
+
+Instead of you being the glue holding your client results together, now you have an evergreen system (the SOPs) holding your client results together which, once you’ve built it, requires no additional input from you (outside of the daily management which you can offload eventually).
+
+
+Here’s ours for reference.
+Stage 4
+Stages 1 - 3 focus on the “consistent” and “repeatable” aspect of your fulfilment - which is required to scale. However, those elements in and of themselves will not allow you to scale your fulfilment.
+
+
+Stage 4 is to install Account Managers/CSMs into the conveyor belt so that you can scale your client volume and maintain client results and experience.
+
+
+You’re still going to be heavily involved in client fulfilment and the managing of clients but you’ll be building up your AMs simultaneously during the first part of stage 4.
+
+
+Once you train/build up an AM to become self sufficient (using the SOPs/assets created in Stage 3) you then slowly transition from being in the weeds with clients to going hard on managing your fulfilment team and QC.
+
+
+This is the second part of Stage 4.
+
+
+Essentially, you’ll switch your focus from the clients to the people/team who manage the clients. You go one step removed.
+
+
+This way clients get results, clients are happy, and you’re set to scale because you now you have a Scalable Fulfilment System in place.
+
+
+The next training dives into the Account Manager Model and how you install it into the above conveyor belt we created and ultimately operate it for scale.

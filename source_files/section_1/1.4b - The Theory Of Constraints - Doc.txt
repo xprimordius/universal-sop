@@ -1,0 +1,131 @@
+﻿Theory Of Constraints
+The easiest way to scale any business is to just spend more on ads so by extension your sole focus as a founder is figuring out “how can we spend more?”
+
+
+The best way I’ve found to answer that question is to ask a more specific question:
+
+
+“Why can’t we double our adspend tomorrow?”
+
+
+Typically this will show you exactly what the issue is… or in other words, your biggest constraint and from there you can alleviate it.
+
+
+If what you need to focus on isn’t clear from asking this question then here’s how you would identify the root constraint… you need to track all of your metrics against their respective KPI and see which is either below KPI or just at KPI and you fix that.
+
+
+Do this based on a reconciled 30 days worth of data (every month).
+Identifying The Root Constraint (w/ KPIs):
+* Ad Spend
+   * KPI = Always spend as much as you can whilst maintaing a 2:1 New Cash:ad spend ratio. The moment that ratio drops below 2:1, find the constraint and fix it.
+      * Then spend more until it drops.
+* Closer Availability
+* Booked Calls
+* Cost Per Booked Call
+   * KPI = < $300
+* No Shows
+* SUR %
+   * (sales calls taken / sales calls booked - cancelled by you)
+   * B2C: KPI = 50%+
+   * B2B: KPI = 65%+ 
+* Canceled (By You Due To Unqualified) 
+* Sales Calls Taken
+* Closes
+* Close Rate
+   * KPI = 25%+
+* CPA/CAC
+* Price point
+   * If agency: monthly retainer + LTV (av retainer x av retention rate)
+   * If coach: just price point
+* Cash Collected ($)
+* Cash Collected (%)
+   * KPI = 40%+
+* Cash ROAS
+   * KPI = 2x (min)
+* Revenue ($)
+* Revenue ROAS
+   * KPI = 5x (min)
+* Total Collected (Including AR)
+* Churn
+   * (av clients leaving per month / total active clients)
+   * KPI = < 10%
+* NOI:
+   * KPI = 45%+
+
+
+________________
+
+
+
+
+By running your business through this excercise (we do this monthly) it becomes abundantly clear where your focus for that month needs to go based on the root constraint you’ve identified…
+Fixing The Root Constraint:
+For every constraint, there are a certain set of variables which directly tie into that particular metric. 
+
+
+Once you identify which ones are at fault, it becomes easy to fix them.
+
+
+* The first step is to identify all the variables in the equation
+* Define the benchmark KPIs (may not be numbers) for each variable
+* See which variables are below KPI
+* Now you have your root problem/s
+* Put the correct strategy in place to remedy the broken variables
+Common Examples: “Why can’t we double our adspend tomorrow?”
+* “It doesn’t make sense to as I’m not profitable on acquisition”
+   * Why?
+      * CPBC → $100 - $300 (depending on pricing/market)
+      * Close rate → 25%+ “”
+      * Show up rate → 50-80% “”
+      * Price point → $3k/m+ (or $4k+ if one time)
+         * The goal should always be (ideally) a 2x ROAS on day 1
+            * $2k/m offer? CPA = $1k max
+            * $10k/m offer? CPA = $5k max
+   * Identify which variable/s are not in KPI…
+      * Then you take that variable/s through the same process of figuring out the root problem.
+         * Problem = Close Rate (Common)
+            * Offer rate sub 80%? This is usually a quality issue or your closers are not aggressive enough.
+               * Usually, closers aren’t aggressive enough because they’re either trying to protect their “close rate” and they only pitch people they 100% know will close or they’re just shy.
+               * The only way to truly identify the root constraint is through QC and call reviews. Good news is that we will do this for you and work 1on1 with your closers (or you) to alleviate whatever the constraint is.
+            * If your offer rate is above 80% and close rate is still sub 25% then usually it’s because your closers aren’t handling objections good enough (or at all) or the value presented on the call isn’t good enough.
+               * Again, QC calls + call reviews are required here.
+            * Remember, if you increase your close rate from 20% to 30% you increase your front end business by 50% (not 10%)
+         * Probem = CPBC
+            * Lead cost is good. Quality of leads is good. Quality of auto bookings are good. But the costs are still too high.
+               * Are you leveraging setters? No? Hire setters to increase efficiency/conversion of the leads that are coming through.
+               * Yes? Then get them to work 1on1 with us so we can train them to make them become more proficient and effective.
+         * Problem = Price Point
+            * CPBC is in KPI, show rate is in KPI, close rate is above KPI but you’re still sub 2x cash ROAS (min)?
+               * This is normally a pricing issue in that you just need to charge more. I always recommend ‘stair stepping’ your pricing until you hit a point of diminishing returns between price + close rate.
+               * If you’re at $3k/m with a close rate above 30% then increase to $4k/m and stablize @ 30%+. Then rinse and repeat until you hit a number where you’re unable to close above 30% and drop back slightly (and re-offer everyone who didn’t close at the higher price point).
+         * Problem = Show Rate
+            * Use our show rate checklist.
+* “You can’t handle more calls”
+   * Why?
+      * Availability is @ 95%+
+         * Hire a new closer. Use the company wide recruitment training as your step by step process to hiring A-players. Once you’ve made the hire, get the new closer/s added to our training + slack channel so we can work 1on1 and train them to KPI in the quickest timeframe possible.
+            * This is assuming the initial closer (whether that’s the you as the founder or a closer) is closing at a profitable % (usually above 25%). If you aren’t then the real constraint here is closing/sales.
+* “You can’t handle more clients”
+   * Why?
+      * Fulfilment → What’s the issue with fulfilment/onboarding?
+         * Capacity
+            * This is an easy solution. You just need to hire more account managers. Now, this is assuming your current model is scalable. Meaning, you have a profitable and working model, you just need more people.
+               * If so, again, use the company wide recruitment training as your bible.
+            * If you don’t have a profitable fulfilment model (most clients don’t) then we need to look into why it’s unprofitable and restructure your model which is in alignment with ours (watch the “Desiging Your Fulfilment Conveyor Belt” training).
+               * This would be best facilitated on a 1-1 with your AM if this is something you need to do as well as the training (above).
+         * Client results
+            * If your fulfilment is broken resulting in high churn rate (which could also bleed into you not being profitable despite our acquisition performing → this is another reason why it’s so important to get clear on the REAL problem, not the symptom) and ultimately you don’t get your clients good results, then we need to rethink your whole service/deliverables.
+               * List all current deliverables and find the constraint.
+                  * Example: One of our clients had an issue with funnels for their clients. I told him to make a general ops type hire and build funnels for your clients and charge an extra $200/month/client so that you’re in control without taking a hit to your P&L and that instantly turned his results around.
+
+
+Remember, what we’re doing here is optimizing the business so all that’s left is to spend more on ads.
+Next Steps:
+* Re-ask the question:
+   * “Why can’t we double adspend tomorrow?”
+   * Answer → “We can”
+      * Scale spend
+* Find baseline at new spend
+   * Every time you scale ads, there’s going to be a period of recalibration. You’ll have to find your new baseline costs and ensure they’re still performing in KPI.
+* Once you’ve found baseline at the new spend, repeat the process by asking yourself “Why can’t we double adspend tomorrow?”
+   * Repeat.

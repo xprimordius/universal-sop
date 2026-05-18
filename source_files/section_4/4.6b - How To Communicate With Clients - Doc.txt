@@ -1,0 +1,120 @@
+﻿How To Communicate Clearly With Clients (+ Communication Cadence)
+As a company, our number one core value (that sits at the top of the others) is:
+
+
+Client results and client experience first.
+
+
+I highly recommend you have a similar core value for your company because it has served us extremely well.
+
+
+While I can’t create universal trainings on the “Client Results” aspect as that’ll be wildly contextual based on your offer… we can help you and your AM team with the “Client Experience” side.
+
+
+There’s many layers to effective client experience, however, the number one driver is communication.
+
+
+The achilles heel of client experience is communication.
+Here’s The Best Client Communication Framework We’ve Found: 
+* Seek to understand before being understood:
+   * This comes in 3 forms:
+      * 1. Make sure you understand exactly what the client is asking/wanting
+         * If you don’t understand a clients question (if that’s what you’re answering) or what they are wanting, ask clarifying questions so you 100% understand.
+         * Do not try to respond and guess what they want as this can annoy them if you answer a completely different thing to what they want
+      * 2. Understand what type of client you’re talking to
+         * When speaking with clients, remember who you’re talking to. Different clients have different personality types.
+         * Some clients are very direct and don’t want you to beat around the bush whereas other clients want to feel like you care and they want to feel more “loved”. Remember this when you’re communicating to them.
+      * 3. Understand how the client is currently feeling
+         * This is probably the most important factor to keep in mind when communicating with clients. How are they feeling right now? And based on that, what are they wanting to hear and HOW are they wanting to hear it?
+            * Example
+         * You must be able to pick up on these cues when communicating with clients otherwise your communication will never be effective and will have a negative effect on clients
+Best Practices When Communicating:
+* Understand how the client is feeling in this very moment
+* Be precise and clear
+* Don’t ramble
+* As you’re talking, try and think about how you’re sounding from the clients perspective
+   * If you can’t do this as you’re talking then rewatch/listen after you complete the voice note or loom (before sending) and potentially do a re-take if you think it can be improved after listening from the clients perspective
+* Make sure the outcome of your message is clear and can be easily understood
+General Communication Framework:
+* Here’s what’s going on…
+   * Keep this precisely on the information the client cares about
+      * This ties into understanding who you’re talking to. Different clients value different things.
+* Here’s what we’re doing as a consequence…
+* Here’s what the next steps/weeks will look like…
+Question Answering Framework:
+* Ask clarifying questions if needed…
+* Understand what the client is trying to understand/figure out…
+   * A trick to understand this is to ask yourself “why is the client asking this?”
+* Position your answer in a way that answers the direct question and also answers the reason why they’re asking…
+   * Sometimes these 2 answers can be the same. Other times, clients will ask one thing and have a deeper reason behind why they’re asking.
+Difficult Feedback/Updates/Next Steps Framework:
+* Here’s what’s going on…
+* Here’s what we’re doing as a consequence…
+* Here’s what the next steps/weeks will look like…
+* Here’s WHY this is the course of action we are recommending…
+* Proactively acknowledge their most likely response/emotions and address…
+   * Understand who you’re talking to…
+   * Understand how the client is likely feeling…
+      * Address those feelings. If you don’t, then the client will respond with those feelings which is when you may experience negative communiation from them.
+Getting Clients To Do A Required Task:
+* THAT
+   * Communicate…
+   * Repeat…
+   * And repeat…
+      * We need to be reminded more than we need to be taught
+* WHY
+   * Motivation
+   * Incentives
+* HOW
+   * Training
+   * High clarity NO confusion
+
+
+Example Framework:
+* Here’s what you need to do…
+* Here’s why it’s important…
+   * Should always tie to their goals/desired outcomes/things they WANT
+* Here’s how to do it…
+   * Link to training
+   * Explain it
+   * Jump on 1-1
+Account Manager Client Communication Cadence
+Block 1: Client Communication
+* 60 minutes
+   * Respond to all client messages from over night
+      * VNs and/or looms
+   * Drop your 1-1 calendar link for clients who need it
+
+
+Block 2: Deep Work
+* 2 hours
+   * Copy
+   * VSL reviews
+
+
+Block 3: Client Communication
+* 1 hour
+   * Get back to all clients who have responded
+   * Provide updates to appropriate clients
+   * Provide final copy/VSL reviews to appropriate clients
+
+
+Block 4: Ads
+* 4 hours
+   * Track client results
+   * Check-in on ad accounts
+   * Launch for new clients
+
+
+Block 5: Client Communication
+* 60 minutes
+   * Check in on every client to make sure they’re all up to date
+   * Make sure every one has been responded to
+   * Next steps have been clearly laid out
+   * Updates on ads, tracking, metrics, KPIs, etc is all communicated
+
+
+During these blocks you would want to have some time available for clients to be able to book in a 1-1 with you.
+
+
+Important Note: In the instance you have a problem client (or ICU client), you must ensure you are constantly checking their Slack channel to make sure they’re up to date routinely throughout the day. You do not want to message that type of client and then force them to wait until you hit your next client communication block for them to get a response.

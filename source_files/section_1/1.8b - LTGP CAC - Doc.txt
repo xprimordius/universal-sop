@@ -1,0 +1,470 @@
+﻿There’s only 1 metric you need to know (and manipulate) to scale ANY business.
+
+
+NOTHING else impacts your profits outside of this single metric:
+
+
+LTGP:CAC
+
+
+In other words, how much do you make (in profit) per new client over their lifetime?
+
+
+Let’s break each one down:
+
+
+1. LTGP
+
+
+Life-time Gross Profit is determined by:
+
+
+LTV - Total COGs = LTGP
+
+
+…And it essentially means the total GROSS PROFIT a business receives over the lifetime of a client.
+
+
+So, let’s say, for example, you have the following:
+
+
+1. Price point = $2k
+2. COGs = $500/mo
+3. Churn = 10%
+
+
+Side note: Determining those metrics is easy.
+
+
+Price point = Price point.
+
+
+COGs = How much does it cost to fulfill on a respective client, INCLUSIVE of sales commissions (usually determined on a monthly basis).
+
+
+If you have “fixed” costs, you want to do your best job averaging those fixed costs on a per-client basis so we can get as close to accurate COGs as possible (if needed, it’s better to overestimate rather than underestimate).
+
+
+Churn = How many active clients did you enter a month with, and how many of those EXISTING clients were still active by EOM?
+
+
+NOTE: Churn does NOT include new clients signed.
+
+
+So if we enter August with 100 active clients and we sign 50 new clients in that month, churn will only be determined by the original 100 we entered the month with. The 50 new clients will be counted in September's active clients (so Sep would = 150 active clients assuming none left in August).
+
+
+In other words, if you entered August with 100, signed 50 new and 10 left. You would have a 10% churn rate (10 of 100 = 10%).
+
+
+Once you know churn, you can easily figure out the average client retention rate (in months) and LTV.
+
+
+Average client retention rate (in months) = 100/(100*churn rate)
+
+
+Lifetime value = Retention rate*monthly price
+
+
+For example, let’s assume the average monthly churn is 10% on a $2k/month service.
+
+
+Retention rate (in months) = 10 months → 100/(100*0.1) = 10
+
+
+LTV = $20k → 10 months retention rate* $2k/month = $20k
+
+
+Now, let’s take our example from earlier:
+
+
+1. Price point = $2k
+2. COGs = $500/mo
+3. Churn = 10%
+
+
+To determine the LTGP, you need to find the LTV and total lifetime cost to fulfill.
+
+
+So we would first find the LTV by using the formula 100/(100*0.1), given the example has a 10% churn rate.
+
+
+That gives us $20k LTV.
+
+
+Now, to find the total cost to fulfill, we simply need to take the monthly COGs ($500) and x that by the average monthly retention rate of 10 months, which gives us $5k.
+
+
+And remember, the LTGP = LTV - Lifetime COGs.
+
+
+$20k - $5k = $15k.
+
+
+LTGP = $15k (in this example).
+
+
+This number is VITAL to understand. 
+
+
+The ultimate goal with LTGP is to get it as HIGH as possible.
+
+
+2. CAC
+
+
+CAC is very easy to determine.
+
+
+Total ad spend over a given period / total clients closed over that same period.
+
+
+Of course, the goal with CAC is to get it as close to 0 as possible.
+
+
+There’s nothing more to explain for CAC.
+
+
+Now let’s look at the most important thing…
+
+
+What are the levers we can pull to signicantly increase LTGP:CAC?
+
+
+You’ll be pleased to hear that there are only 6 levers…
+
+6 things you should be focused on if you want to scale.
+
+
+Which of the 6 you should focus on TODAY is based on the biggest constraint out of the 6.
+
+
+It’s that simple.
+
+
+To Decrease CAC:
+
+
+1. Get a cheaper CPQBC…
+2. Get more of these calls to show…
+3. Close more of the calls that show…
+
+
+There’s NOTHING else you can do to get a cheaper CAC.
+
+
+To Increase LTGP:
+
+
+1. Charge more per client (increase prices)...
+2. Decrease costs to fulfil for each client... 
+3. Keep clients paying longer…
+
+
+These are the only 6 levers you can pull to become more profitable. 
+
+
+In other words, ALL of your focus should be on the biggest constraint out of these 6 levers, 24/7… or pushing more volume through the system until a constraint arises.
+
+Once that particular constraint is resolved, you increase volume and move to the next biggest constraint.
+
+
+So let’s look at some examples:
+
+
+Example 1:
+
+
+* CPQBC
+   1. $300
+* Show Rate
+   1. 60%
+* Close Rate
+   1. 20%
+* Price Point (And AOV)
+   1. $1.5k
+      1. AOV = $1.5k
+* COGs (Monthly)
+   1. $300
+* Churn Rate
+   1. 10%
+
+
+CAC = $2.5k
+LTV = $15k
+Total Lifetime COGs = $3k
+Day 1 Cash ROAS = 0.6x
+
+
+LTGP:CAC = 4.8:1
+
+
+Based where should we put our resources (energy and focus) first?
+
+
+Well, there are 2 primary issues here:
+
+
+1. The CAC is high for such a low-priced service
+   1. To clarify, a $2.5k CAC would be a DREAM for us. So it’s not that “$2.5k” is high, it’s that it’s high when you’re only collecting $1.5k upfront.
+2. The LTV is low at $15k.
+
+
+So if we look at problem 1 (the CAC)...
+
+
+We have 3 options:
+
+
+We could decrease CPQBC, increase show rate, or increase close rate.
+
+
+(Let’s assume this is in a saturated market like ecomm, agency owners, etc)
+
+
+Personally… based on the example, none of those metrics are too terrible for a saturated market. 
+
+
+If it was a less saturated industry like B2C, then the CPQBC is way too high.
+
+
+We should be looking at a $100 - $200 CPQBC in a market like that.
+
+
+If we dropped it to a $100 CPQBC the LTGP:CAC would jump to 14:1 WITHOUT CHANGING ANYTHING ELSE.
+
+
+This is why looking at the biggest constraint out of the 6 levers and putting ALL resources onto fixing THAT thing is so important…
+
+
+But let’s assume they’re in a saturated market to make the example slightly harder…
+
+
+Again, I would say in a saturated market a $300 CPQBC, 60% show and 20% close isn’t too bad at all.
+
+
+If anything, we could bump the show-up rate and close rate, but that isn’t the biggest constraint…
+
+
+What’s the biggest constraint?
+
+
+Price.
+
+
+The price and AOV is too low.
+
+
+There are 2 things you could do here:
+
+
+1. Increase the AOV
+
+
+You would do this by not charging “monthly” but rather for a 3 - 4 month “project period”.
+
+
+If they were to charge $6k upfront ($1.5k*4) and they had a 50% upfront cash collected average… with a $2.5k CPA that would take them from 0.6x Cash ROAS to a 1.2x (double).
+
+But the problem here is the LTGP:CAC ratio doesn’t change. All that changes is the window in which the cash is collected (the payback period) which definitely helps but doesn’t solve the root problem.
+
+
+2. Increase the price.
+
+
+If we’re in a saturated market such as this example, $1.5k is far too cheap, unless the service / product is genuinely not valuable… in which case we would need to look at adding a more valuable / desirable deliverable.
+
+
+But for the most part, you’re probably undercharging. 
+
+
+So if we took the $1.5k price point to $3k/month and we pitched 4 months PIF (with 50% UF CC), assuming all other metrics remain the same, here’s the new profit numbers:
+
+
+Cash ROAS = 2.4x
+LTGP:CAC = 11:1
+
+
+So without changing the ads, the sales process, the product/service or the offer…
+
+
+Just by increasing the price you went from a 5:1 return to a 11:1 return… DOUBLING your profit.
+
+
+Example 2:
+
+
+* CPQBC
+   1. $250
+* Show Rate
+   1. 65%
+* Close Rate
+   1. 16%
+* Price Point (And AOV)
+   1. $5k / mo
+      1. AOV = $6k
+* COGs (Monthly)
+   1. $850
+* Churn Rate
+   1. 15%
+
+
+CAC = $2.4k
+LTV = $33.3k
+Total Lifetime COGs = $5,610
+Day 1 ROAS = 2.5x
+
+
+LTGP:CAC = 11.5:1
+
+
+In this case, I would scale. 
+
+
+While you’re scaling, the second constraint I would be focusing on is close rate and churn rate.
+
+
+$250 CPQBC is very good in almost all industries, especially if this is a “harder” niche in general.
+
+
+Again, if it’s a very cheap local lead gen or B2C niche, then I would focus on decreasing this first, but if it’s a “more saturated” industry then I’d focus on close rate as $250 is good.
+
+
+Show rate at 65% is good. I would make sure you’re not doing anything stupid here and ensure you’re following all best practices.
+
+
+Price point is great. 
+
+
+COGs is good. 
+
+
+Churn is relatively high as well, ideally, I want this to be MAX 10%.
+
+
+So in this case, if we were to bump the close rate to 25% (up from 16%) and we drop churn to 10%... here’s the new LTGP:CAC:
+
+
+23:1…
+
+
+Again, we’ve DOUBLED profit without spending a dime more on ads… when you then combine this with increased adspend… you exponentially scale.
+
+
+Example 3:
+
+
+* CPQBC
+   1. $50
+* Show Rate
+   1. 50%
+* Close Rate
+   1. 20%
+* Price Point (And AOV)
+   1. $1.5k / mo
+      1. AOV = $1.5k
+* COGs (Monthly)
+   1. $1,200
+* Churn Rate
+   1. 10%
+
+
+CAC = $500
+LTV = $15k
+Total Lifetime COGs = $12k
+Day 1 ROAS = 3x
+
+
+LTGP:CAC = 6:1
+
+
+This is a slightly harder example but it’s one that’s very common.
+
+
+In this example, there’s nothing we can do on the ad front to get better results. The $50 CPQBC is never going to get cheaper…
+
+
+The show rate could certainly improve but even if we got that to 65% the LTGP:CAC would only increase to 7.8x which is still an improvement – meaning, we should definitely make the changes needed to grab that extra profit – but it doesn’t give a huge breakthrough…
+
+
+The close rate is similar, getting it to 25% will certainly add more profit and we should definitely look at how we can improve it as if we increase show rate to 65% and close rate to 25% then the LTGP:CAC becomes 9.7:1.
+
+
+So whilst these are levers we should definitely be pulling (because it’s easy money) we can’t rely on only those levers to see a 20:1 or 30:1 return without needing to hit metrics that are simply impossible (like a 70% close rate for example)...
+
+
+The root problem in this example is the COGs vs the price. The gross profit is 20%.
+
+
+For context, the COGs should be around 20% with 80% gross profit. Precisely the inverse of our example.
+
+
+So there are only 2 levers that can be pulled in this example… either decrease the cost to fulfil or increase the price (or both).
+
+
+Which one you decide to pull should be based on your model and general product/service.
+
+
+For example, if your service was standard ad management, funnel building, and basic lead generation for your clients, the issue is the COGs are WAY too high.
+
+
+With some basic restructuring, you would be able to get your cost to fulfil down to around $500/month very easily. 
+
+
+Which by the way would bring your LTGP:CAC to 20:1 WITHOUT the show rate or close rate improvements we spoke about above… if we added those in as well we would be at 32:1.
+
+
+…And of course that is without increasing price, just decreasing cost to fulfil.
+
+
+Now, let’s assume you weren’t doing basic ads and rather your service was something more in-depth where, after going deep, you find out that it’s impossible to decrease your COGs and continue to deliver a great client experience and results.
+
+
+Although this will be rare (there’s always ways to decrease costs), it can happen. And when it does, the only solution is to increase price (assuming your costs aren’t variable - otherwise, your model would be broken).
+
+
+Usually, if this situation arises, you’ll be able to easily increase price because if your COGs are so high and there’s no way to decrease them without losing quality, it by default means the outcome you’re providing your clients is extremely valuable (otherwise, there would be a way to find cheaper labor…) Meaning, your clients would be willing to pay more.
+
+
+So with our example if we were able to bump price to $3k/mo (assuming COGs aren’t variable) our LTGP:CAC would sky rocket to 36:1.
+
+
+One important note in this 3rd example: What can sometimes happen in this scenario is the following…
+
+
+You identify that the COGs vs Price is the constraint. 
+
+
+You look through all the COGs and realize there’s no way to decrease costs and so you look at increasing price.
+
+
+But… when it comes to increasing the price, you simultaneously realize there’s no way to increase the price because we’re already charging the upper limit for what someone is willing to pay for the outcome we’re providing.
+
+
+This is when you have a model that’s fundamentally broken. It doesn’t work.
+
+
+A good example of this is a design agency for low-revenue brands. 
+
+
+First off, the overall desire for graphic design isn’t high so the front end ads won’t attract that much response but let’s imagine they do…
+
+
+A good designer isn’t cheap. The time, energy and expertise it takes to make a “good” design isn’t all too far away from making a “great” one.
+
+
+So your COGs are naturally going to be high which is okay if you’re working with enterprise level clients who are willing to pay $100k for a logo.
+
+
+But if you’re working with lower revenue brands who need graphic design work but don’t have a huge budget, they may be willing to pay $2k, which if you think about it is still quite a lot just for design…
+
+
+…But again, the cost to fulfil isn’t any cheaper. And that’s where the model breaks.
+
+
+It becomes impossible to decrease COGs or increase prices without changing the model.
+
+And when I say changing the model, I mean, either completely abandoning the current model, or you bake in design (in this example) into a paid ads deliverable, or some other adjacent deliverable you can add that will allow you to justify a much higher price point.
+
+
+***I do want to add a disclaimer here and say this will be a rare occurrence because for the most part, there’s ALWAYS ways to decrease costs and usually you can ALWAYS charge more. It’ll just take more sales skills. Remember, there’s a difference between you not being able to charge more (on the sales call) due to lack of sales skills and a market simply not willing to pay more than X price for X result / outcome.
