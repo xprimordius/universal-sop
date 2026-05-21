@@ -204,4 +204,4 @@ Do NOT use any confirmation template that competes with SESSION_START.md STEP 2.
 
 ---
 
-*CONTINUATION.md v3.0 | Session 5 (2026-05-21) | xprimordius/universal-sop (PRIVATE) | SOP v1.3*
+*SOP v1.3 | This file: CONTINUATION.md v3.4 | Session 5 (2026-05-21) | xprimordius/universal-sop (PRIVATE)*

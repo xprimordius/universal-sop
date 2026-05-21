@@ -1,5 +1,5 @@
 # 📋 PROTOCOLS REFERENCE — Full Spectrum (Expandable Transparency)
-# VERSION: 1.0 | 2026-05-21 | SOP: v1.3
+# VERSION: 1.3 | 2026-05-21 | SOP: v1.3
 # Authoritative reference for every protocol acronym used in the Universal Output SOP
 # All 20 protocols (16 SubSOPs + 4 Ensurance) with full names, scopes, sub-protocols
 
@@ -647,7 +647,7 @@ When something fails (even partially), report it with root cause + permanent fix
 | HFR.2 | Root cause analysis | RC.X — why the failure happened |
 | HFR.3 | Permanent fix | Structural change, not "try harder" |
 | HFR.4 | Verification in THIS output | Show the fix working |
-| HFR.5 | RPT log entry | Add to RPT_LOG.md if repeat |
+| HFR.5 | RPT log entry | Add to FAILURE_LEDGER.md if repeat (was RPT_LOG.md pre-F8 fusion 2026-05-21) |
 
 ### When Triggered
 On failure detection. Mandatory invocation.
@@ -719,7 +719,7 @@ Catch when user has to ask for the same thing 2+ times. Every repeat = system fa
 
 ### Scope
 - Cross-session pattern detection
-- Persistent log in `cache/RPT_LOG.md`
+- Persistent log in `cache/FAILURE_LEDGER.md` (was `cache/RPT_LOG.md` pre-F8 fusion 2026-05-21)
 
 ### Sub-Components
 | 🆔 | 🏷️ Step | 📝 Detail |
@@ -734,7 +734,7 @@ Catch when user has to ask for the same thing 2+ times. Every repeat = system fa
 On detection of user repeat. Mandatory.
 
 ### Current RPT Log
-9 entries (RPT.1-RPT.9) in `cache/RPT_LOG.md`. Top patterns:
+11 entries (F.1-F.11) in `cache/FAILURE_LEDGER.md` (post F8 fusion 2026-05-21, was RPT_LOG.md with RPT.1-RPT.9 + new F.10/F.11 added for truncation + `<details>` patterns). Top patterns:
 - RPT.8: LTM dropped from wrap-up (6+ times)
 - RPT.6: Token+time per step wrong format (5+ times)
 - RPT.2: Token tracking not activated (4 times)

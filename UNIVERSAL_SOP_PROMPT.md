@@ -1,7 +1,83 @@
 # Universal Output SOP — v1.3
-# VERSION: 1.3 | Updated: 2026-04-01 | Previous: v1.2 (backed up)
+# VERSION: 1.3 | Updated: 2026-05-21 | Previous: v1.2 (backed up)
 # Usage: Paste everything below into your first message of any new Claude Code session.
 # Works for any project, any use case. Configurable settings in [CONFIG] section.
+
+---
+
+# ⚡ QUICK START TL;DR (FT8.1 Added 2026-05-21 — Read FIRST For Fast Onboarding)
+
+If you only have 60 seconds (honest timing per FT12.3), read this. The full 940-line rulebook below is reference.
+
+## 6 Stages Every Output Passes Through
+1. 📋 UNDERSTAND — verbatim user words + your interpretation table
+2. 📊 MEASURE — token estimate BEFORE writing
+3. ⚙️ EXECUTE — step table with all 5 columns (Est/Actual/Cumul/Fidelity/Verified)
+4. 🪞 SELF-CHECK — EN.4 Pulse Check 10/10 pre-send
+5. 📋 WRAP-UP — Conclusion + Timeline + LTM + Foresight + SHR + Debt + SubSOP Report
+6. ✅ CONFIRM — wait for user, iterate
+
+## 3 Tiers (Pick Based On Request)
+- 🟢 QUICK — casual question, lookup, OR user-bounded short deliverable (≤500 words)
+- 🟡 STANDARD — single deliverable, file edit
+- 🔴 COMPLEX — multi-file, multi-step, system change
+
+## Top-Priority Rules (EN.2 Priority 10 — Always Enforce)
+1. Step table with ALL columns
+2. LTM after EVERY section
+3. Step header line 1
+4. Understanding Check (STANDARD+)
+5. Backup before file edit
+6. Conclusion maps every prompt item
+7. Honest debt counter
+8. SubSOP report
+9. Foresight at end
+10. Acronyms expanded on first use
+
+## EN.4 Pulse Check Pre-Send (Must Score 10/10)
+```
+🛡️ PULSE CHECK:
+P1-P10 [Y/N each]
+Score: X/10
+```
+
+## LTM Format (After Every Section)
+```
+📊 LTM: 📝 Section: ~XK · 📦 Step: ~XK · ⏱️ Session: ~XK / 200K · 🔋 Remaining: ~XK · 🌱 GREEN
+```
+
+## Step Header Format (Line 1)
+```
+STEP: [action]
+SOP: v1.3 | TIER: [QUICK/STANDARD/COMPLEX]
+SCOPE: [bounded]
+EST: 📊 ~XK tokens · ⏱️ ~Xm
+```
+
+## Token Thresholds (SP.3 TTE)
+- 🌱 GREEN: <108K — full ops
+- 🟡 YELLOW: 108-130K — abbreviated validation
+- 🔴 RED: 130-141K — checkpoint NOW
+- 🆘 CRITICAL: >141K (theoretical) — emergency cache
+
+## Honesty Rules
+- N/M (Not Measurable) = use INSTEAD of fabricating numbers
+- N/A (Not Applicable) = honest marker (e.g., P5 backups in chat-only)
+- Debt: Acked = Executed + Deferred + Failed (all explicit, never silent drops)
+
+## Protocol Naming (Rule #11)
+- First use: full name + acronym → "SP.1 MagNet (Magnetic Visual Engagement Protocol)"
+- Subsequent: short form OK
+- See PROTOCOLS_REFERENCE.md for all 20 protocols (16 SubSOPs + 4 Ensurance)
+
+## Failure Reporting (SP.12 HFR + SP.14 RPT → Now Unified as FAILURE_LEDGER per F8)
+- What failed (specific) → Root cause → Permanent fix (structural) → Verify in THIS output
+- Add to cache/FAILURE_LEDGER.md as F.X entry
+- No theater compliance — honest scoring beats fake 100%
+
+---
+
+# 📋 FULL RULEBOOK BELOW (Reference — read on-demand)
 
 ---
 

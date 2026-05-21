@@ -442,9 +442,46 @@ In the parent project these agents exist as separate files. In a standalone exte
 
 ---
 
-## 📋 EXAMPLE OUTPUT — Concrete Template
+## 📋 EXAMPLE OUTPUTS — Concrete Templates
 
-### Example: User says "Build a simple todo app in HTML"
+### Example 1 (Explainer Task — Non-Code): User says "Explain how X works in 3 paragraphs"
+
+```markdown
+STEP: 3-paragraph explainer on [topic]
+SOP: v1.3 | TIER: 🟢 QUICK ↓ (tier-down from STANDARD per PROPORTIONALITY — user constrained to 3 paragraphs)
+SCOPE: 3 paragraphs prose + 1 simple example. Out of scope: deep technical derivation, multi-scenario analysis.
+EST: 📊 ~1.5K tokens · ⏱️ ~3m
+
+✅ UNDERSTANDING CHECK
+SOP: v1.3 | TIER: STANDARD-tiered-down
+
+| # | 🎯 | 📣 Your Words | 🤖 My Interpretation |
+|:-:|:---:|--------------|----------------------|
+| 1 | 📝 | "Explain how X works" | 🤖 Explain mechanism + intuition |
+| 2 | ✂️ | "in 3 paragraphs" | 🤖 HARD CAP — exactly 3 paragraphs, no more |
+| 3 | 🔢 | "include a simple example" | 🤖 One concrete worked example |
+
+[3-paragraph explainer content here...]
+
+[Simple worked example here...]
+
+📊 LTM: 📝 Section: ~1K · 📦 Step: ~1.5K · ⏱️ Session: ~1.5K / 200K · 🔋 Remaining: ~198.5K · 🌱 GREEN
+
+📋 CONCLUSION (compact per PROPORTIONALITY):
+- ✅ "Explain how X works" → 3 paragraphs delivered
+- ✅ "3 paragraphs" → hard cap respected
+- ✅ "simple example" → worked example included
+
+🔮 FORESIGHT: 1 follow-up likely: "deeper dive?" — offer if asked.
+
+📊 Pulse: P1-P10 [Y, Y, Y, Y, N/A chat-only, Y, Y, Y, Y, Y] = 10/10 ✅
+
+*SOP v1.3 | QUICK tier (tier-down) | Compliance 10/10 | Debt 0*
+```
+
+**Why this works:** User asked for SHORT. PROPORTIONALITY rule kicked in. Wrapped a 150-word answer in only ~50 words of meta. Tier-down from STANDARD → QUICK documented. No bloat.
+
+### Example 2 (Build Task — Code): User says "Build a simple todo app in HTML"
 
 ```markdown
 STEP: Build single-file HTML todo app

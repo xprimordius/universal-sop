@@ -96,6 +96,11 @@
 | 2026-05-21 | **Active cache files: 14 → 5** (~64% reduction) | F2 result | SESSION_STATE + CONTINUATION + BACKUP_LOG + FAILURE_LEDGER + RPT_LOG (deprecated pointer). Maximum lean. |
 | 2026-05-21 | **CLEANUP PASS** — 9 FT deferrals fixed | AI executed | Orphan RPT_LOG refs swept in 6 active files, CONTEXT_TRANSFER marked historical, SESSION_START version + date stamps current, file tree complete, SCC/EN.4 distinction visible, EN.3 single-output guidance, footer standardization |
 | 2026-05-21 | All Phase A/B/C fusion decisions FINALIZED + cleanup COMPLETE | Session 5 milestone | F1+F2+F4+F5+F7+F8+F10+F11 executed. F6 doc-only. F9+F12 kept separate. F3 rejected. Active cache 5 files. STANDALONE_SOP self-sufficient validated. 8 sub-agent tests. |
+| 2026-05-21 | **9th sub-agent — 8.5/10 NEW HIGH** | AI executed | Cleanup pass effective. 4 minor regressions found (FT11.1-FT11.4) + fixed in same output. |
+| 2026-05-21 | **D ADDITIONS EXECUTED** (FT8.1 + FT7.7 + FT9.8) | Alan ("D") | Quick Start TL;DR in SOP, BOOTSTRAP_CHECK.md created, non-code Example 1 in STANDALONE_SOP. |
+| 2026-05-21 | **10th sub-agent QA — 8.5/10 MAINTAINED** | AI executed | All 3 D additions validated KEEP-worthy. 5 FT12.x recommendations. |
+| 2026-05-21 | FT12.1 + FT12.2 + FT12.3 applied | AI executed | BOOTSTRAP_CHECK promoted mandatory STEP 1 #8, STEP 0.1 harness drift detector, honest 60s/90s timing |
+| 2026-05-21 | **MILESTONE: 10 sub-agent tests complete, peak friction 8.5/10** | Session 5 end | In-session validation plateau characterized. Real device test is now the ONLY remaining validation. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
@@ -113,4 +118,8 @@
 | 2026-04-01 | 2 | ~25K | 🌱 GREEN | QA + compliance audit + cache implementation. v1.2 → v1.3 with Ensurance System. |
 | 2026-04-16 | 3 | ~35K | 🌱 GREEN | External consulting export: CONSULTING_BRIEF + PROJECT_HISTORY + CHALLENGES_LOG + USER_PROFILE built |
 | 2026-05-18 | 4 | ~25K | 🌱 GREEN | Cross-device infrastructure: gh CLI install, repo init, GitHub push, README + SESSION_START built |
-| 2026-05-21 | 5 | ~150K (estimated cumulative across multiple outputs in this session) | 🌱 GREEN | Full spectrum audit (INVENTORY + FUSION_ANALYSIS), 6 sub-agent tests (7-8/10 plateau), F1+F4+F5+F10+F11 fusions executed, RPT.10/11 added, STANDALONE_SOP.md built. Most active session yet. |
+| 2026-05-21 | 5 | ~150K (estimated cumulative across multiple outputs in this session) | 🌱 GREEN | Full spectrum audit (INVENTORY + FUSION_ANALYSIS), 9 sub-agent tests (7-8.5/10 trajectory), F1+F2+F4+F5+F7+F8+F10+F11 all executed, FAILURE_LEDGER built, STANDALONE_SOP shipped. Most active session yet. |
+
+---
+
+*SOP v1.3 | This file: SESSION_STATE.md v1.7 | Session 5 (2026-05-21) | xprimordius/universal-sop (PRIVATE) | Current canonical state*
