@@ -61,3 +61,8 @@
 | 56 | 2026-05-21 | (in-place edit) | CLAUDE.md | v1.6 | MANDATORY SESSION START section now DEFERS to SESSION_START.md instead of duplicating it. Eliminates three-block redundancy + stale paths. | ✅ |
 | 57 | 2026-05-21 | (in-place edit) | cache/RPT_LOG.md | v1.1 | RPT.10 (truncation in SubSOP reports) + RPT.11 (no `<details>` in SubSOP reports) added — Alan called both out 2026-05-21 | ✅ |
 | 58 | 2026-05-21 | — | STANDALONE_SOP.md | v1.3 | New file — self-contained Universal Output SOP for brand new external Claude sessions with NO context. ~17K. All 20 protocols + 4 agents + user profile + 6 stages + tier guide + example output + compliance non-negotiables. Uses `<details>` expandable per protocol. | N/A (new file) |
+| 59 | 2026-05-21 | (sub-agent test) | — | — | SIXTH sub-agent validation — 8/10 friction (RECOVERY from 7/10 baseline confirmed). CLAUDE.md + RPT.10/11 fixes hold. 8 new FT7.x gaps surfaced, 4 fixed this output. | ✅ documented |
+| 60 | 2026-05-21 | (in-place edit) | cache/CONTINUATION.md | v3.2 | FT7.2 fix — removed competing 7-line confirmation template. Now defers to SESSION_START STEP 2 as canonical. | ✅ |
+| 61 | 2026-05-21 | (in-place edit) | CLAUDE.md | v1.7 | FT7.1 fix — Precedence Rule simplified to point at SESSION_START.md as canonical (removed duplicate authority table) | ✅ |
+| 62 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.6 | FT7.4 fix — added explicit STEP 0.5 git pull instruction before STEP 1 mandatory reads | ✅ |
+| 63 | 2026-05-21 | (in-place edit) | cache/SESSION_STATE.md | v1.6 | FT7.3 fix — TOKEN USAGE LOG backfilled with Sessions 3, 4, 5 (previously only 1, 2) | ✅ |

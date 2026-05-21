@@ -63,6 +63,20 @@ Answer these BEFORE reading any other file:
 
 ---
 
+## 🔄 STEP 0.5 — GIT PULL (Before STEP 1)
+
+**If you are in a Claude Code terminal session (NOT Claude.ai web), run this BEFORE reading STEP 1 files:**
+
+```bash
+git pull
+```
+
+This ensures you have the latest cache + SOP changes from any other device. If you skip this, you risk operating on stale state and creating merge conflicts later.
+
+**If you are in Claude.ai web (no file system):** skip this step and use `STANDALONE_SOP.md` instead.
+
+---
+
 ## 📖 STEP 1 — MANDATORY READS (In This Order)
 
 Use the Read tool. Read FULLY, not skim. Do not start work until all 7 are read.

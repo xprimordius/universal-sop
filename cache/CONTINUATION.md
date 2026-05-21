@@ -188,23 +188,11 @@ Full log: `cache/RPT_LOG.md`
 
 ## ⚙️ INSTRUCTIONS FOR NEXT SESSION AI
 
-```
-1. Read SESSION_START.md (in repo root) — bootstrap instructions
-2. Read this file (cache/CONTINUATION.md) — latest handoff
-3. Read cache/SESSION_STATE.md — current position
-4. Read cache/RPT_LOG.md — failures to NOT repeat
-5. Read UNIVERSAL_SOP_PROMPT.md — the rulebook v1.3
-6. Confirm in this exact format:
-   ✅ RESUMED
-   SOP: v1.3 loaded
-   Cache: [files found]
-   Current position: [from SESSION_STATE]
-   Last decisions: [last 3]
-   Pending P0: [field test SOP]
-   Token budget: ~XK / 200K | Status: 🌱 GREEN
-   Ready.
-7. WAIT for Alan's task. Do not start work unprompted.
-```
+**Defer to `SESSION_START.md` STEP 1 (7 mandatory reads) and STEP 2 (9-line confirmation format).**
+
+Do NOT use any confirmation template that competes with SESSION_START.md STEP 2. If you see an older 7-line template in this file's git history, it has been superseded as of 2026-05-21 (FT7.2 fix).
+
+**Bootstrap procedure lives in SESSION_START.md as the single source of truth.** This file (CONTINUATION.md) provides the LATEST handoff content, not the procedure for handoff.
 
 ---
 

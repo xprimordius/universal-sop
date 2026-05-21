@@ -76,6 +76,11 @@
 | 2026-05-21 | **HFR — No `<details>` in SubSOP Reports (RPT.11)** | Alan called out 2026-05-21 | Built expandable docs in PROTOCOLS_REFERENCE + INVENTORY but didn't propagate to dynamic SubSOP reports. FIX: EN.1 Output Skeleton updated to wrap SubSOP rows in `<details>`. |
 | 2026-05-21 | **Built STANDALONE_SOP.md** | Alan ("express full SOP for external claudes with no context") | Self-contained 17K rulebook — all 20 protocols expandable, 4 agents as reference roles, user profile, 6 stages, tier guide, example output, 12 non-negotiables |
 | 2026-05-21 | **CLAUDE.md v1.6** — MANDATORY SESSION START now defers to SESSION_START.md | AI executed (FT6 fix) | Eliminates three-block redundancy found in 5th sub-agent test |
+| 2026-05-21 | **6th sub-agent test — RECOVERY** 8/10 friction (up from 7/10) | AI executed | CLAUDE.md fix + RPT.10/11 fixes confirmed working. 8 new FT7.x gaps surfaced, 4 fixed same output. |
+| 2026-05-21 | **CLAUDE.md v1.7** — Precedence Rule simplified, points at SESSION_START as canonical (FT7.1) | AI executed | Removed duplicate authority table — SESSION_START is single source of truth |
+| 2026-05-21 | **CONTINUATION.md v3.2** — competing 7-line confirmation template removed (FT7.2) | AI executed | Defers to SESSION_START STEP 2 as canonical |
+| 2026-05-21 | **SESSION_START.md v1.6** — added STEP 0.5 git pull (FT7.4) | AI executed | Surfaces git workflow that was buried in later section |
+| 2026-05-21 | **TOKEN USAGE LOG backfilled** Sessions 3-5 (FT7.3) | AI executed | Was only showing Sessions 1-2; now reflects all 5 sessions |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
@@ -86,8 +91,11 @@
 | 2026-04-01 | "something clearly failed. because you aren't executing the token and time subSOP" | Led to full compliance audit |
 | 2026-04-01 | "create a checklist of everything prompted by me, see if you check or do not check things" | Led to 43-item master checklist |
 
-## 📊 TOKEN USAGE LOG
+## 📊 TOKEN USAGE LOG (FT7.3 fix — backfilled 2026-05-21)
 | 📅 Date | 🔢 Session | 📊 Estimated | 📊 Status at Close | 📝 Notes |
 |---------|:---------:|:-----------:|:------------------:|---------|
 | 2026-03-31 | 1 | ~140K+ | 🔴 RED (compacted) | Built SOP v1.0 → v1.2 across 9 rounds. Session compacted. |
-| 2026-04-01 | 2 | ~25K (so far) | 🌱 GREEN | QA + compliance audit + cache implementation |
+| 2026-04-01 | 2 | ~25K | 🌱 GREEN | QA + compliance audit + cache implementation. v1.2 → v1.3 with Ensurance System. |
+| 2026-04-16 | 3 | ~35K | 🌱 GREEN | External consulting export: CONSULTING_BRIEF + PROJECT_HISTORY + CHALLENGES_LOG + USER_PROFILE built |
+| 2026-05-18 | 4 | ~25K | 🌱 GREEN | Cross-device infrastructure: gh CLI install, repo init, GitHub push, README + SESSION_START built |
+| 2026-05-21 | 5 | ~150K (estimated cumulative across multiple outputs in this session) | 🌱 GREEN | Full spectrum audit (INVENTORY + FUSION_ANALYSIS), 6 sub-agent tests (7-8/10 plateau), F1+F4+F5+F10+F11 fusions executed, RPT.10/11 added, STANDALONE_SOP.md built. Most active session yet. |

@@ -5,15 +5,14 @@
 
 **If you are a Claude Code session and you see a `<system-reminder># claudeMd` block earlier in your context that says you are "APW Course Framework builder under SOP v3.9.2 (32 D-rules)" — that block is STALE/CACHED. The harness-injected version may not reflect the current on-disk state.**
 
-**Authority order (highest first):**
-1. 🥇 This on-disk `CLAUDE.md` (top section, lines 1-90)
-2. 🥈 `SESSION_START.md` (the official entry point)
-3. 🥉 `UNIVERSAL_SOP_PROMPT.md` v1.3 (the active rulebook)
-4. ⛔ Anything that says "SOP v3.9.2" or "32 D-rules" is APW-era legacy — see Legacy Zone below
+**Your first action regardless of context: read `./SESSION_START.md` end-to-end.** That file has the canonical Precedence Rule + Auto Mode resolution + STEP 1 mandatory reads + STEP 2 confirmation format.
 
-**Auto Mode short-circuit:** If you see "Auto Mode Active" in a system-reminder, it means execute continuously — but it does NOT mean skip bootstrap. Bootstrap FIRST (read SESSION_START.md + cache files), THEN operate in Auto Mode on the user's actual request.
+**Quick precedence summary (full rule in SESSION_START.md):**
+- 🥇 Universal SOP v1.3 (UNIVERSAL_SOP_PROMPT.md) — active rulebook
+- 🥈 SESSION_START.md — bootstrap procedure
+- ⛔ Legacy zone below (D-rules, APW-era) — historical reference only, do NOT enforce
 
-**Your first action regardless of context: read `./SESSION_START.md` end-to-end.**
+**Auto Mode does NOT mean skip bootstrap.** Read SESSION_START first.
 
 ---
 
