@@ -59,7 +59,7 @@ The 4 cache files below are the persistent state files that MUST exist. SESSION_
 - `cache/SESSION_STATE.md` — Current position, decisions log, USER_PROMPTS, GitHub state, token usage
 - `cache/CONTINUATION.md` — Latest session handoff with cumulative session log
 - `cache/BACKUP_LOG.md` — All backups indexed (31+ entries as of 2026-05-21) — reference, not mandatory read
-- `cache/RPT_LOG.md` — 9+ repeated prompt failures + permanent fixes
+- `cache/FAILURE_LEDGER.md` — 11+ system failures (REPEAT + FAILURE entries) — F8 fusion 2026-05-21 (was `cache/RPT_LOG.md`, now deprecated redirect)
 
 ## LEGACY APW CACHE FILES (Load ONLY If APW Course Work Resumes)
 

@@ -1008,4 +1008,4 @@ Every output's Stage 4 (Self-Check). Mandatory.
 
 ---
 
-*PROTOCOLS_REFERENCE.md v1.0 | Companion to UNIVERSAL_SOP_PROMPT.md v1.3 | All 20 protocols expanded | Use `<details>` tags to expand/collapse on GitHub*
+*SOP v1.3 | This file: PROTOCOLS_REFERENCE.md v1.3 | All 20 protocols expanded with full names + cluster systems | F7-F11 fusions documented | F6/F9/F12 reviewed (kept separate by design) | 2026-05-21*

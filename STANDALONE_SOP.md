@@ -376,6 +376,25 @@ Must score 10/10 to send. If <10, fix or HFR.
 - **Why:** Counters attention depletion + success relaxation decay mechanisms
 - **Time cost:** ~30 seconds per checkpoint
 - **When:** Mechanically every 3rd output
+
+#### Single-Output Session Guidance (FT9.4 fix 2026-05-21)
+- **Single chat-and-reply (one user message, one response):** EN.3 not applicable — skip
+- **Multi-output session (3+ outputs in same chat):** re-read this SOP every 3rd output
+- **One LONG output (>3 major sections):** perform mid-execution Pulse Check as informal EN.3 substitute (already part of EN.1 Output Skeleton)
+</details>
+
+<details>
+<summary><b>SP.10 vs EN.4 — Lens Distinction (FT7.5 Clarification)</b></summary>
+
+These are related but kept SEPARATE because of different lenses:
+
+| 🆔 | 🏷️ Lens | 📝 Question Answered |
+|:---:|---------|---------------------|
+| **SP.10 SCC** (Self-Compliance Check) | SOP rules | "Did I follow my own SOP rules in this output?" |
+| **SP.11 QAC** (Quality Assurance Check) | Structure | "Is the output structurally well-formed?" |
+| **EN.4 Pulse Check** | Mechanical gate | "10-second Y/N audit of Priority 10 items" |
+
+**Why kept separate:** Merging would blur the lens distinction. Different failure modes need different lenses. Pulse Check is the operationalized mechanical gate; SCC + QAC are deeper audits.
 </details>
 
 <details>
@@ -608,4 +627,4 @@ Quick reference for every acronym in this document. If you see something not her
 
 ---
 
-*STANDALONE_SOP.md v1.4 | Self-contained universal output rulebook | 2026-05-21 | For external Claude sessions with no project context | Updated: PROPORTIONALITY rule + tier-down escape + glossary*
+*SOP v1.3 | This file: STANDALONE_SOP.md v1.5 | Self-contained rulebook for external Claude sessions | 2026-05-21 | Updates: PROPORTIONALITY + tier-down + Glossary + N/A handling + EN.3 single-output + SP.10 vs EN.4 distinction*

@@ -1,5 +1,5 @@
 # 🚪 SESSION_START — Bootstrap For Any Claude Code / Claude Chat
-# VERSION: 1.2 | Last updated: 2026-05-21 | SOP: v1.3
+# VERSION: 1.7 | Last updated: 2026-05-21 | SOP: v1.3
 # THIS IS THE OFFICIAL ENTRY POINT. READ THIS FIRST. EVERY SESSION.
 #
 # v1.2 changes (2026-05-21): Added Precedence Rule (FT2.2 fix), Auto Mode resolution (FT2.7 fix),
@@ -22,7 +22,7 @@ Order of authority (highest first):
 2. 🥈 **`SESSION_START.md`** — this file, bootstrap procedure
 3. 🥉 **`cache/SESSION_STATE.md`** — current state, decisions
 4. 4️⃣ `cache/CONTINUATION.md` — last handoff
-5. 5️⃣ `cache/RPT_LOG.md` — failures to NOT repeat
+5. 5️⃣ `cache/FAILURE_LEDGER.md` — failures to NOT repeat (was RPT_LOG.md until F8 fusion 2026-05-21)
 6. 6️⃣ `USER_PROFILE.md` — communication preferences
 7. ⛔ `CLAUDE.md` legacy section + APW cache files — historical reference ONLY
 
@@ -156,7 +156,7 @@ Current position: [from SESSION_STATE.md "CURRENT POSITION" section]
 Last decisions: [last 3 entries from SESSION_STATE.md "DECISIONS LOG"]
 Active D-rules / focus: [from SESSION_STATE.md]
 Open items / next steps: [from CONTINUATION.md]
-Repeated failures to avoid: [count from RPT_LOG.md]
+Repeated failures to avoid: [count from FAILURE_LEDGER.md]
 
 Token budget: ~XK loaded / 200K | Status: 🌱 GREEN
 
@@ -179,7 +179,7 @@ Until the user confirms direction, do NOT:
 
 ---
 
-## 🎯 CURRENT PROJECT STATE (As Of 2026-05-18)
+## 🎯 CURRENT PROJECT STATE (As Of 2026-05-21 — Session 5 End)
 
 ### Active Work
 **Universal Output SOP v1.3** — system is mechanically complete and pushed to GitHub. Next priority is **field testing** in a fresh session to validate Ensurance System (EN.1-EN.4) prevents compliance decay over 10+ outputs.
@@ -336,4 +336,4 @@ Default behavior: **ASK ALAN.** Do not assume.
 
 ---
 
-*SESSION_START.md v1.2 | Bootstrap file | Required reading | Project: xprimordius/universal-sop (PRIVATE)*
+*SOP v1.3 | This file: SESSION_START.md v1.7 | Bootstrap — required reading | Project: xprimordius/universal-sop (PRIVATE) | 2026-05-21*

@@ -2,6 +2,20 @@
 # Everything learned across sessions that isn't in the cache files.
 # Read this ONCE at project start, then refer to caches for ongoing work.
 
+# ⚠️ HISTORICAL — Mar 13, 2026 — STALE CACHE PATHS
+
+**This file was written before the F1 + F2 + F8 fusions of 2026-05-21.** All cache path references below are STALE:
+- `cache/APW_MASTER_CACHE.md` → now `cache/legacy/APW_MASTER_CACHE.md`
+- `cache/BUILD_STATE_CACHE.md` → now `cache/legacy/BUILD_STATE_CACHE.md`
+- `cache/SCIO_KNOWLEDGE_CACHE.md` → now `cache/legacy/SCIO_KNOWLEDGE_CACHE.md`
+- `cache/PROGRAM_DETAILS_CACHE.md` → now `cache/legacy/PROGRAM_DETAILS_CACHE.md`
+- `cache/USER_FOUNDATION_CACHE.md` → now `cache/legacy/USER_FOUNDATION_CACHE.md`
+- `cache/RPT_LOG.md` → now `cache/FAILURE_LEDGER.md` (RPT_LOG is deprecated redirect)
+- `cache/PRIME_SOP.md` → now `cache/legacy/PRIME_SOP.md`
+- `cache/BRIDGE_SOP.md` → now `cache/legacy/BRIDGE_SOP.md`
+
+**For current state:** read `./SESSION_START.md` instead. This file is preserved for historical record only.
+
 ## SESSION HISTORY (3 sessions total)
 
 ### Session 1 (Earliest — compacted twice)

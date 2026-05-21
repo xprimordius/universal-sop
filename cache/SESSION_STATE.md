@@ -94,6 +94,8 @@
 | 2026-05-21 | F6/F9/F12 REVIEWED + documented | Alan ("C") | F9 + F12 KEPT SEPARATE (timing/lens precision). F6 = documentation-only (no count reduction). All decisions in PROTOCOLS_REFERENCE.md. |
 | 2026-05-21 | **8th sub-agent test (QA mission)** — 8/10 friction, F2 CLEAN | AI executed | No breakage from F2. 7 new FT10.x gaps surfaced (2 critical fixed, 5 LOW deferred). |
 | 2026-05-21 | **Active cache files: 14 → 5** (~64% reduction) | F2 result | SESSION_STATE + CONTINUATION + BACKUP_LOG + FAILURE_LEDGER + RPT_LOG (deprecated pointer). Maximum lean. |
+| 2026-05-21 | **CLEANUP PASS** — 9 FT deferrals fixed | AI executed | Orphan RPT_LOG refs swept in 6 active files, CONTEXT_TRANSFER marked historical, SESSION_START version + date stamps current, file tree complete, SCC/EN.4 distinction visible, EN.3 single-output guidance, footer standardization |
+| 2026-05-21 | All Phase A/B/C fusion decisions FINALIZED + cleanup COMPLETE | Session 5 milestone | F1+F2+F4+F5+F7+F8+F10+F11 executed. F6 doc-only. F9+F12 kept separate. F3 rejected. Active cache 5 files. STANDALONE_SOP self-sufficient validated. 8 sub-agent tests. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

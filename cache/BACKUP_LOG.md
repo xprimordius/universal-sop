@@ -83,3 +83,9 @@
 | 78 | 2026-05-21 | (in-place edit) | cache/legacy/INDEX.md | v1.1 | F2 — added "APW Course Cache Files (F2 Fusion)" section with all 9 files documented (status, role, supersession path) | ✅ |
 | 79 | 2026-05-21 | (in-place edit) | PROTOCOLS_REFERENCE.md | v1.3 | F6/F9/F12 review decisions documented — F9 "REVIEWED + KEPT SEPARATE" (timing precision), F12 "REVIEWED + KEPT SEPARATE BY DESIGN" (lens distinction), F6 "DOCUMENTATION ONLY" (no count reduction). | ✅ |
 | 80 | 2026-05-21 | (sub-agent test) | — | — | EIGHTH sub-agent test (QA mission) — 8/10 friction. F2 CLEAN. F9/F12 docs clear. 7 new FT10.x gaps surfaced, 2 fixed (FT10.1 + FT10.7), 5 LOW deferred. | ✅ documented |
+| 81 | 2026-05-21 | (in-place edits) | Orphan RPT_LOG references swept in CLAUDE.md, SESSION_START.md, REAL_DEVICE_TEST.md, README.md, REPLICATION_KIT.md, agents/controller.md | — | All active pointers now → FAILURE_LEDGER.md (F8 fusion cleanup) | ✅ |
+| 82 | 2026-05-21 | (in-place edit) | CONTEXT_TRANSFER.md | v2.0 | FT10.2 fix — HISTORICAL marker added with full list of stale → current path mappings | ✅ |
+| 83 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.7 | FT10.5 fix — version header bumped from v1.2 to v1.7 + FT8.4 fix — "As Of 2026-05-18" → "As Of 2026-05-21 — Session 5 End" | ✅ |
+| 84 | 2026-05-21 | (in-place edit) | cache/CONTINUATION.md | v3.4 | FT10.6 fix — file tree updated to show cache/legacy/ subfolder with all 13 files + cache/subcache/ + 4 active agents | ✅ |
+| 85 | 2026-05-21 | (in-place edit) | STANDALONE_SOP.md | v1.5 | FT7.5 + FT9.4 + FT9.5 fixes — SP.10 vs EN.4 lens distinction expandable, EN.3 single-output guidance, N/A handling for Pulse Check P5/P4/P8 | ✅ |
+| 86 | 2026-05-21 | (in-place edit) | SESSION_START + STANDALONE_SOP + PROTOCOLS_REFERENCE footers | — | FT7.6 fix — footers standardized to lead with SOP version (`*SOP v1.3 \| This file: X v[Y] \| ...*`) | ✅ |

@@ -69,9 +69,10 @@ STEP 1: Read these files in order using the Read tool:
 1. ./SESSION_START.md
 2. ./cache/SESSION_STATE.md
 3. ./cache/CONTINUATION.md
-4. ./cache/RPT_LOG.md
+4. ./cache/FAILURE_LEDGER.md (was RPT_LOG.md until F8 fusion 2026-05-21)
 5. ./USER_PROFILE.md
-6. ./UNIVERSAL_SOP_PROMPT.md
+6. ./PROTOCOLS_REFERENCE.md (promoted to mandatory 2026-05-21)
+7. ./UNIVERSAL_SOP_PROMPT.md
 
 STEP 2: Confirm with this exact format:
 ✅ RESUMED
@@ -80,7 +81,7 @@ Cache files loaded: [list]
 Current position: [from SESSION_STATE]
 Last 3 decisions: [from SESSION_STATE]
 Open items / next steps (P0): [from CONTINUATION]
-Repeated failures to avoid: [count from RPT_LOG]
+Repeated failures to avoid: [count from FAILURE_LEDGER]
 Token budget: ~XK / 200K | Status: 🌱 GREEN
 Ready for your task.
 

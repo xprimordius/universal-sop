@@ -26,7 +26,7 @@ This file contains everything needed to get the same fidelity of AI output in:
 | 2 | 📄 | `NEW_HIRE_GUIDE.md` | Plain-English user reference | Project root |
 | 3 | 📄 | `cache/SESSION_STATE.md` | Template for session state | cache/ folder |
 | 4 | 📄 | `cache/BACKUP_LOG.md` | Template for backup tracking | cache/ folder |
-| 5 | 📄 | `cache/RPT_LOG.md` | Template for repeated-prompt tracking | cache/ folder |
+| 5 | 📄 | `cache/FAILURE_LEDGER.md` | Unified failure tracking (REPEAT + FAILURE entries) — F8 fusion 2026-05-21 | cache/ folder |
 
 **Optional:**
 - `cache/CONTINUATION.md` — generated at session end, not needed at start
@@ -87,7 +87,7 @@ STEP 1: Read these files using the Read tool:
 - ./UNIVERSAL_SOP_PROMPT.md (the rulebook)
 - ./cache/SESSION_STATE.md (current state)
 - ./cache/BACKUP_LOG.md (backup history)
-- ./cache/RPT_LOG.md (repeated prompt failures to avoid)
+- ./cache/FAILURE_LEDGER.md (unified failure tracking — REPEAT + FAILURE entries, was RPT_LOG.md until F8 fusion 2026-05-21)
 - ./cache/CONTINUATION.md (if it exists — previous session handoff)
 
 STEP 2: After reading all files, confirm:

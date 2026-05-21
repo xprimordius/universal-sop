@@ -46,9 +46,9 @@ Before any framework deliverable can begin:
 
 | 🆔 | 🏷️ Action | 📝 Detail |
 |:---:|----------|----------|
-| C.1 | Read all 7 STEP 1 mandatory files | SESSION_START, SESSION_STATE, CONTINUATION, RPT_LOG, USER_PROFILE, PROTOCOLS_REFERENCE, UNIVERSAL_SOP_PROMPT |
+| C.1 | Read all 7 STEP 1 mandatory files | SESSION_START, SESSION_STATE, CONTINUATION, FAILURE_LEDGER (was RPT_LOG until F8 2026-05-21), USER_PROFILE, PROTOCOLS_REFERENCE, UNIVERSAL_SOP_PROMPT |
 | C.2 | Verify cache integrity | Files exist, readable, timestamps current |
-| C.3 | Cross-check cache consistency | No contradictions between SESSION_STATE / CONTINUATION / RPT_LOG |
+| C.3 | Cross-check cache consistency | No contradictions between SESSION_STATE / CONTINUATION / FAILURE_LEDGER |
 | C.4 | Check SP.3 TTE (Token Threshold Engine) status | Where are we on GREEN/YELLOW/RED? |
 | C.5 | Report to user via SESSION_START STEP 2 format | Confirmation + ready signal |
 
@@ -66,7 +66,7 @@ Before any framework deliverable can begin:
 | 🆔 | 🏷️ Action | 📝 Detail |
 |:---:|----------|----------|
 | C.10 | Delivery verification | Did Validator + Karen run? Failures fixed? |
-| C.11 | Cache update | Update SESSION_STATE + CONTINUATION + RPT_LOG (if applicable) |
+| C.11 | Cache update | Update SESSION_STATE + CONTINUATION + FAILURE_LEDGER (if applicable) |
 | C.12 | Token budget update | Log this operation's cost in SESSION_STATE |
 | C.13 | Transparency report | Show Alan: deliverable + validator results + token state + next step |
 

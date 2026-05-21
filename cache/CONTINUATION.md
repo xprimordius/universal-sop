@@ -132,17 +132,24 @@ universal-sop/
 ├── 📦 REPLICATION_KIT.md
 ├── 📜 CONTEXT_TRANSFER.md        ← Historical (Mar 13)
 ├── 📜 MIGRATION_README.md        ← Historical (Mar 13)
-├── 📁 cache/                     ← ACTIVE STATE (must be read)
-│   ├── SESSION_STATE.md
-│   ├── CONTINUATION.md           ← This file
-│   ├── BACKUP_LOG.md
-│   ├── FAILURE_LEDGER.md  ← active (was RPT_LOG.md until F8 fusion 2026-05-21)
-│   ├── RPT_LOG.md         ← deprecated redirect pointer
-│   └── ... (legacy APW cache, partial relevance)
-├── 📁 agents/                    ← Validation sub-agent defs
+├── 📁 cache/                     ← ACTIVE STATE (5 files, must be read)
+│   ├── SESSION_STATE.md          ← Current position + decisions + tokens
+│   ├── CONTINUATION.md           ← This file (latest handoff)
+│   ├── BACKUP_LOG.md             ← All file backups indexed
+│   ├── FAILURE_LEDGER.md         ← Unified REPEAT + FAILURE tracking (F8 fusion 2026-05-21)
+│   ├── RPT_LOG.md                ← Deprecated redirect → FAILURE_LEDGER
+│   ├── 📁 legacy/                ← 13 historical files (F1 + F2 fusions 2026-05-21)
+│   │   ├── INDEX.md              ← Guide to legacy files
+│   │   ├── APW_MASTER_CACHE.md, BUILD_STATE_CACHE.md, SCIO_KNOWLEDGE_CACHE.md
+│   │   ├── PROGRAM_DETAILS_CACHE.md, USER_FOUNDATION_CACHE.md, TOKEN_BUDGET_LOG.md
+│   │   ├── USER_PROMPTS_VERBATIM.md, USER_PROMPT_FULFILLMENT_AUDIT.md, USER_PROMPT_INVENTORY.md
+│   │   ├── PRIME_SOP.md, BRIDGE_SOP.md, SOP_FULL_REFERENCE.md
+│   ├── 📁 subcache/              ← 10 SCIO subcache files (still active for APW resume)
+│   └── 📁 backups/               ← Historical snapshots
+├── 📁 agents/                    ← 4 active agents (Controller, Validator-Merged, Karen, Paradox Resolver)
 ├── 📁 sop_scripts/               ← Token tracker (Node.js)
 ├── 📁 source_files/              ← APW course source
-└── 📁 backups/                   ← Historical SOP versions
+└── 📁 backups/                   ← Universal SOP version history
 ```
 
 ---

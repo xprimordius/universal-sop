@@ -41,7 +41,8 @@ universal-sop/
 │   ├── SESSION_STATE.md          ← Current position, decisions, prompts, tokens
 │   ├── CONTINUATION.md           ← Latest session handoff
 │   ├── BACKUP_LOG.md             ← All file backups indexed
-│   ├── RPT_LOG.md                ← Repeated prompt failures + permanent fixes
+│   ├── FAILURE_LEDGER.md         ← System failures (REPEAT + FAILURE entries) — F8 fusion 2026-05-21
+│   ├── RPT_LOG.md                ← Deprecated (redirect pointer to FAILURE_LEDGER.md)
 │   └── … (other APW-era cache files, mostly historical)
 │
 ├── 🤖 agents/                    ← Validation sub-agent definitions
