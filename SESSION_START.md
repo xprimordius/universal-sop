@@ -97,11 +97,38 @@ This ensures you have the latest cache + SOP changes from any other device. If y
 
 ## 📖 STEP 1 — MANDATORY READS (In This Order)
 
-**Pick your path based on session context:**
+**🎯 TOKEN OPTIMIZATION (NEW 2026-05-21): Default to FAST-PATH for most sessions. Cold Start is for genuinely new devices only.**
 
-### 🆕 COLD START (Fresh AI — Read All 8 Files)
+### ⚡ FAST-PATH (DEFAULT — Recommended For 80% Of Sessions)
 
-Use this if you have NEVER seen this project before, OR a fresh device/clone, OR you suspect harness drift.
+Use this if ANY of these are true:
+- ✅ You recently worked on this project (same conversation thread or recent context)
+- ✅ Session compacted but you remember the basics
+- ✅ User says "continue" or "pick up where I left off"
+- ✅ Token budget conservation matters
+
+Read ONLY these 3 files (~10K tokens, 5% of budget):
+```
+1. ./cache/SESSION_STATE.md       ← Current position + decisions
+2. ./cache/CONTINUATION.md        ← Latest handoff
+3. ./cache/BOOTSTRAP_CHECK.md     ← Verify mental model
+```
+
+**Defer to on-demand:** SOP, PROTOCOLS_REFERENCE, FAILURE_LEDGER, USER_PROFILE — read when first needed, not upfront.
+
+**Validation gate:** If BOOTSTRAP_CHECK reveals ANY comprehension gap → abort Fast-Path, run Cold Start.
+
+**Token savings:** ~18K per session (vs Cold Start).
+
+---
+
+### 🆕 COLD START (Only For Genuinely Fresh Devices — ~28K tokens, 14% of budget)
+
+Use this ONLY if:
+- ❌ Brand new device that has NEVER seen this project
+- ❌ Suspected harness drift (claudeMd stale)
+- ❌ Cross-device first sync after major structural changes
+- ❌ User explicitly says "full bootstrap"
 
 Use the Read tool. Read FULLY, not skim. Do not start work until all 8 are read.
 
@@ -181,6 +208,24 @@ Read ONLY these 3 files:
 
 ---
 
+## 🚫 SUB-AGENT SKIP CONDITIONS (Token Optimization 2026-05-21)
+
+**Sub-agent validation tests are ~16K tokens each.** Do NOT run if ANY of these are true:
+- ✅ 3+ consecutive tests already at same friction score (plateau confirmed)
+- ✅ Only cosmetic changes since last test (typos, version stamps, link updates)
+- ✅ User says "skip validation" or "just do it"
+- ✅ Token budget at 🟡 YELLOW or worse (validation consumes too much)
+
+**DO run sub-agent test if:**
+- 🔴 Structural change to SOP (new SubSOP, fusion executed, etc.)
+- 🔴 New file added to mandatory bootstrap path
+- 🔴 User explicitly requests "QA test"
+- 🔴 First test after entering a new tier (e.g., first cross-model)
+
+**Default heuristic:** No more than 3 sub-agent tests per session unless explicitly requested.
+
+---
+
 ## 🤖 ACTIVE AGENT ROSTER (Updated 2026-05-21 After F4 Fusion)
 
 When to invoke an agent (rare in normal flow — most outputs use inline SubSOPs):
@@ -254,6 +299,7 @@ Until the user confirms direction, do NOT:
 - ❌ Skip the SOP framework
 - ❌ Output without the SOP step header
 - ❌ Edit any file without backup first
+- ❌ **Read chat_archive/ files during bootstrap** (TOKEN OPTIMIZATION 2026-05-21 — these are reference/audit-only, NOT operational. ~5-10K saved by skipping.)
 
 ---
 

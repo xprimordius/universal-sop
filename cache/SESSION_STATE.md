@@ -134,6 +134,9 @@
 | 2026-05-21 | consistency_check.sh script created | AI executed (gap C2 fix) | Detects version drift, stale refs, file count anomalies before commit |
 | 2026-05-21 | archive_chat.sh hardened (gap A3 fix) | AI executed | Empty-file check + 50MB size warning |
 | 2026-05-21 | **HONEST META-RECOGNITION: O1 — SOP work overshadowed APW course (the original project)** | FAILURE_MODES analysis | 14+ sessions on SOP. APW Module 4.1 not progressed. SOP is ship-ready. Next session should be APW work. |
+| 2026-05-21 | **TOKEN OPTIMIZATION analysis + 3 fixes applied** | Alan ("reduced token use while maintaining quality") | Fast-Path is now DEFAULT (~18K saved/session), chat_archive excluded from bootstrap (~5-10K saved), sub-agent skip conditions defined (~16K × skipped tests) |
+| 2026-05-21 | **TOKEN_OPTIMIZATION_GUIDE.md built** | AI executed | 6 optimizations documented with savings + trade-offs + multi-device workflow. Honest: Obsidian doesn't reduce AI tokens (human reading only). Projected ~50-60% reduction in continuation sessions. |
+| 2026-05-21 | Multi-device economics: ~1.2M tokens/year saved (estimated) | Projection | 50 sessions × 18K + 20 skipped tests × 16K = significant cumulative savings |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
