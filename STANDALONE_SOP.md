@@ -45,7 +45,7 @@ This SOP exists because **AI is brilliant but inconsistent.** Sometimes it nails
 
 This rulebook forces every output through structured stages with mechanical compliance checks. The result: traceable, accurate, auditable output every time.
 
-**The author (Alan) spent 40+ hours iterating this. It works. Follow it strictly.**
+**The author spent 40+ hours iterating this. It works. Follow it strictly.**
 
 ---
 
@@ -756,4 +756,29 @@ Quick reference for every acronym in this document. If you see something not her
 
 ---
 
-*SOP v1.3 | This file: STANDALONE_SOP.md v1.5 | Self-contained rulebook for external Claude sessions | 2026-05-21 | Updates: PROPORTIONALITY + tier-down + Glossary + N/A handling + EN.3 single-output + SP.10 vs EN.4 distinction*
+## 📜 LICENSE
+
+Released under **MIT License** — free to use, modify, redistribute.
+
+```
+MIT License — Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+document and associated files (the "SOP"), to deal in the SOP without restriction,
+including without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the SOP, and to permit persons to whom
+the SOP is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the SOP.
+
+THE SOP IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
+
+**Adapt freely.** No warranty. Built across 40+ hours of iterative testing with 14 sub-agent validation cycles. Cross-model portable (~95% per 3rd cross-model sim).
+
+---
+
+*SOP v1.3 | This file: STANDALONE_SOP.md v1.13 | Self-contained rulebook for any LLM | MIT Licensed | 2026-05-21*

@@ -121,6 +121,9 @@
 | 2026-05-21 | **QA — 14th sub-agent NEW PROJECT RECORD 2/10 friction** | AI executed | Down from 3/10 baseline. Sub-agent verdict: "Ship-ready, ~95% portable confirmed". |
 | 2026-05-21 | **CR6 fix** — Rule #12 scope clarified (DEFINITIONS only, not wrap-up reports) | AI executed (sub-agent recommendation) | Eliminates last ambiguity surfaced |
 | 2026-05-21 | **MILESTONE: STANDALONE_SOP ship-ready (~95% cross-model portable)** | 14 sub-agent tests | Lowest friction score in project history. Final polish complete. |
+| 2026-05-21 | **A prep executed** — STANDALONE_SOP sanitized + MIT licensed | Alan ("A B") | Personal "Alan" reference anonymized. MIT License added (standard text). Ready for public gist. |
+| 2026-05-21 | **B prep executed** — SHIP_INSTRUCTIONS.md built (turnkey package) | Alan ("A B") | Step-by-step gist creation (5min) + 3-model test protocol (30min) + scoring rubric + results template + expected results from simulation |
+| 2026-05-21 | **MILESTONE: STANDALONE_SOP shippable + cross-model testable in <40min user time** | Session 5 end | Material prep complete. External execution awaiting Alan. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
