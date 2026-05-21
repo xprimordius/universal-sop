@@ -108,3 +108,7 @@
 | 103 | 2026-05-21 | (in-place edit) | cache/BOOTSTRAP_CHECK.md | v1.2 | FT14.2 fix — EFFICIENCY_GUIDE key insights migrated into BOOTSTRAP_CHECK Expected State section | ✅ |
 | 104 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.11 | FT14.3 fix — STANDALONE_SOP + EFFICIENCY_GUIDE added to Optional reads list with usage guidance | ✅ |
 | 105 | 2026-05-21 | (in-place edit) | cache/FAILURE_LEDGER.md | v1.1 | F.12 entry added — Pre-Flight Gate + Pulse Check 2.0 redundancy design error documented | ✅ |
+| 106 | 2026-05-21 | — | HARNESS_REFRESH_GUIDE.md | v1.0 | B option execution — documents how to clear stale harness `claudeMd` cache (option A: new session, option B: trust safety net, option C: hybrid restart). 3 refresh paths + verification checklist + drift dress rehearsal | N/A (new file) |
+| 107 | 2026-05-21 | — | CROSS_MODEL_TEST_KIT.md | v1.0 | C option execution — paste-ready test protocol for GPT-5/Gemini/Claude.ai web. Framing message + 3 test tasks + 12-item rubric + per-model expected friction sources | N/A (new file) |
+| 108 | 2026-05-21 | (sub-agent simulation) | — | — | CROSS-MODEL SIMULATION — sub-agent as "naive non-Claude AI" — produced working todo app via STANDALONE_SOP. 11/12 compliance, 5/10 friction. 10 FT15.x findings (cross-model portability issues) | ✅ documented |
+| 109 | 2026-05-21 | (in-place edits) | STANDALONE_SOP.md | v1.9 | FT15.1 + FT15.2 + FT15.3 critical fixes — token math model-agnostic (percentages + per-model examples), RPT_LOG → F.X reference, Pulse Check 10/15 ambiguity resolved (tier-based) | ✅ |

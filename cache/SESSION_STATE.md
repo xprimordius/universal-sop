@@ -109,6 +109,10 @@
 | 2026-05-21 | **F.12 HFR — design error caught by 12th sub-agent** | AI HFR | Pre-Flight Gate + Pulse Check 2.0 = redundant. Consolidated to Pulse Check 2.0 only. |
 | 2026-05-21 | **12th sub-agent QA — 8.5/10 MAINTAINED, plateau confirmed final** | AI executed | Net efficiency gain: ~0 (additions balanced by F.12 redundancy). Honest ceiling reached. |
 | 2026-05-21 | **HONEST CONCLUSION: in-session optimization ceiling = 8.5/10** | EFFICIENCY_GUIDE | Path to 9.5+/10 requires harness fix (Alan) + cross-device test + cross-model test |
+| 2026-05-21 | **B executed** — HARNESS_REFRESH_GUIDE.md built | Alan ("B then C") | Documents 3 refresh paths; verified on-disk CLAUDE.md is bulletproof against drift |
+| 2026-05-21 | **C executed** — CROSS_MODEL_TEST_KIT.md built + sub-agent cross-model simulation | Alan ("B then C") | Paste-ready protocol for GPT-5/Gemini. Sub-agent sim: 11/12 compliance, 5/10 friction, 10 FT15.x findings |
+| 2026-05-21 | **FT15.1+FT15.2+FT15.3 critical fixes** | AI executed | Token math model-agnostic (percentages), project-internal refs swept, Pulse Check 10/15 ambiguity resolved tier-based |
+| 2026-05-21 | **MILESTONE: STANDALONE_SOP cross-model portability ~75% confirmed** | Sub-agent sim | Honest assessment: 75% portable, 25% Claude-tuned. FT15.x cleanup increased toward ~85%. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

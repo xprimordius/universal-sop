@@ -213,13 +213,18 @@ Must score 10/10 to send. If <10, fix or HFR.
 <summary><b>SP.3 — TTE (Token Threshold Engine) + LTM (Live Token Monitor)</b></summary>
 
 - **What:** Math-based fuel budget with running display
-- **Thresholds:**
-  - 🌱 GREEN: <108K (full operations)
-  - 🟡 YELLOW: 108-130K (abbreviated validation, prep checkpoint)
-  - 🔴 RED: 130-141K (checkpoint NOW, cache all state)
-  - 🆘 CRITICAL: >141K theoretical (emergency cache dump)
-- **Math:** 200K context window minus 59K emergency reserve = 141K effective ceiling
-- **LTM format:** `📊 LTM: 📝 Section: ~XK · 📦 Step: ~XK · ⏱️ Session: ~XK / 200K · 🔋 Remaining: ~XK · [status emoji]`
+- **Thresholds (model-agnostic percentages — FT15.1 fix 2026-05-21):**
+  - 🌱 GREEN: <54% of context window (full operations)
+  - 🟡 YELLOW: 54-65% (abbreviated validation, prep checkpoint)
+  - 🔴 RED: 65-70% (checkpoint NOW, cache all state)
+  - 🆘 CRITICAL: >70% (emergency cache dump)
+- **Math:** Reserve ~30% emergency buffer of total window for unexpected expansion
+- **Example windows by model:**
+  - Claude (200K): GREEN <108K · YELLOW 108-130K · RED 130-141K
+  - GPT-5 (400K): GREEN <216K · YELLOW 216-260K · RED 260-280K
+  - Gemini (1M): GREEN <540K · YELLOW 540-650K · RED 650-700K
+- **LTM format:** `📊 LTM: 📝 Section: ~XK · 📦 Step: ~XK · ⏱️ Session: ~XK / [WINDOW] · 🔋 Remaining: ~XK · [status emoji]`
+- **N/M acceptable:** If your model can't self-measure token output, mark as `~XK (est.)` or `N/M (Not Measurable)` per the FT15.4 honest-marker pattern
 - **When:** Estimate before writing, LTM after every section
 </details>
 
@@ -318,7 +323,7 @@ Must score 10/10 to send. If <10, fix or HFR.
 <summary><b>SP.14 — RPT (Repeated Prompt Tracker)</b></summary>
 
 - **What:** Catch when user has to ask 2+ times for same thing
-- **Process:** Detect repeat → HFR fires → log to RPT_LOG → structural fix → verify in THIS output
+- **Process:** Detect repeat → HFR (Honest Failure Report) fires → log internally as F.X entry → structural fix → verify in THIS output
 - **When:** On detection of user repeat, mandatory
 - **Failure mode:** Same failures repeat session after session
 </details>
@@ -534,9 +539,14 @@ For EVERY output (even simple ones):
 
 ---
 
-## 🛡️ EN.4 Pulse Check 2.0 — Extended To 15 Items (F.12 Consolidation — Pre-Flight Gate Folded In)
+## 🛡️ EN.4 Pulse Check 2.0 — Extended To 15 Items (Single Canonical Form — FT15.3 Fix)
 
-**Honest note (F.12 in FAILURE_LEDGER):** Earlier draft had BOTH a separate "Pre-Flight Gate" (5 checks) AND Pulse Check 2.0 (P11-P15 with same content). 12th sub-agent test caught this as redundant friction. CONSOLIDATED to Pulse Check 2.0 only.
+**Resolved contradiction (FT15.3 2026-05-21):** Earlier draft had AMBIGUITY between a 10-item Pulse Check (Stage 4 template) and 15-item extended version. RESOLVED:
+- **For QUICK tier:** Use P1-P10 (mechanical 10-item subset, always permitted)
+- **For STANDARD tier:** Use P1-P15 (full 15-item version recommended)
+- **For COMPLEX tier:** Use P1-P15 REQUIRED (no skipping)
+
+This eliminates the "which version do I run?" decision overhead caught by cross-model sub-agent test.
 
 P1-P10 are mechanical. P11-P15 are the depth checks (effectively the Pre-Flight Gate inline):
 
