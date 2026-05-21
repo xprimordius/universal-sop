@@ -200,22 +200,15 @@ SOP: v1.3 | TIER: [tier]
 
 ### Stage 4 — Pulse Check Pre-Send (Mandatory)
 
-```
-🛡️ PULSE CHECK (10-second pre-send):
-P1: Step table all columns?              [Y/N]
-P2: LTM after every section?             [Y/N]
-P3: Step header line 1?                  [Y/N]
-P4: Understanding Check (STANDARD+)?     [Y/N]
-P5: Backups before edits?                [Y/N]
-P6: Conclusion maps to prompt?           [Y/N]
-P7: Debt counter honest?                 [Y/N]
-P8: SubSOP report present?               [Y/N]
-P9: Foresight + analysis at end?         [Y/N]
-P10: Acronyms expanded?                  [Y/N]
-Score: X/10 ✅
-```
+Use the canonical Pulse Check defined below in the **🛡️ EN.4 Pulse Check (Extended Form)** section.
 
-Must score 10/10 to send. If <10, fix or HFR.
+- **QUICK tier:** P1-P10 (mechanical subset)
+- **STANDARD tier:** P1-P15 (recommended)
+- **COMPLEX tier:** P1-P15 REQUIRED
+
+Must score 10/10 (QUICK) or 15/15 (STANDARD/COMPLEX) to send. If short, fix or invoke SP.12 HFR (Honest Failure Report).
+
+(CR4 fix 2026-05-21 — duplicate Pulse Check definition removed. Single source of truth = EN.4 section below.)
 
 ### Stage 5 — Wrap-Up Block (All These, Mandatory For STANDARD/COMPLEX)
 
@@ -592,11 +585,11 @@ For EVERY output (even simple ones):
 | 9 | Pulse Check (10/10) before sending |
 | 10 | Backup before any file edit (if doing file work) |
 | 11 | **Protocol references use full name + acronym on first use** |
-| 12 | **`<details>` expandable for protocols/agents when listed** |
+| 12 | **`<details>` expandable for protocol/agent DEFINITIONS (e.g., PROTOCOLS_REFERENCE.md style). NOT required for wrap-up SubSOP Execution Report — flat table is acceptable there.** (CR6 scope clarification 2026-05-21) |
 
 ---
 
-## 🛡️ EN.4 Pulse Check 2.0 — Extended To 15 Items (Single Canonical Form — FT15.3 Fix)
+## 🛡️ EN.4 Pulse Check (Extended Form — 15 Items, Single Canonical Form)
 
 **Resolved contradiction (FT15.3 2026-05-21):** Earlier draft had AMBIGUITY between a 10-item Pulse Check (Stage 4 template) and 15-item extended version. RESOLVED:
 - **For QUICK tier:** Use P1-P10 (mechanical 10-item subset, always permitted)
@@ -605,7 +598,7 @@ For EVERY output (even simple ones):
 
 This eliminates the "which version do I run?" decision overhead caught by cross-model sub-agent test.
 
-P1-P10 are mechanical. P11-P15 are the depth checks (effectively the Pre-Flight Gate inline):
+P1-P10 are mechanical (used for QUICK tier). P11-P15 are depth checks (added for STANDARD/COMPLEX):
 
 | # | 🛡️ Check | 📝 What It Tests |
 |:-:|----------|------------------|
@@ -620,15 +613,16 @@ P1-P10 are mechanical. P11-P15 are the depth checks (effectively the Pre-Flight 
 | P9 | Foresight + analysis at end | Mechanical |
 | P10 | Acronyms expanded first use | Mechanical |
 | **P11** | **PROPORTIONALITY honored** | Output size matches ask size |
-| **P12** | **`<details>` expandable in SubSOP report** | Rule #12 |
+| **P12** | **`<details>` expandable for protocol DEFINITIONS** (PROTOCOLS_REFERENCE style). Flat table OK for wrap-up SubSOP report. | Rule #12 (CR6 clarified scope 2026-05-21) |
 | **P13** | **No hedging without real uncertainty** | "Maybe/I think" used only when warranted |
 | **P14** | **Specific file paths + line numbers when claiming evidence** | FSP discipline |
 | **P15** | **All 8 guardrails (G.1-G.8) honored** | Anti-decay check |
 | | **Score: X/15 — Must be 15/15** | |
 
-**Choose:** Pulse Check 10 (basic) or Pulse Check 15 (with depth checks). For COMPLEX outputs, always use 15.
-
----
+**Tier → Form mapping (CR5 fix 2026-05-21 — "2.0" naming removed):**
+- 🟢 QUICK tier → P1-P10 (Basic Form)
+- 🟡 STANDARD tier → P1-P15 (Extended Form, recommended)
+- 🔴 COMPLEX tier → P1-P15 (Extended Form, REQUIRED)
 
 ---
 

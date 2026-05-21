@@ -117,6 +117,10 @@
 | 2026-05-21 | **QA — 13th sub-agent (2nd cross-model sim)** | AI executed | Friction 5/10 → 3/10 (-2, 40% reduction). 12/12 compliance. All 7 FT15.x LOW fixes validated. |
 | 2026-05-21 | **CR1+CR2+CR3 polish** | AI executed | Wall-clock N/M template, LTM [WINDOW] parameterization, SHR chat-only subset |
 | 2026-05-21 | **MILESTONE: Cross-model portability ~85% → ~92% confirmed** | 2nd cross-model sim | Sub-agent: "would now require only 30-min polish edits for ~95%" |
+| 2026-05-21 | **C executed** — CR4 (Pulse Check consolidation) + CR5 ("2.0" rename) applied | Alan ("C QA") | Single source of truth for Pulse Check definition. Clean naming. |
+| 2026-05-21 | **QA — 14th sub-agent NEW PROJECT RECORD 2/10 friction** | AI executed | Down from 3/10 baseline. Sub-agent verdict: "Ship-ready, ~95% portable confirmed". |
+| 2026-05-21 | **CR6 fix** — Rule #12 scope clarified (DEFINITIONS only, not wrap-up reports) | AI executed (sub-agent recommendation) | Eliminates last ambiguity surfaced |
+| 2026-05-21 | **MILESTONE: STANDALONE_SOP ship-ready (~95% cross-model portable)** | 14 sub-agent tests | Lowest friction score in project history. Final polish complete. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
