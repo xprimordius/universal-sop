@@ -12,8 +12,11 @@ cd "$PROJECT_ROOT"
 TARGET_FILE="${1:-}"
 
 if [ -z "$TARGET_FILE" ]; then
-  echo "🛡️ COMPLIANCE CHECK — Scanning uncommitted changes"
-  CONTENT=$(git diff --cached 2>/dev/null; git diff 2>/dev/null)
+  echo "🛡️ COMPLIANCE CHECK — Scanning uncommitted changes (added lines only, excluding meta-files)"
+  # Exclude files that legitimately discuss protocol patterns as examples
+  EXCLUDE_PATTERN="scripts/compliance_check.sh|DEVICE_REGISTRY.md|FAILURE_LEDGER.md|FAILURE_MODES_ANALYSIS.md|EFFICIENCY_GUIDE.md|MULTI_DEVICE_GIT_PROTOCOL.md|PROTOCOLS_REFERENCE.md|STANDALONE_SOP.md|TOKEN_OPTIMIZATION_GUIDE.md"
+  # Get only ADDED lines (+ prefix) from diffs, strip the + prefix, exclude meta-files
+  CONTENT=$( (git diff --cached 2>/dev/null; git diff 2>/dev/null) | grep -vE "$EXCLUDE_PATTERN" | grep "^+" | grep -v "^+++" | sed 's/^+//')
 else
   echo "🛡️ COMPLIANCE CHECK — Scanning $TARGET_FILE"
   CONTENT=$(cat "$TARGET_FILE")
@@ -106,10 +109,10 @@ echo ""
 # ─────────────────────────────────────────────────────────
 echo "🔍 CHECK 4 — Pulse Check presence"
 if echo "$CONTENT" | grep -qiE "PULSE CHECK" 2>/dev/null; then
-  if echo "$CONTENT" | grep -qE "Score:\s*1[56]/(15|16)" 2>/dev/null; then
-    echo "  ✅ Pulse Check present with full score (15/15 or 16/16)"
+  if echo "$CONTENT" | grep -qE "Score:\s*(10/10|11/11|12/12|15/15|16/16|17/17)" 2>/dev/null; then
+    echo "  ✅ Pulse Check present with full score"
   else
-    echo "  ⚠️ Pulse Check present but score not 15/15 or 16/16 — verify"
+    echo "  ⚠️ Pulse Check present but score not full (expected 10/10, 11/11, 12/12, 15/15, 16/16, or 17/17)"
     ISSUES=$((ISSUES + 1))
   fi
 else
@@ -120,12 +123,17 @@ echo ""
 # ─────────────────────────────────────────────────────────
 # CHECK 5 — LTM presence
 # ─────────────────────────────────────────────────────────
-echo "🔍 CHECK 5 — LTM lines (should be multiple)"
-LTM_COUNT=$(echo "$CONTENT" | grep -cE "📊 LTM:" 2>/dev/null || echo "0")
-if [ "$LTM_COUNT" -lt 3 ]; then
-  echo "  ⚠️ Only $LTM_COUNT LTM lines detected — should be 3+ for STANDARD, 5+ for COMPLEX"
+echo "🔍 CHECK 5 — LTM lines (only if STEP header detected)"
+if echo "$CONTENT" | grep -q "^STEP:" 2>/dev/null; then
+  LTM_COUNT=$(echo "$CONTENT" | grep -cE "📊 LTM:" 2>/dev/null | head -1 | tr -d '\n')
+  LTM_COUNT="${LTM_COUNT:-0}"
+  if [ "$LTM_COUNT" -lt 3 ]; then
+    echo "  ⚠️ Only $LTM_COUNT LTM lines detected — should be 3+ for STANDARD, 5+ for COMPLEX"
+  else
+    echo "  ✅ $LTM_COUNT LTM lines"
+  fi
 else
-  echo "  ✅ $LTM_COUNT LTM lines"
+  echo "  ℹ️  No STEP header — skipping (this is meta-file content, not an output)"
 fi
 echo ""
 

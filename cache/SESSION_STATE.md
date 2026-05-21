@@ -165,6 +165,9 @@ F.13 fix applied — macro+micro now in every step header. Next: APW work or fin
 | 2026-05-21 | **F.14 FIX — Mechanical compliance enforcement** | Alan ("TTE + LTM needs full names, where's compliance agent, we keep failing") | NEW: scripts/compliance_check.sh. Rule #11 tightened (EVERY use). NEW P17 (script-passed). UC strict template. Self-check limits acknowledged — mechanical checks added. |
 | 2026-05-21 | **HONEST**: Pulse Check P10 was behavioral — could be marked Y without rigor | HFR | F.14 root cause = same-brain self-audit ceiling. Mechanical script (~0 tokens) supplements judgment. |
 | 2026-05-21 | Compliance agent answer: Karen + Validator-Merged exist but NEVER auto-invoked | Honest gap | Now: scripts/compliance_check.sh is the auto-invoked mechanical layer. Karen still on-demand for major outputs. |
+| 2026-05-21 | **F.15 FIX — Multi-Device Identity + Append-Only Protection** | Alan ("devices named, changes timestamped, files aren't deleted") | DEVICE_REGISTRY.md + 3 scripts (setup_device, append_only_check, check_device_activity) + MULTI_DEVICE_GIT_PROTOCOL.md updated with Rules 6+7 |
+| 2026-05-21 | **This Mac registered as 'mac-main'** | git config | Future commits identifiable as Alan (mac-main) <alan+mac-main@local> instead of generic Alan <alan@local> |
+| 2026-05-21 | Current state verified before changes | check_device_activity.sh | 28 commits all from generic 'Alan <alan@local>'. No other devices written. Safe to proceed. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

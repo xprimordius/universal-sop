@@ -17,6 +17,56 @@ You'll work on this project from multiple devices (Mac, other laptop, phone-clon
 
 ---
 
+## 🏷️ NEW PREREQUISITE (F.15 fix 2026-05-21): Device Registration
+
+**Before ANY work on a device, ensure it's registered:**
+
+```bash
+# Check current device identity
+git config user.email   # Should show: alan+DEVICE-NAME@local
+
+# If shows generic (e.g., alan@local): register the device
+bash scripts/setup_device.sh DEVICE_NAME
+```
+
+Then add to `DEVICE_REGISTRY.md` table.
+
+**Why:** Every commit identifies which physical device made the change. Enables device-specific audit trails.
+
+---
+
+## 📜 COMMIT MESSAGE CONVENTION (F.15 fix 2026-05-21)
+
+**Every commit message must include device + timestamp prefix:**
+
+```
+[device-name | YYYY-MM-DD HH:MM TZ] One-line summary
+```
+
+Examples:
+- `[mac-main | 2026-05-21 17:30 CDT] F.15 fix: device registry + commit convention`
+- `[laptop-2 | 2026-05-22 09:00 CDT] APW Module 4.1 Lesson 1 outline draft`
+
+---
+
+## 🔍 SESSION START CHECK (NEW — F.15 fix 2026-05-21)
+
+**Before STEP 1 mandatory reads, run:**
+
+```bash
+bash scripts/check_device_activity.sh 7
+```
+
+This shows:
+- Recent commits from all devices (last 7 days)
+- Unpulled commits from other devices
+- Files most modified
+- Whether `git pull` is needed
+
+**If other devices have pushed:** review their changes BEFORE starting work to avoid conflicts.
+
+---
+
 ## 🛡️ THE 5 GOLDEN RULES (Never Break These)
 
 ### Rule 1 — ALWAYS Pull Before Work
@@ -57,6 +107,26 @@ git commit --amend (after push)
 
 **Do:**
 - Finish + push on Device A → switch to Device B → pull → work → push → switch back.
+
+### Rule 6 — APPEND-ONLY For History Files (F.15 fix 2026-05-21)
+**Never delete content from:**
+- `cache/SESSION_STATE.md` (decisions log)
+- `cache/BACKUP_LOG.md` (change history)
+- `cache/FAILURE_LEDGER.md` (failure patterns + fixes)
+- `cache/CONTINUATION.md` (session summaries)
+
+**Enforcement:** `bash scripts/append_only_check.sh` runs before commit. If file shrunk → commit blocked unless `--no-verify`.
+
+**To "remove" content:** Archive instead. Move outdated content to `cache/legacy/archived_YYYY-MM-DD_topic.md`.
+
+### Rule 7 — NEVER Delete Files (F.15 fix 2026-05-21)
+**Files in `NEVER-DELETE LIST` (see DEVICE_REGISTRY.md):**
+- All `cache/*` files
+- All `cache/legacy/*`, `cache/backups/*`, `agents/archive/*`
+- All `chat_archive/*` (full session transcripts)
+- All top-level governance files (STANDALONE_SOP, SESSION_START, CLAUDE.md, MULTI_DEVICE_GIT_PROTOCOL, etc.)
+
+**To "delete" a file:** Move to `cache/legacy/` with `archived_` prefix. Never `rm`.
 
 ---
 
