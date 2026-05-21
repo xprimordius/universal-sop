@@ -124,6 +124,9 @@
 | 2026-05-21 | **A prep executed** — STANDALONE_SOP sanitized + MIT licensed | Alan ("A B") | Personal "Alan" reference anonymized. MIT License added (standard text). Ready for public gist. |
 | 2026-05-21 | **B prep executed** — SHIP_INSTRUCTIONS.md built (turnkey package) | Alan ("A B") | Step-by-step gist creation (5min) + 3-model test protocol (30min) + scoring rubric + results template + expected results from simulation |
 | 2026-05-21 | **MILESTONE: STANDALONE_SOP shippable + cross-model testable in <40min user time** | Session 5 end | Material prep complete. External execution awaiting Alan. |
+| 2026-05-21 | **Obsidian backup integrated** — vault config + .gitignore tuned | Alan ("back things up") | Core Obsidian config shared (consistent layout), device-specific state excluded |
+| 2026-05-21 | **MULTI_DEVICE_GIT_PROTOCOL.md built** | Alan ("structure things for multi-device without problems/deletions/inefficiency") | 5 Golden Rules + 4 conflict resolution scenarios + Obsidian strategy + Claude Code strategy + nuclear recovery |
+| 2026-05-21 | SESSION_START STEP 0.5 + Optional reads updated to reference MULTI_DEVICE protocol | AI executed | Multi-device hygiene now part of bootstrap awareness |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

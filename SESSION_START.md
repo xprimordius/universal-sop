@@ -89,6 +89,8 @@ git pull
 
 This ensures you have the latest cache + SOP changes from any other device. If you skip this, you risk operating on stale state and creating merge conflicts later.
 
+**Multi-device users:** See `MULTI_DEVICE_GIT_PROTOCOL.md` for the 5 Golden Rules + conflict resolution playbook + Obsidian sync strategy. **Read it ONCE before working on any second device.**
+
 **If you are in Claude.ai web (no file system):** skip this step and use `STANDALONE_SOP.md` instead.
 
 ---
@@ -162,9 +164,11 @@ Read ONLY these 3 files:
 **When in doubt:** Use COLD START. Fast-path is for confidence, not laziness.
 
 **Optional (read if depth needed):**
+- `./MULTI_DEVICE_GIT_PROTOCOL.md` — multi-device backup hygiene (READ ONCE before working on second device — NEW 2026-05-21)
 - `./STANDALONE_SOP.md` — hosts the EN.4 Pulse Check 2.0 (P1-P15) — READ if doing STANDARD/COMPLEX work (FT14.3 reference)
 - `./EFFICIENCY_GUIDE.md` — honest analysis of friction ceiling + 5 reachable gains — READ if pushing toward 9.0+ friction score
 - `./PUBLIC_SHARE_KIT.md` — guidance for publishing STANDALONE_SOP.md externally (MIT/CC license options, gist vs repo, privacy checklist) — NEW 2026-05-21
+- `./SHIP_INSTRUCTIONS.md` — turnkey package for executing A (publish gist) + B (cross-model test)
 - `./CONSULTING_BRIEF.md` — high-level project overview
 - `./PROJECT_HISTORY.md` — 40+ hour evolution
 - `./CHALLENGES_LOG.md` — 14 challenges + debug history

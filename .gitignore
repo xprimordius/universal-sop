@@ -36,3 +36,17 @@ node_modules/
 # Claude Code internal files
 .claude/cache/
 .claude/settings.local.json
+
+# Obsidian — share core config, exclude device-specific state
+# Shared (committed): .obsidian/app.json, appearance.json (consistent layout across devices)
+# Excluded (per-device): workspace, plugins-data, cache (different per machine)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/plugins/*/data.json
+.obsidian/hotkeys.json
+.obsidian/snippets/
+.trash/
+_attachments/.obsidian-conflict-*
