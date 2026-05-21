@@ -173,6 +173,10 @@ F.13 fix applied — macro+micro now in every step header. Next: APW work or fin
 | 2026-05-21 | CONTINUATION.md v4.0 — comprehensive Session 5 handoff + new-chat continuation guide | AI executed | Per Alan: "how to continue in new chat to reset token count but maintain everything". Exact resume prompt embedded. |
 | 2026-05-21 | **READY FOR NEW CHAT TEST** | Session 5 end | New chat can resume via Fast-Path (3 files, ~10K tokens) + access full chat_archive if needed |
 | 2026-05-21 | **MASTER_CONTINUATION_PROMPT.md v1.0 built** (THE one-stop paste prompt) | AI executed at 95% capacity per Alan urgent request | Single self-contained prompt for ANY new device/chat. README.md updated to surface it at top entry-point table. 90-second new-device setup documented. Closes Session 5 final critical task. |
+| 2026-05-21 | **NEW-CHAT CONTINUATION TEST PASSED** — Session 6 bootstrapped via Fast-Path | Session 6 start | Token reset confirmed. All context restored from 3 cache files + chat_archive (~50K loaded). MACRO+MICRO surfaced per F.13. End-to-end proof of multi-device + multi-chat continuation. |
+| 2026-05-21 | **F.17 FIX EXECUTED — Comprehensive Boot-Up Self-Test** | Alan ("checklist for literally everything in detail with check marks, full transparency, embedded in the file itself, like a boot up") | NEW: scripts/bootstrap_verify.sh (67 mechanical checks across 11 categories: identity, agents, all 16 SubSOPs by name, 4 Ensurance, cache, scripts, hooks, fusion status, harness drift). BOOTSTRAP_CHECK.md rewritten v1.0→v2.0 as live checklist spec (77 items: 67 mechanical + 10 conceptual). SESSION_START STEP 2 rewritten — requires verifier output verbatim + Section 12 conceptual checks. |
+| 2026-05-21 | All bootstrap paths updated to include script | F.17 result | FAST-PATH (default), COLD START, and FAST-PATH continuation all now include `bash scripts/bootstrap_verify.sh`. Silent failures (missing files, drift, deleted scripts) caught mechanically in ~3s. |
+| 2026-05-21 | F.17 demonstrated end-to-end in same chat | Session 6 | 67/67 ✅ verified. No regressions. Boot-up screen surfaced with all components literally enumerated per Alan's requirement. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
@@ -194,4 +198,4 @@ F.13 fix applied — macro+micro now in every step header. Next: APW work or fin
 
 ---
 
-*SOP v1.3 | This file: SESSION_STATE.md v1.7 | Session 5 (2026-05-21) | xprimordius/universal-sop (PRIVATE) | Current canonical state*
+*SOP v1.3 | This file: SESSION_STATE.md v1.9 | Session 6 (2026-05-21) | xprimordius/universal-sop (PRIVATE) | Current canonical state*

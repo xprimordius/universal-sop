@@ -168,6 +168,28 @@ Every entry uses this format:
 </details>
 
 <details>
+<summary><b>F.17 — Bootstrap Confirmation Lacked Component-Level Transparency [FAILURE × 1, structural gap] — ✅ FIXED 2026-05-21</b></summary>
+
+- **Type:** FAILURE (structural transparency gap)
+- **First Observed:** Session 6 — Alan: "in the bootstrap itself, when we finally load it up, everything is checked off. I should literally see a check mark and a checklist for literally everything in detail... full transparency. This should be embedded into the actual file itself, just like a boot up for anything, to make sure that everything's up and running."
+- **Times:** 1 (but allowed every prior STEP 2 to summarize-not-enumerate)
+- **Root Cause:**
+  - STEP 2 confirmation (9-line format) surfaced MACRO + MICRO + current position + last decisions — but did NOT enumerate individual components
+  - BOOTSTRAP_CHECK.md v1.0 listed "expected answers" in Q&A form — passive spec, not active checklist
+  - AI could confirm bootstrap without proving every agent / SubSOP / script / hook actually loaded
+  - "Same brain self-audit" — AI claims "5 cache files loaded" but never lists which 5, allows silent drift (missing file, deleted script)
+- **Permanent Fix:**
+  1. **`scripts/bootstrap_verify.sh`** — mechanical verifier, 67 file/grep checks across 11 categories (identity, agents, SOP architecture, all 16 SubSOPs by name, 4 Ensurance, cache, scripts, hooks, fusion status, harness drift)
+  2. **`cache/BOOTSTRAP_CHECK.md` v2.0** — rewritten from Q&A → comprehensive checklist spec (77 total items: 67 mechanical + 10 conceptual)
+  3. **SESSION_START STEP 2 rewritten** — now requires `bash scripts/bootstrap_verify.sh` output verbatim + Section 12 conceptual checks. No more "summary" confirmation.
+  4. **All 3 paths updated** (FAST-PATH default, COLD START, FAST-PATH continuation) to include the script run
+- **Fixed:** 2026-05-21 (same output where called out)
+- **Verified:** Script ran 67/67 ✅ end-to-end. Output embedded in same chat as proof.
+- **Lesson:** Confirmation that "everything is loaded" needs literal enumeration, not summary. ~3 seconds of mechanical check beats hours of silent drift debugging.
+
+</details>
+
+<details>
 <summary><b>F.16 — Script Enforcement Agent Not Named + Bypass Possible [FAILURE × 1, structural gap] — ✅ FIXED 2026-05-21</b></summary>
 
 - **Type:** FAILURE (structural gap)
@@ -297,7 +319,7 @@ Every entry uses this format:
 
 | 🎯 | Metric | Count |
 |:---:|--------|:-----:|
-| Total entries | F.1 - F.11 | 11 |
+| Total entries | F.1 - F.17 | 17 |
 | REPEAT type | User asked 2+ times | 9 |
 | FAILURE type | Single-occurrence + meta-patterns | 2 |
 | All fixed | ✅ | 11 |

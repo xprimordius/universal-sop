@@ -1,140 +1,307 @@
-# 🧪 BOOTSTRAP_CHECK — Self-Verification Unit Test
-# F7.7 fix 2026-05-21 | Built per sub-agent recommendation
-# Read this as the LAST step of bootstrap to verify your understanding matches expected state
+# 🚀 BOOTSTRAP_CHECK — Comprehensive Boot-Up Self-Test
+# VERSION: 2.0 | F.17 fix 2026-05-21 | Per Alan: "checklist for literally everything in detail with check marks"
+# THIS FILE IS THE SPEC. `scripts/bootstrap_verify.sh` IS THE RUNNER.
 
 ---
 
-## 🎯 PURPOSE
+## 🎯 PURPOSE (Why This Exists)
 
-After completing SESSION_START.md STEP 1 (reading 7 cache+profile files + this BOOTSTRAP_CHECK as item #8 — 8 total mandatory for COLD START path), read THIS file to verify your mental model matches the project's expected current state. If any answer below doesn't match what you understood from the bootstrap files, you have a comprehension gap that needs investigation BEFORE acting.
+Alan's rule (2026-05-21): **Bootstrap must show a literal check mark for everything — agents, operations, SOPs, pre-SOPs, sub-SOPs, prime SOPs, scripts, hooks, goal tracking. Full transparency. Embedded in the file itself, like a system boot-up.**
 
-**Read time:** ~90 seconds (honest — ~130 lines, was claimed as 30s but sub-agent test #10 corrected). **Catches:** stale-cache pollution, harness-injected drift, misread structural decisions.
+This file:
+1. **Lists every component that must be verified at session start** (the spec)
+2. **Maps each to a verification method** (script check, grep check, manual surface)
+3. **Provides the filled-in template AI surfaces in STEP 2** (boot screen)
 
----
-
-## ✅ EXPECTED CURRENT STATE (As Of 2026-05-21)
-
-### SOP Version & Architecture
-| ❓ Question | ✅ Expected Answer |
-|------------|-------------------|
-| What is the active SOP version? | **v1.3** |
-| How many stages in the SOP? | **6** (Understand, Measure, Execute, Self-Check, Wrap-Up, Confirm) |
-| How many SubSOPs? | **16** (SP.1 through SP.16) |
-| How many Ensurance components? | **4** (EN.1 through EN.4) |
-| Total protocols + Ensurance? | **20** |
-| Is APW course work active? | **NO** — paused, returning after real-device test passes |
-
-### Active Cache (Post-F2 Fusion)
-| ❓ Question | ✅ Expected Answer |
-|------------|-------------------|
-| How many ACTIVE cache files? | **5** (SESSION_STATE, CONTINUATION, BACKUP_LOG, FAILURE_LEDGER, RPT_LOG-deprecated-redirect) |
-| Where are legacy APW cache files? | `cache/legacy/` (9 files + INDEX) |
-| What's the unified failure log called? | **FAILURE_LEDGER.md** (NOT RPT_LOG — RPT_LOG is deprecated redirect since F8 fusion) |
-| How many FAILURE_LEDGER entries? | **12** (F.1 through F.12) |
-
-### Active Agents (Post-F4+F5 Fusions)
-| ❓ Question | ✅ Expected Answer |
-|------------|-------------------|
-| How many active agents? | **4** |
-| Names? | Controller, Validator-Merged, Karen, Paradox Resolver |
-| What was archived in F4? | Oversight Executive + Cache Manager → merged into Controller |
-| What was archived in F5? | Jenny (standalone) → role absorbed by Validator-Merged Section A |
-
-### Bootstrap Procedure
-| ❓ Question | ✅ Expected Answer |
-|------------|-------------------|
-| What's the entry-point file? | **SESSION_START.md** (NOT CLAUDE.md — CLAUDE.md redirects to SESSION_START) |
-| How many STEP 1 mandatory reads? | **7** (SESSION_START + SESSION_STATE + CONTINUATION + FAILURE_LEDGER + USER_PROFILE + PROTOCOLS_REFERENCE + UNIVERSAL_SOP_PROMPT) |
-| What's the canonical confirmation format? | **SESSION_START STEP 2** — 9-line format starting with `✅ RESUMED` |
-| Auto Mode + STEP 3 conflict? | Bootstrap FIRST, then Auto Mode operates |
-
-### Fusion Status (As Of 2026-05-21)
-| ❓ Question | ✅ Expected Answer |
-|------------|-------------------|
-| F1 (Archive historical SOPs)? | **EXECUTED** — PRIME_SOP, BRIDGE_SOP, SOP_FULL_REFERENCE in cache/legacy/ |
-| F2 (APW cache → legacy)? | **EXECUTED** — 9 APW cache files in cache/legacy/ |
-| F3 (Validator + Karen merge)? | **REJECTED** — theater compliance risk |
-| F4 (Oversight + Cache Manager → Controller)? | **EXECUTED** — single Controller agent |
-| F5 (Archive Jenny standalone)? | **EXECUTED** — in agents/archive/ |
-| F6 (16 → 10 SubSOPs)? | **DOCUMENTATION ONLY** — clusters via PROTOCOLS_REFERENCE, count unchanged |
-| F7 (Wrap-Up cluster)? | **EXECUTED** — formalized in PROTOCOLS_REFERENCE |
-| F8 (RPT + HFR → FAILURE_LEDGER)? | **EXECUTED** — unified ledger |
-| F9 (EEP + PCG merge)? | **KEPT SEPARATE** — timing precision (during vs pre-send) |
-| F10 (TTE + LTM cluster)? | **EXECUTED** — documented as Token System |
-| F11 (Visual System cluster)? | **EXECUTED** — MagNet + Door Scan + Protocol Visibility |
-| F12 (SCC + QAC + EN.4 merge)? | **KEPT SEPARATE BY DESIGN** — lens distinction |
-
-### Current Top Priority (P0)
-| ❓ Question | ✅ Expected Answer |
-|------------|-------------------|
-| What is canonical P0? | **Real device test of SOP v1.3** using REAL_DEVICE_TEST.md on physical 2nd device |
-| Why? | 12 sub-agent in-session tests plateau at 7-8.5/10. Real device closes the validation loop. |
-| Approximate time? | ~30-45 min |
-
-### Efficiency Ceiling (FT14.2 — From EFFICIENCY_GUIDE.md)
-| ❓ Question | ✅ Expected Answer |
-|------------|-------------------|
-| What's the in-session friction ceiling? | **8.5/10** (12 tests confirmed) |
-| What blocks 10/10? | (a) Harness-injected stale claudeMd drift (Alan must fix in Claude Code settings), (b) same-brain-audits-itself structural limit, (c) 940-line SOP read length |
-| What achievable from AI side? | ~9.0-9.5/10 with all gains applied |
-| Active gates? | EN.4 Pulse Check 2.0 (P1-P15) is THE pre-send gate. There is NO separate "Pre-Flight Gate" — consolidated F.12. |
-| Where is Pulse Check 2.0 documented? | `STANDALONE_SOP.md` (also: Quick Start TL;DR in UNIVERSAL_SOP_PROMPT.md) |
+Result: every Claude session opens with a literal `[OK]`-style boot sequence proving every part of the system is loaded and current. No silent failures. No "I think it's all there." Mechanical proof.
 
 ---
 
-## 🚨 IF YOUR UNDERSTANDING DOES NOT MATCH
+## ⚡ HOW TO USE (1 command + 1 paste)
 
-If ANY answer above doesn't match what you understood from the STEP 1 bootstrap, you have one of these problems:
+### Step A — Run the mechanical verifier
+```bash
+bash scripts/bootstrap_verify.sh
+```
 
-| 🚨 Symptom | 🔮 Likely Cause | 🛡️ Fix |
-|-----------|-----------------|--------|
-| You think SOP is v3.9.2 / 32 D-rules / 126 prompt items | Read stale harness-injected `claudeMd` block instead of on-disk CLAUDE.md | Re-read on-disk CLAUDE.md AND SESSION_START.md. Honor the Precedence Rule. |
-| You think there are 9 cache files / loaded APW caches | Followed legacy CLAUDE.md "MANDATORY SESSION START" instead of SESSION_START.md STEP 1 | Defer to SESSION_START STEP 1 (7 files including USER_PROFILE + PROTOCOLS_REFERENCE) |
-| You used "Caches Loaded" 5-line confirmation format | Followed legacy CLAUDE.md confirmation format | Use SESSION_START STEP 2 9-line format |
-| You think there are 5+ agents (Oversight, Cache Manager, Jenny) | Read pre-F4/F5 fusion architecture | Re-read INVENTORY.md or controller.md — agents are now 4 |
-| You think the failure log is RPT_LOG.md | Read pre-F8 fusion docs | FAILURE_LEDGER.md is the active log; RPT_LOG.md is deprecated redirect |
-| You don't know what F2 / Controller / FAILURE_LEDGER mean | Did NOT read SESSION_STATE.md decisions log | Re-read SESSION_STATE — all fusion decisions logged there |
-| You're about to start work without WAIT confirmation | Did NOT honor SESSION_START STEP 3 | STOP. Confirm via STEP 2 format. Wait for user. |
+This runs **67 mechanical checks** across 11 categories and prints a filled-in checklist. Exit code: `0` if all pass, `1` if any fail.
+
+### Step B — Surface the output in STEP 2
+
+Paste the script's output verbatim under your STEP 2 confirmation. Then add the conceptual checks (Section 12 below — macro/micro goals, last decisions, fusion status from memory) that scripts can't verify.
+
+### Step C — If any ❌ or ⚠️ → investigate before continuing
+Do NOT proceed to user task until either:
+- All ❌ are resolved, OR
+- The user explicitly accepts the failure (logged in FAILURE_LEDGER)
 
 ---
 
-## 📊 STATE EVOLUTION TIMELINE (Reference)
+## 📋 THE 12-SECTION BOOT-UP CHECKLIST (Spec)
 
-Recent major changes (most recent first):
+Every check below is verified at session start. Sections 1–11 are **mechanical** (script-driven). Section 12 is **conceptual** (AI fills in from cache reads).
+
+---
+
+### 🆔 Section 1 — Identity & Git State (4 checks)
+
+| ✅ | Component | How Verified | Expected |
+|:--:|-----------|--------------|----------|
+| [ ] | Device name registered | `git config user.name` matches `Alan (device)` | `Alan (mac-main)` etc. |
+| [ ] | Device email tagged | `git config user.email` contains `+device` tag | `alan+mac-main@local` |
+| [ ] | Pre-commit hook path | `git config core.hooksPath` = `.githooks` | `.githooks` |
+| [ ] | On main branch | `git branch --show-current` | `main` |
+
+**Why:** F.15 protections (multi-device identity + append-only safety) only work if device naming + hook path are configured. Without these, commits anonymize + hooks bypass silently.
+
+---
+
+### 🤖 Section 2 — Active Agents (4 checks)
+
+| ✅ | Agent | Role | File |
+|:--:|-------|------|------|
+| [ ] | **Controller** | Orchestration + cache manager (F4 fusion of Oversight + Cache Manager) | `agents/controller.md` |
+| [ ] | **Validator-Merged** | Layer 1 — POVP + completeness + simplicity + cross-ref | `agents/validator-merged.md` |
+| [ ] | **Karen** | Layer 2 reality check + script enforcement verification (F.16) | `agents/karen-reality-check.md` |
+| [ ] | **Paradox Resolver** | On-demand — SCIO/APW tension resolution | `agents/paradox-resolver.md` |
+
+**Why:** Active agent count = 4 (was 7 in March, fused down via F4 + F5). If a file is missing, the workflow that references it breaks.
+
+**Archived (do NOT use):** `agents/archive/jenny-sop-verifier.md`, `oversight-executive.md`, `cache-manager.md`
+
+---
+
+### 📋 Section 3 — SOP Architecture (8 checks)
+
+| ✅ | File | Purpose |
+|:--:|------|---------|
+| [ ] | `UNIVERSAL_SOP_PROMPT.md` | Active rulebook v1.3 (6 stages, 16 SubSOPs, 4 Ensurance) |
+| [ ] | `PROTOCOLS_REFERENCE.md` | Full names + acronyms for every protocol |
+| [ ] | `STANDALONE_SOP.md` | Self-contained external rulebook (MIT, shippable) |
+| [ ] | `SESSION_START.md` | Bootstrap entry point (canonical) |
+| [ ] | `CLAUDE.md` | Project config — redirects to SESSION_START |
+| [ ] | `USER_PROFILE.md` | Alan's communication preferences |
+| [ ] | `DEVICE_REGISTRY.md` | Multi-device naming registry (F.15) |
+| [ ] | `MULTI_DEVICE_GIT_PROTOCOL.md` | 7 Golden Rules for multi-device hygiene |
+
+---
+
+### 🧩 Section 4 — SubSOPs (16 checks, all enumerated)
+
+Every SubSOP must be present in PROTOCOLS_REFERENCE.md with full name + acronym.
+
+| ✅ | ID | Full Name | Role |
+|:--:|:--:|-----------|------|
+| [ ] | SP.1 | **MagNet** (Magnetic Visual Engagement Protocol) | Visual standard — tables, emojis, scannable |
+| [ ] | SP.2 | **Door Scan** (Door Scanning Pattern Protocol) | Emoji → brief → detail funnel |
+| [ ] | SP.3 | **TTE** (Token Threshold Engine) | Budget math — GREEN/YELLOW/RED/CRITICAL |
+| [ ] | SP.4 | **SCP** (System Change Protocol) | How to safely modify the SOP itself |
+| [ ] | SP.5 | **FSP** (Fidelity Substantiation Protocol) | Every claim has evidence |
+| [ ] | SP.6 | **IAC** (Intent Alignment Check) | Understanding Check before execution |
+| [ ] | SP.7 | **Insights Protocol** | Surface present-adjacent helpful context |
+| [ ] | SP.8 | **Protocol Visibility Protocol** | No hidden mechanics — surface every protocol used |
+| [ ] | SP.9 | **FE** (Foresight Engine) | Predict next problems + solutions, priority-tagged |
+| [ ] | SP.10 | **SCC** (Self-Compliance Check) | "Did I follow my OWN SOP rules?" |
+| [ ] | SP.11 | **QAC** (Quality Assurance Check) | "Is the output structurally well-formed?" |
+| [ ] | SP.12 | **HFR** (Honest Failure Report) | Root cause + permanent fix when something failed |
+| [ ] | SP.13 | **SHR** (System Health Report) | Multi-dimensional scorecard |
+| [ ] | SP.14 | **RPT** (Repeated Prompt Tracker) | Catch when user asks 2+ times |
+| [ ] | SP.15 | **EEP** (Execution Enforcement Protocol) | Execute, don't acknowledge — no future tense |
+| [ ] | SP.16 | **PCG** (Prompt Completion Gate) | Pre-send: every prompt item has execution proof |
+
+**Why each is verified:** PROTOCOLS_REFERENCE.md is the source of truth (Rule #11 mandate). If an entry is missing, full-name + acronym enforcement breaks.
+
+---
+
+### 🛡️ Section 5 — Ensurance System (4 checks)
+
+| ✅ | ID | Full Name | Role |
+|:--:|:--:|-----------|------|
+| [ ] | EN.1 | **Output Skeleton** (Structural Anti-Decay Mechanism) | Mandatory sections never silently dropped |
+| [ ] | EN.2 | **Priority 10** (Cognitive Load Reduction) | Top-10 attention rules, surfaced every output |
+| [ ] | EN.3 | **Checkpoint Cycle** (Attention Reset) | Re-anchor after long sections |
+| [ ] | EN.4 | **Pulse Check** (Compliance Pulse Check) | 10-second mechanical pre-send audit (P1-P17) |
+
+**Why:** Without Ensurance, the SOP decays after 4–6 outputs (DC.1-DC.5 documented in PROJECT_HISTORY). EN.1-EN.4 are the structural anti-decay layer that survives attention depletion.
+
+---
+
+### 🗄️ Section 6 — Active Cache Files (5 + 2 dirs)
+
+Post-F2 fusion (2026-05-21) — APW caches archived to `cache/legacy/`.
+
+| ✅ | File | Purpose |
+|:--:|------|---------|
+| [ ] | `cache/SESSION_STATE.md` | Current position + decisions log + token usage |
+| [ ] | `cache/CONTINUATION.md` | Latest session handoff |
+| [ ] | `cache/BACKUP_LOG.md` | All backups indexed (~30+ entries) |
+| [ ] | `cache/FAILURE_LEDGER.md` | Unified REPEAT + FAILURE log (F8 fusion) |
+| [ ] | `cache/RPT_LOG.md` | Deprecated redirect → FAILURE_LEDGER |
+| [ ] | `cache/BOOTSTRAP_CHECK.md` | This file (the spec) |
+| [ ] | `cache/legacy/` (dir) | Archived APW-era files (F1 + F2 fusions) |
+| [ ] | `cache/backups/` (dir) | Historical snapshots before edits (D32) |
+
+---
+
+### ⚙️ Section 7 — Scripts / Mechanical Enforcement Layer (7 checks)
+
+Same-brain self-audit has a ceiling (~8.5/10 friction). Scripts close the gap.
+
+| ✅ | Script | Enforces |
+|:--:|--------|----------|
+| [ ] | `scripts/compliance_check.sh` | Rule #11 full-name enforcement (F.14) |
+| [ ] | `scripts/consistency_check.sh` | Version drift detection |
+| [ ] | `scripts/setup_device.sh` | One-command device registration (F.15) |
+| [ ] | `scripts/append_only_check.sh` | History file protection (F.15) |
+| [ ] | `scripts/check_device_activity.sh` | Multi-device audit (F.15) |
+| [ ] | `chat_archive/archive_chat.sh` | Session JSONL snapshot |
+| [ ] | `scripts/bootstrap_verify.sh` | THIS comprehensive boot self-test (F.17) |
+
+---
+
+### 🪝 Section 8 — Git Hooks (1 check)
+
+| ✅ | Hook | Enforces |
+|:--:|------|----------|
+| [ ] | `.githooks/pre-commit` | Mechanical layer — runs compliance + consistency + append-only on every commit (F.16). Cannot bypass without `--no-verify`. |
+
+---
+
+### 🔀 Section 9 — Fusion Execution Status (8 checks)
+
+Phase A + B SAFE fusions. All must be EXECUTED.
+
+| ✅ | Fusion | What |
+|:--:|--------|------|
+| [ ] | **F1** | Historical SOPs (PRIME_SOP, BRIDGE_SOP, SOP_FULL_REFERENCE) → `cache/legacy/` |
+| [ ] | **F2** | 9 APW-era cache files → `cache/legacy/` (active cache 14 → 5) |
+| [ ] | **F4** | Oversight + Cache Manager → fused into Controller (~1.5K saved/session) |
+| [ ] | **F5** | Jenny standalone → archived to `agents/archive/` |
+| [ ] | **F7** | Wrap-Up cluster (FE + Insights + SHR) formalized in PROTOCOLS_REFERENCE |
+| [ ] | **F8** | RPT + HFR unified → FAILURE_LEDGER.md |
+| [ ] | **F10** | TTE (Token Threshold Engine) + LTM (Live Token Monitor) Token System documented as cluster |
+| [ ] | **F11** | MagNet + Door Scan + Protocol Visibility → Visual System cluster |
+
+**Not executed (by design):**
+- F3 (Validator + Karen merge) — REJECTED (theater compliance risk)
+- F6 (16 → 10 SubSOPs) — DOCUMENTATION ONLY
+- F9 (EEP + PCG) — KEPT SEPARATE (timing precision)
+- F12 (SCC + QAC + EN.4) — KEPT SEPARATE BY DESIGN (lens distinction)
+
+---
+
+### 🎯 Section 10 — Goal Tracking (F.13, 3 checks)
+
+| ✅ | Component | Where Verified |
+|:--:|-----------|----------------|
+| [ ] | MACRO GOAL section in SESSION_STATE | `cache/SESSION_STATE.md` |
+| [ ] | MICRO GOAL section in SESSION_STATE | `cache/SESSION_STATE.md` |
+| [ ] | GOAL STATUS section in SESSION_STATE | `cache/SESSION_STATE.md` |
+
+**Why:** F.13 root cause was O1 OBJECTIVE DRIFT — 14 sessions on SOP while APW course (the macro goal) paused. Structural fix: every step header must surface MACRO + MICRO from SESSION_STATE.
+
+---
+
+### 📊 Section 11 — Harness Drift Detection (2 checks)
+
+Compensates for stale `claudeMd` injection (the harness may show v3.9.2 / 32 D-rules — those are HISTORICAL APW-era references, not current state).
+
+| ✅ | Check | Expected |
+|:--:|-------|----------|
+| [ ] | UNIVERSAL_SOP_PROMPT.md contains "v1.3" | ✓ |
+| [ ] | UNIVERSAL_SOP_PROMPT.md contains "16 SubSOPs" | ✓ |
+
+---
+
+### 🧠 Section 12 — Conceptual Checks (AI Fills In From Cache Reads)
+
+The script CANNOT verify these. AI must surface them from SESSION_STATE + CONTINUATION + FAILURE_LEDGER reads.
+
+| ✅ | Check | Source | Surface In STEP 2 |
+|:--:|-------|--------|------------------|
+| [ ] | MACRO goal read aloud | SESSION_STATE GOAL TRACKING | 🎯 line |
+| [ ] | MICRO goal read aloud | SESSION_STATE GOAL TRACKING | 📌 line |
+| [ ] | Macro Status (drift / on-track) | SESSION_STATE GOAL STATUS | 📊 line |
+| [ ] | Last 3 decisions read | SESSION_STATE decisions log | "Last decisions" lines |
+| [ ] | Current position read | SESSION_STATE CURRENT POSITION | "Current position" line |
+| [ ] | Macro-level next action | SESSION_STATE GOAL TRACKING | ▶️ line |
+| [ ] | Micro-level next action | SESSION_STATE GOAL TRACKING | ▶️ line |
+| [ ] | Failure ledger count surfaced | FAILURE_LEDGER (F.1–F.N) | "Repeated failures" line |
+| [ ] | Latest session handoff understood | CONTINUATION.md Session N block | (internalize) |
+| [ ] | Token budget posted | LTM running estimate | Token budget line |
+
+---
+
+## ✅ STEP 2 CONFIRMATION TEMPLATE (Per SESSION_START)
+
+After running the verifier + surfacing conceptual checks, AI sends this to user:
+
+```
+🚀 BOOT-UP SELF-TEST
+SOP: v1.3 loaded | 16 SubSOPs + EN.1-EN.4 | 4 agents | 5 cache files
+
+[paste bootstrap_verify.sh output here — all 67 mechanical checks]
+
+🧠 CONCEPTUAL CHECKS (Section 12 — AI-sourced from cache):
+🎯 MACRO: [from SESSION_STATE GOAL TRACKING]
+📌 MICRO: [from SESSION_STATE GOAL TRACKING]
+📊 Macro Status: [from GOAL STATUS]
+Current position: [from CURRENT POSITION]
+Last 3 decisions:
+  • [decision 1]
+  • [decision 2]
+  • [decision 3]
+▶️ Macro-level next action: [from GOAL TRACKING]
+▶️ Micro-level next action: [from GOAL TRACKING]
+Repeated failures to avoid: F.1–F.N (count from FAILURE_LEDGER)
+Token budget: ~XK loaded / 200K | Status: 🌱 GREEN
+
+✅ ALL SYSTEMS GO — Ready for your task.
+```
+
+If verifier exits non-zero, **DO NOT** confirm "ALL SYSTEMS GO." Surface the failed items and ask Alan whether to fix or proceed.
+
+---
+
+## 🛡️ FAILURE MODES THIS CHECKLIST PREVENTS
+
+| 🚨 Failure | 🛡️ Catch |
+|-----------|----------|
+| Stale `claudeMd` says SOP v3.9.2 | Section 11 — version check from on-disk file |
+| AI forgets one of 16 SubSOPs | Section 4 — every SP.1–SP.16 enumerated |
+| Agent file deleted accidentally | Section 2 — file existence checked |
+| Pre-commit hook deactivated | Section 1 — `core.hooksPath` checked |
+| Device commits anonymized | Section 1 — `user.name` format checked |
+| Goal tracking absent (O1 drift) | Section 10 + 12 — MACRO/MICRO surfaced literally |
+| Fusion silently undone | Section 9 — fusion-marker grep per fusion |
+| Scripts deleted | Section 7 — every script existence + executable bit checked |
+| Cache file deleted | Section 6 — every active cache verified |
+| FAILURE_LEDGER stale count | Section 12 — count surfaced in STEP 2 |
+
+---
+
+## 📜 EVOLUTION LOG
 
 | 📅 Date | 🔀 Change |
 |---------|----------|
-| 2026-05-21 | F2 EXECUTED — APW cache → legacy/ (active cache 14 → 5) |
-| 2026-05-21 | F7+F8 EXECUTED — Wrap-Up cluster + FAILURE_LEDGER |
-| 2026-05-21 | F4 EXECUTED — Controller fusion (agents 5 → 4) |
-| 2026-05-21 | F5 EXECUTED — Jenny archived (after F4) |
-| 2026-05-21 | F1 EXECUTED — Historical SOPs → cache/legacy/ |
-| 2026-05-21 | RPT.10 + RPT.11 added (truncation + `<details>` patterns), now F.10 + F.11 in FAILURE_LEDGER |
-| 2026-05-21 | PROTOCOLS_REFERENCE.md mandatory (Rule #11 — full names) |
-| 2026-05-21 | USER_PROFILE.md mandatory (FT.1 fix) |
-| 2026-05-21 | SESSION_START Precedence Rule + Auto Mode resolution + STEP 0.5 git pull |
-| 2026-05-21 | STANDALONE_SOP.md built + validated SELF-SUFFICIENT |
-| 2026-05-18 | GitHub repo initialized (PRIVATE) |
-| 2026-04-16 | 4 external consulting docs built |
-| 2026-04-01 | SOP v1.2 → v1.3 (Ensurance System EN.1-EN.4 added) |
-| 2026-03-31 | Universal SOP v1.0 → v1.2 (16 SubSOPs established across 9 rounds) |
-| 2026-03-15 | APW Prime SOP v2.8 (12 stages, 32 D-rules) |
+| 2026-05-21 (v2.0) | **F.17 fix** — converted from "expected answers" Q&A table to comprehensive boot-up checklist with mechanical verifier. 67 mechanical + 10 conceptual = 77 total checks. |
+| 2026-05-21 (v1.0) | Created per sub-agent test #6 (FT7.7) recommendation as Q&A self-verification |
 
 ---
 
-## 🎯 USAGE
+## 🎯 USAGE PATTERN
 
-**When to read this file:**
-- After STEP 1 mandatory reads, BEFORE confirming bootstrap
-- After major fusions or version bumps (to verify you absorbed the change)
-- When in doubt about current state (drift detection)
+**On EVERY session start:**
+```bash
+git pull && bash scripts/bootstrap_verify.sh
+```
 
-**When NOT to read this file:**
-- Mid-task (it's a checkpoint, not a working reference)
-- For protocol mechanics (use PROTOCOLS_REFERENCE.md instead)
+Then in STEP 2, paste the output verbatim + add Section 12 conceptual lines.
 
-**Goal:** ~30-second sanity check that your mental model matches reality.
+**If you skip this:** you risk shipping with a silent failure (missing agent, broken hook, stale fusion). The mechanical checks cost ~3 seconds. The cost of NOT checking is hours of debugging downstream.
+
+**Read time:** ~60 seconds (skim the spec). **Run time:** ~3 seconds (the script).
 
 ---
 
-*SOP v1.3 | This file: BOOTSTRAP_CHECK.md v1.0 | Bootstrap self-verification unit test | 2026-05-21 | Per sub-agent test #6 (FT7.7) recommendation*
+*SOP v1.3 | This file: BOOTSTRAP_CHECK.md v2.0 (F.17) | Comprehensive boot self-test | 2026-05-21*

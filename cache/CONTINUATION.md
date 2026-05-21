@@ -320,12 +320,33 @@ Full log: `cache/FAILURE_LEDGER.md` (RPT_LOG.md was deprecated by F8 fusion 2026
 
 ## ⚙️ INSTRUCTIONS FOR NEXT SESSION AI
 
-**Defer to `SESSION_START.md` STEP 1 (7 mandatory reads) and STEP 2 (9-line confirmation format).**
+**Defer to `SESSION_START.md` STEP 1 (mandatory reads + bootstrap_verify.sh) and STEP 2 (comprehensive boot-up checklist — F.17).**
 
-Do NOT use any confirmation template that competes with SESSION_START.md STEP 2. If you see an older 7-line template in this file's git history, it has been superseded as of 2026-05-21 (FT7.2 fix).
+Do NOT use any confirmation template that competes with SESSION_START.md STEP 2. The 9-line "MACRO+MICRO" format was superseded 2026-05-21 by the **comprehensive 77-item checklist** (F.17) — STEP 2 now requires `bash scripts/bootstrap_verify.sh` output verbatim + Section 12 conceptual checks.
 
 **Bootstrap procedure lives in SESSION_START.md as the single source of truth.** This file (CONTINUATION.md) provides the LATEST handoff content, not the procedure for handoff.
 
 ---
 
-*SOP v1.3 | This file: CONTINUATION.md v3.4 | Session 5 (2026-05-21) | xprimordius/universal-sop (PRIVATE)*
+## 🆕 SESSION 6 MILESTONES (Appended 2026-05-21)
+
+### Built
+- `scripts/bootstrap_verify.sh` — 67-check mechanical boot self-test (~3s runtime, exit code = pass/fail)
+- `cache/BOOTSTRAP_CHECK.md` v2.0 — rewritten from Q&A spec → comprehensive 77-item checklist (67 mechanical + 10 conceptual)
+
+### Updated
+- `SESSION_START.md` STEP 2 — now requires verifier output + Section 12 conceptual checks (no more 9-line summary)
+- `SESSION_START.md` all 3 bootstrap paths (FAST default, COLD, FAST continuation) — include script run
+- `cache/FAILURE_LEDGER.md` — F.17 entry added, total now F.1–F.17 (17 entries)
+- `cache/SESSION_STATE.md` — F.17 decisions logged, v1.9
+
+### Verified
+- New-chat continuation test PASSED (Session 5 → Session 6 transition via Fast-Path)
+- 67/67 ✅ on first run of bootstrap_verify.sh — no broken references
+
+### F.17 — In One Sentence
+> "Confirmation that everything is loaded needs literal enumeration, not summary." (Alan, 2026-05-21)
+
+---
+
+*SOP v1.3 | This file: CONTINUATION.md v3.5 | Session 6 (2026-05-21) | xprimordius/universal-sop (PRIVATE)*

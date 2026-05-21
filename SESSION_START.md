@@ -111,12 +111,17 @@ Read ONLY these 3 files (~10K tokens, 5% of budget):
 ```
 1. ./cache/SESSION_STATE.md       ← Current position + decisions
 2. ./cache/CONTINUATION.md        ← Latest handoff
-3. ./cache/BOOTSTRAP_CHECK.md     ← Verify mental model
+3. ./cache/BOOTSTRAP_CHECK.md     ← Spec for the boot-up checklist
+```
+
+Then RUN:
+```bash
+bash scripts/bootstrap_verify.sh    # 67 mechanical checks (~3s) — F.17
 ```
 
 **Defer to on-demand:** SOP, PROTOCOLS_REFERENCE, FAILURE_LEDGER, USER_PROFILE — read when first needed, not upfront.
 
-**Validation gate:** If BOOTSTRAP_CHECK reveals ANY comprehension gap → abort Fast-Path, run Cold Start.
+**Validation gate:** If verifier exits non-zero OR BOOTSTRAP_CHECK conceptual checks reveal gap → abort Fast-Path, run Cold Start.
 
 **Token savings:** ~18K per session (vs Cold Start).
 
@@ -136,11 +141,12 @@ Use the Read tool. Read FULLY, not skim. Do not start work until all 8 are read.
 1. ./SESSION_START.md            ← This file (already reading)
 2. ./cache/SESSION_STATE.md      ← Current position, decisions, active work
 3. ./cache/CONTINUATION.md       ← Last session's handoff notes
-4. ./cache/FAILURE_LEDGER.md     ← 11 system failures (REPEAT + FAILURE) — DO NOT REPEAT (was RPT_LOG.md, fused via F8 on 2026-05-21)
+4. ./cache/FAILURE_LEDGER.md     ← 16 system failures (F.1–F.16) — DO NOT REPEAT (was RPT_LOG.md, fused via F8 on 2026-05-21)
 5. ./USER_PROFILE.md             ← Alan's communication preferences — MANDATORY (promoted 2026-05-21)
 6. ./PROTOCOLS_REFERENCE.md      ← Full protocol acronyms + names (PROMOTED 2026-05-21 — Rule #11 requires this)
 7. ./UNIVERSAL_SOP_PROMPT.md     ← The rulebook (v1.3, 940 lines, 16 SubSOPs) — start with the Quick Start TL;DR at top (~80 lines, ~60s read)
-8. ./cache/BOOTSTRAP_CHECK.md    ← Self-verification unit test (PROMOTED to mandatory 2026-05-21 per FT12.1 — catches harness drift + stale-cache pollution, ~90s read)
+8. ./cache/BOOTSTRAP_CHECK.md    ← Comprehensive boot self-test spec v2.0 — 77 check items across 12 categories (F.17 fix 2026-05-21, ~60s read)
+9. bash scripts/bootstrap_verify.sh  ← Run mechanical verifier (67 of the 77 checks, ~3s)
 ```
 
 **Token cost:** ~25-30K (15% of budget). Worth it for true cold starts.
@@ -155,12 +161,13 @@ Use the Read tool. Read FULLY, not skim. Do not start work until all 8 are read.
 - ✅ The user explicitly says "fast resume" or "lite bootstrap"
 - ❌ NOT for truly cold starts (use full 8-file path above)
 
-Read ONLY these 3 files:
+Read ONLY these 3 files + run verifier:
 
 ```
 1. ./cache/SESSION_STATE.md      ← Current position + decisions
 2. ./cache/CONTINUATION.md       ← Latest handoff
-3. ./cache/BOOTSTRAP_CHECK.md    ← Verify mental model matches reality
+3. ./cache/BOOTSTRAP_CHECK.md    ← Spec for the boot-up checklist (v2.0 = F.17)
+4. bash scripts/bootstrap_verify.sh   ← 67 mechanical checks (~3s)
 ```
 
 **Token cost:** ~10K (~5% of budget). Save ~15-20K vs cold start.
@@ -267,31 +274,50 @@ Pick the tier based on the user's request:
 
 ---
 
-## ✅ STEP 2 — CONFIRM IN THIS EXACT FORMAT
+## ✅ STEP 2 — CONFIRM WITH COMPREHENSIVE BOOT-UP CHECKLIST
 
-After reading STEP 1 files, send this message to the user:
+**F.17 fix 2026-05-21 — Per Alan: "checklist for literally everything in detail with check marks. Full transparency. Embedded in the file itself, like a boot up."**
+
+### STEP 2.A — Run the mechanical verifier (REQUIRED)
+
+```bash
+bash scripts/bootstrap_verify.sh
+```
+
+This runs **67 mechanical checks** (identity, agents, SOP architecture, all 16 SubSOPs by name, 4 Ensurance, cache files, scripts, hooks, fusion status, harness drift). Exit code 0 = pass, 1 = at least one ❌. **Spec lives in `cache/BOOTSTRAP_CHECK.md` v2.0.**
+
+If exit code = 1, **DO NOT** continue to STEP 2.B. Surface the failed items and ask Alan whether to fix or proceed.
+
+### STEP 2.B — Send this message to the user
 
 ```
-✅ RESUMED
-SOP: v1.3 loaded | 16 SubSOPs + EN.1-EN.4
+🚀 BOOT-UP SELF-TEST — Universal Output SOP v1.3
+[paste FULL output of bootstrap_verify.sh — all 67 ✅ lines, organized in 11 categories]
 
-🎯 MACRO: [from SESSION_STATE.md "GOAL TRACKING" → MACRO GOAL]
-📌 MICRO: [from SESSION_STATE.md "GOAL TRACKING" → MICRO GOAL]
-📊 Macro Status: [from GOAL STATUS — progress vs original objective]
+🧠 CONCEPTUAL CHECKS (Section 12 — AI-sourced from cache reads):
+🎯 MACRO: [from SESSION_STATE GOAL TRACKING → MACRO GOAL]
+📌 MICRO: [from SESSION_STATE GOAL TRACKING → MICRO GOAL]
+📊 Macro Status: [from GOAL STATUS]
 
-Cache files loaded: [list what was found]
-Current position: [from SESSION_STATE.md "CURRENT POSITION" section]
-Last decisions: [last 3 entries from SESSION_STATE.md "DECISIONS LOG"]
+Cache files loaded: [list]
+Current position: [from CURRENT POSITION]
+Last 3 decisions:
+  • [decision N]
+  • [decision N-1]
+  • [decision N-2]
 ▶️ Macro-level next action: [from GOAL TRACKING]
 ▶️ Micro-level next action: [from GOAL TRACKING]
-Repeated failures to avoid: [count from FAILURE_LEDGER.md]
+Repeated failures to avoid: F.1–F.N ([count] entries in FAILURE_LEDGER)
 
 Token budget: ~XK loaded / 200K | Status: 🌱 GREEN
 
-Ready for your task.
+✅ ALL SYSTEMS GO — Ready for your task.
 ```
 
-**F.13 fix 2026-05-21:** Confirmation format now surfaces MACRO + MICRO goals immediately. Prevents 14-session objective drift.
+**Rationale (F.13 + F.17):**
+- F.13 introduced MACRO + MICRO surfacing to prevent objective drift
+- F.17 expanded this to **literal check marks for everything** — agents, SOPs, all 16 SubSOPs by name, Ensurance, cache, scripts, hooks, fusion status, harness drift
+- Why: silent failures cost hours. ~3 seconds of mechanical checks catches missing agents, broken hooks, stale fusions, harness drift before they propagate.
 
 Then **WAIT** for the user's next message.
 
