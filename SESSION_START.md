@@ -24,22 +24,56 @@ Answer these BEFORE reading any other file:
 
 ## 📖 STEP 1 — MANDATORY READS (In This Order)
 
-Use the Read tool. Read FULLY, not skim. Do not start work until all 5 are read.
+Use the Read tool. Read FULLY, not skim. Do not start work until all 6 are read.
 
 ```
 1. ./SESSION_START.md         ← This file (already reading)
 2. ./cache/SESSION_STATE.md   ← Current position, decisions, active work
 3. ./cache/CONTINUATION.md    ← Last session's handoff notes
 4. ./cache/RPT_LOG.md         ← 9 repeated failures — DO NOT REPEAT THESE
-5. ./UNIVERSAL_SOP_PROMPT.md  ← The rulebook (v1.3, 940 lines, 16 SubSOPs)
+5. ./USER_PROFILE.md          ← Alan's communication preferences — MANDATORY (was optional, promoted 2026-05-21 after field test)
+6. ./UNIVERSAL_SOP_PROMPT.md  ← The rulebook (v1.3, 940 lines, 16 SubSOPs)
 ```
 
-**Optional (read if relevant to current task):**
+**Optional (read if depth needed):**
 - `./CONSULTING_BRIEF.md` — high-level project overview
 - `./PROJECT_HISTORY.md` — 40+ hour evolution
 - `./CHALLENGES_LOG.md` — 14 challenges + debug history
-- `./USER_PROFILE.md` — Alan's communication preferences
-- `./CLAUDE.md` — APW course project config (legacy, partial relevance)
+- `./INVENTORY.md` — full registry of all SOPs/agents/scripts (NEW 2026-05-21)
+- `./FUSION_ANALYSIS.md` — proposed merges for post-validation execution (NEW 2026-05-21)
+- `./CLAUDE.md` — Claude Code config (now points to this file)
+- `./cache/PRIME_SOP.md` — legacy foundation (APW-era)
+- `./cache/BRIDGE_SOP.md` — legacy operations (APW-era)
+
+---
+
+## 🤖 ACTIVE AGENT ROSTER (Added 2026-05-21 After Field Test)
+
+When to invoke an agent (rare in normal flow — most outputs use inline SubSOPs):
+
+| 🆔 | 🤖 Agent | 📍 File | 🚪 When To Use |
+|:---:|---------|---------|---------------|
+| 1 | **Validator-Merged** (Layer 1) | `agents/validator-merged.md` | Framework deliverables — POVP + Completeness + Simplicity + Cross-ref. ~5K tokens. |
+| 2 | **Karen** (Layer 2) | `agents/karen-reality-check.md` | After Validator passes on MAJOR deliverables. Anti-rubber-stamp audit. ~7.5K tokens. |
+| 3 | **Cache Manager** | `agents/cache-manager.md` | Session start + after every locked decision. ~2.5K tokens. |
+| 4 | **Oversight Executive** | `agents/oversight-executive.md` | Coordinates agents 1-3 + 5. ~500 tokens. |
+| 5 | **Paradox Resolver** | `agents/paradox-resolver.md` | ON-DEMAND — SCIO/APW tension only. Rare. ~5K tokens. |
+
+**Skip agents for:** conversational responses, status updates, clarifying questions, file summaries.
+
+**Note:** Jenny (standalone) was ARCHIVED 2026-05-21 — her role is fully absorbed into Validator-Merged Section A.
+
+---
+
+## 🎯 TIER QUICK GUIDE (Added 2026-05-21 After Field Test)
+
+Pick the tier based on the user's request:
+
+| 🎚️ Tier | 🎯 Use For | 📋 Required Components |
+|---------|-----------|------------------------|
+| 🟢 **QUICK** | Casual question, lookup, single fact, ack | Step header + answer + LTM. Skip Understanding Check + step table. |
+| 🟡 **STANDARD** | Single deliverable, focused task, file edit | Full SOP — Understanding Check + step table + all SubSOPs + Wrap-up |
+| 🔴 **COMPLEX** | Multi-file, multi-step, system change, long output | Full SOP + extended Foresight + SHR + multiple file backups + extra rigor |
 
 ---
 

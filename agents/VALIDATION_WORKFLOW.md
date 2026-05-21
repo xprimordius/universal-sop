@@ -96,11 +96,13 @@ Builder creates output
 
 | Agent | File | Role | When |
 |-------|------|------|------|
-| Validator (merged) | validator-merged.md | Single-pass Layer 1 (if Karen requested it) | On Karen rejection |
-| Karen | karen-reality-check.md | Auditor of auditors | Major deliverables |
+| Validator (merged) | validator-merged.md | Single-pass Layer 1 — POVP + Completeness + Simplicity + Process + Cross-ref | All framework deliverables |
+| Karen | karen-reality-check.md | Layer 2 — auditor of auditors | Major deliverables |
 | Paradox Resolver | paradox-resolver.md | SCIO/APW tension analysis | On-demand |
 | Cache Manager | cache-manager.md | Data integrity | Session start + after decisions |
 | Oversight Executive | oversight-executive.md | Top-level controller | Coordinates all |
+
+**Note:** Jenny (standalone) was archived 2026-05-21 — her role (POVP word-by-word) is fully absorbed into Validator-Merged Section A. Do NOT invoke standalone Jenny. Use Validator-Merged.
 
 ---
 

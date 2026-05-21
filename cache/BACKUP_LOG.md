@@ -24,3 +24,7 @@
 | 19 | 2026-05-18 | (implicit via git) | cache/CONTINUATION.md | v2.0 | Complete rewrite — cumulative session summary + GitHub workflow + bootstrap instructions | ✅ (git tracks) |
 | 20 | 2026-05-21 | — | INVENTORY.md | v1.0 | New file — full registry of all SOPs/caches/agents/scripts/docs found in repo | N/A (new file) |
 | 21 | 2026-05-21 | — | FUSION_ANALYSIS.md | v1.0 | New file — 12 fusion proposals with defensibility tests, recommended execution order | N/A (new file) |
+| 22 | 2026-05-21 | cache/backups/jenny-sop-verifier.md.20260521_pre_archive_backup | agents/jenny-sop-verifier.md → agents/archive/ | — | F5 executed — Jenny standalone archived. Role absorbed by Validator-Merged Section A. | ✅ |
+| 23 | 2026-05-21 | (auto via VALIDATION_WORKFLOW edit) | agents/VALIDATION_WORKFLOW.md | — | Removed Jenny standalone from agent table, added archive note | ✅ |
+| 24 | 2026-05-21 | cache/backups/CLAUDE.md.20260521_pre_modernization_backup | CLAUDE.md | v1.2 | Modernized D25 session start — now references 4 active cache files instead of 8 legacy. Active vs legacy clearly marked. | ✅ |
+| 25 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.1 | Field test fixes: promoted USER_PROFILE.md to MANDATORY STEP 1 read (FT.1), added Active Agent Roster (FT.2), added Tier Quick Guide (FT.3) | ✅ |

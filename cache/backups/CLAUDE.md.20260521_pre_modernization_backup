@@ -17,56 +17,32 @@ You are the APW (Ascend Prime Wealth) course framework builder **AND** the Unive
 
 **Current Universal SOP identity:** You operate under `UNIVERSAL_SOP_PROMPT.md` v1.3 (16 SubSOPs, 6 Stages, Ensurance System EN.1-EN.4). See `SESSION_START.md` for current state.
 
-## ACTIVE GOVERNANCE (Layer 0 — Read FIRST)
+## PRIME SOP (Layer 0 — Read FIRST, Enforce ALWAYS)
 
-**Primary rulebook:** `UNIVERSAL_SOP_PROMPT.md` v1.3 (6 stages, 16 SubSOPs, Ensurance System EN.1-EN.4)
-**Bootstrap entry:** `SESSION_START.md` (read this BEFORE any other file)
-**Legacy foundation (reference only):** `cache/PRIME_SOP.md` v2.8 (12 stages, 32 D-rules — APW-era)
+**File:** `cache/PRIME_SOP.md`
+**This is the unconditional foundation. Every output goes through the 12 stages. No exceptions.**
+Read this file at session start BEFORE anything else. The Prime SOP governs all other SOPs.
 
-## MANDATORY SESSION START (Current — Supersedes Legacy D25)
+## MANDATORY SESSION START (D25)
 
 Before ANY work, execute this sequence:
-1. Read `SESSION_START.md` (official entry point — bootstrap instructions)
-2. Read `cache/SESSION_STATE.md` (current position + decisions + GitHub state)
-3. Read `cache/CONTINUATION.md` (last handoff with cumulative log)
-4. Read `cache/RPT_LOG.md` (repeated failures to NOT repeat)
-5. Read `UNIVERSAL_SOP_PROMPT.md` (the rulebook v1.3)
-6. **Optional (if depth needed):** Read `cache/PRIME_SOP.md` (foundational reference) and `cache/BRIDGE_SOP.md` (operational reference)
-7. **Optional (if APW work resumes):** Read 8 legacy APW cache files listed below
-8. Verify: All files exist? Timestamps current? Any contradictions?
-9. Report in this exact format:
-   ```
-   ✅ RESUMED
-   SOP: v1.3 loaded
-   Cache: [files found]
-   Current position: [from SESSION_STATE]
-   Pending P0: [from CONTINUATION]
-   Token budget: ~XK / 200K | Status: 🌱 GREEN
-   Ready.
-   ```
-10. ONLY THEN begin work.
+1. Read `cache/PRIME_SOP.md` (Layer 0 — unconditional foundation)
+2. Read ALL 8 core cache files from `cache/`
+3. Read `cache/subcache/SUBCACHE_INDEX.md`
+4. Read `cache/backups/BACKUP_LOG.md`
+5. Read `cache/BRIDGE_SOP.md` (interim operations until Master SOP is built)
+6. Verify: Do all files exist? Are timestamps current? Any cross-cache contradictions?
+7. Report: "Caches loaded. Prime SOP active. SOP v[X]. [Y] D-rules. Build position: [Z]. Token budget: [STATUS]."
+6. ONLY THEN begin work.
 
-## ACTIVE CACHE FILES (Load Every Session — Current)
+## CORE CACHE FILES (Load Every Session)
 
-- `cache/SESSION_STATE.md` — Current position, decisions log, USER_PROMPTS, GitHub state, token usage
-- `cache/CONTINUATION.md` — Latest session handoff with cumulative 4-session log
-- `cache/BACKUP_LOG.md` — All backups indexed (21 entries as of 2026-05-21)
-- `cache/RPT_LOG.md` — 9+ repeated prompt failures + permanent fixes
-
-## LEGACY APW CACHE FILES (Load ONLY If APW Course Work Resumes)
-
-These were active during APW course-building (Mar 13-15). Currently paused.
-
-- `cache/APW_MASTER_CACHE.md` — 32 D-rules, POVP/PFV protocols, error log, locked decisions
-- `cache/BUILD_STATE_CACHE.md` — Course build position, deliverables, 11 failure points + solutions
+- `cache/APW_MASTER_CACHE.md` — SOP: all 32 D-rules, POVP/PFV protocols, error log, locked decisions
+- `cache/BUILD_STATE_CACHE.md` — Current build position, deliverables, 11 failure points + solutions
 - `cache/SCIO_KNOWLEDGE_CACHE.md` — 22 SCIO principles, paradox resolutions, exact numbers
 - `cache/PROGRAM_DETAILS_CACHE.md` — 8 classrooms, 12 modules, 6-tier ascension, lesson lists
-- `cache/USER_FOUNDATION_CACHE.md` — Alan's APW-era decisions (now superseded by `USER_PROFILE.md`)
-- `cache/TOKEN_BUDGET_LOG.md` — APW-era token tracking (superseded by SESSION_STATE token section)
-- `cache/USER_PROMPTS_VERBATIM.md` — APW-era exact Alan quotes
-- `cache/USER_PROMPT_FULFILLMENT_AUDIT.md` — APW-era prompt fulfillment audit
-- `cache/USER_PROMPT_INVENTORY.md` — APW-era prompt inventory
-- `cache/subcache/SUBCACHE_INDEX.md` — Index to 10 SCIO subcache files
+- `cache/USER_FOUNDATION_CACHE.md` — Alan's explicit decisions, preferences, non-negotiables
+- `cache/TOKEN_BUDGET_LOG.md` — Token tracking
 
 ## THE 32 D-RULES (Summary — Full text in APW_MASTER_CACHE.md)
 

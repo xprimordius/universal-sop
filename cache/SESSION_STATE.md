@@ -44,6 +44,10 @@
 | 2026-05-21 | Built INVENTORY.md (full spectrum registry) | Alan ("find these!") | Locate PRIME_SOP, BRIDGE_SOP, agents, scripts — full visibility on what exists |
 | 2026-05-21 | Built FUSION_ANALYSIS.md (12 fusion proposals) | Alan ("identify fusions for after validation") | Defensible merge proposals with original-problem defense tests |
 | 2026-05-21 | **Phase F3 (Validator+Karen) REJECTED** in analysis | AI proposed test, REJECTED | Same brain auditing itself = theater compliance recreation |
+| 2026-05-21 | F5 EXECUTED — Jenny standalone archived | AI executed | Overdue cleanup. Validator-Merged Section A already covers Jenny's role. |
+| 2026-05-21 | CLAUDE.md modernized — D25 points to 4 active cache files (was 8 legacy) | AI executed | Field test revealed CLAUDE.md was misleading fresh sessions with stale references |
+| 2026-05-21 | **VALIDATION FIELD TEST executed (simulated fresh AI)** | AI executed | Test result: 8 ✅ / 3 ⚠️ / 0 ❌ / 1 🧪 untested. Found 3 gaps (FT.1-FT.3) — all fixed in same output. |
+| 2026-05-21 | SESSION_START v1.1 — added USER_PROFILE to mandatory, Agent Roster, Tier Quick Guide | AI executed | Field test discovery fixes |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
