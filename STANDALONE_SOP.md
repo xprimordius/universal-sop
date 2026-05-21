@@ -89,9 +89,30 @@ This rulebook forces every output through structured stages with mechanical comp
 
 | 🎚️ Tier | 🎯 Use For | 📋 Required Components |
 |---------|-----------|------------------------|
-| 🟢 QUICK | Casual question, lookup, single fact, ack | Step header + answer + LTM (Live Token Monitor). Skip Understanding Check + step table. |
+| 🟢 QUICK | Casual question, lookup, single fact, ack, **OR any user-bounded short deliverable (≤300 words requested, ≤500 words output)** | Step header + answer + LTM (Live Token Monitor) + Pulse Check. Skip Understanding Check + step table + full wrap-up. |
 | 🟡 STANDARD | Single deliverable, focused task, file edit | Full SOP — Understanding Check + step table + all SubSOPs + Wrap-up |
 | 🔴 COMPLEX | Multi-file, multi-step, system change, long output | Full SOP + extended Foresight + SHR + multiple backups + extra rigor |
+
+### 🎚️ PROPORTIONALITY RULE (Added 2026-05-21 per Sub-Agent Test Feedback)
+
+**If the user asks for a short deliverable (≤500 words / ≤3 paragraphs / "quick" / "brief"), tier-DOWN to keep meta overhead proportional to content.**
+
+- Don't wrap a 150-word answer in 1500 words of SOP scaffolding. That's bloat.
+- For short asks: use QUICK tier even if task type would otherwise be STANDARD
+- Document the tier-down explicitly in the step header: `TIER: 🟢 QUICK (tier-down from STANDARD per PROPORTIONALITY — user asked for ≤3 paragraphs)`
+- Pulse Check P5 (backups) = N/A acceptable when no file edits
+
+### 🔄 TIER-DOWN ESCAPE VALVE
+
+You may tier-down from STANDARD → QUICK when ALL of these are true:
+- User specified a length/format constraint
+- Output fits in ≤500 words
+- No file edits required
+- No multi-step execution
+
+Tier-down format in header: `TIER: 🟢 QUICK ↓ (from STANDARD — reason: [why])`
+
+You may NEVER tier-down from COMPLEX (multi-file/multi-step inherently warrants full SOP).
 
 ---
 
@@ -507,4 +528,84 @@ You now have:
 
 ---
 
-*STANDALONE_SOP.md v1.3 | Self-contained universal output rulebook | 2026-05-21 | For external Claude sessions with no project context*
+---
+
+## 📖 GLOSSARY (Added 2026-05-21 — All Acronyms Used Above)
+
+Quick reference for every acronym in this document. If you see something not here, it should be expanded in context.
+
+### Protocols (SubSOPs)
+| 🆔 | Full Name |
+|:---:|----------|
+| SP.1 | MagNet (Magnetic Visual Engagement Protocol) |
+| SP.2 | Door Scan (Door Scanning Pattern Protocol) |
+| SP.3 | TTE (Token Threshold Engine) |
+| SP.4 | SCP (System Change Protocol) |
+| SP.5 | FSP (Fidelity Substantiation Protocol) |
+| SP.6 | IAC (Intent Alignment Check) |
+| SP.7 | Insights Protocol |
+| SP.8 | Protocol Visibility Protocol |
+| SP.9 | FE (Foresight Engine) |
+| SP.10 | SCC (Self-Compliance Check) |
+| SP.11 | QAC (Quality Assurance Check) |
+| SP.12 | HFR (Honest Failure Report) |
+| SP.13 | SHR (System Health Report) |
+| SP.14 | RPT (Repeated Prompt Tracker) |
+| SP.15 | EEP (Execution Enforcement Protocol) |
+| SP.16 | PCG (Prompt Completion Gate) |
+
+### Ensurance Components
+| 🆔 | Full Name |
+|:---:|----------|
+| EN.1 | Output Skeleton (Structural Anti-Decay Mechanism) |
+| EN.2 | Priority 10 (Cognitive Load Reduction) |
+| EN.3 | Checkpoint Cycle (Attention Reset) |
+| EN.4 | Pulse Check (Compliance Pulse Check) |
+
+### Pulse Check Items (Priority 10)
+| # | What It Checks |
+|:-:|----------------|
+| P1 | Step tracking table with ALL columns |
+| P2 | LTM after EVERY section |
+| P3 | Step header line 1 (STEP/SOP/TIER/SCOPE/EST) |
+| P4 | Understanding Check (STANDARD+ tier only) |
+| P5 | Backup before ANY file edit (N/A acceptable for chat-only sessions) |
+| P6 | Conclusion mapping every prompt item to deliverable |
+| P7 | Honest Execution Debt Counter (Acked = Executed + Deferred + Failed) |
+| P8 | SubSOP execution report |
+| P9 | Foresight + Analysis at end |
+| P10 | Acronyms expanded on first use |
+
+### Display & Tracking
+| 🆔 | Full Name |
+|:---:|----------|
+| LTM | Live Token Monitor — `📊 LTM: 📝 Section: ~XK · 📦 Step: ~XK · ⏱️ Session: ~XK / 200K · 🔋 Remaining: ~XK · [status emoji]` |
+| N/M | Not Measurable — honest marker when AI cannot measure something (e.g., wall-clock time per output section). Use INSTEAD of fabricating numbers. |
+| N/A | Not Applicable — honest marker when a check doesn't apply to the current context (e.g., P5 backups in chat-only sessions) |
+
+### Tiers
+| 🎚️ | Used For |
+|:---:|---------|
+| QUICK | Casual question, lookup, single fact, ack, OR any user-bounded short deliverable (≤500 words) |
+| STANDARD | Single deliverable, focused task, file edit |
+| COMPLEX | Multi-file, multi-step, system change, long output |
+
+### Status Emojis (Token Health)
+| Emoji | Range | Meaning |
+|:-----:|-------|---------|
+| 🌱 GREEN | <108K of 200K | Full operations |
+| 🟡 YELLOW | 108-130K | Abbreviated validation, prep checkpoint |
+| 🔴 RED | 130-141K | Checkpoint NOW, cache all state |
+| 🆘 CRITICAL | >141K (theoretical) | Emergency cache dump |
+
+### Priority Tags (Foresight)
+| Tag | Meaning |
+|:---:|---------|
+| 🔴 Critical | Address immediately, blocks other work |
+| 🟡 High | Important, plan for it |
+| 🟢 Low | Nice to have, defer if needed |
+| ✅ Affirmative | Already addressed / positive observation |
+
+---
+
+*STANDALONE_SOP.md v1.4 | Self-contained universal output rulebook | 2026-05-21 | For external Claude sessions with no project context | Updated: PROPORTIONALITY rule + tier-down escape + glossary*

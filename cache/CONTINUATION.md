@@ -104,7 +104,7 @@ claude  # or your launcher
 ### Each session end
 ```
 User says: "End session. Update CONTINUATION and push."
-AI: updates this file + SESSION_STATE.md + RPT_LOG.md
+AI: updates this file + SESSION_STATE.md + FAILURE_LEDGER.md (was RPT_LOG.md until F8 fusion 2026-05-21)
 AI: git add . && git commit -m "..." && git push
 ```
 
@@ -136,7 +136,8 @@ universal-sop/
 │   ├── SESSION_STATE.md
 │   ├── CONTINUATION.md           ← This file
 │   ├── BACKUP_LOG.md
-│   ├── RPT_LOG.md
+│   ├── FAILURE_LEDGER.md  ← active (was RPT_LOG.md until F8 fusion 2026-05-21)
+│   ├── RPT_LOG.md         ← deprecated redirect pointer
 │   └── ... (legacy APW cache, partial relevance)
 ├── 📁 agents/                    ← Validation sub-agent defs
 ├── 📁 sop_scripts/               ← Token tracker (Node.js)
@@ -182,7 +183,7 @@ universal-sop/
 | 4 | Acronyms unexpanded | 3+ | First use: "SOP (Standard Operating Procedure)" |
 | 5 | Edit without backup | 2+ | Backup FIRST. Sequence is fixed. |
 
-Full log: `cache/RPT_LOG.md`
+Full log: `cache/FAILURE_LEDGER.md` (RPT_LOG.md was deprecated by F8 fusion 2026-05-21)
 
 ---
 

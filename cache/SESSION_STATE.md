@@ -12,9 +12,9 @@
   - CLAUDE.md modernized (4 active cache files, not 8 legacy)
   - INVENTORY.md + FUSION_ANALYSIS.md built
 - **▶️ NEXT ACTION (Canonical):** Run REAL device test of SOP v1.3 — use `REAL_DEVICE_TEST.md` protocol on a physical 2nd device (phone, other laptop, or new clone). This is the canonical P0 unless Alan redirects.
-- **Open Decisions (deduplicated 2026-05-21):**
-  1. 🔴 Run REAL device test now or after more in-session sub-agent iterations?
-  2. 🟡 Build Controller agent (F4 fusion — combines Oversight + Cache Manager, ~1.5K tokens saved per orchestration)?
+- **Open Decisions (deduplicated + updated 2026-05-21 evening):**
+  1. 🔴 Run REAL device test now or after more in-session sub-agent iterations? (still open — 7 in-session tests done)
+  2. ✅ ~~Build Controller agent (F4 fusion)~~ — **DONE 2026-05-21** (commit 44c31bc)
   3. 🟡 Update UNIVERSAL_SOP_PROMPT.md CA.5/CA.7 to reflect cache consolidation (cosmetic but pending)?
   4. 🟡 Should `backups/` folder be excluded from git as repo grows? (~5MB currently, fine for now)
   5. 🟢 APW course resume timing — blocked on validation, unblocked when device test passes
@@ -85,6 +85,11 @@
 | 2026-05-21 | **F8 FUSION EXECUTED** — cache/FAILURE_LEDGER.md built | Alan ("C") | Unified RPT (Repeated Prompt Tracker) + HFR (Honest Failure Report) into single ledger. 11 entries migrated as F.1-F.11. RPT_LOG.md deprecated to redirect pointer. |
 | 2026-05-21 | SESSION_START STEP 1 #4 updated: FAILURE_LEDGER replaces RPT_LOG | AI executed | Reflects F8 fusion in mandatory bootstrap path |
 | 2026-05-21 | **Phase B fusions COMPLETE** (F7 + F8) | AI executed | Phase A (F1+F4+F5+F10+F11) + Phase B (F7+F8) = 7 of 7 SAFE fusions executed |
+| 2026-05-21 | **Test C — 7th sub-agent** (full bootstrap) → 8/10 friction | AI executed | Phase B fusions recognized. 6 new FT8.x gaps (mostly cleanup). |
+| 2026-05-21 | **Test B — STANDALONE_SOP validation** → 7/10 friction, SELF-SUFFICIENT ✅ | AI executed | **MAJOR MILESTONE.** External Claude.ai web simulation produced 10/10 compliant compound interest explainer using ONLY the standalone file. |
+| 2026-05-21 | **STANDALONE_SOP v1.4** — PROPORTIONALITY rule + tier-down + Glossary | AI executed (FT9.x bundle fix) | Addresses bloat tension (150-word answer in 1500-word wrapper). Defines M/N + N/A. Expands QUICK tier scope. |
+| 2026-05-21 | Stale RPT_LOG refs swept in CONTINUATION.md | AI executed (FT8.3 fix) | 3 references updated to point at FAILURE_LEDGER per F8 fusion |
+| 2026-05-21 | Open Decisions list cleaned — Controller F4 marked DONE | AI executed (FT8.5 fix) | Decision was executed but still listed as open |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

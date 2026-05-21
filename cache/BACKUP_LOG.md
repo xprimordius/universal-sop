@@ -70,3 +70,8 @@
 | 65 | 2026-05-21 | — | cache/FAILURE_LEDGER.md | v1.0 | F8 EXECUTED — New file fusing RPT (Repeated Prompt Tracker) + HFR (Honest Failure Report) into unified ledger. 11 entries migrated (F.1-F.11) with `<details>` expandable per entry. 8 guardrails documented. | N/A (new file) |
 | 66 | 2026-05-21 | (in-place edit) | cache/RPT_LOG.md | v2.0 | DEPRECATED — superseded by FAILURE_LEDGER.md per F8 fusion. RPT.1-RPT.11 → F.1-F.11 mapping added. File preserved as redirect pointer. | ✅ |
 | 67 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.7 | STEP 1 file #4 updated: RPT_LOG.md → FAILURE_LEDGER.md (F8 fusion). REPEATED FAILURES section pointer updated. | ✅ |
+| 68 | 2026-05-21 | (sub-agent test) | — | — | SEVENTH sub-agent test (Test C) — 8/10 friction. Phase B fusions (F7+F8) recognized cleanly. 6 new FT8.x gaps (mostly cleanup). | ✅ documented |
+| 69 | 2026-05-21 | (sub-agent test) | — | — | STANDALONE_SOP validation (Test B) — 7/10 friction. **SELF-SUFFICIENT confirmed.** Produced 10/10 compliant compound interest explainer using ONLY the file. 10 FT9.x gaps surfaced. | ✅ documented (MILESTONE) |
+| 70 | 2026-05-21 | (in-place edit) | cache/CONTINUATION.md | v3.3 | FT8.3 fix — 3 stale RPT_LOG references replaced with FAILURE_LEDGER pointers | ✅ |
+| 71 | 2026-05-21 | (in-place edit) | STANDALONE_SOP.md | v1.4 | FT9.x fixes — PROPORTIONALITY rule added, QUICK tier scope expanded, tier-down escape valve documented, Glossary appended with all acronyms (SP/EN/P/LTM/N/M/N/A/tiers/status emojis/priority tags) | ✅ |
+| 72 | 2026-05-21 | (in-place edit) | cache/SESSION_STATE.md | v1.7 | FT8.5 fix — Open Decision #2 (Build Controller agent F4) marked DONE (was already executed but still listed as open) | ✅ |
