@@ -168,6 +168,10 @@ F.13 fix applied — macro+micro now in every step header. Next: APW work or fin
 | 2026-05-21 | **F.15 FIX — Multi-Device Identity + Append-Only Protection** | Alan ("devices named, changes timestamped, files aren't deleted") | DEVICE_REGISTRY.md + 3 scripts (setup_device, append_only_check, check_device_activity) + MULTI_DEVICE_GIT_PROTOCOL.md updated with Rules 6+7 |
 | 2026-05-21 | **This Mac registered as 'mac-main'** | git config | Future commits identifiable as Alan (mac-main) <alan+mac-main@local> instead of generic Alan <alan@local> |
 | 2026-05-21 | Current state verified before changes | check_device_activity.sh | 28 commits all from generic 'Alan <alan@local>'. No other devices written. Safe to proceed. |
+| 2026-05-21 | **F.16 FIX — Script Enforcement Agent (Karen + Pre-Commit Hook)** | Alan ("agent to ensure script not bypassed?") | NEW: .githooks/pre-commit (mechanical, cannot bypass without --no-verify). Karen expanded with F.16 section + 4 new MUST-INVOKE triggers. Layered defense: Hook + Karen + Pulse Check P17. |
+| 2026-05-21 | Session 5 extended chat ARCHIVED — 5.2 MB JSONL | bash archive_chat.sh | 1805 lines, 489 user / 824 assistant turns. Available in chat_archive/session_5_continued_20260521_172216/ |
+| 2026-05-21 | CONTINUATION.md v4.0 — comprehensive Session 5 handoff + new-chat continuation guide | AI executed | Per Alan: "how to continue in new chat to reset token count but maintain everything". Exact resume prompt embedded. |
+| 2026-05-21 | **READY FOR NEW CHAT TEST** | Session 5 end | New chat can resume via Fast-Path (3 files, ~10K tokens) + access full chat_archive if needed |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

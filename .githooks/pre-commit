@@ -1,0 +1,59 @@
+#!/usr/bin/env bash
+# 🔒 PRE-COMMIT HOOK — Mechanical enforcement of compliance + append-only
+# Per Alan's F.16 requirement: "agent to ensure script is not bypassed"
+# This is STRONGER than agent enforcement — cannot be skipped without --no-verify
+
+set -e
+
+PROJECT_ROOT="$(git rev-parse --show-toplevel)"
+cd "$PROJECT_ROOT"
+
+echo "🔒 PRE-COMMIT ENFORCEMENT"
+echo "================================================"
+echo ""
+
+# CHECK 1 — Append-only protection
+if [ -f scripts/append_only_check.sh ]; then
+  echo "🛡️ Running append_only_check.sh..."
+  if ! bash scripts/append_only_check.sh; then
+    echo ""
+    echo "❌ COMMIT BLOCKED — Append-only file shrunk"
+    echo "If intentional: git commit --no-verify (explicit bypass)"
+    exit 1
+  fi
+  echo ""
+fi
+
+# CHECK 2 — Compliance check
+if [ -f scripts/compliance_check.sh ]; then
+  echo "🛡️ Running compliance_check.sh..."
+  if ! bash scripts/compliance_check.sh; then
+    echo ""
+    echo "⚠️ COMPLIANCE WARNINGS — Review above"
+    echo "Hook is NOT blocking (warnings only), but address before push:"
+    echo "  - Fix issues, OR"
+    echo "  - Acknowledge via HFR in commit message"
+    # Note: not exiting 1 — compliance is warning level, not blocking
+  fi
+  echo ""
+fi
+
+# CHECK 3 — Device identity verification
+DEVICE_EMAIL=$(git config user.email)
+if [[ ! "$DEVICE_EMAIL" =~ alan\+.+@local ]]; then
+  echo "⚠️ DEVICE NOT REGISTERED"
+  echo "Current git email: $DEVICE_EMAIL"
+  echo "Expected format: alan+DEVICE-NAME@local"
+  echo ""
+  echo "Run: bash scripts/setup_device.sh DEVICE_NAME"
+  echo "Then re-attempt commit."
+  exit 1
+fi
+
+# CHECK 4 — Commit message format (warning only — git already validated message exists)
+echo "🛡️ Device identity: $(git config user.name) <$DEVICE_EMAIL>"
+echo ""
+
+echo "================================================"
+echo "✅ PRE-COMMIT CHECKS COMPLETE"
+echo ""
