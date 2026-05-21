@@ -41,6 +41,9 @@
 | 2026-05-18 | Created README.md + SESSION_START.md as official entry points | AI (proposed, Alan implicit via "EVERYTHING needed?" question) | Honest audit found: repo had raw material but no entry point. Fresh AI would be lost ~5-10 min. |
 | 2026-05-18 | CLAUDE.md updated to point to SESSION_START.md first | AI (proposed) | CLAUDE.md was APW-course-specific; misleading for SOP-focused work. Now redirects to current focus. |
 | 2026-05-18 | `gh` CLI v2.92.0 installed via Homebrew | AI executed | Most-integrated path for Claude Code GitHub ops |
+| 2026-05-21 | Built INVENTORY.md (full spectrum registry) | Alan ("find these!") | Locate PRIME_SOP, BRIDGE_SOP, agents, scripts — full visibility on what exists |
+| 2026-05-21 | Built FUSION_ANALYSIS.md (12 fusion proposals) | Alan ("identify fusions for after validation") | Defensible merge proposals with original-problem defense tests |
+| 2026-05-21 | **Phase F3 (Validator+Karen) REJECTED** in analysis | AI proposed test, REJECTED | Same brain auditing itself = theater compliance recreation |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

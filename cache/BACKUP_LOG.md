@@ -22,3 +22,5 @@
 | 17 | 2026-05-18 | cache/backups/CLAUDE.md.20260518_pre_bootstrap_backup | CLAUDE.md | v1.1 | Added bootstrap pointer to SESSION_START.md + updated identity | ✅ |
 | 18 | 2026-05-18 | cache/backups/SESSION_STATE_v1.1_20260518_pre_update_backup.md (implicit via git) | cache/SESSION_STATE.md | v1.2 | Added GitHub state + 5/18 decisions log entries | ✅ (git tracks) |
 | 19 | 2026-05-18 | (implicit via git) | cache/CONTINUATION.md | v2.0 | Complete rewrite — cumulative session summary + GitHub workflow + bootstrap instructions | ✅ (git tracks) |
+| 20 | 2026-05-21 | — | INVENTORY.md | v1.0 | New file — full registry of all SOPs/caches/agents/scripts/docs found in repo | N/A (new file) |
+| 21 | 2026-05-21 | — | FUSION_ANALYSIS.md | v1.0 | New file — 12 fusion proposals with defensibility tests, recommended execution order | N/A (new file) |
