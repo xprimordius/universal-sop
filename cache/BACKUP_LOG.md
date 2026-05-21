@@ -50,3 +50,10 @@
 | 45 | 2026-05-21 | (in-place edit) | agents/VALIDATION_WORKFLOW.md | v3.0 | Updated to v3.0 reflecting F4 fusion. Hierarchy diagram updated. Old 5-agent table replaced with 4-agent table. | ✅ |
 | 46 | 2026-05-21 | (in-place edit) | INVENTORY.md | v1.2 | Controller added as #1 active agent. Oversight + Cache Manager marked archived. Master Summary Table updated (5 → 4 active, 3 → 6 archived). Agent Architecture Evolution timeline added. | ✅ |
 | 47 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.4 | Agent Roster updated for F4: Controller now #1, removed Oversight + Cache Manager rows. Architecture changes block added. | ✅ |
+| 48 | 2026-05-21 | (sub-agent test) | — | — | FOURTH sub-agent validation — 8/10 friction (plateau confirmed). F4 fusion navigated CLEANLY — no confusion from new Controller architecture. 5 new gaps (FT5.x), 1 addressed via F1. | ✅ documented |
+| 49 | 2026-05-21 | (git mv) | cache/PRIME_SOP.md → cache/legacy/PRIME_SOP.md | — | F1 EXECUTED — 90KB APW v2.8 foundation moved to legacy | ✅ |
+| 50 | 2026-05-21 | (git mv) | cache/BRIDGE_SOP.md → cache/legacy/BRIDGE_SOP.md | — | F1 EXECUTED — interim operational SOP moved to legacy | ✅ |
+| 51 | 2026-05-21 | (git mv) | cache/SOP_FULL_REFERENCE.md → cache/legacy/SOP_FULL_REFERENCE.md | — | F1 EXECUTED — 119+ prompt items reference moved to legacy | ✅ |
+| 52 | 2026-05-21 | — | cache/legacy/INDEX.md | v1.0 | New file — legacy archive index with full evolution timeline + APW D-rule → Universal SOP mapping table | N/A (new file) |
+| 53 | 2026-05-21 | (in-place edit) | PROTOCOLS_REFERENCE.md | v1.1 | F10 + F11 fusions documented — added "Protocol Systems" section at top: Visual System (SP.1+SP.2+SP.8), Token System (SP.3+LTM), Self-Check System (separate by design), Wrap-Up System (F7 future), Failure Tracking (F8 future), Execution Gate (F9 conditional) | ✅ |
+| 54 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.5 | Optional reads updated: cache/PRIME_SOP + cache/BRIDGE_SOP references replaced with cache/legacy/INDEX.md (F1 path update) | ✅ |

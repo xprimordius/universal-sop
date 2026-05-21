@@ -85,8 +85,7 @@ Use the Read tool. Read FULLY, not skim. Do not start work until all 7 are read.
 - `./FUSION_ANALYSIS.md` — proposed merges for post-validation execution
 - `./REAL_DEVICE_TEST.md` — physical-device test kit (bootstrap prompt + scoring rubric)
 - `./CLAUDE.md` — Claude Code config (now points to this file)
-- `./cache/PRIME_SOP.md` — legacy foundation (APW-era)
-- `./cache/BRIDGE_SOP.md` — legacy operations (APW-era)
+- `./cache/legacy/INDEX.md` — historical SOP archive index (PRIME_SOP, BRIDGE_SOP, SOP_FULL_REFERENCE moved here 2026-05-21 via F1 fusion)
 
 ---
 

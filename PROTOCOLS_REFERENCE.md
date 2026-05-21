@@ -15,6 +15,75 @@ This file is the source of truth. When in doubt about what an acronym means, loo
 
 ---
 
+## 🧩 PROTOCOL SYSTEMS (Functional Clusters — F10 + F11 Fusion Documented)
+
+Protocols don't operate in isolation. Many work together as functional systems. The clusters below show which protocols are designed to fire together.
+
+### 🎨 Visual System (F11 Fusion — Documented 2026-05-21)
+
+These 3 protocols form a unified visual experience. They run together on every section. Reference any one of them = invoke all three.
+
+| 🆔 | 🏷️ Protocol | 🎯 Visual Role |
+|:---:|------------|---------------|
+| SP.1 | **MagNet (Magnetic Visual Engagement Protocol)** | The overall visual standard — tables, emojis, scannable structure |
+| SP.2 | **Door Scan (Door Scanning Pattern Protocol)** | The scanning funnel — emoji → brief → detail in every table |
+| SP.8 | **Protocol Visibility Protocol** | Surface every protocol used — no hidden mechanics |
+
+**Combined effect:** User can scan any output in 5 seconds and know exactly what protocols ran.
+
+### 📊 Token System (F10 Fusion — Documented 2026-05-21)
+
+These 2 protocols form a unified fuel management system. They are mathematically and functionally coupled.
+
+| 🆔 | 🏷️ Protocol | 🎯 Token Role |
+|:---:|------------|--------------|
+| SP.3 | **TTE (Token Threshold Engine)** | The math — thresholds (GREEN <108K / YELLOW 108-130K / RED 130-141K / CRITICAL >141K theoretical), 59K reserve, budget enforcement |
+| — | **LTM (Live Token Monitor)** | The display — `📊 LTM: 📝 Section: ~XK · 📦 Step: ~XK · ⏱️ Session: ~XK / 200K · 🔋 Remaining: ~XK · 🌱 GREEN` after every section |
+
+**Combined effect:** AI knows where it stands on fuel + user sees it transparently. TTE without LTM = invisible math. LTM without TTE = display without meaning.
+
+### 🪞 Self-Check System (Related — Not Fused)
+
+These 3 are related but kept SEPARATE on purpose (different lenses).
+
+| 🆔 | 🏷️ Protocol | 🎯 Lens |
+|:---:|------------|--------|
+| SP.10 | **SCC (Self-Compliance Check)** | "Did I follow my OWN SOP rules?" |
+| SP.11 | **QAC (Quality Assurance Check)** | "Is the output STRUCTURALLY well-formed?" |
+| EN.4 | **Pulse Check (Compliance Pulse Check)** | "10-second mechanical pre-send audit of Priority 10 items" |
+
+**Why kept separate:** SCC = SOP rules. QAC = structure. EN.4 = mechanical 10-item gate. Fusing them would blur the lens distinction. (See FUSION_ANALYSIS.md F12 — CONDITIONAL fusion, deferred until Pulse Check proves reliable over 10+ outputs.)
+
+### 📋 Wrap-Up System (F7 — Identified, Not Yet Executed)
+
+These 3 cluster at end of every output. Designated for future fusion (F7) but currently separate.
+
+| 🆔 | 🏷️ Protocol | 🎯 End-of-Output Role |
+|:---:|------------|---------------------|
+| SP.9 | **FE (Foresight Engine)** | Predict next problems + solutions |
+| SP.7 | **Insights Protocol** | Surface present-adjacent helpful context |
+| SP.13 | **SHR (System Health Report)** | Multi-dimensional scorecard |
+
+### 🔁 Failure Tracking System (F8 — Identified, Not Yet Executed)
+
+Related but currently separate.
+
+| 🆔 | 🏷️ Protocol | 🎯 Failure Role |
+|:---:|------------|----------------|
+| SP.14 | **RPT (Repeated Prompt Tracker)** | Catch when user asks 2+ times (pattern detection) |
+| SP.12 | **HFR (Honest Failure Report)** | When something failed: root cause + permanent fix |
+
+### ⚡ Execution Gate System (F9 — Conditional Fusion, Different Timing)
+
+Related but kept SEPARATE because of timing precision.
+
+| 🆔 | 🏷️ Protocol | 🎯 Timing |
+|:---:|------------|----------|
+| SP.15 | **EEP (Execution Enforcement Protocol)** | DURING execution — no future tense, proof required |
+| SP.16 | **PCG (Prompt Completion Gate)** | PRE-SEND — every acknowledged item has execution proof |
+
+---
+
 ## 📐 QUICK REFERENCE TABLE (At-A-Glance)
 
 | 🆔 | 🏷️ Acronym | 📜 Full Name | 🎯 What It Does (1 line) |

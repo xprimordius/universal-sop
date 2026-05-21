@@ -67,6 +67,10 @@
 | 2026-05-21 | Validation workflow updated to v3.0 reflecting 4-agent architecture | AI executed | New hierarchy: Controller → Validator-Merged + Karen + Paradox Resolver |
 | 2026-05-21 | INVENTORY.md Master Summary Table updated for F4 | AI executed | 5 active → 4 active, 3 archived → 6 archived |
 | 2026-05-21 | Phase A fusions completed so far: F5 (Jenny) + F4 (Controller) | AI executed | Phase A remaining: F1 (archive historical SOPs), F10 (TTE+LTM merge in SOP doc), F11 (Visual System fusion) |
+| 2026-05-21 | FOURTH sub-agent validation — 8/10 friction (plateau confirmed across 3 tests). F4 fusion CLEAN. | AI executed | 5 new gaps (FT5.x) — mostly housekeeping. FT5.1 (CLAUDE.md legacy weight) addressed via F1. |
+| 2026-05-21 | **F1 FUSION EXECUTED** — 3 historical SOPs moved to cache/legacy/ | AI executed | PRIME_SOP, BRIDGE_SOP, SOP_FULL_REFERENCE archived. INDEX.md with evolution timeline + APW D-rule → SubSOP mapping. |
+| 2026-05-21 | **F10 + F11 FUSIONS DOCUMENTED** — Token System + Visual System clusters added to PROTOCOLS_REFERENCE | AI executed | Visual System (SP.1+SP.2+SP.8), Token System (SP.3 TTE + LTM), Self-Check kept separate by design, F7/F8/F9 marked future |
+| 2026-05-21 | **Phase A FULLY COMPLETE** — F1 + F4 + F5 + F10 + F11 all executed | AI executed | Phase B fusions (F7 wrap-up consolidation, F8 failure ledger) now safe to execute next |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
