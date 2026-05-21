@@ -124,3 +124,8 @@
 | 119 | 2026-05-21 | (in-place edit) | .gitignore | v2.0 | Added Obsidian section — share core config (app.json, appearance.json) but exclude device-specific state (workspace, cache, plugins-data, hotkeys) | ✅ |
 | 120 | 2026-05-21 | — | MULTI_DEVICE_GIT_PROTOCOL.md | v1.0 | **NEW FILE** — 5 Golden Rules for multi-device git + conflict resolution playbook (4 scenarios) + Obsidian strategy + Claude Code multi-device strategy + pre-flight checklists + anti-patterns + nuclear-option recovery | N/A (new file) |
 | 121 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.12 | STEP 0.5 now references MULTI_DEVICE_GIT_PROTOCOL.md. Optional reads list updated with MULTI_DEVICE + SHIP_INSTRUCTIONS. | ✅ |
+| 122 | 2026-05-21 | — | chat_archive/session_5_20260521/full_transcript.jsonl | — | **CHAT HISTORY BACKUP** — 4.4 MB raw JSONL: 1,475 lines, 397 user turns, 672 assistant turns, ~14 sub-agent invocations. Includes all tool calls + outputs + AI reasoning. | N/A (snapshot) |
+| 123 | 2026-05-21 | — | chat_archive/session_5_20260521/SUMMARY.md | v1.0 | Human-readable summary of Session 5 transcript with stats + highlights + parse-ready jq snippets | N/A (new) |
+| 124 | 2026-05-21 | — | chat_archive/archive_chat.sh | v1.0 | Reusable script — `bash chat_archive/archive_chat.sh [label]` snapshots latest session JSONL into chat_archive/ | N/A (new) |
+| 125 | 2026-05-21 | — | chat_archive/README.md | v1.0 | Chat archive workflow documentation: usage, when to archive, parsing examples (jq), privacy notes, layered backup explanation | N/A (new) |
+| 126 | 2026-05-21 | (in-place edits) | SESSION_START.md + MULTI_DEVICE_GIT_PROTOCOL.md | v1.13 / v1.1 | Cross-reference chat_archive/ in bootstrap docs. Session end workflow now includes archive step. | ✅ |

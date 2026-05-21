@@ -127,6 +127,9 @@
 | 2026-05-21 | **Obsidian backup integrated** — vault config + .gitignore tuned | Alan ("back things up") | Core Obsidian config shared (consistent layout), device-specific state excluded |
 | 2026-05-21 | **MULTI_DEVICE_GIT_PROTOCOL.md built** | Alan ("structure things for multi-device without problems/deletions/inefficiency") | 5 Golden Rules + 4 conflict resolution scenarios + Obsidian strategy + Claude Code strategy + nuclear recovery |
 | 2026-05-21 | SESSION_START STEP 0.5 + Optional reads updated to reference MULTI_DEVICE protocol | AI executed | Multi-device hygiene now part of bootstrap awareness |
+| 2026-05-21 | **CHAT HISTORY BACKUP IMPLEMENTED** — chat_archive/ folder + script + README | Alan ("back up chat history, AI reasoning, tool logs is very important") | Session 5 JSONL (4.4 MB) snapshotted. Reusable archiver script. Workflow documented. |
+| 2026-05-21 | Honest gap closed: chat transcript NOW backed up via git | Was: local-only (lost if Mac dies). Now: in repo, synced to GitHub. | Includes 397 user turns, 672 assistant turns, all tool calls/outputs, all sub-agent reports |
+| 2026-05-21 | Session-end workflow updated in MULTI_DEVICE protocol | AI executed | "End session" now triggers chat archive BEFORE commit, ensuring next device gets full transcript |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

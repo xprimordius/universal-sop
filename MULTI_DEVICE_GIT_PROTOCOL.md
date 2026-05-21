@@ -90,10 +90,16 @@ git push
 ### Ending session
 Tell Claude:
 ```
-End session. Update CONTINUATION.md and push.
+End session. Archive chat history. Update CONTINUATION.md and push.
 ```
 
-Claude updates the handoff file, commits, pushes. Done.
+Claude:
+1. Runs `bash chat_archive/archive_chat.sh session_N_[label]` (saves full JSONL transcript)
+2. Updates CONTINUATION.md handoff file
+3. Commits everything (cache changes + chat archive)
+4. Pushes to GitHub
+
+This way the NEXT device pulls down BOTH the current state AND the full transcript of what just happened.
 
 ---
 
