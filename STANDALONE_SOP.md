@@ -179,16 +179,44 @@ EST: 📊 ~XK tokens · ⏱️ N/M
 
 ### Stage 1 (STANDARD/COMPLEX) — Understanding Check Table
 
+**EXACT TEMPLATE (F.14 fix 2026-05-21 — strict format enforcement):**
+
 ```
 ✅ UNDERSTANDING CHECK
 SOP: v1.3 | TIER: [tier]
 
 | # | 🎯 | 📣 Your Words (Verbatim)         | 🤖 My Interpretation         |
-|:-:|:---:|--------------------------------|------------------------------|
-| 1 | 🎯 | [exact quote from user]         | 🤖 [what I think they mean]  |
-| 2 | 🔍 | [exact quote]                   | 🤖 [my interpretation]       |
-| ... | ... | ...                            | 🤖 ...                       |
+|:-:|:---:|----------------------------------|------------------------------|
+| 1 | 🎯 | "[exact quote from user]"        | 🤖 [what I think they mean]  |
+| 2 | 🔍 | "[exact quote from user]"        | 🤖 [my interpretation]       |
+| 3 | 🛠️ | "[exact quote from user]"        | 🤖 [my interpretation]       |
 ```
+
+**Strict format rules:**
+- Column 1: `# ` (number) — center-aligned `:-:`
+- Column 2: `🎯` (single emoji per row, conveys category) — center-aligned `:---:`
+- Column 3: `📣 Your Words (Verbatim)` — left-aligned `---`
+- Column 4: `🤖 My Interpretation` — left-aligned `---`
+- User quotes ALWAYS in `"quotation marks"` to preserve verbatim integrity
+- Interpretation ALWAYS starts with `🤖 `
+- One row per distinct user point (3-7 rows typical)
+
+**Emoji column conventions (use these consistently):**
+- 🎯 — primary action or goal
+- 🔍 — investigation, audit, check
+- 🛠️ — fix, build, modify
+- 📋 — list, document, plan
+- 💾 — backup, save, commit
+- 🪞 — reflection, honesty, HFR
+- ⚡ — speed, efficiency, urgency
+- 📊 — data, metrics, analysis
+- 🚨 — critical, warning, blocker
+
+**Forbidden:**
+- ❌ Varying column widths from row to row
+- ❌ Multiple emojis in column 2 (`🎯🔍` instead of just `🎯`)
+- ❌ Paraphrasing user words (must be verbatim)
+- ❌ Skipping the 🤖 prefix on interpretation
 
 ### Stage 2 — Step Tracking Table (ALL columns mandatory)
 
@@ -594,8 +622,9 @@ For EVERY output (even simple ones):
 | 8 | Execution Debt Counter (honest numbers) |
 | 9 | Pulse Check (10/10) before sending |
 | 10 | Backup before any file edit (if doing file work) |
-| 11 | **Protocol references use full name + acronym on first use** |
+| 11 | **Protocol references use full name + acronym on EVERY use** (F.14 tightened 2026-05-21 — was "first use" only; cluster mentions like "TTE + LTM" must expand BOTH to "TTE (Token Threshold Engine) + LTM (Live Token Monitor)") |
 | 12 | **`<details>` expandable for protocol/agent DEFINITIONS (e.g., PROTOCOLS_REFERENCE.md style). NOT required for wrap-up SubSOP Execution Report — flat table is acceptable there.** (CR6 scope clarification 2026-05-21) |
+| 13 | **Run `bash scripts/compliance_check.sh` before committing** (F.14 fix 2026-05-21 — mechanical verification of Rule #11 + step header completeness + UC format + LTM count + macro/micro presence) |
 
 ---
 
@@ -628,14 +657,15 @@ P1-P10 are mechanical (used for QUICK tier). P11-P15 are depth checks (added for
 | **P14** | **Specific file paths + line numbers when claiming evidence** | FSP discipline |
 | **P15** | **All 8 guardrails (G.1-G.8) honored** | Anti-decay check |
 | **P16** | **🎯 MACRO + MICRO goal visible in step header** | Prevents objective drift (F.13 fix 2026-05-21) |
-| | **Score: X/16 — Must be 16/16** | |
+| **P17** | **`compliance_check.sh` run + passed** | Mechanical verification, can't fake (F.14 fix 2026-05-21) |
+| | **Score: X/17 — Must be 17/17** | |
 
-**Tier → Form mapping (CR5 fix 2026-05-21 — "2.0" naming removed, F.13 added P16):**
-- 🟢 QUICK tier → P1-P10 + **P16 (macro/micro)** (Basic Form, 11 items)
-- 🟡 STANDARD tier → P1-P16 (Extended Form, recommended, 16 items)
-- 🔴 COMPLEX tier → P1-P16 (Extended Form, REQUIRED, 16 items)
+**Tier → Form mapping (F.14 added P17):**
+- 🟢 QUICK tier → P1-P10 + P16 + P17 (Basic Form, 12 items)
+- 🟡 STANDARD tier → P1-P17 (Extended Form, 17 items)
+- 🔴 COMPLEX tier → P1-P17 (Extended Form REQUIRED, 17 items)
 
-**P16 is universal** — goal visibility matters in every tier. No exceptions.
+**P16 + P17 are universal** — goal visibility AND mechanical compliance check matter in every tier. No exceptions.
 
 ---
 

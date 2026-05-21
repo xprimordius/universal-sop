@@ -162,6 +162,9 @@ F.13 fix applied — macro+micro now in every step header. Next: APW work or fin
 | 2026-05-21 | **F.13 fix EXECUTED — macro/micro goal tracking structural** | Alan ("we must always have macro and micro goal front of mind") | Step header now mandatory includes 🎯 MACRO + 📌 MICRO. P16 added to Pulse Check. SESSION_STATE has GOAL TRACKING section. Bootstrap confirmation surfaces both immediately. |
 | 2026-05-21 | **HONEST**: F.13 root cause = identified-but-not-fixed (RPT.7 recurrence) | HFR | I named O1 OBJECTIVE DRIFT in FAILURE_MODES yesterday but only LISTED it. Alan caught the gap. Lesson: identification ≠ resolution. Operationalize via mechanical enforcement. |
 | 2026-05-21 | **Macro priority RE-SURFACED: Return to APW course (Module 4.1)** | F.13 result | SOP is ship-ready. APW work is the original objective. Next session should be APW unless explicitly redirected. |
+| 2026-05-21 | **F.14 FIX — Mechanical compliance enforcement** | Alan ("TTE + LTM needs full names, where's compliance agent, we keep failing") | NEW: scripts/compliance_check.sh. Rule #11 tightened (EVERY use). NEW P17 (script-passed). UC strict template. Self-check limits acknowledged — mechanical checks added. |
+| 2026-05-21 | **HONEST**: Pulse Check P10 was behavioral — could be marked Y without rigor | HFR | F.14 root cause = same-brain self-audit ceiling. Mechanical script (~0 tokens) supplements judgment. |
+| 2026-05-21 | Compliance agent answer: Karen + Validator-Merged exist but NEVER auto-invoked | Honest gap | Now: scripts/compliance_check.sh is the auto-invoked mechanical layer. Karen still on-demand for major outputs. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

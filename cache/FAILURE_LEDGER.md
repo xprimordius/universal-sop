@@ -168,6 +168,31 @@ Every entry uses this format:
 </details>
 
 <details>
+<summary><b>F.14 — Rule #11 Cluster Violations + UC Format Inconsistency + Compliance Agent Never Invoked [REPEAT × 5+] — ✅ FIXED 2026-05-21</b></summary>
+
+- **Type:** REPEAT (Rule #11 violations across 5+ outputs in Session 5)
+- **First Observed:** Session 5 — Alan called out: "TTE + LTM needs to have the name fully written out remember? where is our compliance agent?"
+- **Times:** 5+ (every output that used cluster mentions like "TTE + LTM" without full names)
+- **Root Cause:**
+  - Rule #11 said "first use" — interpreted CLUSTER headers (like "Visual System") as the "first use," then bare acronyms in protocol lists
+  - Pulse Check P10 = behavioral self-check, can be marked Y without rigorous verification
+  - Karen + Validator-Merged sub-agents exist but NEVER auto-invoked (no trigger)
+  - Same-brain self-audit has structural limits
+  - Understanding Check has no EXACT format spec — column widths varied
+- **Permanent Fix (STRUCTURAL):**
+  1. Rule #11 TIGHTENED — "EVERY use" not "first use" (cluster mentions must expand both protocols)
+  2. NEW: `scripts/compliance_check.sh` — mechanical grep-based verification (0 tokens, runs before commit)
+  3. NEW: P17 in Pulse Check — "compliance_check.sh run + passed" (mechanical, can't fake)
+  4. NEW: Rule #13 in Compliance Non-Negotiables — run compliance script before commit
+  5. Understanding Check template now has STRICT format spec (column widths, emoji conventions, forbidden patterns)
+  6. Total Pulse Check items: 17 (was 16)
+- **Fixed:** 2026-05-21 (same output where called out)
+- **Verified:** This output's step header has macro/micro. Compliance script runnable. P17 will be enforced.
+- **Lesson:** Self-check has structural limits. Mechanical checks (scripts, regex) catch what behavioral checks miss. Auto-invoke external sub-agents for high-stakes outputs.
+
+</details>
+
+<details>
 <summary><b>F.13 — Macro/Micro Goal Tracking Structurally Absent [FAILURE × 1, multi-session pattern] — ✅ FIXED 2026-05-21</b></summary>
 
 - **Type:** FAILURE (multi-session structural gap)
