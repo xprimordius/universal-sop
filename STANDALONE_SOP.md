@@ -158,27 +158,65 @@ You may NEVER tier-down from COMPLEX (multi-file/multi-step inherently warrants 
 
 ## 🏗️ EVERY OUTPUT MUST INCLUDE — Mandatory Components
 
-### Line 1 — Step Header
+### Line 1 — Step Header (Updated F.13 fix 2026-05-21 — Now Includes Goal Tracking)
 
 ```
 STEP: [clear action — what this deliverable is]
 SOP: v1.3 | TIER: [QUICK / STANDARD / COMPLEX]
+🎯 MACRO: [original project goal — e.g., "Build APW course"]
+🎯 MICRO: [current session goal — e.g., "Add Token Optimization to SOP"]
 SCOPE: [bounded — what's in, what's out]
-EST: 📊 ~XK tokens · ⏱️ N/M (wall-clock unmeasurable for LLMs — mark N/M, do not fabricate per CR1 fix 2026-05-21)
+EST: 📊 ~XK tokens · ⏱️ N/M
 ```
 
+**Why mandatory:** Prevents objective drift (O1 in FAILURE_MODES_ANALYSIS). Without macro visible every output, sessions can wander off-objective (e.g., 14 sessions on SOP without returning to APW course).
+
+**Where to source:**
+- MACRO: from `SESSION_STATE.md` → "MACRO GOAL" field (if not present, ASK USER first time)
+- MICRO: from current user prompt — what THIS session is trying to accomplish
+
+**If macro is unclear:** STOP. Ask the user. Better to lose 1 minute clarifying than 14 sessions drifting.
+
 ### Stage 1 (STANDARD/COMPLEX) — Understanding Check Table
+
+**EXACT TEMPLATE (F.14 fix 2026-05-21 — strict format enforcement):**
 
 ```
 ✅ UNDERSTANDING CHECK
 SOP: v1.3 | TIER: [tier]
 
 | # | 🎯 | 📣 Your Words (Verbatim)         | 🤖 My Interpretation         |
-|:-:|:---:|--------------------------------|------------------------------|
-| 1 | 🎯 | [exact quote from user]         | 🤖 [what I think they mean]  |
-| 2 | 🔍 | [exact quote]                   | 🤖 [my interpretation]       |
-| ... | ... | ...                            | 🤖 ...                       |
+|:-:|:---:|----------------------------------|------------------------------|
+| 1 | 🎯 | "[exact quote from user]"        | 🤖 [what I think they mean]  |
+| 2 | 🔍 | "[exact quote from user]"        | 🤖 [my interpretation]       |
+| 3 | 🛠️ | "[exact quote from user]"        | 🤖 [my interpretation]       |
 ```
+
+**Strict format rules:**
+- Column 1: `# ` (number) — center-aligned `:-:`
+- Column 2: `🎯` (single emoji per row, conveys category) — center-aligned `:---:`
+- Column 3: `📣 Your Words (Verbatim)` — left-aligned `---`
+- Column 4: `🤖 My Interpretation` — left-aligned `---`
+- User quotes ALWAYS in `"quotation marks"` to preserve verbatim integrity
+- Interpretation ALWAYS starts with `🤖 `
+- One row per distinct user point (3-7 rows typical)
+
+**Emoji column conventions (use these consistently):**
+- 🎯 — primary action or goal
+- 🔍 — investigation, audit, check
+- 🛠️ — fix, build, modify
+- 📋 — list, document, plan
+- 💾 — backup, save, commit
+- 🪞 — reflection, honesty, HFR
+- ⚡ — speed, efficiency, urgency
+- 📊 — data, metrics, analysis
+- 🚨 — critical, warning, blocker
+
+**Forbidden:**
+- ❌ Varying column widths from row to row
+- ❌ Multiple emojis in column 2 (`🎯🔍` instead of just `🎯`)
+- ❌ Paraphrasing user words (must be verbatim)
+- ❌ Skipping the 🤖 prefix on interpretation
 
 ### Stage 2 — Step Tracking Table (ALL columns mandatory)
 
@@ -584,8 +622,9 @@ For EVERY output (even simple ones):
 | 8 | Execution Debt Counter (honest numbers) |
 | 9 | Pulse Check (10/10) before sending |
 | 10 | Backup before any file edit (if doing file work) |
-| 11 | **Protocol references use full name + acronym on first use** |
+| 11 | **Protocol references use full name + acronym on EVERY use** (F.14 tightened 2026-05-21 — was "first use" only; cluster mentions like "TTE + LTM" must expand BOTH to "TTE (Token Threshold Engine) + LTM (Live Token Monitor)") |
 | 12 | **`<details>` expandable for protocol/agent DEFINITIONS (e.g., PROTOCOLS_REFERENCE.md style). NOT required for wrap-up SubSOP Execution Report — flat table is acceptable there.** (CR6 scope clarification 2026-05-21) |
+| 13 | **Run `bash scripts/compliance_check.sh` before committing** (F.14 fix 2026-05-21 — mechanical verification of Rule #11 + step header completeness + UC format + LTM count + macro/micro presence) |
 
 ---
 
@@ -617,12 +656,16 @@ P1-P10 are mechanical (used for QUICK tier). P11-P15 are depth checks (added for
 | **P13** | **No hedging without real uncertainty** | "Maybe/I think" used only when warranted |
 | **P14** | **Specific file paths + line numbers when claiming evidence** | FSP discipline |
 | **P15** | **All 8 guardrails (G.1-G.8) honored** | Anti-decay check |
-| | **Score: X/15 — Must be 15/15** | |
+| **P16** | **🎯 MACRO + MICRO goal visible in step header** | Prevents objective drift (F.13 fix 2026-05-21) |
+| **P17** | **`compliance_check.sh` run + passed** | Mechanical verification, can't fake (F.14 fix 2026-05-21) |
+| | **Score: X/17 — Must be 17/17** | |
 
-**Tier → Form mapping (CR5 fix 2026-05-21 — "2.0" naming removed):**
-- 🟢 QUICK tier → P1-P10 (Basic Form)
-- 🟡 STANDARD tier → P1-P15 (Extended Form, recommended)
-- 🔴 COMPLEX tier → P1-P15 (Extended Form, REQUIRED)
+**Tier → Form mapping (F.14 added P17):**
+- 🟢 QUICK tier → P1-P10 + P16 + P17 (Basic Form, 12 items)
+- 🟡 STANDARD tier → P1-P17 (Extended Form, 17 items)
+- 🔴 COMPLEX tier → P1-P17 (Extended Form REQUIRED, 17 items)
+
+**P16 + P17 are universal** — goal visibility AND mechanical compliance check matter in every tier. No exceptions.
 
 ---
 

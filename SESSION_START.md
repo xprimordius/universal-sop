@@ -97,11 +97,38 @@ This ensures you have the latest cache + SOP changes from any other device. If y
 
 ## 📖 STEP 1 — MANDATORY READS (In This Order)
 
-**Pick your path based on session context:**
+**🎯 TOKEN OPTIMIZATION (NEW 2026-05-21): Default to FAST-PATH for most sessions. Cold Start is for genuinely new devices only.**
 
-### 🆕 COLD START (Fresh AI — Read All 8 Files)
+### ⚡ FAST-PATH (DEFAULT — Recommended For 80% Of Sessions)
 
-Use this if you have NEVER seen this project before, OR a fresh device/clone, OR you suspect harness drift.
+Use this if ANY of these are true:
+- ✅ You recently worked on this project (same conversation thread or recent context)
+- ✅ Session compacted but you remember the basics
+- ✅ User says "continue" or "pick up where I left off"
+- ✅ Token budget conservation matters
+
+Read ONLY these 3 files (~10K tokens, 5% of budget):
+```
+1. ./cache/SESSION_STATE.md       ← Current position + decisions
+2. ./cache/CONTINUATION.md        ← Latest handoff
+3. ./cache/BOOTSTRAP_CHECK.md     ← Verify mental model
+```
+
+**Defer to on-demand:** SOP, PROTOCOLS_REFERENCE, FAILURE_LEDGER, USER_PROFILE — read when first needed, not upfront.
+
+**Validation gate:** If BOOTSTRAP_CHECK reveals ANY comprehension gap → abort Fast-Path, run Cold Start.
+
+**Token savings:** ~18K per session (vs Cold Start).
+
+---
+
+### 🆕 COLD START (Only For Genuinely Fresh Devices — ~28K tokens, 14% of budget)
+
+Use this ONLY if:
+- ❌ Brand new device that has NEVER seen this project
+- ❌ Suspected harness drift (claudeMd stale)
+- ❌ Cross-device first sync after major structural changes
+- ❌ User explicitly says "full bootstrap"
 
 Use the Read tool. Read FULLY, not skim. Do not start work until all 8 are read.
 
@@ -181,6 +208,24 @@ Read ONLY these 3 files:
 
 ---
 
+## 🚫 SUB-AGENT SKIP CONDITIONS (Token Optimization 2026-05-21)
+
+**Sub-agent validation tests are ~16K tokens each.** Do NOT run if ANY of these are true:
+- ✅ 3+ consecutive tests already at same friction score (plateau confirmed)
+- ✅ Only cosmetic changes since last test (typos, version stamps, link updates)
+- ✅ User says "skip validation" or "just do it"
+- ✅ Token budget at 🟡 YELLOW or worse (validation consumes too much)
+
+**DO run sub-agent test if:**
+- 🔴 Structural change to SOP (new SubSOP, fusion executed, etc.)
+- 🔴 New file added to mandatory bootstrap path
+- 🔴 User explicitly requests "QA test"
+- 🔴 First test after entering a new tier (e.g., first cross-model)
+
+**Default heuristic:** No more than 3 sub-agent tests per session unless explicitly requested.
+
+---
+
 ## 🤖 ACTIVE AGENT ROSTER (Updated 2026-05-21 After F4 Fusion)
 
 When to invoke an agent (rare in normal flow — most outputs use inline SubSOPs):
@@ -228,18 +273,25 @@ After reading STEP 1 files, send this message to the user:
 
 ```
 ✅ RESUMED
-SOP: v1.3 loaded | 16 SubSOPs active
+SOP: v1.3 loaded | 16 SubSOPs + EN.1-EN.4
+
+🎯 MACRO: [from SESSION_STATE.md "GOAL TRACKING" → MACRO GOAL]
+📌 MICRO: [from SESSION_STATE.md "GOAL TRACKING" → MICRO GOAL]
+📊 Macro Status: [from GOAL STATUS — progress vs original objective]
+
 Cache files loaded: [list what was found]
 Current position: [from SESSION_STATE.md "CURRENT POSITION" section]
 Last decisions: [last 3 entries from SESSION_STATE.md "DECISIONS LOG"]
-Active D-rules / focus: [from SESSION_STATE.md]
-Open items / next steps: [from CONTINUATION.md]
+▶️ Macro-level next action: [from GOAL TRACKING]
+▶️ Micro-level next action: [from GOAL TRACKING]
 Repeated failures to avoid: [count from FAILURE_LEDGER.md]
 
 Token budget: ~XK loaded / 200K | Status: 🌱 GREEN
 
 Ready for your task.
 ```
+
+**F.13 fix 2026-05-21:** Confirmation format now surfaces MACRO + MICRO goals immediately. Prevents 14-session objective drift.
 
 Then **WAIT** for the user's next message.
 
@@ -255,28 +307,29 @@ Until the user confirms direction, do NOT:
 - ❌ Output without the SOP step header
 - ❌ Edit any file without backup first (see UNIVERSAL BACKUP RULE below — mandatory)
 - ❌ Delete any existing file (see UNIVERSAL BACKUP RULE below — non-negotiable)
+- ❌ **Read chat_archive/ files during bootstrap** (TOKEN OPTIMIZATION 2026-05-21 — these are reference/audit-only, NOT operational. ~5-10K saved by skipping.)
 
 ---
 
-## 🛡️ UNIVERSAL BACKUP & PRESERVATION RULE (Added 2026-05-21 — Cross-Device, Codified Per Alan)
+## 🛡️ UNIVERSAL BACKUP & PRESERVATION RULE (Added 2026-05-21 — Cross-Device, Alan + Aurelia + Mac-Main Convergence)
 
 **Repo-wide rule. Applies to ALL files in this repo, not just `cache/`. Inherited by every device that clones + bootstraps this repo — that's the point of putting it here instead of in a local config.**
 
 | # | 🛡️ Rule | 📝 Detail |
 |:-:|---------|-----------|
-| 1 | **NEVER delete existing files** | No `rm`, no overwrite-that-destroys-content, no rename-that-drops-the-old-name. If a file must be replaced, the old version goes to `backups/` first. Git history is not a substitute — backups must be discoverable on disk. |
+| 1 | **NEVER delete existing files** | No `rm`, no overwrite-that-destroys-content, no rename-that-drops-the-old-name. If a file must be replaced, the old version goes to `backups/` (or `cache/legacy/archived_*` per Mac's Rule 7 in MULTI_DEVICE_GIT_PROTOCOL.md) first. Git history is not a substitute — backups must be discoverable on disk. |
 | 2 | **Backup BEFORE every modification** | Sequence is fixed: **backup → edit → log**. Never edit then backup. Failure mode: editing first means the old state only exists in git history, not as a discoverable file in `backups/`. |
-| 3 | **Timestamped filename + device identity** | Top-level `backups/`: `<original>_v<ver>_<YYYYMMDD>_<HHMMSS>_<hostname>_<reason>_backup.<ext>`. `cache/backups/`: `<YYYYMMDD>_<HHMMSS>_<hostname>_v<ver>_<reason>/` (subdirectory style for cache fan-out). The `<hostname>` segment is mandatory — Alan operates across multiple devices (2 Strix Halos, Mac, desktop, more) and cross-device recovery needs to know which machine produced the backup. Discover via: `hostname` (any shell) or `$env:COMPUTERNAME` (PowerShell). |
-| 4 | **Log every backup** | In `cache/BACKUP_LOG.md` in the same operation as the edit, with: `# \| date \| time \| file \| version \| reason \| backup path`. Device identity is surfaced via the `<hostname>` segment in the backup path — no extra column required. |
-| 5 | **Applies to ALL files** | `UNIVERSAL_SOP_PROMPT.md`, `CLAUDE.md`, `SESSION_START.md`, `cache/*`, `agents/*`, `source_files/*`, `sop_scripts/*`, even `README.md`. Everything. Not just cache. |
-| 6 | **Cross-device inheritance** | This rule lives in `SESSION_START.md` (the canonical bootstrap every device reads) so cloning the repo automatically transmits the discipline. No device should reproduce the "edit-without-backup" failure pattern. |
-| 7 | **Device identity is non-optional** | Same logical reason as the timestamp: a backup that doesn't disclose its origin device cannot be safely restored on a different machine without manual archaeology. Filenames without `<hostname>` are non-conforming from 2026-05-21 onward. Pre-2026-05-21 backups are grandfathered as device-unknown. |
+| 3 | **Timestamped filename + device identity** | Top-level `backups/`: `<original>_v<ver>_<YYYYMMDD>_<HHMMSS>_<device>_<reason>_backup.<ext>`. `cache/backups/`: `<YYYYMMDD>_<HHMMSS>_<device>_v<ver>_<reason>/` (subdirectory style). The `<device>` segment is the registered device name from `DEVICE_REGISTRY.md` (NOT raw hostname — the registry is authoritative). Alan operates across multiple devices (2 Strix Halos, Mac, desktop, more) and cross-device recovery needs to know which machine produced the backup. |
+| 4 | **Log every backup** | In `cache/BACKUP_LOG.md` in the same operation as the edit, with: `# \| date \| time \| file \| version \| reason \| backup path`. Device identity is surfaced via the `<device>` segment in the backup path AND via the commit subject `[<device> \| YYYY-MM-DD HH:MM TZ]` (per MULTI_DEVICE_GIT_PROTOCOL.md commit convention). |
+| 5 | **Applies to ALL files** | `UNIVERSAL_SOP_PROMPT.md`, `CLAUDE.md`, `SESSION_START.md`, `cache/*`, `agents/*`, `source_files/*`, `sop_scripts/*`, `scripts/*`, even `README.md`. Everything. Not just cache. |
+| 6 | **Cross-device inheritance** | This rule lives in `SESSION_START.md` (the canonical bootstrap every device reads) + DEVICE_REGISTRY.md (mac-main's registry) so cloning the repo automatically transmits the discipline. No device should reproduce the "edit-without-backup" failure pattern. |
+| 7 | **Device identity is non-optional** | Same logical reason as the timestamp: a backup that doesn't disclose its origin device cannot be safely restored on a different machine without manual archaeology. Filenames without `<device>` are non-conforming from 2026-05-21 onward. Pre-2026-05-21 backups are grandfathered as device-unknown. New devices register via `bash scripts/setup_device.sh <DEVICE_NAME>` before any work. |
 
 **Structural anti-decay** — like the Ensurance System (EN.1–EN.4), this rule cannot be skipped under any "low-risk" / "small edit" / "just appending" rationale. If you find yourself thinking *"this edit is too small to bother backing up"* — that thought IS the failure mode. Back up anyway.
 
-**Origin:** 2026-05-21 — during Day-1 setup on a new device (`Aurelia`, this machine), AI appended a row to `cache/BACKUP_LOG.md` without a pre-edit backup file. Alan codified the rule via `/remember` to make the discipline cross-device. Then Alan added device-identity to the rule (because of 2 Strix Halos + Mac + desktop + more — cross-device requires per-device backup attribution). Remediation backups recorded in `cache/BACKUP_LOG.md` rows #127–#128. Rule itself added in rows #129–#131. Device-identity addition: rows #132–#134.
+**Origin:** 2026-05-21 — during Day-1 setup on device `aurelia` (Windows), AI appended a row to `cache/BACKUP_LOG.md` without a pre-edit backup file. Alan codified the rule via `/remember` to make the discipline cross-device. Then Alan added device-identity. In PARALLEL, `mac-main` worked the same problem space and added complementary infrastructure: `DEVICE_REGISTRY.md` (215 lines), `scripts/` (setup_device, append_only_check, check_device_activity, compliance_check, consistency_check), `.githooks/pre-commit` (version-controlled hook), and FAILURE_LEDGER entries F.13–F.16. Merged in commit `[aurelia | 2026-05-21 17:26 CDT]`. Remediation + rule + device-identity backups in `cache/BACKUP_LOG.md` rows #151–#160 (aurelia) + Mac's complementary work in rows #127–#150.
 
-**Relationship to legacy D32:** This rule **supersedes and broadens** the legacy `CACHE MODIFICATION PROTOCOL (D32)` in `CLAUDE.md` (which scoped backups to cache files only). Scope is now universal. Mechanical steps remain identical.
+**Relationship to legacy D32 and to Mac's Rules 6+7 (MULTI_DEVICE_GIT_PROTOCOL.md):** This rule and Mac's Rules 6+7 cover overlapping ground — both forbid deletion + enforce append-only. They are **complementary, not redundant**: this rule is the discipline + naming convention; Mac's Rules 6+7 plus `scripts/append_only_check.sh` + `.githooks/pre-commit` provide **mechanical enforcement** that blocks bad commits at the git layer. Together they form a belt-and-suspenders system. Legacy D32 (cache-only) is superseded by both.
 
 ---
 

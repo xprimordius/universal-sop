@@ -26,8 +26,21 @@ fi
 # Copy the JSONL (full transcript with tool calls + AI output + reasoning)
 cp "$LATEST_JSONL" "$TARGET/full_transcript.jsonl"
 
+# Verify copy succeeded + size >0
+if [ ! -s "$TARGET/full_transcript.jsonl" ]; then
+  echo "❌ FAILED — archived file is empty or missing"
+  exit 1
+fi
+
 # Generate a human-readable summary (sizes + counts)
 SIZE=$(du -h "$TARGET/full_transcript.jsonl" | cut -f1)
+SIZE_MB=$(du -m "$TARGET/full_transcript.jsonl" | cut -f1)
+
+# Size warning per FAILURE_MODES_ANALYSIS A3 + G5
+if [ "$SIZE_MB" -gt 50 ]; then
+  echo "⚠️  WARNING: Archive is ${SIZE} — approaching GitHub's 100 MB file limit"
+  echo "   Consider splitting future archives or using Git LFS"
+fi
 LINE_COUNT=$(wc -l < "$TARGET/full_transcript.jsonl" | xargs)
 USER_TURNS=$(grep -c '"type":"user"' "$TARGET/full_transcript.jsonl" || echo "0")
 ASSISTANT_TURNS=$(grep -c '"type":"assistant"' "$TARGET/full_transcript.jsonl" || echo "0")

@@ -1,5 +1,27 @@
 # SESSION STATE
-# VERSION: 1.3 | Updated: 2026-05-21 | SOP: v1.3
+# VERSION: 1.8 | Updated: 2026-05-21 | SOP: v1.3
+
+## 🎯 GOAL TRACKING (F.13 fix — MANDATORY surface in every output step header)
+
+### 🌐 MACRO GOAL (Original Project Objective)
+**Build APW (Ascend Prime Wealth) course** — A Skool-hosted course teaching $100K-$500K business funding in 90 days without tax returns or income documentation. (Source: project genesis Mar 13, 2026.)
+
+### 📌 MICRO GOAL (Current Session Focus)
+**Universal Output SOP ship-ready + return to APW work.** SOP infrastructure 95% complete. Goal: address objective drift, prepare APW resume.
+
+### 📊 GOAL STATUS
+- **Macro progress:** APW course Module 4.1 (7DFS Lessons) — **PAUSED** since session 3 (Apr 16). 14+ sessions on SOP infrastructure instead.
+- **Macro time invested:** ~40+ hours on SOP (which serves APW but isn't APW).
+- **Micro progress:** SOP infrastructure 95% complete. STANDALONE_SOP shippable. MULTI_DEVICE_GIT_PROTOCOL + TOKEN_OPTIMIZATION_GUIDE + FAILURE_MODES_ANALYSIS done.
+- **Drift acknowledged:** O1 in FAILURE_MODES_ANALYSIS — SOP became the project.
+
+### ▶️ MACRO-LEVEL NEXT ACTION (Highest-Value)
+**Return to APW course building.** Resume Module 4.1 — 7DFS Lessons. SOP is good enough.
+
+### ▶️ MICRO-LEVEL NEXT ACTION (This Session)
+F.13 fix applied — macro+micro now in every step header. Next: APW work or finish remaining SOP polish if explicitly requested.
+
+---
 
 ## 📍 CURRENT POSITION
 - **Active Work:** Field test validation executed + bootstrap fidelity gaps closed
@@ -130,6 +152,26 @@
 | 2026-05-21 | **CHAT HISTORY BACKUP IMPLEMENTED** — chat_archive/ folder + script + README | Alan ("back up chat history, AI reasoning, tool logs is very important") | Session 5 JSONL (4.4 MB) snapshotted. Reusable archiver script. Workflow documented. |
 | 2026-05-21 | Honest gap closed: chat transcript NOW backed up via git | Was: local-only (lost if Mac dies). Now: in repo, synced to GitHub. | Includes 397 user turns, 672 assistant turns, all tool calls/outputs, all sub-agent reports |
 | 2026-05-21 | Session-end workflow updated in MULTI_DEVICE protocol | AI executed | "End session" now triggers chat archive BEFORE commit, ensuring next device gets full transcript |
+| 2026-05-21 | **FAILURE_MODES_ANALYSIS.md built** — 50+ future failure modes across 14 categories | Alan ("explore ways it would break, lose fidelity, lose accuracy") | Each: manifestation + impact + resolution + gap identification. Highest-risk: O1 OBJECTIVE DRIFT (SOP became the project). |
+| 2026-05-21 | consistency_check.sh script created | AI executed (gap C2 fix) | Detects version drift, stale refs, file count anomalies before commit |
+| 2026-05-21 | archive_chat.sh hardened (gap A3 fix) | AI executed | Empty-file check + 50MB size warning |
+| 2026-05-21 | **HONEST META-RECOGNITION: O1 — SOP work overshadowed APW course (the original project)** | FAILURE_MODES analysis | 14+ sessions on SOP. APW Module 4.1 not progressed. SOP is ship-ready. Next session should be APW work. |
+| 2026-05-21 | **TOKEN OPTIMIZATION analysis + 3 fixes applied** | Alan ("reduced token use while maintaining quality") | Fast-Path is now DEFAULT (~18K saved/session), chat_archive excluded from bootstrap (~5-10K saved), sub-agent skip conditions defined (~16K × skipped tests) |
+| 2026-05-21 | **TOKEN_OPTIMIZATION_GUIDE.md built** | AI executed | 6 optimizations documented with savings + trade-offs + multi-device workflow. Honest: Obsidian doesn't reduce AI tokens (human reading only). Projected ~50-60% reduction in continuation sessions. |
+| 2026-05-21 | Multi-device economics: ~1.2M tokens/year saved (estimated) | Projection | 50 sessions × 18K + 20 skipped tests × 16K = significant cumulative savings |
+| 2026-05-21 | **F.13 fix EXECUTED — macro/micro goal tracking structural** | Alan ("we must always have macro and micro goal front of mind") | Step header now mandatory includes 🎯 MACRO + 📌 MICRO. P16 added to Pulse Check. SESSION_STATE has GOAL TRACKING section. Bootstrap confirmation surfaces both immediately. |
+| 2026-05-21 | **HONEST**: F.13 root cause = identified-but-not-fixed (RPT.7 recurrence) | HFR | I named O1 OBJECTIVE DRIFT in FAILURE_MODES yesterday but only LISTED it. Alan caught the gap. Lesson: identification ≠ resolution. Operationalize via mechanical enforcement. |
+| 2026-05-21 | **Macro priority RE-SURFACED: Return to APW course (Module 4.1)** | F.13 result | SOP is ship-ready. APW work is the original objective. Next session should be APW unless explicitly redirected. |
+| 2026-05-21 | **F.14 FIX — Mechanical compliance enforcement** | Alan ("TTE + LTM needs full names, where's compliance agent, we keep failing") | NEW: scripts/compliance_check.sh. Rule #11 tightened (EVERY use). NEW P17 (script-passed). UC strict template. Self-check limits acknowledged — mechanical checks added. |
+| 2026-05-21 | **HONEST**: Pulse Check P10 was behavioral — could be marked Y without rigor | HFR | F.14 root cause = same-brain self-audit ceiling. Mechanical script (~0 tokens) supplements judgment. |
+| 2026-05-21 | Compliance agent answer: Karen + Validator-Merged exist but NEVER auto-invoked | Honest gap | Now: scripts/compliance_check.sh is the auto-invoked mechanical layer. Karen still on-demand for major outputs. |
+| 2026-05-21 | **F.15 FIX — Multi-Device Identity + Append-Only Protection** | Alan ("devices named, changes timestamped, files aren't deleted") | DEVICE_REGISTRY.md + 3 scripts (setup_device, append_only_check, check_device_activity) + MULTI_DEVICE_GIT_PROTOCOL.md updated with Rules 6+7 |
+| 2026-05-21 | **This Mac registered as 'mac-main'** | git config | Future commits identifiable as Alan (mac-main) <alan+mac-main@local> instead of generic Alan <alan@local> |
+| 2026-05-21 | Current state verified before changes | check_device_activity.sh | 28 commits all from generic 'Alan <alan@local>'. No other devices written. Safe to proceed. |
+| 2026-05-21 | **F.16 FIX — Script Enforcement Agent (Karen + Pre-Commit Hook)** | Alan ("agent to ensure script not bypassed?") | NEW: .githooks/pre-commit (mechanical, cannot bypass without --no-verify). Karen expanded with F.16 section + 4 new MUST-INVOKE triggers. Layered defense: Hook + Karen + Pulse Check P17. |
+| 2026-05-21 | Session 5 extended chat ARCHIVED — 5.2 MB JSONL | bash archive_chat.sh | 1805 lines, 489 user / 824 assistant turns. Available in chat_archive/session_5_continued_20260521_172216/ |
+| 2026-05-21 | CONTINUATION.md v4.0 — comprehensive Session 5 handoff + new-chat continuation guide | AI executed | Per Alan: "how to continue in new chat to reset token count but maintain everything". Exact resume prompt embedded. |
+| 2026-05-21 | **READY FOR NEW CHAT TEST** | Session 5 end | New chat can resume via Fast-Path (3 files, ~10K tokens) + access full chat_archive if needed |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
