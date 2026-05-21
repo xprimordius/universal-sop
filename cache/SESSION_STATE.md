@@ -113,6 +113,10 @@
 | 2026-05-21 | **C executed** — CROSS_MODEL_TEST_KIT.md built + sub-agent cross-model simulation | Alan ("B then C") | Paste-ready protocol for GPT-5/Gemini. Sub-agent sim: 11/12 compliance, 5/10 friction, 10 FT15.x findings |
 | 2026-05-21 | **FT15.1+FT15.2+FT15.3 critical fixes** | AI executed | Token math model-agnostic (percentages), project-internal refs swept, Pulse Check 10/15 ambiguity resolved tier-based |
 | 2026-05-21 | **MILESTONE: STANDALONE_SOP cross-model portability ~75% confirmed** | Sub-agent sim | Honest assessment: 75% portable, 25% Claude-tuned. FT15.x cleanup increased toward ~85%. |
+| 2026-05-21 | **D executed** — 7 FT15.x LOW fixes applied | Alan ("D and QA") | FT15.4-FT15.10 all addressed in STANDALONE_SOP v1.10 |
+| 2026-05-21 | **QA — 13th sub-agent (2nd cross-model sim)** | AI executed | Friction 5/10 → 3/10 (-2, 40% reduction). 12/12 compliance. All 7 FT15.x LOW fixes validated. |
+| 2026-05-21 | **CR1+CR2+CR3 polish** | AI executed | Wall-clock N/M template, LTM [WINDOW] parameterization, SHR chat-only subset |
+| 2026-05-21 | **MILESTONE: Cross-model portability ~85% → ~92% confirmed** | 2nd cross-model sim | Sub-agent: "would now require only 30-min polish edits for ~95%" |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
