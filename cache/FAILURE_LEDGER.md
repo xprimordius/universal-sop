@@ -168,6 +168,31 @@ Every entry uses this format:
 </details>
 
 <details>
+<summary><b>F.18 — Multi-Device Live Push/Pull Not Optimized [FAILURE × 1, structural gap] — ✅ FIXED 2026-05-21</b></summary>
+
+- **Type:** FAILURE (multi-device coordination gap)
+- **First Observed:** Session 6 — `git push` rejected mid-session because another device (aurelia) pushed during my work. Required manual `fetch + rebase + resolve conflict + push`.
+- **Times:** 1 explicit + N silent prior cases (any rejected push)
+- **Root Cause:**
+  - Session-start was multi-device aware (git pull mandatory in STEP 0.5, device naming, append-only)
+  - BUT mid-session live push/pull had **no protections**:
+    - No pre-push hook → discovered divergence only at push rejection
+    - No auto-rebase wrapper → had to manually run fetch + rebase + push every time
+    - No live sync detection during long sessions → could diverge for hours before noticing
+  - Plain `git push` provides no friction reduction for the common case (non-overlapping concurrent commits)
+- **Permanent Fix:**
+  1. **`scripts/safe_push.sh`** — wrapper: `git fetch && git rebase origin/main && git push`. Handles divergence atomically. Bails cleanly on conflict with 3 documented resolution paths.
+  2. **`.githooks/pre-push`** — mechanical block: if origin is ahead, push aborts with instruction to run `safe_push.sh`. Cannot bypass without `--no-verify`.
+  3. **`bootstrap_verify.sh` Section 13** — fetches at boot, reports ✅ in sync / ⚠️ behind / ℹ️ ahead / ⚠️ diverged. Catches divergence at session start when cheapest to resolve.
+  4. **BOOTSTRAP_CHECK.md** updated to 13 sections (was 12). Total checks: 70 mechanical + 10 conceptual = 80.
+- **Fixed:** 2026-05-21 (this output)
+- **Verified:** Tested by dogfooding — this commit pushed via `bash scripts/safe_push.sh`.
+- **Lesson:** Multi-device hygiene is a *spectrum*, not a binary. Session-start protections (pull) are necessary but not sufficient. Mid-session and push-time also need mechanical layers.
+- **Tradeoff acknowledged:** Auto-rebase handles non-overlapping commits frictionlessly but still requires manual resolution on file conflicts (intrinsic to concurrent edits of same lines).
+
+</details>
+
+<details>
 <summary><b>F.17 — Bootstrap Confirmation Lacked Component-Level Transparency [FAILURE × 1, structural gap] — ✅ FIXED 2026-05-21</b></summary>
 
 - **Type:** FAILURE (structural transparency gap)
@@ -319,7 +344,7 @@ Every entry uses this format:
 
 | 🎯 | Metric | Count |
 |:---:|--------|:-----:|
-| Total entries | F.1 - F.17 | 17 |
+| Total entries | F.1 - F.18 | 18 |
 | REPEAT type | User asked 2+ times | 9 |
 | FAILURE type | Single-occurrence + meta-patterns | 2 |
 | All fixed | ✅ | 11 |

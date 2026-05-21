@@ -1,0 +1,81 @@
+#!/usr/bin/env bash
+# 🔒 PRE-PUSH HOOK — Mechanical multi-device coordination
+# F.18 fix 2026-05-21 | Per Alan: "optimized for multi device pull and push live"
+#
+# Blocks `git push` if origin is ahead, preventing the rejected-push that
+# requires manual rebase. Cannot bypass without --no-verify.
+#
+# If remote is ahead: tells user to run scripts/safe_push.sh instead.
+# If remote is unchanged or behind: lets the push proceed.
+
+set -e
+
+PROJECT_ROOT="$(git rev-parse --show-toplevel)"
+cd "$PROJECT_ROOT"
+
+REMOTE_NAME="$1"   # provided by git (typically "origin")
+REMOTE_URL="$2"
+
+echo "🔒 PRE-PUSH SYNC CHECK"
+echo "================================================"
+
+BRANCH=$(git branch --show-current)
+if [[ -z "$BRANCH" ]]; then
+  echo "⚠️  Detached HEAD — skipping sync check."
+  exit 0
+fi
+
+echo "Branch: $BRANCH → $REMOTE_NAME"
+
+# Fetch quietly so we know origin state
+if ! git fetch --quiet "$REMOTE_NAME" "$BRANCH" 2>/dev/null; then
+  echo "⚠️  Could not fetch $REMOTE_NAME/$BRANCH (new branch?). Letting push proceed."
+  exit 0
+fi
+
+LOCAL=$(git rev-parse HEAD 2>/dev/null || echo "")
+REMOTE=$(git rev-parse "$REMOTE_NAME/$BRANCH" 2>/dev/null || echo "")
+
+if [[ -z "$REMOTE" ]]; then
+  echo "ℹ️  No remote ref yet (first push of $BRANCH). Letting push proceed."
+  exit 0
+fi
+
+if [[ "$LOCAL" == "$REMOTE" ]]; then
+  echo "✅ Local matches remote — push will be no-op."
+  exit 0
+fi
+
+BASE=$(git merge-base HEAD "$REMOTE_NAME/$BRANCH" 2>/dev/null || echo "")
+
+if [[ "$REMOTE" == "$BASE" ]]; then
+  # Remote is at/before our base — straight fast-forward push, allowed.
+  AHEAD=$(git rev-list --count "$BASE..HEAD")
+  echo "✅ Local is ahead by $AHEAD commit(s), remote unchanged. Push allowed."
+  echo "================================================"
+  exit 0
+fi
+
+# Remote has commits we don't have → diverged or behind
+BEHIND=$(git rev-list --count "$BASE..$REMOTE_NAME/$BRANCH")
+AHEAD=$(git rev-list --count "$BASE..HEAD")
+
+echo ""
+echo "🚨 PUSH BLOCKED — Remote $REMOTE_NAME/$BRANCH has $BEHIND commit(s) you don't have."
+if [[ "$AHEAD" -gt 0 ]]; then
+  echo "    You also have $AHEAD local commit(s) → branches have DIVERGED."
+fi
+echo ""
+echo "    Cause: another device pushed while you worked (multi-device scenario)."
+echo ""
+echo "    Fix (recommended — atomic + linear history):"
+echo "      bash scripts/safe_push.sh"
+echo ""
+echo "    Alternative (manual):"
+echo "      git pull --rebase origin $BRANCH"
+echo "      git push"
+echo ""
+echo "    Bypass (only if you know what you're doing):"
+echo "      git push --no-verify"
+echo "================================================"
+exit 1

@@ -266,6 +266,43 @@ LEDGER_COUNT=$(grep -cE "^<summary><b>F\.[0-9]+" cache/FAILURE_LEDGER.md 2>/dev/
 check_grep "v1\.3"           UNIVERSAL_SOP_PROMPT.md "UNIVERSAL_SOP_PROMPT version is v1.3 (NOT v3.9.2)"
 check_grep "16 SubSOPs"      UNIVERSAL_SOP_PROMPT.md "16 SubSOPs claimed (NOT 32 D-rules)"
 
+# === 13. MULTI-DEVICE SYNC STATE (F.18) ===
+[[ $QUIET -eq 0 ]] && echo ""
+[[ $QUIET -eq 0 ]] && echo "📡 MULTI-DEVICE SYNC STATE (F.18)"
+
+# Check pre-push hook installed
+check_executable ".githooks/pre-push" "pre-push hook (F.18 — blocks push if origin ahead)"
+check_executable "scripts/safe_push.sh" "safe_push.sh (F.18 — atomic fetch+rebase+push wrapper)"
+
+# Check sync state with remote (best-effort: skip if offline)
+CURRENT_BRANCH=$(git branch --show-current 2>/dev/null || echo "")
+if [[ -n "$CURRENT_BRANCH" ]] && git fetch --quiet origin "$CURRENT_BRANCH" 2>/dev/null; then
+  LOCAL_SHA=$(git rev-parse HEAD 2>/dev/null || echo "")
+  REMOTE_SHA=$(git rev-parse "origin/$CURRENT_BRANCH" 2>/dev/null || echo "")
+  BASE_SHA=$(git merge-base HEAD "origin/$CURRENT_BRANCH" 2>/dev/null || echo "")
+
+  if [[ -z "$REMOTE_SHA" ]]; then
+    [[ $QUIET -eq 0 ]] && echo "  ℹ️  No origin/$CURRENT_BRANCH yet (first push)"
+  elif [[ "$LOCAL_SHA" == "$REMOTE_SHA" ]]; then
+    [[ $QUIET -eq 0 ]] && echo "  ✅ Local in sync with origin/$CURRENT_BRANCH"
+    PASS=$((PASS+1))
+  elif [[ "$LOCAL_SHA" == "$BASE_SHA" ]]; then
+    BEHIND=$(git rev-list --count "$BASE_SHA..origin/$CURRENT_BRANCH")
+    [[ $QUIET -eq 0 ]] && echo "  ⚠️  BEHIND origin/$CURRENT_BRANCH by $BEHIND commit(s) — run: git pull --ff-only"
+    WARN=$((WARN+1))
+  elif [[ "$REMOTE_SHA" == "$BASE_SHA" ]]; then
+    AHEAD=$(git rev-list --count "$BASE_SHA..HEAD")
+    [[ $QUIET -eq 0 ]] && echo "  ℹ️  AHEAD of origin/$CURRENT_BRANCH by $AHEAD commit(s) (local-only work)"
+  else
+    BEHIND=$(git rev-list --count "$BASE_SHA..origin/$CURRENT_BRANCH")
+    AHEAD=$(git rev-list --count "$BASE_SHA..HEAD")
+    [[ $QUIET -eq 0 ]] && echo "  ⚠️  DIVERGED: ahead $AHEAD, behind $BEHIND — run: bash scripts/safe_push.sh"
+    WARN=$((WARN+1))
+  fi
+else
+  [[ $QUIET -eq 0 ]] && echo "  ℹ️  Offline or fetch failed — skipping sync check"
+fi
+
 # === SUMMARY ===
 [[ $QUIET -eq 0 ]] && cat <<SUMMARY
 

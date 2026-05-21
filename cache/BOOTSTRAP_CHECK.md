@@ -24,7 +24,7 @@ Result: every Claude session opens with a literal `[OK]`-style boot sequence pro
 bash scripts/bootstrap_verify.sh
 ```
 
-This runs **67 mechanical checks** across 11 categories and prints a filled-in checklist. Exit code: `0` if all pass, `1` if any fail.
+This runs **70 mechanical checks** across 12 categories (11 + multi-device sync) and prints a filled-in checklist. Exit code: `0` if all pass, `1` if any fail.
 
 ### Step B — Surface the output in STEP 2
 
@@ -37,9 +37,9 @@ Do NOT proceed to user task until either:
 
 ---
 
-## 📋 THE 12-SECTION BOOT-UP CHECKLIST (Spec)
+## 📋 THE 13-SECTION BOOT-UP CHECKLIST (Spec)
 
-Every check below is verified at session start. Sections 1–11 are **mechanical** (script-driven). Section 12 is **conceptual** (AI fills in from cache reads).
+Every check below is verified at session start. Sections 1–11 + 13 are **mechanical** (script-driven). Section 12 is **conceptual** (AI fills in from cache reads).
 
 ---
 
@@ -210,6 +210,25 @@ Compensates for stale `claudeMd` injection (the harness may show v3.9.2 / 32 D-r
 |:--:|-------|----------|
 | [ ] | UNIVERSAL_SOP_PROMPT.md contains "v1.3" | ✓ |
 | [ ] | UNIVERSAL_SOP_PROMPT.md contains "16 SubSOPs" | ✓ |
+
+---
+
+### 📡 Section 13 — Multi-Device Sync State (F.18, 3 checks)
+
+Catches the multi-device coordination case where another device pushed during your work. Without this section, you discover the divergence at push time (with a rejected push that requires manual rebase).
+
+| ✅ | Check | How Verified | Why |
+|:--:|-------|--------------|-----|
+| [ ] | `.githooks/pre-push` installed + executable | File check | Mechanical block on push when origin ahead — prevents rejected push (F.18) |
+| [ ] | `scripts/safe_push.sh` installed + executable | File check | Atomic fetch + rebase + push wrapper — handles divergence cleanly |
+| [ ] | Local sync state vs `origin/$BRANCH` | `git fetch && git rev-parse` | Reports: ✅ in sync / ⚠️ behind / ℹ️ ahead / ⚠️ diverged. Catches divergence at boot when cheapest. |
+
+**Why:** Plain `git push` rejects on non-fast-forward, leaving you to manually rebase mid-session. F.18 fix installs three layers:
+1. **Boot detection** (this section) — warn at session start if behind/diverged
+2. **Pre-push hook** — mechanical block if origin moved while you worked
+3. **safe_push.sh** — atomic wrapper that fetches + rebases + pushes in one command
+
+**Note on offline:** if `git fetch` fails (no network), the sync check skips silently. Other checks still run. Bootstrap does NOT fail on offline state.
 
 ---
 
