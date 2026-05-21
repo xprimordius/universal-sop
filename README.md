@@ -7,11 +7,29 @@
 
 ---
 
+## 🚀 NEW DEVICE / NEW CHAT? START HERE → [`MASTER_CONTINUATION_PROMPT.md`](./MASTER_CONTINUATION_PROMPT.md)
+
+**One file. One paste. Full fidelity.**
+
+If you're on a new laptop, a new Claude Code session, or a fresh Claude.ai chat — that file has the SINGLE paste-ready prompt that resumes everything: cache state, prior reasoning, mandatory rules, current goals, and active failure patterns. **Do not improvise. Use the master prompt.**
+
+```bash
+# 90-second setup on any new device:
+brew install gh && gh auth login
+gh repo clone xprimordius/universal-sop
+cd universal-sop
+bash scripts/setup_device.sh
+claude    # then paste the prompt from MASTER_CONTINUATION_PROMPT.md
+```
+
+---
+
 ## 🚪 ENTRY POINTS — Read These First
 
 | 👤 If you are… | 📖 Start here |
 |---------------|--------------|
-| 🤖 **A Claude Code session resuming work** | [`SESSION_START.md`](./SESSION_START.md) ← MUST READ FIRST |
+| 🚀 **Resuming on a NEW device or NEW chat** | [`MASTER_CONTINUATION_PROMPT.md`](./MASTER_CONTINUATION_PROMPT.md) ← ONE paste, full fidelity |
+| 🤖 **A Claude Code session resuming work (same device)** | [`SESSION_START.md`](./SESSION_START.md) ← MUST READ FIRST |
 | 👨‍💼 **Alan (returning to the project)** | [`SESSION_START.md`](./SESSION_START.md) for current state, then your priority work |
 | 🧑‍💻 **An external Claude.ai chat consulting on this project** | [`CONSULTING_BRIEF.md`](./CONSULTING_BRIEF.md) |
 | 👋 **A new team member** | [`NEW_HIRE_GUIDE.md`](./NEW_HIRE_GUIDE.md) |
