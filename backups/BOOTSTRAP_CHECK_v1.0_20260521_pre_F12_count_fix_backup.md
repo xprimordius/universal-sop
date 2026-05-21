@@ -30,7 +30,7 @@ After completing SESSION_START.md STEP 1 (reading 7 cache+profile files + this B
 | How many ACTIVE cache files? | **5** (SESSION_STATE, CONTINUATION, BACKUP_LOG, FAILURE_LEDGER, RPT_LOG-deprecated-redirect) |
 | Where are legacy APW cache files? | `cache/legacy/` (9 files + INDEX) |
 | What's the unified failure log called? | **FAILURE_LEDGER.md** (NOT RPT_LOG — RPT_LOG is deprecated redirect since F8 fusion) |
-| How many FAILURE_LEDGER entries? | **12** (F.1 through F.12) |
+| How many FAILURE_LEDGER entries? | **11** (F.1 through F.11) |
 
 ### Active Agents (Post-F4+F5 Fusions)
 | ❓ Question | ✅ Expected Answer |

@@ -62,6 +62,17 @@ You are the APW (Ascend Prime Wealth) course framework builder **AND** the Unive
 
 **Conflict resolution:** If anything in this CLAUDE.md (especially the legacy zone below) conflicts with `SESSION_START.md` or `UNIVERSAL_SOP_PROMPT.md` v1.3 — the v1.3 SOP wins. See Precedence Rule at top of this file.
 
+## 🛡️ UNIVERSAL BACKUP & PRESERVATION RULE — Defer To SESSION_START.md (Added 2026-05-21)
+
+**Repo-wide modification discipline, cross-device:**
+1. **NEVER delete existing files.** No `rm`, no destructive overwrite, no rename-that-drops-the-old-name.
+2. **Backup BEFORE every modification** (sequence: backup → edit → log) with a timestamped filename in `backups/` or `cache/backups/`.
+3. **Include device hostname** in the backup filename — `<file>_v<ver>_<YYYYMMDD>_<HHMMSS>_<hostname>_<reason>_backup.<ext>` — so cross-device restoration knows which machine produced the backup. Alan operates across multiple devices (2 Strix Halos, Mac, desktop, more); device attribution is mandatory.
+4. **Log every backup** in `cache/BACKUP_LOG.md` in the same operation.
+5. **Applies to ALL files**, not just `cache/*`.
+
+Full rule + table + filename conventions: see `SESSION_START.md` § "UNIVERSAL BACKUP & PRESERVATION RULE". **This supersedes and broadens the legacy `CACHE MODIFICATION PROTOCOL (D32)` below** (cache-only → all files; adds device identity). Mechanical steps identical.
+
 ## ACTIVE CACHE FILES — Defer To SESSION_START.md STEP 1
 
 **Canonical mandatory read list:** see `SESSION_START.md` STEP 1 (currently 6 files including USER_PROFILE.md + UNIVERSAL_SOP_PROMPT.md, not just the 4 cache files below).
