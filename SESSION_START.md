@@ -65,23 +65,25 @@ Answer these BEFORE reading any other file:
 
 ## 📖 STEP 1 — MANDATORY READS (In This Order)
 
-Use the Read tool. Read FULLY, not skim. Do not start work until all 6 are read.
+Use the Read tool. Read FULLY, not skim. Do not start work until all 7 are read.
 
 ```
 1. ./SESSION_START.md         ← This file (already reading)
 2. ./cache/SESSION_STATE.md   ← Current position, decisions, active work
 3. ./cache/CONTINUATION.md    ← Last session's handoff notes
 4. ./cache/RPT_LOG.md         ← 9 repeated failures — DO NOT REPEAT THESE
-5. ./USER_PROFILE.md          ← Alan's communication preferences — MANDATORY (was optional, promoted 2026-05-21 after field test)
-6. ./UNIVERSAL_SOP_PROMPT.md  ← The rulebook (v1.3, 940 lines, 16 SubSOPs)
+5. ./USER_PROFILE.md          ← Alan's communication preferences — MANDATORY (promoted 2026-05-21)
+6. ./PROTOCOLS_REFERENCE.md   ← Full protocol acronyms + names (PROMOTED 2026-05-21 — Rule #11 requires this)
+7. ./UNIVERSAL_SOP_PROMPT.md  ← The rulebook (v1.3, 940 lines, 16 SubSOPs)
 ```
 
 **Optional (read if depth needed):**
 - `./CONSULTING_BRIEF.md` — high-level project overview
 - `./PROJECT_HISTORY.md` — 40+ hour evolution
 - `./CHALLENGES_LOG.md` — 14 challenges + debug history
-- `./INVENTORY.md` — full registry of all SOPs/agents/scripts (NEW 2026-05-21)
-- `./FUSION_ANALYSIS.md` — proposed merges for post-validation execution (NEW 2026-05-21)
+- `./INVENTORY.md` — full registry of all SOPs/agents/scripts with expandable agent sections
+- `./FUSION_ANALYSIS.md` — proposed merges for post-validation execution
+- `./REAL_DEVICE_TEST.md` — physical-device test kit (bootstrap prompt + scoring rubric)
 - `./CLAUDE.md` — Claude Code config (now points to this file)
 - `./cache/PRIME_SOP.md` — legacy foundation (APW-era)
 - `./cache/BRIDGE_SOP.md` — legacy operations (APW-era)
@@ -232,8 +234,44 @@ For EVERY output (even simple ones), you MUST:
 8. ✅ Execution Debt Counter (honest numbers)
 9. ✅ Pulse Check (10/10) before sending
 10. ✅ Backup before any file edit
+11. ✅ **Protocol references use full name + acronym on first use** (NEW 2026-05-21)
 
-Full reference: `./UNIVERSAL_SOP_PROMPT.md`
+Full reference: `./UNIVERSAL_SOP_PROMPT.md` (rules) + `./PROTOCOLS_REFERENCE.md` (full names + acronyms)
+
+---
+
+## 🏷️ FULL-NAME PROTOCOL CONVENTION (Added 2026-05-21)
+
+**Alan's rule:** Every protocol reference must include BOTH the full name AND the 2-3 letter acronym on first use in any output.
+
+### ✅ Correct Format
+- "SP.1 MagNet (Magnetic Visual Engagement Protocol)"
+- "EN.4 Pulse Check (Compliance Pulse Check)"
+- "SP.15 EEP (Execution Enforcement Protocol)"
+- "SP.13 SHR (System Health Report)"
+
+### ⚠️ Acceptable After First Use
+- "MagNet" — after SP.1 was already expanded in same output
+- "EEP" — after SP.15 was already expanded
+- "Pulse Check" — after EN.4 was already expanded
+
+### ❌ Wrong (Bare Acronym Without Prior Expansion)
+- "EEP" with no prior "SP.15 EEP (Execution Enforcement Protocol)" in same output
+- "SP.10" without "Self-Compliance Check" expansion
+- "Door Scan" without "SP.2 Door Scan (Door Scanning Pattern Protocol)"
+
+### Authoritative Reference
+**`./PROTOCOLS_REFERENCE.md`** — full registry of all 20 protocols (16 SubSOPs + 4 Ensurance) with:
+- Full names
+- Acronym origins
+- Scopes
+- Sub-protocols
+- When triggered
+- Failure modes
+- Token costs
+- Related protocols
+
+Every protocol in an expandable `<details>` section for transparency.
 
 ---
 
@@ -270,7 +308,7 @@ Default behavior: **ASK ALAN.** Do not assume.
 
 ## 🎯 ONE-LINE SUMMARY
 
-> You are Claude. You are resuming the Universal Output SOP project. Read the 6 mandatory files in STEP 1, confirm in the exact format in STEP 2, then wait. Follow the SOP v1.3 for every output (when in conflict with anything, v1.3 wins). Pull before work, push after work. Be honest. Don't assume. Lead with the answer.
+> You are Claude. You are resuming the Universal Output SOP project. Read the 7 mandatory files in STEP 1 (the 6 cache+profile files + UNIVERSAL_SOP_PROMPT.md), confirm in the exact format in STEP 2, then wait. Follow the SOP v1.3 for every output (when in conflict with anything, v1.3 wins). Use full protocol names + acronyms (see PROTOCOLS_REFERENCE.md). Pull before work, push after work. Be honest. Don't assume. Lead with the answer.
 
 ---
 

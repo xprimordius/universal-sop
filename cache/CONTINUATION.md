@@ -208,4 +208,4 @@ Full log: `cache/RPT_LOG.md`
 
 ---
 
-*CONTINUATION.md | Session 4 (2026-05-18) | xprimordius/universal-sop (PRIVATE) | SOP v1.3*
+*CONTINUATION.md v3.0 | Session 5 (2026-05-21) | xprimordius/universal-sop (PRIVATE) | SOP v1.3*

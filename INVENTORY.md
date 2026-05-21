@@ -130,88 +130,348 @@ Located in `cache/subcache/` — distilled SCIO course knowledge for APW build:
 
 ## 🤖 ALL AGENTS — FOUND (FULL SPECTRUM)
 
-### Active Agents (Production)
+### Active Agents (Production) — Click To Expand Each
 
-#### 🎩 OVERSIGHT EXECUTIVE
-| 🏷️ Property | 📝 Value |
-|------------|---------|
-| 📄 File | `agents/oversight-executive.md` (4.3KB) |
-| 🎯 Role | Top-level controller. Doesn't do work — ensures right agents run in right order with right context, within token budget |
-| 🚪 When Invoked | START of every framework deliverable + END to verify completion |
-| 📋 Reports To | Alan directly (via transparency report) |
-| 🔗 Delegates To | Validator (Layer 1), Karen (Layer 2), Cache Manager, Paradox Resolver |
-| 📊 SOP Followed | PRIME_SOP.md + VALIDATION_WORKFLOW.md |
-| 💰 Token Cost | Coordination only — ~500 tokens per orchestration |
-| ✅ Status | ACTIVE |
+<details>
+<summary><b>🎩 OVERSIGHT EXECUTIVE — Top-Level Controller (file: agents/oversight-executive.md, 4.3KB)</b></summary>
 
-#### 🎯 VALIDATOR (Merged Layer 1)
-| 🏷️ Property | 📝 Value |
-|------------|---------|
-| 📄 File | `agents/validator-merged.md` (3.8KB) |
-| 🎯 Role | Unified Layer 1 — combines 4 original agents (Jenny + Deliverable Validator + Simplicity Filter + SOP Compliance Checker) into one pass |
-| 🚪 When Invoked | EVERY framework output (per VALIDATION_WORKFLOW) |
-| 📋 Checks | A) POVP word-by-word spec verification, B) Completeness, C) Simplicity (D7), D) Process compliance, E) Cross-reference |
-| 📊 SOP Followed | PRIME_SOP D-rules (D1, D3, D7, D8, D9, D10, D11, D12, D14, D15, D17, D20, D23, D24) |
-| 💰 Token Cost | ~5,000 tokens per validation |
-| 🔗 Reports To | Karen (Layer 2) and Oversight Executive |
-| ✅ Status | ACTIVE — **fusion of 4 original agents** |
+#### Full Name
+**Oversight Executive — APW Top-Level Controller**
 
-#### 🪞 KAREN — Reality Check (Layer 2)
-| 🏷️ Property | 📝 Value |
-|------------|---------|
-| 📄 File | `agents/karen-reality-check.md` (3.2KB) |
-| 🎯 Role | Audits the auditors. Checks WHETHER Layer 1 actually did its job, or rubber-stamped. |
-| 🚪 When Invoked | AFTER Layer 1 passes, on EVERY major framework deliverable |
-| 📋 Checks | 1) Did Layer 1 actually verify? 2) Did builder miss things Alan addressed? 3) Is it actually done? 4) Would Alan be frustrated? |
-| 📊 SOP Followed | Anti-rubber-stamp — independent verification, reads cache files herself, FULL audit always |
-| 💰 Token Cost | ~7,500 tokens per audit |
-| 🔗 Reports To | Oversight Executive |
-| ✅ Status | ACTIVE — **last gate before Alan sees output** |
+#### Role
+The executive controller. Does NOT do work itself — ensures the right agents run in the right order with the right context, within token budget.
 
-#### 💾 CACHE MANAGER — Data Integrity
-| 🏷️ Property | 📝 Value |
-|------------|---------|
-| 📄 File | `agents/cache-manager.md` (4KB) |
-| 🎯 Role | Maintains cache integrity — updates, backups, prevention, repair, token tracking |
-| 🚪 When Invoked | Session start (mandatory) + after every locked decision + after every framework deliverable + on budget threshold + on suspected corruption |
-| 📋 Checks | Cache existence, timestamps, cross-cache consistency, staleness, completeness |
-| 📊 SOP Followed | D25 (Session Start), D28 (Cache Update), D32 (Backup) |
-| 💰 Token Cost | ~2,000-3,000 tokens per integrity check |
-| 🔗 Reports To | Oversight Executive |
-| ✅ Status | ACTIVE — **replaces 4 originally proposed agents** |
+#### When Invoked
+- START of every framework deliverable sequence
+- END of every framework deliverable to verify completion
 
-#### ⚖️ PARADOX RESOLVER — Deep Analysis
-| 🏷️ Property | 📝 Value |
-|------------|---------|
-| 📄 File | `agents/paradox-resolver.md` (2KB) |
-| 🎯 Role | Resolves tensions between SCIO principles and APW framework. Deep analysis, not surface-flagging. |
-| 🚪 When Invoked | **ON-DEMAND ONLY** — when SCIO/APW tension detected. Rare. |
-| 📋 Process | Define tension → analyze both sides → check prior resolutions → propose resolution → classify (RESOLVED / RESOLVED WITH TRADE-OFF / FUNDAMENTAL) |
-| 📊 SOP Followed | Cites SCIO principle numbers + APW elements specifically |
-| 💰 Token Cost | ~5,000 tokens per resolution |
-| 🔗 Reports To | Oversight Executive + Alan (Alan decides on FUNDAMENTAL conflicts) |
-| ✅ Status | ACTIVE — but rarely fires |
+#### Detailed Process
+| 🆔 | 🏷️ Phase | 📝 Action |
+|:---:|---------|----------|
+| OE.1 | Context Verification | Are all 6 cache files loaded? Versions current? |
+| OE.2 | Task Scoping | What's being delivered? What D-rules/protocols apply? |
+| OE.3 | Token Budget Check | Current usage + estimated cost — will we hit YELLOW (108K)? |
+| OE.4 | Agent Delegation | Assign Validator → Karen → Cache Manager → (Resolver if tension) |
+| OE.5 | Delivery Verification | Did Validator + Karen run? All failures fixed? |
+| OE.6 | Cache Update Check | Any state changes need recording? |
+| OE.7 | Token Budget Update | Log estimated tokens used + update cumulative |
+| OE.8 | Transparency Report | Produce report for Alan |
 
-#### 🔍 JENNY — SOP Spec Verifier (Standalone)
-| 🏷️ Property | 📝 Value |
-|------------|---------|
-| 📄 File | `agents/jenny-sop-verifier.md` (3.2KB) |
-| 🎯 Role | Externalized POVP protocol (D19). Word-by-word verification against SOP v3.8+ |
-| 🚪 When Invoked | When Validator-Merged needs decomposing — basically a fallback or specialized invocation |
-| ⚠️ Overlap | **Merged into validator-merged.md as section A.** Standalone use is rare. |
-| 📊 SOP Followed | All 32 D-rules + APW prompt items |
-| 💰 Token Cost | ~4,000 tokens |
-| ✅ Status | ACTIVE — but redundant with Validator (Jenny was the original; Validator absorbed her role) |
+#### Output Format
+```
+═══ OPERATION COMPLETE ═══
+Deliverable: [name]
+Validator: [PASS/FAIL] — [X rules, Y passed, Z failed→fixed]
+Karen: [APPROVED/REJECTED]
+Token Usage: ~[X]K this op / ~[Y]K cumulative / ~[Z]K remaining
+Cache Updates: [list or "None needed"]
+Next Step: [from BUILD_STATE_CACHE]
+═══════════════════════════
+```
+
+#### Hierarchy
+```
+OVERSIGHT EXECUTIVE (this)
+    │
+    ├── VALIDATOR-MERGED (Layer 1)
+    ├── KAREN (Layer 2)
+    ├── CACHE MANAGER (state integrity)
+    └── PARADOX RESOLVER (on-demand)
+```
+
+#### SOP Followed
+PRIME_SOP.md + VALIDATION_WORKFLOW.md + Universal SOP v1.3
+
+#### Token Cost
+~500 tokens per orchestration (coordination only, no content work)
+
+#### Reports To
+Alan directly via transparency report
+
+#### Status
+✅ ACTIVE — proposed for fusion with Cache Manager (F4 in FUSION_ANALYSIS.md)
+
+</details>
+
+<details>
+<summary><b>🎯 VALIDATOR-MERGED — Layer 1 Single-Pass (file: agents/validator-merged.md, 3.8KB)</b></summary>
+
+#### Full Name
+**VALIDATOR — APW Merged Layer 1 Agent (Combines Jenny + Deliverable Validator + Simplicity Filter + SOP Compliance)**
+
+#### Role
+Unified Layer 1 validation. Performs ALL content + compliance checks in a single pass. Replaces 4 separate agents to conserve tokens while maintaining full coverage.
+
+#### When Invoked
+EVERY framework output per VALIDATION_WORKFLOW.md
+
+#### The Single-Pass Checklist (5 Sections)
+
+##### A. POVP — Word-by-Word Spec Verification
+- Identify output type (module list, lesson list, classroom map, SOP update)
+- Pull ALL relevant D-rules from cache
+- For each: read exact rule text → compare to output → PASS/FAIL with evidence
+- Check against locked decisions in MASTER_CACHE + USER_FOUNDATION_CACHE
+
+##### B. COMPLETENESS — Deliverable Verification
+- Module List: correct count, sequencing, path/phase assignments, source doc traces (D15)
+- Lesson List: format types (WHY/WHAT/HOW), DFY callout (D10), win (D8), checklist (D9), Sarah Turner 5-part (D17)
+- Classroom Map: all 8 listed, REQUIRED vs OPTIONAL, Classroom 3 routing (D11)
+- SOP Update: both version numbers (D24), changes listed
+
+##### C. SIMPLICITY — D7 Filter
+- Would a 5th grader understand?
+- Jargon without explanation?
+- Cognitive load: LOW/MEDIUM/HIGH (target LOW)
+- Path choices clear?
+
+##### D. PROCESS COMPLIANCE
+- D1: Single deliverable only?
+- D3/D13: Optimization cycle present?
+- D20: Real-time checklist displayed?
+- D23/D24: Version numbers for SOP updates?
+
+##### E. CROSS-REFERENCE
+- Aligns with PROGRAM_DETAILS_CACHE?
+- Respects locked decisions in MASTER_CACHE?
+- Honors USER_FOUNDATION_CACHE preferences?
+- Compatible with SCIO_KNOWLEDGE_CACHE principles?
+
+#### Output Format
+```
+## VALIDATOR REPORT — [Output Name]
+### A. POVP: [PASS/FAIL per rule with evidence]
+### B. COMPLETENESS: [present/missing per element]
+### C. SIMPLICITY: [CLEAR/NEEDS WORK/CONFUSING]
+### D. PROCESS: [D1/D3/D13/D20 PASS/FAIL]
+### E. CROSS-REFERENCE: [ALIGNED/CONFLICT per cache]
+### VERDICT: [ALL PASS / FAILURES FOUND]
+### Required Fixes: [list]
+### Token Cost: ~[X] tokens
+```
+
+#### SOP Followed
+PRIME_SOP D-rules (D1, D3, D7, D8, D9, D10, D11, D12, D14, D15, D17, D20, D23, D24)
+
+#### Token Cost
+~5,000 tokens per validation
+
+#### Reports To
+Karen (Layer 2) and Oversight Executive
+
+#### Status
+✅ ACTIVE — fusion of 4 original agents (Jenny + Deliverable Validator + Simplicity Filter + SOP Compliance Checker). Saved ~12K tokens per validation.
+
+</details>
+
+<details>
+<summary><b>🪞 KAREN — Reality Check Layer 2 (file: agents/karen-reality-check.md, 3.2KB)</b></summary>
+
+#### Full Name
+**KAREN — APW Reality Check Agent (Layer 2 Validator — Audits The Auditors)**
+
+#### Role
+The unflinching reality-check agent. NOT here to check compliance — Layer 1 does that. Karen's job: check WHETHER LAYER 1 ACTUALLY DID ITS JOB, or rubber-stamped.
+
+Exists because ERR-1 through ERR-4 in the Error Log were all rubber-stamp failures. Karen = the anti-rubber-stamp.
+
+#### When Invoked
+AFTER Layer 1 passes, on EVERY major framework deliverable. Last gate before Alan sees output.
+
+#### What She Checks
+
+##### 1. Did Layer 1 Actually Verify, Or Just Claim To?
+- Read Layer 1's POVP checklist
+- For EACH "PASS" claim, independently verify
+- If Layer 1 says "D7 Simplicity PASS" → Karen reads output and asks "would a 5th grader actually understand this?"
+- If Layer 1 says "D10 DFY callout PASS" → Karen searches output for actual DFY callout
+- **Trust nothing. Verify everything.**
+
+##### 2. Did The Builder Miss Things Alan Already Addressed?
+- Cross-reference USER_FOUNDATION_CACHE
+- Does output contradict Alan's explicit decisions?
+- Does output re-propose something Alan rejected?
+- Does output fail to incorporate something Alan confirmed?
+
+##### 3. Is This Actually Done?
+- Builder says "delivered" — but is it complete?
+- Gaps, placeholders, or "TBD" items hiding?
+- Does output actually contain everything it claims?
+
+##### 4. Would Alan Be Frustrated?
+- Too wordy? (Alan's #1 trigger)
+- Missing facts he provided?
+- Asking questions he answered?
+- Flagging problems without proposed solutions?
+- Copy-paste ready if it should be?
+
+#### Output Format
+```
+## KAREN REALITY CHECK
+### Layer 1 Audit: [VERIFIED / RUBBER-STAMPED] per item with evidence
+### Alan Alignment: [PASS / FAIL] with violations
+### Completeness: [COMPLETE / INCOMPLETE] with gaps
+### Alan Frustration Risk: [LOW / MEDIUM / HIGH] with triggers
+### VERDICT: [APPROVED / REJECTED — FIX REQUIRED]
+```
+
+#### Critical Rules
+1. Last gate before Alan. Take seriously.
+2. If uncertain, err on REJECTED side.
+3. **ALWAYS read cache files independently.** Never trust builder summary.
+4. Does NOT make changes — flags what's wrong. Builder fixes.
+5. **FULL AUDIT ALWAYS** — no spot-checking. 100% coverage every time.
+6. If builder skipped Layer 1, AUTOMATIC REJECTED.
+
+#### Token Cost
+~7,500 tokens per audit
+
+#### Status
+✅ ACTIVE — **CANNOT be fused with Validator-Merged** (F3 in FUSION_ANALYSIS.md was REJECTED — same brain can't audit itself)
+
+</details>
+
+<details>
+<summary><b>💾 CACHE MANAGER — Data Integrity (file: agents/cache-manager.md, 4KB)</b></summary>
+
+#### Full Name
+**CACHE MANAGER — APW Data Integrity Agent (Handles: Updates, Backups, Break Prevention, Repair, Token Tracking)**
+
+#### Role
+Maintains integrity of the entire cache system. One agent replaces 4 originally proposed.
+
+#### Responsibilities
+1. **Updates** — Keep cache files current after every decision/deliverable
+2. **Backup Verification** — Cache files on disk ARE the backup; verify they're written correctly
+3. **Prevention** — Detect stale/conflicting data before errors
+4. **Repair** — Fix cache issues when detected
+5. **Token Tracking** — Log usage and alert on budget thresholds
+
+#### When Invoked
+
+##### Session Start (Mandatory)
+- Verify all cache files exist + readable
+- Check timestamps — flag anything older than current session
+- Cross-check files against each other for contradictions
+- Report integrity to Oversight Executive
+
+##### After Every Locked Decision
+- Update relevant cache file(s)
+- Increment cache version stamp
+- Update BUILD_STATE_CACHE with current position
+- Log in TOKEN_BUDGET_LOG
+
+##### After Every Framework Deliverable
+- Update BUILD_STATE_CACHE (delivered + next)
+- Update TOKEN_BUDGET_LOG with operation cost
+- If SOP changed → update APW_MASTER_CACHE
+- If SCIO knowledge added → update SCIO_KNOWLEDGE_CACHE
+
+##### On Budget Threshold Alert
+- YELLOW (108K): Log alert, abbreviated validation
+- RED (130K): Checkpoint NOW, cache all state
+- CRITICAL (>141K theoretical): STOP work, emergency dump
+
+##### On Suspected Data Corruption
+- Compare cache against source of truth (SOP JS file)
+- Identify discrepancy
+- Fix by rebuilding from source
+- Log incident
+
+#### Integrity Checks
+
+##### Cross-Cache Consistency
+- Does MODULE 4.1 in PROGRAM_DETAILS match BUILD_STATE?
+- Do locked decisions in MASTER_CACHE match USER_FOUNDATION?
+- Do SCIO principles align with paradox resolutions?
+- Are version numbers consistent?
+
+##### Staleness Detection
+- Cache not updated in 3+ deliverables → flag
+- BUILD_STATE says "Step 4" but MASTER_CACHE says "Step 3" → conflict
+
+##### Completeness Check
+- Every locked decision in 2+ caches (Master + relevant sub)
+- Every paradox resolution in both SCIO_CACHE and MASTER_CACHE
+- Every module/lesson in both PROGRAM_DETAILS and BUILD_STATE
+
+#### Output Format
+```
+## CACHE MANAGER REPORT
+### Integrity Status: [HEALTHY / WARNING / CORRUPTED]
+### File Status: [table per cache file]
+### Cross-Cache Consistency: [CONSISTENT / CONFLICTS]
+### Token Budget: estimated used, remaining, status
+### Updates Applied: [list]
+### Issues Found: [list]
+```
+
+#### SOP Followed
+D25 (Session Start), D28 (Cache Update), D32 (Backup)
+
+#### Token Cost
+~2,000-3,000 tokens per integrity check
+
+#### Status
+✅ ACTIVE — **proposed for fusion with Oversight Executive (F4)** to save ~1.5K per orchestration
+
+</details>
+
+<details>
+<summary><b>⚖️ PARADOX RESOLVER — Deep Analysis (file: agents/paradox-resolver.md, 2KB)</b></summary>
+
+#### Full Name
+**PARADOX RESOLVER — APW Deep Analysis Agent**
+
+#### Role
+Specialized agent for resolving tensions between SCIO growth-partner teachings and APW course framework. Doesn't surface-flag — digs into root causes, models both sides, proposes specific resolutions with reasoning.
+
+#### When Invoked
+**ON-DEMAND ONLY** — when SCIO/APW tension detected. Rare in practice.
+
+#### Process
+| 🆔 | 🏷️ Step | 📝 Detail |
+|:---:|---------|----------|
+| PR.1 | Define the Tension | State exactly what SCIO says + cite specific principle. State exactly what APW does + cite specific element. Articulate why they appear to conflict. |
+| PR.2 | Analyze Both Sides | What is SCIO protecting against? What is APW trying to achieve? Is the conflict real or apparent? |
+| PR.3 | Check Prior Resolutions | Read SCIO_KNOWLEDGE_CACHE paradox resolutions. Has this been resolved before? Does prior resolution apply? |
+| PR.4 | Propose Resolution | If apparent: explain why not violation. If real: propose with trade-offs stated. ALWAYS propose, never just flag. |
+| PR.5 | Classify | RESOLVED / RESOLVED WITH TRADE-OFF / FUNDAMENTAL (Alan decides) |
+
+#### Critical Rules
+1. Always cite specific SCIO principle numbers + APW elements
+2. Always propose a resolution (Alan: "present proposed solutions when asking questions")
+3. Check USER_FOUNDATION_CACHE first — Alan may have already resolved
+4. Never re-propose something Alan rejected
+5. Consider COURSE CONTENT vs BUSINESS OPERATIONS distinction
+
+#### Token Cost
+~5,000 tokens per resolution
+
+#### Status
+✅ ACTIVE — but rarely fires (most current work is SOP, not course building)
+
+</details>
+
+
 
 ### Archived Agents (Folded Into Others)
 
-| 📄 File | 🎯 Original Role | 🔀 Merged Into |
-|---------|----------------|---------------|
-| `agents/archive/deliverable-validator.md` | Layer 1 — verifies deliverables are actually complete | → `validator-merged.md` Section B (Completeness) |
-| `agents/archive/simplicity-filter.md` | Layer 1 — D7 5th grader test | → `validator-merged.md` Section C (Simplicity) |
-| `agents/archive/sop-compliance-checker.md` | Layer 1 — checks output against 119 prompt items + 24 D-rules | → `validator-merged.md` Section A (POVP) |
+<details>
+<summary><b>Click to expand: 4 Archived Agents + Fusion History</b></summary>
 
-**Fusion record:** 4 separate Layer 1 agents → 1 Validator-Merged. Saved ~12,000 tokens per validation run.
+| 📄 File | 🎯 Original Role | 🔀 Merged Into | 📅 Archived |
+|---------|----------------|---------------|:-----------:|
+| `agents/archive/deliverable-validator.md` | Layer 1 — verifies deliverables are actually complete | → `validator-merged.md` Section B (Completeness) | Mar 14 |
+| `agents/archive/simplicity-filter.md` | Layer 1 — D7 5th grader test | → `validator-merged.md` Section C (Simplicity) | Mar 14 |
+| `agents/archive/sop-compliance-checker.md` | Layer 1 — checks output against 119 prompt items + 24 D-rules | → `validator-merged.md` Section A (POVP) | Mar 14 |
+| `agents/archive/jenny-sop-verifier.md` | Layer 1 — externalized POVP protocol (D19), word-by-word verification | → `validator-merged.md` Section A (POVP) — duplicate role | May 21 (F5) |
+
+#### Fusion Record
+- **March 14:** 4 separate Layer 1 agents → 1 Validator-Merged. Saved ~12,000 tokens per validation run.
+- **May 21:** Standalone Jenny archived (F5 fusion executed). Validator-Merged's Section A absorbs her role. Active agents: 5.
+
+</details>
 
 ### User-Uploaded Agent Concepts (Reference Only)
 

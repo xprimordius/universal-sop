@@ -38,3 +38,9 @@
 | 33 | 2026-05-21 | (in-place edit) | cache/SESSION_STATE.md | v1.4 | Deduped Open Decisions block (was duplicated) + added canonical NEXT ACTION line (FT3.2 + FT3.3 fix) | ✅ |
 | 34 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.2 | Fixed footer version (was still v1.0 in footer despite header v1.2) (FT3.4 fix) | ✅ |
 | 35 | 2026-05-21 | (in-place edit) | CLAUDE.md | v1.4 | "ACTIVE CACHE FILES" section now defers to SESSION_START STEP 1 as canonical (FT3.8 fix) | ✅ |
+| 36 | 2026-05-21 | — | PROTOCOLS_REFERENCE.md | v1.0 | New file — all 20 protocols (16 SubSOPs + 4 Ensurance) with full names + acronyms + expandable `<details>` sections for transparency | N/A (new file) |
+| 37 | 2026-05-21 | (in-place edit) | INVENTORY.md | v1.1 | All 5 active agents now in expandable `<details>` sections with full role/process/output format/SOPs/token cost | ✅ |
+| 38 | 2026-05-21 | (sub-agent test) | — | — | THIRD sub-agent validation — 8/10 friction (plateau confirmed), 7 new gaps (FT4.1-FT4.7), CRITICAL finding: harness-injected `claudeMd` block drifts from on-disk CLAUDE.md | ✅ documented |
+| 39 | 2026-05-21 | (in-place edit) | CLAUDE.md | v1.5 | Added prominent 🚨🚨🚨 STOP warning at TOP — explicit authority order + Auto Mode short-circuit (FT4.1 + FT4.4 fix) | ✅ |
+| 40 | 2026-05-21 | (in-place edit) | cache/CONTINUATION.md | v3.1 | Footer corrected: was "Session 4 (2026-05-18)", now "Session 5 (2026-05-21)" (FT4.2 fix) | ✅ |
+| 41 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.3 | PROTOCOLS_REFERENCE.md promoted from optional to MANDATORY STEP 1 read #6 (FT4.3 fix). Total mandatory: 7 files. Off-by-one updated. | ✅ |

@@ -57,6 +57,12 @@
 | 2026-05-21 | CLAUDE.md modernized — D25 points to 4 active cache files (was 8 legacy) | AI executed | Field test revealed CLAUDE.md was misleading fresh sessions with stale references |
 | 2026-05-21 | **VALIDATION FIELD TEST executed (simulated fresh AI)** | AI executed | Test result: 8 ✅ / 3 ⚠️ / 0 ❌ / 1 🧪 untested. Found 3 gaps (FT.1-FT.3) — all fixed in same output. |
 | 2026-05-21 | SESSION_START v1.1 — added USER_PROFILE to mandatory, Agent Roster, Tier Quick Guide | AI executed | Field test discovery fixes |
+| 2026-05-21 | **Built PROTOCOLS_REFERENCE.md** — all 20 protocols expanded with full names + `<details>` sections | Alan (rule: "full names + acronyms" + "expandable for transparency") | 16 SubSOPs + 4 Ensurance + LTM/CA/POVP/PFV legacy acronyms documented |
+| 2026-05-21 | INVENTORY.md updated — all 5 agents in `<details>` expandable sections | Alan (same rule) | Each agent: role, when invoked, process, output format, SOPs, token cost |
+| 2026-05-21 | THIRD sub-agent test — 8/10 friction (plateau confirmed) | AI executed | 7 new gaps (FT4.x). Critical finding: harness `claudeMd` drift |
+| 2026-05-21 | **CLAUDE.md v1.5** — added 🚨🚨🚨 STOP warning at TOP with authority order + Auto Mode short-circuit | AI executed | Compensates for harness-injected `claudeMd` staleness |
+| 2026-05-21 | PROTOCOLS_REFERENCE promoted to MANDATORY STEP 1 read | AI executed | Rule #11 (full names) effectively requires it |
+| 2026-05-21 | Convergence ceiling: 8/10 in-session | AI observed | Remaining gaps require Alan's harness update OR real device test |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
