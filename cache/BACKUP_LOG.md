@@ -33,3 +33,8 @@
 | 28 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.2 | Added Precedence Rule (1 SOP wins) + Auto Mode Resolution + off-by-one fix (5→6 files) | ✅ |
 | 29 | 2026-05-21 | (in-place edit) | cache/SESSION_STATE.md | v1.3 | POSITION block refreshed with field test results + sub-agent findings | ✅ |
 | 30 | 2026-05-21 | — | REAL_DEVICE_TEST.md | v1.0 | New file — physical-device test kit with bootstrap prompt + 10-output battery + EN.4 scoring rubric + decay watch | N/A (new file) |
+| 31 | 2026-05-21 | (sub-agent test) | — | — | Second sub-agent validation — 8/10 friction (up from 7/10), 7/9 previous fixes confirmed working, 8 new gaps surfaced (FT3.1-FT3.8) | ✅ documented |
+| 32 | 2026-05-21 | (in-place edit) | cache/CONTINUATION.md | v3.0 | Refreshed: added Session 5 block + canonical NEXT ACTION line + sub-agent test comparison table (FT3.1 fix) | ✅ |
+| 33 | 2026-05-21 | (in-place edit) | cache/SESSION_STATE.md | v1.4 | Deduped Open Decisions block (was duplicated) + added canonical NEXT ACTION line (FT3.2 + FT3.3 fix) | ✅ |
+| 34 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.2 | Fixed footer version (was still v1.0 in footer despite header v1.2) (FT3.4 fix) | ✅ |
+| 35 | 2026-05-21 | (in-place edit) | CLAUDE.md | v1.4 | "ACTIVE CACHE FILES" section now defers to SESSION_START STEP 1 as canonical (FT3.8 fix) | ✅ |

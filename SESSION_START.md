@@ -274,4 +274,4 @@ Default behavior: **ASK ALAN.** Do not assume.
 
 ---
 
-*SESSION_START.md v1.0 | Bootstrap file | Required reading | Project: xprimordius/universal-sop (PRIVATE)*
+*SESSION_START.md v1.2 | Bootstrap file | Required reading | Project: xprimordius/universal-sop (PRIVATE)*

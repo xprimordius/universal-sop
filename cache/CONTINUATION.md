@@ -1,11 +1,23 @@
 # CONTINUATION — Universal SOP / APW Project
-# Last updated: 2026-05-18 | SOP: v1.3 | Session: 3+
+# Last updated: 2026-05-21 | SOP: v1.3 | Session: 5
 
 ## 📊 LATEST SESSION SUMMARY
 - SOP Version: **v1.3**
-- Repo: **github.com/xprimordius/universal-sop** (PRIVATE)
-- Last work date: 2026-05-18
+- Repo: **github.com/xprimordius/universal-sop** (PRIVATE) — commit `c34fa82`
+- Last work date: 2026-05-21
 - Status at close: 🌱 GREEN
+
+---
+
+## ▶️ NEXT ACTION (Canonical — Read This First)
+
+**🔴 P0 — Run REAL device test of Universal SOP v1.3.**
+
+The sub-agent simulation passed (Session 5: 8/10 friction, fixes from 7/10 baseline confirmed working). The remaining unknown is whether this holds on a TRULY fresh device.
+
+Use `REAL_DEVICE_TEST.md` for the protocol. Phone, other laptop, or new clone of repo. ~30-45 min.
+
+If you (Alan) say "do something else" — that overrides this. Otherwise this is the canonical next step.
 
 ---
 
@@ -35,9 +47,27 @@
 - Pushed 260 files (4.9MB) to PRIVATE GitHub repo `xprimordius/universal-sop`
 - **Honest gap audit:** found repo had raw material but NO entry point for fresh AI
 - Created `README.md` (GitHub-facing project description)
-- Created `SESSION_START.md` (bootstrap for any AI/human session)
+- Created `SESSION_START.md` v1.0 (bootstrap for any AI/human session)
 - Updated `CLAUDE.md` to redirect to SESSION_START.md
-- Updated cache files (this file, SESSION_STATE.md, BACKUP_LOG.md)
+
+### Session 5 (May 21) — Full Spectrum Audit + Validation Loop
+- Built `INVENTORY.md` (full registry: 6 SOPs, 4 active + 9 legacy + 10 sub-cache files, 5 active agents + Jenny + 3 archived + 8 user-uploaded, scripts, docs — ~120 files cataloged)
+- Built `FUSION_ANALYSIS.md` (12 fusion proposals F1-F12: 7 SAFE, 4 CONDITIONAL, 1 REJECTED — Phase A/B/C/D execution plan, ~25-30% token overhead reduction potential)
+- **F5 EXECUTED** — Jenny standalone archived to `agents/archive/`. Active agents now: 5. Validator-Merged Section A handles her role.
+- **CLAUDE.md modernized** — D25 protocol references 4 active cache files (was 8 legacy), legacy zone explicitly marked with "do not follow" warnings
+- **SESSION_START v1.0 → v1.1** — promoted USER_PROFILE to mandatory STEP 1, added Active Agent Roster, added Tier Quick Guide
+- **First sub-agent validation test** (7/10 friction, 9 gaps surfaced — FT2.1-FT2.9)
+- **7/9 gap fixes applied:** Precedence Rule (CLAUDE.md + SESSION_START), Auto Mode resolution, off-by-one (5→6 files), SESSION_STATE POSITION refresh, version bumps
+- **SESSION_START v1.1 → v1.2** with Precedence Rule + Auto Mode Resolution
+- Built `REAL_DEVICE_TEST.md` (full physical-device test kit: setup × 3 options, bootstrap prompt, 10-output battery, EN.4 scoring rubric, decay watch D1-D7, pass/fail thresholds)
+- **Second sub-agent validation test** (8/10 friction — improvement confirmed, 8 new gaps surfaced)
+- **Critical Session 5-end fixes:** refreshed this CONTINUATION.md with Session 5 block, deduped SESSION_STATE Open Decisions, added canonical NEXT ACTION line, fixed SESSION_START footer version
+
+### Sub-Agent Test Results Comparison (Session 5)
+| Test | Friction | Gaps Found | Status |
+|------|:--------:|:----------:|--------|
+| First (start of Session 5) | 7/10 | 9 | Baseline |
+| Second (after 7 fixes) | 8/10 | 8 (mostly new/smaller) | +1 improvement; fixes confirmed working |
 
 ---
 

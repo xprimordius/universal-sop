@@ -46,11 +46,15 @@ Before ANY work, execute this sequence:
    ```
 10. ONLY THEN begin work.
 
-## ACTIVE CACHE FILES (Load Every Session — Current)
+## ACTIVE CACHE FILES — Defer To SESSION_START.md STEP 1
+
+**Canonical mandatory read list:** see `SESSION_START.md` STEP 1 (currently 6 files including USER_PROFILE.md + UNIVERSAL_SOP_PROMPT.md, not just the 4 cache files below).
+
+The 4 cache files below are the persistent state files that MUST exist. SESSION_START determines which to READ at session start.
 
 - `cache/SESSION_STATE.md` — Current position, decisions log, USER_PROMPTS, GitHub state, token usage
-- `cache/CONTINUATION.md` — Latest session handoff with cumulative 4-session log
-- `cache/BACKUP_LOG.md` — All backups indexed (21 entries as of 2026-05-21)
+- `cache/CONTINUATION.md` — Latest session handoff with cumulative session log
+- `cache/BACKUP_LOG.md` — All backups indexed (31+ entries as of 2026-05-21) — reference, not mandatory read
 - `cache/RPT_LOG.md` — 9+ repeated prompt failures + permanent fixes
 
 ## LEGACY APW CACHE FILES (Load ONLY If APW Course Work Resumes)

@@ -11,16 +11,14 @@
   - F5 executed (Jenny standalone archived)
   - CLAUDE.md modernized (4 active cache files, not 8 legacy)
   - INVENTORY.md + FUSION_ANALYSIS.md built
-- **Next Step:** Run REAL device test (clone on phone or other laptop, run cold). Or execute F4 (Controller agent fusion). Or return to APW course work.
-- **Open Decisions:**
-  1. Run REAL device test (not just sub-agent simulation)?
-  2. Build Controller agent (F4 fusion)?
-  3. APW course resume timing?
-  4. Update UNIVERSAL_SOP_PROMPT.md CA.5/CA.7 to reflect cache consolidation?
-- **Open Decisions:**
-  1. Build validation sub-agent (v1.3.1) or defer to v1.4?
-  2. Should `backups/` folder be excluded from git as repo grows?
-  3. Return to APW course work (Module 4.1) — when?
+- **▶️ NEXT ACTION (Canonical):** Run REAL device test of SOP v1.3 — use `REAL_DEVICE_TEST.md` protocol on a physical 2nd device (phone, other laptop, or new clone). This is the canonical P0 unless Alan redirects.
+- **Open Decisions (deduplicated 2026-05-21):**
+  1. 🔴 Run REAL device test now or after more in-session sub-agent iterations?
+  2. 🟡 Build Controller agent (F4 fusion — combines Oversight + Cache Manager, ~1.5K tokens saved per orchestration)?
+  3. 🟡 Update UNIVERSAL_SOP_PROMPT.md CA.5/CA.7 to reflect cache consolidation (cosmetic but pending)?
+  4. 🟡 Should `backups/` folder be excluded from git as repo grows? (~5MB currently, fine for now)
+  5. 🟢 APW course resume timing — blocked on validation, unblocked when device test passes
+  6. 🟢 Validation sub-agent v1.3.1 — could automate the test we just ran by hand
 
 ## 🐙 GITHUB STATE
 - **Repo:** `github.com/xprimordius/universal-sop` (PRIVATE)
