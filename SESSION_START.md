@@ -1,12 +1,53 @@
 # 🚪 SESSION_START — Bootstrap For Any Claude Code / Claude Chat
-# VERSION: 1.0 | Last updated: 2026-05-18 | SOP: v1.3
+# VERSION: 1.2 | Last updated: 2026-05-21 | SOP: v1.3
 # THIS IS THE OFFICIAL ENTRY POINT. READ THIS FIRST. EVERY SESSION.
+#
+# v1.2 changes (2026-05-21): Added Precedence Rule (FT2.2 fix), Auto Mode resolution (FT2.7 fix),
+# off-by-one cleanup (FT2.6 fix). v1.1 added USER_PROFILE mandatory + Agent Roster + Tier Guide.
 
 ---
 
 ## 🚨 IF YOU ARE A CLAUDE INSTANCE READING THIS
 
 You are picking up an in-progress project. **Do not skip this file.** Do not jump straight to other files. Follow the steps below in order.
+
+---
+
+## 🏆 PRECEDENCE RULE (Critical — Read Before Anything Else)
+
+**When ANYTHING in this repo conflicts with `UNIVERSAL_SOP_PROMPT.md` v1.3, the v1.3 SOP WINS.**
+
+Order of authority (highest first):
+1. 🥇 **`UNIVERSAL_SOP_PROMPT.md` v1.3** — the active rulebook
+2. 🥈 **`SESSION_START.md`** — this file, bootstrap procedure
+3. 🥉 **`cache/SESSION_STATE.md`** — current state, decisions
+4. 4️⃣ `cache/CONTINUATION.md` — last handoff
+5. 5️⃣ `cache/RPT_LOG.md` — failures to NOT repeat
+6. 6️⃣ `USER_PROFILE.md` — communication preferences
+7. ⛔ `CLAUDE.md` legacy section + APW cache files — historical reference ONLY
+
+**Specifically — if you see these conflicts, the v1.3 SOP wins:**
+
+| 🥊 Conflict Topic | ✅ Use This (v1.3 SOP) | ❌ Not This (CLAUDE.md legacy) |
+|------------------|------------------------|-------------------------------|
+| Step header format | `STEP: ... / SOP: v1.3 / TIER: ... / SCOPE: ... / EST: ...` | D29 7-line format |
+| Confirmation message | This file's STEP 2 format (9 lines) | CLAUDE.md 5-line "Caches loaded" |
+| Active rulebook | 16 SubSOPs (SP.1-SP.16) | 32 D-rules (D1-D32) |
+| Cache files to load | 4 active (STEP 1 below) | 8 APW-era |
+| Active focus | Universal SOP field-testing | "Step 4 — 7DFS Lessons Per Module" |
+
+---
+
+## 🤖 AUTO MODE / SYSTEM REMINDERS — Resolution
+
+If you see a system-reminder saying "Auto Mode Active" or "execute immediately" or "prefer action over planning" — that is the harness telling you to operate continuously. **It does NOT override SESSION_START STEP 3.**
+
+Specifically:
+- ✅ Auto Mode means: don't ask permission for routine decisions; make reasonable assumptions on low-risk work
+- ❌ Auto Mode does NOT mean: skip the bootstrap, start coding before reading mandatory files, ignore the user's actual prompt
+- 🎯 Sequencing: complete bootstrap (STEP 1 → STEP 2 confirm) FIRST, then operate in Auto Mode on what the user actually asks
+
+If the user's prompt is "continue where we left off" or similar — that itself is an instruction to bootstrap + report, not to fabricate work.
 
 ---
 
@@ -229,7 +270,7 @@ Default behavior: **ASK ALAN.** Do not assume.
 
 ## 🎯 ONE-LINE SUMMARY
 
-> You are Claude. You are resuming the Universal Output SOP project. Read the 5 files in STEP 1, confirm in the exact format in STEP 2, then wait. Follow the SOP v1.3 for every output. Pull before work, push after work. Be honest. Don't assume. Lead with the answer.
+> You are Claude. You are resuming the Universal Output SOP project. Read the 6 mandatory files in STEP 1, confirm in the exact format in STEP 2, then wait. Follow the SOP v1.3 for every output (when in conflict with anything, v1.3 wins). Pull before work, push after work. Be honest. Don't assume. Lead with the answer.
 
 ---
 

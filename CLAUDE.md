@@ -68,7 +68,27 @@ These were active during APW course-building (Mar 13-15). Currently paused.
 - `cache/USER_PROMPT_INVENTORY.md` — APW-era prompt inventory
 - `cache/subcache/SUBCACHE_INDEX.md` — Index to 10 SCIO subcache files
 
-## THE 32 D-RULES (Summary — Full text in APW_MASTER_CACHE.md)
+---
+
+## 🚨🚨🚨 PRECEDENCE RULE — READ THIS BEFORE THE LEGACY SECTION BELOW
+
+**WHEN ANYTHING BELOW THIS LINE CONFLICTS WITH `UNIVERSAL_SOP_PROMPT.md` v1.3, THE v1.3 SOP WINS.**
+
+Specifically:
+- ❌ Do NOT use the "D29 Step Header" format below (CLAUDE.md line ~77). Use the v1.3 SOP step header instead: `STEP: ... / SOP: v1.3 | TIER: ... / SCOPE: ... / EST: ...`
+- ❌ Do NOT use the "Caches Loaded" confirmation format below. Use SESSION_START.md STEP 2's 9-line confirmation format instead.
+- ❌ Do NOT enforce D1-D32 D-rules as the active rulebook. They are historical APW-era rules. The 16 SubSOPs in `UNIVERSAL_SOP_PROMPT.md` v1.3 are the active rules.
+- ❌ Do NOT load 8 cache files as session start. Load the 4 ACTIVE cache files listed in SESSION_START.md STEP 1.
+- ❌ Do NOT treat "Active Step: Step 4 — 7DFS Lessons Per Module" as current. APW course work is paused.
+- ✅ DO read the section below ONLY when APW course work explicitly resumes — it's a faithful record of how APW operated.
+
+---
+
+## 📜 LEGACY ZONE — APW Course Project Era (Historical Reference Only)
+
+The remainder of this file documents the original APW course-building era. It is preserved verbatim for historical accuracy and for when APW course work resumes. **It is NOT the active operating model.** When in doubt, consult `UNIVERSAL_SOP_PROMPT.md` v1.3 and `SESSION_START.md`.
+
+### THE 32 D-RULES (Legacy — APW-era, full text in APW_MASTER_CACHE.md)
 
 D1: One step at a time, never combine. D2: Confirm before proceeding. D3: Suggestions cycle after every confirmation. D4: Alan chooses next step. D5: 7DFS first. D6: Never assume. D7: 5th grader simplicity filter. D8: Win check. D9: Checklist check. D10: DFY callout check. D11: Classroom 3 REQUIRED, internal skip. D12: Guarantee documentation. D13: Confirm-suggest-confirm cycle with labeling. D14: Ascension trigger check. D15: Source doc verification. D16: Filming priority tags. D17: Sarah Turner 5-part check. D18: SOP compliance check before delivery. D19: POVP — word-by-word verification. D20: Real-time checklist display. D21: PFV — process flow verification. D22: SOP is a deliverable. D23: Version increment on every SOP update. D24: State current + proposed version numbers. D25: Session start protocol (cache load). D26: Sub-cache activation. D27: Token transparency (prospective estimate BEFORE output). D28: Cache update after decisions. D29: Step header on every deliverable. D30: Chunked delivery for multi-step. D31: Session checkpoint (anti-compaction). D32: Backup before any cache modification.
 

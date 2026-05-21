@@ -28,3 +28,8 @@
 | 23 | 2026-05-21 | (auto via VALIDATION_WORKFLOW edit) | agents/VALIDATION_WORKFLOW.md | — | Removed Jenny standalone from agent table, added archive note | ✅ |
 | 24 | 2026-05-21 | cache/backups/CLAUDE.md.20260521_pre_modernization_backup | CLAUDE.md | v1.2 | Modernized D25 session start — now references 4 active cache files instead of 8 legacy. Active vs legacy clearly marked. | ✅ |
 | 25 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.1 | Field test fixes: promoted USER_PROFILE.md to MANDATORY STEP 1 read (FT.1), added Active Agent Roster (FT.2), added Tier Quick Guide (FT.3) | ✅ |
+| 26 | 2026-05-21 | (sub-agent test in conversation) | — | — | REAL fresh-AI sub-agent bootstrap test — found 9 gaps (FT2.1-FT2.9) at 7/10 friction | ✅ documented |
+| 27 | 2026-05-21 | (in-place edit) | CLAUDE.md | v1.3 | Added Precedence Rule (top of legacy section). Legacy zone explicitly marked with "do not follow" guidance for v1.3-conflicting items | ✅ |
+| 28 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.2 | Added Precedence Rule (1 SOP wins) + Auto Mode Resolution + off-by-one fix (5→6 files) | ✅ |
+| 29 | 2026-05-21 | (in-place edit) | cache/SESSION_STATE.md | v1.3 | POSITION block refreshed with field test results + sub-agent findings | ✅ |
+| 30 | 2026-05-21 | — | REAL_DEVICE_TEST.md | v1.0 | New file — physical-device test kit with bootstrap prompt + 10-output battery + EN.4 scoring rubric + decay watch | N/A (new file) |

@@ -1,11 +1,22 @@
 # SESSION STATE
-# VERSION: 1.2 | Updated: 2026-05-18 | SOP: v1.3
+# VERSION: 1.3 | Updated: 2026-05-21 | SOP: v1.3
 
 ## 📍 CURRENT POSITION
-- **Active Work:** Repo bootstrapped to GitHub + added entry-point files (README + SESSION_START)
-- **Status:** ✅ COMPLETE — Cross-device continuation infrastructure ready
-- **Last Completed:** GitHub repo `xprimordius/universal-sop` (PRIVATE) initialized + pushed. README.md + SESSION_START.md created. CLAUDE.md updated with bootstrap pointer.
-- **Next Step:** Field test SOP v1.3 in a truly fresh Claude Code session (other device or `--no-cache`) to validate Ensurance System
+- **Active Work:** Field test validation executed + bootstrap fidelity gaps closed
+- **Status:** ✅ MAJOR MILESTONE — Real fresh-AI sub-agent successfully bootstrapped (7/10 friction). 9 specific gaps found. 7/9 fixed in same session.
+- **Last Completed:**
+  - Sub-agent fresh-AI test (validated bootstrap chain works)
+  - CLAUDE.md legacy section explicitly marked + Precedence Rule added
+  - SESSION_START v1.2 with Precedence Rule + Auto Mode Resolution + off-by-one fix
+  - F5 executed (Jenny standalone archived)
+  - CLAUDE.md modernized (4 active cache files, not 8 legacy)
+  - INVENTORY.md + FUSION_ANALYSIS.md built
+- **Next Step:** Run REAL device test (clone on phone or other laptop, run cold). Or execute F4 (Controller agent fusion). Or return to APW course work.
+- **Open Decisions:**
+  1. Run REAL device test (not just sub-agent simulation)?
+  2. Build Controller agent (F4 fusion)?
+  3. APW course resume timing?
+  4. Update UNIVERSAL_SOP_PROMPT.md CA.5/CA.7 to reflect cache consolidation?
 - **Open Decisions:**
   1. Build validation sub-agent (v1.3.1) or defer to v1.4?
   2. Should `backups/` folder be excluded from git as repo grows?
