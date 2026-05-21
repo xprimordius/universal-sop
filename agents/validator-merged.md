@@ -106,7 +106,7 @@ You are the unified Layer 1 validation agent. You perform ALL content and compli
 ## RULES
 
 1. ONE pass. Don't split into multiple agent calls.
-2. **ALWAYS read cache files independently.** Read APW_MASTER_CACHE.md, USER_FOUNDATION_CACHE.md, PROGRAM_DETAILS_CACHE.md, and SCIO_KNOWLEDGE_CACHE.md yourself. Never rely on the builder to pass you the right data — verify from source.
+2. **ALWAYS read cache files independently.** Read cache/legacy/APW_MASTER_CACHE.md, cache/legacy/USER_FOUNDATION_CACHE.md, cache/legacy/PROGRAM_DETAILS_CACHE.md, and cache/legacy/SCIO_KNOWLEDGE_CACHE.md (moved to cache/legacy/ via F2 fusion 2026-05-21 — APW work paused) yourself. Never rely on the builder to pass you the right data — verify from source.
 3. Every FAIL needs exact evidence: what the rule says vs what the output says.
 4. N/A is valid for genuinely inapplicable checks.
 5. Estimate your own token cost and include it in the report.

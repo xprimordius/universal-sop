@@ -19,11 +19,25 @@ Read files here ONLY if:
 
 ## 📚 FILES IN THIS ARCHIVE
 
+### Historical SOPs (F1 Fusion — 2026-05-21)
 | 📄 File | 📅 Era | 🎯 Original Role | 🔀 Superseded By |
 |---------|--------|------------------|-----------------|
 | `PRIME_SOP.md` v2.8 | Mar 13-15, 2026 | Layer 0 foundation — 12 stages, 32 D-rules, APW-focused. 90KB. | Universal SOP v1.3 — distilled into 6 stages, 16 SubSOPs, portable form |
 | `BRIDGE_SOP.md` v1.1 | Mar 13, 2026 | Interim operational SOP — visual protocol + floor standards | SP.1 MagNet (Magnetic Visual Engagement Protocol) + SP.2 Door Scan (Door Scanning Pattern Protocol) absorbed visual rules |
 | `SOP_FULL_REFERENCE.md` | Mar 13, 2026 | Reference doc — 119+ prompt items full text | Universal SOP v1.3 distills these into 16 actionable SubSOPs |
+
+### APW Course Cache Files (F2 Fusion — 2026-05-21)
+| 📄 File | 📅 Era | 🎯 Original Role | 🔀 Status |
+|---------|--------|------------------|-----------|
+| `APW_MASTER_CACHE.md` | Mar 13-14, 2026 | 32 D-rules, POVP/PFV protocols, error log, locked decisions | Referenced by Karen + Validator-Merged when validating APW course work (paused) |
+| `BUILD_STATE_CACHE.md` | Mar 13-15, 2026 | Course build position, 11 failure points, deliverables | Active if APW course resumes (currently paused) |
+| `SCIO_KNOWLEDGE_CACHE.md` | Mar 13, 2026 | 22 SCIO principles, paradox resolutions, exact numbers | Active if SCIO course content work resumes |
+| `PROGRAM_DETAILS_CACHE.md` | Mar 13, 2026 | 8 classrooms, 12 modules, 6-tier ascension, lesson lists | Active if course building resumes |
+| `USER_FOUNDATION_CACHE.md` | Mar 13, 2026 | Alan's APW-era decisions, preferences | Superseded by `USER_PROFILE.md` (in project root) |
+| `TOKEN_BUDGET_LOG.md` | Mar 13-15, 2026 | APW-era token tracking | Superseded by SESSION_STATE token section + LTM (Live Token Monitor) |
+| `USER_PROMPTS_VERBATIM.md` | Mar 14, 2026 | Exact Alan quotes (APW-era) | Superseded by SESSION_STATE USER PROMPTS section |
+| `USER_PROMPT_FULFILLMENT_AUDIT.md` | Mar 14, 2026 | Audit of prompts vs fulfillment | Historical reference only |
+| `USER_PROMPT_INVENTORY.md` | Mar 13, 2026 | Full prompt inventory | Historical reference only |
 
 ---
 

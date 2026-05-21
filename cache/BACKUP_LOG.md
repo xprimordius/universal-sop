@@ -75,3 +75,11 @@
 | 70 | 2026-05-21 | (in-place edit) | cache/CONTINUATION.md | v3.3 | FT8.3 fix — 3 stale RPT_LOG references replaced with FAILURE_LEDGER pointers | ✅ |
 | 71 | 2026-05-21 | (in-place edit) | STANDALONE_SOP.md | v1.4 | FT9.x fixes — PROPORTIONALITY rule added, QUICK tier scope expanded, tier-down escape valve documented, Glossary appended with all acronyms (SP/EN/P/LTM/N/M/N/A/tiers/status emojis/priority tags) | ✅ |
 | 72 | 2026-05-21 | (in-place edit) | cache/SESSION_STATE.md | v1.7 | FT8.5 fix — Open Decision #2 (Build Controller agent F4) marked DONE (was already executed but still listed as open) | ✅ |
+| 73 | 2026-05-21 | (git mv) | cache/APW_MASTER_CACHE.md + 8 others → cache/legacy/ | — | **F2 EXECUTED** — 9 APW cache files moved to cache/legacy/. APW work paused so safe. Karen + Validator-Merged paths updated to new locations. | ✅ |
+| 74 | 2026-05-21 | (retroactive snapshot) | cache/backups/20260521_pre_F2_legacy_backup/ | — | FT10.7 fix — 9 pre-F2 file snapshots from git HEAD~1 (honest gap: should have done these BEFORE F2 move, not after — git mv preserves history but my D32 pattern uses cache/backups/) | ✅ |
+| 75 | 2026-05-21 | (in-place edit) | agents/karen-reality-check.md | v2.1 | Path updates for F2 — references now point at cache/legacy/ for the 4 APW caches Karen reads | ✅ |
+| 76 | 2026-05-21 | (in-place edit) | agents/validator-merged.md | v2.1 | Path updates for F2 — same 4 APW cache paths updated | ✅ |
+| 77 | 2026-05-21 | (in-place edit) | CLAUDE.md | v1.8 | F2 — LEGACY APW CACHE FILES section paths updated to cache/legacy/. PLUS FT10.1 fix — line 103 stale APW_MASTER_CACHE.md reference also updated. | ✅ |
+| 78 | 2026-05-21 | (in-place edit) | cache/legacy/INDEX.md | v1.1 | F2 — added "APW Course Cache Files (F2 Fusion)" section with all 9 files documented (status, role, supersession path) | ✅ |
+| 79 | 2026-05-21 | (in-place edit) | PROTOCOLS_REFERENCE.md | v1.3 | F6/F9/F12 review decisions documented — F9 "REVIEWED + KEPT SEPARATE" (timing precision), F12 "REVIEWED + KEPT SEPARATE BY DESIGN" (lens distinction), F6 "DOCUMENTATION ONLY" (no count reduction). | ✅ |
+| 80 | 2026-05-21 | (sub-agent test) | — | — | EIGHTH sub-agent test (QA mission) — 8/10 friction. F2 CLEAN. F9/F12 docs clear. 7 new FT10.x gaps surfaced, 2 fixed (FT10.1 + FT10.7), 5 LOW deferred. | ✅ documented |

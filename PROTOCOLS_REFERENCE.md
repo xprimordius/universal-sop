@@ -86,14 +86,37 @@ Related but currently separate.
 | SP.14 | **RPT (Repeated Prompt Tracker)** | Catch when user asks 2+ times (pattern detection) |
 | SP.12 | **HFR (Honest Failure Report)** | When something failed: root cause + permanent fix |
 
-### ⚡ Execution Gate System (F9 — Conditional Fusion, Different Timing)
+### ⚡ Execution Gate System (F9 — REVIEWED 2026-05-21, KEPT SEPARATE)
 
-Related but kept SEPARATE because of timing precision.
+Related but kept SEPARATE because of timing precision. F9 conditional fusion was REVIEWED and REJECTED — different enforcement points cannot be safely merged without losing timing precision.
 
-| 🆔 | 🏷️ Protocol | 🎯 Timing |
-|:---:|------------|----------|
-| SP.15 | **EEP (Execution Enforcement Protocol)** | DURING execution — no future tense, proof required |
-| SP.16 | **PCG (Prompt Completion Gate)** | PRE-SEND — every acknowledged item has execution proof |
+| 🆔 | 🏷️ Protocol | 🎯 Timing | 🛡️ Why Separate |
+|:---:|------------|----------|----------------|
+| SP.15 | **EEP (Execution Enforcement Protocol)** | DURING execution — no future tense, proof required | Catches "I will do X" mid-output before it becomes false signal |
+| SP.16 | **PCG (Prompt Completion Gate)** | PRE-SEND — every acknowledged item has execution proof | Final gate cross-checking original prompt items vs delivered |
+
+**F9 Decision (2026-05-21):** Document the two-phase nature explicitly rather than merge. Merging would collapse "during" and "pre-send" into a single check, losing the DURING-execution catch that prevents acknowledge-not-execute pattern.
+
+### 🪞 Self-Check System (F12 — REVIEWED 2026-05-21, KEPT SEPARATE BY DESIGN)
+
+| 🆔 | 🏷️ Protocol | 🎯 Lens |
+|:---:|------------|--------|
+| SP.10 | **SCC (Self-Compliance Check)** | "Did I follow my OWN SOP rules?" |
+| SP.11 | **QAC (Quality Assurance Check)** | "Is the output STRUCTURALLY well-formed?" |
+| EN.4 | **Pulse Check (Compliance Pulse Check)** | "10-second mechanical pre-send audit of Priority 10 items" |
+
+**F12 Decision (2026-05-21):** All three are PRE-SEND but cover different lenses. Merging would blur:
+- SOP rules (SCC) vs structure (QAC) vs mechanical 10-item gate (EN.4)
+- Different failure modes need different lenses
+- KEEP SEPARATE — F12 fusion rejected
+
+### 📐 SubSOP Count (F6 — REVIEWED 2026-05-21, DOCUMENTATION ONLY)
+
+**F6 Decision (2026-05-21):** The original proposal was to reduce 16 SubSOPs → 10 by clustering. Per FUSION_ANALYSIS, this risks recreating "remember 43 rules" cognitive overwhelm if reduced wrong.
+
+**Resolution:** Clusters are now documented in this file (Visual System, Token System, Wrap-Up System, Failure Tracking, Execution Gate, Self-Check System) WITHOUT reducing the count of 16 SubSOPs. Each SubSOP remains independently invokable; clusters are mental groupings for cognitive efficiency.
+
+**Effective result:** Cognitive load reduced via clustering. Mechanical count unchanged. Best of both worlds.
 
 ---
 

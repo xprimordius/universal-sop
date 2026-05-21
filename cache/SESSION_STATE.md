@@ -90,6 +90,10 @@
 | 2026-05-21 | **STANDALONE_SOP v1.4** — PROPORTIONALITY rule + tier-down + Glossary | AI executed (FT9.x bundle fix) | Addresses bloat tension (150-word answer in 1500-word wrapper). Defines M/N + N/A. Expands QUICK tier scope. |
 | 2026-05-21 | Stale RPT_LOG refs swept in CONTINUATION.md | AI executed (FT8.3 fix) | 3 references updated to point at FAILURE_LEDGER per F8 fusion |
 | 2026-05-21 | Open Decisions list cleaned — Controller F4 marked DONE | AI executed (FT8.5 fix) | Decision was executed but still listed as open |
+| 2026-05-21 | **F2 EXECUTED** — 9 APW cache files moved to cache/legacy/ | Alan ("C") | APW work paused; safe to legacy. Karen + Validator-Merged paths updated. Active cache now 5 files (was 14). |
+| 2026-05-21 | F6/F9/F12 REVIEWED + documented | Alan ("C") | F9 + F12 KEPT SEPARATE (timing/lens precision). F6 = documentation-only (no count reduction). All decisions in PROTOCOLS_REFERENCE.md. |
+| 2026-05-21 | **8th sub-agent test (QA mission)** — 8/10 friction, F2 CLEAN | AI executed | No breakage from F2. 7 new FT10.x gaps surfaced (2 critical fixed, 5 LOW deferred). |
+| 2026-05-21 | **Active cache files: 14 → 5** (~64% reduction) | F2 result | SESSION_STATE + CONTINUATION + BACKUP_LOG + FAILURE_LEDGER + RPT_LOG (deprecated pointer). Maximum lean. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

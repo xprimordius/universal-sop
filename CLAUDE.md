@@ -63,18 +63,22 @@ The 4 cache files below are the persistent state files that MUST exist. SESSION_
 
 ## LEGACY APW CACHE FILES (Load ONLY If APW Course Work Resumes)
 
-These were active during APW course-building (Mar 13-15). Currently paused.
+These were active during APW course-building (Mar 13-15). Currently paused. **All moved to `cache/legacy/` via F2 fusion 2026-05-21.**
 
-- `cache/APW_MASTER_CACHE.md` — 32 D-rules, POVP/PFV protocols, error log, locked decisions
-- `cache/BUILD_STATE_CACHE.md` — Course build position, deliverables, 11 failure points + solutions
-- `cache/SCIO_KNOWLEDGE_CACHE.md` — 22 SCIO principles, paradox resolutions, exact numbers
-- `cache/PROGRAM_DETAILS_CACHE.md` — 8 classrooms, 12 modules, 6-tier ascension, lesson lists
-- `cache/USER_FOUNDATION_CACHE.md` — Alan's APW-era decisions (now superseded by `USER_PROFILE.md`)
-- `cache/TOKEN_BUDGET_LOG.md` — APW-era token tracking (superseded by SESSION_STATE token section)
-- `cache/USER_PROMPTS_VERBATIM.md` — APW-era exact Alan quotes
-- `cache/USER_PROMPT_FULFILLMENT_AUDIT.md` — APW-era prompt fulfillment audit
-- `cache/USER_PROMPT_INVENTORY.md` — APW-era prompt inventory
-- `cache/subcache/SUBCACHE_INDEX.md` — Index to 10 SCIO subcache files
+- `cache/legacy/APW_MASTER_CACHE.md` — 32 D-rules, POVP/PFV protocols, error log, locked decisions
+- `cache/legacy/BUILD_STATE_CACHE.md` — Course build position, deliverables, 11 failure points + solutions
+- `cache/legacy/SCIO_KNOWLEDGE_CACHE.md` — 22 SCIO principles, paradox resolutions, exact numbers
+- `cache/legacy/PROGRAM_DETAILS_CACHE.md` — 8 classrooms, 12 modules, 6-tier ascension, lesson lists
+- `cache/legacy/USER_FOUNDATION_CACHE.md` — Alan's APW-era decisions (now superseded by `USER_PROFILE.md`)
+- `cache/legacy/TOKEN_BUDGET_LOG.md` — APW-era token tracking (superseded by SESSION_STATE token section)
+- `cache/legacy/USER_PROMPTS_VERBATIM.md` — APW-era exact Alan quotes
+- `cache/legacy/USER_PROMPT_FULFILLMENT_AUDIT.md` — APW-era prompt fulfillment audit
+- `cache/legacy/USER_PROMPT_INVENTORY.md` — APW-era prompt inventory
+- `cache/legacy/PRIME_SOP.md` — APW Prime SOP v2.8 (F1 fusion 2026-05-21)
+- `cache/legacy/BRIDGE_SOP.md` — APW Bridge SOP v1.1 (F1 fusion 2026-05-21)
+- `cache/legacy/SOP_FULL_REFERENCE.md` — APW prompt items full text (F1 fusion 2026-05-21)
+- `cache/legacy/INDEX.md` — guide to all legacy files
+- `cache/subcache/SUBCACHE_INDEX.md` — Index to 10 SCIO subcache files (still in cache/subcache/)
 
 ---
 
@@ -96,7 +100,7 @@ Specifically:
 
 The remainder of this file documents the original APW course-building era. It is preserved verbatim for historical accuracy and for when APW course work resumes. **It is NOT the active operating model.** When in doubt, consult `UNIVERSAL_SOP_PROMPT.md` v1.3 and `SESSION_START.md`.
 
-### THE 32 D-RULES (Legacy — APW-era, full text in APW_MASTER_CACHE.md)
+### THE 32 D-RULES (Legacy — APW-era, full text in cache/legacy/APW_MASTER_CACHE.md)
 
 D1: One step at a time, never combine. D2: Confirm before proceeding. D3: Suggestions cycle after every confirmation. D4: Alan chooses next step. D5: 7DFS first. D6: Never assume. D7: 5th grader simplicity filter. D8: Win check. D9: Checklist check. D10: DFY callout check. D11: Classroom 3 REQUIRED, internal skip. D12: Guarantee documentation. D13: Confirm-suggest-confirm cycle with labeling. D14: Ascension trigger check. D15: Source doc verification. D16: Filming priority tags. D17: Sarah Turner 5-part check. D18: SOP compliance check before delivery. D19: POVP — word-by-word verification. D20: Real-time checklist display. D21: PFV — process flow verification. D22: SOP is a deliverable. D23: Version increment on every SOP update. D24: State current + proposed version numbers. D25: Session start protocol (cache load). D26: Sub-cache activation. D27: Token transparency (prospective estimate BEFORE output). D28: Cache update after decisions. D29: Step header on every deliverable. D30: Chunked delivery for multi-step. D31: Session checkpoint (anti-compaction). D32: Backup before any cache modification.
 
