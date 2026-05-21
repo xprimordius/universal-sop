@@ -81,6 +81,10 @@
 | 2026-05-21 | **CONTINUATION.md v3.2** — competing 7-line confirmation template removed (FT7.2) | AI executed | Defers to SESSION_START STEP 2 as canonical |
 | 2026-05-21 | **SESSION_START.md v1.6** — added STEP 0.5 git pull (FT7.4) | AI executed | Surfaces git workflow that was buried in later section |
 | 2026-05-21 | **TOKEN USAGE LOG backfilled** Sessions 3-5 (FT7.3) | AI executed | Was only showing Sessions 1-2; now reflects all 5 sessions |
+| 2026-05-21 | **F7 FUSION EXECUTED** — Wrap-Up System cluster formalized | Alan ("C") | SP.9 FE + SP.7 Insights + SP.13 SHR cluster upgraded from "Identified" to "EXECUTED" in PROTOCOLS_REFERENCE with mandatory wrap-up sequence |
+| 2026-05-21 | **F8 FUSION EXECUTED** — cache/FAILURE_LEDGER.md built | Alan ("C") | Unified RPT (Repeated Prompt Tracker) + HFR (Honest Failure Report) into single ledger. 11 entries migrated as F.1-F.11. RPT_LOG.md deprecated to redirect pointer. |
+| 2026-05-21 | SESSION_START STEP 1 #4 updated: FAILURE_LEDGER replaces RPT_LOG | AI executed | Reflects F8 fusion in mandatory bootstrap path |
+| 2026-05-21 | **Phase B fusions COMPLETE** (F7 + F8) | AI executed | Phase A (F1+F4+F5+F10+F11) + Phase B (F7+F8) = 7 of 7 SAFE fusions executed |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

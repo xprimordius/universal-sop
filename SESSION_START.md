@@ -82,13 +82,13 @@ This ensures you have the latest cache + SOP changes from any other device. If y
 Use the Read tool. Read FULLY, not skim. Do not start work until all 7 are read.
 
 ```
-1. ./SESSION_START.md         ← This file (already reading)
-2. ./cache/SESSION_STATE.md   ← Current position, decisions, active work
-3. ./cache/CONTINUATION.md    ← Last session's handoff notes
-4. ./cache/RPT_LOG.md         ← 9 repeated failures — DO NOT REPEAT THESE
-5. ./USER_PROFILE.md          ← Alan's communication preferences — MANDATORY (promoted 2026-05-21)
-6. ./PROTOCOLS_REFERENCE.md   ← Full protocol acronyms + names (PROMOTED 2026-05-21 — Rule #11 requires this)
-7. ./UNIVERSAL_SOP_PROMPT.md  ← The rulebook (v1.3, 940 lines, 16 SubSOPs)
+1. ./SESSION_START.md            ← This file (already reading)
+2. ./cache/SESSION_STATE.md      ← Current position, decisions, active work
+3. ./cache/CONTINUATION.md       ← Last session's handoff notes
+4. ./cache/FAILURE_LEDGER.md     ← 11 system failures (REPEAT + FAILURE) — DO NOT REPEAT (was RPT_LOG.md, fused via F8 on 2026-05-21)
+5. ./USER_PROFILE.md             ← Alan's communication preferences — MANDATORY (promoted 2026-05-21)
+6. ./PROTOCOLS_REFERENCE.md      ← Full protocol acronyms + names (PROMOTED 2026-05-21 — Rule #11 requires this)
+7. ./UNIVERSAL_SOP_PROMPT.md     ← The rulebook (v1.3, 940 lines, 16 SubSOPs)
 ```
 
 **Optional (read if depth needed):**
@@ -301,7 +301,7 @@ Every protocol in an expandable `<details>` section for transparency.
 
 ## 🚨 REPEATED FAILURES — DO NOT REPEAT
 
-Full log: `./cache/RPT_LOG.md`. The top patterns:
+Full log: `./cache/FAILURE_LEDGER.md` (was `cache/RPT_LOG.md` until F8 fusion 2026-05-21). The top patterns:
 
 | # | 🏷️ Pattern | 🛡️ Prevention |
 |:-:|-----------|---------------|

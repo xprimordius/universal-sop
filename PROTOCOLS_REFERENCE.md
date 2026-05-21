@@ -54,15 +54,28 @@ These 3 are related but kept SEPARATE on purpose (different lenses).
 
 **Why kept separate:** SCC = SOP rules. QAC = structure. EN.4 = mechanical 10-item gate. Fusing them would blur the lens distinction. (See FUSION_ANALYSIS.md F12 — CONDITIONAL fusion, deferred until Pulse Check proves reliable over 10+ outputs.)
 
-### 📋 Wrap-Up System (F7 — Identified, Not Yet Executed)
+### 📋 Wrap-Up System (F7 — EXECUTED 2026-05-21)
 
-These 3 cluster at end of every output. Designated for future fusion (F7) but currently separate.
+These 3 protocols form the unified Wrap-Up Block at end of every STANDARD/COMPLEX output. Formally clustered as a single mandatory section.
 
 | 🆔 | 🏷️ Protocol | 🎯 End-of-Output Role |
 |:---:|------------|---------------------|
-| SP.9 | **FE (Foresight Engine)** | Predict next problems + solutions |
-| SP.7 | **Insights Protocol** | Surface present-adjacent helpful context |
-| SP.13 | **SHR (System Health Report)** | Multi-dimensional scorecard |
+| SP.9 | **FE (Foresight Engine)** | Predict next problems + solutions, priority-tagged (🔴/🟡/🟢) |
+| SP.7 | **Insights Protocol** | Surface present-adjacent helpful context not explicitly asked |
+| SP.13 | **SHR (System Health Report)** | Multi-dimensional scorecard with substantiated scores |
+
+**Combined effect:** End-of-output transparency triple — Future (FE) + Present (Insights) + Past (SHR scoring what just happened).
+
+**Formal Wrap-Up Block sequence (mandatory order):**
+1. 📋 Conclusion table (Stage 5 — maps every prompt item to deliverable)
+2. 📍 Timeline (T1 → T2 → T3... with status)
+3. 📊 Final LTM (Live Token Monitor)
+4. 🔮 **FE (Foresight Engine)** — minimum 3 items priority-tagged
+5. 📊 **SHR (System Health Report)** — 6 dimensions scored
+6. 📊 Execution Debt Counter (honest)
+7. 📋 SP.8 Protocol Visibility — SubSOP Execution Report (all 20 protocols)
+
+**Insights are interleaved within FE items** (e.g., FE item that surfaces an opportunity = Insight). Not a separate section.
 
 ### 🔁 Failure Tracking System (F8 — Identified, Not Yet Executed)
 

@@ -66,3 +66,7 @@
 | 61 | 2026-05-21 | (in-place edit) | CLAUDE.md | v1.7 | FT7.1 fix — Precedence Rule simplified to point at SESSION_START.md as canonical (removed duplicate authority table) | ✅ |
 | 62 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.6 | FT7.4 fix — added explicit STEP 0.5 git pull instruction before STEP 1 mandatory reads | ✅ |
 | 63 | 2026-05-21 | (in-place edit) | cache/SESSION_STATE.md | v1.6 | FT7.3 fix — TOKEN USAGE LOG backfilled with Sessions 3, 4, 5 (previously only 1, 2) | ✅ |
+| 64 | 2026-05-21 | (in-place edit) | PROTOCOLS_REFERENCE.md | v1.2 | F7 EXECUTED — Wrap-Up System cluster formalized from "Identified" to "EXECUTED 2026-05-21". Mandatory wrap-up sequence specified. | ✅ |
+| 65 | 2026-05-21 | — | cache/FAILURE_LEDGER.md | v1.0 | F8 EXECUTED — New file fusing RPT (Repeated Prompt Tracker) + HFR (Honest Failure Report) into unified ledger. 11 entries migrated (F.1-F.11) with `<details>` expandable per entry. 8 guardrails documented. | N/A (new file) |
+| 66 | 2026-05-21 | (in-place edit) | cache/RPT_LOG.md | v2.0 | DEPRECATED — superseded by FAILURE_LEDGER.md per F8 fusion. RPT.1-RPT.11 → F.1-F.11 mapping added. File preserved as redirect pointer. | ✅ |
+| 67 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.7 | STEP 1 file #4 updated: RPT_LOG.md → FAILURE_LEDGER.md (F8 fusion). REPEATED FAILURES section pointer updated. | ✅ |

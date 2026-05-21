@@ -1,7 +1,33 @@
 # RPT (Repeated Prompt Tracker) LOG
-# VERSION: 1.0 | Updated: 2026-04-01 | SOP: v1.3
+# VERSION: 2.0 | Updated: 2026-05-21 | SOP: v1.3
+# ⚠️ SUPERSEDED BY: cache/FAILURE_LEDGER.md (F8 fusion 2026-05-21)
 
-## 📝 What This File Is
+## 🚨 THIS FILE IS DEPRECATED
+
+**All entries migrated to `cache/FAILURE_LEDGER.md` (F8 fusion executed 2026-05-21).**
+
+NEW failures should be logged to `FAILURE_LEDGER.md`, not here. This file is preserved for historical reference + as a redirect pointer.
+
+**Why fused:** F8 from FUSION_ANALYSIS.md — RPT (Repeated Prompt Tracker) and HFR (Honest Failure Report) both track failures. The only difference is trigger condition (REPEAT vs single FAILURE). Same response logic. One ledger = less drift.
+
+**Entry mapping (old → new):**
+- RPT.1 → F.1 (Emojis far left)
+- RPT.2 → F.2 (Live token tracking)
+- RPT.3 → F.3 (MagNet visual)
+- RPT.4 → F.4 (Proactive foresight)
+- RPT.5 → F.5 (SubSOP visible)
+- RPT.6 → F.6 (Token + time per step)
+- RPT.7 → F.7 (Execute don't acknowledge)
+- RPT.8 → F.8 (LTM every section)
+- RPT.9 → F.9 (Compliance decay)
+- RPT.10 → F.10 (Protocol name truncation)
+- RPT.11 → F.11 (No `<details>` expandable)
+
+**Active ledger:** see `cache/FAILURE_LEDGER.md`
+
+---
+
+## 📝 What This File Was (Historical)
 Tracks every time the user had to ask for the same thing 2+ times. Each entry = a system failure that was root-caused and fixed. Persists across sessions so the same failure never repeats.
 
 ## 🔁 REPEATED PROMPT LOG
