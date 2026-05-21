@@ -17,3 +17,8 @@
 | 12 | 2026-04-16 | — | PROJECT_HISTORY.md | v1.0 | New file — 40+ hour timeline + evolution | N/A (new file) |
 | 13 | 2026-04-16 | — | CHALLENGES_LOG.md | v1.0 | New file — bottlenecks + errors + debug history | N/A (new file) |
 | 14 | 2026-04-16 | — | USER_PROFILE.md | v1.0 | New file — Alan's communication preferences for consultants | N/A (new file) |
+| 15 | 2026-05-18 | — | README.md | v1.0 | New file — GitHub-facing project entry point | N/A (new file) |
+| 16 | 2026-05-18 | — | SESSION_START.md | v1.0 | New file — official bootstrap for AI/human session start | N/A (new file) |
+| 17 | 2026-05-18 | cache/backups/CLAUDE.md.20260518_pre_bootstrap_backup | CLAUDE.md | v1.1 | Added bootstrap pointer to SESSION_START.md + updated identity | ✅ |
+| 18 | 2026-05-18 | cache/backups/SESSION_STATE_v1.1_20260518_pre_update_backup.md (implicit via git) | cache/SESSION_STATE.md | v1.2 | Added GitHub state + 5/18 decisions log entries | ✅ (git tracks) |
+| 19 | 2026-05-18 | (implicit via git) | cache/CONTINUATION.md | v2.0 | Complete rewrite — cumulative session summary + GitHub workflow + bootstrap instructions | ✅ (git tracks) |

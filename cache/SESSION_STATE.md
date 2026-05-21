@@ -1,11 +1,23 @@
 # SESSION STATE
-# VERSION: 1.1 | Updated: 2026-04-01 | SOP: v1.3
+# VERSION: 1.2 | Updated: 2026-05-18 | SOP: v1.3
 
 ## 📍 CURRENT POSITION
-- **Active Work:** External Consulting Export — built consulting brief + history + challenges + user profile
-- **Status:** ✅ COMPLETE — 4 new consulting documents shipped for external Claude chats
-- **Last Completed:** CONSULTING_BRIEF.md, PROJECT_HISTORY.md, CHALLENGES_LOG.md, USER_PROFILE.md
-- **Next Step:** Field test SOP in fresh session OR return to APW project (course building blocked on SOP confirmation)
+- **Active Work:** Repo bootstrapped to GitHub + added entry-point files (README + SESSION_START)
+- **Status:** ✅ COMPLETE — Cross-device continuation infrastructure ready
+- **Last Completed:** GitHub repo `xprimordius/universal-sop` (PRIVATE) initialized + pushed. README.md + SESSION_START.md created. CLAUDE.md updated with bootstrap pointer.
+- **Next Step:** Field test SOP v1.3 in a truly fresh Claude Code session (other device or `--no-cache`) to validate Ensurance System
+- **Open Decisions:**
+  1. Build validation sub-agent (v1.3.1) or defer to v1.4?
+  2. Should `backups/` folder be excluded from git as repo grows?
+  3. Return to APW course work (Module 4.1) — when?
+
+## 🐙 GITHUB STATE
+- **Repo:** `github.com/xprimordius/universal-sop` (PRIVATE)
+- **Account:** `xprimordius` (auth cached in macOS Keychain)
+- **Branch:** `main`
+- **Last commit:** `fa53a29` (initial) + this session's updates pending
+- **Cross-device rule:** `git pull` before work, `git push` after work
+- **Excluded from git:** `.claude/settings.local.json`, `.DS_Store`, `.env*`, `node_modules/`
 
 ## 📋 PENDING ITEMS
 1. Complete cache implementation (this session)
@@ -25,6 +37,10 @@
 | 2026-04-01 | Created NEW_HIRE_GUIDE.md + REPLICATION_KIT.md | Alan | Onboarding + distribution-ready package |
 | 2026-04-16 | Created 4 external consulting docs | Alan | Outside Claude chats need self-contained reference without overwhelming context |
 | 2026-04-16 | Modular structure (4 docs vs 1 mega-doc) | AI proposed | One mega-doc = 30K+ tokens on load (15% of fresh chat budget). Modular = load only needed sections. |
+| 2026-05-18 | Repo pushed to GitHub as PRIVATE under `xprimordius/universal-sop` | Alan | Cross-device continuation; backup + sync infrastructure |
+| 2026-05-18 | Created README.md + SESSION_START.md as official entry points | AI (proposed, Alan implicit via "EVERYTHING needed?" question) | Honest audit found: repo had raw material but no entry point. Fresh AI would be lost ~5-10 min. |
+| 2026-05-18 | CLAUDE.md updated to point to SESSION_START.md first | AI (proposed) | CLAUDE.md was APW-course-specific; misleading for SOP-focused work. Now redirects to current focus. |
+| 2026-05-18 | `gh` CLI v2.92.0 installed via Homebrew | AI executed | Most-integrated path for Claude Code GitHub ops |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

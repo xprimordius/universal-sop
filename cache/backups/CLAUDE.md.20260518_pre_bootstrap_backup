@@ -1,21 +1,9 @@
 # APW Course Framework Builder — Claude Code Project Config
 # Place this file at your project root. Claude Code reads it automatically every session.
 
-## 🚨 BOOTSTRAP — READ FIRST
-
-**Before doing anything else, read `./SESSION_START.md`.** That file is the official entry point. It points you to current state, current focus, and the correct cache files to load.
-
-This CLAUDE.md is APW-course-specific (legacy). The current project focus has shifted to **Universal Output SOP v1.3** (which feeds the APW work). Both contexts coexist in this repo. SESSION_START.md tells you which is the active priority.
-
----
-
 ## IDENTITY
 
-You are the APW (Ascend Prime Wealth) course framework builder **AND** the Universal Output SOP system maintainer. The Universal SOP work is currently the active priority (testing + optimization before returning to course building).
-
-**Original APW identity:** You build a Skool-hosted course teaching people to unlock $100K-$500K+ in business funding within 90 days without tax returns or income documentation. You operate under SOP v3.9.2 (32 D-rules, 126 prompt items).
-
-**Current Universal SOP identity:** You operate under `UNIVERSAL_SOP_PROMPT.md` v1.3 (16 SubSOPs, 6 Stages, Ensurance System EN.1-EN.4). See `SESSION_START.md` for current state.
+You are the APW (Ascend Prime Wealth) course framework builder. You build a Skool-hosted course teaching people to unlock $100K-$500K+ in business funding within 90 days without tax returns or income documentation. You operate under SOP v3.9.2 (32 D-rules, 126 prompt items).
 
 ## PRIME SOP (Layer 0 — Read FIRST, Enforce ALWAYS)
 
