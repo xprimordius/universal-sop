@@ -39,28 +39,17 @@ You are the APW (Ascend Prime Wealth) course framework builder **AND** the Unive
 **Bootstrap entry:** `SESSION_START.md` (read this BEFORE any other file)
 **Legacy foundation (reference only):** `cache/PRIME_SOP.md` v2.8 (12 stages, 32 D-rules — APW-era)
 
-## MANDATORY SESSION START (Current — Supersedes Legacy D25)
+## MANDATORY SESSION START — DEFER TO SESSION_START.md
 
-Before ANY work, execute this sequence:
-1. Read `SESSION_START.md` (official entry point — bootstrap instructions)
-2. Read `cache/SESSION_STATE.md` (current position + decisions + GitHub state)
-3. Read `cache/CONTINUATION.md` (last handoff with cumulative log)
-4. Read `cache/RPT_LOG.md` (repeated failures to NOT repeat)
-5. Read `UNIVERSAL_SOP_PROMPT.md` (the rulebook v1.3)
-6. **Optional (if depth needed):** Read `cache/PRIME_SOP.md` (foundational reference) and `cache/BRIDGE_SOP.md` (operational reference)
-7. **Optional (if APW work resumes):** Read 8 legacy APW cache files listed below
-8. Verify: All files exist? Timestamps current? Any contradictions?
-9. Report in this exact format:
-   ```
-   ✅ RESUMED
-   SOP: v1.3 loaded
-   Cache: [files found]
-   Current position: [from SESSION_STATE]
-   Pending P0: [from CONTINUATION]
-   Token budget: ~XK / 200K | Status: 🌱 GREEN
-   Ready.
-   ```
-10. ONLY THEN begin work.
+**Do not duplicate the session start procedure here.** It lives in `SESSION_START.md` as the canonical authoritative source.
+
+**Quick pointer:**
+1. Read `./SESSION_START.md` end-to-end FIRST
+2. Follow its STEP 1 mandatory reads (currently 7 files including USER_PROFILE.md and PROTOCOLS_REFERENCE.md)
+3. Use its STEP 2 confirmation format (9 lines)
+4. Wait per STEP 3 until Alan provides task direction
+
+**Conflict resolution:** If anything in this CLAUDE.md (especially the legacy zone below) conflicts with `SESSION_START.md` or `UNIVERSAL_SOP_PROMPT.md` v1.3 — the v1.3 SOP wins. See Precedence Rule at top of this file.
 
 ## ACTIVE CACHE FILES — Defer To SESSION_START.md STEP 1
 

@@ -71,6 +71,11 @@
 | 2026-05-21 | **F1 FUSION EXECUTED** — 3 historical SOPs moved to cache/legacy/ | AI executed | PRIME_SOP, BRIDGE_SOP, SOP_FULL_REFERENCE archived. INDEX.md with evolution timeline + APW D-rule → SubSOP mapping. |
 | 2026-05-21 | **F10 + F11 FUSIONS DOCUMENTED** — Token System + Visual System clusters added to PROTOCOLS_REFERENCE | AI executed | Visual System (SP.1+SP.2+SP.8), Token System (SP.3 TTE + LTM), Self-Check kept separate by design, F7/F8/F9 marked future |
 | 2026-05-21 | **Phase A FULLY COMPLETE** — F1 + F4 + F5 + F10 + F11 all executed | AI executed | Phase B fusions (F7 wrap-up consolidation, F8 failure ledger) now safe to execute next |
+| 2026-05-21 | FIFTH sub-agent validation — 7/10 friction (regression from 8/10 baseline) | AI executed | More rigorous auditor surfaced REAL bugs: CLAUDE.md duplicate session-start blocks + stale legacy paths (now fixed) |
+| 2026-05-21 | **HFR (Honest Failure Report) — Truncation Pattern (RPT.10)** | Alan called out 2026-05-21 | AI used "SP.1 MagNet" instead of "SP.1 MagNet (Magnetic Visual Engagement Protocol)" across 4+ outputs. STRUCTURAL fix: SubSOP reports use one row per protocol, full names mandatory, `<details>` expandable. |
+| 2026-05-21 | **HFR — No `<details>` in SubSOP Reports (RPT.11)** | Alan called out 2026-05-21 | Built expandable docs in PROTOCOLS_REFERENCE + INVENTORY but didn't propagate to dynamic SubSOP reports. FIX: EN.1 Output Skeleton updated to wrap SubSOP rows in `<details>`. |
+| 2026-05-21 | **Built STANDALONE_SOP.md** | Alan ("express full SOP for external claudes with no context") | Self-contained 17K rulebook — all 20 protocols expandable, 4 agents as reference roles, user profile, 6 stages, tier guide, example output, 12 non-negotiables |
+| 2026-05-21 | **CLAUDE.md v1.6** — MANDATORY SESSION START now defers to SESSION_START.md | AI executed (FT6 fix) | Eliminates three-block redundancy found in 5th sub-agent test |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
