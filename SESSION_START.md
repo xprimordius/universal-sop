@@ -90,21 +90,32 @@ Use the Read tool. Read FULLY, not skim. Do not start work until all 7 are read.
 
 ---
 
-## 🤖 ACTIVE AGENT ROSTER (Added 2026-05-21 After Field Test)
+## 🤖 ACTIVE AGENT ROSTER (Updated 2026-05-21 After F4 Fusion)
 
 When to invoke an agent (rare in normal flow — most outputs use inline SubSOPs):
 
 | 🆔 | 🤖 Agent | 📍 File | 🚪 When To Use |
 |:---:|---------|---------|---------------|
-| 1 | **Validator-Merged** (Layer 1) | `agents/validator-merged.md` | Framework deliverables — POVP + Completeness + Simplicity + Cross-ref. ~5K tokens. |
-| 2 | **Karen** (Layer 2) | `agents/karen-reality-check.md` | After Validator passes on MAJOR deliverables. Anti-rubber-stamp audit. ~7.5K tokens. |
-| 3 | **Cache Manager** | `agents/cache-manager.md` | Session start + after every locked decision. ~2.5K tokens. |
-| 4 | **Oversight Executive** | `agents/oversight-executive.md` | Coordinates agents 1-3 + 5. ~500 tokens. |
-| 5 | **Paradox Resolver** | `agents/paradox-resolver.md` | ON-DEMAND — SCIO/APW tension only. Rare. ~5K tokens. |
+| 1 | **Controller** | `agents/controller.md` | Session start + every deliverable + after locked decisions. Orchestrates + maintains cache. ~5K tokens/session. |
+| 2 | **Validator-Merged** (Layer 1) | `agents/validator-merged.md` | Framework deliverables — POVP + Completeness + Simplicity + Cross-ref. ~5K tokens. |
+| 3 | **Karen** (Layer 2) | `agents/karen-reality-check.md` | After Validator passes on MAJOR deliverables. Anti-rubber-stamp audit. ~7.5K tokens. |
+| 4 | **Paradox Resolver** | `agents/paradox-resolver.md` | ON-DEMAND — SCIO/APW tension only. Rare. ~5K tokens. |
 
 **Skip agents for:** conversational responses, status updates, clarifying questions, file summaries.
 
-**Note:** Jenny (standalone) was ARCHIVED 2026-05-21 — her role is fully absorbed into Validator-Merged Section A.
+**Architecture changes (2026-05-21):**
+- **F5:** Jenny (standalone) ARCHIVED — role absorbed by Validator-Merged Section A
+- **F4:** Oversight Executive + Cache Manager → **fused into Controller** (saves ~1.5K tokens/session)
+- Active agents: 7 (Mar 14) → 5 (May 21 morning) → **4** (May 21 evening)
+
+**Hierarchy:**
+```
+CONTROLLER (control plane: orchestrate + cache)
+    │
+    ├── VALIDATOR-MERGED (Layer 1)
+    ├── KAREN (Layer 2)
+    └── PARADOX RESOLVER (on-demand)
+```
 
 ---
 

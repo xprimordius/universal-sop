@@ -63,6 +63,10 @@
 | 2026-05-21 | **CLAUDE.md v1.5** — added 🚨🚨🚨 STOP warning at TOP with authority order + Auto Mode short-circuit | AI executed | Compensates for harness-injected `claudeMd` staleness |
 | 2026-05-21 | PROTOCOLS_REFERENCE promoted to MANDATORY STEP 1 read | AI executed | Rule #11 (full names) effectively requires it |
 | 2026-05-21 | Convergence ceiling: 8/10 in-session | AI observed | Remaining gaps require Alan's harness update OR real device test |
+| 2026-05-21 | **F4 FUSION EXECUTED** — Controller born (Oversight + Cache Manager → 1 agent) | Alan ("B") | Phase A SAFE fusion. Active agents 5 → 4. Saves ~1.5K tokens/session ongoing. |
+| 2026-05-21 | Validation workflow updated to v3.0 reflecting 4-agent architecture | AI executed | New hierarchy: Controller → Validator-Merged + Karen + Paradox Resolver |
+| 2026-05-21 | INVENTORY.md Master Summary Table updated for F4 | AI executed | 5 active → 4 active, 3 archived → 6 archived |
+| 2026-05-21 | Phase A fusions completed so far: F5 (Jenny) + F4 (Controller) | AI executed | Phase A remaining: F1 (archive historical SOPs), F10 (TTE+LTM merge in SOP doc), F11 (Visual System fusion) |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

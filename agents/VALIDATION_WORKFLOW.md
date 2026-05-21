@@ -1,6 +1,7 @@
-# APW VALIDATION WORKFLOW v2.0
+# APW VALIDATION WORKFLOW v3.0
 ## Consolidated: Inline Checklists + Karen Spot-Check + Resolver On-Demand
-**Last Updated:** March 13, 2026
+## **F4 FUSION APPLIED (2026-05-21):** Controller (Oversight + Cache Manager) is now ONE agent
+**Last Updated:** 2026-05-21
 
 ---
 
@@ -96,13 +97,23 @@ Builder creates output
 
 | Agent | File | Role | When |
 |-------|------|------|------|
-| Validator (merged) | validator-merged.md | Single-pass Layer 1 — POVP + Completeness + Simplicity + Process + Cross-ref | All framework deliverables |
+| Controller | controller.md | **Orchestration + Cache Integrity** (F4 fusion of Oversight + Cache Manager) | Session start + every deliverable + after decisions |
+| Validator-Merged | validator-merged.md | Single-pass Layer 1 — POVP + Completeness + Simplicity + Process + Cross-ref | All framework deliverables |
 | Karen | karen-reality-check.md | Layer 2 — auditor of auditors | Major deliverables |
 | Paradox Resolver | paradox-resolver.md | SCIO/APW tension analysis | On-demand |
-| Cache Manager | cache-manager.md | Data integrity | Session start + after decisions |
-| Oversight Executive | oversight-executive.md | Top-level controller | Coordinates all |
 
-**Note:** Jenny (standalone) was archived 2026-05-21 — her role (POVP word-by-word) is fully absorbed into Validator-Merged Section A. Do NOT invoke standalone Jenny. Use Validator-Merged.
+**Architectural changes (2026-05-21):**
+- **F5:** Jenny (standalone) archived — her POVP role fully absorbed into Validator-Merged Section A. Do NOT invoke standalone Jenny.
+- **F4:** Oversight Executive + Cache Manager → fused into single Controller agent. Saves ~1.5K tokens per session. 5 active agents → 4.
+
+**Hierarchy now:**
+```
+CONTROLLER (control plane: orchestrate + cache state)
+    │
+    ├── VALIDATOR-MERGED (Layer 1)
+    ├── KAREN (Layer 2)
+    └── PARADOX RESOLVER (on-demand)
+```
 
 ---
 

@@ -130,10 +130,67 @@ Located in `cache/subcache/` — distilled SCIO course knowledge for APW build:
 
 ## 🤖 ALL AGENTS — FOUND (FULL SPECTRUM)
 
-### Active Agents (Production) — Click To Expand Each
+### Active Agents (Production — Click To Expand Each)
+
+**Architecture (post-F4 fusion 2026-05-21):** 4 active agents — Controller + Validator-Merged + Karen + Paradox Resolver
 
 <details>
-<summary><b>🎩 OVERSIGHT EXECUTIVE — Top-Level Controller (file: agents/oversight-executive.md, 4.3KB)</b></summary>
+<summary><b>🎩 CONTROLLER — Orchestration + Cache Integrity (file: agents/controller.md, NEW 2026-05-21, F4 Fusion)</b></summary>
+
+#### Full Name
+**Controller — Universal SOP Top-Level Coordinator + Cache Integrity Agent**
+
+#### Born From
+**F4 Fusion (2026-05-21)** — Combines former Oversight Executive (orchestration) + former Cache Manager (state integrity) into single CONTROL plane agent.
+
+#### Role
+The unified control-plane agent. Does NOT do content work (that's Validator-Merged + Karen). Combines:
+1. **Orchestration** (formerly Oversight Executive) — delegate Layer 1/Layer 2/Resolver agents
+2. **State Integrity** (formerly Cache Manager) — keep cache files current, detect drift, repair corruption
+
+#### When Invoked
+- 🟢 Session start (mandatory) — read 7 STEP 1 files + integrity check + report
+- 🟡 Every framework deliverable START — task scope, budget check, agent delegation
+- 🟡 Every framework deliverable END — verify delivery, cache update, transparency report
+- 🔴 After every locked decision — update SESSION_STATE + relevant caches
+- 🔴 On SP.3 TTE (Token Threshold Engine) threshold alert — checkpoint protocol
+- ⚠️ On suspected data corruption — restore from backup, log incident
+
+#### Hierarchy
+```
+CONTROLLER (this — control plane)
+    │
+    ├── VALIDATOR-MERGED (Layer 1 — content + compliance)
+    ├── KAREN (Layer 2 — audits the auditors)
+    └── PARADOX RESOLVER (on-demand — SCIO/APW tensions)
+```
+
+#### Integrity Checks Performed
+- Cross-cache consistency (SESSION_STATE ↔ CONTINUATION ↔ RPT_LOG)
+- Staleness detection (footer dates, version drift)
+- Completeness (locked decisions in 2+ caches, HFR-class failures in RPT)
+- Backup verification
+
+#### Token Cost
+- Session start integrity check: ~1,500
+- Per-deliverable orchestration: ~1,000
+- Cache update after decision: ~500
+- Typical session overhead: **~5,000 tokens**
+- **Savings vs pre-fusion: ~1,500 tokens per session** (was ~6,500)
+
+#### SOPs Followed
+- Universal SOP v1.3 (16 SubSOPs + 4 Ensurance)
+- PROTOCOLS_REFERENCE.md (full names + acronyms)
+- SESSION_START.md (bootstrap procedure)
+- Legacy: PRIME_SOP D25/D28/D32 (historical reference)
+
+#### Status
+✅ ACTIVE — replaces Oversight Executive + Cache Manager (both archived to `agents/archive/` 2026-05-21)
+
+</details>
+
+<details>
+<summary><b>🎩 OVERSIGHT EXECUTIVE (ARCHIVED — Folded Into Controller 2026-05-21)</b></summary>
 
 #### Full Name
 **Oversight Executive — APW Top-Level Controller**
@@ -332,7 +389,7 @@ AFTER Layer 1 passes, on EVERY major framework deliverable. Last gate before Ala
 </details>
 
 <details>
-<summary><b>💾 CACHE MANAGER — Data Integrity (file: agents/cache-manager.md, 4KB)</b></summary>
+<summary><b>💾 CACHE MANAGER (ARCHIVED — Folded Into Controller 2026-05-21)</b></summary>
 
 #### Full Name
 **CACHE MANAGER — APW Data Integrity Agent (Handles: Updates, Backups, Break Prevention, Repair, Token Tracking)**
@@ -554,16 +611,23 @@ source_files/
 | Active cache files | 4 | 4 | — | — |
 | Legacy APW cache files | 9 | — | 9 | — |
 | Sub-cache files (SCIO) | 10 | — | 10 | — |
-| Active agents | 5 | 5 | — | — |
-| Standalone agents (overlap) | 1 (Jenny) | 1 | — | — |
-| Archived agents | 3 | — | — | 3 |
+| Active agents | **4** (post-F4 + F5) | **4** | — | — |
+| Archived agents | **6** (3 original + Jenny F5 + Oversight F4 + Cache Manager F4) | — | — | **6** |
 | User-uploaded agent ideas | 8 | — | 8 | — |
 | Scripts | 7 | — | 7 | — |
-| Active documentation | 9 | 9 | — | — |
+| Active documentation | **11** (added PROTOCOLS_REFERENCE + REAL_DEVICE_TEST) | **11** | — | — |
 | Historical documentation | 2 | — | 2 | — |
 | SOP version backups | 18+ | — | — | 18+ |
 | Source files (APW course) | ~30 | — | 30 | — |
-| **TOTAL UNIQUE FILES** | **~120** | **~32 active** | **~70 legacy** | **~21 archived** |
+| **TOTAL UNIQUE FILES** | **~123** | **~33 active** | **~70 legacy** | **~24 archived** |
+
+### 🏗️ Agent Architecture Evolution
+| 📅 Date | 🤖 Active Count | 🔀 Change | 💰 Token Win |
+|---------|:---------------:|----------|:-----------:|
+| Mar 14 | 7 (proposed) | Original architecture | — |
+| Mar 14 | 6 → 5 | Layer 1 quad-fusion → Validator-Merged | ~12K/validation |
+| May 21 | 5 → 5 | Jenny standalone archived (F5 — was redundant with Validator-Merged Section A) | ~4K (when invoked) |
+| May 21 | 5 → **4** | **F4 fusion: Oversight + Cache Manager → Controller** | ~1.5K/session ongoing |
 
 ---
 

@@ -44,3 +44,9 @@
 | 39 | 2026-05-21 | (in-place edit) | CLAUDE.md | v1.5 | Added prominent 🚨🚨🚨 STOP warning at TOP — explicit authority order + Auto Mode short-circuit (FT4.1 + FT4.4 fix) | ✅ |
 | 40 | 2026-05-21 | (in-place edit) | cache/CONTINUATION.md | v3.1 | Footer corrected: was "Session 4 (2026-05-18)", now "Session 5 (2026-05-21)" (FT4.2 fix) | ✅ |
 | 41 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.3 | PROTOCOLS_REFERENCE.md promoted from optional to MANDATORY STEP 1 read #6 (FT4.3 fix). Total mandatory: 7 files. Off-by-one updated. | ✅ |
+| 42 | 2026-05-21 | cache/backups/oversight-executive.md.20260521_pre_F4_fusion_backup | agents/oversight-executive.md → agents/archive/ | — | F4 EXECUTED — Oversight Executive archived as part of fusion into Controller | ✅ |
+| 43 | 2026-05-21 | cache/backups/cache-manager.md.20260521_pre_F4_fusion_backup | agents/cache-manager.md → agents/archive/ | — | F4 EXECUTED — Cache Manager archived as part of fusion into Controller | ✅ |
+| 44 | 2026-05-21 | — | agents/controller.md | v1.0 | New file — F4 fusion result. Combines Oversight Executive (orchestration) + Cache Manager (state integrity) into single control-plane agent. Saves ~1.5K/session. | N/A (new file) |
+| 45 | 2026-05-21 | (in-place edit) | agents/VALIDATION_WORKFLOW.md | v3.0 | Updated to v3.0 reflecting F4 fusion. Hierarchy diagram updated. Old 5-agent table replaced with 4-agent table. | ✅ |
+| 46 | 2026-05-21 | (in-place edit) | INVENTORY.md | v1.2 | Controller added as #1 active agent. Oversight + Cache Manager marked archived. Master Summary Table updated (5 → 4 active, 3 → 6 archived). Agent Architecture Evolution timeline added. | ✅ |
+| 47 | 2026-05-21 | (in-place edit) | SESSION_START.md | v1.4 | Agent Roster updated for F4: Controller now #1, removed Oversight + Cache Manager rows. Architecture changes block added. | ✅ |
