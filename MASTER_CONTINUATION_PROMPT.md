@@ -86,7 +86,7 @@ Run `bash scripts/check_device_activity.sh` and confirm:
 Do not start new work. Do not propose changes. Display the BOOTSTRAP CONFIRMATION (9 lines from Step 3) and wait for Alan to direct the next action.
 
 **MANDATORY RULES (from UNIVERSAL_SOP_PROMPT.md v1.3):**
-- Rule #11: Use FULL protocol names + acronyms on EVERY use (not just first). Example: "Token Transparency Estimate (TTE) + Long-Term Memory (LTM)" — never bare "TTE + LTM".
+- Rule #11: Use FULL protocol names + acronyms on EVERY use (not just first). Example: "SP.3 TTE (Token Threshold Engine) + LTM (Live Token Monitor)" — never bare "TTE + LTM".
 - Rule #13: Run `bash scripts/compliance_check.sh` before any commit. Pre-commit hook will enforce. Do NOT use `--no-verify` without explicit Honest Failure Report (HFR) justification.
 - Append-only: cache/SESSION_STATE.md, cache/CONTINUATION.md, cache/FAILURE_LEDGER.md, cache/BACKUP_LOG.md NEVER shrink. Add entries; never delete history.
 - Device naming: Every commit message must follow `[device-name | YYYY-MM-DD HH:MM TZ] summary` format.
