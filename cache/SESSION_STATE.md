@@ -130,6 +130,10 @@
 | 2026-05-21 | **CHAT HISTORY BACKUP IMPLEMENTED** — chat_archive/ folder + script + README | Alan ("back up chat history, AI reasoning, tool logs is very important") | Session 5 JSONL (4.4 MB) snapshotted. Reusable archiver script. Workflow documented. |
 | 2026-05-21 | Honest gap closed: chat transcript NOW backed up via git | Was: local-only (lost if Mac dies). Now: in repo, synced to GitHub. | Includes 397 user turns, 672 assistant turns, all tool calls/outputs, all sub-agent reports |
 | 2026-05-21 | Session-end workflow updated in MULTI_DEVICE protocol | AI executed | "End session" now triggers chat archive BEFORE commit, ensuring next device gets full transcript |
+| 2026-05-21 | **FAILURE_MODES_ANALYSIS.md built** — 50+ future failure modes across 14 categories | Alan ("explore ways it would break, lose fidelity, lose accuracy") | Each: manifestation + impact + resolution + gap identification. Highest-risk: O1 OBJECTIVE DRIFT (SOP became the project). |
+| 2026-05-21 | consistency_check.sh script created | AI executed (gap C2 fix) | Detects version drift, stale refs, file count anomalies before commit |
+| 2026-05-21 | archive_chat.sh hardened (gap A3 fix) | AI executed | Empty-file check + 50MB size warning |
+| 2026-05-21 | **HONEST META-RECOGNITION: O1 — SOP work overshadowed APW course (the original project)** | FAILURE_MODES analysis | 14+ sessions on SOP. APW Module 4.1 not progressed. SOP is ship-ready. Next session should be APW work. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
