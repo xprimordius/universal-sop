@@ -158,14 +158,24 @@ You may NEVER tier-down from COMPLEX (multi-file/multi-step inherently warrants 
 
 ## 🏗️ EVERY OUTPUT MUST INCLUDE — Mandatory Components
 
-### Line 1 — Step Header
+### Line 1 — Step Header (Updated F.13 fix 2026-05-21 — Now Includes Goal Tracking)
 
 ```
 STEP: [clear action — what this deliverable is]
 SOP: v1.3 | TIER: [QUICK / STANDARD / COMPLEX]
+🎯 MACRO: [original project goal — e.g., "Build APW course"]
+🎯 MICRO: [current session goal — e.g., "Add Token Optimization to SOP"]
 SCOPE: [bounded — what's in, what's out]
-EST: 📊 ~XK tokens · ⏱️ N/M (wall-clock unmeasurable for LLMs — mark N/M, do not fabricate per CR1 fix 2026-05-21)
+EST: 📊 ~XK tokens · ⏱️ N/M
 ```
+
+**Why mandatory:** Prevents objective drift (O1 in FAILURE_MODES_ANALYSIS). Without macro visible every output, sessions can wander off-objective (e.g., 14 sessions on SOP without returning to APW course).
+
+**Where to source:**
+- MACRO: from `SESSION_STATE.md` → "MACRO GOAL" field (if not present, ASK USER first time)
+- MICRO: from current user prompt — what THIS session is trying to accomplish
+
+**If macro is unclear:** STOP. Ask the user. Better to lose 1 minute clarifying than 14 sessions drifting.
 
 ### Stage 1 (STANDARD/COMPLEX) — Understanding Check Table
 
@@ -617,12 +627,15 @@ P1-P10 are mechanical (used for QUICK tier). P11-P15 are depth checks (added for
 | **P13** | **No hedging without real uncertainty** | "Maybe/I think" used only when warranted |
 | **P14** | **Specific file paths + line numbers when claiming evidence** | FSP discipline |
 | **P15** | **All 8 guardrails (G.1-G.8) honored** | Anti-decay check |
-| | **Score: X/15 — Must be 15/15** | |
+| **P16** | **🎯 MACRO + MICRO goal visible in step header** | Prevents objective drift (F.13 fix 2026-05-21) |
+| | **Score: X/16 — Must be 16/16** | |
 
-**Tier → Form mapping (CR5 fix 2026-05-21 — "2.0" naming removed):**
-- 🟢 QUICK tier → P1-P10 (Basic Form)
-- 🟡 STANDARD tier → P1-P15 (Extended Form, recommended)
-- 🔴 COMPLEX tier → P1-P15 (Extended Form, REQUIRED)
+**Tier → Form mapping (CR5 fix 2026-05-21 — "2.0" naming removed, F.13 added P16):**
+- 🟢 QUICK tier → P1-P10 + **P16 (macro/micro)** (Basic Form, 11 items)
+- 🟡 STANDARD tier → P1-P16 (Extended Form, recommended, 16 items)
+- 🔴 COMPLEX tier → P1-P16 (Extended Form, REQUIRED, 16 items)
+
+**P16 is universal** — goal visibility matters in every tier. No exceptions.
 
 ---
 

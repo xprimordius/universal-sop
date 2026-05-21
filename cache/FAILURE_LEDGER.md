@@ -168,6 +168,28 @@ Every entry uses this format:
 </details>
 
 <details>
+<summary><b>F.13 — Macro/Micro Goal Tracking Structurally Absent [FAILURE × 1, multi-session pattern] — ✅ FIXED 2026-05-21</b></summary>
+
+- **Type:** FAILURE (multi-session structural gap)
+- **First Observed:** Session 5 — Alan asked "we need to have macro and micro goal always front of mind"
+- **Times:** 1 (but underlying drift accumulated across 14+ sessions)
+- **Root Cause:** 
+  - SESSION_STATE.md had "CURRENT POSITION" but no explicit MACRO vs MICRO distinction
+  - No SubSOP or Pulse Check item enforced goal visibility per-output
+  - No dedicated agent for goal anchoring (Controller did orchestration, not goal-tracking)
+  - When O1 OBJECTIVE DRIFT was identified in FAILURE_MODES_ANALYSIS yesterday, I LISTED it as a risk but did NOT structurally fix it — this is "acknowledge without execute" (RPT.7 / F.7 pattern recurring)
+- **Permanent Fix (STRUCTURAL):**
+  1. Step header format now MANDATORY includes `🎯 MACRO:` + `📌 MICRO:` lines (STANDALONE_SOP updated)
+  2. Pulse Check extended to P16: "MACRO + MICRO goal visible in step header" (universal across all tiers)
+  3. SESSION_STATE.md restructured with explicit GOAL TRACKING section: macro goal, micro goal, goal status, macro-level next action, micro-level next action
+  4. SESSION_START STEP 2 confirmation format updated to surface macro/micro immediately
+- **Fixed:** 2026-05-21 (same output where called out)
+- **Verified:** This very output uses the new step header format with MACRO + MICRO at top
+- **Lesson:** Identifying a risk in analysis ≠ fixing it. Risks must be operationalized into mechanical enforcement (Pulse Check item) to actually prevent recurrence.
+
+</details>
+
+<details>
 <summary><b>F.12 — Pre-Flight Gate + Pulse Check 2.0 redundancy [FAILURE × 1, design error] — ✅ FIXED 2026-05-21</b></summary>
 
 - **Type:** FAILURE (single-occurrence design error)

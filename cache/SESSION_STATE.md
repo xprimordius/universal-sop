@@ -1,5 +1,27 @@
 # SESSION STATE
-# VERSION: 1.3 | Updated: 2026-05-21 | SOP: v1.3
+# VERSION: 1.8 | Updated: 2026-05-21 | SOP: v1.3
+
+## 🎯 GOAL TRACKING (F.13 fix — MANDATORY surface in every output step header)
+
+### 🌐 MACRO GOAL (Original Project Objective)
+**Build APW (Ascend Prime Wealth) course** — A Skool-hosted course teaching $100K-$500K business funding in 90 days without tax returns or income documentation. (Source: project genesis Mar 13, 2026.)
+
+### 📌 MICRO GOAL (Current Session Focus)
+**Universal Output SOP ship-ready + return to APW work.** SOP infrastructure 95% complete. Goal: address objective drift, prepare APW resume.
+
+### 📊 GOAL STATUS
+- **Macro progress:** APW course Module 4.1 (7DFS Lessons) — **PAUSED** since session 3 (Apr 16). 14+ sessions on SOP infrastructure instead.
+- **Macro time invested:** ~40+ hours on SOP (which serves APW but isn't APW).
+- **Micro progress:** SOP infrastructure 95% complete. STANDALONE_SOP shippable. MULTI_DEVICE_GIT_PROTOCOL + TOKEN_OPTIMIZATION_GUIDE + FAILURE_MODES_ANALYSIS done.
+- **Drift acknowledged:** O1 in FAILURE_MODES_ANALYSIS — SOP became the project.
+
+### ▶️ MACRO-LEVEL NEXT ACTION (Highest-Value)
+**Return to APW course building.** Resume Module 4.1 — 7DFS Lessons. SOP is good enough.
+
+### ▶️ MICRO-LEVEL NEXT ACTION (This Session)
+F.13 fix applied — macro+micro now in every step header. Next: APW work or finish remaining SOP polish if explicitly requested.
+
+---
 
 ## 📍 CURRENT POSITION
 - **Active Work:** Field test validation executed + bootstrap fidelity gaps closed
@@ -137,6 +159,9 @@
 | 2026-05-21 | **TOKEN OPTIMIZATION analysis + 3 fixes applied** | Alan ("reduced token use while maintaining quality") | Fast-Path is now DEFAULT (~18K saved/session), chat_archive excluded from bootstrap (~5-10K saved), sub-agent skip conditions defined (~16K × skipped tests) |
 | 2026-05-21 | **TOKEN_OPTIMIZATION_GUIDE.md built** | AI executed | 6 optimizations documented with savings + trade-offs + multi-device workflow. Honest: Obsidian doesn't reduce AI tokens (human reading only). Projected ~50-60% reduction in continuation sessions. |
 | 2026-05-21 | Multi-device economics: ~1.2M tokens/year saved (estimated) | Projection | 50 sessions × 18K + 20 skipped tests × 16K = significant cumulative savings |
+| 2026-05-21 | **F.13 fix EXECUTED — macro/micro goal tracking structural** | Alan ("we must always have macro and micro goal front of mind") | Step header now mandatory includes 🎯 MACRO + 📌 MICRO. P16 added to Pulse Check. SESSION_STATE has GOAL TRACKING section. Bootstrap confirmation surfaces both immediately. |
+| 2026-05-21 | **HONEST**: F.13 root cause = identified-but-not-fixed (RPT.7 recurrence) | HFR | I named O1 OBJECTIVE DRIFT in FAILURE_MODES yesterday but only LISTED it. Alan caught the gap. Lesson: identification ≠ resolution. Operationalize via mechanical enforcement. |
+| 2026-05-21 | **Macro priority RE-SURFACED: Return to APW course (Module 4.1)** | F.13 result | SOP is ship-ready. APW work is the original objective. Next session should be APW unless explicitly redirected. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

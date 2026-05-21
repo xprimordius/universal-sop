@@ -273,18 +273,25 @@ After reading STEP 1 files, send this message to the user:
 
 ```
 ✅ RESUMED
-SOP: v1.3 loaded | 16 SubSOPs active
+SOP: v1.3 loaded | 16 SubSOPs + EN.1-EN.4
+
+🎯 MACRO: [from SESSION_STATE.md "GOAL TRACKING" → MACRO GOAL]
+📌 MICRO: [from SESSION_STATE.md "GOAL TRACKING" → MICRO GOAL]
+📊 Macro Status: [from GOAL STATUS — progress vs original objective]
+
 Cache files loaded: [list what was found]
 Current position: [from SESSION_STATE.md "CURRENT POSITION" section]
 Last decisions: [last 3 entries from SESSION_STATE.md "DECISIONS LOG"]
-Active D-rules / focus: [from SESSION_STATE.md]
-Open items / next steps: [from CONTINUATION.md]
+▶️ Macro-level next action: [from GOAL TRACKING]
+▶️ Micro-level next action: [from GOAL TRACKING]
 Repeated failures to avoid: [count from FAILURE_LEDGER.md]
 
 Token budget: ~XK loaded / 200K | Status: 🌱 GREEN
 
 Ready for your task.
 ```
+
+**F.13 fix 2026-05-21:** Confirmation format now surfaces MACRO + MICRO goals immediately. Prevents 14-session objective drift.
 
 Then **WAIT** for the user's next message.
 
