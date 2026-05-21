@@ -101,6 +101,10 @@
 | 2026-05-21 | **10th sub-agent QA — 8.5/10 MAINTAINED** | AI executed | All 3 D additions validated KEEP-worthy. 5 FT12.x recommendations. |
 | 2026-05-21 | FT12.1 + FT12.2 + FT12.3 applied | AI executed | BOOTSTRAP_CHECK promoted mandatory STEP 1 #8, STEP 0.1 harness drift detector, honest 60s/90s timing |
 | 2026-05-21 | **MILESTONE: 10 sub-agent tests complete, peak friction 8.5/10** | Session 5 end | In-session validation plateau characterized. Real device test is now the ONLY remaining validation. |
+| 2026-05-21 | **C executed** — PUBLIC_SHARE_KIT.md built | Alan ("C D + QA") | Sharing guidance for STANDALONE_SOP (gist/repo/paste, MIT/CC license, privacy checklist) |
+| 2026-05-21 | **D executed (FT12.4)** — SESSION_START fast-path bootstrap added | Alan ("C D + QA") | TWO paths: COLD START (8 files, ~28K) or FAST-PATH (3 files, ~10K) for continuation sessions. Validation gate + "when in doubt: COLD" rule. |
+| 2026-05-21 | **11th sub-agent QA → 8.5/10 MAINTAINED** | AI executed | Both additions validated KEEP. 7 FT13.x recommendations. FT13.1+FT13.2 applied. |
+| 2026-05-21 | **MILESTONE: 11 sub-agent tests, peak 8.5/10, plateau stable** | Session 5 end | All in-session validation paths exhausted. Real device test is canonical next step. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

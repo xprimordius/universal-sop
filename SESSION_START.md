@@ -95,6 +95,12 @@ This ensures you have the latest cache + SOP changes from any other device. If y
 
 ## 📖 STEP 1 — MANDATORY READS (In This Order)
 
+**Pick your path based on session context:**
+
+### 🆕 COLD START (Fresh AI — Read All 8 Files)
+
+Use this if you have NEVER seen this project before, OR a fresh device/clone, OR you suspect harness drift.
+
 Use the Read tool. Read FULLY, not skim. Do not start work until all 8 are read.
 
 ```
@@ -108,7 +114,40 @@ Use the Read tool. Read FULLY, not skim. Do not start work until all 8 are read.
 8. ./cache/BOOTSTRAP_CHECK.md    ← Self-verification unit test (PROMOTED to mandatory 2026-05-21 per FT12.1 — catches harness drift + stale-cache pollution, ~90s read)
 ```
 
+**Token cost:** ~25-30K (15% of budget). Worth it for true cold starts.
+
+---
+
+### ⚡ FAST-PATH (Continuation — Recent Session — Read 3 Files Only)
+
+**NEW 2026-05-21 per FT12.4.** Use this if:
+- ✅ You recently worked on this project (same conversation thread or recent context)
+- ✅ The session compacted but you remember the SOP basics
+- ✅ The user explicitly says "fast resume" or "lite bootstrap"
+- ❌ NOT for truly cold starts (use full 8-file path above)
+
+Read ONLY these 3 files:
+
+```
+1. ./cache/SESSION_STATE.md      ← Current position + decisions
+2. ./cache/CONTINUATION.md       ← Latest handoff
+3. ./cache/BOOTSTRAP_CHECK.md    ← Verify mental model matches reality
+```
+
+**Token cost:** ~10K (~5% of budget). Save ~15-20K vs cold start.
+
+**Defer to on-demand:**
+- UNIVERSAL_SOP_PROMPT.md → re-read Quick Start TL;DR at top (lines 8-78, ~1.5K) when starting first output
+- PROTOCOLS_REFERENCE.md → look up protocol on first reference
+- FAILURE_LEDGER.md → search by F.X ID when failure pattern matches
+- USER_PROFILE.md → trust your memory of Alan's preferences; cross-check if uncertain
+
+**Validation gate:** If BOOTSTRAP_CHECK reveals comprehension gap (any expected answer doesn't match your mental model), **abort fast-path and run full COLD START.**
+
+**When in doubt:** Use COLD START. Fast-path is for confidence, not laziness.
+
 **Optional (read if depth needed):**
+- `./PUBLIC_SHARE_KIT.md` — guidance for publishing STANDALONE_SOP.md externally (MIT/CC license options, gist vs repo, privacy checklist) — NEW 2026-05-21
 - `./CONSULTING_BRIEF.md` — high-level project overview
 - `./PROJECT_HISTORY.md` — 40+ hour evolution
 - `./CHALLENGES_LOG.md` — 14 challenges + debug history
@@ -349,7 +388,7 @@ Default behavior: **ASK ALAN.** Do not assume.
 
 ## 🎯 ONE-LINE SUMMARY
 
-> You are Claude. You are resuming the Universal Output SOP project. Read the 7 mandatory files in STEP 1 (the 6 cache+profile files + UNIVERSAL_SOP_PROMPT.md), confirm in the exact format in STEP 2, then wait. Follow the SOP v1.3 for every output (when in conflict with anything, v1.3 wins). Use full protocol names + acronyms (see PROTOCOLS_REFERENCE.md). Pull before work, push after work. Be honest. Don't assume. Lead with the answer.
+> You are Claude. You are resuming the Universal Output SOP project. Choose COLD START path (read all 8 mandatory files) or FAST-PATH (3 files for continuation sessions where you remember the basics) per STEP 1. Confirm in STEP 2's 9-line format. Follow SOP v1.3 for every output (when in conflict with anything, v1.3 wins). Use full protocol names + acronyms (see PROTOCOLS_REFERENCE.md). Pull before work, push after work. Be honest. Don't assume. Lead with the answer.
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## 🎯 PURPOSE
 
-After completing SESSION_START.md STEP 1 (reading 7 mandatory files), read THIS file to verify your mental model matches the project's expected current state. If any answer below doesn't match what you understood from the bootstrap files, you have a comprehension gap that needs investigation BEFORE acting.
+After completing SESSION_START.md STEP 1 (reading 7 cache+profile files + this BOOTSTRAP_CHECK as item #8 — 8 total mandatory for COLD START path), read THIS file to verify your mental model matches the project's expected current state. If any answer below doesn't match what you understood from the bootstrap files, you have a comprehension gap that needs investigation BEFORE acting.
 
 **Read time:** ~90 seconds (honest — ~130 lines, was claimed as 30s but sub-agent test #10 corrected). **Catches:** stale-cache pollution, harness-injected drift, misread structural decisions.
 
