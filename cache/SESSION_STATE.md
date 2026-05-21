@@ -172,6 +172,7 @@ F.13 fix applied — macro+micro now in every step header. Next: APW work or fin
 | 2026-05-21 | Session 5 extended chat ARCHIVED — 5.2 MB JSONL | bash archive_chat.sh | 1805 lines, 489 user / 824 assistant turns. Available in chat_archive/session_5_continued_20260521_172216/ |
 | 2026-05-21 | CONTINUATION.md v4.0 — comprehensive Session 5 handoff + new-chat continuation guide | AI executed | Per Alan: "how to continue in new chat to reset token count but maintain everything". Exact resume prompt embedded. |
 | 2026-05-21 | **READY FOR NEW CHAT TEST** | Session 5 end | New chat can resume via Fast-Path (3 files, ~10K tokens) + access full chat_archive if needed |
+| 2026-05-21 | **MASTER_CONTINUATION_PROMPT.md v1.0 built** (THE one-stop paste prompt) | AI executed at 95% capacity per Alan urgent request | Single self-contained prompt for ANY new device/chat. README.md updated to surface it at top entry-point table. 90-second new-device setup documented. Closes Session 5 final critical task. |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |
