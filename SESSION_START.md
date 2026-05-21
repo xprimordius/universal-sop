@@ -136,17 +136,34 @@ Read ONLY these 3 files:
 
 **Token cost:** ~10K (~5% of budget). Save ~15-20K vs cold start.
 
-**Defer to on-demand:**
-- UNIVERSAL_SOP_PROMPT.md → re-read Quick Start TL;DR at top (lines 8-78, ~1.5K) when starting first output
-- PROTOCOLS_REFERENCE.md → look up protocol on first reference
-- FAILURE_LEDGER.md → search by F.X ID when failure pattern matches
-- USER_PROFILE.md → trust your memory of Alan's preferences; cross-check if uncertain
+**Defer to on-demand (FT13.5 — now as table per USER_PROFILE preference):**
 
-**Validation gate:** If BOOTSTRAP_CHECK reveals comprehension gap (any expected answer doesn't match your mental model), **abort fast-path and run full COLD START.**
+| 📄 File | 🔍 When To Load | 🔎 Search Keyword |
+|---------|----------------|-------------------|
+| UNIVERSAL_SOP_PROMPT.md | Starting first output | Read Quick Start TL;DR (lines 8-95, ~2K) |
+| PROTOCOLS_REFERENCE.md | First reference to an unfamiliar protocol | Search by "SP.X" or full name |
+| FAILURE_LEDGER.md | Failure pattern matches a guardrail | Search by F.X or pattern (e.g., "LTM", "truncation") |
+| USER_PROFILE.md | Uncertain about Alan's preference | Trust memory; cross-check if friction surfaces |
+| CLAUDE.md | Verifying precedence rule | Read STOP banner only (lines 1-30) |
+
+### ⚠️ VALIDATION GATE (Highest-Risk Failure Mode — FT13.3 Made Prominent)
+
+> **If BOOTSTRAP_CHECK reveals ANY comprehension gap (any expected answer doesn't match your mental model), you MUST abort fast-path and run full COLD START.**
+>
+> Example gaps that trigger abort (FT13.4):
+> - You think there are 5 or 7 agents (correct: **4**)
+> - You think the failure log is RPT_LOG.md (correct: **FAILURE_LEDGER.md** since F8 fusion)
+> - You think SOP version is v3.9.2 or you see "32 D-rules" (correct: **v1.3, 16 SubSOPs**)
+> - You think APW course is active (correct: **PAUSED**)
+> - You used "Caches Loaded" 5-line confirmation (correct: **STEP 2 9-line format**)
+>
+> **A 30-second abort + COLD START beats shipping a wrong-state output.**
 
 **When in doubt:** Use COLD START. Fast-path is for confidence, not laziness.
 
 **Optional (read if depth needed):**
+- `./STANDALONE_SOP.md` — hosts the EN.4 Pulse Check 2.0 (P1-P15) — READ if doing STANDARD/COMPLEX work (FT14.3 reference)
+- `./EFFICIENCY_GUIDE.md` — honest analysis of friction ceiling + 5 reachable gains — READ if pushing toward 9.0+ friction score
 - `./PUBLIC_SHARE_KIT.md` — guidance for publishing STANDALONE_SOP.md externally (MIT/CC license options, gist vs repo, privacy checklist) — NEW 2026-05-21
 - `./CONSULTING_BRIEF.md` — high-level project overview
 - `./PROJECT_HISTORY.md` — 40+ hour evolution

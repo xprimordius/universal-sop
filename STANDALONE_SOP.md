@@ -534,6 +534,37 @@ For EVERY output (even simple ones):
 
 ---
 
+## 🛡️ EN.4 Pulse Check 2.0 — Extended To 15 Items (F.12 Consolidation — Pre-Flight Gate Folded In)
+
+**Honest note (F.12 in FAILURE_LEDGER):** Earlier draft had BOTH a separate "Pre-Flight Gate" (5 checks) AND Pulse Check 2.0 (P11-P15 with same content). 12th sub-agent test caught this as redundant friction. CONSOLIDATED to Pulse Check 2.0 only.
+
+P1-P10 are mechanical. P11-P15 are the depth checks (effectively the Pre-Flight Gate inline):
+
+| # | 🛡️ Check | 📝 What It Tests |
+|:-:|----------|------------------|
+| P1 | Step table all columns | Mechanical |
+| P2 | LTM every section | Mechanical |
+| P3 | Step header line 1 | Mechanical |
+| P4 | Understanding Check (STANDARD+) | Mechanical |
+| P5 | Backups before edits | Mechanical (N/A acceptable chat-only) |
+| P6 | Conclusion maps to prompt | Mechanical |
+| P7 | Debt counter honest | Mechanical |
+| P8 | SubSOP report present | Mechanical |
+| P9 | Foresight + analysis at end | Mechanical |
+| P10 | Acronyms expanded first use | Mechanical |
+| **P11** | **PROPORTIONALITY honored** | Output size matches ask size |
+| **P12** | **`<details>` expandable in SubSOP report** | Rule #12 |
+| **P13** | **No hedging without real uncertainty** | "Maybe/I think" used only when warranted |
+| **P14** | **Specific file paths + line numbers when claiming evidence** | FSP discipline |
+| **P15** | **All 8 guardrails (G.1-G.8) honored** | Anti-decay check |
+| | **Score: X/15 — Must be 15/15** | |
+
+**Choose:** Pulse Check 10 (basic) or Pulse Check 15 (with depth checks). For COMPLEX outputs, always use 15.
+
+---
+
+---
+
 ## 🔄 SESSION CONTINUITY (If Multi-Output Conversation)
 
 If you produce multiple outputs in one session:

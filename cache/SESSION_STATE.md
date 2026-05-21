@@ -105,6 +105,10 @@
 | 2026-05-21 | **D executed (FT12.4)** — SESSION_START fast-path bootstrap added | Alan ("C D + QA") | TWO paths: COLD START (8 files, ~28K) or FAST-PATH (3 files, ~10K) for continuation sessions. Validation gate + "when in doubt: COLD" rule. |
 | 2026-05-21 | **11th sub-agent QA → 8.5/10 MAINTAINED** | AI executed | Both additions validated KEEP. 7 FT13.x recommendations. FT13.1+FT13.2 applied. |
 | 2026-05-21 | **MILESTONE: 11 sub-agent tests, peak 8.5/10, plateau stable** | Session 5 end | All in-session validation paths exhausted. Real device test is canonical next step. |
+| 2026-05-21 | **D + Efficiency Push executed** — FT13.x polish + EFFICIENCY_GUIDE + Pre-Flight Gate + Pulse Check 2.0 | Alan ("D + Increase efficiency for 100%") | Mixed result — see F.12 |
+| 2026-05-21 | **F.12 HFR — design error caught by 12th sub-agent** | AI HFR | Pre-Flight Gate + Pulse Check 2.0 = redundant. Consolidated to Pulse Check 2.0 only. |
+| 2026-05-21 | **12th sub-agent QA — 8.5/10 MAINTAINED, plateau confirmed final** | AI executed | Net efficiency gain: ~0 (additions balanced by F.12 redundancy). Honest ceiling reached. |
+| 2026-05-21 | **HONEST CONCLUSION: in-session optimization ceiling = 8.5/10** | EFFICIENCY_GUIDE | Path to 9.5+/10 requires harness fix (Alan) + cross-device test + cross-model test |
 
 ## 📣 USER PROMPTS (Key Instructions — Alan's Exact Words)
 | 📅 Date | 📣 Prompt (Verbatim) | 📝 Context |

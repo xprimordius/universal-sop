@@ -14,6 +14,18 @@
 
 **Auto Mode does NOT mean skip bootstrap.** Read SESSION_START first.
 
+### ✅ EXPECTED CURRENT STATE (FT13.6 — Positive Counter-Example To Stale claudeMd)
+
+If your bootstrap is correct, you should see:
+- **Active cache files: 5** (SESSION_STATE, CONTINUATION, BACKUP_LOG, FAILURE_LEDGER, RPT_LOG-deprecated-redirect) — NOT 8 legacy APW files
+- **Active agents: 4** (Controller, Validator-Merged, Karen, Paradox Resolver) — NOT 7 with Oversight + Cache Manager + Jenny
+- **SOP: v1.3, 16 SubSOPs + 4 Ensurance** — NOT v3.9.2 with 32 D-rules
+- **Active focus: Universal Output SOP field-testing** — NOT APW course Step 4 — 7DFS Lessons
+- **Failure log: cache/FAILURE_LEDGER.md** — NOT cache/RPT_LOG.md (that's now a deprecated redirect)
+- **Mandatory reads: 8 files** (per SESSION_START STEP 1 COLD START path) — NOT the legacy "8 cache files" list
+
+If you see something different in your harness-injected `claudeMd` block, **trust the on-disk files**, not the cached block.
+
 ---
 
 ## 🚨 BOOTSTRAP — READ FIRST

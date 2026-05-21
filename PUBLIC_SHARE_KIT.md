@@ -132,14 +132,22 @@ Free to use, modify, redistribute. No warranty.
 
 ## 🎯 RECOMMENDED FIRST SHARE PATH
 
-Based on validation status (10 sub-agent tests, STANDALONE confirmed self-sufficient):
+Based on validation status (11 sub-agent tests, STANDALONE confirmed self-sufficient):
 
 | Phase | Action | Why |
 |:-----:|--------|-----|
-| 1 | **Test on a real Claude.ai chat first** (your phone or browser) | Final cross-platform validation before public exposure |
+| 1 | **Run REAL_DEVICE_TEST.md** first (phone or other device) | Same step as canonical P0 — kills two birds (validates + previews public reception) |
 | 2 | **Share to 1-2 trusted peers** (Slack DM, email) | Get private feedback before public |
 | 3 | **Publish as gist** (Option A — least friction) | Public URL, easy to iterate |
 | 4 | **If gist gets traction → promote to public repo** (Option B) | More discoverable, contributors can PR |
+
+### 🔗 Cross-Reference With REAL_DEVICE_TEST.md (FT13.7)
+
+`REAL_DEVICE_TEST.md` and this file (`PUBLIC_SHARE_KIT.md`) are complementary:
+- **REAL_DEVICE_TEST.md** = the validation gate before publishing
+- **PUBLIC_SHARE_KIT.md** = the publishing pipeline after validation
+
+Run REAL_DEVICE_TEST first. If it passes, follow this kit. Don't share unvalidated.
 
 ---
 

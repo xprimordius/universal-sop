@@ -168,6 +168,20 @@ Every entry uses this format:
 </details>
 
 <details>
+<summary><b>F.12 — Pre-Flight Gate + Pulse Check 2.0 redundancy [FAILURE × 1, design error] — ✅ FIXED 2026-05-21</b></summary>
+
+- **Type:** FAILURE (single-occurrence design error)
+- **First Observed:** Session 5 — when "Increase efficiency/proficiency for 100%" ask was processed, I added BOTH a 5-item Pre-Flight Gate AND extended Pulse Check 2.0 (P11-P15) with overlapping content
+- **Times:** 1
+- **Root Cause:** Designed two checks in isolation without asking "would this confuse a fresh AI?" before shipping. Sub-agent test #12 caught it immediately — "one check expressed two ways = decision overhead, contradicts Alan's concise/no-filler preference"
+- **Permanent Fix:** STRUCTURAL — DELETE Pre-Flight Gate, KEEP Pulse Check 2.0 P1-P15. One check, one place.
+- **Fixed:** 2026-05-21 (same output where caught)
+- **Verified:** STANDALONE_SOP edit removed Pre-Flight Gate section; Pulse Check 2.0 retained
+- **Lesson:** Adding new compliance mechanisms ≠ adding value. Each must demonstrably catch a failure mode NOT caught by existing ones. Otherwise = noise = friction.
+
+</details>
+
+<details>
 <summary><b>F.11 — No `<details>` expandable in SubSOP reports [REPEAT × 1, caught early] — ✅ FIXED 2026-05-21</b></summary>
 
 - **Type:** REPEAT

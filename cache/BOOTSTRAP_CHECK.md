@@ -68,8 +68,17 @@ After completing SESSION_START.md STEP 1 (reading 7 cache+profile files + this B
 | ❓ Question | ✅ Expected Answer |
 |------------|-------------------|
 | What is canonical P0? | **Real device test of SOP v1.3** using REAL_DEVICE_TEST.md on physical 2nd device |
-| Why? | 9 sub-agent in-session tests plateau at 7-8.5/10. Real device closes the validation loop. |
+| Why? | 12 sub-agent in-session tests plateau at 7-8.5/10. Real device closes the validation loop. |
 | Approximate time? | ~30-45 min |
+
+### Efficiency Ceiling (FT14.2 — From EFFICIENCY_GUIDE.md)
+| ❓ Question | ✅ Expected Answer |
+|------------|-------------------|
+| What's the in-session friction ceiling? | **8.5/10** (12 tests confirmed) |
+| What blocks 10/10? | (a) Harness-injected stale claudeMd drift (Alan must fix in Claude Code settings), (b) same-brain-audits-itself structural limit, (c) 940-line SOP read length |
+| What achievable from AI side? | ~9.0-9.5/10 with all gains applied |
+| Active gates? | EN.4 Pulse Check 2.0 (P1-P15) is THE pre-send gate. There is NO separate "Pre-Flight Gate" — consolidated F.12. |
+| Where is Pulse Check 2.0 documented? | `STANDALONE_SOP.md` (also: Quick Start TL;DR in UNIVERSAL_SOP_PROMPT.md) |
 
 ---
 
