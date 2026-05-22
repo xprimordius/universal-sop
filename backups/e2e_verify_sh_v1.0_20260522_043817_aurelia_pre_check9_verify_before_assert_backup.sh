@@ -62,31 +62,28 @@ run_check() {
 }
 
 # 1. Bootstrap verify (mechanical 85-check sweep)
-run_check "1/9 Bootstrap Verify" "scripts/bootstrap_verify.sh" "--quiet" "FAIL=0"
+run_check "1/8 Bootstrap Verify" "scripts/bootstrap_verify.sh" "--quiet" "FAIL=0"
 
 # 2. Append-only check (cache files cannot shrink)
-run_check "2/9 Append-Only Check" "scripts/append_only_check.sh" "" "PASS"
+run_check "2/8 Append-Only Check" "scripts/append_only_check.sh" "" "PASS"
 
 # 3. Compliance check (Rule #11, P17, MACRO/MICRO, etc.)
-run_check "3/9 Compliance Check" "scripts/compliance_check.sh" "" ""
+run_check "3/8 Compliance Check" "scripts/compliance_check.sh" "" ""
 
 # 4. Consistency check (version drift, stale refs)
-run_check "4/9 Consistency Check" "scripts/consistency_check.sh" "" "complete"
+run_check "4/8 Consistency Check" "scripts/consistency_check.sh" "" "complete"
 
 # 5. Agent test harness (9-test skeleton)
-run_check "5/9 Agent Test Harness" "tests/run_agent_tests.sh" "" "FAIL=0"
+run_check "5/8 Agent Test Harness" "tests/run_agent_tests.sh" "" "FAIL=0"
 
 # 6. Chain health audit (META_AUDIT_LOG trends)
-run_check "6/9 Chain Health Audit" "scripts/audit_chain_health.sh" "" "complete"
+run_check "6/8 Chain Health Audit" "scripts/audit_chain_health.sh" "" "complete"
 
 # 7. SIR recurrence analyzer (insights → promotion candidates)
-run_check "7/9 SIR Recurrence" "scripts/sir_recurrence.sh" "" "complete"
+run_check "7/8 SIR Recurrence" "scripts/sir_recurrence.sh" "" "complete"
 
 # 8. SOP health dashboard (overall metric snapshot)
-run_check "8/9 SOP Health Dashboard" "scripts/sop_health_dashboard.sh" "" "appended"
-
-# 9. Verify-before-assert heuristic (F.23+F.26+F.27 cluster fix)
-run_check "9/9 Verify Before Assert" "scripts/verify_before_assert.sh" "" "VERDICT"
+run_check "8/8 SOP Health Dashboard" "scripts/sop_health_dashboard.sh" "" "appended"
 
 # ============================================================
 # FINAL VERDICT
@@ -94,9 +91,9 @@ run_check "9/9 Verify Before Assert" "scripts/verify_before_assert.sh" "" "VERDI
 echo "═══════════════════════════════════════════════════════════════"
 echo "📊 E2E RESULT"
 echo "═══════════════════════════════════════════════════════════════"
-echo "  ✅ Passed:  $TOTAL_PASS / 9"
-echo "  ❌ Failed:  $TOTAL_FAIL / 9"
-echo "  ⚠️ Skipped: $TOTAL_SKIP / 9"
+echo "  ✅ Passed:  $TOTAL_PASS / 8"
+echo "  ❌ Failed:  $TOTAL_FAIL / 8"
+echo "  ⚠️ Skipped: $TOTAL_SKIP / 8"
 echo ""
 
 # Log to META_AUDIT_LOG.md
