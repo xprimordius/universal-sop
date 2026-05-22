@@ -183,3 +183,10 @@ This file is listed in:
 | 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | a3d4290 |
 | 2026-05-22 | aurelia | Coverage-Audit | A:9D/0U/1A · B:14S/6A missing | a3d4290 |
 | 2026-05-22 | aurelia | Chiron | drift:29 dormant:9 SIR-month:5 | a3d4290 |
+| 2026-05-22 | aurelia | Verifier | 7 pass / 1 warnings | a3d4290 |
+| 2026-05-22 | aurelia | Validator | 10 pass / 0 warnings | a3d4290 |
+| 2026-05-22 | aurelia | QC | 9 pass / 2 warnings | a3d4290 |
+| 2026-05-22 | aurelia | Meta-Verifier | 5 pass / 2 warnings | a3d4290 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | 3d06f1f |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 3d06f1f |
+| 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | 3d06f1f |

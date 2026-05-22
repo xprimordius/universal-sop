@@ -177,14 +177,8 @@ crontab -l | grep -E "chiron|refine"
 
 | Device | Monthly Chiron | Weekly REFINE | Registered date |
 |---|:-:|:-:|:-:|
-| aurelia | ✅ `Chiron-Monthly-Audit` (next 2026-06-01 08:00) | ✅ `REFINE-Weekly-Cycle` (next 2026-05-23 08:00) | 2026-05-22 |
+| aurelia | ⚪ pending | ⚪ pending | (run schtasks commands above) |
 | mac-main | ⚪ pending | ⚪ pending | (run crontab commands above) |
-
-**Aurelia registration verified via:** `schtasks /query /tn "Chiron-Monthly-Audit"` (Status: Ready, Logon Mode: Interactive only). Tasks invoke `scripts/scheduler/run_chiron_monthly.bat` and `scripts/scheduler/run_refine_weekly.bat` respectively — those `.bat` files use `$HOME/universal-sop` for portability across Windows devices.
-
-**To register on a new Windows device:** run the `schtasks /create` commands from the PowerShell block above (paths auto-resolve via `$env:USERNAME`), or directly invoke the .bat files via `schtasks /tr "C:\Users\<user>\universal-sop\scripts\scheduler\run_chiron_monthly.bat"`.
-
-**To unregister:** `schtasks /delete /tn "Chiron-Monthly-Audit" /f` and `/tn "REFINE-Weekly-Cycle" /f`.
 
 > **Why per-device?** Chiron's coverage audit reads per-device chain history from META_AUDIT_LOG. Each device runs its own audit; results commit + sync to give cross-device visibility on the next pull.
 
