@@ -116,3 +116,7 @@ This file is listed in:
 | 2026-05-22 | aurelia | Validator | 6 pass / 3 warnings | bfade1e |
 | 2026-05-22 | aurelia | QC | 9 pass / 2 warnings | bfade1e |
 | 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | bfade1e |
+| 2026-05-22 | aurelia | Verifier | 1 pass / 7 warnings | 4291068 |
+| 2026-05-22 | aurelia | Validator | 8 pass / 1 warnings | 4291068 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | 4291068 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 4291068 |

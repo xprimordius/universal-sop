@@ -33,7 +33,7 @@ If the output is QUICK-tier (single fact / lookup), the STEP line + answer + LTM
 
 ---
 
-## 📋 RULE 2 — THE 10 MANDATORY SUBSOPS (Tight Loop — v1.4)
+## 📋 RULE 2 — THE 9 MANDATORY SUBSOPS (Tight Loop — v1.3)
 
 These nine form a self-reinforcing execution loop. Each runs in every OUTPUT-STANDARD or OUTPUT-COMPLEX output. The other 9 SubSOPs are reference-only.
 
@@ -48,7 +48,6 @@ These nine form a self-reinforcing execution loop. Each runs in every OUTPUT-STA
 | 7 | **SP.17 SIR** | System Improvement Reflection | Every output ends with 1-3 SYSTEM-level improvement insights surfaced DURING the output. Categorized + actionable. |
 | 8 | **SP.18 SSC** | Sync Status Confirmation | Every output that modifies files ends with explicit per-channel sync confirmation. Closes F.21. |
 | 9 | **SP.9 FE** ⭐ PROMOTED 2026-05-22 (F.23) | Foresight Engine | Predict 2-3 next-step problems / breakpoints / constraints with priority tags 🔴🟡🟢. Was reference-only; now mandatory. Part of Proactive Cluster (SP.9 + SP.17 + SP.19 + SP.20). |
-| 10 | **SP.21 MES** ⭐ NEW 2026-05-22 (F.25) | Model Effort Selector | Declare model + effort tier at the VERY TOP of every output (HIGH / MEDIUM / LOW / FAST — Opus 4.7; or Sonnet 4.5 only with absolute certainty). One-sentence real-world reason. Conservative bias (higher effort > lower). Mid-output adjustment allowed. End-of-output retrospective (MES Retrospective: true best setting + calibration). |
 
 **Reference-only (no longer mandatory every output):** SP.1 MagNet, SP.2 Door Scan, SP.3 TTE, SP.4 SCP, SP.7 Insights, SP.8 Protocol Visibility, SP.9 FE Foresight (content-foresight, NOT system-improvement — that's SP.17), SP.10 SCC, SP.11 QAC, SP.13 SHR, SP.14 RPT, SP.16 PCG, EN.2 Priority 10, EN.3 Checkpoint Cycle.
 
@@ -56,9 +55,9 @@ These remain documented in `PROTOCOLS_REFERENCE.md` and stay available — invok
 
 ---
 
-## 📋 RULE 3 — THE 9-ITEM PULSE CHECK (v1.4 — Adds P9 SP.21 MES Retrospective)
+## 📋 RULE 3 — THE 8-ITEM PULSE CHECK (v1.3 — Adds P8 SP.9 FE Foresight)
 
-Visible near the bottom of every OUTPUT-STANDARD / OUTPUT-COMPLEX output (before Sync Status). Score X/9.
+Visible near the bottom of every OUTPUT-STANDARD / OUTPUT-COMPLEX output (before Sync Status). Score X/8.
 
 | # | Item | What it catches |
 |:-:|------|-----------------|
@@ -69,8 +68,7 @@ Visible near the bottom of every OUTPUT-STANDARD / OUTPUT-COMPLEX output (before
 | P5 | **Promise = deliver in same message** | "I'll do X" without showing X done. The acknowledge-not-execute pattern (SP.15 EEP). |
 | P6 | **SIR surfaced (SP.17)** | At least 1 system-improvement insight surfaced this output, categorized + actionable. |
 | P7 | **SSC surfaced (SP.18)** | Sync Status block present at end of output with explicit per-channel status. |
-| P8 | **Foresight surfaced (SP.9 — v1.3)** | 2-3 next-step predictions with priority tags 🔴🟡🟢 — bottlenecks / constraints / breakpoints / proactive solutions. Part of Proactive Cluster. |
-| P9 | **MES present (SP.21 — NEW v1.4)** ⭐ | (a) Model + effort declared at TOP of output BEFORE STEP header, (b) MES Retrospective section near end declaring true best setting + calibration delta vs opening selection. |
+| P8 | **Foresight surfaced (SP.9 — NEW v1.3)** ⭐ | 2-3 next-step predictions with priority tags 🔴🟡🟢 — bottlenecks / constraints / breakpoints / proactive solutions. Part of Proactive Cluster. |
 
 **Format:**
 

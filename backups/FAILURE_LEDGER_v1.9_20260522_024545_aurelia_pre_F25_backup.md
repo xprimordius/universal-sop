@@ -168,26 +168,6 @@ Every entry uses this format:
 </details>
 
 <details>
-<summary><b>F.25 — Model Effort Selector Absent At Output Start [STRUCTURAL ADDITION, NEW 2026-05-22] — ✅ FIXED 2026-05-22</b></summary>
-
-- **Type:** STRUCTURAL ADDITION (new mandatory SubSOP per Alan)
-- **First Observed:** Alan 2026-05-22: "for each output at the very beginning, create a protocol that tells the user what version of Opus 4.7... be conservative... Sonnet only if absolutely certain... real-world benefit... end with the true best setting."
-- **What Was Missing:** Universal SOP had no mechanism for declaring model + effort tier at output start. Risk: Alan can't see whether Claude is using appropriately-conservative effort for the task, no calibration data to detect systematic over/under-selection, no end-of-output retrospective to compare opening assumption vs reality.
-- **Permanent Fix (SHIPPED):**
-  1. New SubSOP **SP.21 MES (Model Effort Selector)** — added to MANDATORY_TIGHT_LOOP Rule 2 as #10 (9 → 10 mandatory)
-  2. Pulse Check 8 → 9 items (added P9: MES present + retrospective)
-  3. Validator VL.10 added to agents/validator.md + scripts/validator.sh (greps for `🎯 MODEL:` opening + `📊 MES RETROSPECTIVE` closing)
-  4. New required positions in OUTPUT skeleton: (a) `🎯 MODEL: Opus 4.7 · Effort: HIGH/MEDIUM/LOW/FAST` line BEFORE STEP header, (b) `📊 MES RETROSPECTIVE` section near end before Pulse Check
-  5. Conservative bias mandated: higher-effort > lower-effort when in doubt; Sonnet only with absolute certainty
-  6. Mid-output adjustment template: `⚠️ MODEL ADJUSTMENT: HIGH → MEDIUM because <reason>`
-- **Effort tier semantics:** HIGH (Opus max — multi-file structural / SOP changes / agent design), MEDIUM (Opus default — substantive single-file edits), LOW (Opus lite — lookups, status), FAST (Opus minimal — conversational), Sonnet 4.5 (RESERVED — template-fill only).
-- **Real-world benefit:** Alan sees effort calibration per output → can trust quality is matched to stakes; calibration delta data accumulates over time → systematic over/under-selection becomes detectable.
-- **Files modified:** MANDATORY_TIGHT_LOOP.md (Rule 2 + Pulse Check), agents/validator.md (VL.10), scripts/validator.sh (VL.10 grep), PROTOCOLS_REFERENCE.md (SP.21 entry — pending follow-up commit), cache/FAILURE_LEDGER.md (this entry), cache/BACKUP_LOG.md.
-- **Verified:** This very output dog-foods SP.21 — opening `🎯 MODEL: Opus 4.7 · Effort: HIGH` line present (line 1); MES Retrospective section appears below Pulse Check.
-- **Lesson:** Effort calibration was an invisible variable until now. Making it visible = making it auditable = making it improvable. Same F.19 pattern: convention → architecture.
-</details>
-
-<details>
 <summary><b>F.24 — SP.20 REFINE Protocol Shipped (Weekly Self-Improvement Loop) — ✅ FIXED 2026-05-22</b></summary>
 
 - **Type:** STRUCTURAL ADDITION (new SubSOP + 6 agents + 6 scripts + new cache directory)

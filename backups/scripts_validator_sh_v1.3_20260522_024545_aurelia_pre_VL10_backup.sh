@@ -132,26 +132,6 @@ else
   fi
 fi
 
-# VL.10 SP.21 MES (Model Effort Selector) — NEW 2026-05-22 (F.25)
-# Look for: opening "🎯 MODEL:" line + closing "📊 MES RETROSPECTIVE" section
-if echo "$ADDED" | grep -qE "🎯 MODEL:|SP\.21 MES|Model Effort Selector"; then
-  if echo "$ADDED" | grep -qE "📊 MES RETROSPECTIVE|MES Retrospective"; then
-    check_warn "VL.10" "SP.21 MES — model declaration + retrospective" "PASS" ""
-  else
-    if echo "$ADDED" | grep -qE "^\+STEP:"; then
-      check_warn "VL.10" "SP.21 MES — retrospective missing" "WARN" "Opening MES declaration present but no 📊 MES RETROSPECTIVE section at end"
-    else
-      check_warn "VL.10" "SP.21 MES — declaration only" "PASS" "(meta-doc — N/A)"
-    fi
-  fi
-else
-  if echo "$ADDED" | grep -qE "^\+STEP:"; then
-    check_warn "VL.10" "SP.21 MES — model declaration" "WARN" "No 🎯 MODEL: declaration at top of output (every OUTPUT-STANDARD/COMPLEX must declare model + effort tier per SP.21 MES, NEW 2026-05-22 F.25)"
-  else
-    check_warn "VL.10" "SP.21 MES" "PASS" "(meta-doc — N/A)"
-  fi
-fi
-
 # Log to META_AUDIT_LOG.md
 if [ -f cache/META_AUDIT_LOG.md ]; then
   printf "| %s | %s | Validator | %d pass / %d warnings | %s |\n" \
