@@ -1,0 +1,152 @@
+# 🎯 QUINTESSENCE ROADMAP — Path To Self-Perfecting + Perfected SOP
+# Born: 2026-05-21 | aurelia | Per Alan's "create the quintessential self-perfecting, perfected universal SOP"
+# F.22 META-AUDIT shipped the top-10 highest-leverage items; this roadmap captures the deferred 30+ findings.
+
+---
+
+## 🎯 QUINTESSENCE — 10 Properties Of The Target State
+
+A truly self-perfecting + perfected SOP satisfies all 10. Current score (after F.22 shipment): ~6.5/10. Pre-F.22: ~3.5/10.
+
+| # | Property | Pre-F.22 | After F.22 | Target |
+|:-:|---|:-:|:-:|:-:|
+| Q.1 | Closed feedback loops | partial | ✅ partial+ (sir_recurrence + audit_chain_health) | full |
+| Q.2 | Mechanical enforcement | partial | partial (chain still warnings-only) | full blocking |
+| Q.3 | External independence (cross-model / fresh sub-agent) | NO | NO | full |
+| Q.4 | Proactive drift detection | session-start only | session-start only | continuous |
+| Q.5 | Self-test coverage | NO | ✅ skeleton (run_agent_tests.sh) | full fixtures |
+| Q.6 | Atomic cross-file propagation | NO | partial (add_protocol.sh advisory) | full automation |
+| Q.7 | Convergence proof | NO | ✅ partial (sop_health_dashboard) | trended metric |
+| Q.8 | Failure-to-fix automation | NO | partial (sir_recurrence detects, manual promotion) | full automation |
+| Q.9 | Session lifecycle automation | partial | partial | full (start + mid + end) |
+| Q.10 | Documentation completeness | partial | ✅ better (VERSION_MANIFEST, this roadmap) | full |
+
+**Score after F.22: 6.5/10.** **Remaining gap: 3.5/10.**
+
+---
+
+## 📋 DEFERRED FINDINGS (from F.22 audit — NOT shipped in this commit)
+
+### Category A — Closed Feedback Loops (deferred)
+
+| # | Finding | Effort | Suggested commit |
+|:-:|---|:-:|---|
+| A.4 | No rollup of "what's been changing most" from BACKUP_LOG | M | F.23 |
+| A.6 | When chain warning fires N times consecutively, no auto-tightening from warning→blocking | M | F.24 |
+
+### Category B — Mechanical Enforcement (deferred)
+
+| # | Finding | Effort | Suggested commit |
+|:-:|---|:-:|---|
+| B.1 | Chain scripts always exit 0 (warnings-only) | S | After tests/fixtures coverage proves chain is reliable |
+| B.2 | compliance_check false positives still possible despite excludes | S | A.6 (auto-tighten) follow-up |
+| B.3 | Pulse Check P1-P7 self-scored — should be auto-graded where possible | L | F.25 — pulse_check_auto.sh with grep heuristics |
+| B.5 | MODE declaration (F.19 Tier 2) still staged for ~4 commits | M | F.26 — `Stop` hook in `.claude/settings.json` |
+
+### Category C — External Independence (HIGH PRIORITY — same-brain ceiling, deferred)
+
+| # | Finding | Effort | Suggested commit |
+|:-:|---|:-:|---|
+| C.1/C.2 | All 4 chain layers in same Claude session — break by invoking `Agent` tool with fresh context | L | F.27 — invoke_sub_agent.sh + Meta-Verifier mandated to use it |
+| C.3 | No periodic external audit point | M | F.28 — every Nth commit calls cross-model verification |
+| C.4 | CROSS_MODEL_TEST_KIT.md exists but not auto-invoked on milestones | M | F.28 follow-up |
+
+### Category D — Drift Detection (deferred)
+
+| # | Finding | Effort | Suggested commit |
+|:-:|---|:-:|---|
+| D.1 | bootstrap_verify only at session start | M | F.29 — mid-session heartbeat |
+| D.2 | consistency_check not auto-triggered | S | F.29 follow-up |
+| D.3 | No correlation between SESSION_STATE position and CONTINUATION handoff | M | F.30 |
+| D.4 | No "harness drift" detection beyond static text | L | Future — needs Claude Code config integration |
+
+### Category E — Self-Test Coverage (deferred — fixtures)
+
+| # | Finding | Effort | Suggested commit |
+|:-:|---|:-:|---|
+| E.2 | Fixtures (known-good + known-bad outputs) | L | F.31 — incrementally build `tests/fixtures/` |
+| E.3 | Unit tests for scripts | L | F.32 — per-script test wrapper |
+| E.4 | Regression tests | M | F.33 — capture every output that surfaced a failure |
+| E.5 | Meta-Verifier itself untested | M | F.34 |
+
+### Category F — Cross-File Consistency (mostly done — F.1/F.2 shipped; F.3-F.5 minor)
+
+### Category G — Convergence Proof (sop_health_dashboard shipped; rest deferred)
+
+| # | Finding | Effort | Suggested commit |
+|:-:|---|:-:|---|
+| G.2 | "X% better than 30 days ago" metric | M | F.35 — historical delta in dashboard |
+| G.4 | Token-cost-per-output aggregator | M | F.36 — `scripts/token_aggregator.sh` |
+
+### Category H — Failure-to-Fix Automation (sir_recurrence shipped; rest deferred)
+
+| # | Finding | Effort | Suggested commit |
+|:-:|---|:-:|---|
+| H.1 | Auto-extract "root cause" / "permanent fix" template | M | F.37 |
+| H.2 | F.19 meta-pattern detector | M | F.37 follow-up |
+| H.3 | "if RPT count ≥ 3 → propose permanent fix" automation | M | F.37 follow-up |
+
+### Category I — Session Lifecycle (deferred)
+
+| # | Finding | Effort | Suggested commit |
+|:-:|---|:-:|---|
+| I.1 | `scripts/session_end.sh` | M | F.38 |
+| I.2 | `scripts/session_start.sh` wrapper | M | F.39 |
+| I.3 | Mid-session heartbeat | M | F.29 follow-up |
+
+### Category J — Documentation Completeness (mostly done — VERSION_MANIFEST + this roadmap; rest deferred)
+
+| # | Finding | Effort | Suggested commit |
+|:-:|---|:-:|---|
+| J.1 | Decisions in commit messages → promote to structured place | S | F.40 — `cache/DECISIONS_INDEX.md` extractor |
+| J.2 | Formal OUTPUT-QUICK vs STANDARD vs COMPLEX definition + examples | S | F.41 |
+
+---
+
+## 🛠️ NEW PROTOCOLS PROPOSED FOR FUTURE COMMITS
+
+Per Q.6 (atomic propagation) — when these ship, use `scripts/add_protocol.sh` to standardize.
+
+| Proposed | Full Name | Closes Gap |
+|:-:|---|---|
+| **SP.19 EXT** | External Verification Trigger | Q.3 — sub-agent / cross-model invocation |
+| **SP.20 MDH** | Mid-Session Drift Heartbeat | Q.4 — proactive drift |
+| **SP.21 ATR** | Auto-Tighten Routine | Q.2 — warning → blocking after N successful runs |
+| **SP.22 PAS** | Pattern Auto-Surface | Q.8 — recurrence → FAILURE_LEDGER promotion |
+| **SP.23 SLA** | Session Lifecycle Automation | Q.9 — start + mid + end orchestration |
+| **EN.5** | Self-Test Continuity | Q.5 — fixtures + regression coverage |
+| **EN.6** | Cross-Model Reality Check | Q.3 — same-brain escape |
+
+(These bring totals to SP.1-SP.23 + EN.1-EN.6 = 29 protocols. May fuse some via F.X later.)
+
+---
+
+## 📈 ACCEPTANCE CRITERIA (When Is The SOP "Done"?)
+
+The SOP is **quintessential** when ALL these are true:
+
+| # | Criterion | Verification |
+|:-:|---|---|
+| 1 | Bootstrap verify: pass=N, fail=0, warn=0, for last 10 consecutive runs | metric: `cache/SOP_HEALTH_METRICS.md` |
+| 2 | Chain warnings/run < 0.5 over last 20 chain firings | metric: `scripts/audit_chain_health.sh` |
+| 3 | Every SubSOP added auto-propagates to all 9+ files | proof: `scripts/add_protocol.sh` full-automation version |
+| 4 | At least 1 cross-model audit / week | proof: `scripts/cross_model_audit.sh` weekly cron |
+| 5 | Test harness covers all 4 chain agents with known-good + known-bad fixtures | proof: `tests/agents/*.md` count ≥ 8 (4 agents × 2 fixtures min) |
+| 6 | SIR insight recurrence ≥ 2 auto-promotes to FAILURE_LEDGER | proof: `sir_recurrence.sh` integrated with PROTOCOLS_REFERENCE auto-add |
+| 7 | Session lifecycle (start + mid + end) fully scripted | proof: 3 lifecycle scripts present + invoked by hooks/cron |
+| 8 | No Alan-prompted correction has been needed for 14 consecutive days | proof: empty FAILURE_LEDGER additions for 14d |
+| 9 | Cross-model portability ≥ 95% (per CROSS_MODEL_TEST_KIT runs) | proof: 3 consecutive cross-model audits at ≥ 95% |
+| 10 | All 10 quintessence properties (Q.1–Q.10) at ✅ full | proof: this roadmap completed |
+
+---
+
+## 🔄 USE THIS ROADMAP
+
+- Read at session start (FAST-PATH addition: `cache/SIR_LOG.md` + `QUINTESSENCE_ROADMAP.md` as Tier-3 reads)
+- When adding a new feature, check: which deferred finding does this address?
+- When closing a finding, append to "Evolution Log" in `VERSION_MANIFEST.md`
+- The acceptance-criteria checklist is the FORMAL "is the SOP done?" answer
+
+---
+
+*QUINTESSENCE_ROADMAP.md v1.0 | F.22 quintessence audit deliverable | aurelia | 2026-05-21*

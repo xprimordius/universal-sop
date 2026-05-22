@@ -168,33 +168,6 @@ Every entry uses this format:
 </details>
 
 <details>
-<summary><b>F.22 — Universal SOP Not Yet Self-Perfecting [META-AUDIT, structural deficit across 10 quintessence properties] — ✅ Partial FIX 2026-05-21 (6.5/10 → roadmap for 3.5/10 remainder)</b></summary>
-
-- **Type:** META-AUDIT (Alan-prompted comprehensive audit for "quintessential self-perfecting + perfected SOP")
-- **First Observed:** 2026-05-21 — Alan: *"analyze and audit the universal SOP heavily, diligently, meticulously and thoroughly, with the intention to create the quintessential self perfecting, and perfected universal SOP."*
-- **Times:** Continuous — this is a structural deficit existing since project inception
-- **What Failed:** The SOP has substantial **observation infrastructure** (logs, agents, scripts, hooks) but **lacks infrastructure that ACTS on observations**. As a result, "self-perfecting" was aspirational not actual: insights surfaced in SIR_LOG didn't auto-promote; failure patterns required manual extraction (Claude/Alan); cross-file consistency required manual 9-edit propagation per protocol; same-brain ceiling not escaped; no formal acceptance criteria for "done"; no convergence metric.
-- **Quintessence audit score:** Pre-F.22: **3.5 / 10** properties fully satisfied (Q.1 partial, Q.2 partial, Q.3 NO, Q.4 NO, Q.5 NO, Q.6 NO, Q.7 NO, Q.8 NO, Q.9 partial, Q.10 partial). Post-F.22: **6.5 / 10**.
-- **Comprehensive gap analysis:** 42 findings across 10 categories (A: closed feedback loops · B: mechanical enforcement · C: external independence · D: drift detection · E: self-test coverage · F: cross-file consistency · G: convergence proof · H: failure-to-fix automation · I: session lifecycle · J: documentation completeness). Top-10 prioritized by severity × leverage.
-- **Root Cause:** The same F.19 discipline-vs-architecture pattern, applied recursively. The SOP built observation tools first (because they're easier) without building the *acting* tools that close the loops. Without closure, observation == noise.
-- **Permanent Fix (Top 10 shipped 2026-05-21 via this commit):**
-  1. `scripts/sir_recurrence.sh` — detects recurring insights → flags for FAILURE_LEDGER promotion (closes Q.A.1 + Q.A.5)
-  2. `scripts/audit_chain_health.sh` — META_AUDIT_LOG trend analyzer + chain completeness check (closes Q.A.2)
-  3. `scripts/add_protocol.sh` (advisory v1.0) — atomic protocol-add advisor; full automation pending (closes Q.F.1)
-  4. `scripts/sop_health_dashboard.sh` — single-pane health metric + appends time-series row to `cache/SOP_HEALTH_METRICS.md` (closes Q.G.1)
-  5. `templates/output_standard.md` — literal output skeleton template (closes Q.B.4)
-  6. `tests/run_agent_tests.sh` — skeleton test harness for all 4 chain scripts + bootstrap_verify + new infra (closes Q.E.1 partially)
-  7. `VERSION_MANIFEST.md` — single source of truth for file versions (closes Q.F.2)
-  8. `QUINTESSENCE_ROADMAP.md` — formal deferred-findings list + acceptance criteria for "done" (closes Q.J.3)
-  9. (this entry) cache/FAILURE_LEDGER.md F.22 — META-audit documented (closes Q.J.1 partially)
-  10. `cache/SOP_HEALTH_METRICS.md` — auto-generated time-series for convergence proof (closes Q.G.1)
-- **Fixed (partial):** 2026-05-21 (this commit). Remaining 32 findings deferred to QUINTESSENCE_ROADMAP.md.
-- **Verified:** This very output ends with SIR + SSC (dog-fooded). bootstrap_verify: 85/0/0. Test harness: 9/9 PASS.
-- **Lesson:** F.19 + F.20 + F.21 + F.22 all reinforce the same insight — **STRUCTURAL slots beat conventional intentions**. The pattern recurs at every level: rules → conventions → architecture; observations → patterns → action. The Quintessence is asymptotic — not a destination but a direction. Each commit narrows the gap. The roadmap is the path.
-- **Forward measure:** Quintessence score (X/10) tracked in `cache/SOP_HEALTH_METRICS.md` over time. When score reaches ≥ 9.5/10 stable for 14 days → quintessential.
-</details>
-
-<details>
 <summary><b>F.21 — Sync Status Confirmation Absent At End Of Output [FAILURE × 1, structural gap] — ✅ FIXED 2026-05-21</b></summary>
 
 - **Type:** FAILURE (structural gap surfaced via Alan's feedback)
