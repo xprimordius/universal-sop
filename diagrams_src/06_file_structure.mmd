@@ -1,0 +1,45 @@
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#111','primaryBorderColor':'#333','lineColor':'#666','fontFamily':'Inter,system-ui,sans-serif','fontSize':'14px'}}}%%
+flowchart TD
+    classDef gov fill:#3B82F6,color:white,stroke:#1E40AF,stroke-width:2px
+    classDef rule fill:#10B981,color:white,stroke:#065F46,stroke-width:2px
+    classDef new fill:#F59E0B,color:white,stroke:#92400E,stroke-width:3px
+    classDef cache fill:#6B7280,color:white,stroke:#1F2937,stroke-width:2px
+    classDef enf fill:#EF4444,color:white,stroke:#991B1B,stroke-width:2px
+    classDef arch fill:#D1D5DB,color:#374151,stroke:#9CA3AF,stroke-dasharray:5 5
+
+    Root["📦 universal-sop/"]
+    Root --> Gov["governance docs (root)"]
+    Root --> Cache["cache/"]
+    Root --> Scripts["scripts/"]
+    Root --> Hooks[".githooks/"]
+    Root --> Agents["agents/"]
+    Root --> Backups["backups/"]
+    Root --> ChatA["chat_archive/"]
+    Root --> Source["source_files/"]
+    Root --> Assets["assets/diagrams/<br/>(rendered PNGs)"]
+
+    Gov --> g1["README.md<br/>SESSION_START.md<br/>CLAUDE.md"]
+    Gov --> g2["UNIVERSAL_SOP_PROMPT.md<br/>STANDALONE_SOP.md<br/>PROTOCOLS_REFERENCE.md"]
+    Gov --> g3["DEVICE_REGISTRY.md<br/>MULTI_DEVICE_GIT_PROTOCOL.md<br/>MASTER_CONTINUATION_PROMPT.md"]
+    Gov --> g4["FAILURE_MODES_ANALYSIS.md<br/>TOKEN_OPTIMIZATION_GUIDE.md<br/>EFFICIENCY_GUIDE.md"]
+    Gov --> g5["⭐ MANDATORY_TIGHT_LOOP.md<br/>⭐ SELF_COMPLIANCE_FIX.md<br/>⭐ SOP_MAP.md (THIS DOC)<br/>⭐ SOP_MAP.html (interactive)"]
+
+    Cache --> c1["SESSION_STATE.md<br/>CONTINUATION.md<br/>BACKUP_LOG.md<br/>FAILURE_LEDGER.md<br/>BOOTSTRAP_CHECK.md"]
+    Cache --> c2["legacy/<br/>APW-era archived"]
+    Cache --> c3["backups/<br/>historical snapshots"]
+
+    Scripts --> s1["bootstrap_verify.sh<br/>compliance_check.sh<br/>append_only_check.sh<br/>consistency_check.sh<br/>check_device_activity.sh<br/>setup_device.sh<br/>safe_push.sh"]
+
+    Hooks --> h1["pre-commit<br/>pre-push"]
+
+    Agents --> a1["controller.md<br/>validator-merged.md<br/>karen-reality-check.md<br/>paradox-resolver.md"]
+    Agents --> a2["archive/<br/>jenny + oversight + cache-manager"]
+
+    class g1,g3 gov
+    class g2 rule
+    class g5 new
+    class c1 cache
+    class c2,c3,a2 arch
+    class s1,h1 enf
+    class a1 gov
+    class Assets new

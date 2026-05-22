@@ -1,0 +1,69 @@
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#111','primaryBorderColor':'#333','lineColor':'#666','fontFamily':'Inter,system-ui,sans-serif','fontSize':'14px'}}}%%
+flowchart LR
+    classDef visual fill:#FBBF24,color:black,stroke:#92400E,stroke-width:2px
+    classDef token fill:#3B82F6,color:white,stroke:#1E40AF,stroke-width:2px
+    classDef safety fill:#10B981,color:white,stroke:#065F46,stroke-width:2px
+    classDef foresight fill:#A855F7,color:white,stroke:#6B21A8,stroke-width:2px
+    classDef selfcheck fill:#F97316,color:white,stroke:#9A3412,stroke-width:2px
+    classDef honest fill:#EF4444,color:white,stroke:#7F1D1D,stroke-width:2px
+    classDef enforcement fill:#0D9488,color:white,stroke:#134E4A,stroke-width:2px
+    classDef ensurance fill:#7C3AED,color:white,stroke:#4C1D95,stroke-width:2px
+    classDef tight fill:#22C55E,color:white,stroke:#14532D,stroke-width:4px
+
+    subgraph V["🎨 VISUAL"]
+        SP1[SP.1 MagNet<br/>Magnetic Visual Engagement]
+        SP2[SP.2 Door Scan<br/>Door Scanning Pattern]
+        SP8[SP.8 Protocol Visibility]
+    end
+
+    subgraph T["🪙 TOKEN / MEASUREMENT"]
+        SP3[SP.3 TTE<br/>Token Threshold Engine]
+        LTM["LTM<br/>Live Token Monitor<br/>per-section marker"]
+    end
+
+    subgraph S["🛡️ PROCESS SAFETY"]
+        SP4[SP.4 SCP<br/>System Change Protocol]
+        SP5["SP.5 FSP ⭐<br/>Fidelity Substantiation"]
+        SP6["SP.6 IAC ⭐<br/>Intent Alignment Check"]
+    end
+
+    subgraph F["🔮 FORESIGHT"]
+        SP7[SP.7 Insights]
+        SP9[SP.9 FE<br/>Foresight Engine]
+    end
+
+    subgraph SC["🔍 SELF-CHECK"]
+        SP10[SP.10 SCC<br/>Self-Compliance Check]
+        SP11[SP.11 QAC<br/>Quality Assurance Check]
+    end
+
+    subgraph HF["🪞 HONEST FAILURE"]
+        SP12["SP.12 HFR ⭐<br/>Honest Failure Report"]
+        SP14[SP.14 RPT<br/>Repeated Prompt Tracker]
+        SP13[SP.13 SHR<br/>System Health Report]
+    end
+
+    subgraph E["⚡ EXECUTION"]
+        SP15["SP.15 EEP ⭐<br/>Execution Enforcement"]
+        SP16[SP.16 PCG<br/>Prompt Completion Gate]
+    end
+
+    subgraph EN["🛡️ 4 ENSURANCE (anti-decay)"]
+        EN1["EN.1 ⭐<br/>Output Skeleton<br/>Structural Anti-Decay"]
+        EN2[EN.2<br/>Priority 10<br/>Cognitive Load Reduction]
+        EN3[EN.3<br/>Checkpoint Cycle<br/>Attention Reset]
+        EN4["EN.4 ⭐<br/>Pulse Check<br/>reduced 5 items in Tier 1"]
+    end
+
+    class SP1,SP2,SP8 visual
+    class SP3,LTM token
+    class SP4 safety
+    class SP5,SP6 tight
+    class SP7,SP9 foresight
+    class SP10,SP11 selfcheck
+    class SP12 tight
+    class SP14,SP13 honest
+    class SP15 tight
+    class SP16 enforcement
+    class EN1,EN4 tight
+    class EN2,EN3 ensurance

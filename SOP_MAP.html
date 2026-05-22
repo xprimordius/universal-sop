@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SOP MAP — Universal Output SOP v1.3 Visual Reference</title>
+<style>
+  :root {
+    --bg: #fafafa;
+    --surface: #ffffff;
+    --border: #e5e7eb;
+    --text: #111827;
+    --text-muted: #6b7280;
+    --blue: #3B82F6;
+    --green: #10B981;
+    --orange: #F97316;
+    --purple: #A855F7;
+    --grey: #6B7280;
+    --red: #EF4444;
+    --amber: #F59E0B;
+    --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+    --shadow-lg: 0 10px 25px rgba(0,0,0,0.10), 0 4px 6px rgba(0,0,0,0.05);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .layout {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    min-height: 100vh;
+  }
+  nav.toc {
+    background: var(--surface);
+    border-right: 1px solid var(--border);
+    padding: 24px 20px;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+  }
+  nav.toc h2 {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    margin: 0 0 12px;
+  }
+  nav.toc ul { list-style: none; padding: 0; margin: 0 0 24px; }
+  nav.toc li { margin: 4px 0; }
+  nav.toc a {
+    display: block;
+    padding: 6px 10px;
+    border-radius: 6px;
+    color: var(--text);
+    text-decoration: none;
+    font-size: 14px;
+    transition: background 0.15s;
+  }
+  nav.toc a:hover { background: var(--bg); color: var(--blue); }
+  nav.toc .meta {
+    font-size: 12px;
+    color: var(--text-muted);
+    padding: 12px 10px;
+    border-top: 1px solid var(--border);
+  }
+  main {
+    padding: 40px 56px 80px;
+    max-width: 1200px;
+  }
+  header.title {
+    margin-bottom: 40px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--border);
+  }
+  header.title h1 {
+    margin: 0 0 8px;
+    font-size: 32px;
+    letter-spacing: -0.02em;
+  }
+  header.title p {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 15px;
+  }
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 20px 0;
+  }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 12px;
+    border-radius: 999px;
+    font-size: 13px;
+    color: white;
+    font-weight: 500;
+  }
+  .chip.blue { background: var(--blue); }
+  .chip.green { background: var(--green); }
+  .chip.orange { background: var(--orange); }
+  .chip.purple { background: var(--purple); }
+  .chip.grey { background: var(--grey); }
+  .chip.red { background: var(--red); }
+  .chip.legacy {
+    background: #e5e7eb;
+    color: #374151;
+    border: 1px dashed #9ca3af;
+  }
+  section.diagram {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 28px 32px;
+    margin-bottom: 32px;
+    box-shadow: var(--shadow);
+  }
+  section.diagram h2 {
+    margin: 0 0 8px;
+    font-size: 22px;
+    letter-spacing: -0.01em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  section.diagram .num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    background: var(--blue);
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  section.diagram .lede {
+    color: var(--text-muted);
+    margin: 0 0 20px;
+    font-size: 15px;
+  }
+  .img-wrap {
+    background: var(--bg);
+    border-radius: 8px;
+    padding: 16px;
+    border: 1px solid var(--border);
+    overflow: auto;
+    cursor: zoom-in;
+  }
+  .img-wrap img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  details {
+    margin-top: 16px;
+    border-top: 1px solid var(--border);
+    padding-top: 16px;
+  }
+  details summary {
+    cursor: pointer;
+    color: var(--text-muted);
+    font-size: 13px;
+    user-select: none;
+  }
+  details summary:hover { color: var(--blue); }
+  details pre {
+    background: #1e293b;
+    color: #e2e8f0;
+    padding: 16px;
+    border-radius: 8px;
+    overflow-x: auto;
+    font-size: 12px;
+    line-height: 1.5;
+    margin-top: 12px;
+  }
+  .ref-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 14px;
+  }
+  .ref-table th, .ref-table td {
+    text-align: left;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+  }
+  .ref-table th {
+    background: var(--bg);
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 0.05em;
+  }
+  code {
+    background: var(--bg);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-family: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+  }
+  .lightbox {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.92);
+    z-index: 1000;
+    cursor: zoom-out;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  .lightbox.open { display: flex; }
+  .lightbox img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+  .footer {
+    margin-top: 60px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: 13px;
+  }
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; }
+    nav.toc { position: static; height: auto; }
+    main { padding: 24px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="layout">
+
+<nav class="toc">
+  <h2>Sections</h2>
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#diagram-1">1. System Map</a></li>
+    <li><a href="#diagram-2">2. Session Lifecycle</a></li>
+    <li><a href="#diagram-3">3. 20 Protocols Grouped</a></li>
+    <li><a href="#diagram-4">4. Discipline vs Architecture</a></li>
+    <li><a href="#diagram-5">5. Failure Timeline</a></li>
+    <li><a href="#diagram-6">6. File Structure</a></li>
+    <li><a href="#quick-ref">Quick Reference</a></li>
+    <li><a href="#glossary">Glossary</a></li>
+  </ul>
+  <div class="meta">
+    <strong>SOP_MAP.html v1.0</strong><br>
+    Universal Output SOP v1.3<br>
+    Device: aurelia<br>
+    2026-05-21
+  </div>
+</nav>
+
+<main>
+  <header class="title">
+    <h1>🗺️ SOP Map</h1>
+    <p>Visual reference for the entire Universal Output SOP system. Click any diagram to zoom.</p>
+  </header>
+
+  <section id="overview" class="diagram">
+    <h2>Overview</h2>
+    <p class="lede">The Universal SOP is a 6-layer system gated by mechanical enforcement. The full SOP defines 20 protocols (16 SubSOPs + 4 Ensurance); per F.19 / <code>MANDATORY_TIGHT_LOOP.md</code>, only 6+1 are mandatory for operational use.</p>
+    <div class="legend">
+      <span class="chip blue">Bootstrap</span>
+      <span class="chip green">Rulebook</span>
+      <span class="chip orange">Protocols</span>
+      <span class="chip purple">Agents</span>
+      <span class="chip grey">Cache</span>
+      <span class="chip red">Enforcement</span>
+      <span class="chip legacy">Legacy / archived</span>
+    </div>
+  </section>
+
+  <section id="diagram-1" class="diagram">
+    <h2><span class="num">1</span> Full System Map</h2>
+    <p class="lede">Six layers (Bootstrap → Rulebook → Protocols → Agents → Cache) gated by Mechanical Enforcement. Every file, script, hook named.</p>
+    <div class="img-wrap" onclick="zoom('assets/diagrams/01_system_map.png')">
+      <img src="assets/diagrams/01_system_map.png" alt="Full system map showing 6 layers + enforcement">
+    </div>
+    <details>
+      <summary>View Mermaid source</summary>
+      <pre><code>See diagrams_src/01_system_map.mmd in the repo</code></pre>
+    </details>
+  </section>
+
+  <section id="diagram-2" class="diagram">
+    <h2><span class="num">2</span> Session Lifecycle</h2>
+    <p class="lede">Sequence from open-Claude-Code → bootstrap → output → commit → push, including every hook gate.</p>
+    <div class="img-wrap" onclick="zoom('assets/diagrams/02_session_lifecycle.png')">
+      <img src="assets/diagrams/02_session_lifecycle.png" alt="Sequence diagram of session lifecycle">
+    </div>
+  </section>
+
+  <section id="diagram-3" class="diagram">
+    <h2><span class="num">3</span> 20 Protocols Grouped By Function</h2>
+    <p class="lede">All 16 SubSOPs + 4 Ensurance organized by what they do. ⭐ marks the 6+1 MANDATORY TIGHT LOOP — the Tier 1 fix from F.19. The other 13 stay reference-only.</p>
+    <div class="img-wrap" onclick="zoom('assets/diagrams/03_protocols_grouped.png')">
+      <img src="assets/diagrams/03_protocols_grouped.png" alt="20 protocols grouped by function with mandatory ones starred">
+    </div>
+  </section>
+
+  <section id="diagram-4" class="diagram">
+    <h2><span class="num">4</span> Discipline vs Architecture (The F.19 Insight)</h2>
+    <p class="lede">Why some rules survive and others decay. Discipline-style rules (red) achieve ~0% compliance; architectural rules (green) hold at ~85%. The 3-tier fix bridges the gap by converting discipline to architecture.</p>
+    <div class="img-wrap" onclick="zoom('assets/diagrams/04_discipline_vs_architecture.png')">
+      <img src="assets/diagrams/04_discipline_vs_architecture.png" alt="Discipline vs architecture diagram with tiered fix">
+    </div>
+  </section>
+
+  <section id="diagram-5" class="diagram">
+    <h2><span class="num">5</span> Failure Ledger Timeline (F.1 → F.19)</h2>
+    <p class="lede">Two months of failures + fixes. Recent failures (F.14+) got mechanical fixes that hold. Earlier failures (F.1–F.9) got convention fixes that re-failed. F.19 is the meta-insight that explains the pattern.</p>
+    <div class="img-wrap" onclick="zoom('assets/diagrams/05_failure_timeline.png')">
+      <img src="assets/diagrams/05_failure_timeline.png" alt="Timeline of all 19 failure ledger entries">
+    </div>
+  </section>
+
+  <section id="diagram-6" class="diagram">
+    <h2><span class="num">6</span> Repository File Structure</h2>
+    <p class="lede">Where everything lives. Stars (⭐) mark the newest additions: <code>MANDATORY_TIGHT_LOOP.md</code>, <code>SELF_COMPLIANCE_FIX.md</code>, <code>SOP_MAP.md</code>, <code>SOP_MAP.html</code>.</p>
+    <div class="img-wrap" onclick="zoom('assets/diagrams/06_file_structure.png')">
+      <img src="assets/diagrams/06_file_structure.png" alt="Repository file structure tree">
+    </div>
+  </section>
+
+  <section id="quick-ref" class="diagram">
+    <h2>Quick Reference — What To Read When</h2>
+    <table class="ref-table">
+      <tr><th>Situation</th><th>Read</th></tr>
+      <tr><td>Fresh session, any device</td><td><code>SESSION_START.md</code> → <code>MANDATORY_TIGHT_LOOP.md</code></td></tr>
+      <tr><td>New device first-time</td><td><code>SESSION_START.md</code> + <code>DEVICE_REGISTRY.md</code> + <code>bash scripts/setup_device.sh &lt;name&gt;</code></td></tr>
+      <tr><td>Producing an output</td><td><code>MANDATORY_TIGHT_LOOP.md</code> (3-line STEP + 6 SubSOPs + 5-item Pulse Check)</td></tr>
+      <tr><td>Publishable deliverable</td><td><code>MANDATORY_TIGHT_LOOP.md</code> + <code>UNIVERSAL_SOP_PROMPT.md</code> for extras</td></tr>
+      <tr><td>Protocol lookup</td><td><code>PROTOCOLS_REFERENCE.md</code></td></tr>
+      <tr><td>Investigate a failure pattern</td><td><code>cache/FAILURE_LEDGER.md</code> (F.1 – F.19)</td></tr>
+      <tr><td>Understand the F.19 insight</td><td><code>SELF_COMPLIANCE_FIX.md</code></td></tr>
+      <tr><td>Multi-device sync question</td><td><code>MULTI_DEVICE_GIT_PROTOCOL.md</code></td></tr>
+      <tr><td>Restore a prior file state</td><td><code>cache/BACKUP_LOG.md</code> → find the row → grab from <code>backups/</code></td></tr>
+      <tr><td>External (non-Alan) consumer</td><td><code>STANDALONE_SOP.md</code> (MIT, self-contained)</td></tr>
+    </table>
+  </section>
+
+  <section id="glossary" class="diagram">
+    <h2>Glossary</h2>
+    <table class="ref-table">
+      <tr><th>Term</th><th>Meaning</th></tr>
+      <tr><td><strong>SubSOP</strong></td><td>Sub-Standard-Operating-Procedure. 16 protocols SP.1–SP.16.</td></tr>
+      <tr><td><strong>Ensurance</strong></td><td>4 anti-decay components EN.1–EN.4 that prevent compliance erosion over long sessions.</td></tr>
+      <tr><td><strong>Tight Loop</strong></td><td>The 6+1 protocols selected as mandatory for every operational OUTPUT (F.19 Tier 1).</td></tr>
+      <tr><td><strong>Tier (F.19 context)</strong></td><td>One of three architectural moves to fix the discipline/architecture gap. Tier 1 shipped 2026-05-21; Tier 2 + Tier 3 staged.</td></tr>
+      <tr><td><strong>Tier (SOP context)</strong></td><td>QUICK / STANDARD / COMPLEX — the rigor level of an output. Different from F.19 tiers.</td></tr>
+      <tr><td><strong>Pulse Check</strong></td><td>Pre-send mechanical sweep at the end of an output. Original: 17 items. Reduced (Tier 1): 5 items.</td></tr>
+      <tr><td><strong>HFR</strong></td><td>Honest Failure Report — root cause + permanent fix produced in the same output that fails.</td></tr>
+      <tr><td><strong>F.X</strong></td><td>Failure-Ledger entry X. Cumulative immutable log of every system failure + permanent fix.</td></tr>
+      <tr><td><strong>Mechanical enforcement</strong></td><td>Rule enforced by a script or hook, not by Claude self-discipline. The category that actually holds per F.19.</td></tr>
+      <tr><td><strong>F4/F5/F8/etc. (fusion)</strong></td><td>Operations that merged multiple SOP components to reduce surface area. F4 merged Oversight + Cache Manager → Controller. F5 archived Jenny. F8 merged RPT_LOG + HFR → FAILURE_LEDGER.</td></tr>
+    </table>
+  </section>
+
+  <div class="footer">
+    Universal Output SOP v1.3 · SOP_MAP.html v1.0 · Generated on aurelia · 2026-05-21<br>
+    Companion files: <code>SOP_MAP.md</code> (markdown) · <code>diagrams_src/*.mmd</code> (Mermaid source) · <code>assets/diagrams/*.png</code> (rendered PNGs)
+  </div>
+</main>
+
+</div>
+
+<div class="lightbox" id="lightbox" onclick="this.classList.remove('open')">
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+  function zoom(src) {
+    const lb = document.getElementById('lightbox');
+    document.getElementById('lightbox-img').src = src;
+    lb.classList.add('open');
+  }
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') document.getElementById('lightbox').classList.remove('open');
+  });
+</script>
+
+</body>
+</html>

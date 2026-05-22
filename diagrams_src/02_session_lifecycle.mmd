@@ -1,0 +1,40 @@
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#111','primaryBorderColor':'#333','lineColor':'#444','fontFamily':'Inter,system-ui,sans-serif','fontSize':'14px'}}}%%
+sequenceDiagram
+    autonumber
+    actor Alan
+    participant Device as 🖥️ Device<br/>(aurelia / mac-main)
+    participant CC as Claude Code
+    participant Verifier as bootstrap_verify.sh
+    participant Cache as cache/*.md
+    participant Hook as .githooks/<br/>(pre-commit + pre-push)
+    participant Remote as origin/main
+
+    Alan->>Device: open Claude Code
+    Device->>CC: launch
+    CC->>CC: auto-read CLAUDE.md
+    CC->>CC: read SESSION_START.md (entry point)
+    CC->>Verifier: bash scripts/bootstrap_verify.sh
+    Verifier-->>CC: 70/0/0 pass ✅
+    CC->>Cache: read SESSION_STATE + CONTINUATION + BOOTSTRAP_CHECK
+    CC->>Alan: STEP 2 — 9-line ✅ RESUMED + macro/micro
+    Alan->>CC: provides task
+    CC->>CC: MODE declaration (CONVERSATION or OUTPUT-X)
+    Note over CC: For OUTPUT mode, apply<br/>MANDATORY_TIGHT_LOOP<br/>(3-line STEP + 6 SubSOPs +<br/>5-item Pulse Check)
+    CC->>Alan: deliver output
+    CC->>Cache: backup before edit + log to BACKUP_LOG
+    CC->>Device: git add (specific files)
+    Device->>Hook: pre-commit triggers
+    Hook->>Hook: append_only_check.sh
+    Hook->>Hook: compliance_check.sh
+    Hook->>Hook: device identity check
+    Hook-->>Device: ✅ pass
+    Device->>Device: commit with [device | TS] subject
+    Device->>Hook: pre-push triggers
+    Hook->>Remote: fetch + check sync
+    alt remote ahead
+        Hook-->>Device: BLOCK + run safe_push.sh
+    else remote unchanged
+        Hook-->>Device: ✅ push allowed
+        Device->>Remote: git push
+    end
+    Remote-->>Device: confirmation

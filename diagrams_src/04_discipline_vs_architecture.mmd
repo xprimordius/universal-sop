@@ -1,0 +1,46 @@
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#fff','primaryTextColor':'#111','primaryBorderColor':'#333','lineColor':'#666','fontFamily':'Inter,system-ui,sans-serif','fontSize':'14px'}}}%%
+flowchart LR
+    classDef fail fill:#FEE2E2,color:#7F1D1D,stroke:#DC2626,stroke-width:2px
+    classDef pass fill:#D1FAE5,color:#065F46,stroke:#10B981,stroke-width:2px
+    classDef bridge fill:#FEF3C7,color:#92400E,stroke:#F59E0B,stroke-width:2px,stroke-dasharray:5 5
+    classDef failOut fill:#DC2626,color:white,stroke:#7F1D1D,stroke-width:2px
+    classDef passOut fill:#059669,color:white,stroke:#065F46,stroke-width:2px
+
+    subgraph DISC["❌ DISCIPLINE — decays<br/>rules without gates, ~0% compliance"]
+        D1[STEP headers]
+        D2[Understanding Check]
+        D3[LTM per section]
+        D4[Step Tracking Table]
+        D5[Pulse Check 17 items]
+        D6[Agent invocation]
+        D7[Session-start ritual]
+    end
+
+    subgraph ARCH["✅ ARCHITECTURE — holds<br/>rules with gates, ~85% compliance"]
+        A1[backups before edit]
+        A2[device IDs in filenames]
+        A3[append-only enforcement]
+        A4[commit msg convention]
+        A5[no deletion]
+        A6[pre-commit hook]
+        A7[pre-push hook]
+        A8[bootstrap_verify.sh]
+    end
+
+    subgraph FIX["🛠️ TIERED FIX (F.19)"]
+        T1["TIER 1 ✅ SHIPPED<br/>Scope reduction<br/>17→5, 16→6, 8→3"]
+        T2["TIER 2 ⏳ STAGED<br/>Mode declaration<br/>CONVERSATION vs OUTPUT-X"]
+        T3["TIER 3 ⏳ STAGED<br/>Outputs are files<br/>pre-commit gates compliance"]
+    end
+
+    DISC -->|loses to immediate task| Failed[F.1–F.19<br/>keep recurring]
+    ARCH -->|gated by hooks| Success[holds across<br/>sessions + devices]
+    DISC -.->|T1 reduces surface| FIX
+    DISC -.->|T2 scopes when SOP fires| FIX
+    DISC -.->|T3 converts to architecture| ARCH
+
+    class D1,D2,D3,D4,D5,D6,D7 fail
+    class A1,A2,A3,A4,A5,A6,A7,A8 pass
+    class T1,T2,T3 bridge
+    class Failed failOut
+    class Success passOut
