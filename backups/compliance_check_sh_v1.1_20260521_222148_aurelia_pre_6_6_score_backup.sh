@@ -110,10 +110,10 @@ echo ""
 # ─────────────────────────────────────────────────────────
 echo "🔍 CHECK 4 — Pulse Check presence"
 if echo "$CONTENT" | grep -qiE "PULSE CHECK" 2>/dev/null; then
-  if echo "$CONTENT" | grep -qE "Score:\s*(5/5|6/6|10/10|11/11|12/12|15/15|16/16|17/17|18/18)" 2>/dev/null; then
+  if echo "$CONTENT" | grep -qE "Score:\s*(5/5|10/10|11/11|12/12|15/15|16/16|17/17)" 2>/dev/null; then
     echo "  ✅ Pulse Check present with full score"
   else
-    echo "  ⚠️ Pulse Check present but score not full (expected 6/6 per MANDATORY_TIGHT_LOOP v1.1, 5/5 for v1.0 outputs, OR 10/10..18/18 for full SOP)"
+    echo "  ⚠️ Pulse Check present but score not full (expected 5/5 per MANDATORY_TIGHT_LOOP, OR 10/10, 11/11, 12/12, 15/15, 16/16, 17/17 for full SOP)"
     ISSUES=$((ISSUES + 1))
   fi
 else

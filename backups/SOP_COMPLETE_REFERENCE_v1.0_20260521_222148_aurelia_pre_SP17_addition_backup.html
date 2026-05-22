@@ -573,7 +573,7 @@
           <ul>
             <li>STEP header 8 fields → 3 lines (STEP + 🎯 MACRO + 📌 MICRO)</li>
             <li>16 SubSOPs + 4 Ensurance → 6 + 1 mandatory: SP.5 FSP, SP.6 IAC, SP.12 HFR, SP.15 EEP, EN.1 Output Skeleton, EN.4 Pulse Check</li>
-            <li>Pulse Check 17 items → 5 items (v1.0) → <strong>6 items (v1.1, adds P6 SIR per F.20 2026-05-21)</strong>: P1 Honest numbers / P2 Tables / P3 Headline-first / P4 Inference marked / P5 Promise = deliver / P6 SIR surfaced</li>
+            <li>Pulse Check 17 items → 5 items (P1 Honest numbers / P2 Tables / P3 Headline-first / P4 Inference marked / P5 Promise = deliver)</li>
           </ul>
           <p><strong>Why:</strong> Full SOP overhead caused output-level compliance decay. Reduced ruleset is sized to what real sessions can carry. Full SOP preserved as reference; reductions are reversible.</p>
         </div>
@@ -733,19 +733,6 @@
           <p><strong>Position:</strong> Runs alongside EN.4 Pulse Check before any send.</p>
         </div>
       </details>
-      <details>
-        <summary><span class="chip amber star">REFLECTION — MANDATORY (NEW 2026-05-21, F.20 fix)</span> <strong>SP.17 SIR</strong> (System Improvement Reflection)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Every output ends with 1-3 SYSTEM-level improvement insights surfaced DURING the output. Distinct from SP.9 FE (which is <em>content</em> foresight). SIR is <em>system</em> improvement — "what should the SOP/agents/scripts itself become next?"</p>
-          <p><strong>Per Alan (2026-05-21):</strong> <em>"insights for improvement which should be in the SOP/agents right? every time the SOP ends with this? if not implement and save for future use for all."</em></p>
-          <p><strong>Categories:</strong> 🛠️ structural · 📋 convention · 🪙 token · 🔧 tooling · 🔄 process · 📊 measurement</p>
-          <p><strong>Effort labels:</strong> S (under 1h) · M (1-4h) · L (half-day+)</p>
-          <p><strong>Format:</strong> table with #, category, insight (one-line, actionable), effort. Position: between body and Pulse Check.</p>
-          <p><strong>Mandatory:</strong> minimum 1 insight per OUTPUT-STANDARD; at least 1 of every 5 outputs is effort=L.</p>
-          <p><strong>Failure mode if skipped:</strong> The SOP stops evolving via in-session observation. All improvements come from explicit Alan-prompted rebuilds. F.20 entry documents this exact gap.</p>
-          <p><strong>Validator check:</strong> VL.7. <strong>Pulse Check item:</strong> P6.</p>
-        </div>
-      </details>
     </div>
   </section>
 
@@ -782,17 +769,15 @@
         <div class="content">
           <p><strong>Purpose:</strong> Pre-send mechanical sweep. Visible. Scored.</p>
           <p><strong>Original (full SOP):</strong> 17 items (P1–P17).</p>
-          <p><strong>Reduced (MANDATORY_TIGHT_LOOP v1.0 per F.19 Tier 1):</strong> 5 items (P1-P5).</p>
-          <p><strong>Reduced v1.1 (per F.20 2026-05-21):</strong> <strong>6 items</strong> — adds P6 for SIR.</p>
+          <p><strong>Reduced (MANDATORY_TIGHT_LOOP per F.19 Tier 1):</strong> 5 items:</p>
           <ul>
             <li><strong>P1</strong> Honest numbers; N/M for unmeasurable</li>
             <li><strong>P2</strong> Tables for comparisons</li>
             <li><strong>P3</strong> Headline-first</li>
             <li><strong>P4</strong> Inference vs fact marked</li>
             <li><strong>P5</strong> Promise = deliver in same message</li>
-            <li><strong>P6</strong> ⭐ SIR surfaced (SP.17 — 1-3 system-improvement insights with category + effort)</li>
           </ul>
-          <p><strong>Score:</strong> X/6 (v1.1) or X/5 (v1.0 grandfathered). Pass criterion: 6/6 (or 5/5) for ship; one item down with brief acknowledgment is acceptable; ≤ 4/6 → fix.</p>
+          <p><strong>Score:</strong> X/5. Pass criterion: 5/5 for ship; 4/5 with brief acknowledgment of gap; ≤ 3/5 → fix.</p>
         </div>
       </details>
     </div>

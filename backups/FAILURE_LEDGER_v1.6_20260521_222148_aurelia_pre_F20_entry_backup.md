@@ -168,33 +168,6 @@ Every entry uses this format:
 </details>
 
 <details>
-<summary><b>F.20 — System Improvement Reflection Structurally Absent [FAILURE × 1, structural gap] — ✅ FIXED 2026-05-21</b></summary>
-
-- **Type:** FAILURE (structural gap surfaced via Alan's effectiveness audit)
-- **First Observed:** 2026-05-21 evening, aurelia session — Alan: *"insights for improvement which should be in the SOP/agents right? every time the SOP ends with this? if not implement and save for future use for all."*
-- **Times:** Effectively every prior output (every output since the project began missed this — it was never structural)
-- **What Failed:** No protocol exists to surface SYSTEM-level improvement insights per output. Closest existing protocols (SP.9 FE = content foresight; SP.13 SHR = past-scoring) addressed different lenses. As a result, insights about how the SOP/agents/scripts/architecture itself should improve — surfaced naturally during real work — were lost between outputs. The SOP could only evolve via explicit Alan-prompted rebuilds, never via in-session observation. This is part of the F.19 same-brain ceiling pattern: without a structural reflection slot, Claude reverts to task-focus and improvement opportunities evaporate.
-- **Evidence:**
-  - PROTOCOLS_REFERENCE.md (pre-F.20) had 20 entries; grep for "improvement reflection" → 0 matches
-  - MANDATORY_TIGHT_LOOP.md (pre-F.20) had 6 mandatory; none addressed system-improvement
-  - validator.md (pre-F.20) had VL.1-VL.6; none checked for SIR
-  - Audit confirmed gap during this commit's PHASE 4 work
-- **Root Cause:** No structural slot in the output template for "system-improvement reflection." Without a forced slot, the reflection doesn't happen — same convention-vs-architecture pattern as F.19's diagnosis (discipline decays, architecture holds). Specifically: even if Claude *knew* to surface insights, it would forget under task pressure unless the skeleton demands it.
-- **Permanent Fix:** **NEW protocol SP.17 SIR (System Improvement Reflection)** added 2026-05-21.
-  1. Mandatory in `MANDATORY_TIGHT_LOOP.md` v1.1 (7+1 protocols now; was 6+1)
-  2. Pulse Check extended to 6 items (P6 = SIR surfaced)
-  3. Validator agent adds VL.7 check
-  4. `scripts/validator.sh` adds SIR detection heuristic
-  5. `scripts/compliance_check.sh` accepts 6/6 score (alongside 5/5 v1.0 migration)
-  6. PROTOCOLS_REFERENCE.md gets full SP.17 spec with categories (🛠️ structural / 📋 convention / 🪙 token / 🔧 tooling / 🔄 process / 📊 measurement) and effort labels (S/M/L)
-  7. Format: 1-3 actionable system-level insights per output, categorized
-- **Fixed:** 2026-05-21 (this commit)
-- **Verified:** This very output ends with a SIR section demonstrating the protocol working (dog-fooded).
-- **Lesson:** F.19's core insight reaffirmed — STRUCTURAL slots beat conventional intentions. Adding SIR as a mandatory skeleton slot guarantees the reflection happens. If it were a "remember to reflect" suggestion, it would decay like every other convention.
-- **Future enhancement:** `cache/SIR_LOG.md` (append-only log of every SIR insight) → enables deduplication + pattern detection + auto-conversion to FAILURE_LEDGER entries when an insight recurs. Tier-1.5 follow-up; not blocking.
-</details>
-
-<details>
 <summary><b>F.19 — SOP Output-Level Compliance Decays Despite Infrastructure [META-FAILURE, all 18 prior entries + 14 sub-agent tests + aurelia Day-1 session confirm] — ✅ Tier 1 FIXED 2026-05-21 / Tier 2 + Tier 3 STAGED</b></summary>
 
 - **Type:** FAILURE — meta-pattern that explains why F.1–F.18 keep recurring in new forms

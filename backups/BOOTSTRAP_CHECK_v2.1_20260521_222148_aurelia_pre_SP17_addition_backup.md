@@ -114,7 +114,6 @@ Every SubSOP must be present in PROTOCOLS_REFERENCE.md with full name + acronym.
 | [ ] | SP.14 | **RPT** (Repeated Prompt Tracker) | Catch when user asks 2+ times |
 | [ ] | SP.15 | **EEP** (Execution Enforcement Protocol) | Execute, don't acknowledge — no future tense |
 | [ ] | SP.16 | **PCG** (Prompt Completion Gate) | Pre-send: every prompt item has execution proof |
-| [ ] | SP.17 ⭐ NEW 2026-05-21 | **SIR** (System Improvement Reflection) | Every output ends with 1-3 system-level improvement insights (per F.20 fix). Mandatory in MANDATORY_TIGHT_LOOP.md v1.1; reference-only in full SOP until v1.4 incorporation. |
 
 **Why each is verified:** PROTOCOLS_REFERENCE.md is the source of truth (Rule #11 mandate). If an entry is missing, full-name + acronym enforcement breaks.
 

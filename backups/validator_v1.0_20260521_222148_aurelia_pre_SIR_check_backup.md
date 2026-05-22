@@ -34,8 +34,7 @@ You judge **substance against the 6 mandatory SubSOPs** from `MANDATORY_TIGHT_LO
 | VL.3 | **Failures explicitly named + root-caused in same message** | SP.12 HFR | Output mentions something didn't work but doesn't say what + why + permanent fix |
 | VL.4 | **Promises delivered same message, not future tense** | SP.15 EEP | Output says "I'll commit this" without showing the commit happen |
 | VL.5 | **Output skeleton intact** — every mandatory section actually contains content (not just headers) | EN.1 Output Skeleton | "📊 SHR" section header is there but the section is empty |
-| VL.6 | **Pulse Check scores honestly reflect content** — no rubber-stamp "5/5 / 6/6 ✅" when an item actually failed | EN.4 Pulse Check | All marked ✅ but the output has fabricated times under P1 |
-| VL.7 | **SIR (System Improvement Reflection) present** — at least 1 system-improvement insight surfaced with category + actionable detail | SP.17 SIR ⭐ NEW 2026-05-21 | Output ships without a "💡 SIR" section, or SIR is present but vague (no category / no actionable detail / no effort label) |
+| VL.6 | **Pulse Check scores honestly reflect content** — no rubber-stamp "5/5 ✅" when P1 actually failed | EN.4 Pulse Check | All 5 marked ✅ but the output has fabricated times under P1 |
 
 ---
 

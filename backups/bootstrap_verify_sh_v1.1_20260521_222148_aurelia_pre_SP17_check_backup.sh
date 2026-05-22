@@ -191,9 +191,6 @@ check_grep "SP\.13 .*SHR"        PROTOCOLS_REFERENCE.md "SP.13 SHR (System Healt
 check_grep "SP\.14 .*RPT"        PROTOCOLS_REFERENCE.md "SP.14 RPT (Repeated Prompt Tracker)"
 check_grep "SP\.15 .*EEP"        PROTOCOLS_REFERENCE.md "SP.15 EEP (Execution Enforcement Protocol)"
 check_grep "SP\.16 .*PCG"        PROTOCOLS_REFERENCE.md "SP.16 PCG (Prompt Completion Gate)"
-# F.20 fix 2026-05-21 — SP.17 added as mandatory in MANDATORY_TIGHT_LOOP v1.1
-check_grep "SP\.17 .*SIR"        PROTOCOLS_REFERENCE.md "SP.17 SIR (System Improvement Reflection) — NEW 2026-05-21"
-check_grep "SP\.17 SIR|SIR — System Improvement Reflection" MANDATORY_TIGHT_LOOP.md "SP.17 SIR mandatory in MANDATORY_TIGHT_LOOP"
 [[ $QUIET -eq 0 ]] && echo ""
 
 # === 5. ENSURANCE SYSTEM (4) ===

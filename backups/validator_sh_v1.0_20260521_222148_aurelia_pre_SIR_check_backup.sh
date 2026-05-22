@@ -88,25 +88,12 @@ else
   check_warn "VL.5" "EN.1 Skeleton — sections have content" "PASS" "($EMPTY_SECTIONS section header(s) added — assume populated)"
 fi
 
-# VL.6 EN.4 Pulse Check honest scoring (5/5 or 6/6)
-# Heuristic: if score is X/N but per-item lines contain ❌, that's dishonest
-if (echo "$ADDED" | grep -qE "Score: (5/5|6/6)") && echo "$ADDED" | grep -qE "P[1-6].*❌"; then
-  check_warn "VL.6" "EN.4 Pulse Check — honest" "WARN" "Full score but ❌ visible in per-item lines"
+# VL.6 EN.4 Pulse Check honest scoring
+# Heuristic: if score is X/5 but P1-P5 lines contain ❌, that's dishonest
+if echo "$ADDED" | grep -qE "Score: 5/5" && echo "$ADDED" | grep -qE "❌"; then
+  check_warn "VL.6" "EN.4 Pulse Check — honest" "WARN" "5/5 score but ❌ visible in additions"
 else
   check_warn "VL.6" "EN.4 Pulse Check — honest" "PASS" ""
-fi
-
-# VL.7 SP.17 SIR (System Improvement Reflection) present — NEW 2026-05-21
-# Heuristic: look for "SIR — System Improvement Reflection" header OR "💡 SIR" marker
-if echo "$ADDED" | grep -qE "💡 SIR|SIR — System Improvement Reflection|SP\.17 SIR"; then
-  check_warn "VL.7" "SP.17 SIR — system insights surfaced" "PASS" ""
-else
-  # Only warn if this is an output (has STEP header); skip for meta-docs
-  if echo "$ADDED" | grep -qE "^\+STEP:"; then
-    check_warn "VL.7" "SP.17 SIR — system insights surfaced" "WARN" "No SIR section found (every OUTPUT-STANDARD/COMPLEX must include 1-3 system-improvement insights per SP.17)"
-  else
-    check_warn "VL.7" "SP.17 SIR — system insights surfaced" "PASS" "(meta-doc — N/A)"
-  fi
 fi
 
 # Log to META_AUDIT_LOG.md
