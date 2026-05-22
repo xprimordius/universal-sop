@@ -120,18 +120,6 @@ else
   fi
 fi
 
-# VL.9 SP.9 FE (Foresight Engine) present — PROMOTED 2026-05-22 (F.23)
-# Look for: "🔮 Foresight" header OR explicit priority-tagged predictions (🔴 / 🟡 / 🟢)
-if echo "$ADDED" | grep -qE "🔮 Foresight|SP\.9 FE|Foresight Engine"; then
-  check_warn "VL.9" "SP.9 FE — foresight surfaced" "PASS" ""
-else
-  if echo "$ADDED" | grep -qE "^\+STEP:"; then
-    check_warn "VL.9" "SP.9 FE — foresight surfaced" "WARN" "No 🔮 Foresight section found (every OUTPUT-STANDARD/COMPLEX must include 2-3 priority-tagged next-step predictions per SP.9 FE, promoted to mandatory in F.23)"
-  else
-    check_warn "VL.9" "SP.9 FE — foresight surfaced" "PASS" "(meta-doc — N/A)"
-  fi
-fi
-
 # Log to META_AUDIT_LOG.md
 if [ -f cache/META_AUDIT_LOG.md ]; then
   printf "| %s | %s | Validator | %d pass / %d warnings | %s |\n" \

@@ -168,44 +168,6 @@ Every entry uses this format:
 </details>
 
 <details>
-<summary><b>F.24 — SP.20 REFINE Protocol Shipped (Weekly Self-Improvement Loop) — ✅ FIXED 2026-05-22</b></summary>
-
-- **Type:** STRUCTURAL ADDITION (new SubSOP + 6 agents + 6 scripts + new cache directory)
-- **First Observed:** Quintessence audit (F.22) identified that Universal SOP had observation infrastructure but no intervention infrastructure. Q.1 (closed feedback loops), Q.4 (proactive drift detection), Q.8 (failure-to-fix automation), Q.9 (session lifecycle automation) all at partial or NO.
-- **What Was Missing:** A protocol that operates at WEEKLY cadence to close the loop. Per-output SIR (SP.17) surfaces insights but doesn't act on them. Per-output Foresight (SP.9 — also promoted in F.23) predicts but doesn't intervene. Nothing was wired to read SIR_LOG + FAILURE_LEDGER + META_AUDIT_LOG and **act**.
-- **Permanent Fix (SHIPPED):** SP.20 REFINE Protocol — 6-step cycle (Review → Extract → Foresee → Intervene → Note → Evolve) with 6 new agent .md files + 6 new script .sh files + new `cache/refine/` directory with append-only `INTERVENTION_LOG.md`. Files: `agents/refine_{reviewer,extractor,foresight,intervention,scribe,evolution}.md` + `scripts/refine_{review,extract,foresee,intervene,note,evolve}.sh`.
-- **v1.0 design:** All scripts are STUBS — they surface the data + propose actions, but require Alan approval before any code change (no autonomous self-modification in v1.0). v2.0+ may auto-apply safe low-risk interventions (lint fixes, doc updates) with full audit trail.
-- **Cadence:** Weekly (Saturday 8 AM cron / Task Scheduler) for R→E→F→I→N. Quarterly OR pattern-recurrence ≥ 3 for Evolve.
-- **Closes Quintessence properties:** Q.1 (closed feedback loops: now have weekly cycle that READS observation logs), Q.4 (proactive drift detection: Foresight step), Q.8 (failure-to-fix automation: Intervention + Scribe steps), Q.9 (session lifecycle: REFINE is weekly lifecycle).
-- **Projected quintessence score impact:** 6.5/10 → ~8.0/10 once REFINE runs ≥ 2 weekly cycles with at least 1 INTERVENTION_LOG entry.
-- **Origin:** REFINE_PROTOCOL_PROPOSAL.md (committed 2026-05-22 commit 823a459). Alan: "yes to all" 2026-05-22.
-- **Fixed:** 2026-05-22 (this commit). Stubs shipped; v2.0 polish queued in QUINTESSENCE_ROADMAP.
-- **Verified:** 12 new files present in `agents/` + `scripts/` + `cache/refine/INTERVENTION_LOG.md`; bootstrap_verify recognizes them; commit landed on origin/main.
-- **Lesson:** This is the architectural answer to "the SOP doesn't self-improve" — every prior fix patched an instance; REFINE creates a meta-loop that proposes structural fixes when patches keep recurring.
-</details>
-
-<details>
-<summary><b>F.23 — SP.9 FE Promoted From Reference-Only → Mandatory + SP.19 GLD Adopted + Proactive Cluster Formalized — ✅ FIXED 2026-05-22</b></summary>
-
-- **Type:** STRUCTURAL ADDITION (protocol promotion + new SubSOP from Aurelius cross-pollination + functional cluster formalization)
-- **First Observed:** Alan 2026-05-22: "what's the protocol named around bottlenecks, constraints, and proactive problem solving? isn't this foresight?" — surfaced that SP.9 FE was documented in PROTOCOLS_REFERENCE but **never invoked** (reference-only).
-- **What Was Missing:**
-  1. SP.9 FE was dormant — per-output Foresight predictions weren't happening despite being documented
-  2. GOLD-PATH discipline from Aurelius (`xprimordius/aurelius-vault/Reference/GOLD-PATH-Protocol.md`) hadn't been adopted — we'd been picking tech (Mermaid, mermaid-cli, Obsidian, gh CLI) without SOTA scans
-  3. SP.9 + SP.17 + (proposed SP.19) + (proposed SP.20) were not formally clustered — they all serve the same higher-level purpose but lacked a named cluster
-- **Permanent Fix (SHIPPED):**
-  1. **SP.9 FE promoted** to MANDATORY_TIGHT_LOOP Rule 2 (#9) — Pulse Check P8 added ("Foresight surfaced") — validator.md + validator.sh check VL.9 added
-  2. **SP.19 GLD GOLD-PATH** shipped — adopted from Aurelius (acronym G·O·L·D·P·A·T·H — Gather/Observe/Lead/Deviate/Prove/Audit/Track/Honor) — mandatory before recommending any new external tool/model/library/framework
-  3. **Proactive Cluster** formalized in PROTOCOLS_REFERENCE.md alongside existing Visual / Token / Self-Check / Wrap-Up clusters: **SP.9 FE + SP.17 SIR + SP.19 GLD + SP.20 REFINE** = "Foresight + Proactive Resolution System"
-- **Files modified:** MANDATORY_TIGHT_LOOP.md (Rule 2: 8→9, Pulse: 7→8 items), PROTOCOLS_REFERENCE.md (SP.9 status update + SP.19 + SP.20 entries + Proactive Cluster section), agents/validator.md (VL.9), scripts/validator.sh (VL.9 heuristic), cache/BOOTSTRAP_CHECK.md, scripts/bootstrap_verify.sh, cache/FAILURE_LEDGER.md (this entry).
-- **Files added:** scripts/refine_*.sh (6) + agents/refine_*.md (6) + cache/refine/INTERVENTION_LOG.md — all part of F.24 SP.20 REFINE ship.
-- **Origin:** LEARNINGS_FROM_AURELIUS_VAULT.md (commit ab1542b) identified GOLD-PATH as missing. SOP_GUIDE.md (commit 5ef7e2d) surfaced SP.9 dormancy. Alan: "yes to all" 2026-05-22.
-- **Fixed:** 2026-05-22 (this commit).
-- **Verified:** MANDATORY_TIGHT_LOOP.md Rule 2 shows 9 mandatory; Pulse Check shows 8 items; validator.sh has VL.9 grep; PROTOCOLS_REFERENCE has Proactive Cluster section.
-- **Lesson:** Dormant protocols are worse than missing ones — they create the illusion of capability. Cross-pollination from sister projects (Aurelius) is high-leverage: borrow what works, acknowledge provenance, ship.
-</details>
-
-<details>
 <summary><b>F.22 — Universal SOP Not Yet Self-Perfecting [META-AUDIT, structural deficit across 10 quintessence properties] — ✅ Partial FIX 2026-05-21 (6.5/10 → roadmap for 3.5/10 remainder)</b></summary>
 
 - **Type:** META-AUDIT (Alan-prompted comprehensive audit for "quintessential self-perfecting + perfected SOP")
