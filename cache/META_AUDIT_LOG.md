@@ -52,3 +52,43 @@ This file is listed in:
 ---
 
 *META_AUDIT_LOG.md v1.0 | Append-only | F.19 agent-chain rebuild | aurelia | 2026-05-21*
+| 2026-05-21 | aurelia | Verifier | 2 pass / 6 warnings | f359b72 |
+| 2026-05-21 | aurelia | Validator | 4 pass / 2 warnings | f359b72 |
+| 2026-05-21 | aurelia | QC | 9 pass / 2 warnings | f359b72 |
+| 2026-05-21 | aurelia | Meta-Verifier | 6 pass / 1 warnings | f359b72 |
+| 2026-05-21 | aurelia | QC | 11 pass / 0 warnings | dc12851 |
+| 2026-05-21 | aurelia | Meta-Verifier | 6 pass / 1 warnings | dc12851 |
+| 2026-05-21 | aurelia | Verifier | 2 pass / 6 warnings | dc12851 |
+| 2026-05-21 | aurelia | Validator | 4 pass / 2 warnings | dc12851 |
+| 2026-05-21 | aurelia | QC | 10 pass / 1 warnings | dc12851 |
+| 2026-05-21 | aurelia | Meta-Verifier | 6 pass / 1 warnings | dc12851 |
+| 2026-05-21 | aurelia | Verifier | 5 pass / 3 warnings | bc4817b |
+| 2026-05-21 | aurelia | Validator | 4 pass / 3 warnings | bc4817b |
+| 2026-05-21 | aurelia | QC | 9 pass / 2 warnings | bc4817b |
+| 2026-05-21 | aurelia | Meta-Verifier | 6 pass / 1 warnings | bc4817b |
+| 2026-05-21 | aurelia | Verifier | 5 pass / 3 warnings | d2ec465 |
+| 2026-05-21 | aurelia | Validator | 5 pass / 3 warnings | d2ec465 |
+| 2026-05-21 | aurelia | QC | 9 pass / 2 warnings | d2ec465 |
+| 2026-05-21 | aurelia | Meta-Verifier | 6 pass / 1 warnings | d2ec465 |
+| 2026-05-21 | aurelia | QC | 11 pass / 0 warnings | dc219b3 |
+| 2026-05-21 | aurelia | Meta-Verifier | 6 pass / 1 warnings | dc219b3 |
+| 2026-05-21 | aurelia | Verifier | 5 pass / 3 warnings | dc219b3 |
+| 2026-05-21 | aurelia | Validator | 7 pass / 1 warnings | dc219b3 |
+| 2026-05-21 | aurelia | QC | 10 pass / 1 warnings | dc219b3 |
+| 2026-05-21 | aurelia | Meta-Verifier | 6 pass / 1 warnings | dc219b3 |
+| 2026-05-21 | aurelia | Verifier | 5 pass / 3 warnings | dc219b3 |
+| 2026-05-21 | aurelia | Validator | 7 pass / 1 warnings | dc219b3 |
+| 2026-05-21 | aurelia | QC | 10 pass / 1 warnings | dc219b3 |
+| 2026-05-21 | aurelia | Meta-Verifier | 6 pass / 1 warnings | dc219b3 |
+| 2026-05-21 | aurelia | Verifier | 2 pass / 6 warnings | d6f8679 |
+| 2026-05-21 | aurelia | Validator | 8 pass / 0 warnings | d6f8679 |
+| 2026-05-21 | aurelia | QC | 10 pass / 1 warnings | d6f8679 |
+| 2026-05-21 | aurelia | Meta-Verifier | 6 pass / 1 warnings | d6f8679 |
+| 2026-05-21 | aurelia | Verifier | 7 pass / 1 warnings | c56f6ec |
+| 2026-05-21 | aurelia | Validator | 8 pass / 0 warnings | c56f6ec |
+| 2026-05-21 | aurelia | QC | 10 pass / 1 warnings | c56f6ec |
+| 2026-05-21 | aurelia | Meta-Verifier | 6 pass / 1 warnings | c56f6ec |
+| 2026-05-22 | aurelia | Verifier | 2 pass / 6 warnings | 8068020 |
+| 2026-05-22 | aurelia | Validator | 8 pass / 0 warnings | 8068020 |
+| 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 8068020 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 8068020 |
