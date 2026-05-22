@@ -96,3 +96,7 @@ This file is listed in:
 | 2026-05-22 | aurelia | Validator | 8 pass / 0 warnings | 8e37ec6 |
 | 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 8e37ec6 |
 | 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 8e37ec6 |
+| 2026-05-22 | aurelia | Verifier | 1 pass / 7 warnings | ab1542b |
+| 2026-05-22 | aurelia | Validator | 7 pass / 1 warnings | ab1542b |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | ab1542b |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | ab1542b |
