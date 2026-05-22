@@ -519,7 +519,7 @@ Mystery mechanics. User can't audit what AI did.
 </details>
 
 <details>
-<summary><b>SP.9 — FE (Foresight Engine)</b> ⭐ PROMOTED 2026-05-22 (F.23) — MANDATORY in tight loop</summary>
+<summary><b>SP.9 — FE (Foresight Engine)</b></summary>
 
 ### Full Name
 **FE — Foresight Engine**
@@ -527,16 +527,12 @@ Mystery mechanics. User can't audit what AI did.
 ### Acronym Origin
 F = Foresight, E = Engine.
 
-### Status
-✅ **MANDATORY** in `MANDATORY_TIGHT_LOOP.md` v1.4+ as item #9 (was reference-only until F.23 promotion 2026-05-22). Part of the **Proactive Cluster** (SP.9 FE + SP.17 SIR + SP.19 GLD + SP.20 REFINE).
-
 ### Core Purpose
-Predict 2-3 next-step problems / breakpoints / constraints with priority tags 🔴🟡🟢 BEFORE they happen — bottlenecks, constraints, integration risks, downstream effects. Reactive firefighting is the failure mode; FE is the structural antidote.
+Predict next problems + provide solutions BEFORE they happen. Proactive, not reactive.
 
 ### Scope
-- **Mandatory** in every `MODE: OUTPUT-STANDARD` or `MODE: OUTPUT-COMPLEX` output
-- Mandatory in `MODE: OUTPUT-QUICK` if the output reveals a future risk
-- Reference-only in `MODE: CONVERSATION`
+- Every output's wrap-up
+- After any major decision
 
 ### Sub-Components
 | 🆔 | 🏷️ Foresight Type | 📝 Format |
@@ -544,45 +540,20 @@ Predict 2-3 next-step problems / breakpoints / constraints with priority tags �
 | FE.1 | Problem prediction | "If X happens, then Y" |
 | FE.2 | Solution proposal | "Mitigate via Z" |
 | FE.3 | Priority tagging | 🔴 Critical / 🟡 High / 🟢 Low |
-| FE.4 | Specific not generic | "API rate limit will hit at 1000 req/hr" — NOT "watch out for rate limits" |
-| FE.5 | Time horizon | "next commit" / "next session" / "by end of week" |
-
-### Format
-```
-🔮 Foresight (SP.9 FE)
-| 🚦 | 🔮 Prediction | 🛡️ Mitigation |
-|:-:|---|---|
-| 🔴 | <specific risk> | <specific action> |
-| 🟡 | <specific risk> | <specific action> |
-| 🟢 | <specific risk> | <specific action> |
-```
+| FE.4 | Specific not generic | "API rate limit will hit at 1000 req/hr" not "watch out for rate limits" |
 
 ### When Triggered
-- End of every OUTPUT-STANDARD / OUTPUT-COMPLEX (minimum 2–3 items)
-- After any major architectural decision (immediate + downstream foresight)
-- Before any commit that touches >3 files (predict integration risk)
-
-### Pulse Check Item
-**P8 — Foresight surfaced (SP.9)** in MANDATORY_TIGHT_LOOP v1.4+ Pulse Check. Position kept at P8 across v1.4 → v1.5.1 (P9 added for SP.21 MES). Block must contain priority emoji + minimum 2 specific predictions.
-
-### Validator Check
-**VL.9** in `scripts/validator.sh` — greps output for `🔮 Foresight` block + priority emoji presence + minimum 2 items.
+End of every output. Minimum 3 items for STANDARD/COMPLEX tier.
 
 ### Failure Mode If Skipped
-Reactive firefighting instead of preventive action. Original Alan trigger 2026-03-31: lack of "proactive suggestions" (RPT × 3 → F.4). Reactivated as F.23 in 2026-05-22 when audit revealed protocol had been dormant despite documentation (zero `🔮 Foresight` blocks in last ~50 outputs pre-F.23).
+Reactive firefighting instead of preventive action. Alan's trigger: lack of "proactive suggestions."
 
 ### Token Cost
-~150–300 tokens per output (3-row priority-tagged table).
+~1-2K per output.
 
 ### Related Protocols
-- **Proactive Cluster** members: SP.9 FE + SP.17 SIR + SP.19 GLD + SP.20 REFINE — all four serve the "predict + intervene" purpose at different cadences (per-output / per-output / per-recommendation / weekly)
-- **SP.7 Insights** — pairs differently: Insights = present-adjacent observations; FE = future-projected predictions
-- **SP.13 SHR** — Foresight informs SHR scoring (high-risk items lower health score)
-- **SP.20 REFINE** — F (Foresee) step in REFINE protocol is the weekly-cadence sibling of per-output FE
-- **F.23** — promotion HFR documenting protocol-was-dormant pattern
-
-### Promotion Context (F.23)
-SP.9 was reference-only from 2026-03-31 through 2026-05-22. Audit triggered by Alan: *"what's the protocol named around bottlenecks, constraints, and proactive problem solving? isn't this foresight?"* — surfaced that FE had been documented but never invoked in actual outputs. Permanent fix shipped 2026-05-22 (commit `4291068`): promotion to MANDATORY_TIGHT_LOOP Rule 2 #9 + Pulse Check P8 + Validator VL.9 + Proactive Cluster formalization.
+- SP.7 Insights — pairs (FE = future, Insights = present-adjacent)
+- SP.13 SHR — Foresight informs SHR scoring
 
 </details>
 
@@ -1036,120 +1007,6 @@ Always at the end of OUTPUT-STANDARD / OUTPUT-COMPLEX or any file-modifying CONV
 - SIR_LOG.md tail for SIR row count this output added
 
 Outputs the formatted table to stdout; AI surfaces verbatim in the output's closing block.
-
-</details>
-
-<details>
-<summary><b>SP.22 — E2E (End-to-End Verification)</b> ⭐ NEW 2026-05-22</summary>
-
-### Full Name
-**End-to-End Verification Protocol**
-
-### Acronym Origin
-**E2E** — End-to-End. Single-command sweep that runs every standalone verification script and aggregates pass/fail/skip into one verdict. Naming matches `xprimordius/aurelius-agent-stack/validate_e2e.py` (cross-pollination 2026-05-22 per `LEARNINGS_FROM_AURELIUS_VAULT.md`).
-
-> **Numbering note:** SP.19 GLD, SP.20 REFINE, SP.21 MES exist in `MANDATORY_TIGHT_LOOP.md` v1.4+ but their formal `<details>` entries in this file are deferred to a separate commit (priority #3 from the QUINTESSENCE_ROADMAP-derived queue). SP.22 is added here ahead of 19–21 to ship the F.29 follow-up cluster atomically.
-
-### Status
-✅ Active script (`scripts/e2e_verify.sh` v1.1, 9 checks). Not yet mandatory in `MANDATORY_TIGHT_LOOP.md` — invoked on-demand. Proposed wiring: pre-push hook or session-end script (deferred to QUINTESSENCE_ROADMAP Q.I.1).
-
-### Core Purpose
-**Single-pane "is anything broken right now?"** Runs every isolated verification check, captures pass/fail per check, aggregates into one verdict. Cheap (~3–10s), high-confidence "ship-ready" signal.
-
-### Scope
-- On-demand: before pushing, after major architectural change, at session start (post-bootstrap), when chain warnings appear
-- Periodic: every 5–10 commits (manual or future cron)
-- Proposed: every push (would block push if FAIL > 0)
-
-### Component Checks (9 as of 2026-05-22 commit `1c9c076`)
-| # | Check | Backing Script | What It Catches |
-|:-:|---|---|---|
-| 1/9 | Bootstrap Verify | `scripts/bootstrap_verify.sh` | Missing agents, broken hooks, stale fusions, harness drift (85 mechanical checks) |
-| 2/9 | Append-Only Check | `scripts/append_only_check.sh` | History files shrunk (BACKUP_LOG, FAILURE_LEDGER, SIR_LOG, META_AUDIT_LOG, SOP_HEALTH_METRICS) |
-| 3/9 | Compliance Check | `scripts/compliance_check.sh` | Bare protocol acronyms without full names; Pulse Check score validity (5/5…9/9, 10/10…19/19); STEP header completeness; MACRO+MICRO presence |
-| 4/9 | Consistency Check | `scripts/consistency_check.sh` | Version drift, stale refs, file count anomalies |
-| 5/9 | Agent Test Harness | `tests/run_agent_tests.sh` | Chain agent skeleton tests (9 currently) |
-| 6/9 | Chain Health Audit | `scripts/audit_chain_health.sh` | META_AUDIT_LOG trends; degrading pass rate; missing layers in recent runs |
-| 7/9 | SIR Recurrence | `scripts/sir_recurrence.sh` | Recurring SIR insights flagged for FAILURE_LEDGER promotion |
-| 8/9 | SOP Health Dashboard | `scripts/sop_health_dashboard.sh` | Single-pane scorecard + append metric row to SOP_HEALTH_METRICS.md |
-| 9/9 | Verify Before Assert | `scripts/verify_before_assert.sh` | F.23+F.26+F.27 cluster — confidence-without-verification heuristic (added 2026-05-22 commit `1c9c076`) |
-
-### Format
-```
-═══════════════════════════════════════════════════════════════
-🧪 E2E — END-TO-END VERIFICATION
-═══════════════════════════════════════════════════════════════
-Device:    <device>
-Timestamp: <date HH:MM TZ>
-Commit:    <SHA>
-
-─── 1/9 Bootstrap Verify ───
-  ✅ PASS — <summary>
-... (each check)
-
-📊 E2E RESULT
-  ✅ Passed:  N / 9
-  ❌ Failed:  M / 9
-  ⚠️ Skipped: K / 9
-VERDICT: ✅ NOTHING IS BROKEN — ALL CHECKS PASS    (if FAIL=0)
-      OR
-VERDICT: ❌ M CHECK(S) FAILED — investigate above
-```
-
-### Exit Codes
-- `0` — all checks passed (or warnings-only) → safe to commit/push
-- `1` — at least one check failed (`TOTAL_FAIL > 0`) → investigate before commit
-
-### Logging
-Every E2E run appends a row to `cache/META_AUDIT_LOG.md`:
-```
-| YYYY-MM-DD | <device> | E2E | N pass / M fail / K skip | <commit> |
-```
-Enables trend analysis via `scripts/audit_chain_health.sh` and `scripts/sop_health_dashboard.sh`.
-
-### When Triggered
-- Manual: `bash scripts/e2e_verify.sh`
-- Recommended: STEP 1 of session bootstrap (after `bootstrap_verify.sh`)
-- Recommended: before any `git push`
-- Recommended: after architectural changes (new SubSOP, new agent, new script)
-- Proposed (deferred to roadmap): pre-push hook integration
-
-### Failure Mode If Skipped
-- Silent regressions ship — a broken chain script doesn't surface until someone needs it
-- Multi-day debugging when a check that "used to work" stopped working at some unknown commit
-- E2E is the canonical "did I just break something?" answer; without it, the answer is "find out the hard way"
-
-### Token Cost
-~0 tokens (mechanical script runs locally; AI surfaces summary in 2–3 lines).
-
-### Related Protocols
-- **SP.18 SSC (Sync Status Confirmation)** — sibling. SSC reports sync state; E2E reports verification state. Both are mechanical-script-backed user-visible reports.
-- **EN.4 Pulse Check** — Pulse Check is per-output gating; E2E is per-commit/per-push gating. Different cadences, complementary.
-- **SP.9 FE (Foresight Engine)** — when E2E surfaces a FAIL, FE predicts what downstream work it blocks. Pair at output close.
-- **scripts/bootstrap_verify.sh** — E2E check 1/9. Bootstrap_verify is invoked standalone at session start; E2E re-runs it as one of 9.
-- **scripts/verify_before_assert.sh** — E2E check 9/9. Added 2026-05-22 to close F.23+F.26+F.27 confidence-without-verification cluster.
-- **F.22 quintessence audit** — E2E is the Q.E.1 self-test coverage answer at the chain level.
-
-### Cross-Pollination Origin
-Single-script aggregator pattern adopted from `xprimordius/aurelius-agent-stack/validate_e2e.py` (observed 2026-05-22). Their stack uses one entry point instead of N separate verification calls — we adopted the same shape.
-
-### Future Enhancements (per QUINTESSENCE_ROADMAP)
-- Wire into `.githooks/pre-push` (block push if FAIL > 0)
-- Add `--quiet` mode for cron-friendly invocation
-- Cross-device aggregator (sum E2E rows from all devices in META_AUDIT_LOG)
-- HTML report generator for quarterly retros
-
-### Backing Script
-`scripts/e2e_verify.sh` v1.1 (~115 lines). Each check uses a generic `run_check` wrapper that:
-1. Validates script exists (skips with SKIP tally if not)
-2. Runs with passed args, captures exit code + output
-3. Optionally checks output for success pattern (e.g., `FAIL=0`, `complete`, `VERDICT`)
-4. Tallies PASS/FAIL/SKIP totals
-5. Logs E2E summary row to META_AUDIT_LOG.md
-
-### Version History
-- v1.0 (2026-05-22 commit `bfade1e`): 8 checks — bootstrap, append-only, compliance, consistency, agent-tests, chain-health, sir-recurrence, dashboard
-- v1.1 (2026-05-22 commit `1c9c076`): added check 9/9 — verify_before_assert (F.23+F.26+F.27 cluster fix)
 
 </details>
 

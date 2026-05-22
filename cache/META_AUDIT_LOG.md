@@ -162,3 +162,10 @@ This file is listed in:
 | 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | 75aa88c |
 | 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 75aa88c |
 | 2026-05-22 | aurelia | E2E | 8 pass / 1 fail / 0 skip | 75aa88c |
+| 2026-05-22 | aurelia | Verifier | 7 pass / 1 warnings | 75aa88c |
+| 2026-05-22 | aurelia | Validator | 10 pass / 0 warnings | 75aa88c |
+| 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 75aa88c |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 75aa88c |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | 1c9c076 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 1c9c076 |
+| 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | 1c9c076 |
