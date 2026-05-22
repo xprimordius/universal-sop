@@ -41,7 +41,7 @@ CHAIN_WARNINGS=$(grep -oE "[0-9]+ warnings" cache/META_AUDIT_LOG.md 2>/dev/null 
 CHAIN_RUNS=$(grep -cE "^\| 20[0-9]{2}-.*\| (Verifier|Validator|QC|Meta-Verifier) \|" cache/META_AUDIT_LOG.md 2>/dev/null || echo 0)
 
 # Devices registered
-DEVICES_REGISTERED=$(grep -cE "^\| \`[a-z][a-z0-9_-]*\` \| 20[0-9]{2}-" DEVICE_REGISTRY.md 2>/dev/null || echo 0)
+DEVICES_REGISTERED=$(grep -cE "^\| \`[a-z]" DEVICE_REGISTRY.md 2>/dev/null || echo 0)
 
 # Output dashboard
 cat <<EOF
