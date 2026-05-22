@@ -1,0 +1,1426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Universal Output SOP v1.3 — Complete Reference</title>
+<style>
+  :root {
+    --bg: #fafafa;
+    --surface: #ffffff;
+    --surface-2: #f4f4f5;
+    --border: #e5e7eb;
+    --text: #111827;
+    --text-muted: #6b7280;
+    --text-dim: #9ca3af;
+    --blue: #3B82F6;
+    --blue-bg: #DBEAFE;
+    --green: #10B981;
+    --green-bg: #D1FAE5;
+    --orange: #F97316;
+    --orange-bg: #FFEDD5;
+    --purple: #A855F7;
+    --purple-bg: #F3E8FF;
+    --grey: #6B7280;
+    --grey-bg: #F3F4F6;
+    --red: #EF4444;
+    --red-bg: #FEE2E2;
+    --amber: #F59E0B;
+    --amber-bg: #FEF3C7;
+    --teal: #14B8A6;
+    --teal-bg: #CCFBF1;
+    --shadow: 0 1px 3px rgba(0,0,0,0.06);
+    --shadow-lg: 0 4px 12px rgba(0,0,0,0.08);
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    font-size: 15px;
+  }
+  .layout {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    min-height: 100vh;
+  }
+  nav.toc {
+    background: var(--surface);
+    border-right: 1px solid var(--border);
+    padding: 28px 20px;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+    font-size: 14px;
+  }
+  nav.toc h2 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+    margin: 0 0 12px;
+    font-weight: 600;
+  }
+  nav.toc ul {
+    list-style: none; padding: 0; margin: 0 0 24px;
+  }
+  nav.toc li { margin: 3px 0; }
+  nav.toc a {
+    display: block;
+    padding: 5px 10px;
+    border-radius: 6px;
+    color: var(--text);
+    text-decoration: none;
+    font-size: 13.5px;
+    transition: background 0.15s;
+  }
+  nav.toc a:hover { background: var(--bg); color: var(--blue); }
+  nav.toc .meta {
+    font-size: 11px;
+    color: var(--text-muted);
+    padding: 12px 10px;
+    border-top: 1px solid var(--border);
+    margin-top: 16px;
+    line-height: 1.5;
+  }
+  main {
+    padding: 40px 56px 100px;
+    max-width: 1100px;
+  }
+  header.hero {
+    margin-bottom: 36px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--border);
+  }
+  header.hero h1 {
+    margin: 0 0 8px;
+    font-size: 34px;
+    letter-spacing: -0.02em;
+    font-weight: 700;
+  }
+  header.hero p.lede {
+    margin: 0 0 16px;
+    color: var(--text-muted);
+    font-size: 17px;
+    line-height: 1.5;
+  }
+  .toolbar {
+    display: flex;
+    gap: 12px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+  }
+  .btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 13px;
+    cursor: pointer;
+    color: var(--text);
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  .btn:hover { background: var(--bg); border-color: var(--blue); color: var(--blue); }
+  .btn.primary {
+    background: var(--blue); color: white; border-color: var(--blue);
+  }
+  .btn.primary:hover { background: #2563EB; color: white; }
+  input.search {
+    flex: 1;
+    min-width: 220px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 14px;
+    font-family: inherit;
+  }
+  input.search:focus { outline: none; border-color: var(--blue); box-shadow: 0 0 0 3px rgba(59,130,246,0.1); }
+
+  section.cat {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 0;
+    margin-bottom: 24px;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+  section.cat > h2 {
+    margin: 0;
+    padding: 22px 28px;
+    font-size: 20px;
+    letter-spacing: -0.01em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface-2);
+  }
+  section.cat .body { padding: 24px 28px; }
+  section.cat p.lede {
+    color: var(--text-muted);
+    margin: 0 0 18px;
+    font-size: 14.5px;
+  }
+
+  details {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0;
+    margin: 10px 0;
+    background: var(--surface);
+    transition: all 0.15s;
+  }
+  details[open] {
+    box-shadow: var(--shadow);
+  }
+  summary {
+    cursor: pointer;
+    padding: 12px 16px;
+    font-weight: 500;
+    user-select: none;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14.5px;
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary::before {
+    content: '▸';
+    font-size: 12px;
+    color: var(--text-muted);
+    transition: transform 0.15s;
+    display: inline-block;
+  }
+  details[open] > summary::before { transform: rotate(90deg); }
+  details .content {
+    padding: 8px 16px 16px 30px;
+    border-top: 1px solid var(--border);
+    color: var(--text);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  details .content p { margin: 8px 0; }
+  details .content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0;
+    font-size: 13.5px;
+  }
+  details .content th, details .content td {
+    text-align: left;
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  details .content th {
+    background: var(--surface-2);
+    font-weight: 600;
+    color: var(--text-muted);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  details .content code {
+    background: var(--surface-2);
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 12.5px;
+    font-family: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+    color: var(--text);
+  }
+  details .content ul { padding-left: 20px; margin: 8px 0; }
+  details .content li { margin: 4px 0; }
+
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    padding: 2px 10px;
+    border-radius: 999px;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .chip.blue { background: var(--blue); }
+  .chip.green { background: var(--green); }
+  .chip.orange { background: var(--orange); }
+  .chip.purple { background: var(--purple); }
+  .chip.grey { background: var(--grey); }
+  .chip.red { background: var(--red); }
+  .chip.amber { background: var(--amber); color: #78350F; }
+  .chip.teal { background: var(--teal); }
+  .chip.dashed {
+    background: var(--surface-2);
+    color: var(--text-muted);
+    border: 1px dashed var(--text-dim);
+  }
+  .chip.star {
+    background: linear-gradient(135deg, #FBBF24, #F59E0B);
+    color: #78350F;
+  }
+
+  .timeline {
+    position: relative;
+    padding-left: 30px;
+    margin: 16px 0;
+  }
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 8px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--border);
+  }
+  .timeline-item {
+    position: relative;
+    padding: 8px 0 8px 18px;
+  }
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -27px;
+    top: 14px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--blue);
+    border: 2px solid var(--bg);
+    box-shadow: 0 0 0 1px var(--border);
+  }
+  .timeline-item.green::before { background: var(--green); }
+  .timeline-item.orange::before { background: var(--orange); }
+  .timeline-item.red::before { background: var(--red); }
+  .timeline-item.purple::before { background: var(--purple); }
+  .timeline-date {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .timeline-title { font-weight: 600; margin: 2px 0 4px; }
+  .timeline-detail { font-size: 13.5px; color: var(--text-muted); }
+
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 12px;
+    margin: 16px 0;
+  }
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 14px;
+  }
+  .stat-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+    font-weight: 600;
+  }
+  .stat-value {
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 4px;
+  }
+
+  .key { background: var(--green-bg); padding: 1px 6px; border-radius: 4px; color: #065F46; font-weight: 600; }
+  .star::before { content: '⭐ '; }
+
+  @media (max-width: 1000px) {
+    .layout { grid-template-columns: 1fr; }
+    nav.toc { position: static; height: auto; border-right: none; border-bottom: 1px solid var(--border); }
+    main { padding: 24px; }
+  }
+
+  @media print {
+    nav.toc { display: none; }
+    .toolbar { display: none; }
+    .layout { grid-template-columns: 1fr; }
+    details[open] { box-shadow: none; }
+    section.cat { box-shadow: none; break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<div class="layout">
+
+<nav class="toc">
+  <h2>Table of Contents</h2>
+  <ul>
+    <li><a href="#quick">🎯 Quick Start</a></li>
+    <li><a href="#timeline">📅 Project Timeline</a></li>
+    <li><a href="#architecture">🏗️ Architecture</a></li>
+    <li><a href="#rulebook">📋 The Rulebook</a></li>
+    <li><a href="#subsops">🧩 16 SubSOPs</a></li>
+    <li><a href="#ensurance">🛡️ 4 Ensurance</a></li>
+    <li><a href="#agents">🤖 Agent System</a></li>
+    <li><a href="#cache">🗄️ Cache + Append-Only</a></li>
+    <li><a href="#enforcement">⚙️ Enforcement Layer</a></li>
+    <li><a href="#multidevice">🖥️ Multi-Device</a></li>
+    <li><a href="#failures">🪞 Failure Ledger (F.1–F.19)</a></li>
+    <li><a href="#fusions">🔀 Fusions History</a></li>
+    <li><a href="#quickref">📖 Quick Reference</a></li>
+    <li><a href="#glossary">🏷️ Glossary</a></li>
+    <li><a href="#inventory">📁 File Inventory</a></li>
+  </ul>
+  <div class="meta">
+    <strong>SOP_COMPLETE_REFERENCE.html</strong><br>
+    Universal Output SOP v1.3<br>
+    Device: aurelia<br>
+    Generated: 2026-05-21<br>
+    Commit: dc12851<br><br>
+    Click any item to expand.<br>
+    Press <code>Ctrl+F</code> to search.
+  </div>
+</nav>
+
+<main>
+  <header class="hero">
+    <h1>🌐 Universal Output SOP v1.3</h1>
+    <p class="lede">Complete reference. Every category. Every protocol. Every agent. Every script. Every failure. Every fix. Click to expand.</p>
+    <div class="toolbar">
+      <input type="text" class="search" id="search" placeholder="🔍 Filter by keyword (real-time)..." oninput="filterAll(this.value)">
+      <button class="btn primary" onclick="expandAll()">Expand all</button>
+      <button class="btn" onclick="collapseAll()">Collapse all</button>
+      <button class="btn" onclick="window.print()">Print / PDF</button>
+    </div>
+  </header>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- QUICK START -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="quick">
+    <h2>🎯 Quick Start</h2>
+    <div class="body">
+      <p class="lede">Three things to know.</p>
+      <div class="stat-grid">
+        <div class="stat-card"><div class="stat-label">Active rulebook</div><div class="stat-value">v1.3</div></div>
+        <div class="stat-card"><div class="stat-label">SubSOPs</div><div class="stat-value">16</div></div>
+        <div class="stat-card"><div class="stat-label">Ensurance</div><div class="stat-value">4</div></div>
+        <div class="stat-card"><div class="stat-label">Active agents</div><div class="stat-value">5</div></div>
+        <div class="stat-card"><div class="stat-label">Scripts</div><div class="stat-value">11</div></div>
+        <div class="stat-card"><div class="stat-label">Failure entries</div><div class="stat-value">F.1–F.19</div></div>
+        <div class="stat-card"><div class="stat-label">Devices</div><div class="stat-value">mac-main, aurelia</div></div>
+        <div class="stat-card"><div class="stat-label">Bootstrap verify</div><div class="stat-value">79/0/0 ✅</div></div>
+      </div>
+      <details>
+        <summary>What is the Universal SOP?</summary>
+        <div class="content">
+          <p>A portable prompt + supporting files that force any Claude session (chat or Code) to produce traceable, accurate, auditable output every time. It evolved from the APW (Ascend Prime Wealth) course-building project — when course-building demanded reliability, the SOP got built. The SOP is now mechanically complete and shippable (MIT licensed) as <code>STANDALONE_SOP.md</code>.</p>
+        </div>
+      </details>
+      <details>
+        <summary>What problem does it solve?</summary>
+        <div class="content">
+          <p>Three failure modes the SOP prevents:</p>
+          <ul>
+            <li><strong>Compliance decay over a long session</strong> — without anti-decay (EN.1-EN.4), outputs lose required sections by output #4-6.</li>
+            <li><strong>Fabrication + theatre</strong> — without honest-numbers enforcement (P1 + N/M marker), AI invents specific times, percentages, etc.</li>
+            <li><strong>Rubber-stamping</strong> — without QC + Meta-Verifier, the audit layer claims PASS without actually verifying.</li>
+          </ul>
+          <p>Per <span class="chip red">F.19</span> (the meta-failure): rules implemented as <em>conventions</em> decay. Rules implemented as <em>architecture</em> (scripts + hooks + sub-agents) hold.</p>
+        </div>
+      </details>
+      <details>
+        <summary>Where do I start?</summary>
+        <div class="content">
+          <table>
+            <tr><th>If you are…</th><th>Read first</th></tr>
+            <tr><td>An AI session bootstrapping</td><td><code>SESSION_START.md</code> → then run <code>bash scripts/bootstrap_verify.sh</code></td></tr>
+            <tr><td>A human exploring the system visually</td><td><code>SOP_MAP.html</code> (6 rendered diagrams) — or this file</td></tr>
+            <tr><td>A new device first-time setup</td><td><code>SESSION_START.md</code> + <code>DEVICE_REGISTRY.md</code> + <code>bash scripts/setup_device.sh &lt;name&gt;</code></td></tr>
+            <tr><td>An external (non-Alan) consumer</td><td><code>STANDALONE_SOP.md</code> (MIT, self-contained)</td></tr>
+            <tr><td>Producing an actual output</td><td><code>MANDATORY_TIGHT_LOOP.md</code> (the reduced operational ruleset)</td></tr>
+          </table>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- PROJECT TIMELINE -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="timeline">
+    <h2>📅 Project Timeline</h2>
+    <div class="body">
+      <p class="lede">From APW course-build origin → Universal SOP v1.3 → multi-device shippable system. 70+ days.</p>
+      <div class="timeline">
+        <div class="timeline-item green">
+          <div class="timeline-date">March 13–15, 2026</div>
+          <div class="timeline-title">APW course-build foundation</div>
+          <div class="timeline-detail">SOP v2.x → v3.9.2. 12 stages, 32 D-rules, 126 prompt items. Active caches: APW_MASTER_CACHE, BUILD_STATE, SCIO_KNOWLEDGE, PROGRAM_DETAILS, USER_FOUNDATION, TOKEN_BUDGET_LOG. Agents: Jenny, Oversight, Cache Manager, Validator, Karen, Paradox Resolver, Simplicity, SOP Compliance Checker (8 active).</div>
+        </div>
+        <div class="timeline-item blue">
+          <div class="timeline-date">March 31, 2026</div>
+          <div class="timeline-title">Universal SOP v1.0 born</div>
+          <div class="timeline-detail">Alan: "Export me a prompt that will allow for a new chat to have the token & caching SOP." v1.0 → v1.2 across 9 rounds. Final session compacted at ~140K+ tokens.</div>
+        </div>
+        <div class="timeline-item blue">
+          <div class="timeline-date">April 1, 2026</div>
+          <div class="timeline-title">SOP v1.2 → v1.3 + Ensurance System</div>
+          <div class="timeline-detail">Added EN.1 Output Skeleton + EN.2 Priority 10 + EN.3 Checkpoint Cycle + EN.4 Pulse Check. Built NEW_HIRE_GUIDE.md + REPLICATION_KIT.md. Cache consolidated 5 → 3 files. Time-per-step marked N/M (honest, not fabricated).</div>
+        </div>
+        <div class="timeline-item purple">
+          <div class="timeline-date">April 16, 2026</div>
+          <div class="timeline-title">External consulting docs</div>
+          <div class="timeline-detail">Built 4 docs for outside Claude chats consulting on the project: CONSULTING_BRIEF.md, PROJECT_HISTORY.md, CHALLENGES_LOG.md, USER_PROFILE.md. Modular approach (4 docs vs 1 mega-doc) chosen to limit context-load on fresh chats.</div>
+        </div>
+        <div class="timeline-item orange">
+          <div class="timeline-date">May 18, 2026</div>
+          <div class="timeline-title">GitHub repo PRIVATE + cross-device infra</div>
+          <div class="timeline-detail">Pushed to <code>xprimordius/universal-sop</code> as PRIVATE. Installed <code>gh</code> CLI v2.92.0. Built <code>README.md</code> + <code>SESSION_START.md</code> as official entry points. CLAUDE.md updated to redirect to SESSION_START.</div>
+        </div>
+        <div class="timeline-item red">
+          <div class="timeline-date">May 21, 2026 (Session 5 — most active in project history)</div>
+          <div class="timeline-title">Mass consolidation + 8 fusions + STANDALONE shipped</div>
+          <div class="timeline-detail">F1 (historical SOPs → cache/legacy/), F2 (APW caches → legacy), F4 (Controller fusion from Oversight + Cache Manager), F5 (Jenny archived), F7 (Wrap-Up cluster), F8 (FAILURE_LEDGER unified RPT + HFR), F10 (TTE + LTM Token System), F11 (Visual System). Active cache 14 → 5. Active agents 7 → 4. STANDALONE_SOP.md built + MIT-licensed + validated ~95% cross-model portable. 14 sub-agent tests, peak friction 2/10 (PROJECT RECORD).</div>
+        </div>
+        <div class="timeline-item red">
+          <div class="timeline-date">May 21 evening (continued)</div>
+          <div class="timeline-title">F.13 macro/micro + F.14 scripts + F.15 device registry + F.16 hooks + F.17 boot-up + F.18 safe-push</div>
+          <div class="timeline-detail">Mac-main built: DEVICE_REGISTRY.md, scripts/{setup_device, append_only_check, check_device_activity, compliance_check, consistency_check}.sh, .githooks/{pre-commit, pre-push}, bootstrap_verify.sh (70 checks), safe_push.sh, MASTER_CONTINUATION_PROMPT.md.</div>
+        </div>
+        <div class="timeline-item green">
+          <div class="timeline-date">May 21, ~5pm CDT (Day-1 setup on aurelia, this device)</div>
+          <div class="timeline-title">aurelia device setup + UNIVERSAL BACKUP RULE codified</div>
+          <div class="timeline-detail">Windows Strix Halo registered as <code>aurelia</code>. Universal backup rule codified per Alan's "/remember" — no deletion + backup BEFORE every modification + timestamped filename + device hostname in filename. Multi-device hardening shipped.</div>
+        </div>
+        <div class="timeline-item green">
+          <div class="timeline-date">May 21, ~7-9pm CDT (this Session 6)</div>
+          <div class="timeline-title">F.19 META-FAILURE + agent-chain rebuild</div>
+          <div class="timeline-detail">Diagnosis: SOP keeps failing to enforce itself because it's a discipline system asked to do an architecture job. Tier 1 (scope reduction) + Tier 1 follow-up (compliance_check.sh 5/5) + full agent-chain rebuild: Verifier → Validator → QC → Meta-Verifier (closes "who verifies the verifier" gap). 3 APW-era agents archived via git mv. Bootstrap verify: 70 → 79 checks.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- ARCHITECTURE -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="architecture">
+    <h2>🏗️ Architecture — 6 Layers + Mechanical Enforcement</h2>
+    <div class="body">
+      <p class="lede">See <code>SOP_MAP.html</code> for rendered diagrams. Color legend:</p>
+      <p>
+        <span class="chip blue">Bootstrap</span>
+        <span class="chip green">Rulebook</span>
+        <span class="chip orange">Protocols</span>
+        <span class="chip purple">Agents</span>
+        <span class="chip grey">Cache</span>
+        <span class="chip red">Enforcement</span>
+        <span class="chip dashed">Legacy</span>
+      </p>
+      <details open>
+        <summary>The 6-layer flow</summary>
+        <div class="content">
+          <table>
+            <tr><th>Layer</th><th>Purpose</th><th>Key files</th></tr>
+            <tr><td><span class="chip blue">1. Bootstrap</span></td><td>Entry point + session start</td><td><code>SESSION_START.md</code>, <code>CLAUDE.md</code>, <code>MANDATORY_TIGHT_LOOP.md</code>, <code>MULTI_DEVICE_GIT_PROTOCOL.md</code></td></tr>
+            <tr><td><span class="chip green">2. Rulebook</span></td><td>The actual rules</td><td><code>UNIVERSAL_SOP_PROMPT.md</code>, <code>STANDALONE_SOP.md</code>, <code>PROTOCOLS_REFERENCE.md</code></td></tr>
+            <tr><td><span class="chip orange">3. Protocols</span></td><td>16 SubSOPs + 4 Ensurance</td><td>Defined in <code>UNIVERSAL_SOP_PROMPT.md</code>; documented in <code>PROTOCOLS_REFERENCE.md</code></td></tr>
+            <tr><td><span class="chip purple">4. Agents</span></td><td>5-layer chain (Controller + V/VL/QC/MV)</td><td><code>agents/{controller,verifier,validator,qc,meta_verifier}.md</code></td></tr>
+            <tr><td><span class="chip grey">5. Cache</span></td><td>Active state + append-only history</td><td><code>cache/{SESSION_STATE,CONTINUATION,BACKUP_LOG,FAILURE_LEDGER,BOOTSTRAP_CHECK,META_AUDIT_LOG}.md</code></td></tr>
+            <tr><td><span class="chip red">6. Enforcement</span></td><td>Scripts + git hooks (mechanical)</td><td><code>scripts/*.sh</code> + <code>.githooks/{pre-commit,pre-push}</code></td></tr>
+          </table>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- RULEBOOK -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="rulebook">
+    <h2>📋 The Rulebook — Prime SOPs, Sub-SOPs, Companion Docs</h2>
+    <div class="body">
+      <p class="lede">All the rule-defining files. Click each for purpose, scope, and current status.</p>
+      <details>
+        <summary><span class="chip green">ACTIVE</span> <code>UNIVERSAL_SOP_PROMPT.md</code> — The canonical rulebook v1.3</summary>
+        <div class="content">
+          <p><strong>Lines:</strong> ~940 · <strong>Status:</strong> Active rulebook · <strong>Birth:</strong> Mar 31 (v1.0); v1.3 born Apr 1.</p>
+          <p><strong>Contains:</strong> 6 stages (Understand → Measure → Execute → Self-Check → Wrap-Up → Confirm), 16 SubSOPs (SP.1–SP.16), 4 Ensurance components (EN.1–EN.4), STEP header spec, Pulse Check spec, Live Token Monitor (LTM) format, tier system (QUICK / STANDARD / COMPLEX), example outputs.</p>
+          <p><strong>When invoked:</strong> Paste at start of any Claude.ai session for full-SOP mode. Skipped in operational Claude Code sessions in favor of <code>MANDATORY_TIGHT_LOOP.md</code> (per F.19 Tier 1 reduction). Preserved unchanged.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip green">ACTIVE</span> <code>STANDALONE_SOP.md</code> — Shippable MIT version (~95% cross-model portable)</summary>
+        <div class="content">
+          <p><strong>Status:</strong> MIT-licensed, sanitized (no personal references), shippable to external consumers.</p>
+          <p><strong>Purpose:</strong> Self-contained ruleset for other Claude.ai sessions, GPT-5, Gemini, or any AI tool. Validated via 14 sub-agent tests + 3 cross-model simulations.</p>
+          <p><strong>Friction score:</strong> 2/10 (PROJECT RECORD, 14th sub-agent test) — meaning external AI can follow it with very little friction.</p>
+          <p><strong>Distribution:</strong> Per <code>PUBLIC_SHARE_KIT.md</code> + <code>SHIP_INSTRUCTIONS.md</code> — ready for gist or repo publication.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip amber star">TIER 1 (F.19)</span> <code>MANDATORY_TIGHT_LOOP.md</code> — Reduced operational ruleset</summary>
+        <div class="content">
+          <p><strong>Status:</strong> Tier 1 of F.19 fix · <strong>Born:</strong> 2026-05-21 · <strong>Device:</strong> aurelia.</p>
+          <p><strong>Cuts:</strong></p>
+          <ul>
+            <li>STEP header 8 fields → 3 lines (STEP + 🎯 MACRO + 📌 MICRO)</li>
+            <li>16 SubSOPs + 4 Ensurance → 6 + 1 mandatory: SP.5 FSP, SP.6 IAC, SP.12 HFR, SP.15 EEP, EN.1 Output Skeleton, EN.4 Pulse Check</li>
+            <li>Pulse Check 17 items → 5 items (P1 Honest numbers / P2 Tables / P3 Headline-first / P4 Inference marked / P5 Promise = deliver)</li>
+          </ul>
+          <p><strong>Why:</strong> Full SOP overhead caused output-level compliance decay. Reduced ruleset is sized to what real sessions can carry. Full SOP preserved as reference; reductions are reversible.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip green">ACTIVE</span> <code>PROTOCOLS_REFERENCE.md</code> — Full names + acronyms for all 20 protocols</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Source of truth for protocol acronyms. Every output that references a protocol must use the full name + acronym on first use (Rule #11).</p>
+          <p><strong>Structure:</strong> Each protocol in an expandable <code>&lt;details&gt;</code> section with full name, acronym origin, scope, sub-protocols, when triggered, failure modes, token costs, related protocols.</p>
+          <p><strong>Promoted to MANDATORY STEP 1 read:</strong> 2026-05-21 per Rule #11.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">LEGACY</span> <code>cache/legacy/PRIME_SOP.md</code> v2.8 — APW-era rulebook</summary>
+        <div class="content">
+          <p><strong>Status:</strong> Archived 2026-05-21 via F1 fusion. Lines: ~1340. Era: APW course-build (Mar 13 – Apr 1).</p>
+          <p><strong>Contains:</strong> 12 stages, 32 D-rules (D1–D32), 126 prompt items. Specific to APW course deliverables (module lists, lesson lists, classroom maps, SCIO integration).</p>
+          <p><strong>Why archived:</strong> Universal SOP v1.3 superseded it. Preserved for APW resume + historical fidelity. Do NOT enforce D-rules in active work.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">LEGACY</span> <code>cache/legacy/BRIDGE_SOP.md</code> v1.1 — APW Bridge SOP</summary>
+        <div class="content">
+          <p><strong>Status:</strong> Archived 2026-05-21 via F1 fusion. Lines: ~237.</p>
+          <p><strong>Purpose:</strong> Was the bridge between APW Prime SOP and the underlying SCIO knowledge system. With APW paused, no longer needed for active work.</p>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- 16 SUBSOPS -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="subsops">
+    <h2>🧩 All 16 SubSOPs (SP.1 – SP.16)</h2>
+    <div class="body">
+      <p class="lede">⭐ marks the 6 protocols mandatory in <code>MANDATORY_TIGHT_LOOP.md</code> (Tier 1 of F.19). The other 10 are reference-only for operational use.</p>
+      <details>
+        <summary><span class="chip amber">VISUAL</span> <strong>SP.1 MagNet</strong> (Magnetic Visual Engagement Protocol)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> The visual standard — tables, emojis, scannable structure. Always-on. Prevents wall-of-text outputs.</p>
+          <p><strong>Sub-rules:</strong> MN.1 emoji-first columns · MN.2 emoji-leftmost dedicated column · MN.3 ≤ 7 rows per table without break · MN.4 alternating row shading where supported.</p>
+          <p><strong>Failure mode if skipped:</strong> Wall-of-paragraph outputs that Alan dislikes; cognitive scan-time skyrockets.</p>
+          <p><strong>Origin:</strong> R1 in v1.0 (Mar 31). REPEAT × 3 (F.1).</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip amber">VISUAL</span> <strong>SP.2 Door Scan</strong> (Door Scanning Pattern Protocol)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Emoji → brief → detail funnel in every table. Pairs with MagNet (F11 fusion).</p>
+          <p><strong>Mechanic:</strong> Every table row starts with an emoji-only cell (the "door"), then a 1-3 word brief, then detail. Reader can scan emojis to skip to relevant rows.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip blue">TOKEN</span> <strong>SP.3 TTE</strong> (Token Threshold Engine)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Token budget math with thresholds.</p>
+          <p><strong>Thresholds (200K window):</strong> 🟢 GREEN &lt;108K · 🟡 YELLOW 108-130K · 🔴 RED 130-141K · 🆘 CRITICAL &gt;141K (theoretical) · 59K reserve.</p>
+          <p><strong>Pairs with:</strong> LTM (Live Token Monitor — the per-section display).</p>
+          <p><strong>Origin:</strong> F.2 (REPEAT × 4) — Alan kept asking for token tracking that wasn't activated.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip green">PROCESS SAFETY</span> <strong>SP.4 SCP</strong> (System Change Protocol)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Safe modification of the SOP itself. Version bump + backup + cross-cache update.</p>
+          <p><strong>Triggers:</strong> Any change to <code>UNIVERSAL_SOP_PROMPT.md</code>, <code>SESSION_START.md</code>, or core agents.</p>
+          <p><strong>Steps:</strong> (1) Backup → (2) Edit → (3) Update version stamp → (4) Cross-cache update (SESSION_STATE + BACKUP_LOG) → (5) Log in CONTINUATION.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip green star">PROCESS SAFETY — MANDATORY TIGHT LOOP</span> <strong>SP.5 FSP</strong> (Fidelity Substantiation Protocol)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Every claim has cited evidence. No fabrication.</p>
+          <p><strong>Validator check:</strong> VL.2 — output's factual claims must have file paths, command outputs, log rows, or explicit "approx/N/M" qualifier.</p>
+          <p><strong>Common violations:</strong> "The script passed" without showing the log. "Took 5 minutes" without timing source (should be N/M).</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip green star">PROCESS SAFETY — MANDATORY TIGHT LOOP</span> <strong>SP.6 IAC</strong> (Intent Alignment Check / Understanding Check)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Restate user's question as a table BEFORE executing. Catch misinterpretation early.</p>
+          <p><strong>Format:</strong> Table with columns "Your words" and "My interpretation" — at least 1 row per distinct ask.</p>
+          <p><strong>Validator check:</strong> VL.1.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip purple">FORESIGHT</span> <strong>SP.7 Insights Protocol</strong></summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Surface present-adjacent helpful context not explicitly asked. Part of F7 Wrap-Up cluster (with SP.9 FE + SP.13 SHR).</p>
+          <p><strong>Position:</strong> Interleaved with Foresight items at end of output, not a separate section.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip amber">VISUAL</span> <strong>SP.8 Protocol Visibility Protocol</strong></summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Name every protocol used in the output. No hidden mechanics.</p>
+          <p><strong>Format:</strong> SubSOP Execution Report at end (per F.11 truncation fix → one row per protocol, full names mandatory, &lt;details&gt; expandable).</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip purple">FORESIGHT</span> <strong>SP.9 FE</strong> (Foresight Engine)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Predict next problems + solutions, priority-tagged (🔴 critical / 🟡 medium / 🟢 nice-to-have). Part of F7 Wrap-Up cluster.</p>
+          <p><strong>Minimum:</strong> 3 items per output (STANDARD or COMPLEX).</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip orange">SELF-CHECK</span> <strong>SP.10 SCC</strong> (Self-Compliance Check)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> "Did I follow my OWN SOP rules?" Different lens from QAC (which checks structural form).</p>
+          <p><strong>Kept separate from SP.11 QAC + EN.4 Pulse Check</strong> per F12 fusion analysis — each is a different lens.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip orange">SELF-CHECK</span> <strong>SP.11 QAC</strong> (Quality Assurance Check)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> "Is the output STRUCTURALLY well-formed?" — sections present, tables formatted, headers right.</p>
+          <p><strong>Now embodied by:</strong> The new QC agent in the F.19 chain (Layer 3).</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip red star">HONEST FAILURE — MANDATORY TIGHT LOOP</span> <strong>SP.12 HFR</strong> (Honest Failure Report)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> When something failed (visible to user or self-detected), produce root cause + permanent fix IN THE SAME OUTPUT. No "I'll fix it next time."</p>
+          <p><strong>Format template:</strong></p>
+          <p><code>🚨 HFR — Honest Failure Report<br>Entry ID: F.X<br>Type: REPEAT / FAILURE<br>What failed: …<br>Root cause: …<br>Permanent fix (structural): …<br>Verified in this output by: …</code></p>
+          <p><strong>Validator check:</strong> VL.3.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip red">REPORTING</span> <strong>SP.13 SHR</strong> (System Health Report)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Multi-dimensional end-of-output scorecard with substantiated scores. Part of F7 Wrap-Up cluster.</p>
+          <p><strong>Dimensions:</strong> Fidelity to user's question, honest numbers, solution concreteness, output-level SOP compliance, wall-clock time per section (often N/M).</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip red">HONEST FAILURE</span> <strong>SP.14 RPT</strong> (Repeated Prompt Tracker)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Catch when user asks 2+ times — signals an unenforced rule. Triggers HFR (SP.12) for permanent structural fix.</p>
+          <p><strong>Logged to:</strong> <code>cache/FAILURE_LEDGER.md</code> (was cache/RPT_LOG.md until F8 fusion).</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip teal star">EXECUTION — MANDATORY TIGHT LOOP</span> <strong>SP.15 EEP</strong> (Execution Enforcement Protocol)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Execute, don't acknowledge. No future tense. Show proof of action in the message that promises it.</p>
+          <p><strong>Common violation:</strong> "I'll create that file" without showing the file creation. "Will commit next" without the commit.</p>
+          <p><strong>Validator check:</strong> VL.4.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip teal">EXECUTION</span> <strong>SP.16 PCG</strong> (Prompt Completion Gate)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Pre-send check that every item in the user's prompt has execution proof. Acts as the final gate before sending.</p>
+          <p><strong>Position:</strong> Runs alongside EN.4 Pulse Check before any send.</p>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- 4 ENSURANCE -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="ensurance">
+    <h2>🛡️ All 4 Ensurance Components (EN.1 – EN.4)</h2>
+    <div class="body">
+      <p class="lede">The anti-decay layer. Solves F.9 (compliance decay over 4-6 outputs). EN.1 + EN.4 are mandatory in the F.19 tight loop.</p>
+      <details>
+        <summary><span class="chip purple star">MANDATORY TIGHT LOOP</span> <strong>EN.1 Output Skeleton</strong> (Structural Anti-Decay Mechanism)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Mandatory sections never silently dropped. Skeleton forces all components every output.</p>
+          <p><strong>Mechanism:</strong> Output template with required sections (STEP → UC → body → LTM → Pulse Check → Wrap-Up). Missing sections become visible as empty headers, prompting fix.</p>
+          <p><strong>Validator check:</strong> VL.5.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip purple">ANTI-DECAY</span> <strong>EN.2 Priority 10</strong> (Cognitive Load Reduction)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Top-10 attention rules, surfaced every output. Reduces what Claude has to "remember" — the 10 most important rules are explicit.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip purple">ANTI-DECAY</span> <strong>EN.3 Checkpoint Cycle</strong> (Attention Reset)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Re-anchor after long sections. Prevents drift in multi-thousand-token outputs.</p>
+          <p><strong>Mechanic:</strong> After every ~3 sections, a checkpoint marker that restates the macro/micro goal.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip purple star">MANDATORY TIGHT LOOP</span> <strong>EN.4 Pulse Check</strong> (Compliance Pulse Check)</summary>
+        <div class="content">
+          <p><strong>Purpose:</strong> Pre-send mechanical sweep. Visible. Scored.</p>
+          <p><strong>Original (full SOP):</strong> 17 items (P1–P17).</p>
+          <p><strong>Reduced (MANDATORY_TIGHT_LOOP per F.19 Tier 1):</strong> 5 items:</p>
+          <ul>
+            <li><strong>P1</strong> Honest numbers; N/M for unmeasurable</li>
+            <li><strong>P2</strong> Tables for comparisons</li>
+            <li><strong>P3</strong> Headline-first</li>
+            <li><strong>P4</strong> Inference vs fact marked</li>
+            <li><strong>P5</strong> Promise = deliver in same message</li>
+          </ul>
+          <p><strong>Score:</strong> X/5. Pass criterion: 5/5 for ship; 4/5 with brief acknowledgment of gap; ≤ 3/5 → fix.</p>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- AGENT SYSTEM -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="agents">
+    <h2>🤖 Agent System — 5 Active + 10 Archived</h2>
+    <div class="body">
+      <p class="lede">F.19 agent-chain rebuild (2026-05-21): Controller + 4-layer chain (Verifier → Validator → QC → Meta-Verifier). Closes the "who verifies the verifier" gap.</p>
+
+      <h3 style="margin-top:24px;font-size:16px;">Active (5)</h3>
+
+      <details>
+        <summary><span class="chip purple">ORCHESTRATOR</span> <strong>Controller</strong> · <code>agents/controller.md</code></summary>
+        <div class="content">
+          <p><strong>Role:</strong> Top-level coordinator + cache integrity. F4 fusion of former Oversight Executive + Cache Manager (2026-05-21).</p>
+          <p><strong>When invoked:</strong> Session start + every framework deliverable + after locked decisions.</p>
+          <p><strong>Steps:</strong> C.1–C.21 across 6 categories — Session Start, Pre-Deliverable, Post-Deliverable, Post-Decision, Token-Budget-Alert, Data-Corruption.</p>
+          <p><strong>Token cost:</strong> ~5K/session.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip teal">LAYER 1</span> <strong>Verifier</strong> · <code>agents/verifier.md</code> + <code>scripts/verifier.sh</code></summary>
+        <div class="content">
+          <p><strong>Role:</strong> Mechanical presence check. Cheapest, fastest. Runs first.</p>
+          <p><strong>Checks V.1–V.8:</strong> STEP header line 1 / 🎯 MACRO line / 📌 MICRO line / Understanding Check table / LTM marker count / Pulse Check P1–P5 + score / Honest numbers markers (~, approx, N/M) / No bare-acronym violations.</p>
+          <p><strong>Currently:</strong> Warnings-only mode (always exits 0) until chain matures over ~10 outputs.</p>
+          <p><strong>Token cost:</strong> ~200/output (or 0 script-only).</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip green">LAYER 2</span> <strong>Validator</strong> · <code>agents/validator.md</code> + <code>scripts/validator.sh</code></summary>
+        <div class="content">
+          <p><strong>Role:</strong> Substantive check against the 6 mandatory SubSOPs.</p>
+          <p><strong>Checks VL.1–VL.6:</strong> SP.6 IAC (UC accurately restates) / SP.5 FSP (claims have evidence) / SP.12 HFR (failures named + root-caused) / SP.15 EEP (promises delivered in-message) / EN.1 (skeleton sections have content) / EN.4 (Pulse Check scores honest).</p>
+          <p><strong>Token cost:</strong> ~400/output.</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip red">LAYER 3</span> <strong>QC</strong> · <code>agents/qc.md</code> + <code>scripts/qc.sh</code></summary>
+        <div class="content">
+          <p><strong>Role:</strong> Quality control + anti-rubber-stamp of Verifier/Validator + F.16 script-enforcement preservation. Karen successor.</p>
+          <p><strong>Checks Q.1–Q.11:</strong></p>
+          <ul>
+            <li>A. Output-vs-Ask Reality: Q.1 answers question / Q.2 no TBDs / Q.3 appropriately sized / Q.4 no re-proposed rejected ideas</li>
+            <li>B. Anti-Rubber-Stamp: Q.5 Verifier actually verified / Q.6 Validator actually validated / Q.7 no automatic ✅ pattern</li>
+            <li>C. Script Enforcement (Karen's F.16): Q.8 compliance_check.sh ran / Q.9 append_only_check.sh ran / Q.10 no --no-verify bypass without HFR / Q.11 pre-commit chain fully fired</li>
+          </ul>
+          <p><strong>Token cost:</strong> ~600/output (vs Karen's ~7,500 — 92% reduction).</p>
+        </div>
+      </details>
+      <details>
+        <summary><span class="chip amber">LAYER 4 — NEW</span> <strong>Meta-Verifier</strong> · <code>agents/meta_verifier.md</code> + <code>scripts/meta_verify.sh</code></summary>
+        <div class="content">
+          <p><strong>Role:</strong> Audits the audit chain itself. Closes Alan's "who verifies the verifier" gap.</p>
+          <p><strong>Checks MV.1–MV.7:</strong> All 3 upstream layers ran / Reports have required fields / Random spot-check of upstream ✅s / No verdict contradictions / Chain trend (rolling 10-run window) / No --no-verify bypass / Script exit codes match reports.</p>
+          <p><strong>Logs to:</strong> <code>cache/META_AUDIT_LOG.md</code> (append-only).</p>
+          <p><strong>Architectural caveat:</strong> Running Meta-Verifier in same Claude session = 5 layers of same brain. Recommended escape: invoke via <code>Agent</code> tool (fresh context) or different model (per <code>CROSS_MODEL_TEST_KIT.md</code>). Staged for Tier 3 maturation.</p>
+          <p><strong>Token cost:</strong> ~500/output.</p>
+        </div>
+      </details>
+
+      <p style="margin-top:6px;color:var(--text-muted);font-size:13px;"><strong>Full chain cost:</strong> ~1,700 tokens (V+VL+QC+MV) vs Karen alone ~7,500. 77% reduction + 3 added independent layers.</p>
+
+      <h3 style="margin-top:24px;font-size:16px;">Archived (10)</h3>
+
+      <details>
+        <summary><span class="chip dashed">F.19 ARCHIVE 2026-05-21</span> <code>agents/archive/validator-merged.md</code> — APW POVP + D-rule predecessor</summary>
+        <div class="content"><p>Layer 1 — POVP (D19) + Completeness + Simplicity (D7) + Cross-ref against APW caches. Successor: Verifier + Validator.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">F.19 ARCHIVE 2026-05-21</span> <code>agents/archive/karen-reality-check.md</code> — APW Karen + F.16 script enforcement</summary>
+        <div class="content"><p>Layer 2 — anti-rubber-stamp Layer 1 + script enforcement (F.16 expansion). Successor: QC (DNA preserved + retargeted from APW to Universal SOP).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">F.19 ARCHIVE 2026-05-21</span> <code>agents/archive/paradox-resolver.md</code> — APW SCIO/APW tension</summary>
+        <div class="content"><p>SCIO ↔ APW tension resolution (on-demand). No current work (APW paused, SCIO not active). May repurpose as "SOP-conflict resolver" later, or fully retire via F20 fusion.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">F5 ARCHIVE 2026-05-21</span> <code>agents/archive/jenny-sop-verifier.md</code></summary>
+        <div class="content"><p>Layer 1 SOP spec verifier (APW SOP v3.8+ POVP). Archived via F5 — role absorbed into Validator-Merged Section A. Now further absorbed into Verifier + Validator.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">F4 ARCHIVE 2026-05-21</span> <code>agents/archive/oversight-executive.md</code></summary>
+        <div class="content"><p>Top-level coordinator (APW-era). Fused into Controller via F4.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">F4 ARCHIVE 2026-05-21</span> <code>agents/archive/cache-manager.md</code></summary>
+        <div class="content"><p>Data integrity + cache state agent (APW-era). Fused into Controller via F4.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">ARCHIVE</span> <code>agents/archive/deliverable-validator.md</code></summary>
+        <div class="content"><p>APW-era deliverable validator. Absorbed into Validator-Merged (now archived itself).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">ARCHIVE</span> <code>agents/archive/simplicity-filter.md</code></summary>
+        <div class="content"><p>APW-era D7 "5th-grader filter" agent. Absorbed into Validator-Merged (now archived).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">ARCHIVE</span> <code>agents/archive/sop-compliance-checker.md</code></summary>
+        <div class="content"><p>APW-era SOP compliance agent. Absorbed into Validator-Merged (now archived).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">INDEX</span> <code>agents/archive/APW_AGENTS_ARCHIVE_REASON.md</code></summary>
+        <div class="content"><p>Full archival rationale + timeline. Created 2026-05-21 with the F.19 rebuild commit.</p></div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- CACHE -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="cache">
+    <h2>🗄️ Cache + Append-Only Files</h2>
+    <div class="body">
+      <p class="lede">Active state. Per F.19, these are <strong>append-only</strong> — never lose entries.</p>
+      <details open>
+        <summary><span class="chip grey">ACTIVE</span> <code>cache/SESSION_STATE.md</code> — Current position + decisions log + tokens</summary>
+        <div class="content"><p>Append-only DECISIONS LOG. Macro + Micro goal tracking (F.13). Token Usage Log per session.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip grey">ACTIVE</span> <code>cache/CONTINUATION.md</code> — Latest session handoff</summary>
+        <div class="content"><p>Cumulative session summary. HOW TO CONTINUE IN A NEW CHAT section. Updated at session end.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip grey">ACTIVE</span> <code>cache/BACKUP_LOG.md</code> — All backups indexed (186 rows as of this commit)</summary>
+        <div class="content"><p>Single canonical record of every file modification + pre-edit backup path. Append-only.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip grey">ACTIVE</span> <code>cache/FAILURE_LEDGER.md</code> — F.1 – F.19 (post-F8 unified)</summary>
+        <div class="content"><p>Single canonical log for ALL system failures across the project. Replaces former split between RPT_LOG (Repeated Prompt Tracker) and HFR (Honest Failure Report) via F8 fusion 2026-05-21.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip grey">ACTIVE</span> <code>cache/BOOTSTRAP_CHECK.md</code> v2.1 — 77-item boot-up spec</summary>
+        <div class="content"><p>The spec; runner is <code>scripts/bootstrap_verify.sh</code>. F.17 fix (literal-check-marks transparency). Updated for F.19 agent-chain rebuild.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip amber">F.19 NEW</span> <code>cache/META_AUDIT_LOG.md</code> — Append-only chain-run trail</summary>
+        <div class="content"><p>Every run of Verifier/Validator/QC/Meta-Verifier writes a row: date, device, agent, pass/warnings count, commit SHA. Data source for Meta-Verifier's MV.1 + MV.5 checks (chain completeness + trend).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">DEPRECATED</span> <code>cache/RPT_LOG.md</code> — redirect to FAILURE_LEDGER</summary>
+        <div class="content"><p>Pre-F8. Kept as historical redirect pointer. Do not add new entries here.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip dashed">LEGACY DIR</span> <code>cache/legacy/</code> — APW-era files (F1+F2 archives)</summary>
+        <div class="content"><p>Contains: APW_MASTER_CACHE, BUILD_STATE, SCIO_KNOWLEDGE, PROGRAM_DETAILS, USER_FOUNDATION, TOKEN_BUDGET_LOG, USER_PROMPTS_VERBATIM, USER_PROMPT_FULFILLMENT_AUDIT, USER_PROMPT_INVENTORY, PRIME_SOP v2.8, BRIDGE_SOP v1.1, SOP_FULL_REFERENCE, INDEX.md — 13 files.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip grey">BACKUPS DIR</span> <code>cache/backups/</code> — Historical snapshots before edits</summary>
+        <div class="content"><p>Pre-edit cache snapshots organized by timestamp. Format: <code>cache/backups/&lt;YYYYMMDD&gt;_&lt;HHMMSS&gt;_v&lt;ver&gt;_&lt;reason&gt;/</code>.</p></div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- ENFORCEMENT -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="enforcement">
+    <h2>⚙️ Mechanical Enforcement Layer</h2>
+    <div class="body">
+      <p class="lede">Per F.19: convention decays, architecture holds. 11 scripts + 2 git hooks.</p>
+      <h3 style="font-size:16px;">Scripts (11)</h3>
+      <details>
+        <summary><code>scripts/bootstrap_verify.sh</code> · F.17 · 79 checks across 13 sections</summary>
+        <div class="content"><p>Run at session start. Mechanical verification of every component. Exit 0 = pass, 1 = fail.</p></div>
+      </details>
+      <details>
+        <summary><code>scripts/compliance_check.sh</code> · F.14 + Tier 1 follow-up</summary>
+        <div class="content"><p>Rule #11 (full-name enforcement) + Pulse Check score detection + step header completeness. Accepts 5/5 (per MANDATORY_TIGHT_LOOP) + 10/10–17/17 (per full SOP).</p></div>
+      </details>
+      <details>
+        <summary><code>scripts/append_only_check.sh</code> · F.15 · pre-commit-invoked</summary>
+        <div class="content"><p>Blocks commit if any append-only file (SESSION_STATE, BACKUP_LOG, FAILURE_LEDGER, CONTINUATION) got shorter than its previous version.</p></div>
+      </details>
+      <details>
+        <summary><code>scripts/consistency_check.sh</code> · pre-mac · version drift detection</summary>
+        <div class="content"><p>Detects version drift across files, stale RPT_LOG refs, footer/header mismatch, SubSOP count consistency.</p></div>
+      </details>
+      <details>
+        <summary><code>scripts/setup_device.sh</code> · F.15</summary>
+        <div class="content"><p><code>bash scripts/setup_device.sh DEVICE_NAME</code> — sets git user.name "Alan (DEVICE)" + user.email "alan+DEVICE@local". Per-repo (not global).</p></div>
+      </details>
+      <details>
+        <summary><code>scripts/check_device_activity.sh</code> · F.15</summary>
+        <div class="content"><p>Pre-session check. Fetches remote, shows recent commits by device, flags unpulled commits from other devices.</p></div>
+      </details>
+      <details>
+        <summary><code>scripts/safe_push.sh</code> · F.18</summary>
+        <div class="content"><p><code>git fetch && git rebase origin/main && git push</code> wrapper. Handles divergence atomically.</p></div>
+      </details>
+      <details>
+        <summary><code>chat_archive/archive_chat.sh</code> · session JSONL snapshot</summary>
+        <div class="content"><p><code>bash chat_archive/archive_chat.sh [label]</code> — snapshots full Claude Code session transcript into <code>chat_archive/&lt;label&gt;_&lt;timestamp&gt;/</code>.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip amber">F.19 NEW</span> <code>scripts/verifier.sh</code> · Layer 1 of agent chain</summary>
+        <div class="content"><p>V.1-V.8 mechanical presence check. Writes row to META_AUDIT_LOG.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip amber">F.19 NEW</span> <code>scripts/validator.sh</code> · Layer 2 of agent chain</summary>
+        <div class="content"><p>VL.1-VL.6 substantive heuristic check. Writes row to META_AUDIT_LOG.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip amber">F.19 NEW</span> <code>scripts/qc.sh</code> · Layer 3 of agent chain</summary>
+        <div class="content"><p>Q.1-Q.11 quality + anti-rubber-stamp + F.16 script enforcement. Writes row to META_AUDIT_LOG.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip amber">F.19 NEW</span> <code>scripts/meta_verify.sh</code> · Layer 4 — chain audit</summary>
+        <div class="content"><p>MV.1-MV.7 chain audit. Reads META_AUDIT_LOG + writes own row. Closes "who verifies the verifier" gap.</p></div>
+      </details>
+
+      <h3 style="font-size:16px;margin-top:20px;">Git Hooks (2)</h3>
+      <details>
+        <summary><code>.githooks/pre-commit</code> · F.16 + F.19 chain invocation</summary>
+        <div class="content">
+          <p>Runs in order: append_only_check → compliance_check → device-identity verify → verifier → validator → qc → meta_verify.</p>
+          <p>Append-only is BLOCKING (commit refused if cache file shrinks). Others are warnings-only (per F.19 Tier 1 stabilization).</p>
+          <p>Bypass: <code>git commit --no-verify</code> + must include HFR justification in commit message OR QC will flag in next commit.</p>
+        </div>
+      </details>
+      <details>
+        <summary><code>.githooks/pre-push</code> · F.18 — multi-device live sync</summary>
+        <div class="content">
+          <p>Fetches origin before push. If remote ahead, BLOCKS push and tells user to run <code>bash scripts/safe_push.sh</code>. Prevents the rejected-push-then-pull-rebase cycle that happens in multi-device parallel work.</p>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- MULTI-DEVICE -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="multidevice">
+    <h2>🖥️ Multi-Device System</h2>
+    <div class="body">
+      <p class="lede">DEVICE_REGISTRY + naming conventions + 7 Golden Rules + safe-push architecture.</p>
+      <details open>
+        <summary>Registered devices (DEVICE_REGISTRY.md)</summary>
+        <div class="content">
+          <table>
+            <tr><th>Device</th><th>Registered</th><th>Git email</th><th>Description</th></tr>
+            <tr><td><code>mac-main</code></td><td>2026-05-21</td><td>alan+mac-main@local</td><td>MacBook in Downloads/APW_EXPORT folder</td></tr>
+            <tr><td><code>aurelia</code></td><td>2026-05-21</td><td>alan+aurelia@local</td><td>Windows Strix Halo (hostname Aurelia, user nguye, domain AURELIA)</td></tr>
+          </table>
+          <p>Future devices: 2nd Strix Halo + desktop + more — per Alan's fleet.</p>
+        </div>
+      </details>
+      <details>
+        <summary>Naming protocol (per F.19 — backup filename + commit subject)</summary>
+        <div class="content">
+          <p><strong>Backup filenames:</strong> <code>&lt;original&gt;_v&lt;ver&gt;_&lt;YYYYMMDD&gt;_&lt;HHMMSS&gt;_&lt;device&gt;_&lt;reason&gt;_backup.&lt;ext&gt;</code></p>
+          <p><strong>Commit subjects:</strong> <code>[device | YYYY-MM-DD HH:MM TZ] one-line summary</code></p>
+          <p>Examples: <code>[aurelia | 2026-05-21 17:34 CDT] ...</code>, <code>[mac-main | 2026-05-21 17:19 CDT] ...</code></p>
+        </div>
+      </details>
+      <details>
+        <summary>The 7 Golden Rules (MULTI_DEVICE_GIT_PROTOCOL.md)</summary>
+        <div class="content">
+          <ol>
+            <li><strong>ALWAYS pull before work</strong></li>
+            <li><strong>ALWAYS commit + push after work</strong></li>
+            <li><strong>NEVER force-push</strong></li>
+            <li><strong>NEVER rewrite history</strong> (no <code>rebase</code> / <code>reset --hard</code> / <code>--amend</code> after push)</li>
+            <li><strong>ONE device at a time</strong> for active work (no simultaneous edit without push between)</li>
+            <li><strong>APPEND-ONLY</strong> for history files (cache/SESSION_STATE, BACKUP_LOG, FAILURE_LEDGER, CONTINUATION) — F.15</li>
+            <li><strong>NEVER delete files</strong> (use <code>cache/legacy/archived_*</code> prefix instead) — F.15</li>
+          </ol>
+        </div>
+      </details>
+      <details>
+        <summary>Universal Backup & Preservation Rule (SESSION_START.md)</summary>
+        <div class="content">
+          <p><strong>Repo-wide rule.</strong> Applies to ALL files in this repo, not just cache. 7 sub-rules:</p>
+          <ol>
+            <li>NEVER delete existing files</li>
+            <li>Backup BEFORE every modification</li>
+            <li>Timestamped filename + device identity</li>
+            <li>Log every backup in <code>cache/BACKUP_LOG.md</code></li>
+            <li>Applies to ALL files</li>
+            <li>Cross-device inheritance (lives in repo, not local config)</li>
+            <li>Device identity is non-optional</li>
+          </ol>
+        </div>
+      </details>
+      <details>
+        <summary>Conflict resolution playbook (4 scenarios)</summary>
+        <div class="content">
+          <p><strong>A. Cache file conflict (most common):</strong> KEEP BOTH blocks, renumber. Cache files are append-only — never resolve by picking one side.</p>
+          <p><strong>B. SOP file conflict:</strong> Decision tree — same section? keep newer logically. Different sections? merge both. Conflicting structural changes? request keep more comprehensive + log F.X entry.</p>
+          <p><strong>C. Mistake / want to undo:</strong> Use <code>git reset --soft HEAD~1</code> (keeps changes) BEFORE pushing. After push: never rewrite.</p>
+          <p><strong>D. Catastrophic / force-push recovery:</strong> Use <code>git reflog</code> + <code>--force-with-lease</code>. Better: never force-push in the first place.</p>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- FAILURE LEDGER -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="failures">
+    <h2>🪞 Failure Ledger (F.1 – F.19)</h2>
+    <div class="body">
+      <p class="lede">Cumulative immutable log of every system failure + root cause + permanent fix. Pattern visible: early failures (F.1–F.9) got conventional fixes that re-failed. Late failures (F.13–F.18) got mechanical fixes that hold. F.19 is the meta-insight.</p>
+      <details>
+        <summary><span class="chip red">F.1</span> Emojis far left, dedicated column [REPEAT × 3] · ✅ FIXED 2026-03-31</summary>
+        <div class="content"><p><strong>Root cause:</strong> Visual rules treated as suggestions. <strong>Fix:</strong> SP.1 MagNet sub-rule MN.2 + SP.2 Door Scan mandatory always-on.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.2</span> Live token tracking in outputs [REPEAT × 4] · ✅ FIXED 2026-03-31</summary>
+        <div class="content"><p><strong>Root cause:</strong> Defined but never activated. <strong>Fix:</strong> LTM mandatory after every section.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.3</span> Visual rules treated as suggestions [REPEAT × 2] · ✅ FIXED 2026-03-31</summary>
+        <div class="content"><p>Recurrence of F.1 pattern. Door Scan + MagNet hardened.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.4</span> Acknowledge without execute [REPEAT × 2] · ✅ FIXED 2026-04-01</summary>
+        <div class="content"><p><strong>Root cause:</strong> Future-tense promises ("I'll do X next"). <strong>Fix:</strong> SP.15 EEP + SP.16 PCG + Execution Debt Counter.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.5</span> Rules defined but never activated [REPEAT × 2] · ✅ FIXED 2026-04-01</summary>
+        <div class="content"><p><strong>Fix:</strong> Mandatory wrap-up components (F7 fusion later).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.6</span> Self-judgment override mechanical rule [REPEAT × 2] · ✅ FIXED 2026-04-01</summary>
+        <div class="content"><p><strong>Fix:</strong> EN.1 Output Skeleton + EN.4 Pulse Check (structure forced).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.7</span> Acknowledge without execute (repeat) [REPEAT × 2] · ✅ FIXED 2026-04-01</summary>
+        <div class="content"><p>F.4 pattern recurred. Reinforced EEP.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.8</span> Self-judgment override (repeat) [REPEAT × 2] · ✅ FIXED 2026-04-01</summary>
+        <div class="content"><p>F.6 pattern recurred. Reinforced Skeleton + Pulse Check.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.9</span> Compliance decay across outputs · ✅ FIXED 2026-04-01</summary>
+        <div class="content"><p><strong>Root cause:</strong> Over 4-6 outputs, mandatory sections silently dropped. <strong>Fix:</strong> Ensurance System EN.1-EN.4 added. <strong>Note:</strong> Per F.19 — Ensurance is itself convention; truly mechanical fix requires architecture (Tier 3).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.10</span> Truncation regression — bare acronyms [HFR] · ✅ FIXED 2026-05-21</summary>
+        <div class="content"><p><strong>Root cause:</strong> "SP.1 MagNet" used without "(Magnetic Visual Engagement Protocol)" expansion. <strong>Fix:</strong> Rule #11 — full names + acronyms EVERY use (was "first use"). compliance_check.sh enforces.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.11</span> No &lt;details&gt; in SubSOP Reports [HFR] · ✅ FIXED 2026-05-21</summary>
+        <div class="content"><p><strong>Fix:</strong> Rule #12 — &lt;details&gt; per protocol/agent for transparency.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.12</span> Pre-Flight Gate + Pulse Check redundancy · ✅ FIXED 2026-05-21</summary>
+        <div class="content"><p>Consolidated to Pulse Check 2.0 (later reduced to 5 items in MANDATORY_TIGHT_LOOP via F.19 Tier 1).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.13</span> Macro/Micro goal tracking absent · ✅ FIXED 2026-05-21</summary>
+        <div class="content"><p><strong>Fix:</strong> 🎯 MACRO + 📌 MICRO mandatory in STEP header (universal across all tiers). GOAL TRACKING section in SESSION_STATE.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.14</span> Rule #11 cluster violations + UC format inconsistency · ✅ FIXED 2026-05-21</summary>
+        <div class="content"><p><strong>Fix:</strong> NEW <code>scripts/compliance_check.sh</code> + NEW Rule #13 (run it) + NEW Pulse Check P17 (compliance script passed).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.15</span> Multi-device naming + append-only protection absent · ✅ FIXED 2026-05-21</summary>
+        <div class="content"><p><strong>Fix (5 new files):</strong> DEVICE_REGISTRY.md + setup_device.sh + append_only_check.sh + check_device_activity.sh + 7 Golden Rules in MULTI_DEVICE_GIT_PROTOCOL.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.16</span> Script enforcement bypassable · ✅ FIXED 2026-05-21</summary>
+        <div class="content"><p><strong>Fix:</strong> .githooks/pre-commit (mechanical enforcement, can't bypass without --no-verify which itself flags) + Karen expansion (Section 5 — script enforcement verification).</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.17</span> Bootstrap lacks component-level transparency · ✅ FIXED 2026-05-21</summary>
+        <div class="content"><p><strong>Fix:</strong> NEW <code>scripts/bootstrap_verify.sh</code> with 67-77 mechanical checks across 13 sections. BOOTSTRAP_CHECK.md rewritten v1→v2 as live checklist spec.</p></div>
+      </details>
+      <details>
+        <summary><span class="chip red">F.18</span> Multi-device live push/pull not optimized · ✅ FIXED 2026-05-21</summary>
+        <div class="content"><p><strong>Fix:</strong> NEW <code>scripts/safe_push.sh</code> + .githooks/pre-push (atomic fetch+rebase+push; blocks push if remote ahead with safe_push hint).</p></div>
+      </details>
+      <details open>
+        <summary><span class="chip amber star">F.19 META-FAILURE</span> SOP output-level compliance decays despite infrastructure · ✅ Tier 1 SHIPPED 2026-05-21 / Tier 2-3 STAGED</summary>
+        <div class="content">
+          <p><strong>Root cause:</strong> The SOP keeps failing because it's a <em>discipline</em> system asked to do an <em>architecture</em> job. Discipline cannot solve an architecture problem. Three mechanisms compound:</p>
+          <ol>
+            <li>Same-brain-audits-itself (Karen is Claude in a different prompt — same biases)</li>
+            <li>No pre-send gate (autoregressive token output; Pulse Check is fait accompli)</li>
+            <li>Convention loses to immediate task (each skip locally rational, aggregated decay global)</li>
+          </ol>
+          <p><strong>Permanent Fix (3 tiers):</strong></p>
+          <ul>
+            <li><strong>Tier 1 ✅ SHIPPED:</strong> Scope reduction (17→5, 16→6, 8→3). See <code>MANDATORY_TIGHT_LOOP.md</code>.</li>
+            <li><strong>Tier 2 ⏳ STAGED:</strong> Mode declaration as first line of every response (<code>MODE: CONVERSATION</code> vs <code>OUTPUT-X</code>).</li>
+            <li><strong>Tier 3 ⏳ STAGED:</strong> Outputs are files, not chat replies. Convention becomes architecture via pre-commit gate.</li>
+          </ul>
+          <p><strong>Also shipped in F.19 commit:</strong> Full agent-chain rebuild — Verifier + Validator + QC + Meta-Verifier replace the 3 APW-era agents (now archived).</p>
+          <p>Full diagnosis + acceptance tests: <code>SELF_COMPLIANCE_FIX.md</code>.</p>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- FUSIONS -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="fusions">
+    <h2>🔀 Fusions History (F1 – F12)</h2>
+    <div class="body">
+      <p class="lede">Operations that merged multiple SOP components to reduce surface area. All from 2026-05-21 (Session 5). See <code>FUSION_ANALYSIS.md</code> for full proposals + defense tests.</p>
+      <table>
+        <tr><th>ID</th><th>Operation</th><th>Status</th></tr>
+        <tr><td><strong>F1</strong></td><td>Archive 3 historical SOPs (PRIME_SOP, BRIDGE_SOP, SOP_FULL_REFERENCE) → <code>cache/legacy/</code></td><td>✅ EXECUTED</td></tr>
+        <tr><td><strong>F2</strong></td><td>9 APW cache files → <code>cache/legacy/</code> (active cache 14 → 5)</td><td>✅ EXECUTED</td></tr>
+        <tr><td><strong>F3</strong></td><td>Merge Validator + Karen (proposed)</td><td>❌ REJECTED — theatre compliance risk</td></tr>
+        <tr><td><strong>F4</strong></td><td>Oversight Executive + Cache Manager → Controller</td><td>✅ EXECUTED</td></tr>
+        <tr><td><strong>F5</strong></td><td>Archive Jenny (standalone) — absorbed into Validator-Merged Section A</td><td>✅ EXECUTED</td></tr>
+        <tr><td><strong>F6</strong></td><td>16 SubSOPs → 10 clusters (count reduction)</td><td>📝 DOCUMENTATION ONLY — clusters documented in PROTOCOLS_REFERENCE, count unchanged</td></tr>
+        <tr><td><strong>F7</strong></td><td>Wrap-Up cluster (SP.9 FE + SP.7 Insights + SP.13 SHR)</td><td>✅ EXECUTED</td></tr>
+        <tr><td><strong>F8</strong></td><td>RPT_LOG + HFR-scattered → FAILURE_LEDGER (unified)</td><td>✅ EXECUTED</td></tr>
+        <tr><td><strong>F9</strong></td><td>Merge SP.15 EEP + SP.16 PCG</td><td>❌ KEPT SEPARATE — timing precision (during vs pre-send)</td></tr>
+        <tr><td><strong>F10</strong></td><td>SP.3 TTE + LTM cluster → "Token System"</td><td>✅ EXECUTED (documentation)</td></tr>
+        <tr><td><strong>F11</strong></td><td>SP.1 MagNet + SP.2 Door Scan + SP.8 Protocol Visibility → "Visual System"</td><td>✅ EXECUTED (documentation)</td></tr>
+        <tr><td><strong>F12</strong></td><td>SP.10 SCC + SP.11 QAC + EN.4 Pulse Check merge</td><td>❌ KEPT SEPARATE — lens distinction (SOP rules vs structure vs mechanical)</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- QUICK REFERENCE -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="quickref">
+    <h2>📖 Quick Reference Tables</h2>
+    <div class="body">
+      <details open>
+        <summary>What to read when</summary>
+        <div class="content">
+          <table>
+            <tr><th>Situation</th><th>Read</th></tr>
+            <tr><td>Fresh session, any device</td><td><code>SESSION_START.md</code> → <code>MANDATORY_TIGHT_LOOP.md</code></td></tr>
+            <tr><td>New device first-time setup</td><td><code>SESSION_START.md</code> + <code>DEVICE_REGISTRY.md</code> + run <code>bash scripts/setup_device.sh &lt;name&gt;</code></td></tr>
+            <tr><td>Producing an output (OUTPUT-STANDARD or COMPLEX)</td><td><code>MANDATORY_TIGHT_LOOP.md</code></td></tr>
+            <tr><td>Publishable deliverable</td><td><code>MANDATORY_TIGHT_LOOP.md</code> + full <code>UNIVERSAL_SOP_PROMPT.md</code> for extras</td></tr>
+            <tr><td>Protocol lookup (full name + acronym)</td><td><code>PROTOCOLS_REFERENCE.md</code></td></tr>
+            <tr><td>Investigating a failure pattern</td><td><code>cache/FAILURE_LEDGER.md</code></td></tr>
+            <tr><td>Understanding why SOP keeps failing</td><td><code>SELF_COMPLIANCE_FIX.md</code> + F.19 entry</td></tr>
+            <tr><td>Multi-device sync question</td><td><code>MULTI_DEVICE_GIT_PROTOCOL.md</code></td></tr>
+            <tr><td>Restoring a prior file state</td><td><code>cache/BACKUP_LOG.md</code> → find row → grab from <code>backups/</code></td></tr>
+            <tr><td>External consumer (other AI tool / 3rd party)</td><td><code>STANDALONE_SOP.md</code> (MIT, self-contained, ~95% cross-model)</td></tr>
+            <tr><td>Visual reference</td><td><code>SOP_MAP.html</code> (interactive) or this file</td></tr>
+            <tr><td>Bootstrap verification</td><td><code>bash scripts/bootstrap_verify.sh</code></td></tr>
+          </table>
+        </div>
+      </details>
+      <details>
+        <summary>Token budget by mode</summary>
+        <div class="content">
+          <table>
+            <tr><th>Mode</th><th>SOP overhead</th><th>Typical</th></tr>
+            <tr><td><code>MODE: CONVERSATION</code></td><td>~0 tokens</td><td>Most session turns (setup, status, q&a)</td></tr>
+            <tr><td><code>MODE: OUTPUT-QUICK</code></td><td>STEP + answer + LTM (~500)</td><td>Single fact, lookup</td></tr>
+            <tr><td><code>MODE: OUTPUT-STANDARD</code></td><td>Full tight loop (~2-3K)</td><td>Single deliverable</td></tr>
+            <tr><td><code>MODE: OUTPUT-COMPLEX</code></td><td>Tight loop + extended Foresight + SHR (~4-5K)</td><td>Multi-step / multi-file / structural change</td></tr>
+          </table>
+          <p>Full agent chain (V+VL+QC+MV) adds ~1,700 tokens for STANDARD/COMPLEX. Versus pre-F.19 Karen alone (~7,500) = 77% reduction.</p>
+        </div>
+      </details>
+      <details>
+        <summary>SP.3 TTE thresholds (200K window)</summary>
+        <div class="content">
+          <table>
+            <tr><th>Status</th><th>Range</th><th>Behavior</th></tr>
+            <tr><td>🟢 GREEN</td><td>&lt; 108K</td><td>Full operations. All agents run.</td></tr>
+            <tr><td>🟡 YELLOW</td><td>108-130K</td><td>Abbreviated validation. Skip Karen unless critical. Reserve budget.</td></tr>
+            <tr><td>🔴 RED</td><td>130-141K</td><td>Checkpoint NOW. Cache all state. No new deliverables.</td></tr>
+            <tr><td>🆘 CRITICAL</td><td>&gt; 141K (theoretical)</td><td>Stop. Emergency cache dump.</td></tr>
+          </table>
+          <p>For 1M-window models: same percentages, scaled (GREEN &lt; 540K, etc.). LTM display includes <code>/ [WINDOW]</code> parameter (CR2 fix).</p>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- GLOSSARY -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="glossary">
+    <h2>🏷️ Glossary</h2>
+    <div class="body">
+      <table>
+        <tr><th>Term</th><th>Meaning</th></tr>
+        <tr><td><strong>SubSOP</strong></td><td>Sub-Standard-Operating-Procedure. 16 protocols SP.1–SP.16 forming the rulebook's mechanics.</td></tr>
+        <tr><td><strong>Ensurance</strong></td><td>4 anti-decay components EN.1–EN.4 that prevent compliance erosion.</td></tr>
+        <tr><td><strong>Tight Loop</strong></td><td>The 6+1 protocols selected as mandatory for every operational OUTPUT (F.19 Tier 1).</td></tr>
+        <tr><td><strong>Tier (F.19 context)</strong></td><td>One of three architectural moves to fix discipline/architecture gap. Tier 1 shipped; Tier 2+3 staged.</td></tr>
+        <tr><td><strong>Tier (SOP context)</strong></td><td>QUICK / STANDARD / COMPLEX — rigor level of an output.</td></tr>
+        <tr><td><strong>MODE</strong></td><td>First-line declaration: CONVERSATION / OUTPUT-QUICK / OUTPUT-STANDARD / OUTPUT-COMPLEX. (Tier 2 of F.19, staged.)</td></tr>
+        <tr><td><strong>Pulse Check</strong></td><td>Pre-send mechanical sweep. Original 17 items; Tier 1 reduced to 5 (P1–P5).</td></tr>
+        <tr><td><strong>HFR</strong></td><td>Honest Failure Report — root cause + permanent fix in same output that fails.</td></tr>
+        <tr><td><strong>F.X</strong></td><td>Failure-Ledger entry X. Cumulative immutable log of every failure + permanent fix.</td></tr>
+        <tr><td><strong>Mechanical enforcement</strong></td><td>Rule enforced by script or hook, not by Claude self-discipline. The category that holds per F.19.</td></tr>
+        <tr><td><strong>F1/F4/F5/F8/etc. (fusion)</strong></td><td>Operations that merged components to reduce surface area. Numbered sequentially from May 2026 work.</td></tr>
+        <tr><td><strong>SP.X</strong></td><td>SubSOP X. SP.1 through SP.16.</td></tr>
+        <tr><td><strong>EN.X</strong></td><td>Ensurance component X. EN.1 through EN.4.</td></tr>
+        <tr><td><strong>D-rule (Dx)</strong></td><td><strong>Legacy</strong> APW-era rules (D1–D32). Do NOT enforce in current work.</td></tr>
+        <tr><td><strong>LTM</strong></td><td>Live Token Monitor — per-section token display, format: <code>LTM: ~XK / [WINDOW] | Status: 🌱 GREEN</code>.</td></tr>
+        <tr><td><strong>SCIO</strong></td><td>APW-era principle system (paused).</td></tr>
+        <tr><td><strong>APW</strong></td><td>Ascend Prime Wealth — the original course-build project. Currently PAUSED.</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <!-- FILE INVENTORY -->
+  <!-- ════════════════════════════════════════════════════════════ -->
+  <section class="cat" id="inventory">
+    <h2>📁 File Inventory (root + key dirs)</h2>
+    <div class="body">
+      <p class="lede">Top-level files + key subdirectories. See <code>SOP_MAP.html</code> Diagram 6 for visual tree.</p>
+      <details>
+        <summary>Governance docs (root)</summary>
+        <div class="content">
+          <ul>
+            <li><code>README.md</code> · GitHub-facing entry point</li>
+            <li><code>SESSION_START.md</code> · canonical bootstrap entry (every session reads first)</li>
+            <li><code>CLAUDE.md</code> · Claude Code project config (redirects to SESSION_START)</li>
+            <li><code>UNIVERSAL_SOP_PROMPT.md</code> · v1.3 active rulebook (940 lines)</li>
+            <li><code>STANDALONE_SOP.md</code> · MIT shippable version (~95% cross-model)</li>
+            <li><code>PROTOCOLS_REFERENCE.md</code> · 20 protocols full names + acronyms</li>
+            <li><code>USER_PROFILE.md</code> · Alan's communication preferences</li>
+            <li><code>DEVICE_REGISTRY.md</code> · multi-device naming</li>
+            <li><code>MULTI_DEVICE_GIT_PROTOCOL.md</code> · 7 Golden Rules</li>
+            <li><code>MASTER_CONTINUATION_PROMPT.md</code> · one-paste resume</li>
+            <li><code>MANDATORY_TIGHT_LOOP.md</code> · F.19 Tier 1 reduced ruleset ⭐</li>
+            <li><code>SELF_COMPLIANCE_FIX.md</code> · F.19 diagnosis + 3-tier solution ⭐</li>
+            <li><code>SOP_MAP.md</code> · visual reference (PNG-embedded markdown)</li>
+            <li><code>SOP_MAP.html</code> · interactive visual reference (Mermaid in browser)</li>
+            <li><code>SOP_COMPLETE_REFERENCE.html</code> · THIS FILE ⭐</li>
+            <li><code>FAILURE_MODES_ANALYSIS.md</code> · future failure analysis (mac-main built)</li>
+            <li><code>TOKEN_OPTIMIZATION_GUIDE.md</code> · multi-device token optimization</li>
+            <li><code>EFFICIENCY_GUIDE.md</code> · 8.5/10 ceiling analysis</li>
+            <li><code>CHALLENGES_LOG.md</code> · bottlenecks + debug history</li>
+            <li><code>CONSULTING_BRIEF.md</code> · for external Claude chats consulting</li>
+            <li><code>PROJECT_HISTORY.md</code> · 40+ hour timeline</li>
+            <li><code>NEW_HIRE_GUIDE.md</code> · plain-English onboarding</li>
+            <li><code>REPLICATION_KIT.md</code> · setup kit for new chats/machines/users</li>
+            <li><code>PUBLIC_SHARE_KIT.md</code> · publishing guidance</li>
+            <li><code>HARNESS_REFRESH_GUIDE.md</code> · Claude Code harness drift</li>
+            <li><code>CROSS_MODEL_TEST_KIT.md</code> · GPT-5 / Gemini test protocol</li>
+            <li><code>SHIP_INSTRUCTIONS.md</code> · turnkey ship package</li>
+            <li><code>REAL_DEVICE_TEST.md</code> · physical device test kit</li>
+            <li><code>INVENTORY.md</code> · full registry of all SOPs/agents/scripts</li>
+            <li><code>FUSION_ANALYSIS.md</code> · 12 fusion proposals + defense tests</li>
+          </ul>
+        </div>
+      </details>
+      <details>
+        <summary>cache/ (active state — 6 files + 2 dirs)</summary>
+        <div class="content">
+          <ul>
+            <li><code>cache/SESSION_STATE.md</code></li>
+            <li><code>cache/CONTINUATION.md</code></li>
+            <li><code>cache/BACKUP_LOG.md</code></li>
+            <li><code>cache/FAILURE_LEDGER.md</code> (F.1–F.19)</li>
+            <li><code>cache/BOOTSTRAP_CHECK.md</code> v2.1</li>
+            <li><code>cache/META_AUDIT_LOG.md</code> ⭐ F.19 NEW</li>
+            <li><code>cache/RPT_LOG.md</code> (deprecated redirect)</li>
+            <li><code>cache/legacy/</code> · 13 APW-era files</li>
+            <li><code>cache/backups/</code> · historical snapshots</li>
+          </ul>
+        </div>
+      </details>
+      <details>
+        <summary>agents/ (5 active + 10 archived)</summary>
+        <div class="content">
+          <p><strong>Active:</strong> controller.md, verifier.md ⭐, validator.md ⭐, qc.md ⭐, meta_verifier.md ⭐, VALIDATION_WORKFLOW.md v4.0</p>
+          <p><strong>Archived:</strong> 10 files in <code>agents/archive/</code> — see APW_AGENTS_ARCHIVE_REASON.md</p>
+        </div>
+      </details>
+      <details>
+        <summary>scripts/ (11 .sh) + .githooks/ (2 hooks)</summary>
+        <div class="content">
+          <p>See Mechanical Enforcement section above.</p>
+        </div>
+      </details>
+      <details>
+        <summary>backups/ (pre-edit snapshots)</summary>
+        <div class="content">
+          <p>~25+ pre-edit backup files. Naming: <code>&lt;original&gt;_v&lt;ver&gt;_&lt;YYYYMMDD&gt;_&lt;HHMMSS&gt;_&lt;device&gt;_&lt;reason&gt;_backup.&lt;ext&gt;</code>.</p>
+          <p>Append-only. Never deleted.</p>
+        </div>
+      </details>
+      <details>
+        <summary>diagrams_src/ + assets/diagrams/ (visual sources)</summary>
+        <div class="content">
+          <p>6 Mermaid source files (.mmd) + 6 rendered PNGs (3840px retina). For SOP_MAP visualization. Re-renderable via <code>npx mmdc</code>.</p>
+        </div>
+      </details>
+      <details>
+        <summary>chat_archive/ (session transcripts)</summary>
+        <div class="content">
+          <p>Full JSONL transcripts per session. <code>archive_chat.sh</code> snapshots. Excluded from bootstrap reads (token optimization O2).</p>
+        </div>
+      </details>
+      <details>
+        <summary>source_files/ (APW course material)</summary>
+        <div class="content">
+          <p>SCIO Sections 0, 1, 4 + APW source documents. Used when APW course resumes (currently paused).</p>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <footer style="text-align:center;margin-top:40px;padding:24px;color:var(--text-muted);font-size:13px;">
+    Universal Output SOP v1.3 · SOP_COMPLETE_REFERENCE.html v1.0 · aurelia · 2026-05-21<br>
+    Commit <code>dc12851</code> · <a href="https://github.com/xprimordius/universal-sop" target="_blank">github.com/xprimordius/universal-sop</a>
+  </footer>
+</main>
+
+</div>
+
+<script>
+  function expandAll() {
+    document.querySelectorAll('details').forEach(d => d.open = true);
+  }
+  function collapseAll() {
+    document.querySelectorAll('details').forEach(d => d.open = false);
+  }
+  function filterAll(q) {
+    q = q.toLowerCase().trim();
+    document.querySelectorAll('section.cat details').forEach(d => {
+      const text = d.textContent.toLowerCase();
+      if (!q || text.includes(q)) {
+        d.style.display = '';
+        if (q) d.open = true;
+      } else {
+        d.style.display = 'none';
+      }
+    });
+    document.querySelectorAll('section.cat').forEach(s => {
+      const visible = [...s.querySelectorAll('details')].some(d => d.style.display !== 'none');
+      s.style.display = (q && !visible) ? 'none' : '';
+    });
+  }
+</script>
+
+</body>
+</html>
