@@ -100,3 +100,10 @@ This file is listed in:
 | 2026-05-22 | aurelia | Validator | 7 pass / 1 warnings | ab1542b |
 | 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | ab1542b |
 | 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | ab1542b |
+| 2026-05-22 | aurelia | Verifier | 4 pass / 4 warnings | 823a459 |
+| 2026-05-22 | aurelia | Validator | 8 pass / 0 warnings | 823a459 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | 823a459 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 823a459 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | 5ef7e2d |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 5ef7e2d |
+| 2026-05-22 | aurelia | E2E | 7 pass / 1 fail / 0 skip | 5ef7e2d |
