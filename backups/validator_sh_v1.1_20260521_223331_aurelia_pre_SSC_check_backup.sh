@@ -109,17 +109,6 @@ else
   fi
 fi
 
-# VL.8 SP.18 SSC (Sync Status Confirmation) present — NEW 2026-05-21 (F.21 fix)
-if echo "$ADDED" | grep -qE "📡 Sync Status|Sync Status \(SP\.18|SP\.18 SSC"; then
-  check_warn "VL.8" "SP.18 SSC — sync status confirmation present" "PASS" ""
-else
-  if echo "$ADDED" | grep -qE "^\+STEP:"; then
-    check_warn "VL.8" "SP.18 SSC — sync status confirmation present" "WARN" "No 📡 Sync Status block at end (every file-modifying OUTPUT must end with SSC per SP.18)"
-  else
-    check_warn "VL.8" "SP.18 SSC — sync status confirmation present" "PASS" "(meta-doc — N/A)"
-  fi
-fi
-
 # Log to META_AUDIT_LOG.md
 if [ -f cache/META_AUDIT_LOG.md ]; then
   printf "| %s | %s | Validator | %d pass / %d warnings | %s |\n" \

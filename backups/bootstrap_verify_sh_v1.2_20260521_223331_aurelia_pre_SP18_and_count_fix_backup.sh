@@ -174,7 +174,7 @@ check_file "MULTI_DEVICE_GIT_PROTOCOL.md" "MULTI_DEVICE_GIT_PROTOCOL.md (7 Golde
 
 # === 4. SUBSOPS (16) — Verify Each Named ===
 [[ $QUIET -eq 0 ]] && echo "🧩 SUBSOPS — All 16 expected in PROTOCOLS_REFERENCE.md"
-count_grep "^<summary><b>SP\.[0-9]+" PROTOCOLS_REFERENCE.md 18 "SP.1–SP.18 entries present (16 original + SP.17 SIR F.20 + SP.18 SSC F.21, 2026-05-21)"
+count_grep "^<summary><b>SP\.[0-9]+" PROTOCOLS_REFERENCE.md 16 "SP.1–SP.16 entries present"
 check_grep "SP\.1 .*MagNet"      PROTOCOLS_REFERENCE.md "SP.1 MagNet (Magnetic Visual Engagement Protocol)"
 check_grep "SP\.2 .*Door Scan"   PROTOCOLS_REFERENCE.md "SP.2 Door Scan (Door Scanning Pattern Protocol)"
 check_grep "SP\.3 .*TTE"         PROTOCOLS_REFERENCE.md "SP.3 TTE (Token Threshold Engine)"
@@ -194,11 +194,6 @@ check_grep "SP\.16 .*PCG"        PROTOCOLS_REFERENCE.md "SP.16 PCG (Prompt Compl
 # F.20 fix 2026-05-21 — SP.17 added as mandatory in MANDATORY_TIGHT_LOOP v1.1
 check_grep "SP\.17 .*SIR"        PROTOCOLS_REFERENCE.md "SP.17 SIR (System Improvement Reflection) — NEW 2026-05-21"
 check_grep "SP\.17 SIR|SIR — System Improvement Reflection" MANDATORY_TIGHT_LOOP.md "SP.17 SIR mandatory in MANDATORY_TIGHT_LOOP"
-# F.21 fix 2026-05-21 — SP.18 added as mandatory in MANDATORY_TIGHT_LOOP v1.2
-check_grep "SP\.18 .*SSC"        PROTOCOLS_REFERENCE.md "SP.18 SSC (Sync Status Confirmation) — NEW 2026-05-21"
-check_grep "SP\.18 SSC|SSC.*Sync Status" MANDATORY_TIGHT_LOOP.md "SP.18 SSC mandatory in MANDATORY_TIGHT_LOOP"
-check_executable "scripts/sync_status.sh" "sync_status.sh (F.21 NEW — backing script for SP.18 SSC)"
-check_file "cache/SIR_LOG.md" "SIR_LOG.md (F.20 follow-up — append-only insight log)"
 [[ $QUIET -eq 0 ]] && echo ""
 
 # === 5. ENSURANCE SYSTEM (4) ===

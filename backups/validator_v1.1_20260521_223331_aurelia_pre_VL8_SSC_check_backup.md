@@ -36,7 +36,6 @@ You judge **substance against the 6 mandatory SubSOPs** from `MANDATORY_TIGHT_LO
 | VL.5 | **Output skeleton intact** — every mandatory section actually contains content (not just headers) | EN.1 Output Skeleton | "📊 SHR" section header is there but the section is empty |
 | VL.6 | **Pulse Check scores honestly reflect content** — no rubber-stamp "5/5 / 6/6 ✅" when an item actually failed | EN.4 Pulse Check | All marked ✅ but the output has fabricated times under P1 |
 | VL.7 | **SIR (System Improvement Reflection) present** — at least 1 system-improvement insight surfaced with category + actionable detail | SP.17 SIR ⭐ NEW 2026-05-21 | Output ships without a "💡 SIR" section, or SIR is present but vague (no category / no actionable detail / no effort label) |
-| VL.8 | **SSC (Sync Status Confirmation) present** — Sync Status block at end with explicit per-channel state | SP.18 SSC ⭐ NEW 2026-05-21 | Output that modified files ships without a "📡 Sync Status" block, or SSC is present but missing channels (no Obsidian state / no cross-device propagation / no commit SHA) |
 
 ---
 

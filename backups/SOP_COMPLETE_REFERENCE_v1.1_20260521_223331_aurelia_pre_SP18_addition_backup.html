@@ -744,32 +744,6 @@
           <p><strong>Mandatory:</strong> minimum 1 insight per OUTPUT-STANDARD; at least 1 of every 5 outputs is effort=L.</p>
           <p><strong>Failure mode if skipped:</strong> The SOP stops evolving via in-session observation. All improvements come from explicit Alan-prompted rebuilds. F.20 entry documents this exact gap.</p>
           <p><strong>Validator check:</strong> VL.7. <strong>Pulse Check item:</strong> P6.</p>
-          <p><strong>Append-only log:</strong> <code>cache/SIR_LOG.md</code> ⭐ NEW 2026-05-21 — every SIR insight logged with date/device/commit/category/effort/status/recurrence for cross-output pattern detection.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip amber star">SYNC CONFIRMATION — MANDATORY (NEW 2026-05-21, F.21 fix)</span> <strong>SP.18 SSC</strong> (Sync Status Confirmation)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Every file-modifying output ends with explicit confirmation/records of GitHub + Obsidian + cross-device sync state. Per-channel table answering: did the commit happen? did the push land? is the working tree clean? is Obsidian state OK? do other devices need to pull?</p>
-          <p><strong>Per Alan (2026-05-21):</strong> <em>"incorporate into the global SOP that at the end it lets us know if the changes were updated/uploaded to the github & obsidian or not. need confirmation or records for every output end."</em></p>
-          <p><strong>Channels reported:</strong></p>
-          <ul>
-            <li>Git branch</li>
-            <li>Last commit (SHA + subject)</li>
-            <li>Git push to origin/main (status + timestamp)</li>
-            <li>Distance local ↔ origin (0/0 = in sync)</li>
-            <li>Obsidian vault (present + no conflict files)</li>
-            <li>Cross-device propagation (mac-main + others — pending pull / in sync / diverged)</li>
-            <li>Backups created (count this output)</li>
-            <li>BACKUP_LOG total rows</li>
-            <li>SIR_LOG total rows</li>
-            <li>Device + timestamp (audit trail)</li>
-          </ul>
-          <p><strong>Status codes:</strong> ✅ confirmed · ❌ failed (with reason) · ⚪ N/A · ⚠️ partial · ⏳ pending</p>
-          <p><strong>Position:</strong> AFTER Pulse Check, as the FINAL block of every file-modifying output.</p>
-          <p><strong>Backing script:</strong> <code>scripts/sync_status.sh</code> ⭐ NEW 2026-05-21. Reads git state + Obsidian dir + cache row counts + device identity. AI invokes + surfaces output verbatim.</p>
-          <p><strong>Failure mode if skipped:</strong> Sync state opaque. User has to ask "is it on GitHub?" repeatedly. Silent push failures hide. Multi-device drift undetected. F.21 entry documents this exact gap.</p>
-          <p><strong>Validator check:</strong> VL.8. <strong>Pulse Check item:</strong> P7.</p>
         </div>
       </details>
     </div>

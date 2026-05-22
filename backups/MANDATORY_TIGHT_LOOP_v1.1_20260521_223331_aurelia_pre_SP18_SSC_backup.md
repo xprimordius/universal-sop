@@ -33,9 +33,9 @@ If the output is QUICK-tier (single fact / lookup), the STEP line + answer + LTM
 
 ---
 
-## 📋 RULE 2 — THE 8 MANDATORY SUBSOPS (Tight Loop — v1.2)
+## 📋 RULE 2 — THE 7 MANDATORY SUBSOPS (Tight Loop — v1.1)
 
-These eight form a self-reinforcing execution loop. Each runs in every OUTPUT-STANDARD or OUTPUT-COMPLEX output. The other 10 SubSOPs are reference-only.
+These seven form a self-reinforcing execution loop. Each runs in every OUTPUT-STANDARD or OUTPUT-COMPLEX output. The other 10 SubSOPs are reference-only.
 
 | 🆔 | Protocol | Full Name | What It Forces |
 |:--:|----------|-----------|----------------|
@@ -43,10 +43,9 @@ These eight form a self-reinforcing execution loop. Each runs in every OUTPUT-ST
 | 2 | **SP.6 IAC** | Intent Alignment Check (Understanding Check) | Restate user's ask as a table before executing. Catch misinterpretation early. |
 | 3 | **SP.12 HFR** | Honest Failure Report | When something fails (visible to user or self-detected), produce root cause + permanent fix in same output. No "I'll fix it next time." |
 | 4 | **SP.15 EEP** | Execution Enforcement Protocol | Execute, don't acknowledge. No future tense. Show proof of action in the message that promises it. |
-| 5 | **EN.1** | Output Skeleton (Structural Anti-Decay) | The mandatory sections (STEP / Understanding Check / body / SIR / Pulse Check / Sync Status) are visible in every output. Skeleton is checked, not implicit. |
-| 6 | **EN.4** | Pulse Check (Reduced — 7 items v1.2, see Rule 3) | Pre-send mechanical sweep. Visible. Scored. |
-| 7 | **SP.17 SIR** ⭐ NEW 2026-05-21 | System Improvement Reflection | Every output ends with 1-3 SYSTEM-level improvement insights surfaced DURING the output. Categorized + actionable. |
-| 8 | **SP.18 SSC** ⭐ NEW 2026-05-21 | Sync Status Confirmation | Every output that modifies files ends with explicit confirmation/records: did commit happen? did push land? Obsidian sync state? cross-device propagation status? Closes Alan's "need confirmation or records for every output end" gap (F.21). |
+| 5 | **EN.1** | Output Skeleton (Structural Anti-Decay) | The mandatory sections (STEP / Understanding Check / body / SIR / Pulse Check) are visible in every output. Skeleton is checked, not implicit. |
+| 6 | **EN.4** | Pulse Check (Reduced — 6 items v1.1, see Rule 3) | Pre-send mechanical sweep. Visible. Scored. |
+| 7 | **SP.17 SIR** ⭐ NEW 2026-05-21 | System Improvement Reflection | Every output ends with 1-3 SYSTEM-level improvement insights surfaced DURING the output. Categorized (🛠️ structural / 📋 convention / 🪙 token / 🔧 tooling / 🔄 process / 📊 measurement). This makes "the SOP gets better with every output" structural, not optional. |
 
 **Reference-only (no longer mandatory every output):** SP.1 MagNet, SP.2 Door Scan, SP.3 TTE, SP.4 SCP, SP.7 Insights, SP.8 Protocol Visibility, SP.9 FE Foresight (content-foresight, NOT system-improvement — that's SP.17), SP.10 SCC, SP.11 QAC, SP.13 SHR, SP.14 RPT, SP.16 PCG, EN.2 Priority 10, EN.3 Checkpoint Cycle.
 
@@ -54,9 +53,9 @@ These remain documented in `PROTOCOLS_REFERENCE.md` and stay available — invok
 
 ---
 
-## 📋 RULE 3 — THE 7-ITEM PULSE CHECK (v1.2 — Adds P7 SSC)
+## 📋 RULE 3 — THE 6-ITEM PULSE CHECK (v1.1 — Adds P6 SIR)
 
-Visible near the bottom of every OUTPUT-STANDARD / OUTPUT-COMPLEX output (before Sync Status). Score X/7.
+Visible at the bottom of every OUTPUT-STANDARD / OUTPUT-COMPLEX output. Score X/6.
 
 | # | Item | What it catches |
 |:-:|------|-----------------|
@@ -65,26 +64,24 @@ Visible near the bottom of every OUTPUT-STANDARD / OUTPUT-COMPLEX output (before
 | P3 | **Headline-first / lead with answer** | Burying the answer in preamble. Alan's #1 stated preference. |
 | P4 | **Inference vs fact marked** | Stating estimates / opinions as fact without "~", "approx", "inferred", "verified by X". |
 | P5 | **Promise = deliver in same message** | "I'll do X" without showing X done. The acknowledge-not-execute pattern (SP.15 EEP). |
-| P6 | **SIR surfaced (SP.17 — v1.1)** | At least 1 system-improvement insight surfaced this output, categorized + actionable. |
-| P7 | **SSC surfaced (SP.18 — NEW v1.2)** | Sync Status block present at end of output with explicit per-channel status (commit / push / Obsidian / cross-device). The "did it land?" gap closed. |
+| P6 | **SIR surfaced (SP.17 — NEW v1.1)** | At least 1 system-improvement insight surfaced this output, categorized + actionable. The SOP gets better with every output. |
 
 **Format:**
 
 ```
-✅ Pulse Check (Reduced — 7 items v1.2)
+✅ Pulse Check (Reduced — 6 items v1.1)
 P1 Honest numbers     ✅/❌
 P2 Tables             ✅/❌
 P3 Headline first     ✅/❌
 P4 Inference marked   ✅/❌
 P5 Promise = deliver  ✅/❌
 P6 SIR surfaced (SP.17) ✅/❌
-P7 SSC surfaced (SP.18) ✅/❌
-Score: X/7
+Score: X/6
 ```
 
-**Pass criterion:** 7/7 for ship. 6/7 with brief acknowledgment is acceptable. ≤ 5/7 → fix before sending.
+**Pass criterion:** 6/6 for ship. 5/6 with a brief note acknowledging the gap is acceptable. ≤ 4/6 → fix before sending.
 
-**Migration note:** Outputs created before 2026-05-21 evening Pulse Check v1.2 may show 5/5 (v1.0) or 6/6 (v1.1) scoring. All three are valid full-score patterns; compliance_check.sh accepts each during migration.
+**Migration note:** Outputs created before 2026-05-21 evening Pulse Check v1.1 may have 5/5 scoring. Both 5/5 and 6/6 are valid full-score patterns; compliance_check.sh accepts both during the migration period.
 
 ---
 
@@ -125,27 +122,14 @@ LTM: ~XK / [WINDOW] | Status: 🌱 GREEN
 |:-:|------------|-----------|----------|
 | 1 | 🛠️ structural / 📋 convention / 🪙 token / 🔧 tooling / 🔄 process / 📊 measurement | <one-line insight surfaced during this output> | <S/M/L estimate> |
 
-✅ Pulse Check (Reduced — 7 items v1.2)
+✅ Pulse Check (Reduced — 6 items v1.1)
 P1 Honest numbers     ✅
 P2 Tables             ✅
 P3 Headline first     ✅
 P4 Inference marked   ✅
 P5 Promise = deliver  ✅
 P6 SIR surfaced       ✅
-P7 SSC surfaced       ✅
-Score: 7/7
-
-📡 Sync Status (SP.18 SSC)
-| 🎯 Channel | Status | 📝 Detail |
-|------------|:------:|-----------|
-| Git commit | ✅ | <SHA> |
-| Git push to origin/main | ✅ | <timestamp> |
-| Distance local ↔ origin | ✅ 0/0 | in sync |
-| Obsidian vault | ✅ | no conflict files |
-| Mac (mac-main) sync | ⏳ pending pull | will receive on next git pull |
-| Backups in `backups/` | ✅ N files | <count> |
-| BACKUP_LOG rows | ✅ #X-#Y | <range appended> |
-| SIR_LOG rows | ✅ N | <count> |
+Score: 6/6
 ```
 
 **That's the entire mandatory loop.** Six lines of header + Understanding Check + body + LTM + 5-item Pulse Check. Survivable in a real session.
