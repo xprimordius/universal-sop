@@ -168,22 +168,6 @@ Every entry uses this format:
 </details>
 
 <details>
-<summary><b>F.27 — Understanding Check Compressed 15-Clause Spec Into 11-Word Interpretation [HFR FIX — UC fidelity failure, NEW 2026-05-22] — ✅ FIXED 2026-05-22</b></summary>
-
-- **Type:** HFR — caught + fixed same session (same chat-turn as F.25 + F.26)
-- **First Observed:** Alan 2026-05-22 after F.26 ship: *"your understanding check for the model and effort needs to be as precise as my explanation. i can see why this is causing problems."*
-- **What Failed:** When Alan specified SP.21 MES in ~100 words containing 15 discrete normative clauses (placement, structural requirement, recommendation direction, optimization target, 3 preserved constraints, conservative-bias asymmetric-cost rationale, 2 stacked recommendation surfaces, real-world-benefit-in-text mandate, dual Sonnet gate with legal+philosophical standards, mid-adjustment allowance, stable-start ideal, retrospective requirement, universal applicability), my SP.6 IAC Understanding Check compressed this into **11 words**: *"New SubSOP SP.21 MES (Model Effort Selector) — mandatory in tight loop."* This lost: C.5 (fidelity + efficiency, not just quality), C.6 (asymmetric-cost rationale), C.9 (in-text explanation), C.11 (dual Sonnet legal+philosophical gate), C.15 (universal-not-tier-gated). Resulting SP.21 MES v1.0 ship encoded only ~⅓ of Alan's actual spec.
-- **Root Cause:** UC compression bias — treating UC as a summary checkpoint instead of a fidelity-preservation checkpoint. SP.6 IAC's original spec said "restate as a table" but did NOT specify sub-clause granularity. Compression was structurally permitted.
-- **Permanent Fix (SHIPPED):**
-  1. **SP.6 IAC strengthened** in MANDATORY_TIGHT_LOOP Rule 2 entry: now requires sub-clause granularity, verbatim quotes for non-trivial clauses, explicit per-clause interpretation, ambiguity flagging, completeness confirmation. "Compression that loses nuance is a FAIL."
-  2. **SP.21 MES re-specified** in same file: full 15-clause spec preserved verbatim in the protocol entry. No more compression-as-summary.
-  3. **This F.27 entry** documents the meta-pattern: confidence in summarization without verifying fidelity. Same class as F.23 (edit-without-read) and F.26 (invented terminology) — all "confidence without verification" pattern.
-- **Cluster:** F.23 + F.26 + F.27 form a clear "confidence-without-verification" class. Worth surfacing for REFINE Step E (Extract) next weekly cycle — recurring pattern across 3 entries in <24 hours suggests need for structural fix (proposed: `scripts/verify_before_assert.sh` per prior SIR insight).
-- **Verified:** This very output's UC table contains 15 numbered clauses with verbatim quotes + per-clause interpretation + ambiguity flags + completeness check. Dog-fooded.
-- **Lesson:** Doctoral-precision UC is hard but tractable when the user's spec has clear normative clauses. When you find yourself writing "and mandatory in tight loop" as the entire interpretation of 100+ word spec — STOP. That's the compression smell.
-</details>
-
-<details>
 <summary><b>F.26 — SP.21 MES Tier Names Were Invented (HIGH/MEDIUM/LOW/FAST) — Real Settings Are Different [HFR FIX, NEW 2026-05-22] — ✅ FIXED 2026-05-22</b></summary>
 
 - **Type:** HFR (Honest Failure Report) — caught + fixed same session

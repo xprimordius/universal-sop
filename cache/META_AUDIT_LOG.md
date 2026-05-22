@@ -124,3 +124,7 @@ This file is listed in:
 | 2026-05-22 | aurelia | Validator | 7 pass / 3 warnings | 6a960c7 |
 | 2026-05-22 | aurelia | QC | 9 pass / 2 warnings | 6a960c7 |
 | 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 6a960c7 |
+| 2026-05-22 | aurelia | Verifier | 7 pass / 1 warnings | 9b1bd3a |
+| 2026-05-22 | aurelia | Validator | 8 pass / 2 warnings | 9b1bd3a |
+| 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 9b1bd3a |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 9b1bd3a |
