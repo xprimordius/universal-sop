@@ -168,24 +168,6 @@ Every entry uses this format:
 </details>
 
 <details>
-<summary><b>F.26 — SP.21 MES Tier Names Were Invented (HIGH/MEDIUM/LOW/FAST) — Real Settings Are Different [HFR FIX, NEW 2026-05-22] — ✅ FIXED 2026-05-22</b></summary>
-
-- **Type:** HFR (Honest Failure Report) — caught + fixed same session
-- **First Observed:** Immediately after F.25 ship (same chat turn). Alan: "just so you know, the settings are opus 4.7 max, very high, medium, low. opus 4.7 1M, opus 4.7. opus 4.6 legacy. sonnet 4.6."
-- **What Failed:** I shipped SP.21 MES with invented effort tier names (HIGH / MEDIUM / LOW / FAST) and an invented Sonnet version (Sonnet 4.5). The real Claude Code settings are:
-  - **Effort tiers (4):** `max`, `very high`, `medium`, `low`
-  - **Model variants (4):** `Opus 4.7`, `Opus 4.7 1M`, `Opus 4.6 legacy`, `Sonnet 4.6`
-- **Root Cause:** Same F.19 class — I confidently invented tier names that *sounded* like Claude Code conventions without verifying. Pattern: confidence around terminology when the terminology isn't actually known. Should have asked.
-- **Permanent Fix (SHIPPED):**
-  1. MANDATORY_TIGHT_LOOP.md SP.21 entry rewritten — real tier names, two orthogonal axes (model variant + effort tier)
-  2. This F.26 entry documents the correction above F.25
-  3. Sonnet version corrected: Sonnet 4.6 (was incorrectly "Sonnet 4.5")
-  4. Acknowledgment that **Opus 4.7 1M** is an orthogonal axis (context window) not an effort tier — important architectural distinction
-- **Lesson:** When inventing names for things that have official names, ASK. Conservative bias on terminology too, not just on effort.
-- **Verified:** This very output dog-foods the corrected naming — opens with `🎯 MODEL: Opus 4.7 1M · very high` using real setting names.
-</details>
-
-<details>
 <summary><b>F.25 — Model Effort Selector Absent At Output Start [STRUCTURAL ADDITION, NEW 2026-05-22] — ✅ FIXED 2026-05-22</b></summary>
 
 - **Type:** STRUCTURAL ADDITION (new mandatory SubSOP per Alan)
