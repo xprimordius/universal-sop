@@ -1,6 +1,5 @@
 # 🔗 CONTINUATION POINTER — Resume A New Chat With Full Context
-# VERSION: 2.1 | 2026-05-22 | aurelia | Token-cutover handoff at ~795K / 1M
-# v2.1: Added explicit GitHub clone/pull as STEP 0 (was missing in v2.0 — new chat would read stale state)
+# VERSION: 2.0 | 2026-05-22 | aurelia | Token-cutover handoff at ~790K / 1M
 # READ THIS FIRST when starting a new chat to continue the Universal SOP work.
 
 ---
@@ -10,32 +9,16 @@
 ```
 I'm continuing the Universal SOP project on this device. Please:
 
-STEP 0 — GitHub sync (do this FIRST, before any other step):
-  - If the repo is NOT yet cloned on this device:
-        gh repo clone xprimordius/universal-sop $HOME/universal-sop
-        cd $HOME/universal-sop
-        git config --local core.hooksPath .githooks
-        bash scripts/setup_device.sh <DEVICE_NAME>     # e.g. aurelia, mac-main, strix-2
-        # then add the device row to DEVICE_REGISTRY.md
-  - If the repo IS already cloned:
-        cd $HOME/universal-sop  (or your local clone path)
-        git fetch origin
-        git pull origin main      # MUST do this — last commit was 2026-05-22 on aurelia
-        git status --short        # confirm 0 0 distance from origin/main
-
-STEP 1 — Verify environment:
-  1. Run `bash scripts/bootstrap_verify.sh` — confirm 85+ pass / 0 fail / 0 warn
-  2. Run `bash scripts/e2e_verify.sh` — confirm current E2E pass count (currently 7/8 — known: compliance_check.sh)
-  3. Run `bash scripts/sop_health_dashboard.sh` and report scorecard
-
-STEP 2 — Read context files in this order:
-  4. Read `CONTINUATION_POINTER.md` (this file) end-to-end
-  5. Read `cache/SESSION_STATE.md` for current position
-  6. Read `cache/CONTINUATION.md` for latest narrative handoff
-  7. Read `MANDATORY_TIGHT_LOOP.md` — operational ruleset (v1.5.1 doctoral UC + trivial-spec carve-out + SP.21 MES + 9-item Pulse Check)
-  8. Read `cache/FAILURE_LEDGER.md` last entries — F.22–F.28 are recent
-  9. Read `cache/SIR_LOG.md` last 10 rows for in-flight improvement insights
-  10. Read `QUINTESSENCE_ROADMAP.md` — 32 deferred findings + acceptance criteria
+1. Run `bash scripts/bootstrap_verify.sh` — confirm 85+ pass / 0 fail / 0 warn
+2. Run `bash scripts/e2e_verify.sh` — confirm current E2E pass count
+3. Read `CONTINUATION_POINTER.md` (this file) end-to-end
+4. Read `cache/SESSION_STATE.md` for current position
+5. Read `cache/CONTINUATION.md` for latest narrative handoff
+6. Read `MANDATORY_TIGHT_LOOP.md` — operational ruleset (v1.5.1 doctoral UC + trivial-spec carve-out + SP.21 MES + 9-item Pulse Check)
+7. Read `cache/FAILURE_LEDGER.md` last entries — F.22–F.28 are recent
+8. Read `cache/SIR_LOG.md` last 10 rows for in-flight improvement insights
+9. Read `QUINTESSENCE_ROADMAP.md` — 32 deferred findings + acceptance criteria
+10. Run `bash scripts/sop_health_dashboard.sh` and report scorecard
 
 Then surface a STEP 2 confirmation in the 9-line format from SESSION_START.md
 with the current quintessence score, what's done, what's next.
