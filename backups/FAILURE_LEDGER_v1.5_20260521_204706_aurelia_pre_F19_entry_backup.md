@@ -168,32 +168,6 @@ Every entry uses this format:
 </details>
 
 <details>
-<summary><b>F.19 — SOP Output-Level Compliance Decays Despite Infrastructure [META-FAILURE, all 18 prior entries + 14 sub-agent tests + aurelia Day-1 session confirm] — ✅ Tier 1 FIXED 2026-05-21 / Tier 2 + Tier 3 STAGED</b></summary>
-
-- **Type:** FAILURE — meta-pattern that explains why F.1–F.18 keep recurring in new forms
-- **First Observed:** Across all sub-agent tests (8.5/10 in-session friction ceiling per `EFFICIENCY_GUIDE.md`) and re-confirmed during aurelia Day-1 setup session 2026-05-21 (~30 turns, audited)
-- **Times:** Effectively every output without mechanical enforcement
-- **What Failed:** Output-level SOP rules (STEP header, MACRO/MICRO, LTM, Pulse Check P1–P17, Step Tracking Table, Understanding Check, agent invocation) achieve ~0% compliance in real operational sessions, despite extensive documentation (940-line SOP), 4 agents, 7 scripts, 2 git hooks (pre-commit + pre-push), and 18 prior failure entries each with permanent-fix claims. **File-level rules** (backups, device IDs, append-only, commits, no-deletion) achieve ~85% compliance because they became mechanical (hooks + scripts). The 8.5/10 sub-agent ceiling is precisely this discipline/architecture gap.
-- **Evidence (aurelia session, 2026-05-21, honestly audited):**
-  - 8 output-convention rules → **~0%** compliance until user explicitly demanded a SOP-compliant output
-  - 7 file-mechanic rules → **~85%** compliance (first miss, then enforced by hooks)
-  - 3 session-start rules → **~5%** compliance (verifier run mid-session not at bootstrap; STEP 1 reads on-demand; STEP 2 9-line confirm never emitted)
-  - 4 agent-activation rules → **0%** compliance
-- **Root Cause (depth, three reinforcing mechanisms):**
-  1. **Same-brain-audits-itself.** Karen/Validator-Merged/Controller/Paradox Resolver are Claude in different prompts. The audit runs the same biases as the original output. Anti-rubber-stamp text doesn't change the underlying judge. This is structural, not a bug in the agent definitions.
-  2. **No pre-send gate.** LLM token output is autoregressive. By the time Claude generates "Pulse Check: 17/17 ✅", the entire prior output is already shipped. The check evaluates a fait accompli — it can describe, not prevent.
-  3. **Convention loses to immediate task.** Each individual skip is locally rational ("just commit the typo, don't STEP-header it"). Aggregated across 30+ turns, conventions erode predictably. This is the F.9 decay pattern — and Ensurance was supposed to fix it but Ensurance is itself convention.
-- **Permanent Fix — 3 Tiers (architectural conversion of discipline):**
-  1. **Tier 1 — Scope Reduction (✅ SHIPPED this commit):** Cut output-level mandatory rules to what real sessions can carry. Pulse Check 17→5 items, mandatory SubSOPs 16→6, STEP header 8 fields→3 lines. Spec: `MANDATORY_TIGHT_LOOP.md`. Full SOP preserved as reference in `UNIVERSAL_SOP_PROMPT.md`. Reversible if data shows cuts were wrong.
-  2. **Tier 2 — Mode Declaration (STAGED):** First line of every Claude response declares `MODE: CONVERSATION` / `MODE: OUTPUT-QUICK` / `MODE: OUTPUT-STANDARD` / `MODE: OUTPUT-COMPLEX`. SOP overhead applies only to OUTPUT modes. Most session turns are conversational and shouldn't pay SOP cost. Enforced via a `Stop` hook in `.claude/settings.json` that flags missing MODE prefix.
-  3. **Tier 3 — Outputs Are Files, Not Chat Replies (STAGED, architectural):** Deliverables save to `outputs/<YYYY-MM-DD>_<topic>_<device>.md`, go through the existing `pre-commit` hook (which already runs `compliance_check.sh`), and cannot reach the user until compliance passes. **Convention becomes architecture.** Collapses the discipline/architecture gap by eliminating the discipline side.
-- **Fixed:** Tier 1 — 2026-05-21 (this commit). Tier 2 + Tier 3 staged awaiting separate decision.
-- **Verified:** `MANDATORY_TIGHT_LOOP.md` and `SELF_COMPLIANCE_FIX.md` exist in this commit. `bootstrap_verify.sh` passes 70/0/0 on aurelia. Tier 1 reversibility preserved via no-delete rule + this entry documenting the rationale.
-- **Tier 1 follow-up (small script update):** `scripts/compliance_check.sh` currently only accepts 10/10, 11/11, 12/12, 15/15, 16/16, 17/17 as valid Pulse Check scores. Add 5/5 as a valid score per `MANDATORY_TIGHT_LOOP.md`. Separate commit.
-- **Lesson:** Every prior fix that was a convention got re-violated. Every prior fix that was mechanical held. F.1–F.18 are surface symptoms of this meta-pattern. Future fixes should be architecturally mechanical wherever feasible, and scope-reduced wherever not.
-</details>
-
-<details>
 <summary><b>F.18 — Multi-Device Live Push/Pull Not Optimized [FAILURE × 1, structural gap] — ✅ FIXED 2026-05-21</b></summary>
 
 - **Type:** FAILURE (multi-device coordination gap)
