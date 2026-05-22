@@ -56,24 +56,18 @@ Every check below is verified at session start. Sections 1–11 + 13 are **mecha
 
 ---
 
-### 🤖 Section 2 — Active Agents (5 checks — F.19 rebuild 2026-05-21)
+### 🤖 Section 2 — Active Agents (4 checks)
 
-| ✅ | Agent | Layer | Role | File |
-|:--:|-------|-------|------|------|
-| [ ] | **Controller** | Orchestrator | Orchestration + cache manager (F4 fusion of Oversight + Cache Manager) | `agents/controller.md` |
-| [ ] | **Verifier** | Layer 1 — mechanical | Presence check: STEP header, MACRO/MICRO, LTM, Pulse Check P1-P5 | `agents/verifier.md` + `scripts/verifier.sh` |
-| [ ] | **Validator** | Layer 2 — substantive | 6 mandatory SubSOPs: SP.5 FSP / SP.6 IAC / SP.12 HFR / SP.15 EEP / EN.1 / EN.4 | `agents/validator.md` + `scripts/validator.sh` |
-| [ ] | **QC** | Layer 3 — quality control | Output-vs-ask reality + anti-rubber-stamp Verifier+Validator + F.16 script enforcement (Karen successor) | `agents/qc.md` + `scripts/qc.sh` |
-| [ ] | **Meta-Verifier** | Layer 4 — chain audit | Audits the chain itself — closes "who verifies the verifier" gap | `agents/meta_verifier.md` + `scripts/meta_verify.sh` |
+| ✅ | Agent | Role | File |
+|:--:|-------|------|------|
+| [ ] | **Controller** | Orchestration + cache manager (F4 fusion of Oversight + Cache Manager) | `agents/controller.md` |
+| [ ] | **Validator-Merged** | Layer 1 — POVP + completeness + simplicity + cross-ref | `agents/validator-merged.md` |
+| [ ] | **Karen** | Layer 2 reality check + script enforcement verification (F.16) | `agents/karen-reality-check.md` |
+| [ ] | **Paradox Resolver** | On-demand — SCIO/APW tension resolution | `agents/paradox-resolver.md` |
 
-**Why:** Per F.19 (2026-05-21 META-FAILURE), the prior 4-agent layer was APW-era (validating D-rules + APW caches, not Universal SOP). Rebuild reorganizes around the 4 mandatory-tight-loop SubSOPs + closes meta-verification gap. Each agent has both a markdown role file AND a backing script (Tier 3 architecture).
+**Why:** Active agent count = 4 (was 7 in March, fused down via F4 + F5). If a file is missing, the workflow that references it breaks.
 
-**Archived (do NOT use — superseded by F.19 rebuild):**
-- `agents/archive/validator-merged.md` (APW POVP + D-rule checker — succeeded by Verifier + Validator)
-- `agents/archive/karen-reality-check.md` (APW reality check + F.16 — DNA preserved in QC)
-- `agents/archive/paradox-resolver.md` (APW SCIO/APW tension — no current work; may repurpose later)
-- `agents/archive/jenny-sop-verifier.md`, `oversight-executive.md`, `cache-manager.md` (pre-F4/F5 archives)
-- See `agents/archive/APW_AGENTS_ARCHIVE_REASON.md` for full timeline
+**Archived (do NOT use):** `agents/archive/jenny-sop-verifier.md`, `oversight-executive.md`, `cache-manager.md`
 
 ---
 

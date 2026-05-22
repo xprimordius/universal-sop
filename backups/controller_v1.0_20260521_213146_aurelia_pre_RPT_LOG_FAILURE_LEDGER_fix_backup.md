@@ -104,7 +104,7 @@ Before any framework deliverable can begin:
 |---------|------------------|
 | SESSION_STATE.md "Current Position" matches CONTINUATION.md "Latest Session Summary" | Same date, same focus |
 | BACKUP_LOG.md entries match actual files in `cache/backups/` | No orphaned references |
-| FAILURE_LEDGER.md (formerly RPT_LOG, F8 fusion) entries reference real SP.X protocols | All RPT entries point to valid SubSOPs |
+| RPT_LOG.md entries reference real SP.X protocols | All RPT entries point to valid SubSOPs |
 | Version numbers consistent across SESSION_START / SESSION_STATE / CLAUDE.md | No drift |
 
 ### Staleness Detection
@@ -232,7 +232,7 @@ NEXT STEP: [from CONTINUATION.md NEXT ACTION line]
 - **SP.8 Protocol Visibility** — Controller names every agent it invokes
 - **SP.10 SCC (Self-Compliance Check)** — Controller verifies SCC ran before delivery
 - **SP.13 SHR (System Health Report)** — Controller writes this at end of orchestration
-- **SP.14 RPT (Repeated Prompt Tracker)** — Controller logs repeats to cache/FAILURE_LEDGER.md (formerly RPT_LOG, F8 fusion)
+- **SP.14 RPT (Repeated Prompt Tracker)** — Controller logs repeats to cache/RPT_LOG.md
 - **EN.4 Pulse Check** — Controller verifies Pulse Check ran before delivery
 
 ---

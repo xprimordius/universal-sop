@@ -146,18 +146,12 @@ fi
 
 [[ $QUIET -eq 0 ]] && echo ""
 
-# === 2. ACTIVE AGENTS (5 — F.19 agent-chain rebuild 2026-05-21) ===
-[[ $QUIET -eq 0 ]] && echo "🤖 ACTIVE AGENTS (5 — Controller + 4-layer chain, F.19 rebuild)"
-check_file "agents/controller.md"     "Controller — orchestration + cache manager (F4 fusion)"
-check_file "agents/verifier.md"       "Verifier — Layer 1 mechanical presence check (F.19 NEW)"
-check_file "agents/validator.md"      "Validator — Layer 2 substantive check (F.19 NEW)"
-check_file "agents/qc.md"             "QC — Layer 3 quality control + anti-rubber-stamp (F.19 NEW, Karen successor)"
-check_file "agents/meta_verifier.md"  "Meta-Verifier — Layer 4 audits the audit chain (F.19 NEW)"
-[[ $QUIET -eq 0 ]] && echo ""
-[[ $QUIET -eq 0 ]] && echo "📦 ARCHIVED APW-ERA AGENTS (preserved in agents/archive/)"
-check_file "agents/archive/validator-merged.md"    "(archived 2026-05-21) Validator-Merged — APW POVP/D-rules predecessor"
-check_file "agents/archive/karen-reality-check.md" "(archived 2026-05-21) Karen — APW reality check; DNA preserved in QC"
-check_file "agents/archive/paradox-resolver.md"    "(archived 2026-05-21) Paradox Resolver — APW SCIO tension (no current work)"
+# === 2. ACTIVE AGENTS (4) ===
+[[ $QUIET -eq 0 ]] && echo "🤖 ACTIVE AGENTS (4 — post-F4+F5 fusion)"
+check_file "agents/controller.md"          "Controller — orchestration + cache manager (F4 fusion)"
+check_file "agents/validator-merged.md"    "Validator-Merged — Layer 1 (POVP + completeness + simplicity + cross-ref)"
+check_file "agents/karen-reality-check.md" "Karen — Layer 2 reality check + script enforcement (F.16)"
+check_file "agents/paradox-resolver.md"    "Paradox Resolver — SCIO/APW tension (on-demand)"
 [[ $QUIET -eq 0 ]] && echo ""
 
 # === 3. SOP ARCHITECTURE ===
@@ -221,14 +215,8 @@ check_executable "scripts/consistency_check.sh"    "consistency_check.sh (versio
 check_executable "scripts/setup_device.sh"         "setup_device.sh (one-command device registration, F.15)"
 check_executable "scripts/append_only_check.sh"    "append_only_check.sh (history file protection, F.15)"
 check_executable "scripts/check_device_activity.sh" "check_device_activity.sh (multi-device audit, F.15)"
-check_executable "scripts/safe_push.sh"            "safe_push.sh (atomic fetch+rebase+push, F.18)"
 check_executable "chat_archive/archive_chat.sh"    "archive_chat.sh (session JSONL snapshot)"
 check_executable "scripts/bootstrap_verify.sh"     "bootstrap_verify.sh (THIS script — F.17)"
-# F.19 agent-chain backing scripts (new 2026-05-21):
-check_executable "scripts/verifier.sh"             "verifier.sh (Layer 1 mechanical, F.19 Tier 3 rebuild)"
-check_executable "scripts/validator.sh"            "validator.sh (Layer 2 substantive, F.19 Tier 3 rebuild)"
-check_executable "scripts/qc.sh"                   "qc.sh (Layer 3 QC + anti-rubber-stamp, F.19 Tier 3 rebuild)"
-check_executable "scripts/meta_verify.sh"          "meta_verify.sh (Layer 4 chain audit, F.19 NEW — closes who-verifies-the-verifier gap)"
 [[ $QUIET -eq 0 ]] && echo ""
 
 # === 8. GIT HOOKS ===

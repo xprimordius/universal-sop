@@ -1,162 +1,194 @@
-# APW VALIDATION WORKFLOW v3.0
-## Consolidated: Inline Checklists + Karen Spot-Check + Resolver On-Demand
-## **F4 FUSION APPLIED (2026-05-21):** Controller (Oversight + Cache Manager) is now ONE agent
-**Last Updated:** 2026-05-21
+# 🛡️ VALIDATION WORKFLOW v4.0 — Universal SOP Agent Chain
+# VERSION: 4.0 | 2026-05-21 | aurelia | F.19 agent-chain rebuild (replaces v3.0 APW-era workflow)
+# Prior version (v3.0 APW) preserved in `backups/VALIDATION_WORKFLOW_v3.0_20260521_213146_aurelia_pre_universal_sop_rewrite_backup.md`
 
 ---
 
-## ARCHITECTURE (Simplified)
+## 🎯 PURPOSE
+
+Defines **when** to invoke each of the 5 active agents, **in what order**, and **how their outputs combine** to gate an output before it ships to the user.
+
+This is the operating workflow for the Universal Output SOP v1.3. The v3.0 APW workflow (D-rules, module lists, classroom maps) is preserved in `backups/` for APW resume.
+
+---
+
+## 🏗️ ARCHITECTURE (5 Active Agents)
 
 ```
-Builder creates output
+Builder (Claude session) creates an output
         ↓
-   INLINE CHECKS (Every Output)
-   │  POVP (D19): word-by-word spec check
-   │  PFV (D21): process flow check
-   │  D20: real-time checklist display
-   │  D7: 5th grader simplicity filter
-   │  D27: token status line
+┌───────────────────────────────────────────────────────────┐
+│  CONTROLLER                                              │
+│  - Decides which agents run (tier + mode-dependent)      │
+│  - Verifies cache integrity at session start             │
+│  - Maintains BACKUP_LOG + SESSION_STATE                  │
+└───────────────────────────────────────────────────────────┘
         ↓
-   Output passes inline checks?
-        │
-   ┌────┴────┐
-   │ NO      │ YES
-   │         │
-   Fix &     Is this a MAJOR
-   re-check  framework deliverable?
-             │
-        ┌────┴────┐
-        │ NO      │ YES
-        │         │
-     DELIVER   KAREN (Layer 2)
-     TO ALAN   │  Did inline checks actually verify?
-               │  Does output match Alan's decisions?
-               │  Is this actually complete?
-               │  Would Alan be frustrated?
-               │
-          Karen APPROVED?
-               │
-          ┌────┴────┐
-          │ NO      │ YES
-          │         │
-     Fix & re-run   DELIVER
-     from inline    TO ALAN
+┌───────────────────────────────────────────────────────────┐
+│  Layer 1 — VERIFIER                                      │
+│  Mechanical presence check (cheapest, fastest)           │
+│  V.1-V.8: STEP header? LTM? Pulse Check P1-P5? Honest?   │
+│  Backed by: scripts/verifier.sh                          │
+└───────────────────────────────────────────────────────────┘
+        ↓ (only if Verifier PASS)
+┌───────────────────────────────────────────────────────────┐
+│  Layer 2 — VALIDATOR                                     │
+│  Substantive check vs 6 mandatory SubSOPs                │
+│  VL.1-VL.6: SP.6 IAC, SP.5 FSP, SP.12 HFR, SP.15 EEP,    │
+│            EN.1 Output Skeleton, EN.4 Pulse Check honest │
+│  Backed by: scripts/validator.sh                         │
+└───────────────────────────────────────────────────────────┘
+        ↓ (only if Validator PASS)
+┌───────────────────────────────────────────────────────────┐
+│  Layer 3 — QC                                            │
+│  Quality control + anti-rubber-stamp Verifier+Validator  │
+│  + Karen's F.16 script-enforcement DNA preserved         │
+│  Q.1-Q.11: output-vs-ask + upstream audit + script check │
+│  Backed by: scripts/qc.sh                                │
+└───────────────────────────────────────────────────────────┘
+        ↓ (only if QC APPROVED)
+┌───────────────────────────────────────────────────────────┐
+│  Layer 4 — META-VERIFIER                                 │
+│  Audits the chain itself (NEW — closes Alan's gap)       │
+│  MV.1-MV.7: all 3 ran? formats correct? no contradictions?│
+│           rolling trend? no bypass?                      │
+│  Backed by: scripts/meta_verify.sh                       │
+│  Logs to: cache/META_AUDIT_LOG.md (append-only)          │
+└───────────────────────────────────────────────────────────┘
+        ↓ (only if CHAIN HEALTHY)
+   DELIVER TO USER
 ```
 
 ---
 
-## WHEN TO RUN WHAT
+## 🚪 WHEN TO RUN WHAT
 
-### Full Workflow (Inline + Karen)
-- Module lists
-- Lesson lists
-- Classroom maps
-- SOP updates
-- Roadmaps/timelines
-- Templates/checklists
-- Any framework deliverable per D22
+### By MODE (per `MANDATORY_TIGHT_LOOP.md`)
 
-### Inline Only (No Karen)
-- Optimization cycle suggestions
-- Paradox analysis
-- SCIO knowledge integration summaries
-- Cache file updates
-- Minor adjustments to existing deliverables
+| MODE | Chain runs? | Which layers? |
+|---|:-:|---|
+| `MODE: CONVERSATION` | ❌ No | None — conversational turns don't carry SOP overhead |
+| `MODE: OUTPUT-QUICK` | ⚠️ Partial | Verifier only (presence check on the lightweight QUICK-tier requirements) |
+| `MODE: OUTPUT-STANDARD` | ✅ Full | Verifier → Validator → QC → Meta-Verifier |
+| `MODE: OUTPUT-COMPLEX` | ✅ Full + rigor | All 4 + extended Foresight + SHR added to output |
 
-### Skip (No validation needed)
-- Conversational responses
-- Clarifying questions
-- Status updates
-- Reading/summarizing uploaded files
+### By Trigger
 
-### Resolver (On-Demand — Only When SCIO/APW Tension Detected)
-- New SCIO content conflicts with APW framework
-- Locked decision contradicted by new information
-- Alan's instruction conflicts with prior locked decision
+| Trigger | Agents | Notes |
+|---|---|---|
+| Session start | Controller (only) | Verify cache integrity, run `bootstrap_verify.sh` |
+| Every OUTPUT-STANDARD/COMPLEX | Full chain | V → VL → QC → MV |
+| Pre-commit hook fires | Full chain (warnings-only initially) | Until chain matures (~10 outputs) |
+| User says `--no-verify` bypass | QC mandatory | Inherits Karen F.16 — bypass detection |
+| Append-only file shrunk | QC mandatory | Inherits Karen F.16 |
+| Major framework deliverable | Full chain | Same as OUTPUT-COMPLEX |
+| Conversational reply | Skip all | CONVERSATION mode — no overhead |
 
 ---
 
-## TOKEN BUDGET IMPACT
+## 💰 TOKEN BUDGET IMPACT (vs APW v3.0)
 
-| Operation | Estimated Tokens | When |
-|-----------|-----------------|------|
-| Inline checks (POVP+PFV+D20+D27) | ~200 | Every output |
-| Karen spot-check | ~7,500 | Major deliverables only |
-| Resolver | ~5,000 | On-demand (rare) |
-| Full validation (inline + Karen) | ~7,700 | Major deliverables |
+| Operation | v3.0 (APW) | v4.0 (Universal SOP) |
+|---|---|---|
+| Inline checks (per output) | ~200 tokens | ~0 (script-based) |
+| Karen spot-check | ~7,500 tokens | (subsumed into QC at ~600) |
+| Validator-Merged | (inline, ~0) | Validator markdown report ~400 |
+| Verifier | (didn't exist) | ~200 tokens (or 0 script-only) |
+| Meta-Verifier | (didn't exist) | ~500 tokens (or 0 script-only) |
+| **Full chain (markdown reports)** | ~7,700 | ~1,700 |
+| **Full chain (script-only)** | n/a | ~0 |
 
-### Budget-Adjusted Validation (v3.9.3 Conservative Thresholds)
-- **GREEN (<100K used):** Full validation on major deliverables. Auto-continue.
-- **YELLOW (100-120K):** Inline only. Skip Karen unless critical. Reserve budget for caching.
-- **RED (120-140K):** Inline only. Cache all state. Checkpoint NOW.
-- **CRITICAL (>140K):** Stop. Update all caches. Emergency cache dump.
+**Net savings:** ~6,000 tokens per major deliverable, AND added 2 layers of independent verification.
 
 ---
 
-## AGENT FILES
+## 🎚️ TIERED OPERATION (SP.3 TTE Thresholds)
 
-| Agent | File | Role | When |
-|-------|------|------|------|
-| Controller | controller.md | **Orchestration + Cache Integrity** (F4 fusion of Oversight + Cache Manager) | Session start + every deliverable + after decisions |
-| Validator-Merged | validator-merged.md | Single-pass Layer 1 — POVP + Completeness + Simplicity + Process + Cross-ref | All framework deliverables |
-| Karen | karen-reality-check.md | Layer 2 — auditor of auditors | Major deliverables |
-| Paradox Resolver | paradox-resolver.md | SCIO/APW tension analysis | On-demand |
+| Token Status | Chain Behavior |
+|---|---|
+| 🟢 GREEN (<108K) | Full chain on every OUTPUT-STANDARD/COMPLEX |
+| 🟡 YELLOW (108-130K) | Skip Validator markdown report (run script only). Skip Meta-Verifier markdown report. Keep scripts. |
+| 🔴 RED (130-141K) | Verifier + QC only (skip Validator + Meta-Verifier). Cache state. No new deliverables. |
+| 🆘 CRITICAL (>141K) | All chain disabled. Emergency cache dump. Stop work. |
 
-**Architectural changes (2026-05-21):**
-- **F5:** Jenny (standalone) archived — her POVP role fully absorbed into Validator-Merged Section A. Do NOT invoke standalone Jenny.
-- **F4:** Oversight Executive + Cache Manager → fused into single Controller agent. Saves ~1.5K tokens per session. 5 active agents → 4.
+---
 
-**Hierarchy now:**
+## 🪝 PRE-COMMIT HOOK INTEGRATION
+
+`.githooks/pre-commit` invokes the chain in order:
+
 ```
-CONTROLLER (control plane: orchestrate + cache state)
-    │
-    ├── VALIDATOR-MERGED (Layer 1)
-    ├── KAREN (Layer 2)
-    └── PARADOX RESOLVER (on-demand)
+1. append_only_check.sh   (cache files protected — BLOCKING)
+2. compliance_check.sh    (Rule #11 + step header — warnings-only)
+3. verifier.sh            (V.1-V.8 mechanical — warnings-only)
+4. validator.sh           (VL.1-VL.6 substantive — warnings-only)
+5. qc.sh                  (Q.1-Q.11 quality + anti-rubber-stamp — warnings-only)
+6. meta_verify.sh         (MV.1-MV.7 chain audit — warnings-only)
 ```
 
----
+**Warnings-only initially** (per F.19 Tier 1 stabilization). After ~10 outputs with the chain, tighten to blocking (exit 1 → commit fails until fixed).
 
-## PRACTICAL OPERATION
-
-The builder (primary Claude instance) operates as:
-
-### Every Output:
-1. Create output draft
-2. Run inline POVP checklist against relevant D-rules
-3. Run inline PFV process check
-4. Display checklist in output (D20)
-5. Include token status line (D27)
-6. Deliver
-
-### Major Deliverables (Module lists, lesson lists, etc.):
-1. All inline steps above
-2. Launch Karen as sub-agent with: output + relevant cache files + Layer 1 checklist results
-3. If Karen approves → deliver to Alan
-4. If Karen rejects → fix per Karen's notes → re-run inline checks → re-submit to Karen
-5. If Karen rejects after 2 passes → escalate to Alan with both reports
-
-### After Any Decision or Deliverable:
-1. Update relevant cache files (D28)
-2. Update BUILD_STATE_CACHE.md
-3. Log token usage if tracking
+**Bypass:** `git commit --no-verify` skips all hooks. Must include HFR justification in commit message OR QC will flag in next commit.
 
 ---
 
-## SESSION START PROTOCOL (D25)
+## 🤖 AGENT FILES
 
-Every new session:
-1. Read all 6 core cache files
-2. Read SUBCACHE_INDEX.md
-3. Verify cache integrity (timestamps, consistency)
-4. Confirm agent files accessible (if validation needed this session)
-5. ONLY THEN begin work
+| File | Role | Backed by |
+|---|---|---|
+| `agents/controller.md` | Orchestrator (kept from F4 fusion) | (markdown only — orchestration is Claude's job) |
+| `agents/verifier.md` | Layer 1 mechanical | `scripts/verifier.sh` |
+| `agents/validator.md` | Layer 2 substantive | `scripts/validator.sh` |
+| `agents/qc.md` | Layer 3 QC + anti-rubber-stamp | `scripts/qc.sh` |
+| `agents/meta_verifier.md` | Layer 4 chain audit | `scripts/meta_verify.sh` |
+
+### Archived (preserved for APW resume)
+
+- `agents/archive/validator-merged.md` — APW POVP + D-rule predecessor
+- `agents/archive/karen-reality-check.md` — APW Karen (DNA preserved in QC)
+- `agents/archive/paradox-resolver.md` — APW SCIO tension (no current work)
+- `agents/archive/jenny-sop-verifier.md` — pre-F5 (already archived March)
+- `agents/archive/oversight-executive.md` — pre-F4 (already archived)
+- `agents/archive/cache-manager.md` — pre-F4 (already archived)
+- `agents/archive/APW_AGENTS_ARCHIVE_REASON.md` — full archival rationale
 
 ---
 
-## ERROR HANDLING
+## 🔁 ERROR HANDLING
 
-If a sub-agent is unavailable or times out:
-- The builder must manually execute that agent's checklist
-- Document that the check was done manually (not by sub-agent)
-- Karen must specifically verify the manually-checked items (if Karen is the one that timed out, escalate to Alan)
+| Failure | Response |
+|---|---|
+| Verifier script errors | Pre-commit hook logs, continues (warnings-only). Investigate via `cache/META_AUDIT_LOG.md`. |
+| Validator returns FAIL | Output goes back to builder for fix. Re-run chain. |
+| QC REJECTS | Output blocked. Builder must address Q.X items + re-run chain. |
+| Meta-Verifier detects chain compromised | Output blocked. The chain itself needs fixing before any output ships. |
+| Sub-agent invocation times out | Builder executes that layer manually + documents manual execution. Meta-Verifier flags if log row missing. |
+| Karen / Validator-Merged invoked (legacy) | Redirect to QC / Validator. Update calling code. |
+
+---
+
+## 📜 SESSION START PROTOCOL (F.17 boot-up self-test)
+
+Every session, before any work:
+
+1. Read SESSION_START.md (the canonical entry)
+2. Run `bash scripts/bootstrap_verify.sh` (70+ checks across 13 sections)
+3. Read STEP 1 files per the chosen path (Fast-Path or Cold Start)
+4. Confirm via SESSION_START STEP 2 (9-line `✅ RESUMED` format)
+5. Wait for user task
+
+Only after the bootstrap completes can the agent chain be invoked on outputs.
+
+---
+
+## 🔗 RELATED
+
+- **`SELF_COMPLIANCE_FIX.md`** — diagnosis of why the v3.0 workflow stopped working
+- **`MANDATORY_TIGHT_LOOP.md`** — the reduced ruleset the chain enforces (Tier 1 of F.19 fix)
+- **`cache/FAILURE_LEDGER.md` F.19** — the meta-failure entry that motivated this rebuild
+- **`cache/META_AUDIT_LOG.md`** — append-only trail of every chain run
+- **`SOP_MAP.md` + `SOP_MAP.html`** — visual reference for the full system
+
+---
+
+*VALIDATION_WORKFLOW.md v4.0 | F.19 agent-chain rebuild | Universal SOP v1.3 | aurelia | 2026-05-21*

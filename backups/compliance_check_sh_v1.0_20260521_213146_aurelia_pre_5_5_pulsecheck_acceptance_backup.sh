@@ -14,8 +14,7 @@ TARGET_FILE="${1:-}"
 if [ -z "$TARGET_FILE" ]; then
   echo "🛡️ COMPLIANCE CHECK — Scanning uncommitted changes (added lines only, excluding meta-files)"
   # Exclude files that legitimately discuss protocol patterns as examples
-  # Exclude meta-docs that legitimately discuss protocol patterns as examples (F.19 follow-up 2026-05-21)
-  EXCLUDE_PATTERN="scripts/compliance_check.sh|scripts/verifier.sh|scripts/validator.sh|scripts/qc.sh|scripts/meta_verify.sh|DEVICE_REGISTRY.md|FAILURE_LEDGER.md|FAILURE_MODES_ANALYSIS.md|EFFICIENCY_GUIDE.md|MULTI_DEVICE_GIT_PROTOCOL.md|PROTOCOLS_REFERENCE.md|STANDALONE_SOP.md|TOKEN_OPTIMIZATION_GUIDE.md|MANDATORY_TIGHT_LOOP.md|SELF_COMPLIANCE_FIX.md|SOP_MAP.md|SOP_MAP.html|MASTER_CONTINUATION_PROMPT.md|HARNESS_REFRESH_GUIDE.md|CROSS_MODEL_TEST_KIT.md|PUBLIC_SHARE_KIT.md|SHIP_INSTRUCTIONS.md|INVENTORY.md|FUSION_ANALYSIS.md|CONSULTING_BRIEF.md|CHALLENGES_LOG.md|USER_PROFILE.md|README.md|cache/META_AUDIT_LOG.md|cache/BACKUP_LOG.md|cache/SESSION_STATE.md|cache/CONTINUATION.md|cache/BOOTSTRAP_CHECK.md|agents/.*\.md|backups/.*|diagrams_src/.*|assets/.*|chat_archive/.*"
+  EXCLUDE_PATTERN="scripts/compliance_check.sh|DEVICE_REGISTRY.md|FAILURE_LEDGER.md|FAILURE_MODES_ANALYSIS.md|EFFICIENCY_GUIDE.md|MULTI_DEVICE_GIT_PROTOCOL.md|PROTOCOLS_REFERENCE.md|STANDALONE_SOP.md|TOKEN_OPTIMIZATION_GUIDE.md"
   # Get only ADDED lines (+ prefix) from diffs, strip the + prefix, exclude meta-files
   CONTENT=$( (git diff --cached 2>/dev/null; git diff 2>/dev/null) | grep -vE "$EXCLUDE_PATTERN" | grep "^+" | grep -v "^+++" | sed 's/^+//')
 else
@@ -110,10 +109,10 @@ echo ""
 # ─────────────────────────────────────────────────────────
 echo "🔍 CHECK 4 — Pulse Check presence"
 if echo "$CONTENT" | grep -qiE "PULSE CHECK" 2>/dev/null; then
-  if echo "$CONTENT" | grep -qE "Score:\s*(5/5|10/10|11/11|12/12|15/15|16/16|17/17)" 2>/dev/null; then
+  if echo "$CONTENT" | grep -qE "Score:\s*(10/10|11/11|12/12|15/15|16/16|17/17)" 2>/dev/null; then
     echo "  ✅ Pulse Check present with full score"
   else
-    echo "  ⚠️ Pulse Check present but score not full (expected 5/5 per MANDATORY_TIGHT_LOOP, OR 10/10, 11/11, 12/12, 15/15, 16/16, 17/17 for full SOP)"
+    echo "  ⚠️ Pulse Check present but score not full (expected 10/10, 11/11, 12/12, 15/15, 16/16, or 17/17)"
     ISSUES=$((ISSUES + 1))
   fi
 else

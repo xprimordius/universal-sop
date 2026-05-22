@@ -55,35 +55,5 @@ echo "🛡️ Device identity: $(git config user.name) <$DEVICE_EMAIL>"
 echo ""
 
 echo "================================================"
-echo ""
-
-# F.19 agent-chain rebuild (2026-05-21) — Verifier → Validator → QC → Meta-Verifier
-# Currently warnings-only (non-blocking) until chain matures over ~10 outputs
-
-if [ -x scripts/verifier.sh ]; then
-  echo "🔍 Running Verifier (Layer 1)..."
-  bash scripts/verifier.sh 2>&1 | sed 's/^/   /'
-  echo ""
-fi
-
-if [ -x scripts/validator.sh ]; then
-  echo "⚖️ Running Validator (Layer 2)..."
-  bash scripts/validator.sh 2>&1 | sed 's/^/   /'
-  echo ""
-fi
-
-if [ -x scripts/qc.sh ]; then
-  echo "🪞 Running QC (Layer 3)..."
-  bash scripts/qc.sh 2>&1 | sed 's/^/   /'
-  echo ""
-fi
-
-if [ -x scripts/meta_verify.sh ]; then
-  echo "👁️ Running Meta-Verifier (Layer 4)..."
-  bash scripts/meta_verify.sh 2>&1 | sed 's/^/   /'
-  echo ""
-fi
-
-echo "================================================"
 echo "✅ PRE-COMMIT CHECKS COMPLETE"
 echo ""
