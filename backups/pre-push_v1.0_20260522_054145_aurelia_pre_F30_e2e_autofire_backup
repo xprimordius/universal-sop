@@ -49,28 +49,9 @@ fi
 BASE=$(git merge-base HEAD "$REMOTE_NAME/$BRANCH" 2>/dev/null || echo "")
 
 if [[ "$REMOTE" == "$BASE" ]]; then
-  # Remote is at/before our base — straight fast-forward push allowed (subject to E2E gate).
+  # Remote is at/before our base — straight fast-forward push, allowed.
   AHEAD=$(git rev-list --count "$BASE..HEAD")
-  echo "✅ Local is ahead by $AHEAD commit(s), remote unchanged."
-  echo ""
-
-  # F.30 fix 2026-05-22 — E2E auto-fire (user: "E2E supposed to be automatic everytime")
-  if [ -f scripts/e2e_verify.sh ]; then
-    echo "🧪 Running E2E verification before push (blocks if FAIL > 0)..."
-    E2E_OUTPUT=$(bash scripts/e2e_verify.sh 2>&1)
-    E2E_EXIT=$?
-    # Show verdict + totals only (not full per-check output — already in META_AUDIT_LOG)
-    echo "$E2E_OUTPUT" | grep -E "(VERDICT|Passed:|Failed:|Skipped:)" | head -4
-    if [ $E2E_EXIT -ne 0 ]; then
-      echo ""
-      echo "🚨 PUSH BLOCKED — E2E exit code $E2E_EXIT (FAIL > 0)."
-      echo "    See full output: bash scripts/e2e_verify.sh"
-      echo "    Bypass (NOT recommended): git push --no-verify"
-      echo "================================================"
-      exit 1
-    fi
-    echo "✅ E2E PASS — push allowed."
-  fi
+  echo "✅ Local is ahead by $AHEAD commit(s), remote unchanged. Push allowed."
   echo "================================================"
   exit 0
 fi

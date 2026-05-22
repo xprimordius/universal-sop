@@ -168,26 +168,6 @@ Every entry uses this format:
 </details>
 
 <details>
-<summary><b>F.30 — Documentation-to-Activity Drift (5-Layer Coverage Matrix Gap) [META-PATTERN, NEW 2026-05-22] — ✅ Architectural Fix Shipped 2026-05-22</b></summary>
-
-- **Type:** META-PATTERN (recurrent — F.23 SP.9 FE dormancy + SP.22 E2E unformalized were two consecutive instances 5 days apart)
-- **First Observed:** 2026-05-22 — user: *"explain what they do, why it broke, how you fixed it, and how this same process should be checked against everything else in the SOP"* followed by *"Implement. E2E is supposed to be automatic everytime. Also there should be an agent specifically for leading self improvement and managing this stuff."*
-- **What Failed:** SOP protocols can drift in **two directions**, both invisible without explicit coverage audit:
-  - **Direction A (Documented → Dormant):** Protocol entry exists in `PROTOCOLS_REFERENCE.md` + spec mentions "every output" but in practice fires 0% of the time. **F.23 instance:** SP.9 FE documented since 2026-03-31, zero `🔮 Foresight` invocations in last ~50 outputs until 2026-05-22 promotion.
-  - **Direction B (Implemented → Unformalized):** Script exists + gets called in workflows BUT no `PROTOCOLS_REFERENCE.md` entry exists. Capability isn't discoverable as a "protocol", users don't know it exists. **SP.22 instance:** `scripts/e2e_verify.sh` shipped 2026-05-22 commit `bfade1e`, formalized only 2026-05-22 commit `0da49c6` (~8h gap; architectural pattern was months old — 17 other scripts still unformalized per coverage audit).
-- **Root Cause:** **No closed-loop audit for documentation-to-activity drift.** The SOP has **5 layers per protocol** (spec / mandatory-loop / validator / pulse-check / protocols-reference). Each protocol = row; layers = columns; missing cell = drift candidate. Without a tool that walks the matrix, drift accumulates silently. F.23 was layers 2+3+4 missing for SP.9. SP.22 was layer 5 missing.
-- **Permanent Fix (SHIPPED 2026-05-22 — this commit):**
-  1. **`scripts/protocol_coverage_audit.sh`** (NEW, ~150 lines) — runs both Direction A (greps last 20 commits' messages + diffs for 10 mandatory protocols' invocation patterns; flags <50% as UNDER-FIRED, <25% as DORMANT) and Direction B (greps `PROTOCOLS_REFERENCE.md` for each `scripts/*.sh` + `agents/*.md` basename, flags missing entries). Logs row to `cache/META_AUDIT_LOG.md`. Suggested cadence: monthly.
-  2. **`agents/chiron.md`** (NEW, dedicated Self-Improvement Lead) — owns coverage audit + REFINE orchestration + F-class curation + cross-file consistency on new SubSOP ships. Named after the mythological mentor of heroes. Five-layer coverage matrix is Chiron's primary check pattern.
-  3. **`.githooks/pre-push` augmented** — runs `scripts/e2e_verify.sh` before every push; blocks push if `FAIL > 0` (warnings-only escape via `--no-verify`). Closes the user requirement "E2E should be automatic every time."
-  4. **This F.30 entry** documents the meta-pattern + the architectural fix.
-- **Closes Quintessence properties:** Q.4 (proactive drift detection — partial → fuller), Q.7 (convergence proof — coverage audit produces a metric over time), Q.8 (failure-to-fix automation — Chiron orchestrates this end-to-end)
-- **Verified:** Pre-push hook fires `e2e_verify.sh` on next push (will be self-verified by THIS commit's push). `scripts/protocol_coverage_audit.sh` runs cleanly; first Direction B sweep expected to flag ~17 unformalized scripts/agents. Chiron agent file present in `agents/` directory.
-- **Lesson:** Five SOP layers (spec / tight-loop / validator / pulse-check / protocols-reference) should be treated as a coverage matrix, not as independent files. **Every protocol = row; layers = columns; missing cell = drift candidate.** Without the matrix-walking audit + a dedicated owner (Chiron), instance #3 of documentation-to-activity drift was inevitable. F.30 closes the loop preemptively.
-- **Forward measure:** Direction A coverage % per protocol tracked monthly by Chiron. Goal: every MANDATORY protocol ≥ 80% activity within 60 days. Direction B candidate count tracked monthly. Goal: ≤ 5 unformalized scripts/agents within 60 days. Quintessence score impact: estimated 6.5 → ~7.5 once Chiron has run 2 monthly cycles with INTERVENTION_LOG rows.
-</details>
-
-<details>
 <summary><b>F.27 — Understanding Check Compressed 15-Clause Spec Into 11-Word Interpretation [HFR FIX — UC fidelity failure, NEW 2026-05-22] — ✅ FIXED 2026-05-22</b></summary>
 
 - **Type:** HFR — caught + fixed same session (same chat-turn as F.25 + F.26)

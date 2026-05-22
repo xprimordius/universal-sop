@@ -169,3 +169,8 @@ This file is listed in:
 | 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | 1c9c076 |
 | 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 1c9c076 |
 | 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | 1c9c076 |
+| 2026-05-22 | aurelia | Verifier | 2 pass / 6 warnings | 1c9c076 |
+| 2026-05-22 | aurelia | Validator | 8 pass / 2 warnings | 1c9c076 |
+| 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 1c9c076 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 1c9c076 |
+| 2026-05-22 | aurelia | Coverage-Audit | A:9D/0U/1A · B:13S/6A missing | 0da49c6 |
