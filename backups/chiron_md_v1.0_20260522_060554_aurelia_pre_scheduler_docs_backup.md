@@ -122,67 +122,11 @@ AI: bash scripts/protocol_coverage_audit.sh
 AI: [reads output, surfaces top 3 drift candidates, proposes action]
 ```
 
-### Automatic invocation (per-device setup)
-
-**Single-command orchestrator:** `scripts/chiron_run.sh` (runs coverage audit + SIR trend + chain health, writes report to `cache/chiron/CHIRON_REPORT_<date>.md`, logs to META_AUDIT_LOG).
-
-#### Windows (aurelia, future Strix Halo #2, etc.)
-
-Register monthly Chiron run via PowerShell (run as admin if needed):
-```powershell
-# Monthly Chiron audit — 1st of month, 08:00
-schtasks /create /sc MONTHLY /d 1 /tn "Chiron-Monthly-Audit" `
-  /tr "`"C:\Program Files\Git\bin\bash.exe`" -c `"cd /c/Users/$env:USERNAME/universal-sop && bash scripts/chiron_run.sh > cache/chiron/cron_$(Get-Date -f yyyyMMdd).log 2>&1`"" `
-  /st 08:00
-
-# Weekly REFINE cycle — Saturdays, 08:00
-schtasks /create /sc WEEKLY /d SAT /tn "REFINE-Weekly-Cycle" `
-  /tr "`"C:\Program Files\Git\bin\bash.exe`" -c `"cd /c/Users/$env:USERNAME/universal-sop && bash scripts/refine_review.sh && bash scripts/refine_extract.sh && bash scripts/refine_foresee.sh`"" `
-  /st 08:00
+### Automatic (future — Windows Task Scheduler / cron)
 ```
-
-Verify registration:
-```powershell
-schtasks /query /tn "Chiron-Monthly-Audit"
-schtasks /query /tn "REFINE-Weekly-Cycle"
+Saturday 08:00 → bash scripts/refine_review.sh && refine_extract.sh && refine_foresee.sh
+1st of month   → bash scripts/protocol_coverage_audit.sh
 ```
-
-Manual one-off run:
-```bash
-bash scripts/chiron_run.sh   # full Chiron run (audit + SIR + chain health)
-```
-
-#### Mac (mac-main) / Linux
-
-Register via crontab:
-```bash
-crontab -e
-```
-
-Add these lines:
-```cron
-# Monthly Chiron audit (1st of month, 08:00)
-0 8 1 * * cd $HOME/universal-sop && bash scripts/chiron_run.sh >> cache/chiron/cron.log 2>&1
-
-# Weekly REFINE cycle (Saturday 08:00)
-0 8 * * 6 cd $HOME/universal-sop && bash scripts/refine_review.sh && bash scripts/refine_extract.sh && bash scripts/refine_foresee.sh >> cache/chiron/refine.log 2>&1
-```
-
-Verify:
-```bash
-crontab -l | grep -E "chiron|refine"
-```
-
-#### Per-device registration status (append when registered)
-
-| Device | Monthly Chiron | Weekly REFINE | Registered date |
-|---|:-:|:-:|:-:|
-| aurelia | ⚪ pending | ⚪ pending | (run schtasks commands above) |
-| mac-main | ⚪ pending | ⚪ pending | (run crontab commands above) |
-
-> **Why per-device?** Chiron's coverage audit reads per-device chain history from META_AUDIT_LOG. Each device runs its own audit; results commit + sync to give cross-device visibility on the next pull.
-
-> **Why monthly not weekly?** Coverage drift accumulates slowly; weekly audits would mostly show no change. Monthly = right cadence for the slow-decay pattern F.30 catches. REFINE is weekly because it acts on per-output SIR insights which accumulate faster.
 
 ---
 
