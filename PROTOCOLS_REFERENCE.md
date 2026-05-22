@@ -77,6 +77,21 @@ These 3 protocols form the unified Wrap-Up Block at end of every STANDARD/COMPLE
 
 **Insights are interleaved within FE items** (e.g., FE item that surfaces an opportunity = Insight). Not a separate section.
 
+### 🔮 Proactive Cluster (Foresight + Proactive Resolution System — F.23 + F.24 — 2026-05-22)
+
+These 4 protocols form the cross-pollinated **Foresight + Proactive Resolution System** — borrowed and synthesized from Aurelius's `Bottleneck Agent` + `Insight Agent` + `Self-Optimization Agent` + GOLD-PATH discipline. Together they handle: bottlenecks, constraints, proactive problem-solving, predictive intervention, and protocol-level evolution.
+
+| 🆔 | Protocol | Scale | Role In Cluster | Status |
+|:---:|---|---|---|---|
+| **SP.9 FE** | Foresight Engine | Per-output | Predict 2-3 next-step problems/breakpoints/constraints with priority tags 🔴🟡🟢 | ✅ MANDATORY (promoted 2026-05-22 F.23) — was reference-only |
+| **SP.17 SIR** | System Improvement Reflection | Per-output | Surface 1-3 system-level improvement insights with category + effort | ✅ MANDATORY (since 2026-05-21) |
+| **SP.19 GLD** | GOLD-PATH Protocol | Per-decision | Reach for gold-standard solution first; deviation requires explicit constraint citation; render comparison table BEFORE recommendation | ✅ MANDATORY (adopted 2026-05-22 from Aurelius, F.23) — invocation-conditional, not per-output |
+| **SP.20 REFINE** | REFINE Protocol (R·E·F·I·N·E cycle) | Per-week (+ pattern recurrence ≥ 3) | Review → Extract → **Foresee** → Intervene → Note → Evolve | ✅ ACTIVE v1.0 stubs (shipped 2026-05-22 F.24) — see `REFINE_PROTOCOL_PROPOSAL.md` for full spec |
+
+**Combined effect:** content-level foresight (SP.9) + system-level reflection (SP.17) + pre-decision discipline (SP.19) + weekly intervention loop (SP.20) = autonomous self-improvement layer. Closes Quintessence properties Q.1 + Q.4 + Q.8 + Q.9.
+
+**Cross-pollination provenance:** Aurelius → us: GOLD-PATH + REFINE foresee/intervene/evolve architecture. Us → Aurelius: N/M honesty marker (acknowledged in their PROVE-IT-Protocol.md). Both projects converge on the same patterns from different angles. See `LEARNINGS_FROM_AURELIUS_VAULT.md`.
+
 ### 🔁 Failure Tracking System (F8 — Identified, Not Yet Executed)
 
 Related but currently separate.

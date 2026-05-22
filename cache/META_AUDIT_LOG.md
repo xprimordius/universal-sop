@@ -112,3 +112,7 @@ This file is listed in:
 | 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 5ef7e2d |
 | 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 5ef7e2d |
 | 2026-05-22 | aurelia | REFINE.R | review generated | bfade1e |
+| 2026-05-22 | aurelia | Verifier | 7 pass / 1 warnings | bfade1e |
+| 2026-05-22 | aurelia | Validator | 6 pass / 3 warnings | bfade1e |
+| 2026-05-22 | aurelia | QC | 9 pass / 2 warnings | bfade1e |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | bfade1e |
