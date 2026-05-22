@@ -140,3 +140,7 @@ This file is listed in:
 | 2026-05-22 | aurelia | Validator | 10 pass / 0 warnings | 66194f4 |
 | 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 66194f4 |
 | 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 66194f4 |
+| 2026-05-22 | aurelia | Verifier | 2 pass / 6 warnings | 9647b83 |
+| 2026-05-22 | aurelia | Validator | 10 pass / 0 warnings | 9647b83 |
+| 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 9647b83 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 9647b83 |
