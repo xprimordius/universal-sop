@@ -225,3 +225,24 @@ This file is listed in:
 | 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | 8699408 |
 | 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 8699408 |
 | 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | 8699408 |
+| 2026-05-22 | aurelia | Verifier | 5 pass / 3 warnings | 8699408 |
+| 2026-05-22 | aurelia | Validator | 8 pass / 2 warnings | 8699408 |
+| 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 8699408 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 8699408 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | e5120d9 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | e5120d9 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | e5120d9 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | e5120d9 |
+| 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | e5120d9 |
+| 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | e5120d9 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | e5120d9 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | e5120d9 |
+| 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | e5120d9 |
+| 2026-05-22 | aurelia | Coverage-Audit | A:9D/0U/1A · B:15S/6A missing | e5120d9 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | e5120d9 |
+| 2026-05-22 | aurelia | Meta-Verifier | 5 pass / 2 warnings | e5120d9 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | e5120d9 |
+| 2026-05-22 | aurelia | Meta-Verifier | 5 pass / 2 warnings | e5120d9 |
+| 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | e5120d9 |
+| 2026-05-22 | aurelia | Coverage-Audit | A:9D/0U/1A · B:15S/6A missing | e5120d9 |
+| 2026-05-22 | aurelia | PRISTINE | issues:78 (0/30/21/27/0/0/0/0/0) | e5120d9 |
