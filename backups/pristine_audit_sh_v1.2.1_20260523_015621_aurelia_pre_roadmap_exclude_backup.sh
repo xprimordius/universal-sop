@@ -123,15 +123,13 @@ echo "── 4/10 Dead References in Docs ────────────�
 DEAD_LIST=""
 DOC_LIST=(
   README.md SESSION_START.md MANDATORY_TIGHT_LOOP.md UNIVERSAL_SOP_PROMPT.md
-  PROTOCOLS_REFERENCE.md
+  PROTOCOLS_REFERENCE.md CONTINUATION_POINTER.md QUINTESSENCE_ROADMAP.md
   USER_PROFILE.md SOP_GUIDE.md DEVICE_REGISTRY.md
   cache/SESSION_STATE.md cache/FAILURE_LEDGER.md cache/SIR_LOG.md
 )
-# Excluded from dead-ref check (intentional historical/legacy/proposed references):
+# Excluded from dead-ref check (intentional historical/legacy references):
 #   - CLAUDE.md (LEGACY ZONE — preserves APW-era references on purpose)
 #   - cache/CONTINUATION.md (cumulative session log — references files from multiple sessions, some renamed)
-#   - CONTINUATION_POINTER.md (handoff doc — may reference proposed-but-not-yet-shipped items)
-#   - QUINTESSENCE_ROADMAP.md (by-design: lists 32+ proposed/deferred files like scripts/cross_model_audit.sh, cache/DECISIONS_INDEX.md)
 for md in "${DOC_LIST[@]}"; do
   [ -f "$md" ] || continue
   while IFS= read -r ref; do
@@ -152,8 +150,7 @@ for md in "${DOC_LIST[@]}"; do
     if [ -e "$ref" ] || [ -e "$(dirname "$md")/$ref" ] || \
        [ -e "scripts/$ref" ] || [ -e "cache/$ref" ] || \
        [ -e "cache/refine/$ref" ] || [ -e "cache/chiron/$ref" ] || \
-       [ -e "agents/$ref" ] || [ -e ".githooks/$ref" ] || \
-       [ -e "chat_archive/$ref" ] || [ -e "scripts/scheduler/$ref" ]; then
+       [ -e "agents/$ref" ] || [ -e ".githooks/$ref" ]; then
       : # found — skip
     else
       ISSUES_DEAD_REFS=$((ISSUES_DEAD_REFS+1))
