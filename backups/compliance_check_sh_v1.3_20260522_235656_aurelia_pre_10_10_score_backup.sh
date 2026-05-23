@@ -111,10 +111,9 @@ echo ""
 echo "🔍 CHECK 4 — Pulse Check presence"
 if echo "$CONTENT" | grep -qiE "PULSE CHECK" 2>/dev/null; then
   if echo "$CONTENT" | grep -qE "Score:\s*(5/5|6/6|7/7|8/8|9/9|10/10|11/11|12/12|15/15|16/16|17/17|18/18|19/19)" 2>/dev/null; then
-    # Note: 10/10 covers both old "full SOP" tier AND new MANDATORY_TIGHT_LOOP v1.6 (10-item Pulse Check incl. P10 RAE)
     echo "  ✅ Pulse Check present with full score"
   else
-    echo "  ⚠️ Pulse Check present but score not full (expected 10/10 per MANDATORY_TIGHT_LOOP v1.6, 9/9 v1.5.1, 8/8 v1.3, 7/7 v1.2, 6/6 v1.1, 5/5 v1.0 OR 10/10..19/19 for full SOP)"
+    echo "  ⚠️ Pulse Check present but score not full (expected 9/9 per MANDATORY_TIGHT_LOOP v1.5.1, 8/8 v1.3, 7/7 v1.2, 6/6 v1.1, 5/5 v1.0 OR 10/10..19/19 for full SOP)"
     ISSUES=$((ISSUES + 1))
   fi
 else

@@ -152,18 +152,6 @@ else
   fi
 fi
 
-# VL.11 — SP.24 RAE (Recommendations At End) — NEW 2026-05-22
-# Per Alan 2026-05-22: "All recommendations should be at the very end, in a very simple way to understand and pick. embed this into the SOP so we don't miss it"
-if echo "$ADDED" | grep -qE "🎯 RECOMMENDATIONS \(SP\.24 RAE\)"; then
-  check_warn "VL.11" "SP.24 RAE — Recommendations block present" "PASS" ""
-else
-  if echo "$ADDED" | grep -qE "^\+STEP:"; then
-    check_warn "VL.11" "SP.24 RAE — Recommendations At End" "WARN" "No 🎯 RECOMMENDATIONS (SP.24 RAE) block (every OUTPUT-STANDARD/COMPLEX must end with pickable numbered recommendations per SP.24 RAE, NEW 2026-05-22)"
-  else
-    check_warn "VL.11" "SP.24 RAE" "PASS" "(meta-doc — N/A)"
-  fi
-fi
-
 # Log to META_AUDIT_LOG.md
 if [ -f cache/META_AUDIT_LOG.md ]; then
   printf "| %s | %s | Validator | %d pass / %d warnings | %s |\n" \

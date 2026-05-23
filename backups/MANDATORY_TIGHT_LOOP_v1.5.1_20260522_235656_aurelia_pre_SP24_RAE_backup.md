@@ -1,5 +1,5 @@
 # 🎯 MANDATORY TIGHT LOOP — The Reduced Ruleset That Actually Survives
-# VERSION: 1.6 | 2026-05-22 | SP.24 RAE (Recommendations At End) + 10-item Pulse Check + 11 mandatory SubSOPs | Universal SOP v1.3
+# VERSION: 1.5.1 | 2026-05-22 | Doctoral UC + Trivial-spec carve-out + SP.21 MES + 9-item Pulse Check | Universal SOP v1.3
 # This file SUPERSEDES, for operational use, the full mandatory set in UNIVERSAL_SOP_PROMPT.md.
 # UNIVERSAL_SOP_PROMPT.md remains the reference rulebook — unchanged, complete, available.
 
@@ -33,7 +33,7 @@ If the output is QUICK-tier (single fact / lookup), the STEP line + answer + LTM
 
 ---
 
-## 📋 RULE 2 — THE 11 MANDATORY SUBSOPS (Tight Loop — v1.6)
+## 📋 RULE 2 — THE 10 MANDATORY SUBSOPS (Tight Loop — v1.5.1)
 
 These nine form a self-reinforcing execution loop. Each runs in every OUTPUT-STANDARD or OUTPUT-COMPLEX output. The other 9 SubSOPs are reference-only.
 
@@ -49,7 +49,6 @@ These nine form a self-reinforcing execution loop. Each runs in every OUTPUT-STA
 | 8 | **SP.18 SSC** | Sync Status Confirmation | Every output that modifies files ends with explicit per-channel sync confirmation. Closes F.21. |
 | 9 | **SP.9 FE** ⭐ PROMOTED 2026-05-22 (F.23) | Foresight Engine | Predict 2-3 next-step problems / breakpoints / constraints with priority tags 🔴🟡🟢. Was reference-only; now mandatory. Part of Proactive Cluster (SP.9 + SP.17 + SP.19 + SP.20). |
 | 10 | **SP.21 MES** ⭐ NEW 2026-05-22 (F.25 → F.26 correction → F.27 doctoral re-spec) | Model Effort Selector — **Doctoral spec, 15 clauses from Alan verbatim** | (C.1) `🎯 MODEL:` line at **literally first content** of every output, before STEP header. (C.2) Mandatory SubSOP in tight loop. (C.3) Recommendation Claude → Alan, of most-appropriate Opus 4.7 variant. (C.4) Optimization target: speed. (C.5) **Three non-negotiable preserved constraints**: fidelity AND efficiency AND quality — all 100%, speed is subordinate. (C.6) **Conservative bias with explicit asymmetric-cost rationale**: too-low is WORSE than too-high; when in doubt → higher. (C.7) **Two stacked recommendation surfaces**: effort tier (max / very high / medium / low) AND fast-mode/model-variant (Opus 4.7 1M / Opus 4.7 default / Opus 4.6 legacy / Sonnet 4.6). (C.8) Explanation mandatory. (C.9) Real-world benefit written in **plain typed text** (sentences, not just tier codes). (C.10–C.11) Sonnet 4.6 permitted ONLY when DUAL gate satisfied: (a) "beyond a shadow of a reasonable doubt" (criminal-court legal standard) AND (b) "absolute certainty" (highest philosophical standard) — both required simultaneously. (C.12–C.13) Mid-output adjustment allowed; stable-start-effort is the IDEAL — calibration goal ≥ 80% opening-was-correct. (C.14) End-of-output retrospective surfaces ONE true best setting (singular). (C.15) **Universal — every output, no tier-gating**, including OUTPUT-QUICK and conversational replies. |
-| 11 | **SP.24 RAE** ⭐ NEW 2026-05-22 (per user: "All recommendations should be at the very end, in a very simple way to understand and pick. embed this into the SOP so we don't miss it") | Recommendations At End | **Every OUTPUT-STANDARD / OUTPUT-COMPLEX ends with a `🎯 RECOMMENDATIONS (SP.24 RAE)` block as the LAST visible content**, after Sync Status. **Format:** numbered list, max 5 options, each ≤12 words, with effort tag (XS/S/M/L) in parens. **No recommendations inline elsewhere** — funnel all next-step suggestions into this single block so user can scan + pick by number. **If no recommendations apply:** explicit `(none — task complete, awaiting direction)` line. **If exactly one is overwhelmingly recommended:** mark with ⭐ and put first. **Pulse Check P10 enforces.** Validator VL.11 greps for `🎯 RECOMMENDATIONS` literal string. **Owner at meta level:** Chiron (`agents/chiron.md`) — monthly audit ensures RAE compliance trend stays ≥90%. |
 
 **Reference-only (no longer mandatory every output):** SP.1 MagNet, SP.2 Door Scan, SP.3 TTE, SP.4 SCP, SP.7 Insights, SP.8 Protocol Visibility, SP.9 FE Foresight (content-foresight, NOT system-improvement — that's SP.17), SP.10 SCC, SP.11 QAC, SP.13 SHR, SP.14 RPT, SP.16 PCG, EN.2 Priority 10, EN.3 Checkpoint Cycle.
 
@@ -57,7 +56,7 @@ These remain documented in `PROTOCOLS_REFERENCE.md` and stay available — invok
 
 ---
 
-## 📋 RULE 3 — THE 10-ITEM PULSE CHECK (v1.6 — Adds P10 SP.24 RAE)
+## 📋 RULE 3 — THE 9-ITEM PULSE CHECK (v1.5.1 — Adds P9 SP.21 MES Retrospective)
 
 Visible near the bottom of every OUTPUT-STANDARD / OUTPUT-COMPLEX output (before Sync Status). Score X/9.
 
@@ -72,7 +71,6 @@ Visible near the bottom of every OUTPUT-STANDARD / OUTPUT-COMPLEX output (before
 | P7 | **SSC surfaced (SP.18)** | Sync Status block present at end of output with explicit per-channel status. |
 | P8 | **Foresight surfaced (SP.9 — v1.3)** | 2-3 next-step predictions with priority tags 🔴🟡🟢 — bottlenecks / constraints / breakpoints / proactive solutions. Part of Proactive Cluster. |
 | P9 | **MES present (SP.21 — NEW v1.4)** ⭐ | (a) Model + effort declared at TOP of output BEFORE STEP header, (b) MES Retrospective section near end declaring true best setting + calibration delta vs opening selection. |
-| P10 | **RAE present (SP.24 — NEW v1.6)** ⭐ | `🎯 RECOMMENDATIONS (SP.24 RAE)` block is the LAST visible content of the output (after Sync Status). Numbered list, max 5 options, each ≤12 words with effort tag. No inline recommendations elsewhere. If none apply: explicit `(none — task complete)` line. |
 
 **Format:**
 
@@ -191,4 +189,4 @@ See `SELF_COMPLIANCE_FIX.md` for the full rationale + acceptance tests.
 
 ---
 
-*Universal Output SOP v1.3 | MANDATORY_TIGHT_LOOP.md v1.6 | SP.24 RAE + 10-item Pulse Check + 11 mandatory SubSOPs | aurelia + future-replicate-everywhere | 2026-05-22*
+*Universal Output SOP v1.3 | MANDATORY_TIGHT_LOOP.md v1.5.1 | Doctoral UC + Trivial-spec carve-out + SP.21 MES + 9-item Pulse Check | aurelia + future-replicate-everywhere | 2026-05-22*
