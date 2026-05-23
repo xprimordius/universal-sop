@@ -198,7 +198,7 @@ Read ONLY these 3 files + run verifier:
 **When in doubt:** Use COLD START. Fast-path is for confidence, not laziness.
 
 **Optional (read if depth needed):**
-- `./chat_archive/README.md` — chat transcript backup workflow (use `chat_archive/archive_chat.sh` to snapshot sessions — NEW 2026-05-21)
+- `./chat_archive/README.md` — chat transcript backup workflow (use `archive_chat.sh` to snapshot sessions — NEW 2026-05-21)
 - `./MULTI_DEVICE_GIT_PROTOCOL.md` — multi-device backup hygiene (READ ONCE before working on second device — NEW 2026-05-21)
 - `./STANDALONE_SOP.md` — hosts the EN.4 Pulse Check 2.0 (P1-P15) — READ if doing STANDARD/COMPLEX work (FT14.3 reference)
 - `./EFFICIENCY_GUIDE.md` — honest analysis of friction ceiling + 5 reachable gains — READ if pushing toward 9.0+ friction score
