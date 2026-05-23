@@ -19,19 +19,6 @@ REMOTE_URL="$2"
 echo "🔒 PRE-PUSH SYNC CHECK"
 echo "================================================"
 
-# F.32 fix 2026-05-23 — Prevent nested/concurrent E2E spawning
-# Detection: if another pre-push or e2e_verify is already running, this is a duplicate push
-# Behavior: skip E2E in this invocation; allow push (other invocation handles verification)
-MY_PID=$$
-OTHER_PUSH=$(pgrep -f "\.githooks/pre-push" 2>/dev/null | grep -v "^$MY_PID$" | grep -v "^$PPID$" | head -1)
-OTHER_E2E=$(pgrep -f "scripts/e2e_verify\.sh" 2>/dev/null | head -1)
-if [ -n "$OTHER_PUSH" ] || [ -n "$OTHER_E2E" ]; then
-  echo "⚠️ F.32 — Another pre-push/E2E already running (PID ${OTHER_PUSH:-$OTHER_E2E}). Skipping duplicate E2E in this invocation."
-  echo "    Push will proceed; verification handled by the other in-flight push."
-  echo "================================================"
-  exit 0
-fi
-
 BRANCH=$(git branch --show-current)
 if [[ -z "$BRANCH" ]]; then
   echo "⚠️  Detached HEAD — skipping sync check."
@@ -68,16 +55,10 @@ if [[ "$REMOTE" == "$BASE" ]]; then
   echo ""
 
   # F.30 fix 2026-05-22 — E2E auto-fire (user: "E2E supposed to be automatic everytime")
-  # F.32 fix 2026-05-23 — Wrapped in 90s timeout to prevent hangs (avoid stuck push that needs kill)
   if [ -f scripts/e2e_verify.sh ]; then
-    echo "🧪 Running E2E verification before push (90s timeout, blocks if FAIL > 0)..."
-    E2E_OUTPUT=$(timeout 90 bash scripts/e2e_verify.sh 2>&1)
+    echo "🧪 Running E2E verification before push (blocks if FAIL > 0)..."
+    E2E_OUTPUT=$(bash scripts/e2e_verify.sh 2>&1)
     E2E_EXIT=$?
-    if [ $E2E_EXIT -eq 124 ]; then
-      echo "⚠️ F.32 — E2E timed out after 90s. Allowing push with WARNING."
-      echo "    Investigate via standalone: bash scripts/e2e_verify.sh"
-      E2E_EXIT=0
-    fi
     # Show verdict + totals only (not full per-check output — already in META_AUDIT_LOG)
     echo "$E2E_OUTPUT" | grep -E "(VERDICT|Passed:|Failed:|Skipped:)" | head -4
     if [ $E2E_EXIT -ne 0 ]; then

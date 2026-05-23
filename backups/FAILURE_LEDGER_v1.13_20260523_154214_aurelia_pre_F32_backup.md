@@ -37,29 +37,6 @@ Every entry uses this format:
 ## 🪞 ACTIVE LEDGER (Migrated from RPT_LOG + Session 5 HFRs)
 
 <details>
-<summary><b>F.32 — Pre-Push Hook Nested/Concurrent E2E Hangs Push [STRUCTURAL FIX 2026-05-23]</b></summary>
-
-- **Type:** FAILURE (caught by Alan 2026-05-23: "why isn't it fully backed up on github online for updated pulls from external devices? fix")
-- **First Observed:** 2026-05-23 — autonomous session-end push appeared "stuck" at distance 1↔0 for several minutes; investigation revealed 4 pre-push processes + 2 e2e_verify processes spawned concurrently when overlapping background `git push` commands fired
-- **Times:** 1 explicit + N silent prior cases (any time multiple pushes were queued in autonomous mode)
-- **Root Cause:**
-  - `.githooks/pre-push` runs `bash scripts/e2e_verify.sh` synchronously (no timeout)
-  - When background commit-then-push commands overlap, multiple `git push` instances each spawn their own pre-push hook
-  - Each pre-push hook spawns its own e2e_verify.sh
-  - Multiple e2e_verify instances compete for git fetch + filesystem reads → ALL hang
-  - Result: working tree shows `1↔0` distance but push never completes; user perceives "not pushed to GitHub"
-- **Permanent Fix (SHIPPED 2026-05-23 this commit):**
-  1. **Lock check at top of pre-push hook**: detect if another pre-push or e2e_verify is already running via `pgrep -f`. If yes, skip E2E in this invocation (other invocation handles verification), allow push to proceed cleanly.
-  2. **90s timeout wrapper** around `bash scripts/e2e_verify.sh` via `timeout 90`. If E2E exceeds 90s (typically takes 30-60s), exit code 124 → treated as warning, allow push with investigation hint.
-  3. Both fixes preserve the F.30 "E2E auto-fire on push" intent while preventing hangs.
-- **Fixed:** 2026-05-23 (this commit)
-- **Verified:** Will dogfood when this commit pushes — should land cleanly without hang regardless of concurrent background pushes.
-- **Lesson:** Synchronous hooks + autonomous mode + parallel commit/push = guaranteed concurrent invocation. Lock + timeout is the universal fix pattern for any external-process-invoking hook.
-- **Related:** F.18 (multi-device push optimization), F.30 (E2E auto-fire on push), Universal Backup Rule (autonomous mode must STILL backup-first).
-
-</details>
-
-<details>
 <summary><b>F.1 — Emojis far left, dedicated column [REPEAT × 3] — ✅ FIXED 2026-03-31</b></summary>
 
 - **Type:** REPEAT
