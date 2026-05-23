@@ -1040,69 +1040,6 @@ Outputs the formatted table to stdout; AI surfaces verbatim in the output's clos
 </details>
 
 <details>
-<summary><b>SP.20 — REFINE Cluster (Review → Extract → Foresee → Intervene → Note → Evolve)</b> ⭐ NEW 2026-05-22 (bulk-formalization)</summary>
-
-### Full Name
-**REFINE Protocol — Weekly Self-Improvement Cycle**
-
-### Acronym Origin
-**R**eview · **E**xtract · **F**oresee · **I**ntervene · **N**ote · **E**volve. Six-step cadenced cycle that operates at WEEKLY rhythm to close the observation→action loop. See `REFINE_PROTOCOL_PROPOSAL.md` (commit `823a459`) for full v1.0 spec.
-
-### Status
-✅ Active (v1.0 STUBS shipped 2026-05-22 commit `4291068` per F.24). All 6 agent + 6 script files present in `agents/` + `scripts/`. Weekly cron registered on aurelia (per F.30 schtasks `REFINE-Weekly-Cycle`, next fire 2026-05-23 08:00). Orchestrated by **Chiron** (`agents/chiron.md`).
-
-### Core Purpose
-Close the observation→action loop at WEEKLY cadence. Per-output SIR (SP.17) surfaces insights but doesn't act on them; per-output Foresight (SP.9 FE) predicts but doesn't intervene. REFINE reads SIR_LOG + FAILURE_LEDGER + META_AUDIT_LOG and **acts** — proposes interventions, logs them to INTERVENTION_LOG, escalates patterns to F-class via Scribe step.
-
-### The 6 Steps (Agent + Script per step)
-
-| # | Step | Agent | Script | What it does |
-|:-:|---|---|---|---|
-| 1 | **R**eview | `agents/refine_reviewer.md` | `scripts/refine_review.sh` | Reads last 7 days of SIR_LOG + FAILURE_LEDGER + META_AUDIT_LOG + last 50 commits; writes `cache/refine/REVIEW_<date>.md` |
-| 2 | **E**xtract | `agents/refine_extractor.md` | `scripts/refine_extract.sh` | Reads REVIEW output; identifies recurring patterns ≥3 occurrences; writes `cache/refine/EXTRACT_<date>.md` ranked by frequency |
-| 3 | **F**oresee | `agents/refine_foresight.md` | `scripts/refine_foresee.sh` | Reads EXTRACT output; projects which patterns will cause failures if unresolved; writes `cache/refine/FORESEE_<date>.md` with priority tags |
-| 4 | **I**ntervene | `agents/refine_intervention.md` | `scripts/refine_intervene.sh` | Reads FORESEE; proposes specific architectural fixes (NOT auto-applied in v1.0 — Alan approves); appends to `cache/refine/INTERVENTION_LOG.md` |
-| 5 | **N**ote | `agents/refine_scribe.md` | `scripts/refine_note.sh` | Reads INTERVENTION_LOG; when pattern recurs ≥3 with same root cause, drafts F-class entry for FAILURE_LEDGER (Alan approves before merge) |
-| 6 | **E**volve | `agents/refine_evolution.md` | `scripts/refine_evolve.sh` | Quarterly OR on pattern recurrence ≥3: proposes SubSOP promotion/demotion or new SP.X spec. Highest-leverage, lowest-frequency step |
-
-### Cadence
-- **Weekly** (Saturdays 08:00 via cron/schtasks): R → E → F (sequential, automated)
-- **Manual approval gate** between F and I: Alan reviews FORESEE output, approves which to escalate to Intervene
-- **Manual triggers** for I, N, E (NOT in v1.0 autorun chain)
-- **Quarterly OR pattern-recurrence ≥3**: Evolve step
-
-### Backing Data
-- Input: `cache/SIR_LOG.md`, `cache/FAILURE_LEDGER.md`, `cache/META_AUDIT_LOG.md`, last 50 commits
-- Output: `cache/refine/REVIEW_<date>.md`, `EXTRACT_<date>.md`, `FORESEE_<date>.md`
-- Persistent: `cache/refine/INTERVENTION_LOG.md` (append-only history of proposals + outcomes)
-
-### v1.0 Constraints
-- All scripts are STUBS — surface data + propose actions, require Alan approval before any code change
-- No autonomous self-modification
-- Manual Intervene/Note/Evolve until v2.0 polish
-
-### Closes Quintessence Properties
-- Q.1 (closed feedback loops) — weekly cycle reads observation logs
-- Q.4 (proactive drift detection) — Foresight step
-- Q.8 (failure-to-fix automation) — Intervention + Scribe steps
-- Q.9 (session lifecycle automation) — REFINE is the weekly lifecycle
-
-### Projected Quintessence Impact
-6.5/10 → ~8.0/10 once REFINE has run ≥2 weekly cycles with ≥1 INTERVENTION_LOG entry per cycle.
-
-### Related Protocols
-- **SP.17 SIR** — per-output sibling. SIR surfaces insights; REFINE acts on them weekly.
-- **SP.9 FE** — per-output sibling. FE predicts content issues; REFINE Foresee predicts system issues.
-- **SP.19 GLD** (GOLD-PATH) — REFINE Evolve step uses GOLD-PATH discipline when proposing new tools/protocols.
-- **SP.23 PRISTINE** — monthly umbrella audit that includes REFINE cluster's outputs in its sweep.
-- **Chiron** (`agents/chiron.md`) — orchestrates the cycle.
-
-### Origin
-`REFINE_PROTOCOL_PROPOSAL.md` (committed `823a459`, 2026-05-22). Alan: "yes to all" 2026-05-22. F.24 ship in commit `4291068`.
-
-</details>
-
-<details>
 <summary><b>SP.22 — E2E (End-to-End Verification)</b> ⭐ NEW 2026-05-22</summary>
 
 ### Full Name
