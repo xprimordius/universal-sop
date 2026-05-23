@@ -218,3 +218,10 @@ This file is listed in:
 | 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 1dbfea3 |
 | 2026-05-22 | aurelia | Meta-Verifier | 5 pass / 2 warnings | 1dbfea3 |
 | 2026-05-22 | aurelia | PRISTINE | issues:89 (0/30/20/38/0/1/0/0/0) | 1dbfea3 |
+| 2026-05-22 | aurelia | Verifier | 7 pass / 1 warnings | 1dbfea3 |
+| 2026-05-22 | aurelia | Validator | 10 pass / 0 warnings | 1dbfea3 |
+| 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 1dbfea3 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 1dbfea3 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | 8699408 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 8699408 |
+| 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | 8699408 |

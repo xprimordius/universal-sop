@@ -124,12 +124,9 @@ DEAD_LIST=""
 DOC_LIST=(
   README.md SESSION_START.md MANDATORY_TIGHT_LOOP.md UNIVERSAL_SOP_PROMPT.md
   PROTOCOLS_REFERENCE.md CONTINUATION_POINTER.md QUINTESSENCE_ROADMAP.md
-  USER_PROFILE.md SOP_GUIDE.md DEVICE_REGISTRY.md
-  cache/SESSION_STATE.md cache/FAILURE_LEDGER.md cache/SIR_LOG.md
+  CLAUDE.md USER_PROFILE.md SOP_GUIDE.md DEVICE_REGISTRY.md
+  cache/SESSION_STATE.md cache/CONTINUATION.md cache/FAILURE_LEDGER.md cache/SIR_LOG.md
 )
-# Excluded from dead-ref check (intentional historical/legacy references):
-#   - CLAUDE.md (LEGACY ZONE — preserves APW-era references on purpose)
-#   - cache/CONTINUATION.md (cumulative session log — references files from multiple sessions, some renamed)
 for md in "${DOC_LIST[@]}"; do
   [ -f "$md" ] || continue
   while IFS= read -r ref; do

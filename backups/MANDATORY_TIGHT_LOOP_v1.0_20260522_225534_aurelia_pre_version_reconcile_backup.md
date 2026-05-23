@@ -1,5 +1,5 @@
 # 🎯 MANDATORY TIGHT LOOP — The Reduced Ruleset That Actually Survives
-# VERSION: 1.5.1 | 2026-05-22 | Doctoral UC + Trivial-spec carve-out + SP.21 MES + 9-item Pulse Check | Universal SOP v1.3
+# VERSION: 1.0 | 2026-05-21 | Tier 1 of F.19 fix | Universal SOP v1.3
 # This file SUPERSEDES, for operational use, the full mandatory set in UNIVERSAL_SOP_PROMPT.md.
 # UNIVERSAL_SOP_PROMPT.md remains the reference rulebook — unchanged, complete, available.
 
@@ -33,7 +33,7 @@ If the output is QUICK-tier (single fact / lookup), the STEP line + answer + LTM
 
 ---
 
-## 📋 RULE 2 — THE 10 MANDATORY SUBSOPS (Tight Loop — v1.5.1)
+## 📋 RULE 2 — THE 10 MANDATORY SUBSOPS (Tight Loop — v1.4)
 
 These nine form a self-reinforcing execution loop. Each runs in every OUTPUT-STANDARD or OUTPUT-COMPLEX output. The other 9 SubSOPs are reference-only.
 
@@ -56,7 +56,7 @@ These remain documented in `PROTOCOLS_REFERENCE.md` and stay available — invok
 
 ---
 
-## 📋 RULE 3 — THE 9-ITEM PULSE CHECK (v1.5.1 — Adds P9 SP.21 MES Retrospective)
+## 📋 RULE 3 — THE 9-ITEM PULSE CHECK (v1.4 — Adds P9 SP.21 MES Retrospective)
 
 Visible near the bottom of every OUTPUT-STANDARD / OUTPUT-COMPLEX output (before Sync Status). Score X/9.
 
@@ -189,4 +189,4 @@ See `SELF_COMPLIANCE_FIX.md` for the full rationale + acceptance tests.
 
 ---
 
-*Universal Output SOP v1.3 | MANDATORY_TIGHT_LOOP.md v1.5.1 | Doctoral UC + Trivial-spec carve-out + SP.21 MES + 9-item Pulse Check | aurelia + future-replicate-everywhere | 2026-05-22*
+*Universal Output SOP v1.3 | MANDATORY_TIGHT_LOOP.md v1.0 | Tier 1 of F.19 fix (discipline → architecture) | aurelia + future-replicate-everywhere | 2026-05-21*

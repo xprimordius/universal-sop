@@ -240,10 +240,9 @@ When to invoke an agent (rare in normal flow — most outputs use inline SubSOPs
 | 🆔 | 🤖 Agent | 📍 File | 🚪 When To Use |
 |:---:|---------|---------|---------------|
 | 1 | **Controller** | `agents/controller.md` | Session start + every deliverable + after locked decisions. Orchestrates + maintains cache. ~5K tokens/session. |
-| 2 | **Validator-Merged** (Layer 1 — archived; superseded by F.19 chain) | `agents/archive/validator-merged.md` | Framework deliverables — POVP + Completeness + Simplicity + Cross-ref. ~5K tokens. **Current chain:** `agents/verifier.md` → `agents/validator.md` → `agents/qc.md` → `agents/meta_verifier.md` (per F.19 agent-chain rebuild 2026-05-21). |
-| 3 | **Karen** (Layer 2 — archived) | `agents/archive/karen-reality-check.md` | After Validator passes on MAJOR deliverables. Anti-rubber-stamp audit. ~7.5K tokens. **Note:** Replaced by mechanical pre-commit hook + Meta-Verifier (F.16 + F.19). |
-| 4 | **Paradox Resolver** (archived) | `agents/archive/paradox-resolver.md` | ON-DEMAND — SCIO/APW tension only. Rare. ~5K tokens. |
-| 5 | **Chiron** (Self-Improvement Lead, NEW 2026-05-22) | `agents/chiron.md` | Meta-cadence (monthly): protocol coverage audit + REFINE orchestration + F-class curation. Owner of `scripts/pristine_audit.sh`. |
+| 2 | **Validator-Merged** (Layer 1) | `agents/validator-merged.md` | Framework deliverables — POVP + Completeness + Simplicity + Cross-ref. ~5K tokens. |
+| 3 | **Karen** (Layer 2) | `agents/karen-reality-check.md` | After Validator passes on MAJOR deliverables. Anti-rubber-stamp audit. ~7.5K tokens. |
+| 4 | **Paradox Resolver** | `agents/paradox-resolver.md` | ON-DEMAND — SCIO/APW tension only. Rare. ~5K tokens. |
 
 **Skip agents for:** conversational responses, status updates, clarifying questions, file summaries.
 
