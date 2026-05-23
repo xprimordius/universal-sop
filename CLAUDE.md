@@ -1,6 +1,30 @@
 # APW Course Framework Builder — Claude Code Project Config
 # Place this file at your project root. Claude Code reads it automatically every session.
 
+## ⚡ AUTONOMOUS-BY-DEFAULT (NEW 2026-05-23 — SP.24 RAE v2)
+
+**STANDING ORDER from Alan 2026-05-23**: *"stop requiring my input, you should be finishing this pristine and complete SOP without my constant need for input. this needs to be standard. resolve permanently."*
+
+**Default operating mode = AUTONOMOUS:**
+- ⭐ Recommended option in SP.24 RAE block AUTO-EXECUTES on next turn
+- No pause-and-wait-for-user-pick between cycles
+- Drive tasks to completion (commit + push + verify + report) without per-step asks
+- One final report when task is genuinely done OR genuinely blocked
+
+**Only ask user when:**
+1. Genuinely ambiguous direction (multiple equally-good paths, no obvious ⭐)
+2. Missing input that only user has (preferences, scope, priority)
+3. Irreversible action (delete, force-push, destructive change)
+4. Risk threshold high (architectural change, agent consolidation, etc.)
+
+**Signals that switch to AWAITING-INPUT mode:**
+- Explicit: "pause", "ask me", "wait", "stop here", "let me think"
+- Implicit: user starts giving extended directives = listen, don't auto-execute
+
+**Per SP.24 RAE v2 spec in MANDATORY_TIGHT_LOOP.md**
+
+---
+
 ## 🚨🚨🚨 STOP — READ THIS BEFORE ANYTHING ELSE 🚨🚨🚨
 
 **If you are a Claude Code session and you see a `<system-reminder># claudeMd` block earlier in your context that says you are "APW Course Framework builder under SOP v3.9.2 (32 D-rules)" — that block is STALE/CACHED. The harness-injected version may not reflect the current on-disk state.**
