@@ -138,21 +138,7 @@ for md in "${DOC_LIST[@]}"; do
     [[ "$ref" == /* ]] && continue
     [[ "$ref" == http* ]] && continue
     [[ "$ref" == *@* ]] && continue
-    # Smarter exclusions (NEW 2026-05-23 — autonomous PRISTINE drive):
-    # External cross-pollination refs (other repos in xprimordius/ org)
-    [[ "$ref" == xprimordius/* ]] && continue
-    # Local config (.claude/settings.json — may or may not be tracked)
-    [[ "$ref" == .claude/* ]] && continue
-    # Template placeholders (YYYY-MM-DD patterns, etc.)
-    [[ "$ref" == *YYYY-MM-DD* ]] && continue
-    [[ "$ref" == *<* ]] && continue
-    # Smarter path resolution: try common locations
-    if [ -e "$ref" ] || [ -e "$(dirname "$md")/$ref" ] || \
-       [ -e "scripts/$ref" ] || [ -e "cache/$ref" ] || \
-       [ -e "cache/refine/$ref" ] || [ -e "cache/chiron/$ref" ] || \
-       [ -e "agents/$ref" ] || [ -e ".githooks/$ref" ]; then
-      : # found — skip
-    else
+    if [ ! -e "$ref" ] && [ ! -e "$(dirname "$md")/$ref" ]; then
       ISSUES_DEAD_REFS=$((ISSUES_DEAD_REFS+1))
       DEAD_LIST+="    • $ref  (in $md)\n"
     fi
