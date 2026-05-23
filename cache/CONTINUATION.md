@@ -399,3 +399,34 @@ Do NOT use any confirmation template that competes with SESSION_START.md STEP 2.
 ### Next session prompt fragment
 > "I'm continuing the Universal SOP project on aurelia. Last commit on origin/main is `<TBD>`. PRISTINE last at 58. SP.22 + SP.23 + SP.24 live; Chiron auto-runs monthly; pre-push E2E enforcing. Continue with Proposal #1 (Stop hook) or APW course?"
 
+
+---
+
+## 🆕 SESSION 7 FINAL HANDOFF (2026-05-23 — Aurelia Autonomous Drive)
+
+**Session arc:** PRISTINE 89 → 29 issues (-67%) across 7+ commits, all 13 pre-push E2E PASS.
+
+### Shipped this session (most-recent first)
+| Commit | What |
+|---|---|
+| `e76bde3` | Session-end auto-gen PRISTINE reports archived |
+| `1258a4d` | Cycle 6 — bulk 10-typo sed-fix (missing 25→17) |
+| `d0e1d2f` | Cycle 5 — SESSION_START archive_chat.sh path fix |
+| `5f43d7a` | PRISTINE v1.3 — DOC_LIST trim + path resolution (dead refs 27→1) |
+| `ceafa06` | Cycle 3 — mass-document 20 orphan backups (orphans 22→3) |
+| `50191a9` | Cycle 2 hotfix — pristine_audit.sh syntax bug |
+| `4239e37` | Cycle 1 — smarter dead-ref logic + 5 typo fixes |
+| `6364af8` | **SP.24 RAE v2 — AUTONOMOUS-BY-DEFAULT** (per Alan: "stop requiring my input...resolve permanently") |
+| `89f0aaf` | **F.31 PERMANENT FIX** — chain-write files gitignored (no more steady-state working-tree noise) |
+| earlier | LEARNINGS_FROM_INDUSTRY.md + SIMPLIFICATION_PROPOSAL.md (research → proposals) |
+| earlier | SP.20 REFINE cluster + SP.22 E2E + SP.23 PRISTINE + SP.24 RAE + Chiron agent + 6 REFINE agents |
+
+### Final PRISTINE (commit `e76bde3`)
+- E2E: 0 · Coverage: 11 · Backup integrity: 17 (mostly unrecoverable historical typos) · Dead refs: 1 · Permissions/Version/Remote/Hooks/Chiron: 0 · Orphans (info): 3 → **Total: 29**
+
+### To reach 🟡 IMPERFECT (<20) next session
+See `SIMPLIFICATION_PROPOSAL.md` — top action: ship **Proposal #1 Stop hook** (mechanical output-gate enforcement, Tier-3 of F.19 architecturally) to drop Direction A dormancy count (-9 → coverage 2). That alone puts verdict at ~20.
+
+### Cutover prompt for next chat
+> "Continue Universal SOP work. Last HEAD `e76bde3` (aurelia 2026-05-23). Read CONTINUATION_POINTER.md + cache/CONTINUATION.md + LEARNINGS_FROM_INDUSTRY.md + SIMPLIFICATION_PROPOSAL.md. Then ship SIMPLIFICATION_PROPOSAL.md #1 (Stop hook)."
+
