@@ -253,3 +253,15 @@ This file is listed in:
 | 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | 7639648 |
 | 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 7639648 |
 | 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | 7639648 |
+| 2026-05-22 | aurelia | Verifier | 2 pass / 6 warnings | 7639648 |
+| 2026-05-22 | aurelia | Validator | 8 pass / 2 warnings | 7639648 |
+| 2026-05-22 | aurelia | QC | 10 pass / 1 warnings | 7639648 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 7639648 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | d07b363 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | d07b363 |
+| 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | d07b363 |
+| 2026-05-22 | aurelia | QC | 11 pass / 0 warnings | d07b363 |
+| 2026-05-22 | aurelia | Meta-Verifier | 6 pass / 1 warnings | d07b363 |
+| 2026-05-22 | aurelia | E2E | 9 pass / 0 fail / 0 skip | d07b363 |
+| 2026-05-22 | aurelia | Coverage-Audit | A:9D/0U/1A · B:9S/0A missing | d07b363 |
+| 2026-05-22 | aurelia | PRISTINE | issues:66 (0/18/21/27/0/0/0/0/0) | d07b363 |
