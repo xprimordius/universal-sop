@@ -354,22 +354,6 @@ Until the user confirms direction, do NOT:
 
 **Structural anti-decay** — like the Ensurance System (EN.1–EN.4), this rule cannot be skipped under any "low-risk" / "small edit" / "just appending" rationale. If you find yourself thinking *"this edit is too small to bother backing up"* — that thought IS the failure mode. Back up anyway.
 
-### 🛡️ ENFORCEMENT MECHANISM (Added 2026-05-23 — answer to "where's the backup agent?")
-
-**No single named agent — distributed 5-layer mechanical enforcement.** No additional Claude agent needed (per LEARNINGS_FROM_INDUSTRY: mechanical > behavioral).
-
-| Layer | Where | What | Blocks? |
-|:-:|---|---|:-:|
-| 1 | `scripts/compliance_check.sh` CHECK 8 (NEW 2026-05-23) | At commit time: requires NEW BACKUP_LOG row in same staged diff if any non-meta file was MODIFIED. Catches "edited but didn't log." | ⚠️ warns (issue counted toward FAIL) |
-| 2 | `scripts/append_only_check.sh` (in `.githooks/pre-commit`) | At commit time: blocks if append-only files (BACKUP_LOG, FAILURE_LEDGER, SIR_LOG, META_AUDIT_LOG, SOP_HEALTH_METRICS) shrink. | 🚨 BLOCKS |
-| 3 | `scripts/pristine_audit.sh` §3 (BACKUP_LOG integrity) | On-demand / quarterly: for every BACKUP_LOG row, verify the referenced backup file exists on disk. Catches "logged but file missing/typo." | ⚠️ surfaces |
-| 4 | `scripts/pristine_audit.sh` §10 (Backup orphan detection) | On-demand / quarterly: for every `backups/*` file, verify it's referenced in BACKUP_LOG. Catches "exists but unlogged." | ⚠️ surfaces |
-| 5 | **Chiron** (`agents/chiron.md`) monthly run | Meta: trends layers 1–4 over time; flags if rule decay rate increases. | 📊 monitors |
-
-**Why no single "Backup Steward" agent:** per industry data ([LEARNINGS_FROM_INDUSTRY.md](LEARNINGS_FROM_INDUSTRY.md)), mechanical enforcement raises task accuracy MCC 0.43 → 0.88 vs behavioral. Adding an agent for what 5 mechanical layers already cover = adding complexity without reliability gain.
-
-**Failure mode caught:** Alan asked "where's the backup agent?" twice (2026-05-22 + 2026-05-23). Second ask triggered this enforcement-section addition + CHECK 8 ship. Pattern is now mechanical, not relying on AI discipline.
-
 **Origin:** 2026-05-21 — during Day-1 setup on device `aurelia` (Windows), AI appended a row to `cache/BACKUP_LOG.md` without a pre-edit backup file. Alan codified the rule via `/remember` to make the discipline cross-device. Then Alan added device-identity. In PARALLEL, `mac-main` worked the same problem space and added complementary infrastructure: `DEVICE_REGISTRY.md` (215 lines), `scripts/` (setup_device, append_only_check, check_device_activity, compliance_check, consistency_check), `.githooks/pre-commit` (version-controlled hook), and FAILURE_LEDGER entries F.13–F.16. Merged in commit `[aurelia | 2026-05-21 17:26 CDT]`. Remediation + rule + device-identity backups in `cache/BACKUP_LOG.md` rows #151–#160 (aurelia) + Mac's complementary work in rows #127–#150.
 
 **Relationship to legacy D32 and to Mac's Rules 6+7 (MULTI_DEVICE_GIT_PROTOCOL.md):** This rule and Mac's Rules 6+7 cover overlapping ground — both forbid deletion + enforce append-only. They are **complementary, not redundant**: this rule is the discipline + naming convention; Mac's Rules 6+7 plus `scripts/append_only_check.sh` + `.githooks/pre-commit` provide **mechanical enforcement** that blocks bad commits at the git layer. Together they form a belt-and-suspenders system. Legacy D32 (cache-only) is superseded by both.

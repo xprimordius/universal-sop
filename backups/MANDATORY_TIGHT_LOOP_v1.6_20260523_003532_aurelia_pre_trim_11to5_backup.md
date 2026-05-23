@@ -1,5 +1,5 @@
 # 🎯 MANDATORY TIGHT LOOP — The Reduced Ruleset That Actually Survives
-# VERSION: 1.7 | 2026-05-23 | Trimmed 11 → 5 mandatory + 5-item Pulse Check (per LEARNINGS_FROM_INDUSTRY + SIMPLIFICATION_PROPOSAL #3) | Universal SOP v1.3
+# VERSION: 1.6 | 2026-05-22 | SP.24 RAE (Recommendations At End) + 10-item Pulse Check + 11 mandatory SubSOPs | Universal SOP v1.3
 # This file SUPERSEDES, for operational use, the full mandatory set in UNIVERSAL_SOP_PROMPT.md.
 # UNIVERSAL_SOP_PROMPT.md remains the reference rulebook — unchanged, complete, available.
 
@@ -33,25 +33,7 @@ If the output is QUICK-tier (single fact / lookup), the STEP line + answer + LTM
 
 ---
 
-## 📋 RULE 2 — THE 5 MANDATORY SUBSOPS (Tight Loop — v1.7, trimmed from 11 per industry data)
-
-**Why trimmed 2026-05-23:** Industry research (LEARNINGS_FROM_INDUSTRY.md) showed 11 × 95%-per-item self-check fidelity = 57% chance of full compliance per output. 5 × 95% = 77% — significantly better odds. Per Alan: "it shouldnt take this many agents to just get the system to work."
-
-**Demoted from mandatory to Reference/Situational** (still documented, invoked when warranted, just not every-output): SP.5 FSP · SP.9 FE · SP.12 HFR · SP.15 EEP · SP.17 SIR · EN.4 Pulse Check (wrapper concept absorbed into EN.1 Output Skeleton).
-
-### TL;DR — The 5 Mandatory (every OUTPUT-STANDARD / OUTPUT-COMPLEX)
-
-| # | Protocol | One-line |
-|:-:|---|---|
-| 1 | **SP.6 IAC** (Understanding Check) | Restate user's spec at sub-clause granularity before executing |
-| 2 | **EN.1 Output Skeleton** | Mandatory structural slots: STEP / UC / body / Sync / RAE — visible, not implicit |
-| 3 | **SP.18 SSC** (Sync Status Confirmation) | End-of-output per-channel sync state (git commit / push / distance / backups) |
-| 4 | **SP.21 MES** (Model Effort Selector) | `🎯 MODEL:` declaration at TOP + Retrospective at END |
-| 5 | **SP.24 RAE** (Recommendations At End) | LAST block — numbered pickable list, max 5 options, effort-tagged |
-
-**Mandatory loops just got 45% shorter.** Per-output overhead reduced. Mechanical enforcement via validator.sh VL.1–VL.11 + compliance_check.sh CHECK 1–8 catches drift at commit time regardless of behavioral compliance.
-
-### Full table (now Reference for the 6 demoted items + spec for the 5 mandatory)
+## 📋 RULE 2 — THE 11 MANDATORY SUBSOPS (Tight Loop — v1.6)
 
 These nine form a self-reinforcing execution loop. Each runs in every OUTPUT-STANDARD or OUTPUT-COMPLEX output. The other 9 SubSOPs are reference-only.
 
@@ -75,27 +57,7 @@ These remain documented in `PROTOCOLS_REFERENCE.md` and stay available — invok
 
 ---
 
-## 📋 RULE 3 — THE 5-ITEM PULSE CHECK (v1.7 — trimmed from 10 per industry data)
-
-**Why trimmed:** Same compounding-error logic as Rule 2. 5 self-check items × 95% fidelity = 77% vs 10 × 95% = 60%. Per-output cognitive load reduced; mechanical Validator (VL.1–VL.11) + compliance_check (CHECK 1–8) still cover the demoted items at commit time.
-
-**Demoted Pulse Check items** (P5 EEP, P6 SIR, P8 FE, P2 Tables, P3 Headline-first, P4 Inference-marked): now style preferences enforced by USER_PROFILE not Pulse Check; per-output cost dropped without compliance cost (commit-time mechanical enforcement is the new floor).
-
-### Current 5-item Pulse Check (v1.7)
-
-| # | Item | What it catches |
-|:-:|------|-----------------|
-| P1 | **Honest numbers; N/M for unmeasurable** | Fabricated wall-clock time, made-up token counts, fake percentages. The #1 silent failure mode. |
-| P2 | **IAC present (SP.6)** | Understanding Check table at top before execution |
-| P3 | **SSC present (SP.18)** | Per-channel sync state at end |
-| P4 | **MES present + retrospective (SP.21)** | `🎯 MODEL:` at top + Retrospective near end |
-| P5 | **RAE present (SP.24)** | LAST block — numbered pickable recommendations |
-
-**Score:** 5/5 = ship. 4/5 with brief acknowledgment OK. ≤ 3/5 → fix before sending.
-
-**compliance_check.sh** accepts: 5/5 (current v1.7), 6/6 (v1.1 migration), 7/7 (v1.2), 8/8 (v1.3), 9/9 (v1.5.1), 10/10 (v1.6).
-
-### Historical 10-item Pulse Check (v1.6) — kept for reference
+## 📋 RULE 3 — THE 10-ITEM PULSE CHECK (v1.6 — Adds P10 SP.24 RAE)
 
 Visible near the bottom of every OUTPUT-STANDARD / OUTPUT-COMPLEX output (before Sync Status). Score X/9.
 
@@ -229,4 +191,4 @@ See `SELF_COMPLIANCE_FIX.md` for the full rationale + acceptance tests.
 
 ---
 
-*Universal Output SOP v1.3 | MANDATORY_TIGHT_LOOP.md v1.7 | TRIMMED to 5 mandatory + 5-item Pulse Check (per industry findings) | aurelia + future-replicate-everywhere | 2026-05-23*
+*Universal Output SOP v1.3 | MANDATORY_TIGHT_LOOP.md v1.6 | SP.24 RAE + 10-item Pulse Check + 11 mandatory SubSOPs | aurelia + future-replicate-everywhere | 2026-05-22*

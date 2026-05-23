@@ -284,3 +284,10 @@ This file is listed in:
 | 2026-05-23 | aurelia | E2E | 9 pass / 0 fail / 0 skip | a98c720 |
 | 2026-05-23 | aurelia | Coverage-Audit | A:9D/0U/1A · B:2S/0A missing | a98c720 |
 | 2026-05-23 | aurelia | PRISTINE | issues:59 (0/11/21/27/0/0/0/0/0) | a98c720 |
+| 2026-05-23 | aurelia | Verifier | 2 pass / 6 warnings | a98c720 |
+| 2026-05-23 | aurelia | Validator | 11 pass / 0 warnings | a98c720 |
+| 2026-05-23 | aurelia | QC | 10 pass / 1 warnings | a98c720 |
+| 2026-05-23 | aurelia | Meta-Verifier | 6 pass / 1 warnings | a98c720 |
+| 2026-05-23 | aurelia | QC | 11 pass / 0 warnings | 513da61 |
+| 2026-05-23 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 513da61 |
+| 2026-05-23 | aurelia | E2E | 9 pass / 0 fail / 0 skip | 513da61 |

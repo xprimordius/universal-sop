@@ -170,41 +170,6 @@ fi
 echo ""
 
 # ─────────────────────────────────────────────────────────
-# CHECK 8 — Backup-row REQUIRED for non-meta file modifications
-# Per Alan repeated query 2026-05-22 + 2026-05-23: "where's the backup agent?"
-# Mechanical enforcement of Universal Backup Rule (SESSION_START.md § "UNIVERSAL BACKUP & PRESERVATION RULE")
-# For any non-meta file MODIFIED in staged diff, require corresponding BACKUP_LOG row in same commit
-# ─────────────────────────────────────────────────────────
-echo "🔍 CHECK 8 — Backup-row required (Universal Backup Rule enforcement)"
-if [ -z "$TARGET_FILE" ]; then
-  # Files modified (M) — excluding append-only meta-logs + backups/ themselves + auto-generated reports
-  STAGED_MODIFIED=$(git diff --cached --name-only --diff-filter=M 2>/dev/null | grep -vE "^(backups/|cache/META_AUDIT_LOG\.md|cache/BACKUP_LOG\.md|cache/SOP_HEALTH_METRICS\.md|cache/SIR_LOG\.md|cache/META_AUDIT_TRAIL\.md|cache/chiron/|cache/refine/)" || true)
-  STAGED_COUNT=$(echo -n "$STAGED_MODIFIED" | grep -c . || echo 0)
-  STAGED_COUNT=${STAGED_COUNT:-0}
-
-  if [ "$STAGED_COUNT" -gt 0 ]; then
-    # Count NEW BACKUP_LOG rows in this diff (added lines starting with |NN|)
-    NEW_BACKUP_ROWS=$(git diff --cached cache/BACKUP_LOG.md 2>/dev/null | grep -cE "^\+\|[[:space:]]*[0-9]+[[:space:]]*\|" || echo 0)
-    NEW_BACKUP_ROWS=${NEW_BACKUP_ROWS:-0}
-
-    if [ "$NEW_BACKUP_ROWS" -eq 0 ]; then
-      echo "  ❌ $STAGED_COUNT non-meta file(s) modified but 0 new BACKUP_LOG rows in this commit:"
-      echo "$STAGED_MODIFIED" | head -5 | sed 's/^/       • /'
-      echo "     Per Universal Backup Rule (SESSION_START.md § UNIVERSAL BACKUP & PRESERVATION RULE):"
-      echo "     every modification needs: (a) backup file in backups/ + (b) BACKUP_LOG.md row."
-      ISSUES=$((ISSUES + 1))
-    else
-      echo "  ✅ $NEW_BACKUP_ROWS new BACKUP_LOG row(s) covering $STAGED_COUNT modification(s)"
-    fi
-  else
-    echo "  ℹ️  No non-meta file modifications in staged diff (skip)"
-  fi
-else
-  echo "  ℹ️  Target-file mode — skipping CHECK 8 (no diff context)"
-fi
-echo ""
-
-# ─────────────────────────────────────────────────────────
 # SUMMARY
 # ─────────────────────────────────────────────────────────
 echo "================================================"
