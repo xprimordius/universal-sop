@@ -300,3 +300,14 @@ This file is listed in:
 | 2026-05-23 | aurelia | E2E | 9 pass / 0 fail / 0 skip | 4a4b686 |
 | 2026-05-23 | aurelia | QC | 11 pass / 0 warnings | 4a4b686 |
 | 2026-05-23 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 4a4b686 |
+| 2026-05-23 | aurelia | verify_before_assert | 3 pass / 0 warnings | 4a4b686 |
+| 2026-05-23 | aurelia | E2E | 9 pass / 0 fail / 0 skip | 4a4b686 |
+| 2026-05-23 | aurelia | Verifier | 7 pass / 1 warnings | 4a4b686 |
+| 2026-05-23 | aurelia | Validator | 11 pass / 0 warnings | 4a4b686 |
+| 2026-05-23 | aurelia | QC | 10 pass / 1 warnings | 4a4b686 |
+| 2026-05-23 | aurelia | Meta-Verifier | 6 pass / 1 warnings | 4a4b686 |
+| 2026-05-23 | aurelia | Coverage-Audit | A:8D/1U/1A · B:2S/0A missing | 4a4b686 |
+| 2026-05-23 | aurelia | QC | 11 pass / 0 warnings | ddaee08 |
+| 2026-05-23 | aurelia | Meta-Verifier | 6 pass / 1 warnings | ddaee08 |
+| 2026-05-23 | aurelia | E2E | 9 pass / 0 fail / 0 skip | ddaee08 |
+| 2026-05-23 | aurelia | PRISTINE | issues:62 (0/11/24/27/0/0/0/0/0) | 4a4b686 |
