@@ -168,34 +168,6 @@ Every entry uses this format:
 </details>
 
 <details>
-<summary><b>F.31 — Steady-State Working Tree Noise From Chain Script Writes [STRUCTURAL FIX, NEW 2026-05-23] — ✅ Permanent Fix Shipped 2026-05-23</b></summary>
-
-- **Type:** STRUCTURAL FIX (recurrent — flagged 5+ times this session as "F.29 tail-condition steady-state expected", each time dismissed instead of fixed)
-- **First Observed:** 2026-05-22 throughout entire session — every commit cycle left `cache/META_AUDIT_LOG.md` + `cache/SOP_HEALTH_METRICS.md` in "modified" state because pre-commit chain + e2e_verify + pristine_audit + chiron_run all append rows to them, and writes occur AFTER staging but BEFORE commit creation (and outside commits when run standalone).
-- **2026-05-23 Trigger:** Alan: *"Sync??? failed again — fix permanently"* — after I'd asserted "✅ 0/0 pushed cleanly" 5+ times this session while working tree perpetually showed 2 modified files. User saw "pending" and interpreted as "sync broken."
-- **What Failed (the meta-pattern):**
-  - Sync state (HEAD vs origin) was actually 0/0 every time — TECHNICALLY correct
-  - Working tree state showed 2 modified files perpetually — VISUALLY broken
-  - I conflated "sync OK" with "everything OK" → repeatedly told user sync was fine while the user saw constant friction
-  - This is BOTH a confidence-without-verification recurrence (F.23 class) AND a structural drift the user wanted permanently solved (F.29 class)
-- **Root Cause:** `cache/META_AUDIT_LOG.md` + `cache/SOP_HEALTH_METRICS.md` were tracked files written by multiple scripts on every operation. The append pattern + git tracking = perpetual modified state. No matter how many times we committed the trailing rows, the NEXT operation produced new rows. Architectural choice was wrong: these files are operational logs (high-frequency write, per-device-relevant) but were tracked as if they were curated cross-device state.
-- **Permanent Fix (SHIPPED 2026-05-23):**
-  1. **`.gitignore` extended** — added `cache/META_AUDIT_LOG.md` + `cache/SOP_HEALTH_METRICS.md` with explanatory comment
-  2. **`git rm --cached`** — stopped tracking both files; preserved on disk for all readers (audit_chain_health, meta_verify, qc, pristine_audit, chiron_run all continue working)
-  3. **This F.31 entry** documents the meta-pattern + permanent fix
-- **Trade-off Acknowledged:**
-  - LOST: Cross-device chain history sync via git. Each device now builds its own META_AUDIT_LOG independently.
-  - PRESERVED: All per-device analysis (meta_verify, audit_chain_health, qc anti-rubber-stamp, chiron monthly). These were always per-device anyway.
-  - FUTURE: Chiron monthly run can write a CURATED summary to a tracked file if cross-device aggregation becomes valuable. v2.0 enhancement, not blocking.
-- **Verification:** Post-commit, `git status` shows clean working tree even after running e2e_verify / pristine_audit / chain agents. The constant "modified" noise is GONE.
-- **Lesson — Two recurring patterns named simultaneously:**
-  1. **F.23 cluster recurrence (confidence-without-verification):** I kept asserting "sync is fine" without considering the user's perspective of the working tree
-  2. **F.29 tail-condition was never properly fixed:** I deferred to "just push/pull" but the underlying mechanism kept producing noise
-- **Forward measure:** `git status` after any chain operation should show clean (no `M cache/META_AUDIT_LOG.md`). If it ever shows them again → either tracking was re-enabled (regression) OR a script started writing to a different tracked file (new drift).
-
-</details>
-
-<details>
 <summary><b>F.30 — Documentation-to-Activity Drift (5-Layer Coverage Matrix Gap) [META-PATTERN, NEW 2026-05-22] — ✅ Architectural Fix Shipped 2026-05-22</b></summary>
 
 - **Type:** META-PATTERN (recurrent — F.23 SP.9 FE dormancy + SP.22 E2E unformalized were two consecutive instances 5 days apart)

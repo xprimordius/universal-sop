@@ -50,12 +50,3 @@ node_modules/
 .obsidian/snippets/
 .trash/
 _attachments/.obsidian-conflict-*
-
-# F.31 PERMANENT FIX 2026-05-23 — Stop tracking files written by chain scripts on every run
-# These files get appended to by: pre-commit chain (verifier/validator/qc/meta_verify),
-# e2e_verify.sh, pristine_audit.sh, sop_health_dashboard.sh, chiron_run.sh, etc.
-# Result before this fix: working tree showed perpetual "modified" state → constant
-# false "sync failed" signal → user friction. Per Alan 2026-05-23 "fix permanently."
-# Trade-off: per-device chain history (cross-device aggregation via Chiron's curated reports).
-cache/META_AUDIT_LOG.md
-cache/SOP_HEALTH_METRICS.md
