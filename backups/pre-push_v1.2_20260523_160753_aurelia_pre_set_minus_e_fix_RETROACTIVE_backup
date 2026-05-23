@@ -1,0 +1,119 @@
+#!/usr/bin/env bash
+# 🔒 PRE-PUSH HOOK — Mechanical multi-device coordination
+# F.18 fix 2026-05-21 | Per Alan: "optimized for multi device pull and push live"
+#
+# Blocks `git push` if origin is ahead, preventing the rejected-push that
+# requires manual rebase. Cannot bypass without --no-verify.
+#
+# If remote is ahead: tells user to run scripts/safe_push.sh instead.
+# If remote is unchanged or behind: lets the push proceed.
+
+set -e
+
+PROJECT_ROOT="$(git rev-parse --show-toplevel)"
+cd "$PROJECT_ROOT"
+
+REMOTE_NAME="$1"   # provided by git (typically "origin")
+REMOTE_URL="$2"
+
+echo "🔒 PRE-PUSH SYNC CHECK"
+echo "================================================"
+
+# F.32 fix 2026-05-23 — Prevent nested/concurrent E2E spawning
+# Detection: if another pre-push or e2e_verify is already running, this is a duplicate push
+# Behavior: skip E2E in this invocation; allow push (other invocation handles verification)
+MY_PID=$$
+OTHER_PUSH=$(pgrep -f "\.githooks/pre-push" 2>/dev/null | grep -v "^$MY_PID$" | grep -v "^$PPID$" | head -1)
+OTHER_E2E=$(pgrep -f "scripts/e2e_verify\.sh" 2>/dev/null | head -1)
+if [ -n "$OTHER_PUSH" ] || [ -n "$OTHER_E2E" ]; then
+  echo "⚠️ F.32 — Another pre-push/E2E already running (PID ${OTHER_PUSH:-$OTHER_E2E}). Skipping duplicate E2E in this invocation."
+  echo "    Push will proceed; verification handled by the other in-flight push."
+  echo "================================================"
+  exit 0
+fi
+
+BRANCH=$(git branch --show-current)
+if [[ -z "$BRANCH" ]]; then
+  echo "⚠️  Detached HEAD — skipping sync check."
+  exit 0
+fi
+
+echo "Branch: $BRANCH → $REMOTE_NAME"
+
+# Fetch quietly so we know origin state
+if ! git fetch --quiet "$REMOTE_NAME" "$BRANCH" 2>/dev/null; then
+  echo "⚠️  Could not fetch $REMOTE_NAME/$BRANCH (new branch?). Letting push proceed."
+  exit 0
+fi
+
+LOCAL=$(git rev-parse HEAD 2>/dev/null || echo "")
+REMOTE=$(git rev-parse "$REMOTE_NAME/$BRANCH" 2>/dev/null || echo "")
+
+if [[ -z "$REMOTE" ]]; then
+  echo "ℹ️  No remote ref yet (first push of $BRANCH). Letting push proceed."
+  exit 0
+fi
+
+if [[ "$LOCAL" == "$REMOTE" ]]; then
+  echo "✅ Local matches remote — push will be no-op."
+  exit 0
+fi
+
+BASE=$(git merge-base HEAD "$REMOTE_NAME/$BRANCH" 2>/dev/null || echo "")
+
+if [[ "$REMOTE" == "$BASE" ]]; then
+  # Remote is at/before our base — straight fast-forward push allowed (subject to E2E gate).
+  AHEAD=$(git rev-list --count "$BASE..HEAD")
+  echo "✅ Local is ahead by $AHEAD commit(s), remote unchanged."
+  echo ""
+
+  # F.30 fix 2026-05-22 — E2E auto-fire (user: "E2E supposed to be automatic everytime")
+  # F.32 fix 2026-05-23 — Wrapped in 90s timeout to prevent hangs (avoid stuck push that needs kill)
+  if [ -f scripts/e2e_verify.sh ]; then
+    echo "🧪 Running E2E verification before push (90s timeout, blocks if FAIL > 0)..."
+    E2E_OUTPUT=$(timeout 90 bash scripts/e2e_verify.sh 2>&1)
+    E2E_EXIT=$?
+    if [ $E2E_EXIT -eq 124 ]; then
+      echo "⚠️ F.32 — E2E timed out after 90s. Allowing push with WARNING."
+      echo "    Investigate via standalone: bash scripts/e2e_verify.sh"
+      E2E_EXIT=0
+    fi
+    # Show verdict + totals only (not full per-check output — already in META_AUDIT_LOG)
+    echo "$E2E_OUTPUT" | grep -E "(VERDICT|Passed:|Failed:|Skipped:)" | head -4
+    if [ $E2E_EXIT -ne 0 ]; then
+      echo ""
+      echo "🚨 PUSH BLOCKED — E2E exit code $E2E_EXIT (FAIL > 0)."
+      echo "    See full output: bash scripts/e2e_verify.sh"
+      echo "    Bypass (NOT recommended): git push --no-verify"
+      echo "================================================"
+      exit 1
+    fi
+    echo "✅ E2E PASS — push allowed."
+  fi
+  echo "================================================"
+  exit 0
+fi
+
+# Remote has commits we don't have → diverged or behind
+BEHIND=$(git rev-list --count "$BASE..$REMOTE_NAME/$BRANCH")
+AHEAD=$(git rev-list --count "$BASE..HEAD")
+
+echo ""
+echo "🚨 PUSH BLOCKED — Remote $REMOTE_NAME/$BRANCH has $BEHIND commit(s) you don't have."
+if [[ "$AHEAD" -gt 0 ]]; then
+  echo "    You also have $AHEAD local commit(s) → branches have DIVERGED."
+fi
+echo ""
+echo "    Cause: another device pushed while you worked (multi-device scenario)."
+echo ""
+echo "    Fix (recommended — atomic + linear history):"
+echo "      bash scripts/safe_push.sh"
+echo ""
+echo "    Alternative (manual):"
+echo "      git pull --rebase origin $BRANCH"
+echo "      git push"
+echo ""
+echo "    Bypass (only if you know what you're doing):"
+echo "      git push --no-verify"
+echo "================================================"
+exit 1

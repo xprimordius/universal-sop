@@ -1,0 +1,5050 @@
+---
+title: _TIMELINE
+type: index
+tags:
+  - index
+  - moc
+---
+
+# Timeline - All Conversations by Month (both sources)
+
+_🟣 Claude · 🟢 ChatGPT_
+
+---
+
+
+## 2026-05  (43)
+
+- 🟣 `2026-05-01` [[2026-05-01 - Creating flashcards for memorization|Creating flashcards for memorization]]  #alan #teaching
+- 🟣 `2026-05-01` [[2026-05-01 - Communicating needs to a sensitive Pisces|Communicating needs to a sensitive Pisces]]  #alan
+- 🟣 `2026-05-02` [[2026-05-02 - AI leader qualifications in law firms|AI leader qualifications in law firms]]  #josephine #legal-tech
+- 🟣 `2026-05-02` [[2026-05-02 - Flight price analysis PSP to CUN|Flight price analysis PSP to CUN]]  #alan #sales #travel
+- 🟣 `2026-05-03` [[2026-05-03 - Preparing for Arup Das meeting|Preparing for Arup Das meeting]]  #josephine #networking
+- 🟣 `2026-05-03` [[2026-05-03 - 💬 Create me a great IG caption f…|💬 Create me a great IG caption f…]]  #alan #copywriting #instagram
+- 🟣 `2026-05-04` [[2026-05-04 - London itinerary for two days|London itinerary for two days]]  #alan #travel
+- 🟣 `2026-05-05` [[2026-05-05 - Seeking legal and tech mentorship|Seeking legal and tech mentorship]]  #josephine #faegre #legal-tech #networking #procurement #sales #high-signal
+- 🟣 `2026-05-05` [[2026-05-05 - PayPal business invoice policy and restrictions|PayPal business invoice policy and restrictions]]  #alan #payments
+- 🟣 `2026-05-05` [[2026-05-05 - Steam and Stream chargeback case time log analysis|Steam and Stream chargeback case time log analysis]]  #alan #chargeback #dispute
+- 🟣 `2026-05-05` [[2026-05-05 - FIB chargeback case conversation audit log|FIB chargeback case conversation audit log]]  #alan #chargeback #dispute #fib
+- 🟣 `2026-05-06` [[2026-05-06 - Understanding and purpose clarification|Understanding and purpose clarification]]  #alan
+- 🟣 `2026-05-06` [[2026-05-06 - Official invoice creation for Plastiq payment|Official invoice creation for Plastiq payment]]  #alan #payments
+- 🟣 `2026-05-06` [[2026-05-06 - Plastiq self-payment policy violation|Plastiq self-payment policy violation]]  #alan #payments
+- 🟣 `2026-05-06` [[2026-05-06 - 💬 Help me find good .com domains…|💬 Help me find good .com domains…]]  #alan
+- 🟣 `2026-05-06` [[2026-05-06 - Finding prestige virtual addresses in Irvine-Beverly Hills|Finding prestige virtual addresses in Irvine/Beverly Hills]]  #alan #address-strategy
+- 🟣 `2026-05-06` [[2026-05-06 - London itinerary for Josephine May 13-16|London itinerary for Josephine May 13-16]]  #josephine #travel
+- 🟣 `2026-05-06` [[2026-05-06 - Combine and compress files|Combine and compress files]]  #alan
+- 🟣 `2026-05-07` [[2026-05-07 - Untitled conversation|Untitled conversation]]  #alan
+- 🟣 `2026-05-08` [[2026-05-08 - Commercial office vs home address for funding approval|Commercial office vs home address for funding approval]]  #alan #address-strategy
+- 🟣 `2026-05-08` [[2026-05-08 - Importing prismaticprime.com to WordPress|Importing prismaticprime.com to WordPress]]  #alan #branding #domains
+- 🟣 `2026-05-11` [[2026-05-11 - Selecting domain names for consulting business|Selecting domain names for consulting business]]  #alan #branding #domains
+- 🟣 `2026-05-12` [[2026-05-12 - 💬 Easiest place to buy a domain…|💬 Easiest place to buy a domain…]]  #alan
+- 🟣 `2026-05-12` [[2026-05-12 - Red flags in banking and underwriting|Red flags in banking and underwriting]]  #alan #credit
+- 🟣 `2026-05-12` [[2026-05-12 - Insurance claim demand for vehicle damage and coating replacement|Insurance claim demand for vehicle damage and coating replacement]]  #alan
+- 🟣 `2026-05-13` [[2026-05-13 - Business credit card comparison and approval limits|Business credit card comparison and approval limits]]  #alan #business-credit #credit
+- 🟣 `2026-05-13` [[2026-05-13 - Hypoglycemic episode and amphetamine-like symptoms|Hypoglycemic episode and amphetamine-like symptoms]]  #alan #bloodwork #health
+- 🟣 `2026-05-13` [[2026-05-13 - Table of states with bank checklist|Table of states with bank checklist]]  #alan #bank-list #high-signal
+- 🟣 `2026-05-13` [[2026-05-13 - Personal astrological profile and birth chart|Personal astrological profile and birth chart]]  #alan #mindset
+- 🟣 `2026-05-13` [[2026-05-13 - Credit card accounts organized by reporting date|Credit card accounts organized by reporting date]]  #alan #credit
+- 🟣 `2026-05-15` [[2026-05-15 - Systematic data review and project checklist|Systematic data review and project checklist]]  #alan #high-signal
+- 🟣 `2026-05-15` [[2026-05-15 - Combining credit data across multiple Google Sheets|Combining credit data across multiple Google Sheets]]  #alan #credit
+- 🟣 `2026-05-15` [[2026-05-15 - Travelers insurance lienholder address|Travelers insurance lienholder address]]  #alan
+- 🟣 `2026-05-15` [[2026-05-15 - SOP and file integrity verification checklist|SOP and file integrity verification checklist]]  #alan #ops #sop #high-signal
+- 🟣 `2026-05-15` [[2026-05-15 - Sezzle Anywhere credit reporting impact|Sezzle Anywhere credit reporting impact]]  #alan #credit #tradeline
+- 🟣 `2026-05-16` [[2026-05-16 - Chibi anime couple sticker sheet design|Chibi anime couple sticker sheet design]]  #alan
+- 🟣 `2026-05-16` [[2026-05-16 - Extracting Wistia video subtitles and transcriptions|Extracting Wistia video subtitles and transcriptions]]  #alan #tech
+- 🟣 `2026-05-16` [[2026-05-16 - Gold funding breakdown by session|Gold funding breakdown by session]]  #alan #funding
+- 🟣 `2026-05-16` [[2026-05-16 - Multi-state business credit strategy for aged LLCs|Multi-state business credit strategy for aged LLCs]]  #alan #business-credit #credit #high-signal
+- 🟣 `2026-05-16` [[2026-05-16 - Productivity without boundaries|Productivity without boundaries]]  #alan #mindset
+- 🟣 `2026-05-16` [[2026-05-16 - CCA bank compatibility by state ranking|CCA bank compatibility by state ranking]]  #alan #bank-list #cca
+- 🟣 `2026-05-17` [[2026-05-17 - AI model alternatives for complex multi-agent workflows|AI model alternatives for complex multi-agent workflows]]  #alan #ai-workflow #ops
+- 🟣 `2026-05-17` [[2026-05-17 - Incorporating best practices|Incorporating best practices]]  #alan
+
+## 2026-04  (129)
+
+- 🟣 `2026-04-01` [[2026-04-01 - Organizing APW launch checklist and action steps|Organizing APW launch checklist and action steps]]  #alan #apw #funding #legal #ops #scio #tech #high-signal
+- 🟣 `2026-04-01` [[2026-04-01 - Finding available prismatic domain names|Finding available prismatic domain names]]  #alan #branding #credit #domains #funding #hiring #ops #tech
+- 🟣 `2026-04-01` [[2026-04-01 - Overcoming subconscious blocks to complete priority projects|Overcoming subconscious blocks to complete priority projects]]  #alan #apw #mindset #sales #scio #vsl
+- 🟣 `2026-04-02` [[2026-04-02 - UGC creator video agreement terms|UGC creator video agreement terms]]  #alan #apw #legal #marketing #sales #ugc #vsl #high-signal
+- 🟣 `2026-04-02` [[2026-04-02 - Bait and switch contract dispute|Bait and switch contract dispute]]  #alan #dbfi #dispute #fib #legal #reg-z #scam
+- 🟣 `2026-04-02` [[2026-04-02 - Comparing two things|Comparing two things]]  #alan #apw #funding #legal #sales #vsl #high-signal
+- 🟣 `2026-04-03` [[2026-04-03 - Operational staffing for premium account management|Operational staffing for premium account management]]  #alan #hiring #ops
+- 🟣 `2026-04-03` [[2026-04-03 - Eliminating static noise from video recordings|Eliminating static noise from video recordings]]  #alan
+- 🟣 `2026-04-03` [[2026-04-03 - Account age and status analysis by bureau|Account age and status analysis by bureau]]  #alan #account-age #credit #tradeline #high-signal
+- 🟣 `2026-04-04` [[2026-04-04 - Credit approval data points by priority|Credit approval data points by priority]]  #alan #apw #business-credit #credit #curriculum #dsl #funding #sales #teaching #high-signal
+- 🟣 `2026-04-05` [[2026-04-05 - 4K 120Hz monitor compatibility issues|4K 120Hz monitor compatibility issues]]  #alan #tech
+- 🟣 `2026-04-05` [[2026-04-05 - Resetting ASUS BIOS to unlock CPU frequency scaling|Resetting ASUS BIOS to unlock CPU frequency scaling]]  #alan #negotiation #tech
+- 🟣 `2026-04-05` [[2026-04-05 - Hot soup in plastic containers and microplastics|Hot soup in plastic containers and microplastics]]  #alan
+- 🟣 `2026-04-05` [[2026-04-05 - Detaching from mother in dream|Detaching from mother in dream]]  #alan #apw #dsl #sales #scio #vsl
+- 🟣 `2026-04-05` [[2026-04-05 - Corporate credit reporting and personal liability separation|Corporate credit reporting and personal liability separation]]  #alan #business-credit #credit #legal #ops #sales #sop #tradeline #high-signal
+- 🟣 `2026-04-05` [[2026-04-05 - XLR Dock MK.2 vs Scarlett 2i2 for SM7dB audio|XLR Dock MK.2 vs Scarlett 2i2 for SM7dB audio]]  #alan #tech
+- 🟣 `2026-04-05` [[2026-04-05 - Complete checklist and framework flow|Complete checklist and framework flow]]  #alan #apw #dsl #ops #sales #scio #vsl #high-signal
+- 🟣 `2026-04-06` [[2026-04-06 - Financial aid appeal to University of Iowa|Financial aid appeal to University of Iowa]]  #alan #finance
+- 🟣 `2026-04-06` [[2026-04-06 - 💬 Help me create the best IG ree…|💬 Help me create the best IG ree…]]  #alan #apw #copywriting #credit #funding #instagram #marketing #ops #sales #vsl #high-signal
+- 🟣 `2026-04-07` [[2026-04-07 - Intapp and Harbor integration for general counsel guidelines|Intapp and Harbor integration for general counsel guidelines]]  #josephine #faegre #legal #legal-tech #high-signal
+- 🟣 `2026-04-08` [[2026-04-08 - Contract red flags analysis|Contract red flags analysis]]  #alan #apw #contracts #credit #funding #legal #negotiation #tradeline
+- 🟣 `2026-04-08` [[2026-04-08 - Eastern medicine remedies for cold hands|Eastern medicine remedies for cold hands]]  #alan
+- 🟣 `2026-04-08` [[2026-04-08 - Explaining -reaffirm- in Vietnamese|Explaining 'reaffirm' in Vietnamese]]  #alan
+- 🟣 `2026-04-08` [[2026-04-08 - Mom's chest pain after BIOHM supplements|Mom's chest pain after BIOHM supplements]]  #alan #bloodwork #health #supplements
+- 🟣 `2026-04-08` [[2026-04-08 - SBA debt reporting to SPFE|SBA debt reporting to SPFE]]  #alan #funding
+- 🟣 `2026-04-08` [[2026-04-08 - CPU comparison for productivity, streaming, and gaming|CPU comparison for productivity, streaming, and gaming]]  #alan #ops #tech
+- 🟣 `2026-04-09` [[2026-04-09 - AMD 9850 vs Intel processor comparison|AMD 9850 vs Intel processor comparison]]  #alan #tech
+- 🟣 `2026-04-09` [[2026-04-09 - 285K processor pricing clarification|285K processor pricing clarification]]  #alan #tech
+- 🟣 `2026-04-09` [[2026-04-09 - Dell S5800 vs P4500 comparison|Dell S5800 vs P4500 comparison]]  #alan
+- 🟣 `2026-04-09` [[2026-04-09 - Dell financing- business vs personal credit impact|Dell financing: business vs personal credit impact]]  #alan #business-credit #credit #dell-financing #personal-credit #tradeline #high-signal
+- 🟣 `2026-04-09` [[2026-04-09 - A-class hire baseline requirements and screening|A-class hire baseline requirements and screening]]  #alan #ai-workflow #apw #funding #hiring #ops #sop #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - VSL sales script optimization and competitive analysis|VSL sales script optimization and competitive analysis]]  #alan #apw #cca #copywriting #dsl #instagram #marketing #meta-ads #ops #sales #scio #vsl #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - Trinity by Interstellar Blend use case|Trinity by Interstellar Blend use case]]  #alan #apw #health #sales #supplements #vsl #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - SCIO 7-8 figure training checklist|SCIO 7-8 figure training checklist]]  #alan #apw #copywriting #dsl #funding #hiring #legal #sales #scio #vsl #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - Focusrite to SM7dB cable setup|Focusrite to SM7dB cable setup]]  #alan #tech
+- 🟣 `2026-04-13` [[2026-04-13 - Understanding acqui-hire|Understanding acqui-hire]]  #alan
+- 🟣 `2026-04-13` [[2026-04-13 - Chicken thigh protein cost comparison|Chicken thigh protein cost comparison]]  #alan #fitness #health
+- 🟣 `2026-04-13` [[2026-04-13 - Humanizing SMS welcome message for leads|Humanizing SMS welcome message for leads]]  #alan #apw #branding #copywriting #funding #legal #sms
+- 🟣 `2026-04-13` [[2026-04-13 - DTI calculation at multiple income levels|DTI calculation at multiple income levels]]  #alan #funding
+- 🟣 `2026-04-13` [[2026-04-13 - April 12 payment total calculation|April 12 payment total calculation]]  #alan
+- 🟣 `2026-04-13` [[2026-04-13 - Amex siding with merchant on return refusal|Amex siding with merchant on return refusal]]  #alan #amex #chargeback #dispute #legal #reg-z #scam #tech
+- 🟣 `2026-04-14` [[2026-04-14 - Comparing bottom sirloin to top sirloin and chuck eye|Comparing bottom sirloin to top sirloin and chuck eye]]  #alan #fitness #health
+- 🟣 `2026-04-14` [[2026-04-14 - Structuring equity incentives for operations managers and future partners|Structuring equity incentives for operations managers and future partners]]  #alan #equity #hiring
+- 🟣 `2026-04-14` [[2026-04-14 - Monthly interest calculations for 2025|Monthly interest calculations for 2025]]  #alan #finance #legal
+- 🟣 `2026-04-14` [[2026-04-14 - Car depreciation and tax deductions|Car depreciation and tax deductions]]  #alan #finance #legal
+- 🟣 `2026-04-14` [[2026-04-14 - Faegre Drinker Am Law ranking|Faegre Drinker Am Law ranking]]  #josephine #faegre #legal-tech #procurement
+- 🟣 `2026-04-14` [[2026-04-14 - Calculating wages with FICA for tax returns|Calculating wages with FICA for tax returns]]  #alan #finance
+- 🟣 `2026-04-15` [[2026-04-15 - AI vendor contract key clauses|AI vendor contract key clauses]]  #josephine #contracts #legal #procurement
+- 🟣 `2026-04-15` [[2026-04-15 - Alex Hormozi naming formula|Alex Hormozi naming formula]]  #alan #apw #blitz #branding #copywriting #funding #health #hiring #prime-protocol #scio #surgery #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Kellogg AI strategies for business transformation|Kellogg AI strategies for business transformation]]  #alan #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Missing chat about DSL slides with artifacts|Missing chat about DSL slides with artifacts]]  #alan #apw #dsl #funding #sales #scio #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Saving progress before context limit|Saving progress before context limit]]  #alan #ai-workflow #apw #dsl #funding #sales #scio #vsl #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Memory update review|Memory update review]]  #alan #apw #blitz #business-credit #cfpb #credit #dbfi #dispute #dj-music #dsl #fib #fitness #funding #health #instagram #legal #marketing #prime-protocol #reg-z #sales #scio #supplements #tech #vsl #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Continuing previous chat with context|Continuing previous chat with context]]  #alan #apw #dsl #ops #sales #sop #teaching #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Unified HTML SOP creation|Unified HTML SOP creation]]  #alan #apw #ops #sop #high-signal
+- 🟣 `2026-04-16` [[2026-04-16 - Jelly Roll's Goodnight Nashville bar location|Jelly Roll's Goodnight Nashville bar location]]  #alan #travel
+- 🟣 `2026-04-16` [[2026-04-16 - SOP fidelity and AI fabrication issues|SOP fidelity and AI fabrication issues]]  #alan #apw #copywriting #instagram #legal #marketing #ops #sales-framework #sop #high-signal
+- 🟣 `2026-04-16` [[2026-04-16 - Global financial hierarchy and money flow structures|Global financial hierarchy and money flow structures]]  #alan #dispute #legal #scam
+- 🟣 `2026-04-16` [[2026-04-16 - Building intuitive mastery through step-by-step learning|Building intuitive mastery through step-by-step learning]]  #alan #apw #dispute #legal #marketing #mindset #sales #scam #high-signal
+- 🟣 `2026-04-16` [[2026-04-16 - Identifying binding clauses in investment agreement|Identifying binding clauses in investment agreement]]  #alan #address-strategy #apw #business-credit #contracts #credit #funding #legal #tradeline #high-signal
+- 🟣 `2026-04-16` [[2026-04-16 - Best food and music near Margaritaville Broadway|Best food and music near Margaritaville Broadway]]  #alan #travel
+- 🟣 `2026-04-17` [[2026-04-17 - Funny accounting and finance terms|Funny accounting and finance terms]]  #alan
+- 🟣 `2026-04-17` [[2026-04-17 - Unresponsive financial institution and consumer rights violations|Unresponsive financial institution and consumer rights violations]]  #alan #cfpb #chargeback #dbfi #demand-letter #dispute #fib #legal #reg-z #high-signal
+- 🟣 `2026-04-17` [[2026-04-17 - Supplement ingredient effectiveness evaluation|Supplement ingredient effectiveness evaluation]]  #alan #health #supplements
+- 🟣 `2026-04-17` [[2026-04-17 - Shiny vs matte foil sides- does it matter|Shiny vs matte foil sides: does it matter?]]  #alan
+- 🟣 `2026-04-17` [[2026-04-17 - Identifying unknown phone number|Identifying unknown phone number]]  #alan #dispute #legal #scam
+- 🟣 `2026-04-18` [[2026-04-18 - Protecting inherited money from a spouse|Protecting inherited money from a spouse]]  #alan #family #legal
+- 🟣 `2026-04-18` [[2026-04-18 - Identifying sender and document analysis direction|Identifying sender and document analysis direction]]  #alan
+- 🟣 `2026-04-18` [[2026-04-18 - Hidden monetary systems and elite financial operations|Hidden monetary systems and elite financial operations]]  #alan
+- 🟣 `2026-04-18` [[2026-04-18 - Untitled conversation|Untitled conversation]]  #alan
+- 🟣 `2026-04-18` [[2026-04-18 - 💬 What do you call when people g…|💬 What do you call when people g…]]  #alan #high-signal
+- 🟣 `2026-04-19` [[2026-04-19 - Pet flex terminology|Pet flex terminology]]  #alan
+- 🟣 `2026-04-19` [[2026-04-19 - Developing reflection exercises|Developing reflection exercises]]  #alan #mindset
+- 🟣 `2026-04-19` [[2026-04-19 - Gold to silver ratio historical trends|Gold to silver ratio historical trends]]  #alan #finance #funding
+- 🟣 `2026-04-19` [[2026-04-19 - Astrocartography for relocation and business funding|Astrocartography for relocation and business funding]]  #alan #apw #contracts #funding #legal #mindset #procurement #high-signal
+- 🟣 `2026-04-19` [[2026-04-19 - 💬 I paid $160 originally for nai…|💬 I paid $160 originally for nai…]]  #alan
+- 🟣 `2026-04-20` [[2026-04-20 - Exporting APW notes to Obsidian with animated grid visualization|Exporting APW notes to Obsidian with animated grid visualization]]  #alan #ai-workflow #apw #blitz #curriculum #dsl #funding #legal #marketing #prime-protocol #sales #scio #teaching #ugc #vsl #high-signal
+- 🟣 `2026-04-20` [[2026-04-20 - Understanding Google AI mode chat|Understanding Google AI mode chat]]  #alan #ai-workflow #apw #mindset
+- 🟣 `2026-04-20` [[2026-04-20 - Thick white vaginal discharge causes|Thick white vaginal discharge causes]]  #alan
+- 🟣 `2026-04-20` [[2026-04-20 - Chest pain and TRT-related blood clot risk|Chest pain and TRT-related blood clot risk]]  #alan #bloodwork #health #trt
+- 🟣 `2026-04-20` [[2026-04-20 - Accutane side effects|Accutane side effects]]  #alan #health #skin
+- 🟣 `2026-04-20` [[2026-04-20 - CFPB response for repeated non-compliance|CFPB response for repeated non-compliance]]  #alan #cfpb #dbfi #dispute #fib #legal #legal-tech #reg-z
+- 🟣 `2026-04-20` [[2026-04-20 - 💬 r 20, 2026, at 2-59 PM, Admiss…|💬 r 20, 2026, at 2:59 PM, Admiss…]]  #alan
+- 🟣 `2026-04-20` [[2026-04-20 - Accutane side effects and cystic acne treatment|Accutane side effects and cystic acne treatment]]  #alan #health #skin
+- 🟣 `2026-04-21` [[2026-04-21 - CFPB complaint against DBFI for unlawful chargeback denial|CFPB complaint against DBFI for unlawful chargeback denial]]  #alan #cfpb #chargeback #dbfi #dispute
+- 🟣 `2026-04-21` [[2026-04-21 - Setting up work preferences with Josephine|Setting up work preferences with Josephine]]  #josephine
+- 🟣 `2026-04-21` [[2026-04-21 - CFPB complaint against DBFI for unlawful chargeback denial-2|CFPB complaint against DBFI for unlawful chargeback denial]]  #alan #cfpb #chargeback #dbfi #dispute #fib #hiring #legal #legal-tech #reg-z #sales
+- 🟣 `2026-04-21` [[2026-04-21 - CFPB complaint against DBFI for unlawful chargeback denial-3|CFPB complaint against DBFI for unlawful chargeback denial]]  #alan #branding #cfpb #chargeback #copywriting #dbfi #dispute #domains #fib #hiring #legal #legal-tech #payments #reg-z #high-signal
+- 🟣 `2026-04-21` [[2026-04-21 - Residential address verification for banking|Residential address verification for banking]]  #alan #address-strategy
+- 🟣 `2026-04-21` [[2026-04-21 - North Loop bars with strong drinks|North Loop bars with strong drinks]]  #alan #travel
+- 🟣 `2026-04-22` [[2026-04-22 - Faegre Drinker products and technical support role|Faegre Drinker products and technical support role]]  #josephine #faegre #legal-tech
+- 🟣 `2026-04-22` [[2026-04-22 - Paycheck discrepancy with tips and wages|Paycheck discrepancy with tips and wages]]  #alan #finance
+- 🟣 `2026-04-22` [[2026-04-22 - Data HTML creative summary|Data HTML creative summary]]  #alan
+- 🟣 `2026-04-22` [[2026-04-22 - Balancing personal obligations with business deadlines|Balancing personal obligations with business deadlines]]  #alan #apw #cca #funding #instagram #marketing #ops #sales #sales-framework #sop #vsl #high-signal
+- 🟣 `2026-04-22` [[2026-04-22 - Reporting phish and junk in Outlook|Reporting phish and junk in Outlook]]  #alan
+- 🟣 `2026-04-22` [[2026-04-22 - Visual redesign of existing document|Visual redesign of existing document]]  #alan
+- 🟣 `2026-04-22` [[2026-04-22 - Mark all inbox messages as read|Mark all inbox messages as read]]  #alan
+- 🟣 `2026-04-22` [[2026-04-22 - Hit and run insurance claim assistance|Hit and run insurance claim assistance]]  #alan #legal #negotiation
+- 🟣 `2026-04-23` [[2026-04-23 - 💬 Somewhere In between elmhurst…|💬 Somewhere In between elmhurst…]]  #alan
+- 🟣 `2026-04-23` [[2026-04-23 - Objective analysis without bias|Objective analysis without bias]]  #alan
+- 🟣 `2026-04-23` [[2026-04-23 - Spelling and identity confirmation|Spelling and identity confirmation]]  #alan
+- 🟣 `2026-04-23` [[2026-04-23 - Framework checklist overview|Framework checklist overview]]  #alan #high-signal
+- 🟣 `2026-04-24` [[2026-04-24 - Recurring cysts on legs and arms|Recurring cysts on legs and arms]]  #alan #health #skin
+- 🟣 `2026-04-24` [[2026-04-24 - 💬 So nice to connect with you in…|💬 So nice to connect with you in…]]  #alan #networking #high-signal
+- 🟣 `2026-04-24` [[2026-04-24 - Budget waterpark options in Wisconsin Dells|Budget waterpark options in Wisconsin Dells]]  #alan #travel
+- 🟣 `2026-04-24` [[2026-04-24 - 💬 Olympus wont let me have the r…|💬 Olympus wont let me have the r…]]  #alan
+- 🟣 `2026-04-25` [[2026-04-25 - Verifying contractor insurance and bonding|Verifying contractor insurance and bonding]]  #alan #legal #high-signal
+- 🟣 `2026-04-25` [[2026-04-25 - Identifying investment scams and pump-and-dump schemes|Identifying investment scams and pump-and-dump schemes]]  #alan #dispute #scam
+- 🟣 `2026-04-25` [[2026-04-25 - Need Your Love OneRepublic summary|Need Your Love OneRepublic summary]]  #alan #dj-music
+- 🟣 `2026-04-25` [[2026-04-25 - International hire compensation cost breakdown|International hire compensation cost breakdown]]  #alan #hiring
+- 🟣 `2026-04-26` [[2026-04-26 - Mythos project context clarification|Mythos project context clarification]]  #alan #ops
+- 🟣 `2026-04-26` [[2026-04-26 - Correcting DUNS business revenue with financial statement|Correcting DUNS business revenue with financial statement]]  #alan #business-credit #credit
+- 🟣 `2026-04-26` [[2026-04-26 - Untitled conversation|Untitled conversation]]  #alan
+- 🟣 `2026-04-26` [[2026-04-26 - Zara promo codes and discounts|Zara promo codes and discounts]]  #alan
+- 🟣 `2026-04-26` [[2026-04-26 - Modern private offices in Miami with month-to-month leases|Modern private offices in Miami with month-to-month leases]]  #alan
+- 🟣 `2026-04-27` [[2026-04-27 - First meeting preparation with business owner|First meeting preparation with business owner]]  #alan #sales
+- 🟣 `2026-04-27` [[2026-04-27 - LinkedIn outreach to Mortenson for Pip Fabrication intro|LinkedIn outreach to Mortenson for Pip Fabrication intro]]  #josephine #networking
+- 🟣 `2026-04-27` [[2026-04-27 - Distance from Hyde Park to London Eye|Distance from Hyde Park to London Eye]]  #alan #travel
+- 🟣 `2026-04-27` [[2026-04-27 - Toyota Sienna annual insurance cost|Toyota Sienna annual insurance cost]]  #alan #finance #hiring #high-signal
+- 🟣 `2026-04-27` [[2026-04-27 - Manager vs individual contributor tension|Manager vs individual contributor tension]]  #alan
+- 🟣 `2026-04-28` [[2026-04-28 - London visa requirements from Minneapolis|London visa requirements from Minneapolis]]  #alan #travel
+- 🟣 `2026-04-28` [[2026-04-28 - Managing workload and sleep deprivation|Managing workload and sleep deprivation]]  #alan
+- 🟣 `2026-04-28` [[2026-04-28 - London ETA clarification|London ETA clarification]]  #alan #travel
+- 🟣 `2026-04-28` [[2026-04-28 - Reading multiple data sheets|Reading multiple data sheets]]  #alan
+- 🟣 `2026-04-29` [[2026-04-29 - APW contract with dual guarantee structure|APW contract with dual guarantee structure]]  #alan #apw #legal
+- 🟣 `2026-04-29` [[2026-04-29 - TRT injection site location|TRT injection site location]]  #alan #health #trt
+- 🟣 `2026-04-29` [[2026-04-29 - Accessing social media training data|Accessing social media training data]]  #alan
+- 🟣 `2026-04-30` [[2026-04-30 - Food near me|Food near me]]  #alan
+- 🟣 `2026-04-30` [[2026-04-30 - Reaffirmation agreement after discharge deadline missed|Reaffirmation agreement after discharge deadline missed]]  #alan #bankruptcy #legal
+
+## 2026-03  (285)
+
+- 🟢 `2026-03-01` [[2026-03-01 - Treadmill Steps Calculation|Treadmill Steps Calculation]]  #alan
+- 🟣 `2026-03-01` [[2026-03-01 - Optimized course wireframe for 7-day fast start program|Optimized course wireframe for 7-day fast start program]]  #alan #apw #branding #credit #curriculum #funding #teaching #utilization #high-signal
+- 🟢 `2026-03-01` [[2026-03-01 - Fat Loss Timeline IF Keto|Fat Loss Timeline IF Keto]]  #alan
+- 🟣 `2026-03-01` [[2026-03-01 - Ascend Prime Wealth curriculum for medical practice owners|Ascend Prime Wealth curriculum for medical practice owners]]  #alan #apw #branding #credit #curriculum #funding #personal-credit #teaching #utilization #high-signal
+- 🟢 `2026-03-01` [[2026-03-01 - Percentage Calculation|Percentage Calculation]]  #alan #credit
+- 🟢 `2026-03-01` [[2026-03-01 - Elite CEO Brain Optimization|Elite CEO Brain Optimization]]  #alan
+- 🟣 `2026-03-01` [[2026-03-01 - Optimizing brain performance with supplements and fuel|Optimizing brain performance with supplements and fuel]]  #alan #dispute #health #scam #supplements #high-signal
+- 🟣 `2026-03-01` [[2026-03-01 - CEO performance supplement comparison|CEO performance supplement comparison]]  #alan #health #supplements #high-signal
+- 🟢 `2026-03-01` [[2026-03-01 - Now Alchemy 528 Hz|Now Alchemy 528 Hz]]  #alan
+- 🟣 `2026-03-01` [[2026-03-01 - Casual greeting exchange|Casual greeting exchange]]  #alan #legal #tech
+- 🟢 `2026-03-01` [[2026-03-01 - Cat-8 Latency for Gaming|Cat-8 Latency for Gaming]]  #alan
+- 🟣 `2026-03-02` [[2026-03-02 - Untitled conversation|Untitled conversation]]  #alan
+- 🟣 `2026-03-02` [[2026-03-02 - Untitled conversation-2|Untitled conversation]]  #alan #tech
+- 🟢 `2026-03-02` [[2026-03-02 - Monitor cable efficiency|Monitor cable efficiency]]  #alan #tech
+- 🟢 `2026-03-02` [[2026-03-02 - Monitor Placement Solutions|Monitor Placement Solutions]]  #alan #tech
+- 🟢 `2026-03-02` [[2026-03-02 - CFG Autoexec Legitimacy|CFG Autoexec Legitimacy]]  #alan #fitness
+- 🟢 `2026-03-02` [[2026-03-02 - CapCut AV1 edit|CapCut AV1 edit]]  #alan
+- 🟢 `2026-03-02` [[2026-03-02 - CapCut edit EV one|CapCut edit EV one]]  #alan
+- 🟢 `2026-03-02` [[2026-03-02 - Apex Exited Game Fix|Apex Exited Game Fix]]  #alan
+- 🟢 `2026-03-02` [[2026-03-02 - Dx12 vs Regular Apex|Dx12 vs Regular Apex]]  #alan
+- 🟢 `2026-03-02` [[2026-03-02 - Middle East Conflict Updates|Middle East Conflict Updates]]  #alan
+- 🟢 `2026-03-02` [[2026-03-02 - Apex Engine Limitation|Apex Engine Limitation]]  #alan
+- 🟢 `2026-03-02` [[2026-03-02 - Threading vs Microblading|Threading vs Microblading]]  #alan
+- 🟢 `2026-03-02` [[2026-03-02 - Demand Letter Without Attorney|Demand Letter Without Attorney]]  #alan #demand-letter #dispute
+- 🟢 `2026-03-02` [[2026-03-02 - Yakima EXO SwingBase Torque|Yakima EXO SwingBase Torque]]  #alan
+- 🟢 `2026-03-02` [[2026-03-02 - Amex Business Gold Points|Amex Business Gold Points]]  #alan #amex
+- 🟢 `2026-03-02` [[2026-03-02 - CFPB Complaint Guidance|CFPB Complaint Guidance]]  #alan #cfpb #dispute #scam
+- 🟣 `2026-03-02` [[2026-03-02 - Reframing bank complaint for regulatory examination|Reframing bank complaint for regulatory examination]]  #alan #chargeback #dispute #legal #sales #scam #high-signal
+- 🟣 `2026-03-02` [[2026-03-02 - Escalating urgent compliance requests|Escalating urgent compliance requests]]  #alan #cfpb #dispute #fib #legal #high-signal
+- 🟢 `2026-03-03` [[2026-03-03 - Data Lake RFP Expedited|Data Lake RFP Expedited]]  #alan #procurement #high-signal
+- 🟢 `2026-03-03` [[2026-03-03 - AAoA Risk Impact Optimization|AAoA Risk Impact Optimization]]  #alan
+- 🟣 `2026-03-03` [[2026-03-03 - Average account age and credit risk timeline|Average account age and credit risk timeline]]  #alan #account-age #credit
+- 🟢 `2026-03-03` [[2026-03-03 - Dissolvable Vaginal Stitches|Dissolvable Vaginal Stitches]]  #alan #health #skin
+- 🟢 `2026-03-03` [[2026-03-03 - Spending Breakdown and Analysis|Spending Breakdown and Analysis]]  #alan
+- 🟢 `2026-03-03` [[2026-03-03 - Claude Code Course Summary|Claude Code Course Summary]]  #alan
+- 🟣 `2026-03-03` [[2026-03-03 - Adding partner to pixel data set assets|Adding partner to pixel data set assets]]  #alan
+- 🟢 `2026-03-03` [[2026-03-03 - Refund Timing to Chase|Refund Timing to Chase]]  #alan
+- 🟣 `2026-03-03` [[2026-03-03 - Finding high-intent markets for Ascend Prime Wealth ads|Finding high-intent markets for Ascend Prime Wealth ads]]  #alan #apw #copywriting #funding #marketing #meta-ads
+- 🟢 `2026-03-03` [[2026-03-03 - AYBL promo codes|AYBL promo codes]]  #alan #credit #travel
+- 🟣 `2026-03-03` [[2026-03-03 - Responding to Regulation Z investigation letter|Responding to Regulation Z investigation letter]]  #alan #cfpb #chargeback #dbfi #dispute #fib #legal #reg-z
+- 🟢 `2026-03-03` [[2026-03-03 - Air Quality Sleep Spike|Air Quality Sleep Spike]]  #alan #fitness #health #supplements
+- 🟣 `2026-03-03` [[2026-03-03 - Mother's insertional Achilles tendon surgery|Mother's insertional Achilles tendon surgery]]  #alan #health #surgery
+- 🟢 `2026-03-03` [[2026-03-03 - Disputing Bankruptcy on Credit|Disputing Bankruptcy on Credit]]  #alan #bankruptcy #credit #legal
+- 🟢 `2026-03-03` [[2026-03-03 - Tóm tắt và dịch thuật|Tóm tắt và dịch thuật]]  #alan #bankruptcy #legal
+- 🟢 `2026-03-03` [[2026-03-03 - Hạn chót nợ phá sản|Hạn chót nợ phá sản]]  #alan #bankruptcy #legal
+- 🟢 `2026-03-03` [[2026-03-03 - AI in Meta Messenger|AI in Meta Messenger]]  #alan
+- 🟢 `2026-03-03` [[2026-03-03 - การลูดิ่ง|การลูดิ่ง]]  #alan
+- 🟢 `2026-03-04` [[2026-03-04 - Epstein DNA Vaccine Claim|Epstein DNA Vaccine Claim]]  #alan
+- 🟢 `2026-03-04` [[2026-03-04 - Amazon Refund Policy Issues|Amazon Refund Policy Issues]]  #alan
+- 🟢 `2026-03-04` [[2026-03-04 - CEO Brain Supplements|CEO Brain Supplements]]  #alan #health #supplements
+- 🟢 `2026-03-04` [[2026-03-04 - Bankruptcy Trustee Fund Distribution|Bankruptcy Trustee Fund Distribution]]  #alan #bankruptcy #legal
+- 🟢 `2026-03-04` [[2026-03-04 - Kuwait response clarification|Kuwait response clarification]]  #alan
+- 🟢 `2026-03-04` [[2026-03-04 - Brain Power Supplements Comparison|Brain Power Supplements Comparison]]  #alan #health #supplements
+- 🟢 `2026-03-04` [[2026-03-04 - Las Vegas Sunset Spots|Las Vegas Sunset Spots]]  #alan
+- 🟢 `2026-03-04` [[2026-03-04 - Amazon Return Policy Violation|Amazon Return Policy Violation]]  #alan
+- 🟢 `2026-03-04` [[2026-03-04 - NMU Safety and Quality|NMU Safety and Quality]]  #alan
+- 🟢 `2026-03-05` [[2026-03-05 - AI Data Center Power Sources|AI Data Center Power Sources]]  #alan
+- 🟢 `2026-03-05` [[2026-03-05 - Iron Man Symbol Explanation|Iron Man Symbol Explanation]]  #alan
+- 🟢 `2026-03-05` [[2026-03-05 - Chuck Roast Steak Reaction|Chuck Roast Steak Reaction]]  #alan
+- 🟢 `2026-03-05` [[2026-03-05 - Business Credit Card Authorized User|Business Credit Card Authorized User]]  #alan #business-credit #credit #funding
+- 🟢 `2026-03-05` [[2026-03-05 - Overtime Compliance and Laws|Overtime Compliance and Laws]]  #alan #legal
+- 🟢 `2026-03-05` [[2026-03-05 - BIOHM and Dextroamphetamine Interaction|BIOHM and Dextroamphetamine Interaction]]  #alan #supplements
+- 🟢 `2026-03-05` [[2026-03-05 - What is colostrum|What is colostrum]]  #alan
+- 🟢 `2026-03-05` [[2026-03-05 - FTC Bait-and-Switch Laws|FTC Bait-and-Switch Laws]]  #alan #apw #sales #vsl
+- 🟢 `2026-03-05` [[2026-03-05 - Material Conduct and Deception|Material Conduct and Deception]]  #alan
+- 🟢 `2026-03-05` [[2026-03-05 - Bank Chargeback Regulations|Bank Chargeback Regulations]]  #alan #chargeback #dispute #legal #reg-z #sales
+- 🟢 `2026-03-05` [[2026-03-05 - Chargeback Reversal Laws|Chargeback Reversal Laws]]  #alan #chargeback #dispute #fib
+- 🟢 `2026-03-05` [[2026-03-05 - Vendor Response Options|Vendor Response Options]]  #alan
+- 🟢 `2026-03-06` [[2026-03-06 - Timelines and Material Promises|Timelines and Material Promises]]  #alan #credit #utilization #high-signal
+- 🟢 `2026-03-06` [[2026-03-06 - Meaning of LBD|Meaning of LBD]]  #alan
+- 🟢 `2026-03-06` [[2026-03-06 - Bank Chargeback Laws|Bank Chargeback Laws]]  #alan #chargeback #dispute #scam
+- 🟢 `2026-03-06` [[2026-03-06 - FIB Chargeback Violation Laws|FIB Chargeback Violation Laws]]  #alan #chargeback #dispute #fib #legal
+- 🟢 `2026-03-06` [[2026-03-06 - Samsung QD Monitor Discounts|Samsung QD Monitor Discounts]]  #alan #tech
+- 🟢 `2026-03-06` [[2026-03-06 - CEO Brain Health Efficiency|CEO Brain Health Efficiency]]  #alan #health #supplements
+- 🟢 `2026-03-06` [[2026-03-06 - Best Cheap Domain Sites|Best Cheap Domain Sites]]  #alan
+- 🟣 `2026-03-06` [[2026-03-06 - Best nootropic supplements for cognitive performance|Best nootropic supplements for cognitive performance]]  #alan #health #supplements #high-signal
+- 🟢 `2026-03-06` [[2026-03-06 - Domain suggestions nlcore|Domain suggestions nlcore]]  #alan
+- 🟣 `2026-03-06` [[2026-03-06 - Nerve hit during TRT injection|Nerve hit during TRT injection]]  #alan #health #trt
+- 🟢 `2026-03-07` [[2026-03-07 - Character Count Reduction|Character Count Reduction]]  #alan #dispute #marketing #scam
+- 🟢 `2026-03-07` [[2026-03-07 - Enema Unnecessary with Daily Bowel Movements|Enema Unnecessary with Daily Bowel Movements]]  #alan
+- 🟢 `2026-03-07` [[2026-03-07 - CFPB Complaint Strategy Analysis|CFPB Complaint Strategy Analysis]]  #alan #cfpb #chargeback #dbfi #dispute #fib #scam #high-signal
+- 🟢 `2026-03-07` [[2026-03-07 - USB-C vs USB-B Monitors|USB-C vs USB-B Monitors]]  #alan #tech
+- 🟢 `2026-03-07` [[2026-03-07 - Billing Error Documentation Request|Billing Error Documentation Request]]  #alan #credit #dispute #legal #reg-z
+- 🟢 `2026-03-07` [[2026-03-07 - B12 Sewage Misconception|B12 Sewage Misconception]]  #alan
+- 🟢 `2026-03-07` [[2026-03-07 - Banks in PA Presence|Banks in PA Presence]]  #alan
+- 🟢 `2026-03-07` [[2026-03-07 - Liability for Bounced Check|Liability for Bounced Check]]  #alan #dispute #legal #scam
+- 🟢 `2026-03-07` [[2026-03-07 - Debt Dispute Letter Guidance|Debt Dispute Letter Guidance]]  #alan #legal
+- 🟢 `2026-03-07` [[2026-03-07 - Blood work benefits explained|Blood work benefits explained]]  #alan #bloodwork #health
+- 🟢 `2026-03-07` [[2026-03-07 - Memory Issues at 30|Memory Issues at 30]]  #alan
+- 🟢 `2026-03-07` [[2026-03-07 - Taxes in France comparison|Taxes in France comparison]]  #alan
+- 🟢 `2026-03-07` [[2026-03-07 - Methylation and Testing|Methylation and Testing]]  #alan
+- 🟢 `2026-03-07` [[2026-03-07 - United free checked bags|United free checked bags]]  #alan
+- 🟢 `2026-03-07` [[2026-03-07 - Document Summary Legal Debt|Document Summary Legal Debt]]  #alan #cfpb #dispute #legal
+- 🟢 `2026-03-07` [[2026-03-07 - Organizing Debt Dispute Letter|Organizing Debt Dispute Letter]]  #alan
+- 🟢 `2026-03-08` [[2026-03-08 - Arbitration Denied Netscape Case|Arbitration Denied Netscape Case]]  #alan
+- 🟢 `2026-03-08` [[2026-03-08 - Jeeter disposable vape 설명|Jeeter disposable vape 설명]]  #alan
+- 🟢 `2026-03-08` [[2026-03-08 - Berman v. Freedom Financial|Berman v. Freedom Financial]]  #alan
+- 🟢 `2026-03-08` [[2026-03-08 - Bank Accountability and Chargebacks|Bank Accountability and Chargebacks]]  #alan #cfpb #chargeback #dispute #fib #legal #high-signal
+- 🟢 `2026-03-08` [[2026-03-08 - Delta Amex vs Amex Biz|Delta Amex vs Amex Biz]]  #alan #amex
+- 🟢 `2026-03-08` [[2026-03-08 - Cookie Alternatives to Samoas|Cookie Alternatives to Samoas]]  #alan
+- 🟢 `2026-03-08` [[2026-03-08 - Course Transformation Strategy|Course Transformation Strategy]]  #alan #high-signal
+- 🟢 `2026-03-08` [[2026-03-08 - Fraud Detection Triggers|Fraud Detection Triggers]]  #alan #ai-workflow #dispute #legal #scam
+- 🟢 `2026-03-08` [[2026-03-08 - OpenAI DoW Agreement Summary|OpenAI DoW Agreement Summary]]  #alan #ai-workflow #procurement
+- 🟢 `2026-03-08` [[2026-03-08 - Methylation and Anxiety|Methylation and Anxiety]]  #alan #health #supplements
+- 🟢 `2026-03-08` [[2026-03-08 - Delta Lounge MSP Location|Delta Lounge MSP Location]]  #alan
+- 🟢 `2026-03-08` [[2026-03-08 - Banks and Credit Unions on iBanknet|Banks and Credit Unions on iBanknet]]  #alan #credit
+- 🟢 `2026-03-08` [[2026-03-08 - Hourly Rate Calculation|Hourly Rate Calculation]]  #alan
+- 🟢 `2026-03-09` [[2026-03-09 - Flagging Transparency Concerns|Flagging Transparency Concerns]]  #alan
+- 🟢 `2026-03-09` [[2026-03-09 - Ascension Pricing Strategy|Ascension Pricing Strategy]]  #alan #apw #high-signal
+- 🟢 `2026-03-09` [[2026-03-09 - Chronological Feedback Request|Chronological Feedback Request]]  #alan #dispute #scam
+- 🟣 `2026-03-09` [[2026-03-09 - Bait and switch funding program scam|Bait and switch funding program scam]]  #alan #credit #dispute #funding #networking #scam
+- 🟢 `2026-03-09` [[2026-03-09 - Methylation and Anxiety|Methylation and Anxiety]]  #alan
+- 🟣 `2026-03-09` [[2026-03-09 - Recovering $60K from scams and reversing business decisions|Recovering $60K from scams and reversing business decisions]]  #alan #dispute #scam #tech
+- 🟢 `2026-03-09` [[2026-03-09 - System Prompt Creation|System Prompt Creation]]  #alan #ai-workflow #high-signal
+- 🟣 `2026-03-09` [[2026-03-09 - Memory update review|Memory update review]]  #alan #apw #bloodwork #business-credit #copywriting #credit #dj-music #finance #fitness #funding #health #hiring #marketing #meta-ads #sales #scio #supplements #teaching #high-signal
+- 🟣 `2026-03-09` [[2026-03-09 - Tony Robbins' 10-minute morning priming routine|Tony Robbins' 10-minute morning priming routine]]  #alan #fitness #health #mindset
+- 🟣 `2026-03-10` [[2026-03-10 - Low energy and stimulant crash management|Low energy and stimulant crash management]]  #alan #fitness #health #supplements #high-signal
+- 🟣 `2026-03-10` [[2026-03-10 - Choosing the right Claude model for comprehensive course framework design|Choosing the right Claude model for comprehensive course framework design]]  #alan #ai-workflow #apw #curriculum #teaching #high-signal
+- 🟢 `2026-03-10` [[2026-03-10 - Jewel Nightclub Hours|Jewel Nightclub Hours]]  #alan
+- 🟢 `2026-03-10` [[2026-03-10 - CPO Oil Change Dispute|CPO Oil Change Dispute]]  #alan
+- 🟣 `2026-03-10` [[2026-03-10 - Untitled conversation|Untitled conversation]]  #alan
+- 🟢 `2026-03-10` [[2026-03-10 - Logo Design Concept|Logo Design Concept]]  #alan #branding #supplements
+- 🟢 `2026-03-10` [[2026-03-10 - Credit Millionaire Blueprint|Credit Millionaire Blueprint]]  #alan #high-signal
+- 🟢 `2026-03-10` [[2026-03-10 - USPS Form 1583 Usage|USPS Form 1583 Usage]]  #alan
+- 🟢 `2026-03-10` [[2026-03-10 - Amendment Form -8 Guidance|Amendment Form #8 Guidance]]  #alan
+- 🟢 `2026-03-10` [[2026-03-10 - Chex Systems Lexis Inquiry|Chex Systems Lexis Inquiry]]  #alan #credit
+- 🟢 `2026-03-11` [[2026-03-11 - Steak Searing Rankings|Steak Searing Rankings]]  #alan
+- 🟢 `2026-03-11` [[2026-03-11 - Dextroamphetamine and Bloodwork|Dextroamphetamine and Bloodwork]]  #alan #bloodwork #health
+- 🟢 `2026-03-11` [[2026-03-11 - Mastering Experiential Learning|Mastering Experiential Learning]]  #alan #apw
+- 🟢 `2026-03-11` [[2026-03-11 - Simplifying Offer Strategy|Simplifying Offer Strategy]]  #alan #high-signal
+- 🟢 `2026-03-12` [[2026-03-12 - Salt Timing for Steak|Salt Timing for Steak]]  #alan
+- 🟢 `2026-03-12` [[2026-03-12 - Bankruptcy Trustee Letter Explanation|Bankruptcy Trustee Letter Explanation]]  #alan #bankruptcy #legal
+- 🟣 `2026-03-12` [[2026-03-12 - Web vs desktop Claude differences|Web vs desktop Claude differences]]  #alan #ai-workflow
+- 🟢 `2026-03-12` [[2026-03-12 - Steak Safety Check|Steak Safety Check]]  #alan #fib
+- 🟣 `2026-03-12` [[2026-03-12 - Continuing Claude conversations across platforms|Continuing Claude conversations across platforms]]  #alan #ai-workflow
+- 🟣 `2026-03-12` [[2026-03-12 - Validating your offer before spending on ads|Validating your offer before spending on ads]]  #alan #apw #copywriting #sales #scio #vsl
+- 🟢 `2026-03-12` [[2026-03-12 - Streaming Revenue Strategy|Streaming Revenue Strategy]]  #alan #copywriting #high-signal
+- 🟢 `2026-03-12` [[2026-03-12 - Costa Rica Living Costs|Costa Rica Living Costs]]  #alan
+- 🟢 `2026-03-12` [[2026-03-12 - Paying with Credit Cards|Paying with Credit Cards]]  #alan
+- 🟢 `2026-03-12` [[2026-03-12 - PayPal Credit Card Payment|PayPal Credit Card Payment]]  #alan #payments
+- 🟢 `2026-03-12` [[2026-03-12 - Funny Block Messages|Funny Block Messages]]  #alan
+- 🟢 `2026-03-12` [[2026-03-12 - Credit Coach Academy Overview|Credit Coach Academy Overview]]  #alan #chargeback #dispute
+- 🟢 `2026-03-12` [[2026-03-12 - Credit Hold Explained|Credit Hold Explained]]  #alan #credit
+- 🟢 `2026-03-12` [[2026-03-12 - AMEX Delinquency Dispute|AMEX Delinquency Dispute]]  #alan #amex #credit
+- 🟣 `2026-03-13` [[2026-03-13 - How compound interest works|How compound interest works]]  #alan #finance #ops
+- 🟣 `2026-03-13` [[2026-03-13 - Choosing Opus for course creation from documents|Choosing Opus for course creation from documents]]  #alan #apw #blitz #funding #ops #prime-protocol #sop #teaching #high-signal
+- 🟢 `2026-03-13` [[2026-03-13 - Download video transcripts|Download video transcripts]]  #alan #apw
+- 🟣 `2026-03-13` [[2026-03-13 - Caching and token efficiency in Claude|Caching and token efficiency in Claude]]  #alan #ai-workflow #apw #teaching #high-signal
+- 🟢 `2026-03-13` [[2026-03-13 - Bank of America Atmos Card|Bank of America Atmos Card]]  #alan
+- 🟣 `2026-03-13` [[2026-03-13 - Course framework structure and methodology|Course framework structure and methodology]]  #alan #curriculum #teaching #high-signal
+- 🟢 `2026-03-13` [[2026-03-13 - Corporate Vegas Trip Costs|Corporate Vegas Trip Costs]]  #alan
+- 🟢 `2026-03-13` [[2026-03-13 - Getting Itemized Receipts|Getting Itemized Receipts]]  #alan #amex
+- 🟣 `2026-03-13` [[2026-03-13 - Ascension offers debrief for growth partners|Ascension offers debrief for growth partners]]  #alan #apw #funding #hiring #marketing #meta-ads #scio
+- 🟢 `2026-03-13` [[2026-03-13 - Air Frying Raw Burger|Air Frying Raw Burger]]  #alan
+- 🟣 `2026-03-13` [[2026-03-13 - Legal demand letter review and analysis|Legal demand letter review and analysis]]  #alan #cfpb #chargeback #credit #dbfi #demand-letter #dispute #fib #legal #legal-tech #reg-z #scam #high-signal
+- 🟢 `2026-03-14` [[2026-03-14 - Cheap Family Trips MN|Cheap Family Trips MN]]  #alan
+- 🟢 `2026-03-14` [[2026-03-14 - Ending Meaningful Relationships|Ending Meaningful Relationships]]  #alan
+- 🟣 `2026-03-14` [[2026-03-14 - Right-sided chest pain evaluation|Right-sided chest pain evaluation]]  #alan #bloodwork #health
+- 🟢 `2026-03-14` [[2026-03-14 - Chest Pain Causes and Urgency|Chest Pain Causes and Urgency]]  #alan #bloodwork #health
+- 🟢 `2026-03-15` [[2026-03-15 - Bridgerton Season 4 Release|Bridgerton Season 4 Release]]  #alan
+- 🟣 `2026-03-15` [[2026-03-15 - Organizing content for live teaching|Organizing content for live teaching]]  #alan #credit #funding #teaching #tech #utilization #high-signal
+- 🟢 `2026-03-15` [[2026-03-15 - Fundable Credit Outline|Fundable Credit Outline]]  #alan #copywriting #health #surgery
+- 🟢 `2026-03-15` [[2026-03-15 - Rio Carnival 2027 Tickets|Rio Carnival 2027 Tickets]]  #alan
+- 🟣 `2026-03-15` [[2026-03-15 - Encoding rules as deterministic code checks|Encoding rules as deterministic code checks]]  #alan #ai-workflow #high-signal
+- 🟣 `2026-03-15` [[2026-03-15 - High sewer charges on water bill|High sewer charges on water bill]]  #alan
+- 🟢 `2026-03-15` [[2026-03-15 - Greeting exchange|Greeting exchange]]  #alan
+- 🟢 `2026-03-15` [[2026-03-15 - Halara Promo Codes|Halara Promo Codes]]  #alan
+- 🟣 `2026-03-15` [[2026-03-15 - Fundamentals of strafe for competitive FPS|Fundamentals of strafe for competitive FPS]]  #alan #fitness
+- 🟢 `2026-03-15` [[2026-03-15 - DPI to eDPI Multiplier|DPI to eDPI Multiplier]]  #alan
+- 🟢 `2026-03-16` [[2026-03-16 - Best Hiking in Colorado|Best Hiking in Colorado]]  #alan
+- 🟢 `2026-03-16` [[2026-03-16 - Harvey vs Ivo for Contracts|Harvey vs Ivo for Contracts]]  #alan #contracts #legal #negotiation #procurement
+- 🟣 `2026-03-16` [[2026-03-16 - Banking complaint closure regarding merchant service dispute|Banking complaint closure regarding merchant service dispute]]  #alan #cfpb #dbfi #dispute #fib #legal #legal-tech #reg-z
+- 🟢 `2026-03-16` [[2026-03-16 - LinkedIn Integration Limitations|LinkedIn Integration Limitations]]  #alan #networking
+- 🟢 `2026-03-16` [[2026-03-16 - Spiritual Entrepreneurs Demographics|Spiritual Entrepreneurs Demographics]]  #alan #credit
+- 🟢 `2026-03-17` [[2026-03-17 - Steps for 4.3 Miles|Steps for 4.3 Miles]]  #alan
+- 🟢 `2026-03-17` [[2026-03-17 - Ferris Bueller's Day Off|Ferris Bueller's Day Off]]  #alan
+- 🟢 `2026-03-17` [[2026-03-17 - Business SMS Compliance|Business SMS Compliance]]  #alan #legal
+- 🟢 `2026-03-17` [[2026-03-17 - TRT Injection Safety Tips|TRT Injection Safety Tips]]  #alan #health #surgery #trt
+- 🟣 `2026-03-17` [[2026-03-17 - Tony Robbins Lifeforce Peak Rest timing and melatonin concerns|Tony Robbins Lifeforce Peak Rest timing and melatonin concerns]]  #alan #health #supplements #high-signal
+- 🟢 `2026-03-17` [[2026-03-17 - No Threats Found ISD 196|No Threats Found ISD 196]]  #alan
+- 🟢 `2026-03-17` [[2026-03-17 - Notion Data Extraction AI|Notion Data Extraction AI]]  #alan
+- 🟢 `2026-03-17` [[2026-03-17 - Google Sheets Data Transcription|Google Sheets Data Transcription]]  #alan #amex #cca
+- 🟢 `2026-03-17` [[2026-03-17 - Sister Data Migration Request|Sister Data Migration Request]]  #alan #ai-workflow #cfpb #chargeback #dispute #legal #scam
+- 🟢 `2026-03-17` [[2026-03-17 - Cheapest Catamaran Cruises|Cheapest Catamaran Cruises]]  #alan
+- 🟢 `2026-03-17` [[2026-03-17 - Investor Meeting Explained|Investor Meeting Explained]]  #alan
+- 🟢 `2026-03-17` [[2026-03-17 - Student Loan Lawsuit Outcome|Student Loan Lawsuit Outcome]]  #alan #legal
+- 🟣 `2026-03-17` [[2026-03-17 - Healthy fats for blood type B nutrition|Healthy fats for blood type B nutrition]]  #alan #fitness #health #supplements #high-signal
+- 🟢 `2026-03-17` [[2026-03-17 - Privacy Policy Creation|Privacy Policy Creation]]  #alan #apw #legal #marketing #meta-ads
+- 🟣 `2026-03-18` [[2026-03-18 - Migrating dual personas to Claude|Migrating dual personas to Claude]]  #alan #ai-workflow #contracts #legal #negotiation #procurement #high-signal
+- 🟢 `2026-03-18` [[2026-03-18 - Marie Louise Paris Promo|Marie Louise Paris Promo]]  #alan
+- 🟣 `2026-03-18` [[2026-03-18 - Public terms and agreements optimization for legal compliance|Public terms and agreements optimization for legal compliance]]  #alan #apw #chargeback #dispute #funding #legal #sales #vsl
+- 🟢 `2026-03-18` [[2026-03-18 - Excited Riveting Synonyms|Excited Riveting Synonyms]]  #alan
+- 🟢 `2026-03-18` [[2026-03-18 - MIA connection risk analysis|MIA connection risk analysis]]  #alan
+- 🟢 `2026-03-18` [[2026-03-18 - Best LLC Credit Cards|Best LLC Credit Cards]]  #alan #funding #legal
+- 🟣 `2026-03-18` [[2026-03-18 - Claude project preset prompt button setup|Claude project preset prompt button setup]]  #alan #ai-workflow #copywriting #credit #ops
+- 🟣 `2026-03-18` [[2026-03-18 - Test|Test]]  #alan #credit
+- 🟣 `2026-03-18` [[2026-03-18 - Goi|Goi]]  #alan #account-age #business-credit #credit #hiring #ops #utilization #high-signal
+- 🟢 `2026-03-18` [[2026-03-18 - Credit Card Application Tips|Credit Card Application Tips]]  #alan
+- 🟣 `2026-03-18` [[2026-03-18 - USB hub power and bandwidth requirements for streaming setup|USB hub power and bandwidth requirements for streaming setup]]  #alan #tech
+- 🟣 `2026-03-18` [[2026-03-18 - Untitled conversation|Untitled conversation]]  #alan
+- 🟣 `2026-03-18` [[2026-03-18 - Divorce planning with custody and asset concerns|Divorce planning with custody and asset concerns]]  #alan #family #high-signal
+- 🟢 `2026-03-18` [[2026-03-18 - He repulses you meaning|He repulses you meaning]]  #alan
+- 🟢 `2026-03-19` [[2026-03-19 - Divorce and Custody Plan|Divorce and Custody Plan]]  #alan #family #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Building the ultimate Claude project instructions framework|Building the ultimate Claude project instructions framework]]  #alan #ai-workflow #apw #sales #sales-framework #teaching #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Caching and file creation for process mastery|Caching and file creation for process mastery]]  #alan #ai-workflow #apw #sales #sales-framework #teaching #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Tony Robbins sleep supplement dosing safety|Tony Robbins sleep supplement dosing safety]]  #alan #health #supplements #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Constantine's four-phase sales framework|Constantine's four-phase sales framework]]  #alan #apw #sales #sales-framework #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Suing a bank vs merchant for fraud|Suing a bank vs merchant for fraud]]  #alan #cfpb #chargeback #dbfi #demand-letter #dispute #fib #legal #reg-z #scam
+- 🟣 `2026-03-19` [[2026-03-19 - DBFI refund enforcement strategy|DBFI refund enforcement strategy]]  #alan #cfpb #chargeback #dbfi #dispute #fib #legal #payments #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Countering merchant defenses in CFPB complaint|Countering merchant defenses in CFPB complaint]]  #alan #cfpb #dbfi #demand-letter #dispute #fib #legal #legal-tech #reg-z #high-signal
+- 🟢 `2026-03-19` [[2026-03-19 - Budget Review Email Draft|Budget Review Email Draft]]  #alan
+- 🟢 `2026-03-19` [[2026-03-19 - Hotels near Broadway Nashville|Hotels near Broadway Nashville]]  #alan #travel #high-signal
+- 🟢 `2026-03-19` [[2026-03-19 - Hilton Honors vs Amex|Hilton Honors vs Amex]]  #alan #amex #travel
+- 🟢 `2026-03-19` [[2026-03-19 - Achilles Debridement Clarification|Achilles Debridement Clarification]]  #alan #health #surgery
+- 🟢 `2026-03-19` [[2026-03-19 - Red flags in payments|Red flags in payments]]  #alan
+- 🟢 `2026-03-19` [[2026-03-19 - Rooftop Pools Nashville Under 400|Rooftop Pools Nashville Under 400]]  #alan #travel
+- 🟣 `2026-03-19` [[2026-03-19 - Business score dropped unexpectedly|Business score dropped unexpectedly]]  #alan #business-credit #credit #dispute #legal #scam #tradeline
+- 🟢 `2026-03-20` [[2026-03-20 - Powerball Number Suggestions|Powerball Number Suggestions]]  #alan
+- 🟣 `2026-03-20` [[2026-03-20 - Powerball prediction impossibility|Powerball prediction impossibility]]  #alan
+- 🟢 `2026-03-20` [[2026-03-20 - Margaritaville Nashville Parking|Margaritaville Nashville Parking]]  #alan #travel
+- 🟣 `2026-03-20` [[2026-03-20 - Sailing versus real estate careers|Sailing versus real estate careers]]  #alan #apw #legal #networking #sales #high-signal
+- 🟢 `2026-03-20` [[2026-03-20 - Top Male Family Lawyers MN|Top Male Family Lawyers MN]]  #alan
+- 🟢 `2026-03-20` [[2026-03-20 - Post-surgery cramping relief|Post-surgery cramping relief]]  #alan #health #surgery
+- 🟣 `2026-03-20` [[2026-03-20 - Post-surgery stomach cramps from pain medication|Post-surgery stomach cramps from pain medication]]  #alan #fitness #health #surgery
+- 🟣 `2026-03-20` [[2026-03-20 - Untitled conversation|Untitled conversation]]  #alan
+- 🟣 `2026-03-20` [[2026-03-20 - No-doc funding roadmap to $500K-$1M|No-doc funding roadmap to $500K-$1M]]  #alan #apw #business-credit #credit #funding #no-doc #high-signal
+- 🟣 `2026-03-20` [[2026-03-20 - Treating atrophic acne scars and post-inflammatory hyperpigmentation|Treating atrophic acne scars and post-inflammatory hyperpigmentation]]  #alan #health #skin #high-signal
+- 🟢 `2026-03-20` [[2026-03-20 - Why Physical Activity Matters|Why Physical Activity Matters]]  #alan
+- 🟣 `2026-03-21` [[2026-03-21 - Broccoli sprouts vs mature broccoli nutrition|Broccoli sprouts vs mature broccoli nutrition]]  #alan #fib #health
+- 🟢 `2026-03-21` [[2026-03-21 - Onion Caramelization Tips|Onion Caramelization Tips]]  #alan
+- 🟢 `2026-03-21` [[2026-03-21 - Chutes and Ladders Status|Chutes and Ladders Status]]  #alan
+- 🟢 `2026-03-21` [[2026-03-21 - Hydration and electrolytes post-surgery|Hydration and electrolytes post-surgery]]  #alan #health #supplements #surgery
+- 🟣 `2026-03-21` [[2026-03-21 - Amex strategy- newer data superiority|Amex strategy: newer data superiority]]  #alan #amex #business-credit #credit #high-signal
+- 🟢 `2026-03-21` [[2026-03-21 - Acne Treatment Recommendations|Acne Treatment Recommendations]]  #alan #health #skin
+- 🟣 `2026-03-22` [[2026-03-22 - Apex BSOD memory management error|Apex BSOD memory management error]]  #alan #tech
+- 🟢 `2026-03-22` [[2026-03-22 - Entertainment Space Upgrade|Entertainment Space Upgrade]]  #alan
+- 🟣 `2026-03-22` [[2026-03-22 - Entertainment space with large TV and karaoke|Entertainment space with large TV and karaoke]]  #alan
+- 🟢 `2026-03-22` [[2026-03-22 - Nashville Bar Closing Time|Nashville Bar Closing Time]]  #alan #sales #travel
+- 🟢 `2026-03-22` [[2026-03-22 - Paystub Discrepancies Clarification|Paystub Discrepancies Clarification]]  #alan
+- 🟣 `2026-03-22` [[2026-03-22 - Removing green screen artifacts in OBS|Removing green screen artifacts in OBS]]  #alan #tech
+- 🟢 `2026-03-23` [[2026-03-23 - Halara Promo Codes March 2026|Halara Promo Codes March 2026]]  #alan
+- 🟢 `2026-03-23` [[2026-03-23 - Image for Journey Overview|Image for Journey Overview]]  #alan #apw
+- 🟣 `2026-03-23` [[2026-03-23 - Funding timeline breakdown- blitz vs prime protocol paths|Funding timeline breakdown: blitz vs prime protocol paths]]  #alan #ai-workflow #apw #blitz #branding #business-credit #credit #funding #ops #prime-protocol #utilization #high-signal
+- 🟢 `2026-03-23` [[2026-03-23 - Elite Tier Name Ideas|Elite Tier Name Ideas]]  #alan #apw
+- 🟣 `2026-03-23` [[2026-03-23 - APW Primary Bureaus video script checklist|APW Primary Bureaus video script checklist]]  #alan #apw #credit #teaching #tech #high-signal
+- 🟢 `2026-03-23` [[2026-03-23 - Birthday Wish Improvement|Birthday Wish Improvement]]  #alan
+- 🟣 `2026-03-23` [[2026-03-23 - Undervalued stocks with strong fundamentals|Undervalued stocks with strong fundamentals]]  #alan #finance
+- 🟢 `2026-03-23` [[2026-03-23 - Undervalued Stocks for Growth|Undervalued Stocks for Growth]]  #alan #finance #travel
+- 🟢 `2026-03-23` [[2026-03-23 - Nashville Concerts April 14-17|Nashville Concerts April 14-17]]  #alan #copywriting #travel
+- 🟣 `2026-03-23` [[2026-03-23 - Post-surgery oxycodone refills|Post-surgery oxycodone refills]]  #alan #health #surgery
+- 🟢 `2026-03-23` [[2026-03-23 - Negotiate Lower Pricing|Negotiate Lower Pricing]]  #alan #negotiation #procurement
+- 🟣 `2026-03-23` [[2026-03-23 - Negotiating PageVault Stencil pricing reduction|Negotiating PageVault Stencil pricing reduction]]  #josephine #negotiation #procurement #high-signal
+- 🟢 `2026-03-23` [[2026-03-23 - Hilton SD Bayfront Bathrooms|Hilton SD Bayfront Bathrooms]]  #alan
+- 🟣 `2026-03-23` [[2026-03-23 - Massage therapist career field|Massage therapist career field]]  #alan #health #surgery
+- 🟢 `2026-03-24` [[2026-03-24 - Blades of Glory Movie|Blades of Glory Movie]]  #alan
+- 🟢 `2026-03-24` [[2026-03-24 - Microplastics Physical Impacts|Microplastics Physical Impacts]]  #alan
+- 🟢 `2026-03-24` [[2026-03-24 - AI Procurement Conferences 2026|AI Procurement Conferences 2026]]  #alan #procurement
+- 🟢 `2026-03-24` [[2026-03-24 - Power Usage Breakdown|Power Usage Breakdown]]  #alan
+- 🟣 `2026-03-24` [[2026-03-24 - Payment facilitation compliance between business entities|Payment facilitation compliance between business entities]]  #alan #chargeback #dispute #funding #legal #tech #high-signal
+- 🟢 `2026-03-24` [[2026-03-24 - Where to buy panda pencil|Where to buy panda pencil]]  #alan
+- 🟢 `2026-03-24` [[2026-03-24 - Maniac Nicknames|Maniac Nicknames]]  #alan
+- 🟣 `2026-03-25` [[2026-03-25 - Dark object in chuck steak safety|Dark object in chuck steak safety]]  #alan #health #skin
+- 🟣 `2026-03-25` [[2026-03-25 - Post-surgery diet restrictions after Achilles surgery|Post-surgery diet restrictions after Achilles surgery]]  #alan #fib #health #surgery
+- 🟢 `2026-03-25` [[2026-03-25 - Shy Words with W|Shy Words with W]]  #alan
+- 🟢 `2026-03-25` [[2026-03-25 - Procurement Tool Recommendations|Procurement Tool Recommendations]]  #alan #contracts #faegre #legal #legal-tech #procurement
+- 🟣 `2026-03-25` [[2026-03-25 - Procurement tool for RFPs and contract review|Procurement tool for RFPs and contract review]]  #josephine #contracts #faegre #legal #legal-tech #procurement
+- 🟣 `2026-03-25` [[2026-03-25 - Removing a post quickly|Removing a post quickly]]  #alan #demand-letter #dispute #legal #sales
+- 🟣 `2026-03-26` [[2026-03-26 - Adding time durations|Adding time durations]]  #alan
+- 🟣 `2026-03-26` [[2026-03-26 - Florida DMV portal identity fields|Florida DMV portal identity fields]]  #alan
+- 🟣 `2026-03-26` [[2026-03-26 - Adding up time durations|Adding up time durations]]  #alan
+- 🟣 `2026-03-27` [[2026-03-27 - Uploading large ChatGPT data exports|Uploading large ChatGPT data exports]]  #alan #ai-workflow #apw #blitz #cfpb #chargeback #contracts #credit #dbfi #dispute #dj-music #fib #funding #health #legal #marketing #meta-ads #ops #scio #supplements #surgery #travel #high-signal
+- 🟣 `2026-03-27` [[2026-03-27 - Remaining items for import|Remaining items for import]]  #alan #ai-workflow #ops #high-signal
+- 🟣 `2026-03-27` [[2026-03-27 - Online business offers in meta ads|Online business offers in meta ads]]  #alan #apw #copywriting #marketing #meta-ads #sales #ugc #vsl
+- 🟣 `2026-03-27` [[2026-03-27 - Prompt engineering tips|Prompt engineering tips]]  #alan #ai-workflow #copywriting #credit #ops
+- 🟣 `2026-03-27` [[2026-03-27 - Tips taxation on pay stub|Tips taxation on pay stub]]  #alan #demand-letter #dispute #finance #legal
+- 🟣 `2026-03-27` [[2026-03-27 - Thawing frozen Ezekiel bread safely|Thawing frozen Ezekiel bread safely]]  #alan
+- 🟣 `2026-03-28` [[2026-03-28 - Reading and speaking time estimation|Reading and speaking time estimation]]  #alan #apw #copywriting #sales #vsl
+- 🟣 `2026-03-28` [[2026-03-28 - Self-tape audition request for UGC creators|Self-tape audition request for UGC creators]]  #alan #apw #funding #hiring #marketing #ops #ugc
+- 🟣 `2026-03-29` [[2026-03-29 - Medical practice owner pain points and funding solutions|Medical practice owner pain points and funding solutions]]  #alan #apw #copywriting #funding #sales #vsl
+- 🟣 `2026-03-30` [[2026-03-30 - Legal demand letter for post removal|Legal demand letter for post removal]]  #alan #demand-letter #dispute #legal #sales #tech #high-signal
+- 🟣 `2026-03-30` [[2026-03-30 - B12 dosage and absorption|B12 dosage and absorption]]  #alan #health #supplements
+- 🟣 `2026-03-30` [[2026-03-30 - Bankruptcy claim notification and filing guidance|Bankruptcy claim notification and filing guidance]]  #alan #bankruptcy #legal
+- 🟣 `2026-03-31` [[2026-03-31 - Dog-safe essential oils for insect repellent|Dog-safe essential oils for insect repellent]]  #alan
+- 🟣 `2026-03-31` [[2026-03-31 - Complete blood work analysis with TRT considerations|Complete blood work analysis with TRT considerations]]  #alan #bloodwork #fitness #health #supplements #trt #high-signal
+- 🟣 `2026-03-31` [[2026-03-31 - Slide Decks SCIO x CCA|Slide Decks SCIO x CCA]]  #alan #apw #cca #copywriting #dsl #funding #hiring #sales #scio #vsl #high-signal
+
+## 2026-02  (247)
+
+- 🟢 `2026-02-01` [[2026-02-01 - Next full moon date|Next full moon date]]  #alan
+- 🟢 `2026-02-01` [[2026-02-01 - Full moon date January|Full moon date January]]  #alan
+- 🟢 `2026-02-01` [[2026-02-01 - Camlink vs 4K Pro|Camlink vs 4K Pro]]  #alan
+- 🟢 `2026-02-01` [[2026-02-01 - USB 2 vs 3.2 Latency|USB 2 vs 3.2 Latency]]  #alan
+- 🟢 `2026-02-02` [[2026-02-02 - Thunderbolt USB-C Compatibility|Thunderbolt USB-C Compatibility]]  #alan
+- 🟢 `2026-02-02` [[2026-02-02 - 1-on-1 Credit Offer Framework|1-on-1 Credit Offer Framework]]  #alan #high-signal
+- 🟢 `2026-02-02` [[2026-02-02 - Handmaid Protest Symbolism|Handmaid Protest Symbolism]]  #alan
+- 🟢 `2026-02-02` [[2026-02-02 - Cheap All-Inclusive Costa Rica|Cheap All-Inclusive Costa Rica]]  #alan
+- 🟢 `2026-02-02` [[2026-02-02 - Legitimate transfers in bankruptcy|Legitimate transfers in bankruptcy]]  #alan #bankruptcy #legal
+- 🟢 `2026-02-02` [[2026-02-02 - Home Sealing vs Flooding|Home Sealing vs Flooding]]  #alan
+- 🟢 `2026-02-02` [[2026-02-02 - Uploading files|Uploading files]]  #alan
+- 🟢 `2026-02-02` [[2026-02-02 - Chapter 7 Bankruptcy Overview|Chapter 7 Bankruptcy Overview]]  #alan #bankruptcy #legal
+- 🟢 `2026-02-03` [[2026-02-03 - AI Image Editing Request|AI Image Editing Request]]  #alan #branding
+- 🟢 `2026-02-03` [[2026-02-03 - Recent Financial Statement Guidelines|Recent Financial Statement Guidelines]]  #alan #finance
+- 🟢 `2026-02-03` [[2026-02-03 - Marriott Visa Foreign Fees|Marriott Visa Foreign Fees]]  #alan
+- 🟢 `2026-02-03` [[2026-02-03 - Ravenclaw House Overview|Ravenclaw House Overview]]  #alan
+- 🟢 `2026-02-03` [[2026-02-03 - Clash Royale Level Discrepancy|Clash Royale Level Discrepancy]]  #alan
+- 🟢 `2026-02-03` [[2026-02-03 - Purpose and Survival Misalignment|Purpose and Survival Misalignment]]  #alan
+- 🟢 `2026-02-03` [[2026-02-03 - iPhone screen camera recording|iPhone screen camera recording]]  #alan
+- 🟢 `2026-02-03` [[2026-02-03 - Cologne Alternatives Recommendations|Cologne Alternatives Recommendations]]  #alan
+- 🟢 `2026-02-03` [[2026-02-03 - AT&T Business Phone Issue|AT&T Business Phone Issue]]  #alan
+- 🟢 `2026-02-04` [[2026-02-04 - Show-up Rate Calculation|Show-up Rate Calculation]]  #alan
+- 🟢 `2026-02-04` [[2026-02-04 - Vietnam Travel Restrictions|Vietnam Travel Restrictions]]  #alan
+- 🟢 `2026-02-04` [[2026-02-04 - Balayage in Vietnamese|Balayage in Vietnamese]]  #alan
+- 🟢 `2026-02-04` [[2026-02-04 - Credit Tools Comparison|Credit Tools Comparison]]  #alan
+- 🟢 `2026-02-04` [[2026-02-04 - Affiliate Agreement Risks|Affiliate Agreement Risks]]  #alan #credit #tech
+- 🟢 `2026-02-04` [[2026-02-04 - BOFA Business Card Interest|BOFA Business Card Interest]]  #alan
+- 🟢 `2026-02-04` [[2026-02-04 - AMEX Business Travel Cards|AMEX Business Travel Cards]]  #alan #amex
+- 🟢 `2026-02-05` [[2026-02-05 - Account Dates in Format|Account Dates in Format]]  #alan #credit #fib #tradeline
+- 🟢 `2026-02-05` [[2026-02-05 - Personal Credit Snapshot|Personal Credit Snapshot]]  #alan #credit #fib #personal-credit #sales #tradeline #utilization
+- 🟢 `2026-02-05` [[2026-02-05 - Julie Le Contempt Case|Julie Le Contempt Case]]  #alan #instagram #marketing
+- 🟢 `2026-02-05` [[2026-02-05 - Revenue-Based Business Credit|Revenue-Based Business Credit]]  #alan #business-credit #credit
+- 🟢 `2026-02-05` [[2026-02-05 - MLK Nobel Peace Prize|MLK Nobel Peace Prize]]  #alan
+- 🟢 `2026-02-05` [[2026-02-05 - Canon R5 Battery Door Issue|Canon R5 Battery Door Issue]]  #alan
+- 🟢 `2026-02-05` [[2026-02-05 - HALT decision rule|HALT decision rule]]  #alan
+- 🟢 `2026-02-05` [[2026-02-05 - Anker Prime PowerIQ5 Differences|Anker Prime PowerIQ5 Differences]]  #alan
+- 🟢 `2026-02-05` [[2026-02-05 - Dextroamphetamine dosing schedule|Dextroamphetamine dosing schedule]]  #alan #fitness #health #supplements
+- 🟢 `2026-02-05` [[2026-02-05 - Offer Doc Summary|Offer Doc Summary]]  #alan
+- 🟢 `2026-02-05` [[2026-02-05 - Mt Angel Inflameze Comparison|Mt Angel Inflameze Comparison]]  #alan
+- 🟢 `2026-02-05` [[2026-02-05 - Marijuana in Vietnamese|Marijuana in Vietnamese]]  #alan
+- 🟢 `2026-02-05` [[2026-02-05 - FCRA 605B Dispute Analysis|FCRA 605B Dispute Analysis]]  #alan #cfpb #dispute #legal #scam
+- 🟢 `2026-02-05` [[2026-02-05 - Video OCR Services|Video OCR Services]]  #alan
+- 🟢 `2026-02-05` [[2026-02-05 - Connecting Elgato Prompter XL|Connecting Elgato Prompter XL]]  #alan
+- 🟢 `2026-02-05` [[2026-02-05 - Key light positioning tips|Key light positioning tips]]  #alan #tech
+- 🟢 `2026-02-06` [[2026-02-06 - Vietnam US Carry-On Weight|Vietnam US Carry-On Weight]]  #alan
+- 🟢 `2026-02-06` [[2026-02-06 - Engineer in Vietnamese|Engineer in Vietnamese]]  #alan
+- 🟢 `2026-02-06` [[2026-02-06 - Caricature Request|Caricature Request]]  #alan
+- 🟢 `2026-02-06` [[2026-02-06 - New chat|New chat]]  #alan #legal
+- 🟢 `2026-02-06` [[2026-02-06 - Hardness comparison diamond bedrock|Hardness comparison diamond bedrock]]  #alan
+- 🟢 `2026-02-07` [[2026-02-07 - Bright Red Blood Causes|Bright Red Blood Causes]]  #alan
+- 🟢 `2026-02-07` [[2026-02-07 - Travel cough diagnosis|Travel cough diagnosis]]  #alan
+- 🟢 `2026-02-07` [[2026-02-07 - RS4 Pro Payload Capacity|RS4 Pro Payload Capacity]]  #alan
+- 🟢 `2026-02-07` [[2026-02-07 - 45° Light Setup|45° Light Setup]]  #alan #tech
+- 🟢 `2026-02-08` [[2026-02-08 - Facial Sling Recovery Timeline|Facial Sling Recovery Timeline]]  #alan #fitness #health
+- 🟢 `2026-02-08` [[2026-02-08 - Memory aids for numbers|Memory aids for numbers]]  #alan
+- 🟢 `2026-02-08` [[2026-02-08 - Top High-Ticket Program Names|Top High-Ticket Program Names]]  #alan #apw #branding #finance
+- 🟢 `2026-02-08` [[2026-02-08 - Email Subdomain Setup|Email Subdomain Setup]]  #alan
+- 🟢 `2026-02-08` [[2026-02-08 - Steak Doneness Guide|Steak Doneness Guide]]  #alan
+- 🟢 `2026-02-08` [[2026-02-08 - Mouse Sensitivity Conversion|Mouse Sensitivity Conversion]]  #alan #tech
+- 🟢 `2026-02-08` [[2026-02-08 - iPad Screen Time Fix|iPad Screen Time Fix]]  #alan
+- 🟢 `2026-02-08` [[2026-02-08 - No-Bake Taco Dip|No-Bake Taco Dip]]  #alan
+- 🟢 `2026-02-09` [[2026-02-09 - Unleaded 88 vs 87|Unleaded 88 vs 87]]  #alan
+- 🟢 `2026-02-09` [[2026-02-09 - Fascial sling workout timeline|Fascial sling workout timeline]]  #alan #fitness #health
+- 🟢 `2026-02-09` [[2026-02-09 - Ascend Prime Wealth Strategy|Ascend Prime Wealth Strategy]]  #alan #apw #funding #high-signal
+- 🟢 `2026-02-09` [[2026-02-09 - Royce Nama Chocolate Texture|Royce Nama Chocolate Texture]]  #alan
+- 🟢 `2026-02-09` [[2026-02-09 - Funding Offer Creation|Funding Offer Creation]]  #alan #apw #credit #funding
+- 🟢 `2026-02-09` [[2026-02-09 - Laser Hair Removal Deals|Laser Hair Removal Deals]]  #alan
+- 🟢 `2026-02-09` [[2026-02-09 - 50 Mile Road Ultra MN|50 Mile Road Ultra MN]]  #alan
+- 🟢 `2026-02-09` [[2026-02-09 - TransUnion Violations Report|TransUnion Violations Report]]  #alan #legal
+- 🟢 `2026-02-09` [[2026-02-09 - Fascial Sling Post-Op Leakage|Fascial Sling Post-Op Leakage]]  #alan
+- 🟢 `2026-02-09` [[2026-02-09 - Fascial Sling Leakage Normal|Fascial Sling Leakage Normal]]  #alan
+- 🟢 `2026-02-09` [[2026-02-09 - Foreign LLC Filing Penalties|Foreign LLC Filing Penalties]]  #alan
+- 🟢 `2026-02-09` [[2026-02-09 - SOS Filing Penalties and Address|SOS Filing Penalties and Address]]  #alan
+- 🟢 `2026-02-09` [[2026-02-09 - G502 Lightspeed Latency DPI|G502 Lightspeed Latency DPI]]  #alan
+- 🟢 `2026-02-09` [[2026-02-09 - Rescission Rights and Contracts|Rescission Rights and Contracts]]  #alan #legal
+- 🟢 `2026-02-10` [[2026-02-10 - Page 2 Disclaimer Advice|Page 2 Disclaimer Advice]]  #alan #apw #credit
+- 🟢 `2026-02-10` [[2026-02-10 - Bank overlap by state|Bank overlap by state]]  #alan
+- 🟢 `2026-02-10` [[2026-02-10 - DPI to Sens Conversion|DPI to Sens Conversion]]  #alan #tech
+- 🟢 `2026-02-10` [[2026-02-10 - Running Partner FB Post|Running Partner FB Post]]  #alan
+- 🟢 `2026-02-10` [[2026-02-10 - Apex Heirloom Account Linking|Apex Heirloom Account Linking]]  #alan
+- 🟢 `2026-02-10` [[2026-02-10 - Best Vegas Hiking Trails|Best Vegas Hiking Trails]]  #alan
+- 🟢 `2026-02-10` [[2026-02-10 - Crotchless Fashion Comebacks|Crotchless Fashion Comebacks]]  #alan
+- 🟢 `2026-02-11` [[2026-02-11 - GIF Issue in Messages|GIF Issue in Messages]]  #alan
+- 🟢 `2026-02-11` [[2026-02-11 - Valentine’s Day Message Help|Valentine’s Day Message Help]]  #alan
+- 🟢 `2026-02-11` [[2026-02-11 - Construction Delay Issues|Construction Delay Issues]]  #alan
+- 🟢 `2026-02-11` [[2026-02-11 - Cheap Deals Wisconsin Dells|Cheap Deals Wisconsin Dells]]  #alan #travel
+- 🟢 `2026-02-11` [[2026-02-11 - Needle Comparison Guide|Needle Comparison Guide]]  #alan #health #trt
+- 🟢 `2026-02-11` [[2026-02-11 - Monitor Display Issue|Monitor Display Issue]]  #alan #tech
+- 🟢 `2026-02-11` [[2026-02-11 - Business Consultant vs Agency|Business Consultant vs Agency]]  #alan #apw
+- 🟢 `2026-02-11` [[2026-02-11 - Client Payment Liability Risk|Client Payment Liability Risk]]  #alan #legal #ops #payments #sop #high-signal
+- 🟢 `2026-02-11` [[2026-02-11 - Image Resizing Request|Image Resizing Request]]  #alan
+- 🟢 `2026-02-11` [[2026-02-11 - Credit Card Stacking Results|Credit Card Stacking Results]]  #alan #finance #marketing
+- 🟢 `2026-02-12` [[2026-02-12 - Skin Breakout Concerns|Skin Breakout Concerns]]  #alan
+- 🟢 `2026-02-12` [[2026-02-12 - Birthday Message with Humor|Birthday Message with Humor]]  #alan
+- 🟢 `2026-02-12` [[2026-02-12 - Refund Request Strategy|Refund Request Strategy]]  #alan #high-signal
+- 🟢 `2026-02-12` [[2026-02-12 - Rare Steak Oven Method|Rare Steak Oven Method]]  #alan #fib #fitness #health
+- 🟢 `2026-02-12` [[2026-02-12 - Memory Chip Business Viability|Memory Chip Business Viability]]  #alan
+- 🟢 `2026-02-12` [[2026-02-12 - DSCR Construction Loan Terms|DSCR Construction Loan Terms]]  #alan
+- 🟢 `2026-02-12` [[2026-02-12 - Delaying Your Period|Delaying Your Period]]  #alan
+- 🟢 `2026-02-13` [[2026-02-13 - Safari Deceptive Warning Causes|Safari Deceptive Warning Causes]]  #alan #apw #sales #vsl
+- 🟢 `2026-02-13` [[2026-02-13 - $25K Travel Breakdown|$25K Travel Breakdown]]  #alan
+- 🟢 `2026-02-13` [[2026-02-13 - Hotel Sound Suppression Comparison|Hotel Sound Suppression Comparison]]  #alan
+- 🟢 `2026-02-14` [[2026-02-14 - DFY vs DWY Comparison|DFY vs DWY Comparison]]  #alan #apw #scio #high-signal
+- 🟢 `2026-02-14` [[2026-02-14 - Flower packaging for travel|Flower packaging for travel]]  #alan
+- 🟢 `2026-02-14` [[2026-02-14 - Ounces in a quart|Ounces in a quart]]  #alan
+- 🟢 `2026-02-14` [[2026-02-14 - IUD Safety and Ejaculation|IUD Safety and Ejaculation]]  #alan
+- 🟢 `2026-02-14` [[2026-02-14 - Name Acrostics Variations|Name Acrostics Variations]]  #alan
+- 🟢 `2026-02-16` [[2026-02-16 - Cysts and Cancer Concerns|Cysts and Cancer Concerns]]  #alan #health #skin
+- 🟢 `2026-02-16` [[2026-02-16 - Red Flags in Legal Agreements|Red Flags in Legal Agreements]]  #alan #legal
+- 🟢 `2026-02-16` [[2026-02-16 - Horsehair worm explanation|Horsehair worm explanation]]  #alan
+- 🟢 `2026-02-16` [[2026-02-16 - Nickelodeon Universe Deals|Nickelodeon Universe Deals]]  #alan
+- 🟢 `2026-02-16` [[2026-02-16 - Dyson HP1 vs HP2|Dyson HP1 vs HP2]]  #alan
+- 🟢 `2026-02-16` [[2026-02-16 - Dyson HP2 vs Levoit|Dyson HP2 vs Levoit]]  #alan
+- 🟢 `2026-02-17` [[2026-02-17 - CFPB Second Complaint Guide|CFPB Second Complaint Guide]]  #alan #bankruptcy #cfpb #credit #dispute #fib #legal #sales
+- 🟢 `2026-02-17` [[2026-02-17 - FIB Dispute Review|FIB Dispute Review]]  #alan #branding #dispute #domains #fib #legal #reg-z
+- 🟢 `2026-02-17` [[2026-02-17 - Marketing-First Program Confusion|Marketing-First Program Confusion]]  #alan #apw #copywriting #marketing #ops #sales #teaching #vsl #high-signal
+- 🟢 `2026-02-17` [[2026-02-17 - Fulfilment Conveyor Belt|Fulfilment Conveyor Belt]]  #alan
+- 🟢 `2026-02-17` [[2026-02-17 - Dreo vs Dyson HP2|Dreo vs Dyson HP2]]  #alan
+- 🟢 `2026-02-17` [[2026-02-17 - Scaling to $1M Help|Scaling to $1M Help]]  #alan #apw #high-signal
+- 🟢 `2026-02-17` [[2026-02-17 - Beef vs Whey Protein|Beef vs Whey Protein]]  #alan #fitness #health
+- 🟢 `2026-02-17` [[2026-02-17 - Vegas Fun Vibe Bars|Vegas Fun Vibe Bars]]  #alan
+- 🟢 `2026-02-17` [[2026-02-17 - Ultimate Funding Program|Ultimate Funding Program]]  #alan #apw #business-credit #credit #funding #legal
+- 🟢 `2026-02-17` [[2026-02-17 - Flow System Assessment|Flow System Assessment]]  #alan
+- 🟢 `2026-02-17` [[2026-02-17 - Rewriting Apologies with Care|Rewriting Apologies with Care]]  #alan
+- 🟢 `2026-02-17` [[2026-02-17 - File Processing and SOP Creation|File Processing and SOP Creation]]  #alan #ops #sop #high-signal
+- 🟢 `2026-02-17` [[2026-02-17 - SSI Notice Breakdown|SSI Notice Breakdown]]  #alan
+- 🟢 `2026-02-17` [[2026-02-17 - Client Approach DFY DWY|Client Approach DFY DWY]]  #alan
+- 🟢 `2026-02-17` [[2026-02-17 - Vagina Pain in Child|Vagina Pain in Child]]  #alan
+- 🟢 `2026-02-17` [[2026-02-17 - Experian Data Inquiry Removal|Experian Data Inquiry Removal]]  #alan
+- 🟢 `2026-02-18` [[2026-02-18 - Lunar New Year Foods|Lunar New Year Foods]]  #alan
+- 🟢 `2026-02-18` [[2026-02-18 - Moldy Bread Safety|Moldy Bread Safety]]  #alan
+- 🟢 `2026-02-18` [[2026-02-18 - Best Las Vegas Nightclubs|Best Las Vegas Nightclubs]]  #alan
+- 🟢 `2026-02-18` [[2026-02-18 - Apex Lag Recording Fix|Apex Lag Recording Fix]]  #alan #tech
+- 🟢 `2026-02-18` [[2026-02-18 - Credit Card Summary|Credit Card Summary]]  #alan #amex #credit #fib #utilization
+- 🟢 `2026-02-18` [[2026-02-18 - Remote Summer Internships|Remote Summer Internships]]  #alan
+- 🟢 `2026-02-18` [[2026-02-18 - Best Sushi Vegas Strip|Best Sushi Vegas Strip]]  #alan
+- 🟢 `2026-02-18` [[2026-02-18 - Mavena promo codes|Mavena promo codes]]  #alan
+- 🟢 `2026-02-19` [[2026-02-19 - Chroma key grain fix|Chroma key grain fix]]  #alan #tech
+- 🟢 `2026-02-19` [[2026-02-19 - Weight of R5 II Setup|Weight of R5 II Setup]]  #alan
+- 🟢 `2026-02-19` [[2026-02-19 - Fit check dimensions|Fit check dimensions]]  #alan
+- 🟢 `2026-02-19` [[2026-02-19 - Aperture shutter speed ISO comparison|Aperture shutter speed ISO comparison]]  #alan
+- 🟢 `2026-02-19` [[2026-02-19 - Tracking Number Issues|Tracking Number Issues]]  #alan
+- 🟢 `2026-02-19` [[2026-02-19 - Apex BSOD MEMORY_MANAGEMENT|Apex BSOD MEMORY_MANAGEMENT]]  #alan #tech
+- 🟢 `2026-02-19` [[2026-02-19 - Salary Increase and Legal Compensation|Salary Increase and Legal Compensation]]  #alan #procurement
+- 🟢 `2026-02-19` [[2026-02-19 - Best Lunch in Eagan|Best Lunch in Eagan]]  #alan
+- 🟢 `2026-02-19` [[2026-02-19 - Cakesbody Promo Codes|Cakesbody Promo Codes]]  #alan
+- 🟢 `2026-02-19` [[2026-02-19 - Illegal Funding Guarantees|Illegal Funding Guarantees]]  #alan #apw
+- 🟢 `2026-02-19` [[2026-02-19 - Add DBA to Business|Add DBA to Business]]  #alan #branding #domains #legal
+- 🟢 `2026-02-19` [[2026-02-19 - AI in Contracts|AI in Contracts]]  #alan #faegre #legal #legal-tech #networking
+- 🟢 `2026-02-20` [[2026-02-20 - Client Onboarding Roadmap|Client Onboarding Roadmap]]  #alan #apw #high-signal
+- 🟢 `2026-02-20` [[2026-02-20 - Sticky Hands Problem|Sticky Hands Problem]]  #alan
+- 🟢 `2026-02-20` [[2026-02-20 - Business Credit Inquiry Laws|Business Credit Inquiry Laws]]  #alan #business-credit #credit
+- 🟢 `2026-02-20` [[2026-02-20 - Horseshoe Vegas Location|Horseshoe Vegas Location]]  #alan
+- 🟢 `2026-02-20` [[2026-02-20 - Attorney in Minnesota|Attorney in Minnesota]]  #alan #legal #negotiation
+- 🟢 `2026-02-20` [[2026-02-20 - Credit Agreement Highlights|Credit Agreement Highlights]]  #alan #branding #domains
+- 🟢 `2026-02-20` [[2026-02-20 - Safari Warning Explanation|Safari Warning Explanation]]  #alan
+- 🟢 `2026-02-20` [[2026-02-20 - DBA Filing Assurance|DBA Filing Assurance]]  #alan
+- 🟢 `2026-02-20` [[2026-02-20 - Credit Card Liquidity Options|Credit Card Liquidity Options]]  #alan
+- 🟢 `2026-02-20` [[2026-02-20 - Heart-Centered Wealth Offering|Heart-Centered Wealth Offering]]  #alan #apw #high-signal
+- 🟢 `2026-02-20` [[2026-02-20 - Resume Rewrite for AGC Role|Resume Rewrite for AGC Role]]  #alan #negotiation
+- 🟢 `2026-02-20` [[2026-02-20 - Birthday message ideas|Birthday message ideas]]  #alan
+- 🟢 `2026-02-20` [[2026-02-20 - Email Ownership Assessment|Email Ownership Assessment]]  #alan
+- 🟢 `2026-02-21` [[2026-02-21 - Lip Stain Activation|Lip Stain Activation]]  #alan
+- 🟢 `2026-02-21` [[2026-02-21 - Using False Address Fraud|Using False Address Fraud]]  #alan #dispute #scam
+- 🟢 `2026-02-21` [[2026-02-21 - Dyson HP2 Power Efficiency|Dyson HP2 Power Efficiency]]  #alan
+- 🟢 `2026-02-21` [[2026-02-21 - Thank You Page Strategy|Thank You Page Strategy]]  #alan #high-signal
+- 🟢 `2026-02-21` [[2026-02-21 - Billionaire Thinking Framework|Billionaire Thinking Framework]]  #alan #high-signal
+- 🟢 `2026-02-22` [[2026-02-22 - Trademark and Credit Reporting|Trademark and Credit Reporting]]  #alan #credit
+- 🟢 `2026-02-22` [[2026-02-22 - 800 x 1.8 eDPI Apex|800 x 1.8 eDPI Apex]]  #alan #tech
+- 🟢 `2026-02-22` [[2026-02-22 - Beef Loin vs Top Sirloin|Beef Loin vs Top Sirloin]]  #alan #fitness #health
+- 🟢 `2026-02-22` [[2026-02-22 - Health Impact of Instant Potatoes|Health Impact of Instant Potatoes]]  #alan
+- 🟢 `2026-02-22` [[2026-02-22 - Intel RST BIOS ON-OFF|Intel RST BIOS ON/OFF]]  #alan #tech
+- 🟢 `2026-02-22` [[2026-02-22 - 12° vs 20° Incline|12° vs 20° Incline]]  #alan
+- 🟢 `2026-02-22` [[2026-02-22 - eDPI Comparison and Adjustment|eDPI Comparison and Adjustment]]  #alan
+- 🟢 `2026-02-22` [[2026-02-22 - Non-Scam Discord Titles|Non-Scam Discord Titles]]  #alan #copywriting #dispute #marketing #scam
+- 🟢 `2026-02-22` [[2026-02-22 - Viralish Formula Breakdown|Viralish Formula Breakdown]]  #alan
+- 🟢 `2026-02-22` [[2026-02-22 - How to Execute Growth|How to Execute Growth]]  #alan
+- 🟢 `2026-02-22` [[2026-02-22 - Flower Pressing Tips|Flower Pressing Tips]]  #alan
+- 🟢 `2026-02-22` [[2026-02-22 - Long-distance Birthday Gift Ideas|Long-distance Birthday Gift Ideas]]  #alan
+- 🟢 `2026-02-22` [[2026-02-22 - NAICS Code Funding Ranking|NAICS Code Funding Ranking]]  #alan
+- 🟢 `2026-02-23` [[2026-02-23 - Midjourney Backdrop Without Chair|Midjourney Backdrop Without Chair]]  #alan
+- 🟢 `2026-02-23` [[2026-02-23 - Office Background Design Request|Office Background Design Request]]  #alan #apw #branding
+- 🟢 `2026-02-23` [[2026-02-23 - Backdrop Perception for Zoom|Backdrop Perception for Zoom]]  #alan #apw #mindset #sales #tech #vsl
+- 🟢 `2026-02-23` [[2026-02-23 - Applying $1M-mo Framework to APW|Applying $1M/mo Framework to APW]]  #alan #apw #high-signal
+- 🟢 `2026-02-23` [[2026-02-23 - Buyout to Own Source Code|Buyout to Own Source Code]]  #alan #negotiation
+- 🟢 `2026-02-23` [[2026-02-23 - Hardwood vs Laminate Flooring|Hardwood vs Laminate Flooring]]  #alan
+- 🟢 `2026-02-23` [[2026-02-23 - Aim Higher Scholarship Eligibility|Aim Higher Scholarship Eligibility]]  #alan
+- 🟢 `2026-02-23` [[2026-02-23 - Giải thích về phá sản|Giải thích về phá sản]]  #alan
+- 🟢 `2026-02-23` [[2026-02-23 - Chicken recipe at 500°F|Chicken recipe at 500°F]]  #alan #fitness #health #skin
+- 🟢 `2026-02-23` [[2026-02-23 - Fix TikTok Zooming Issue|Fix TikTok Zooming Issue]]  #alan
+- 🟢 `2026-02-24` [[2026-02-24 - Ideal client offer strategy|Ideal client offer strategy]]  #alan #apw #credit #high-signal
+- 🟢 `2026-02-24` [[2026-02-24 - Zodiac Animals Comparison|Zodiac Animals Comparison]]  #alan
+- 🟢 `2026-02-24` [[2026-02-24 - Food-Based Nicknames for Mexican Girl|Food-Based Nicknames for Mexican Girl]]  #alan
+- 🟢 `2026-02-24` [[2026-02-24 - Recording across state lines|Recording across state lines]]  #alan #legal
+- 🟢 `2026-02-24` [[2026-02-24 - Cheap LAX to Tokyo Flights|Cheap LAX to Tokyo Flights]]  #alan
+- 🟢 `2026-02-24` [[2026-02-24 - QSC Subwoofer Comparison|QSC Subwoofer Comparison]]  #alan
+- 🟢 `2026-02-24` [[2026-02-24 - LLC Tax Benefits Strategy|LLC Tax Benefits Strategy]]  #alan #branding #legal #high-signal
+- 🟢 `2026-02-24` [[2026-02-24 - FDIC Complaint Escalation Guide|FDIC Complaint Escalation Guide]]  #alan #cfpb #chargeback #dispute #fib
+- 🟢 `2026-02-24` [[2026-02-24 - Shirt Translation Explanation|Shirt Translation Explanation]]  #alan
+- 🟢 `2026-02-24` [[2026-02-24 - Chargeback Process Clarification|Chargeback Process Clarification]]  #alan #chargeback #dispute
+- 🟢 `2026-02-24` [[2026-02-24 - FIB Response Letter Review|FIB Response Letter Review]]  #alan #branding #credit #domains #fib
+- 🟢 `2026-02-25` [[2026-02-25 - Educational Coloring Book Ideas|Educational Coloring Book Ideas]]  #alan
+- 🟢 `2026-02-25` [[2026-02-25 - Water and Fasting|Water and Fasting]]  #alan
+- 🟢 `2026-02-25` [[2026-02-25 - Best LLC Credit Cards|Best LLC Credit Cards]]  #alan
+- 🟢 `2026-02-25` [[2026-02-25 - Rockefeller Masonic Creed Myth|Rockefeller Masonic Creed Myth]]  #alan
+- 🟢 `2026-02-25` [[2026-02-25 - Craig Ballantyne ADE System|Craig Ballantyne ADE System]]  #alan
+- 🟢 `2026-02-25` [[2026-02-25 - CIA Project Artichoke Summary|CIA Project Artichoke Summary]]  #alan
+- 🟢 `2026-02-25` [[2026-02-25 - Business vs Personal Account|Business vs Personal Account]]  #alan
+- 🟢 `2026-02-25` [[2026-02-25 - Course Framework Roadmap|Course Framework Roadmap]]  #alan #curriculum #teaching #high-signal
+- 🟢 `2026-02-26` [[2026-02-26 - Steak Spoilage Advice|Steak Spoilage Advice]]  #alan
+- 🟢 `2026-02-26` [[2026-02-26 - CIA Project Artichoke Summary|CIA Project Artichoke Summary]]  #alan
+- 🟢 `2026-02-26` [[2026-02-26 - Dyson HP02 Performance Issues|Dyson HP02 Performance Issues]]  #alan
+- 🟢 `2026-02-26` [[2026-02-26 - Online Course Success Checklist|Online Course Success Checklist]]  #alan #apw #high-signal
+- 🟢 `2026-02-26` [[2026-02-26 - Gala Ticket FB Copy|Gala Ticket FB Copy]]  #alan
+- 🟢 `2026-02-26` [[2026-02-26 - Funny sign off ideas|Funny sign off ideas]]  #alan
+- 🟢 `2026-02-26` [[2026-02-26 - Teeder tooder meaning|Teeder tooder meaning]]  #alan
+- 🟢 `2026-02-26` [[2026-02-26 - Dyson HP02 Alternatives|Dyson HP02 Alternatives]]  #alan
+- 🟢 `2026-02-26` [[2026-02-26 - Transcript Analysis Request|Transcript Analysis Request]]  #alan
+- 🟢 `2026-02-26` [[2026-02-26 - Backdrop Perception and Trust|Backdrop Perception and Trust]]  #alan #apw #mindset #sales #tech #vsl
+- 🟢 `2026-02-26` [[2026-02-26 - March HSA Events|March HSA Events]]  #alan
+- 🟢 `2026-02-26` [[2026-02-26 - Corporate Documents Review|Corporate Documents Review]]  #alan #credit
+- 🟢 `2026-02-26` [[2026-02-26 - Auto Loan Interest Breakdown|Auto Loan Interest Breakdown]]  #alan
+- 🟢 `2026-02-26` [[2026-02-26 - FCRA §605B vs §611|FCRA §605B vs §611]]  #alan #credit #dispute #legal #scam
+- 🟢 `2026-02-27` [[2026-02-27 - Evaporative Cooler vs Fan|Evaporative Cooler vs Fan]]  #alan
+- 🟢 `2026-02-27` [[2026-02-27 - Beef Sirloin Comparison|Beef Sirloin Comparison]]  #alan #ai-workflow #fitness #health
+- 🟢 `2026-02-27` [[2026-02-27 - Macro Split for Cutting|Macro Split for Cutting]]  #alan #fitness #health
+- 🟢 `2026-02-27` [[2026-02-27 - CEO Execution Assistant Tips|CEO Execution Assistant Tips]]  #alan #apw #sales #vsl
+- 🟢 `2026-02-27` [[2026-02-27 - Track Breakdown Pricing EDM|Track Breakdown Pricing EDM]]  #alan
+- 🟢 `2026-02-27` [[2026-02-27 - 240Hz vs 500Hz Monitors|240Hz vs 500Hz Monitors]]  #alan #tech
+- 🟢 `2026-02-27` [[2026-02-27 - FTC Compliance and Funding Guarantees|FTC Compliance and Funding Guarantees]]  #alan #apw #copywriting #credit #legal #tradeline #utilization
+- 🟢 `2026-02-27` [[2026-02-27 - Risk Assessment Red Flags|Risk Assessment Red Flags]]  #alan
+- 🟢 `2026-02-27` [[2026-02-27 - BK Impact on Credit|BK Impact on Credit]]  #alan #bankruptcy #credit #legal
+- 🟢 `2026-02-27` [[2026-02-27 - Chuck Roast Steak Tips|Chuck Roast Steak Tips]]  #alan #fitness
+- 🟢 `2026-02-28` [[2026-02-28 - Rocky PAW Patrol Character|Rocky PAW Patrol Character]]  #alan
+- 🟢 `2026-02-28` [[2026-02-28 - Melatonin 10 mg Kids Safety|Melatonin 10 mg Kids Safety]]  #alan #health #supplements
+- 🟢 `2026-02-28` [[2026-02-28 - Steak Temperature Safety|Steak Temperature Safety]]  #alan
+- 🟢 `2026-02-28` [[2026-02-28 - Samsung G5 vs PG27UCDM|Samsung G5 vs PG27UCDM]]  #alan
+- 🟢 `2026-02-28` [[2026-02-28 - Exec Summary Request|Exec Summary Request]]  #alan #marketing #high-signal
+- 🟢 `2026-02-28` [[2026-02-28 - Ascend Prime Wealth Buckets|Ascend Prime Wealth Buckets]]  #alan #apw #credit #utilization
+- 🟢 `2026-02-28` [[2026-02-28 - Ascend Prime Wealth ICP|Ascend Prime Wealth ICP]]  #alan #apw
+- 🟣 `2026-02-28` [[2026-02-28 - Claude vs GPT-5.2 for business and sales|Claude vs GPT-5.2 for business and sales]]  #alan #ai-workflow #apw #marketing #meta-ads #sales
+- 🟢 `2026-02-28` [[2026-02-28 - Outside Ankle Pain Causes|Outside Ankle Pain Causes]]  #alan
+- 🟢 `2026-02-28` [[2026-02-28 - Low LDL Meaning|Low LDL Meaning]]  #alan
+- 🟢 `2026-02-28` [[2026-02-28 - Innocence or Shyness M-word|Innocence or Shyness M-word]]  #alan
+- 🟢 `2026-02-28` [[2026-02-28 - Word for grab|Word for grab]]  #alan
+- 🟢 `2026-02-28` [[2026-02-28 - Credit Card Interest Explained|Credit Card Interest Explained]]  #alan #credit
+- 🟣 `2026-02-28` [[2026-02-28 - Evaluating funding offer value equation|Evaluating funding offer value equation]]  #alan #funding #offer-design #sales #high-signal
+
+## 2026-01  (231)
+
+- 🟢 `2026-01-01` [[2026-01-01 - Fannie Mae 3% Down Loan|Fannie Mae 3% Down Loan]]  #alan #high-signal
+- 🟢 `2026-01-01` [[2026-01-01 - Plan B for Weekend Use|Plan B for Weekend Use]]  #alan
+- 🟢 `2026-01-01` [[2026-01-01 - Affordable Penthouses for 3K|Affordable Penthouses for 3K]]  #alan
+- 🟢 `2026-01-01` [[2026-01-01 - 2026 Manifestation Rewrite|2026 Manifestation Rewrite]]  #alan #faegre #legal-tech #marketing #procurement
+- 🟢 `2026-01-01` [[2026-01-01 - Persistent hiccups solutions|Persistent hiccups solutions]]  #alan
+- 🟢 `2026-01-01` [[2026-01-01 - Luke Belmar Ritz Membership|Luke Belmar Ritz Membership]]  #alan
+- 🟢 `2026-01-01` [[2026-01-01 - Poetic Rewrite Suggestions|Poetic Rewrite Suggestions]]  #alan
+- 🟢 `2026-01-01` [[2026-01-01 - Love Deepening Activities|Love Deepening Activities]]  #alan
+- 🟢 `2026-01-02` [[2026-01-02 - Someday Justin Bieber Notes|Someday Justin Bieber Notes]]  #alan
+- 🟢 `2026-01-02` [[2026-01-02 - Workers' Comp vs Lawsuit|Workers' Comp vs Lawsuit]]  #alan #legal
+- 🟢 `2026-01-02` [[2026-01-02 - Mike Williams music video|Mike Williams music video]]  #alan
+- 🟢 `2026-01-03` [[2026-01-03 - Contract Law Coverage Dispute|Contract Law Coverage Dispute]]  #alan #legal
+- 🟢 `2026-01-03` [[2026-01-03 - Tire Squeak Diagnosis|Tire Squeak Diagnosis]]  #alan
+- 🟢 `2026-01-03` [[2026-01-03 - Charity Scams and Controversies|Charity Scams and Controversies]]  #alan #dispute #scam
+- 🟢 `2026-01-03` [[2026-01-03 - Dog Medication Safety|Dog Medication Safety]]  #alan
+- 🟢 `2026-01-04` [[2026-01-04 - AYCE Crab Legs Near Me|AYCE Crab Legs Near Me]]  #alan
+- 🟢 `2026-01-04` [[2026-01-04 - Steatocystoma vs Epidermoid Cyst|Steatocystoma vs Epidermoid Cyst]]  #alan #health #skin
+- 🟢 `2026-01-04` [[2026-01-04 - Iron Content in Meat|Iron Content in Meat]]  #alan
+- 🟢 `2026-01-04` [[2026-01-04 - Aybl vs Alura Comparison|Aybl vs Alura Comparison]]  #alan
+- 🟢 `2026-01-04` [[2026-01-04 - XTR5 ZAG Blue Light Block|XTR5 ZAG Blue Light Block]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Top 10 Super Bowl Contenders|Top 10 Super Bowl Contenders]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Free Parking Denver 80206|Free Parking Denver 80206]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Gua Sha vs Fascia Work|Gua Sha vs Fascia Work]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Eagan MN Townhome Rent|Eagan MN Townhome Rent]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Purpose vs Obligation|Purpose vs Obligation]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Burger King vs Popeyes Health|Burger King vs Popeyes Health]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Natural GH Boosting Tips|Natural GH Boosting Tips]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Bose QC Ultra vs ANC|Bose QC Ultra vs ANC]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Tire Protection Coverage Explained|Tire Protection Coverage Explained]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Car Accident Payout Guide|Car Accident Payout Guide]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Manifesting Success and Alignment|Manifesting Success and Alignment]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Happy 37|Happy 37]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Regan Hillyer on Manifestation|Regan Hillyer on Manifestation]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Regan Hillyer Manifestation Tips|Regan Hillyer Manifestation Tips]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Apple devices Bluetooth audio|Apple devices Bluetooth audio]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Tesla Warranty at 23K|Tesla Warranty at 23K]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Section 8 Mentorship Reality|Section 8 Mentorship Reality]]  #alan #instagram #marketing #networking
+- 🟢 `2026-01-05` [[2026-01-05 - Powering Off Bose QC2|Powering Off Bose QC2]]  #alan
+- 🟢 `2026-01-05` [[2026-01-05 - Bank Contact Info Legalities|Bank Contact Info Legalities]]  #alan #fib #legal
+- 🟢 `2026-01-06` [[2026-01-06 - Winner's Manifesto Summary|Winner's Manifesto Summary]]  #alan
+- 🟢 `2026-01-06` [[2026-01-06 - Pregnancy Timing Insights|Pregnancy Timing Insights]]  #alan
+- 🟢 `2026-01-06` [[2026-01-06 - Lexapro Discontinuation Effects|Lexapro Discontinuation Effects]]  #alan
+- 🟢 `2026-01-06` [[2026-01-06 - Competing with DFY Funding|Competing with DFY Funding]]  #alan #apw
+- 🟢 `2026-01-06` [[2026-01-06 - Studio design request|Studio design request]]  #alan #teaching
+- 🟢 `2026-01-06` [[2026-01-06 - Brightening Black Walls|Brightening Black Walls]]  #alan
+- 🟢 `2026-01-06` [[2026-01-06 - Session Resources Overview|Session Resources Overview]]  #alan #teaching
+- 🟢 `2026-01-06` [[2026-01-06 - Deep Trance Techniques|Deep Trance Techniques]]  #alan #teaching
+- 🟢 `2026-01-06` [[2026-01-06 - Founder Salary Discipline|Founder Salary Discipline]]  #alan
+- 🟢 `2026-01-06` [[2026-01-06 - Citi Chargeback Possibility|Citi Chargeback Possibility]]  #alan #cfpb #chargeback #credit #dispute #tradeline
+- 🟢 `2026-01-06` [[2026-01-06 - Clarify Message and Purpose|Clarify Message and Purpose]]  #alan
+- 🟢 `2026-01-07` [[2026-01-07 - Define logic|Define logic]]  #alan #credit #legal
+- 🟢 `2026-01-07` [[2026-01-07 - Profit Margin for Loan|Profit Margin for Loan]]  #alan
+- 🟢 `2026-01-07` [[2026-01-07 - Venus Jupiter Neptune Astrology|Venus Jupiter Neptune Astrology]]  #alan #mindset
+- 🟢 `2026-01-07` [[2026-01-07 - Media Pass Request Elements 2022|Media Pass Request Elements 2022]]  #alan
+- 🟢 `2026-01-07` [[2026-01-07 - EDM Artist Instagram Followers|EDM Artist Instagram Followers]]  #alan #instagram #marketing
+- 🟢 `2026-01-07` [[2026-01-07 - Ištar Sauron Lore Comparison|Ištar Sauron Lore Comparison]]  #alan
+- 🟢 `2026-01-08` [[2026-01-08 - Samsung Q60 Soundbar Bundle|Samsung Q60 Soundbar Bundle]]  #alan
+- 🟢 `2026-01-08` [[2026-01-08 - Dog Eating Garlic Risk|Dog Eating Garlic Risk]]  #alan
+- 🟢 `2026-01-08` [[2026-01-08 - Cost of Foreclosed Homes|Cost of Foreclosed Homes]]  #alan
+- 🟢 `2026-01-08` [[2026-01-08 - Best Touchscreen Gaming Laptops|Best Touchscreen Gaming Laptops]]  #alan
+- 🟢 `2026-01-08` [[2026-01-08 - Lexis Nexis SSN Flag|Lexis Nexis SSN Flag]]  #alan
+- 🟢 `2026-01-08` [[2026-01-08 - Affordable Gaming PCs Apex|Affordable Gaming PCs Apex]]  #alan
+- 🟢 `2026-01-08` [[2026-01-08 - TransUnion v Ramirez Debrief|TransUnion v Ramirez Debrief]]  #alan #credit #legal
+- 🟢 `2026-01-08` [[2026-01-08 - Affordable Housing Alternatives|Affordable Housing Alternatives]]  #alan
+- 🟢 `2026-01-09` [[2026-01-09 - Blue light harm research|Blue light harm research]]  #alan
+- 🟢 `2026-01-09` [[2026-01-09 - Salary Breakdown Confusion|Salary Breakdown Confusion]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - Coffee Shops Fort Lauderdale|Coffee Shops Fort Lauderdale]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - AYCE Crab Legs Twin Cities|AYCE Crab Legs Twin Cities]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - Home Loan Approval Options|Home Loan Approval Options]]  #alan #finance
+- 🟢 `2026-01-10` [[2026-01-10 - Tesla Heat Cough Issue|Tesla Heat Cough Issue]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - Lord of Mordor LOTR|Lord of Mordor LOTR]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - Cinematic Studio Backdrop Design|Cinematic Studio Backdrop Design]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - Elgato Stream Deck Comparison|Elgato Stream Deck Comparison]]  #alan #tech
+- 🟢 `2026-01-10` [[2026-01-10 - Multiple Monitors Setup|Multiple Monitors Setup]]  #alan #tech
+- 🟢 `2026-01-10` [[2026-01-10 - High PPI LED Mask|High PPI LED Mask]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - Business Like Elon Musk|Business Like Elon Musk]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - Fort Lauderdale Kids Activities|Fort Lauderdale Kids Activities]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - Mineral vs Metal|Mineral vs Metal]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - Tax Filing Strategy MFJ|Tax Filing Strategy MFJ]]  #alan #family #finance #high-signal
+- 🟢 `2026-01-10` [[2026-01-10 - Trusts and Wills Attorney|Trusts and Wills Attorney]]  #alan #legal
+- 🟢 `2026-01-10` [[2026-01-10 - Delta Lounge FLL|Delta Lounge FLL]]  #alan
+- 🟢 `2026-01-10` [[2026-01-10 - Birthstone and Determination|Birthstone and Determination]]  #alan
+- 🟢 `2026-01-11` [[2026-01-11 - Reverse phone lookup free|Reverse phone lookup free]]  #alan
+- 🟢 `2026-01-11` [[2026-01-11 - Apex Legends Audio Issue|Apex Legends Audio Issue]]  #alan
+- 🟢 `2026-01-11` [[2026-01-11 - Gaming with DJI Mic 2|Gaming with DJI Mic 2]]  #alan #tech
+- 🟢 `2026-01-11` [[2026-01-11 - Mic Setup with Stream Deck|Mic Setup with Stream Deck]]  #alan #tech
+- 🟢 `2026-01-11` [[2026-01-11 - Norse Organics Promo Codes|Norse Organics Promo Codes]]  #alan
+- 🟢 `2026-01-11` [[2026-01-11 - Red Light Stomach Vests|Red Light Stomach Vests]]  #alan
+- 🟢 `2026-01-11` [[2026-01-11 - Patriots vs Chargers Prediction|Patriots vs Chargers Prediction]]  #alan
+- 🟢 `2026-01-11` [[2026-01-11 - Character vs Phrase|Character vs Phrase]]  #alan
+- 🟢 `2026-01-12` [[2026-01-12 - Spoiled Meat Safety|Spoiled Meat Safety]]  #alan
+- 🟢 `2026-01-12` [[2026-01-12 - Studio Setup for Trust|Studio Setup for Trust]]  #alan #mindset
+- 🟢 `2026-01-12` [[2026-01-12 - Change Your Life Guide|Change Your Life Guide]]  #alan
+- 🟢 `2026-01-12` [[2026-01-12 - Mystical Consciousness Frequencies|Mystical Consciousness Frequencies]]  #alan
+- 🟢 `2026-01-12` [[2026-01-12 - Amazon Account Restriction Appeal|Amazon Account Restriction Appeal]]  #alan
+- 🟢 `2026-01-12` [[2026-01-12 - Cheapest Day to Book|Cheapest Day to Book]]  #alan
+- 🟢 `2026-01-12` [[2026-01-12 - Statement vs Current Balance|Statement vs Current Balance]]  #alan
+- 🟢 `2026-01-13` [[2026-01-13 - Tonight's NFL Game|Tonight's NFL Game]]  #alan
+- 🟢 `2026-01-13` [[2026-01-13 - Heavy Metal Toxicity Testing|Heavy Metal Toxicity Testing]]  #alan #fitness #health #supplements
+- 🟢 `2026-01-13` [[2026-01-13 - Healthiest Mini Marshmallows|Healthiest Mini Marshmallows]]  #alan
+- 🟢 `2026-01-13` [[2026-01-13 - Audio Interface Choices|Audio Interface Choices]]  #alan
+- 🟢 `2026-01-13` [[2026-01-13 - Mic Comparison Overview|Mic Comparison Overview]]  #alan
+- 🟢 `2026-01-13` [[2026-01-13 - EDM Shows Vegas Aug 8-10|EDM Shows Vegas Aug 8-10]]  #alan
+- 🟢 `2026-01-13` [[2026-01-13 - Ferrari rental Vegas March 8|Ferrari rental Vegas March 8]]  #alan
+- 🟢 `2026-01-13` [[2026-01-13 - KYC and Authorized Signer|KYC and Authorized Signer]]  #alan
+- 🟢 `2026-01-14` [[2026-01-14 - Business Credit Card Financing|Business Credit Card Financing]]  #alan #business-credit #credit
+- 🟢 `2026-01-14` [[2026-01-14 - Elgato XLR Comparison|Elgato XLR Comparison]]  #alan #tech
+- 🟢 `2026-01-14` [[2026-01-14 - Black Dress for Ferrari|Black Dress for Ferrari]]  #alan
+- 🟢 `2026-01-14` [[2026-01-14 - Shirt Bust Enhancement Hooks|Shirt Bust Enhancement Hooks]]  #alan #copywriting
+- 🟢 `2026-01-14` [[2026-01-14 - Vietnam Travel Outfits|Vietnam Travel Outfits]]  #alan
+- 🟢 `2026-01-14` [[2026-01-14 - Affordable steak options|Affordable steak options]]  #alan
+- 🟢 `2026-01-14` [[2026-01-14 - Affordable grocery stores|Affordable grocery stores]]  #alan
+- 🟢 `2026-01-14` [[2026-01-14 - Down Payment Clarification|Down Payment Clarification]]  #alan
+- 🟢 `2026-01-14` [[2026-01-14 - SM7dB Bypass Issue|SM7dB Bypass Issue]]  #alan #tech
+- 🟢 `2026-01-14` [[2026-01-14 - USB-C Hub Selection Guide|USB-C Hub Selection Guide]]  #alan
+- 🟢 `2026-01-14` [[2026-01-14 - 192kHz vs 20kHz Use Cases|192kHz vs 20kHz Use Cases]]  #alan
+- 🟢 `2026-01-14` [[2026-01-14 - Force Focusrite Mic Mono|Force Focusrite Mic Mono]]  #alan #tech
+- 🟢 `2026-01-14` [[2026-01-14 - License Plate Attachment MN CA|License Plate Attachment MN CA]]  #alan
+- 🟢 `2026-01-14` [[2026-01-14 - Suit Impact on Sales|Suit Impact on Sales]]  #alan
+- 🟢 `2026-01-15` [[2026-01-15 - Big City Near Pulaski|Big City Near Pulaski]]  #alan #travel
+- 🟢 `2026-01-15` [[2026-01-15 - Epstein Files Summary|Epstein Files Summary]]  #alan #dispute #scam
+- 🟢 `2026-01-15` [[2026-01-15 - Blood in Urine After Surgery|Blood in Urine After Surgery]]  #alan #health #surgery
+- 🟢 `2026-01-15` [[2026-01-15 - Bass Comparison Bose Vmoda|Bass Comparison Bose Vmoda]]  #alan
+- 🟢 `2026-01-15` [[2026-01-15 - Ray Volpe Gear Breakdown|Ray Volpe Gear Breakdown]]  #alan #tech
+- 🟢 `2026-01-15` [[2026-01-15 - Starlink router power usage|Starlink router power usage]]  #alan
+- 🟢 `2026-01-15` [[2026-01-15 - iMessage Media Issues Fix|iMessage Media Issues Fix]]  #alan
+- 🟢 `2026-01-15` [[2026-01-15 - Marcel Klein Hypnosis Levels|Marcel Klein Hypnosis Levels]]  #alan
+- 🟢 `2026-01-16` [[2026-01-16 - Hit and Run Settlement Time|Hit and Run Settlement Time]]  #alan
+- 🟢 `2026-01-16` [[2026-01-16 - Orthopedic Clinic for Back Pain|Orthopedic Clinic for Back Pain]]  #alan #health #surgery
+- 🟢 `2026-01-16` [[2026-01-16 - Logo Brand Rating Analysis|Logo Brand Rating Analysis]]  #alan #branding
+- 🟢 `2026-01-16` [[2026-01-16 - Headphones for Apex Footsteps|Headphones for Apex Footsteps]]  #alan
+- 🟢 `2026-01-16` [[2026-01-16 - Tax debt and bankruptcy|Tax debt and bankruptcy]]  #alan #bankruptcy #legal
+- 🟢 `2026-01-17` [[2026-01-17 - Maltese Yorkie Lifespan|Maltese Yorkie Lifespan]]  #alan
+- 🟢 `2026-01-17` [[2026-01-17 - Warm May Destinations|Warm May Destinations]]  #alan
+- 🟢 `2026-01-17` [[2026-01-17 - Delta Reserve Companion Ticket|Delta Reserve Companion Ticket]]  #alan
+- 🟢 `2026-01-17` [[2026-01-17 - Sarcastic Funny Letter|Sarcastic Funny Letter]]  #alan
+- 🟢 `2026-01-17` [[2026-01-17 - Detox from Microplastics Metals|Detox from Microplastics Metals]]  #alan
+- 🟢 `2026-01-17` [[2026-01-17 - AI Course Success|AI Course Success]]  #alan
+- 🟢 `2026-01-17` [[2026-01-17 - Mission Complete|Mission Complete]]  #alan #faegre #legal-tech
+- 🟢 `2026-01-17` [[2026-01-17 - Hydrogen and Yellow Myth|Hydrogen and Yellow Myth]]  #alan
+- 🟢 `2026-01-17` [[2026-01-17 - Top sirloin vs eye of round|Top sirloin vs eye of round]]  #alan #fitness #health
+- 🟢 `2026-01-18` [[2026-01-18 - Switch microSD Compatibility|Switch microSD Compatibility]]  #alan
+- 🟢 `2026-01-18` [[2026-01-18 - Tess battery cold loss|Tess battery cold loss]]  #alan
+- 🟢 `2026-01-18` [[2026-01-18 - Bladder mesh infection symptoms|Bladder mesh infection symptoms]]  #alan
+- 🟢 `2026-01-18` [[2026-01-18 - Bronco Bills Play Review|Bronco Bills Play Review]]  #alan
+- 🟢 `2026-01-18` [[2026-01-18 - Iron Man 2 Courtroom Scene|Iron Man 2 Courtroom Scene]]  #alan
+- 🟢 `2026-01-18` [[2026-01-18 - Movie Scene Clarification|Movie Scene Clarification]]  #alan
+- 🟢 `2026-01-18` [[2026-01-18 - Boss of Young Apprentice|Boss of Young Apprentice]]  #alan
+- 🟢 `2026-01-19` [[2026-01-19 - iPad Downgrade Options|iPad Downgrade Options]]  #alan
+- 🟢 `2026-01-19` [[2026-01-19 - Weed Pen Duration Estimate|Weed Pen Duration Estimate]]  #alan
+- 🟢 `2026-01-19` [[2026-01-19 - Jury Duty Travel Conflict|Jury Duty Travel Conflict]]  #alan
+- 🟢 `2026-01-19` [[2026-01-19 - Eloise Birthday Social Post|Eloise Birthday Social Post]]  #alan
+- 🟢 `2026-01-19` [[2026-01-19 - Deez Nuts Jokes|Deez Nuts Jokes]]  #alan
+- 🟢 `2026-01-19` [[2026-01-19 - Sciatica Explained|Sciatica Explained]]  #alan
+- 🟢 `2026-01-20` [[2026-01-20 - Thankful for Kindness|Thankful for Kindness]]  #alan
+- 🟢 `2026-01-20` [[2026-01-20 - Financial Analysis Overview|Financial Analysis Overview]]  #alan
+- 🟢 `2026-01-20` [[2026-01-20 - Inflammatory Fast Foods Bloomington|Inflammatory Fast Foods Bloomington]]  #alan
+- 🟢 `2026-01-20` [[2026-01-20 - Fraud Account Closure Reasons|Fraud Account Closure Reasons]]  #alan #dispute #scam
+- 🟢 `2026-01-20` [[2026-01-20 - Procurement Conferences Miami|Procurement Conferences Miami]]  #alan #procurement
+- 🟢 `2026-01-20` [[2026-01-20 - AT&T billing dispute advice|AT&T billing dispute advice]]  #alan
+- 🟢 `2026-01-21` [[2026-01-21 - Banking Officer Structure|Banking Officer Structure]]  #alan
+- 🟢 `2026-01-21` [[2026-01-21 - Tax estimate for 85K|Tax estimate for 85K]]  #alan
+- 🟢 `2026-01-21` [[2026-01-21 - Salary Breakdown Request|Salary Breakdown Request]]  #alan
+- 🟢 `2026-01-21` [[2026-01-21 - Superman Show Plot Question|Superman Show Plot Question]]  #alan
+- 🟢 `2026-01-21` [[2026-01-21 - PG and Business Bankruptcy|PG and Business Bankruptcy]]  #alan #bankruptcy #legal
+- 🟢 `2026-01-21` [[2026-01-21 - Gala and School Update|Gala and School Update]]  #alan
+- 🟢 `2026-01-21` [[2026-01-21 - Email Clarification Rewrite|Email Clarification Rewrite]]  #alan
+- 🟢 `2026-01-21` [[2026-01-21 - Job title clarification|Job title clarification]]  #alan #procurement
+- 🟢 `2026-01-22` [[2026-01-22 - Potato Sprouting Safety|Potato Sprouting Safety]]  #alan
+- 🟢 `2026-01-22` [[2026-01-22 - Ground Beef and Steak|Ground Beef and Steak]]  #alan
+- 🟢 `2026-01-22` [[2026-01-22 - Nuform vs PeterMD TRT|Nuform vs PeterMD TRT]]  #alan #health #trt
+- 🟢 `2026-01-22` [[2026-01-22 - LinkedIn Profile Optimization|LinkedIn Profile Optimization]]  #alan #contracts #hiring #legal #negotiation #networking #procurement
+- 🟢 `2026-01-22` [[2026-01-22 - Zach Invisible Shield vs Xtr3|Zach Invisible Shield vs Xtr3]]  #alan
+- 🟢 `2026-01-22` [[2026-01-22 - Bangalore Upgrade Interactions|Bangalore Upgrade Interactions]]  #alan
+- 🟢 `2026-01-23` [[2026-01-23 - Chibi Sticker Request|Chibi Sticker Request]]  #alan
+- 🟢 `2026-01-23` [[2026-01-23 - VA Benefits School Issue|VA Benefits School Issue]]  #alan
+- 🟢 `2026-01-23` [[2026-01-23 - TRT Carrier Oils Inflammation|TRT Carrier Oils Inflammation]]  #alan #health #trt
+- 🟢 `2026-01-23` [[2026-01-23 - Credit Dispute Letter Generation|Credit Dispute Letter Generation]]  #alan #cfpb #credit #dispute #legal #high-signal
+- 🟢 `2026-01-23` [[2026-01-23 - FCRA Non-Compliance Consequences|FCRA Non-Compliance Consequences]]  #alan #legal
+- 🟢 `2026-01-24` [[2026-01-24 - Profit claims and timelines|Profit claims and timelines]]  #alan #credit #dispute #scam #utilization
+- 🟢 `2026-01-24` [[2026-01-24 - ICE Funding and Constitution|ICE Funding and Constitution]]  #alan
+- 🟢 `2026-01-24` [[2026-01-24 - I love you in Vietnamese|I love you in Vietnamese]]  #alan
+- 🟢 `2026-01-24` [[2026-01-24 - Self-hypnosis for wealth|Self-hypnosis for wealth]]  #alan #mindset
+- 🟢 `2026-01-24` [[2026-01-24 - Snowball vs Avalanche Method|Snowball vs Avalanche Method]]  #alan
+- 🟢 `2026-01-24` [[2026-01-24 - Key Light Placement Tips|Key Light Placement Tips]]  #alan #tech
+- 🟢 `2026-01-24` [[2026-01-24 - DSLR Lighting Comparison|DSLR Lighting Comparison]]  #alan #apw #dsl #sales
+- 🟢 `2026-01-24` [[2026-01-24 - PC Performance Comparison|PC Performance Comparison]]  #alan
+- 🟢 `2026-01-24` [[2026-01-24 - Elgato PCIe Capture Card|Elgato PCIe Capture Card]]  #alan #tech
+- 🟢 `2026-01-24` [[2026-01-24 - Beef Ribs Tenderness|Beef Ribs Tenderness]]  #alan #fitness #health
+- 🟢 `2026-01-25` [[2026-01-25 - Canon R5 Mark II Webcam|Canon R5 Mark II Webcam]]  #alan #tech
+- 🟢 `2026-01-25` [[2026-01-25 - ICE Agent Accountability|ICE Agent Accountability]]  #alan #legal
+- 🟢 `2026-01-25` [[2026-01-25 - Trump Removal Process|Trump Removal Process]]  #alan
+- 🟢 `2026-01-25` [[2026-01-25 - iPhone Green Message Fix|iPhone Green Message Fix]]  #alan
+- 🟢 `2026-01-25` [[2026-01-25 - eSIM Contacts Issue Fix|eSIM Contacts Issue Fix]]  #alan
+- 🟢 `2026-01-25` [[2026-01-25 - FBI Agent Resignation Reasons|FBI Agent Resignation Reasons]]  #alan
+- 🟢 `2026-01-25` [[2026-01-25 - Meme Fact-Check|Meme Fact-Check]]  #alan
+- 🟢 `2026-01-26` [[2026-01-26 - Luxury Jackets Comparison|Luxury Jackets Comparison]]  #alan
+- 🟢 `2026-01-26` [[2026-01-26 - 8K Projector vs TV|8K Projector vs TV]]  #alan
+- 🟢 `2026-01-26` [[2026-01-26 - Funny Royal Name Ideas|Funny Royal Name Ideas]]  #alan
+- 🟢 `2026-01-26` [[2026-01-26 - Dextroamphetamine and Sleep Impact|Dextroamphetamine and Sleep Impact]]  #alan #fitness #health
+- 🟢 `2026-01-27` [[2026-01-27 - Credit Ascend Market Picks|Credit Ascend Market Picks]]  #alan
+- 🟢 `2026-01-27` [[2026-01-27 - Vital Farms Eggs Comparison|Vital Farms Eggs Comparison]]  #alan
+- 🟢 `2026-01-27` [[2026-01-27 - Bake vs Convection Bake|Bake vs Convection Bake]]  #alan
+- 🟢 `2026-01-27` [[2026-01-27 - Ascend Credit Grand Slam|Ascend Credit Grand Slam]]  #alan #offer-design #sales #high-signal
+- 🟢 `2026-01-27` [[2026-01-27 - HGH for Focus and Drive|HGH for Focus and Drive]]  #alan #health #trt
+- 🟢 `2026-01-27` [[2026-01-27 - Camera mount setup guide|Camera mount setup guide]]  #alan #apw #dsl #sales
+- 🟢 `2026-01-27` [[2026-01-27 - Cultured vs Normal Butter|Cultured vs Normal Butter]]  #alan
+- 🟢 `2026-01-27` [[2026-01-27 - Apex Legends 4K Performance|Apex Legends 4K Performance]]  #alan
+- 🟢 `2026-01-28` [[2026-01-28 - Blue Light Sleep Block|Blue Light Sleep Block]]  #alan #health #supplements
+- 🟢 `2026-01-28` [[2026-01-28 - PCIe x1 for NVMe|PCIe x1 for NVMe]]  #alan
+- 🟢 `2026-01-28` [[2026-01-28 - Cat 8 Gaming Issues|Cat 8 Gaming Issues]]  #alan
+- 🟢 `2026-01-28` [[2026-01-28 - HDD vs SSD Reliability|HDD vs SSD Reliability]]  #alan
+- 🟢 `2026-01-28` [[2026-01-28 - Tesla Living Organization Tips|Tesla Living Organization Tips]]  #alan
+- 🟢 `2026-01-28` [[2026-01-28 - Wait Context Update|Wait Context Update]]  #alan
+- 🟢 `2026-01-28` [[2026-01-28 - Program Success Without Offer|Program Success Without Offer]]  #alan
+- 🟢 `2026-01-28` [[2026-01-28 - Tesamorelin Gold Standard|Tesamorelin Gold Standard?]]  #alan
+- 🟢 `2026-01-28` [[2026-01-28 - Identifying black astroturf|Identifying black astroturf]]  #alan
+- 🟢 `2026-01-29` [[2026-01-29 - Bullying Incident Report|Bullying Incident Report]]  #alan
+- 🟢 `2026-01-29` [[2026-01-29 - Upbeat Electric Songs List|Upbeat Electric Songs List]]  #alan
+- 🟢 `2026-01-30` [[2026-01-30 - Thank you email draft|Thank you email draft]]  #alan
+- 🟢 `2026-01-30` [[2026-01-30 - Email Draft Assistance|Email Draft Assistance]]  #alan
+- 🟢 `2026-01-30` [[2026-01-30 - Vietnam Airlines Customer Service|Vietnam Airlines Customer Service]]  #alan
+- 🟢 `2026-01-30` [[2026-01-30 - Creating Scalable Offers|Creating Scalable Offers]]  #alan
+- 🟢 `2026-01-30` [[2026-01-30 - ELMB vs Motion Blur|ELMB vs Motion Blur]]  #alan
+- 🟢 `2026-01-30` [[2026-01-30 - Sexual Energy Breakdown|Sexual Energy Breakdown]]  #alan
+- 🟢 `2026-01-30` [[2026-01-30 - Baby Blue Suit Professionalism|Baby Blue Suit Professionalism]]  #alan
+- 🟢 `2026-01-30` [[2026-01-30 - Fabric Pilling on Pillow|Fabric Pilling on Pillow]]  #alan
+- 🟢 `2026-01-30` [[2026-01-30 - Mic Comparison for Content Creation|Mic Comparison for Content Creation]]  #alan
+- 🟢 `2026-01-30` [[2026-01-30 - PCIE Capture Card Use|PCIE Capture Card Use]]  #alan #tech
+- 🟢 `2026-01-30` [[2026-01-30 - AT&T Billing Dispute|AT&T Billing Dispute]]  #alan #credit
+- 🟢 `2026-01-31` [[2026-01-31 - Billing MRI and PT|Billing MRI and PT]]  #alan
+
+## 2025-12  (238)
+
+- 🟢 `2025-12-01` [[2025-12-01 - Soft boil egg time|Soft boil egg time]]  #alan
+- 🟢 `2025-12-01` [[2025-12-01 - Raunchy female comedies|Raunchy female comedies]]  #alan
+- 🟢 `2025-12-01` [[2025-12-01 - Food safety inquiry|Food safety inquiry]]  #alan
+- 🟢 `2025-12-01` [[2025-12-01 - Refining playful message|Refining playful message]]  #alan
+- 🟢 `2025-12-01` [[2025-12-01 - Runway definition|Runway definition]]  #alan
+- 🟢 `2025-12-01` [[2025-12-01 - Divorce plan roadmap|Divorce plan roadmap]]  #alan #family #high-signal
+- 🟢 `2025-12-01` [[2025-12-01 - NDH30 vs Beats Studio Pro|NDH30 vs Beats Studio Pro]]  #alan
+- 🟢 `2025-12-01` [[2025-12-01 - Arugula lemon salad recipe|Arugula lemon salad recipe]]  #alan
+- 🟢 `2025-12-01` [[2025-12-01 - Ceramic vs stainless steel|Ceramic vs stainless steel]]  #alan
+- 🟢 `2025-12-02` [[2025-12-02 - View original fps capcut|View original fps capcut]]  #alan
+- 🟢 `2025-12-02` [[2025-12-02 - Canon R5 audio issue|Canon R5 audio issue]]  #alan
+- 🟢 `2025-12-02` [[2025-12-02 - not|not]]  #alan
+- 🟢 `2025-12-02` [[2025-12-02 - Translate to IG caption|Translate to IG caption]]  #alan #copywriting #instagram #marketing
+- 🟢 `2025-12-02` [[2025-12-02 - Instagram audio issue fix|Instagram audio issue fix]]  #alan #instagram #marketing
+- 🟢 `2025-12-02` [[2025-12-02 - Communicating coverage details|Communicating coverage details]]  #alan #health #instagram #marketing #supplements
+- 🟢 `2025-12-02` [[2025-12-02 - Spectrum 200 parking hours|Spectrum 200 parking hours]]  #alan
+- 🟢 `2025-12-02` [[2025-12-02 - 711 breakfast vs meatza comparison|711 breakfast vs meatza comparison]]  #alan
+- 🟢 `2025-12-02` [[2025-12-02 - MN paid leave update|MN paid leave update]]  #alan
+- 🟢 `2025-12-02` [[2025-12-02 - Ember Shores lodging options|Ember Shores lodging options]]  #alan
+- 🟢 `2025-12-02` [[2025-12-02 - Starbucks cold brew size|Starbucks cold brew size]]  #alan
+- 🟢 `2025-12-02` [[2025-12-02 - Polished introduction message|Polished introduction message]]  #alan
+- 🟢 `2025-12-02` [[2025-12-02 - Fire photo setup tips|Fire photo setup tips]]  #alan
+- 🟢 `2025-12-03` [[2025-12-03 - WeWork tap removal date|WeWork tap removal date]]  #alan
+- 🟢 `2025-12-03` [[2025-12-03 - Find My iPhone location off|Find My iPhone location off]]  #alan
+- 🟢 `2025-12-03` [[2025-12-03 - Bluetooth audio multitasking issue|Bluetooth audio multitasking issue]]  #alan
+- 🟢 `2025-12-03` [[2025-12-03 - Legal review and protocol|Legal review and protocol]]  #alan #curriculum #teaching #high-signal
+- 🟢 `2025-12-03` [[2025-12-03 - Dave's vs Cane's comparison|Dave's vs Cane's comparison]]  #alan
+- 🟢 `2025-12-03` [[2025-12-03 - Best NVMe enclosure for MacBook Pro|Best NVMe enclosure for MacBook Pro]]  #alan
+- 🟢 `2025-12-03` [[2025-12-03 - Canon R5 Mark II screw|Canon R5 Mark II screw]]  #alan
+- 🟢 `2025-12-03` [[2025-12-03 - DIY license plate mount|DIY license plate mount]]  #alan
+- 🟢 `2025-12-03` [[2025-12-03 - Front plate dash legality|Front plate dash legality]]  #alan #ops
+- 🟢 `2025-12-03` [[2025-12-03 - Cold shoe mount part|Cold shoe mount part]]  #alan
+- 🟢 `2025-12-03` [[2025-12-03 - LMNT vs Ancient Nutrition|LMNT vs Ancient Nutrition]]  #alan #health
+- 🟢 `2025-12-04` [[2025-12-04 - Instagram post caption|Instagram post caption]]  #alan #copywriting #instagram #marketing
+- 🟢 `2025-12-04` [[2025-12-04 - Cinematic transformation scene|Cinematic transformation scene]]  #alan
+- 🟢 `2025-12-04` [[2025-12-04 - Hypnotic EDM video hooks|Hypnotic EDM video hooks]]  #alan #copywriting #dj-music #instagram #marketing
+- 🟢 `2025-12-04` [[2025-12-04 - Brie cheese healthiness|Brie cheese healthiness]]  #alan
+- 🟢 `2025-12-04` [[2025-12-04 - Hydration sodium comparison|Hydration sodium comparison]]  #alan #health
+- 🟢 `2025-12-04` [[2025-12-04 - Open-back vs closed-back headphones|Open-back vs closed-back headphones]]  #alan #tech
+- 🟢 `2025-12-04` [[2025-12-04 - Reenact vs reperform|Reenact vs reperform]]  #alan
+- 🟢 `2025-12-05` [[2025-12-05 - Response draft review|Response draft review]]  #alan #legal
+- 🟢 `2025-12-05` [[2025-12-05 - User profile summary|User profile summary]]  #alan
+- 🟢 `2025-12-05` [[2025-12-05 - Insightful reflection for sister|Insightful reflection for sister]]  #alan #high-signal
+- 🟢 `2025-12-05` [[2025-12-05 - Custom GPT memory setup|Custom GPT memory setup]]  #alan
+- 🟢 `2025-12-05` [[2025-12-05 - Word search zigzag rules|Word search zigzag rules]]  #alan #health #surgery
+- 🟢 `2025-12-06` [[2025-12-06 - PK vs JBL speaker costs|PK vs JBL speaker costs]]  #alan
+- 🟢 `2025-12-06` [[2025-12-06 - Rewrite in my voice|Rewrite in my voice]]  #alan
+- 🟢 `2025-12-06` [[2025-12-06 - Legal services for app startup|Legal services for app startup]]  #alan
+- 🟢 `2025-12-06` [[2025-12-06 - Best theaters near Palm Springs|Best theaters near Palm Springs]]  #alan
+- 🟢 `2025-12-07` [[2025-12-07 - Chargeback case reference|Chargeback case reference]]  #alan #chargeback #dispute #fib #scam
+- 🟢 `2025-12-08` [[2025-12-08 - Compartmentalize guilt and healing|Compartmentalize guilt and healing]]  #alan
+- 🟢 `2025-12-08` [[2025-12-08 - What is HS|What is HS]]  #alan
+- 🟢 `2025-12-08` [[2025-12-08 - Wienerschnitzel burger analysis|Wienerschnitzel burger analysis]]  #alan
+- 🟢 `2025-12-08` [[2025-12-08 - 20% down payment calculation|20% down payment calculation]]  #alan
+- 🟢 `2025-12-08` [[2025-12-08 - Affordable areas near Irvine|Affordable areas near Irvine]]  #alan
+- 🟢 `2025-12-08` [[2025-12-08 - Rewrite funnier email|Rewrite funnier email]]  #alan
+- 🟢 `2025-12-09` [[2025-12-09 - Flowchart summary checklist|Flowchart summary checklist]]  #alan #funding #high-signal
+- 🟢 `2025-12-09` [[2025-12-09 - Dramatic compliments exchange|Dramatic compliments exchange]]  #alan
+- 🟢 `2025-12-09` [[2025-12-09 - Email for discounted conference|Email for discounted conference]]  #alan #legal #procurement
+- 🟢 `2025-12-09` [[2025-12-09 - Snow forecast MN|Snow forecast MN]]  #alan
+- 🟢 `2025-12-09` [[2025-12-09 - Deep sleep requirements|Deep sleep requirements]]  #alan
+- 🟢 `2025-12-10` [[2025-12-10 - Panda Express vs Chipotle|Panda Express vs Chipotle]]  #alan #fitness #health
+- 🟢 `2025-12-10` [[2025-12-10 - Shake Shack comparison|Shake Shack comparison]]  #alan
+- 🟢 `2025-12-10` [[2025-12-10 - Superfoods benefits explained|Superfoods benefits explained]]  #alan
+- 🟢 `2025-12-10` [[2025-12-10 - Sign up for alerts|Sign up for alerts]]  #alan
+- 🟢 `2025-12-10` [[2025-12-10 - Real ID requirements MN|Real ID requirements MN]]  #alan
+- 🟢 `2025-12-10` [[2025-12-10 - Replay access details|Replay access details]]  #alan
+- 🟢 `2025-12-10` [[2025-12-10 - Vmoda vs Bose comparison|Vmoda vs Bose comparison]]  #alan
+- 🟢 `2025-12-10` [[2025-12-10 - Adapt vs empower seamless|Adapt vs empower seamless]]  #alan
+- 🟢 `2025-12-10` [[2025-12-10 - Days until Christmas|Days until Christmas]]  #alan
+- 🟢 `2025-12-10` [[2025-12-10 - Down payment calculation|Down payment calculation]]  #alan
+- 🟢 `2025-12-10` [[2025-12-10 - Share Gmail calendar|Share Gmail calendar]]  #alan
+- 🟢 `2025-12-11` [[2025-12-11 - Vmoda m200 vs Crossfade 3|Vmoda m200 vs Crossfade 3]]  #alan
+- 🟢 `2025-12-11` [[2025-12-11 - Wayfarer Gen 1 vs 2|Wayfarer Gen 1 vs 2]]  #alan
+- 🟢 `2025-12-11` [[2025-12-11 - Share Gmail calendar|Share Gmail calendar]]  #alan
+- 🟢 `2025-12-11` [[2025-12-11 - iPhone 16 pro charge rate|iPhone 16 pro charge rate]]  #alan
+- 🟢 `2025-12-11` [[2025-12-11 - Sober Thursday alternatives|Sober Thursday alternatives]]  #alan
+- 🟢 `2025-12-11` [[2025-12-11 - Smiling and wrinkles|Smiling and wrinkles]]  #alan
+- 🟢 `2025-12-12` [[2025-12-12 - Unlock standing desk|Unlock standing desk]]  #alan
+- 🟢 `2025-12-12` [[2025-12-12 - Retirement savings plan|Retirement savings plan]]  #alan
+- 🟢 `2025-12-12` [[2025-12-12 - Filter iCloud emails 2014|Filter iCloud emails 2014]]  #alan
+- 🟢 `2025-12-12` [[2025-12-12 - Document analysis offer|Document analysis offer]]  #alan
+- 🟢 `2025-12-13` [[2025-12-13 - Dogs and breadsticks safety|Dogs and breadsticks safety]]  #alan
+- 🟢 `2025-12-13` [[2025-12-13 - Yeti promo codes|Yeti promo codes]]  #alan
+- 🟢 `2025-12-13` [[2025-12-13 - Days between dates|Days between dates]]  #alan
+- 🟢 `2025-12-13` [[2025-12-13 - Service dog for anxiety|Service dog for anxiety]]  #alan
+- 🟢 `2025-12-13` [[2025-12-13 - Grocery stores dog policy|Grocery stores dog policy]]  #alan
+- 🟢 `2025-12-14` [[2025-12-14 - Living Consistently in Purpose|Living Consistently in Purpose]]  #alan
+- 🟢 `2025-12-14` [[2025-12-14 - Reading astrology transits|Reading astrology transits]]  #alan
+- 🟢 `2025-12-14` [[2025-12-14 - Write more cute|Write more cute]]  #alan
+- 🟢 `2025-12-14` [[2025-12-14 - Clarify mind hijacking reference|Clarify mind hijacking reference]]  #alan
+- 🟢 `2025-12-14` [[2025-12-14 - Search terms for assets|Search terms for assets]]  #alan
+- 🟢 `2025-12-14` [[2025-12-14 - Mind control tactics|Mind control tactics]]  #alan #high-signal
+- 🟢 `2025-12-15` [[2025-12-15 - Account breakdown spreadsheet|Account breakdown spreadsheet]]  #alan #account-age
+- 🟢 `2025-12-15` [[2025-12-15 - 2026 zodiac forecast|2026 zodiac forecast]]  #alan
+- 🟢 `2025-12-15` [[2025-12-15 - Clarify Elon Musk query|Clarify Elon Musk query]]  #alan
+- 🟢 `2025-12-15` [[2025-12-15 - Funny response request|Funny response request]]  #alan
+- 🟢 `2025-12-15` [[2025-12-15 - Refined emotional message|Refined emotional message]]  #alan
+- 🟢 `2025-12-16` [[2025-12-16 - Russell Brunson and Alex Hormozi on offers|Russell Brunson and Alex Hormozi on offers]]  #alan
+- 🟢 `2025-12-16` [[2025-12-16 - Business schools comparison|Business schools comparison]]  #alan
+- 🟢 `2025-12-16` [[2025-12-16 - Maximizing Iowa Scholarships|Maximizing Iowa Scholarships]]  #alan #negotiation
+- 🟢 `2025-12-16` [[2025-12-16 - Coping with bloating and weakness|Coping with bloating and weakness]]  #alan #fitness #health
+- 🟢 `2025-12-16` [[2025-12-16 - Amazon insurance coverage|Amazon insurance coverage]]  #alan
+- 🟢 `2025-12-16` [[2025-12-16 - District 196 closure reason|District 196 closure reason]]  #alan
+- 🟢 `2025-12-16` [[2025-12-16 - Find Rayjahn Odum's boss|Find Rayjahn Odum's boss]]  #alan
+- 🟢 `2025-12-16` [[2025-12-16 - Miami Marathon 2026 details|Miami Marathon 2026 details]]  #alan
+- 🟢 `2025-12-16` [[2025-12-16 - Monthly payment estimate|Monthly payment estimate]]  #alan
+- 🟢 `2025-12-16` [[2025-12-16 - Program alignment strategy|Program alignment strategy]]  #alan #finance #high-signal
+- 🟢 `2025-12-16` [[2025-12-16 - Transcribe audio Mac OS|Transcribe audio Mac OS]]  #alan #high-signal
+- 🟢 `2025-12-16` [[2025-12-16 - Mastering Lesson 6|Mastering Lesson 6]]  #alan #mindset #teaching
+- 🟢 `2025-12-16` [[2025-12-16 - Clean up transcript for GPT|Clean up transcript for GPT]]  #alan #teaching
+- 🟢 `2025-12-16` [[2025-12-16 - Clean transcripts for GPT|Clean transcripts for GPT]]  #alan #mindset #teaching
+- 🟢 `2025-12-17` [[2025-12-17 - Thunderbolt 4 speed max|Thunderbolt 4 speed max]]  #alan
+- 🟢 `2025-12-17` [[2025-12-17 - Lesson 01 assessment|Lesson 01 assessment]]  #alan #teaching #high-signal
+- 🟢 `2025-12-17` [[2025-12-17 - Manifesting passive income|Manifesting passive income]]  #alan #health #surgery
+- 🟢 `2025-12-17` [[2025-12-17 - Fog in Irvine原因|Fog in Irvine原因]]  #alan
+- 🟢 `2025-12-17` [[2025-12-17 - Artist name ideas|Artist name ideas]]  #alan #dj-music
+- 🟢 `2025-12-17` [[2025-12-17 - Camera and lens guess|Camera and lens guess]]  #alan
+- 🟢 `2025-12-17` [[2025-12-17 - Summarize system teachings|Summarize system teachings]]  #alan #funding #mindset
+- 🟢 `2025-12-17` [[2025-12-17 - M2Max vs M4 vs M5|M2Max vs M4 vs M5]]  #alan
+- 🟢 `2025-12-17` [[2025-12-17 - Parallel reality manifestation|Parallel reality manifestation]]  #alan
+- 🟢 `2025-12-17` [[2025-12-17 - RedCard return rewards|RedCard return rewards]]  #alan
+- 🟢 `2025-12-17` [[2025-12-17 - Wealth identity shifting|Wealth identity shifting]]  #alan #mindset
+- 🟢 `2025-12-17` [[2025-12-17 - DAN capabilities overview|DAN capabilities overview]]  #alan
+- 🟢 `2025-12-17` [[2025-12-17 - FX3 vs R5 Mark II|FX3 vs R5 Mark II]]  #alan
+- 🟢 `2025-12-17` [[2025-12-17 - M2 Max vs iPad Pro comparison|M2 Max vs iPad Pro comparison]]  #alan
+- 🟢 `2025-12-17` [[2025-12-17 - Account breakdown format|Account breakdown format]]  #alan #account-age #credit
+- 🟢 `2025-12-18` [[2025-12-18 - Time tracking tools|Time tracking tools]]  #alan #mindset #sales
+- 🟢 `2025-12-18` [[2025-12-18 - Transunion data formatting|Transunion data formatting]]  #alan #account-age #credit #utilization
+- 🟢 `2025-12-18` [[2025-12-18 - Credit report processing steps|Credit report processing steps]]  #alan #credit #ops
+- 🟢 `2025-12-18` [[2025-12-18 - Credit report processing|Credit report processing]]  #alan #credit #ops
+- 🟢 `2025-12-18` [[2025-12-18 - Credit report processing-2|Credit report processing]]  #alan #credit #ops
+- 🟢 `2025-12-18` [[2025-12-18 - QA extraction issues|QA extraction issues]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - New chat|New chat]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - QA fail details|QA fail details]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Schema error fix|Schema error fix]]  #alan #credit
+- 🟢 `2025-12-18` [[2025-12-18 - Largest fountain or spring|Largest fountain or spring]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Credit account details|Credit account details]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Credit account details-2|Credit account details]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Credit account details-3|Credit account details]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Account details report|Account details report]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Error message explanation|Error message explanation]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Process transparency failure|Process transparency failure]]  #alan #high-signal
+- 🟢 `2025-12-18` [[2025-12-18 - Credit report summary|Credit report summary]]  #alan #credit
+- 🟢 `2025-12-18` [[2025-12-18 - Credit report summary-2|Credit report summary]]  #alan #credit #high-signal
+- 🟢 `2025-12-18` [[2025-12-18 - Credit report summary-3|Credit report summary]]  #alan #credit #high-signal
+- 🟢 `2025-12-18` [[2025-12-18 - Credit report details|Credit report details]]  #alan #credit
+- 🟢 `2025-12-18` [[2025-12-18 - Bootstrap load failure fix|Bootstrap load failure fix]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Fix bootstrap file issue|Fix bootstrap file issue]]  #alan #high-signal
+- 🟢 `2025-12-18` [[2025-12-18 - Credit report details-2|Credit report details]]  #alan #credit
+- 🟢 `2025-12-18` [[2025-12-18 - Google Sheets data extraction|Google Sheets data extraction]]  #alan #credit #utilization
+- 🟢 `2025-12-18` [[2025-12-18 - Account extraction table|Account extraction table]]  #alan #credit #tech #tradeline #utilization
+- 🟢 `2025-12-18` [[2025-12-18 - Google Sheets extraction|Google Sheets extraction]]  #alan #credit #utilization
+- 🟢 `2025-12-18` [[2025-12-18 - Write better message|Write better message]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Google Sheets format|Google Sheets format]]  #alan #fib
+- 🟢 `2025-12-18` [[2025-12-18 - Account age optimization|Account age optimization]]  #alan #account-age #credit #funding #tradeline
+- 🟢 `2025-12-18` [[2025-12-18 - How hypnosis works|How hypnosis works]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - What is fractionation|What is fractionation]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Funny Thursday Names|Funny Thursday Names]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Hypnotizing through conversation|Hypnotizing through conversation]]  #alan #mindset
+- 🟢 `2025-12-18` [[2025-12-18 - Chapter 7 vs Chapter 13|Chapter 7 vs Chapter 13]]  #alan #bankruptcy #legal
+- 🟢 `2025-12-18` [[2025-12-18 - Outcompete funding offers|Outcompete funding offers]]  #alan #funding #networking #offer-design #sales
+- 🟢 `2025-12-18` [[2025-12-18 - AYCE KBBQ hotpot deals|AYCE KBBQ hotpot deals]]  #alan
+- 🟢 `2025-12-18` [[2025-12-18 - Electrolytes vs IV hydration|Electrolytes vs IV hydration]]  #alan #health
+- 🟢 `2025-12-18` [[2025-12-18 - Debrief Summary|Debrief Summary]]  #alan #high-signal
+- 🟢 `2025-12-18` [[2025-12-18 - Beauty promo code|Beauty promo code]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - ITIN eligibility for Americans|ITIN eligibility for Americans]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - Shake Shack vs Jack Milkshakes|Shake Shack vs Jack Milkshakes]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - Burger comparison|Burger comparison]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - Game of Chess Consciousness|Game of Chess Consciousness]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - Eagan home market trends|Eagan home market trends]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - Bluetooth mouse connection help|Bluetooth mouse connection help]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - Chrome Remote Desktop removal|Chrome Remote Desktop removal]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - CIPP US exam questions|CIPP US exam questions]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - Sacred object mythology|Sacred object mythology]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - Best dress shirts for muscles|Best dress shirts for muscles]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - Model 3 comparison|Model 3 comparison]]  #alan
+- 🟢 `2025-12-19` [[2025-12-19 - Tesla Lemon Law Guide|Tesla Lemon Law Guide]]  #alan
+- 🟢 `2025-12-20` [[2025-12-20 - Free parking at UCI|Free parking at UCI]]  #alan
+- 🟢 `2025-12-20` [[2025-12-20 - Meta glasses recording limits|Meta glasses recording limits]]  #alan
+- 🟢 `2025-12-20` [[2025-12-20 - Saturday football words|Saturday football words]]  #alan
+- 🟢 `2025-12-20` [[2025-12-20 - Time calculation for questions|Time calculation for questions]]  #alan
+- 🟢 `2025-12-20` [[2025-12-20 - Punch-up suggestions|Punch-up suggestions]]  #alan
+- 🟢 `2025-12-20` [[2025-12-20 - Boil near hairline advice|Boil near hairline advice]]  #alan
+- 🟢 `2025-12-20` [[2025-12-20 - eSIM and phone number|eSIM and phone number]]  #alan
+- 🟢 `2025-12-21` [[2025-12-21 - Gory spelling explanation|Gory spelling explanation]]  #alan
+- 🟢 `2025-12-22` [[2025-12-22 - CIPP exam time details|CIPP exam time details]]  #alan
+- 🟢 `2025-12-22` [[2025-12-22 - Synonyms for speed|Synonyms for speed]]  #alan
+- 🟢 `2025-12-22` [[2025-12-22 - Scam call analysis|Scam call analysis]]  #alan #dispute #scam
+- 🟢 `2025-12-22` [[2025-12-22 - Best MN drive-thru lights|Best MN drive-thru lights]]  #alan
+- 🟢 `2025-12-22` [[2025-12-22 - Rolodex meaning explained|Rolodex meaning explained]]  #alan
+- 🟢 `2025-12-22` [[2025-12-22 - Microsoft cloud headquarters|Microsoft cloud headquarters]]  #alan
+- 🟢 `2025-12-23` [[2025-12-23 - Plan B Timing Effectiveness|Plan B Timing Effectiveness]]  #alan
+- 🟢 `2025-12-23` [[2025-12-23 - MN Real ID Star|MN Real ID Star]]  #alan
+- 🟢 `2025-12-23` [[2025-12-23 - Electricity Cost Estimate|Electricity Cost Estimate]]  #alan
+- 🟢 `2025-12-23` [[2025-12-23 - CIPP meaning|CIPP meaning]]  #alan
+- 🟢 `2025-12-23` [[2025-12-23 - Manifestation Vision Statement|Manifestation Vision Statement]]  #alan #faegre #legal-tech #marketing #procurement
+- 🟢 `2025-12-23` [[2025-12-23 - Discipline Over Excuses|Discipline Over Excuses]]  #alan
+- 🟢 `2025-12-23` [[2025-12-23 - Santa Letter Revision|Santa Letter Revision]]  #alan
+- 🟢 `2025-12-23` [[2025-12-23 - Tire Damage Repair Advice|Tire Damage Repair Advice]]  #alan
+- 🟢 `2025-12-24` [[2025-12-24 - NV PRESS 877 Plate|NV PRESS 877 Plate]]  #alan
+- 🟢 `2025-12-24` [[2025-12-24 - Suite Comparison W vs MB|Suite Comparison W vs MB]]  #alan
+- 🟢 `2025-12-24` [[2025-12-24 - Tesla Tire Warranty Explained|Tesla Tire Warranty Explained]]  #alan #legal #high-signal
+- 🟢 `2025-12-24` [[2025-12-24 - Geico Tesla Towing Coverage|Geico Tesla Towing Coverage]]  #alan
+- 🟢 `2025-12-24` [[2025-12-24 - Humidifier and Deviated Septum|Humidifier and Deviated Septum]]  #alan
+- 🟢 `2025-12-25` [[2025-12-25 - Doxycycline Uses and Cautions|Doxycycline Uses and Cautions]]  #alan
+- 🟢 `2025-12-25` [[2025-12-25 - Lexapro Side Effects|Lexapro Side Effects]]  #alan
+- 🟢 `2025-12-25` [[2025-12-25 - What is Discernment|What is Discernment]]  #alan
+- 🟢 `2025-12-25` [[2025-12-25 - Bashar structure of existence|Bashar structure of existence]]  #alan
+- 🟢 `2025-12-25` [[2025-12-25 - Banana bread troubleshooting|Banana bread troubleshooting]]  #alan
+- 🟢 `2025-12-25` [[2025-12-25 - Navy Federal Down Payment Assistance|Navy Federal Down Payment Assistance]]  #alan #sales
+- 🟢 `2025-12-26` [[2025-12-26 - Real Estate Depreciation Explained|Real Estate Depreciation Explained]]  #alan #finance
+- 🟢 `2025-12-26` [[2025-12-26 - Red light therapy benefits|Red light therapy benefits]]  #alan
+- 🟢 `2025-12-27` [[2025-12-27 - Pasture Raised Burgers LV|Pasture Raised Burgers LV]]  #alan
+- 🟢 `2025-12-27` [[2025-12-27 - Nuclear weapons and dimensions|Nuclear weapons and dimensions]]  #alan #ops
+- 🟢 `2025-12-27` [[2025-12-27 - Challenges with Steel 3D Printing|Challenges with Steel 3D Printing]]  #alan
+- 🟢 `2025-12-28` [[2025-12-28 - Master Notes Framework|Master Notes Framework]]  #alan #high-signal
+- 🟢 `2025-12-28` [[2025-12-28 - Substack Growth System|Substack Growth System]]  #alan #networking
+- 🟢 `2025-12-28` [[2025-12-28 - Multi-Subject Time Trackers|Multi-Subject Time Trackers]]  #alan #ops
+- 🟢 `2025-12-28` [[2025-12-28 - Sue TransUnion Individual Case|Sue TransUnion Individual Case]]  #alan #cfpb #dispute #legal #scam
+- 🟢 `2025-12-28` [[2025-12-28 - Good night in Hawaiian|Good night in Hawaiian]]  #alan
+- 🟢 `2025-12-28` [[2025-12-28 - Eagan Snow Forecast|Eagan Snow Forecast]]  #alan
+- 🟢 `2025-12-28` [[2025-12-28 - Effective vs Ineffective Action|Effective vs Ineffective Action]]  #alan #branding #hiring #marketing
+- 🟢 `2025-12-29` [[2025-12-29 - Rain Forecast Irvine New Year|Rain Forecast Irvine New Year]]  #alan
+- 🟢 `2025-12-29` [[2025-12-29 - AGI vs ASI|AGI vs ASI]]  #alan
+- 🟢 `2025-12-29` [[2025-12-29 - Creatine Weight Gain Normal|Creatine Weight Gain Normal]]  #alan
+- 🟢 `2025-12-29` [[2025-12-29 - Protégés Meaning Explained|Protégés Meaning Explained]]  #alan
+- 🟢 `2025-12-30` [[2025-12-30 - Wealth Creation Framework|Wealth Creation Framework]]  #alan #family #high-signal
+- 🟢 `2025-12-30` [[2025-12-30 - Share Google Calendar Access|Share Google Calendar Access]]  #alan
+- 🟢 `2025-12-30` [[2025-12-30 - MN Somali Fraud Scandal|MN Somali Fraud Scandal]]  #alan #dispute #scam
+- 🟢 `2025-12-30` [[2025-12-30 - Clarifying incomplete sentence|Clarifying incomplete sentence]]  #alan
+- 🟢 `2025-12-30` [[2025-12-30 - Overcoming Subconscious Blocks|Overcoming Subconscious Blocks]]  #alan #copywriting #mindset #high-signal
+- 🟢 `2025-12-30` [[2025-12-30 - Home Purchase Tax Deductions|Home Purchase Tax Deductions]]  #alan #finance #sales
+- 🟢 `2025-12-31` [[2025-12-31 - Blowout Claim Denial Dispute|Blowout Claim Denial Dispute]]  #alan
+- 🟢 `2025-12-31` [[2025-12-31 - Graceful Accountability Communication|Graceful Accountability Communication]]  #alan
+- 🟢 `2025-12-31` [[2025-12-31 - New Year Reflection|New Year Reflection]]  #alan
+- 🟢 `2025-12-31` [[2025-12-31 - Article 10 Omission Validity|Article 10 Omission Validity]]  #alan
+- 🟢 `2025-12-31` [[2025-12-31 - 12 Grapes Tradition Explained|12 Grapes Tradition Explained]]  #alan
+
+## 2025-11  (198)
+
+- 🟢 `2025-11-01` [[2025-11-01 - WAMU garage overnight policy|WAMU garage overnight policy]]  #alan
+- 🟢 `2025-11-01` [[2025-11-01 - Increase shutter speed Canon R5|Increase shutter speed Canon R5]]  #alan
+- 🟢 `2025-11-01` [[2025-11-01 - Tesla Model Y cig lighter fix|Tesla Model Y cig lighter fix]]  #alan
+- 🟢 `2025-11-01` [[2025-11-01 - Stop sharing location steps|Stop sharing location steps]]  #alan
+- 🟢 `2025-11-01` [[2025-11-01 - Pay-to-park superchargers|Pay-to-park superchargers]]  #alan
+- 🟢 `2025-11-01` [[2025-11-01 - Best photo upload sites|Best photo upload sites]]  #alan #instagram #marketing
+- 🟢 `2025-11-02` [[2025-11-02 - Delete RAW photos Canon R5|Delete RAW photos Canon R5]]  #alan
+- 🟢 `2025-11-02` [[2025-11-02 - Improve photo crispness|Improve photo crispness]]  #alan
+- 🟢 `2025-11-02` [[2025-11-02 - Dog coughing and drooling|Dog coughing and drooling]]  #alan
+- 🟢 `2025-11-03` [[2025-11-03 - Photo cinematic transformation|Photo cinematic transformation]]  #alan
+- 🟢 `2025-11-03` [[2025-11-03 - Safe parking program details|Safe parking program details]]  #alan
+- 🟢 `2025-11-03` [[2025-11-03 - Organic cold brews availability|Organic cold brews availability]]  #alan
+- 🟢 `2025-11-04` [[2025-11-04 - Ivanti definition|Ivanti definition]]  #alan
+- 🟢 `2025-11-04` [[2025-11-04 - Scaling for 1080 project|Scaling for 1080 project]]  #alan
+- 🟢 `2025-11-05` [[2025-11-05 - Scaling percentage calculation|Scaling percentage calculation]]  #alan
+- 🟢 `2025-11-05` [[2025-11-05 - Why she said that|Why she said that]]  #alan
+- 🟢 `2025-11-05` [[2025-11-05 - Reflection on eating alone|Reflection on eating alone]]  #alan
+- 🟢 `2025-11-05` [[2025-11-05 - Juicy Lucy restaurants MN|Juicy Lucy restaurants MN]]  #alan #travel
+- 🟢 `2025-11-05` [[2025-11-05 - Eastern medicine on migraines|Eastern medicine on migraines]]  #alan
+- 🟢 `2025-11-05` [[2025-11-05 - Slang meaning comparison|Slang meaning comparison]]  #alan
+- 🟢 `2025-11-06` [[2025-11-06 - Vietnamese joke response|Vietnamese joke response]]  #alan
+- 🟢 `2025-11-06` [[2025-11-06 - Ffc elmhurst competitors|Ffc elmhurst competitors]]  #alan #negotiation
+- 🟢 `2025-11-06` [[2025-11-06 - Most expensive golf course|Most expensive golf course]]  #alan
+- 🟢 `2025-11-06` [[2025-11-06 - Tattoo ideas for all|Tattoo ideas for all]]  #alan #fitness #health
+- 🟢 `2025-11-07` [[2025-11-07 - Lane assist vs FSD|Lane assist vs FSD]]  #alan
+- 🟢 `2025-11-07` [[2025-11-07 - Bullying concern at school|Bullying concern at school]]  #alan
+- 🟢 `2025-11-07` [[2025-11-07 - Clarification request draft|Clarification request draft]]  #alan
+- 🟢 `2025-11-07` [[2025-11-07 - Funny compliment response|Funny compliment response]]  #alan
+- 🟢 `2025-11-07` [[2025-11-07 - Fun bars in Eagan|Fun bars in Eagan]]  #alan
+- 🟢 `2025-11-08` [[2025-11-08 - COI impact on media access|COI impact on media access]]  #alan
+- 🟢 `2025-11-08` [[2025-11-08 - Personalized love and support|Personalized love and support]]  #alan
+- 🟢 `2025-11-08` [[2025-11-08 - Car camping spots Tacoma|Car camping spots Tacoma]]  #alan
+- 🟢 `2025-11-08` [[2025-11-08 - Generate emoji text messages|Generate emoji text messages]]  #alan
+- 🟢 `2025-11-09` [[2025-11-09 - Canon R5 power to mic|Canon R5 power to mic]]  #alan
+- 🟢 `2025-11-09` [[2025-11-09 - JPEG quality and RAW|JPEG quality and RAW]]  #alan
+- 🟢 `2025-11-09` [[2025-11-09 - External storage options 20TB+|External storage options 20TB+]]  #alan
+- 🟢 `2025-11-09` [[2025-11-09 - FFC Elmhurst membership deals|FFC Elmhurst membership deals]]  #alan
+- 🟢 `2025-11-09` [[2025-11-09 - Percentage cut for connections|Percentage cut for connections]]  #alan
+- 🟢 `2025-11-09` [[2025-11-09 - Construction loan options|Construction loan options]]  #alan #finance
+- 🟢 `2025-11-09` [[2025-11-09 - Shut up song Roblox|Shut up song Roblox]]  #alan
+- 🟢 `2025-11-10` [[2025-11-10 - Plant-based restaurants St. Paul|Plant-based restaurants St. Paul]]  #alan
+- 🟢 `2025-11-10` [[2025-11-10 - National park patrol query|National park patrol query]]  #alan
+- 🟢 `2025-11-10` [[2025-11-10 - Funny withdrawal phrases|Funny withdrawal phrases]]  #alan
+- 🟢 `2025-11-10` [[2025-11-10 - Infatuated meaning explained|Infatuated meaning explained]]  #alan
+- 🟢 `2025-11-10` [[2025-11-10 - Christmas Vacation one-liners|Christmas Vacation one-liners]]  #alan
+- 🟢 `2025-11-10` [[2025-11-10 - Breakfast near Vikings stadium|Breakfast near Vikings stadium]]  #alan
+- 🟢 `2025-11-10` [[2025-11-10 - Fun activities Minneapolis|Fun activities Minneapolis]]  #alan
+- 🟢 `2025-11-10` [[2025-11-10 - Myths about government threats|Myths about government threats]]  #alan
+- 🟢 `2025-11-10` [[2025-11-10 - Normal blood pressure ranges|Normal blood pressure ranges]]  #alan
+- 🟢 `2025-11-10` [[2025-11-10 - Donut comparison Walmart Target Safeway|Donut comparison Walmart Target Safeway]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Flirty response suggestions|Flirty response suggestions]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Reader comparison speeds quality|Reader comparison speeds quality]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Funny 420 joke|Funny 420 joke]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Delete Preboot volume|Delete Preboot volume?]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Drone legality at events|Drone legality at events]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Swim team sign-up ideas|Swim team sign-up ideas]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Injection pain explanation|Injection pain explanation]]  #alan #health #surgery #trt
+- 🟢 `2025-11-11` [[2025-11-11 - Visit Mount Rainier Paradise|Visit Mount Rainier Paradise]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Compatibility with Lily vs Amanda|Compatibility with Lily vs Amanda]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Bundle pay package system|Bundle pay package system]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Teaching identity theft reports|Teaching identity theft reports]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Government shutdown dynamics|Government shutdown dynamics]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Gap funding for Section 8|Gap funding for Section 8]]  #alan #funding
+- 🟢 `2025-11-11` [[2025-11-11 - Clarify fishy order|Clarify fishy order]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Tesla charging near Rainier|Tesla charging near Rainier]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - West Coast rain-free spots|West Coast rain-free spots]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Tesla route planner explanation|Tesla route planner explanation]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Kitchen remodel layout|Kitchen remodel layout]]  #alan #procurement #tech
+- 🟢 `2025-11-11` [[2025-11-11 - Road blocked by snow|Road blocked by snow]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Sleeping in car rules|Sleeping in car rules]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Callahan technique overview|Callahan technique overview]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Affordable Care Act explanation|Affordable Care Act explanation]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Virtual Riot Grammy nomination|Virtual Riot Grammy nomination]]  #alan
+- 🟢 `2025-11-11` [[2025-11-11 - Mountain views near Olympia|Mountain views near Olympia]]  #alan
+- 🟢 `2025-11-12` [[2025-11-12 - Nutrition estimate salad bowl|Nutrition estimate salad bowl]]  #alan #health
+- 🟢 `2025-11-12` [[2025-11-12 - 86 a position meaning|86 a position meaning]]  #alan
+- 🟢 `2025-11-12` [[2025-11-12 - Happy hour spots St. Paul|Happy hour spots St. Paul]]  #alan
+- 🟢 `2025-11-13` [[2025-11-13 - Overnight parking at Diablo|Overnight parking at Diablo]]  #alan
+- 🟢 `2025-11-13` [[2025-11-13 - Amazon seller account rules|Amazon seller account rules]]  #alan
+- 🟢 `2025-11-13` [[2025-11-13 - Remove info from ClustrMaps|Remove info from ClustrMaps]]  #alan
+- 🟢 `2025-11-13` [[2025-11-13 - Funny FSCS hat posts|Funny FSCS hat posts]]  #alan
+- 🟢 `2025-11-14` [[2025-11-14 - Heartfelt letter rewrite|Heartfelt letter rewrite]]  #alan
+- 🟢 `2025-11-14` [[2025-11-14 - Ticket for missing front plate|Ticket for missing front plate]]  #alan
+- 🟢 `2025-11-14` [[2025-11-14 - Surrogate pregnancy risks|Surrogate pregnancy risks]]  #alan
+- 🟢 `2025-11-14` [[2025-11-14 - Scale video in CapCut|Scale video in CapCut]]  #alan
+- 🟢 `2025-11-14` [[2025-11-14 - TRT injections query|TRT injections query]]  #alan #health #trt
+- 🟢 `2025-11-14` [[2025-11-14 - Fake fishing bait|Fake fishing bait]]  #alan
+- 🟢 `2025-11-14` [[2025-11-14 - Is this true analysis|Is this true analysis]]  #alan
+- 🟢 `2025-11-14` [[2025-11-14 - Song identification request|Song identification request]]  #alan
+- 🟢 `2025-11-15` [[2025-11-15 - Exporting for Capcut|Exporting for Capcut]]  #alan #instagram #marketing
+- 🟢 `2025-11-15` [[2025-11-15 - Co-working space pricing|Co-working space pricing]]  #alan #legal
+- 🟢 `2025-11-15` [[2025-11-15 - Heal from kidney stones|Heal from kidney stones]]  #alan
+- 🟢 `2025-11-15` [[2025-11-15 - Additional insured type choice|Additional insured type choice]]  #alan
+- 🟢 `2025-11-15` [[2025-11-15 - Unlink Instagram from Facebook|Unlink Instagram from Facebook]]  #alan #instagram #marketing
+- 🟢 `2025-11-15` [[2025-11-15 - ProGrade vs SanDisk V90|ProGrade vs SanDisk V90]]  #alan
+- 🟢 `2025-11-15` [[2025-11-15 - Prevent MacBook sleep|Prevent MacBook sleep]]  #alan
+- 🟢 `2025-11-15` [[2025-11-15 - Marriott Long Beach clearance|Marriott Long Beach clearance]]  #alan
+- 🟢 `2025-11-15` [[2025-11-15 - Sildenafil quality comparison|Sildenafil quality comparison]]  #alan #health #trt
+- 🟢 `2025-11-15` [[2025-11-15 - Fat transfer breast feel|Fat transfer breast feel]]  #alan
+- 🟢 `2025-11-16` [[2025-11-16 - Birth control emotional impact|Birth control emotional impact]]  #alan
+- 🟢 `2025-11-16` [[2025-11-16 - Emotional hangover discussion|Emotional hangover discussion]]  #alan #high-signal
+- 🟢 `2025-11-17` [[2025-11-17 - Tesla FSD laptop use|Tesla FSD laptop use]]  #alan
+- 🟢 `2025-11-17` [[2025-11-17 - Speed test comparison V90 cards|Speed test comparison V90 cards]]  #alan
+- 🟢 `2025-11-17` [[2025-11-17 - DTI at 165K 270K|DTI at 165K 270K]]  #alan #credit #utilization
+- 🟢 `2025-11-17` [[2025-11-17 - Searing a steak guide|Searing a steak guide]]  #alan
+- 🟢 `2025-11-17` [[2025-11-17 - Insurance for permissive drivers|Insurance for permissive drivers]]  #alan
+- 🟢 `2025-11-17` [[2025-11-17 - Steak resting time|Steak resting time]]  #alan
+- 🟢 `2025-11-18` [[2025-11-18 - AirPods 4 charging case|AirPods 4 charging case]]  #alan
+- 🟢 `2025-11-18` [[2025-11-18 - AirPods 4 quick guide|AirPods 4 quick guide]]  #alan
+- 🟢 `2025-11-18` [[2025-11-18 - Rewrite for friendliness|Rewrite for friendliness]]  #alan
+- 🟢 `2025-11-18` [[2025-11-18 - Mediation cost breakdown|Mediation cost breakdown]]  #alan
+- 🟢 `2025-11-18` [[2025-11-18 - AI strategies certification options|AI strategies certification options]]  #alan #high-signal
+- 🟢 `2025-11-18` [[2025-11-18 - Awakening to happiness|Awakening to happiness]]  #alan
+- 🟢 `2025-11-19` [[2025-11-19 - S&P 500 overview|S&P 500 overview]]  #alan
+- 🟢 `2025-11-19` [[2025-11-19 - Tech stocks drop analysis|Tech stocks drop analysis]]  #alan
+- 🟢 `2025-11-19` [[2025-11-19 - ProcureCon West message|ProcureCon West message]]  #alan #hiring #procurement
+- 🟢 `2025-11-19` [[2025-11-19 - LinkedIn message writing|LinkedIn message writing]]  #alan #copywriting #networking
+- 🟢 `2025-11-19` [[2025-11-19 - Bluetooth audio quality tips|Bluetooth audio quality tips]]  #alan
+- 🟢 `2025-11-19` [[2025-11-19 - Water not working fix|Water not working fix]]  #alan
+- 🟢 `2025-11-19` [[2025-11-19 - Least inflammatory oil options|Least inflammatory oil options]]  #alan
+- 🟢 `2025-11-19` [[2025-11-19 - Funny congrats response|Funny congrats response]]  #alan
+- 🟢 `2025-11-19` [[2025-11-19 - Ferrari rental in Vegas|Ferrari rental in Vegas]]  #alan
+- 🟢 `2025-11-19` [[2025-11-19 - Hot shoe splitter compatibility|Hot shoe splitter compatibility]]  #alan
+- 🟢 `2025-11-20` [[2025-11-20 - Playful comeback suggestion|Playful comeback suggestion]]  #alan
+- 🟢 `2025-11-20` [[2025-11-20 - 30L bag for RS4|30L bag for RS4]]  #alan
+- 🟢 `2025-11-20` [[2025-11-20 - Longest drive without sleep|Longest drive without sleep]]  #alan
+- 🟢 `2025-11-20` [[2025-11-20 - Best Starbucks peppermint drink|Best Starbucks peppermint drink]]  #alan
+- 🟢 `2025-11-20` [[2025-11-20 - Tom Brown admissions Tennessee|Tom Brown admissions Tennessee]]  #alan
+- 🟢 `2025-11-20` [[2025-11-20 - Digital clipping and speakers|Digital clipping and speakers]]  #alan
+- 🟢 `2025-11-20` [[2025-11-20 - WA tax calculation|WA tax calculation]]  #alan
+- 🟢 `2025-11-22` [[2025-11-22 - Iconic Christmas Vacation Scenes|Iconic Christmas Vacation Scenes]]  #alan
+- 🟢 `2025-11-22` [[2025-11-22 - Skin lumps removal tips|Skin lumps removal tips]]  #alan
+- 🟢 `2025-11-22` [[2025-11-22 - Song identification|Song identification]]  #alan
+- 🟢 `2025-11-22` [[2025-11-22 - Appreciation text rewrite|Appreciation text rewrite]]  #alan
+- 🟢 `2025-11-22` [[2025-11-22 - Body fat averages 32 years|Body fat averages 32 years]]  #alan
+- 🟢 `2025-11-22` [[2025-11-22 - Playgrounds in Inver Grove|Playgrounds in Inver Grove]]  #alan
+- 🟢 `2025-11-22` [[2025-11-22 - Boiled eggs for deviled eggs|Boiled eggs for deviled eggs]]  #alan
+- 🟢 `2025-11-23` [[2025-11-23 - Grading confirmation request|Grading confirmation request]]  #alan #negotiation #high-signal
+- 🟢 `2025-11-23` [[2025-11-23 - Swoll meaning explained|Swoll meaning explained]]  #alan
+- 🟢 `2025-11-23` [[2025-11-23 - Days until March 8 2026|Days until March 8 2026]]  #alan
+- 🟢 `2025-11-23` [[2025-11-23 - Pronounce pseudonymized|Pronounce pseudonymized]]  #alan
+- 🟢 `2025-11-23` [[2025-11-23 - Mineral content in beef|Mineral content in beef]]  #alan
+- 🟢 `2025-11-23` [[2025-11-23 - Mushroom effects duration|Mushroom effects duration]]  #alan
+- 🟢 `2025-11-24` [[2025-11-24 - Refine message tone|Refine message tone]]  #alan
+- 🟢 `2025-11-24` [[2025-11-24 - Australian shepherds and acai bowls|Australian shepherds and acai bowls]]  #alan
+- 🟢 `2025-11-24` [[2025-11-24 - Astrological houses vs signs|Astrological houses vs signs]]  #alan #mindset
+- 🟢 `2025-11-24` [[2025-11-24 - Birth chart details|Birth chart details]]  #alan #mindset
+- 🟢 `2025-11-24` [[2025-11-24 - Birth chart with houses|Birth chart with houses]]  #alan #mindset
+- 🟢 `2025-11-24` [[2025-11-24 - Best indoor park MN|Best indoor park MN]]  #alan
+- 🟢 `2025-11-24` [[2025-11-24 - Manic Monday meaning|Manic Monday meaning]]  #alan
+- 🟢 `2025-11-24` [[2025-11-24 - Polished application message|Polished application message]]  #alan #networking
+- 🟢 `2025-11-24` [[2025-11-24 - UT Knoxville admission requirements|UT Knoxville admission requirements]]  #alan
+- 🟢 `2025-11-24` [[2025-11-24 - Thawing salmon susamii|Thawing salmon susamii]]  #alan
+- 🟢 `2025-11-24` [[2025-11-24 - Hit-and-run compensation options|Hit-and-run compensation options]]  #alan
+- 🟢 `2025-11-24` [[2025-11-24 - Wade Houston's success strategy|Wade Houston's success strategy]]  #alan #high-signal
+- 🟢 `2025-11-25` [[2025-11-25 - Cinematic FPV drone prompt|Cinematic FPV drone prompt]]  #alan
+- 🟢 `2025-11-25` [[2025-11-25 - Bruce Wayne breakdown|Bruce Wayne breakdown]]  #alan
+- 🟢 `2025-11-25` [[2025-11-25 - Adam's 900+ years myth|Adam's 900+ years myth]]  #alan
+- 🟢 `2025-11-25` [[2025-11-25 - Looksmaxing for males and females|Looksmaxing for males and females]]  #alan
+- 🟢 `2025-11-25` [[2025-11-25 - Mushroom gummies daily use|Mushroom gummies daily use]]  #alan
+- 🟢 `2025-11-25` [[2025-11-25 - Search terms for attorneys|Search terms for attorneys]]  #alan
+- 🟢 `2025-11-25` [[2025-11-25 - Proving personal injury claim|Proving personal injury claim]]  #alan
+- 🟢 `2025-11-25` [[2025-11-25 - Tone analysis and advice|Tone analysis and advice]]  #alan
+- 🟢 `2025-11-25` [[2025-11-25 - Movie Tuesday inquiry|Movie Tuesday inquiry]]  #alan
+- 🟢 `2025-11-26` [[2025-11-26 - 10X Goal Achievement|10X Goal Achievement]]  #alan #high-signal
+- 🟢 `2025-11-26` [[2025-11-26 - Explain v1.5c|Explain v1.5c]]  #alan
+- 🟢 `2025-11-26` [[2025-11-26 - Cinematic FPV prompt|Cinematic FPV prompt]]  #alan
+- 🟢 `2025-11-26` [[2025-11-26 - Make Alfredo Sauce|Make Alfredo Sauce]]  #alan
+- 🟢 `2025-11-26` [[2025-11-26 - Charging K&F batteries safely|Charging K&F batteries safely]]  #alan
+- 🟢 `2025-11-26` [[2025-11-26 - Ayce crab legs Irvine|Ayce crab legs Irvine]]  #alan
+- 🟢 `2025-11-26` [[2025-11-26 - Best whole-food electrolytes|Best whole-food electrolytes]]  #alan #health #supplements
+- 🟢 `2025-11-26` [[2025-11-26 - Peak Design v1 vs v2|Peak Design v1 vs v2]]  #alan
+- 🟢 `2025-11-26` [[2025-11-26 - REI backpack return policy|REI backpack return policy]]  #alan
+- 🟢 `2025-11-27` [[2025-11-27 - Rogue One lightsaber fight|Rogue One lightsaber fight]]  #alan
+- 🟢 `2025-11-27` [[2025-11-27 - Investigating $14K owed|Investigating $14K owed]]  #alan
+- 🟢 `2025-11-27` [[2025-11-27 - Joystick sensitivity adjustment|Joystick sensitivity adjustment]]  #alan
+- 🟢 `2025-11-27` [[2025-11-27 - Connecting multiple devices to gimbal|Connecting multiple devices to gimbal]]  #alan
+- 🟢 `2025-11-27` [[2025-11-27 - Breakdown expenses request|Breakdown expenses request]]  #alan
+- 🟢 `2025-11-27` [[2025-11-27 - Funny message rewrite|Funny message rewrite]]  #alan
+- 🟢 `2025-11-27` [[2025-11-27 - Watermark removal guide|Watermark removal guide]]  #alan
+- 🟢 `2025-11-27` [[2025-11-27 - License plate visibility options|License plate visibility options]]  #alan #copywriting
+- 🟢 `2025-11-27` [[2025-11-27 - AYCE crab legs options|AYCE crab legs options]]  #alan
+- 🟢 `2025-11-27` [[2025-11-27 - King vs Snow crab|King vs Snow crab]]  #alan
+- 🟢 `2025-11-27` [[2025-11-27 - Real estate investment viability|Real estate investment viability]]  #alan #high-signal
+- 🟢 `2025-11-28` [[2025-11-28 - Phase vs Frequency Modulation|Phase vs Frequency Modulation]]  #alan
+- 🟢 `2025-11-28` [[2025-11-28 - What is a meme|What is a meme]]  #alan
+- 🟢 `2025-11-28` [[2025-11-28 - Dumb and Dumber characters|Dumb and Dumber characters]]  #alan
+- 🟢 `2025-11-28` [[2025-11-28 - RS4 battery compatibility|RS4 battery compatibility]]  #alan
+- 🟢 `2025-11-28` [[2025-11-28 - Create help request|Create help request]]  #alan
+- 🟢 `2025-11-28` [[2025-11-28 - PUR gum strength comparison|PUR gum strength comparison]]  #alan
+- 🟢 `2025-11-29` [[2025-11-29 - Cheeky reply ideas|Cheeky reply ideas]]  #alan
+- 🟢 `2025-11-29` [[2025-11-29 - HS cyst removal options|HS cyst removal options]]  #alan #health #skin
+- 🟢 `2025-11-29` [[2025-11-29 - Love and heartbreak writing|Love and heartbreak writing]]  #alan
+- 🟢 `2025-11-29` [[2025-11-29 - Best VR for Tribe XR|Best VR for Tribe XR]]  #alan
+- 🟢 `2025-11-30` [[2025-11-30 - Bangs style advice|Bangs style advice]]  #alan
+- 🟢 `2025-11-30` [[2025-11-30 - Dirty Grandpa quotes|Dirty Grandpa quotes]]  #alan
+- 🟢 `2025-11-30` [[2025-11-30 - Sledding hills for kids|Sledding hills for kids]]  #alan
+- 🟢 `2025-11-30` [[2025-11-30 - EDM song identification|EDM song identification]]  #alan
+
+## 2025-10  (353)
+
+- 🟢 `2025-10-01` [[2025-10-01 - Apple Watch SE vs 11 comparison|Apple Watch SE vs 11 comparison]]  #alan
+- 🟢 `2025-10-01` [[2025-10-01 - Saffron vs ketamine vs adderall|Saffron vs ketamine vs adderall]]  #alan
+- 🟢 `2025-10-01` [[2025-10-01 - Tesla wheel plan coverage|Tesla wheel plan coverage]]  #alan
+- 🟢 `2025-10-01` [[2025-10-01 - Cravings and overeating analysis|Cravings and overeating analysis]]  #alan #health #trt
+- 🟢 `2025-10-01` [[2025-10-01 - Find love near Irvine|Find love near Irvine]]  #alan #teaching
+- 🟢 `2025-10-01` [[2025-10-01 - HFMD or something else|HFMD or something else]]  #alan
+- 🟢 `2025-10-01` [[2025-10-01 - Light wave effect explanation|Light wave effect explanation]]  #alan
+- 🟢 `2025-10-01` [[2025-10-01 - Apple Watch 10 vs 11|Apple Watch 10 vs 11]]  #alan
+- 🟢 `2025-10-01` [[2025-10-01 - Dreams and hesitation analysis|Dreams and hesitation analysis]]  #alan
+- 🟢 `2025-10-01` [[2025-10-01 - Taco deviled eggs recipe|Taco deviled eggs recipe]]  #alan
+- 🟢 `2025-10-01` [[2025-10-01 - Ideal heart rate for lifting|Ideal heart rate for lifting]]  #alan #mindset
+- 🟢 `2025-10-01` [[2025-10-01 - RegionsBank credit bureau|RegionsBank credit bureau]]  #alan #credit
+- 🟢 `2025-10-02` [[2025-10-02 - Health comparison fast food|Health comparison fast food]]  #alan
+- 🟢 `2025-10-02` [[2025-10-02 - Post-meditation life tips|Post-meditation life tips]]  #alan
+- 🟢 `2025-10-02` [[2025-10-02 - Convert kg to lbs|Convert kg to lbs]]  #alan
+- 🟢 `2025-10-02` [[2025-10-02 - Debt consolidation options|Debt consolidation options]]  #alan #credit #finance
+- 🟢 `2025-10-02` [[2025-10-02 - 69 position explanation|69 position explanation]]  #alan
+- 🟢 `2025-10-02` [[2025-10-02 - Verizon line cost|Verizon line cost]]  #alan
+- 🟢 `2025-10-02` [[2025-10-02 - Card payment solutions|Card payment solutions]]  #alan
+- 🟢 `2025-10-02` [[2025-10-02 - PayPal balance transfer fees|PayPal balance transfer fees]]  #alan #payments
+- 🟢 `2025-10-02` [[2025-10-02 - Instant deposit from Square|Instant deposit from Square]]  #alan
+- 🟢 `2025-10-02` [[2025-10-02 - Fancy restaurants in Minneapolis|Fancy restaurants in Minneapolis]]  #alan
+- 🟢 `2025-10-02` [[2025-10-02 - AI note summary outline|AI note summary outline]]  #alan
+- 🟢 `2025-10-03` [[2025-10-03 - Write playful text|Write playful text]]  #alan
+- 🟢 `2025-10-03` [[2025-10-03 - Pisces Leo compatibility|Pisces Leo compatibility]]  #alan
+- 🟢 `2025-10-03` [[2025-10-03 - Air filter replacement guide|Air filter replacement guide]]  #alan
+- 🟢 `2025-10-03` [[2025-10-03 - Calorie macro check|Calorie macro check]]  #alan
+- 🟢 `2025-10-03` [[2025-10-03 - Deep sleep vs total sleep|Deep sleep vs total sleep]]  #alan #fitness #health
+- 🟢 `2025-10-03` [[2025-10-03 - Legal resolution options|Legal resolution options]]  #alan #high-signal
+- 🟢 `2025-10-03` [[2025-10-03 - TCM Bank underwriting Florida|TCM Bank underwriting Florida]]  #alan #credit #fib
+- 🟢 `2025-10-03` [[2025-10-03 - Navy Federal card approval|Navy Federal card approval]]  #alan
+- 🟢 `2025-10-03` [[2025-10-03 - Chargeback alternatives advice|Chargeback alternatives advice]]  #alan #business-credit #chargeback #credit #dispute #legal
+- 🟢 `2025-10-03` [[2025-10-03 - Sam's questions summarized|Sam's questions summarized]]  #alan
+- 🟢 `2025-10-03` [[2025-10-03 - Skin issue causes analysis|Skin issue causes analysis]]  #alan
+- 🟢 `2025-10-03` [[2025-10-03 - Liquidate credit card fast|Liquidate credit card fast]]  #alan
+- 🟢 `2025-10-03` [[2025-10-03 - Hypnotic hook modification|Hypnotic hook modification]]  #alan #copywriting
+- 🟢 `2025-10-04` [[2025-10-04 - Burning money plan|Burning money plan]]  #alan #copywriting #mindset
+- 🟢 `2025-10-04` [[2025-10-04 - AI clipping tools comparison|AI clipping tools comparison]]  #alan
+- 🟢 `2025-10-04` [[2025-10-04 - AppleCare+ theft limits|AppleCare+ theft limits]]  #alan
+- 🟢 `2025-10-04` [[2025-10-04 - Content calendar strategy|Content calendar strategy]]  #alan #mindset #high-signal
+- 🟢 `2025-10-04` [[2025-10-04 - Content strategy alignment|Content strategy alignment]]  #alan #high-signal
+- 🟢 `2025-10-04` [[2025-10-04 - Healthy steak restaurants|Healthy steak restaurants]]  #alan
+- 🟢 `2025-10-04` [[2025-10-04 - What is SRF Wagyu|What is SRF Wagyu]]  #alan #fitness #funding
+- 🟢 `2025-10-04` [[2025-10-04 - Luke Belmar Ritz-Carlton Membership|Luke Belmar Ritz-Carlton Membership]]  #alan
+- 🟢 `2025-10-04` [[2025-10-04 - Marathon text suggestion|Marathon text suggestion]]  #alan
+- 🟢 `2025-10-04` [[2025-10-04 - Reframe intimate message|Reframe intimate message]]  #alan
+- 🟢 `2025-10-04` [[2025-10-04 - Seedy dance club meaning|Seedy dance club meaning]]  #alan
+- 🟢 `2025-10-04` [[2025-10-04 - SBA loan options explained|SBA loan options explained]]  #alan #business-credit #credit #fib #finance
+- 🟢 `2025-10-04` [[2025-10-04 - Reenact request clarification|Reenact request clarification]]  #alan
+- 🟢 `2025-10-04` [[2025-10-04 - Get super lean tips|Get super lean tips]]  #alan #finance
+- 🟢 `2025-10-04` [[2025-10-04 - Compliment refinement suggestions|Compliment refinement suggestions]]  #alan
+- 🟢 `2025-10-04` [[2025-10-04 - Tesla trade-in value analysis|Tesla trade-in value analysis]]  #alan
+- 🟢 `2025-10-05` [[2025-10-05 - Installing fabrication meaning|Installing fabrication meaning]]  #alan
+- 🟢 `2025-10-05` [[2025-10-05 - Descriptive writing request|Descriptive writing request]]  #alan
+- 🟢 `2025-10-05` [[2025-10-05 - Irvine Spectrum fashion trend|Irvine Spectrum fashion trend]]  #alan
+- 🟢 `2025-10-05` [[2025-10-05 - Parking and sleeping options|Parking and sleeping options]]  #alan
+- 🟢 `2025-10-05` [[2025-10-05 - Healthiest restaurant choice|Healthiest restaurant choice]]  #alan
+- 🟢 `2025-10-05` [[2025-10-05 - Positive encouragement message|Positive encouragement message]]  #alan
+- 🟢 `2025-10-05` [[2025-10-05 - Message polish and hype|Message polish and hype]]  #alan
+- 🟢 `2025-10-06` [[2025-10-06 - Best sunny time in WA|Best sunny time in WA]]  #alan
+- 🟢 `2025-10-06` [[2025-10-06 - Meaning of billionaire statements|Meaning of billionaire statements]]  #alan
+- 🟢 `2025-10-06` [[2025-10-06 - AirPods 2 lossless requirement|AirPods 2 lossless requirement]]  #alan
+- 🟢 `2025-10-06` [[2025-10-06 - Flirty response suggestions|Flirty response suggestions]]  #alan
+- 🟢 `2025-10-06` [[2025-10-06 - Flirty response suggestion|Flirty response suggestion]]  #alan
+- 🟢 `2025-10-06` [[2025-10-06 - Memorable response options|Memorable response options]]  #alan
+- 🟢 `2025-10-06` [[2025-10-06 - Best pant colors for shirts|Best pant colors for shirts]]  #alan
+- 🟢 `2025-10-06` [[2025-10-06 - Maximizing funding approval|Maximizing funding approval]]  #alan #credit #utilization
+- 🟢 `2025-10-07` [[2025-10-07 - Fixing bulk download issues|Fixing bulk download issues]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Funny OnlyFans names|Funny OnlyFans names]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Emotional pacing advice|Emotional pacing advice]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Best running earbuds|Best running earbuds]]  #alan #copywriting
+- 🟢 `2025-10-07` [[2025-10-07 - Travel update message|Travel update message]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Credit card payment calculation|Credit card payment calculation]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Credit line increase approval|Credit line increase approval]]  #alan #credit #utilization
+- 🟢 `2025-10-07` [[2025-10-07 - Change height and units|Change height and units]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Fat loss strategy analysis|Fat loss strategy analysis]]  #alan #fitness #health #high-signal
+- 🟢 `2025-10-07` [[2025-10-07 - Sharing post issue|Sharing post issue]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Love compatibility analysis|Love compatibility analysis]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Funny morning message|Funny morning message]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Pant color suggestions|Pant color suggestions]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Minneapolis lunch recommendations|Minneapolis lunch recommendations]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Keurig donut shop health|Keurig donut shop health]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Mileage and usage limits|Mileage and usage limits]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Yosemite open status|Yosemite open status]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - GAP insurance Tesla loan|GAP insurance Tesla loan]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - FSD Model Y guide|FSD Model Y guide]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Access pass options|Access pass options]]  #alan
+- 🟢 `2025-10-07` [[2025-10-07 - Pubic region terms|Pubic region terms]]  #alan #travel
+- 🟢 `2025-10-07` [[2025-10-07 - Rank Shokz audio quality|Rank Shokz audio quality]]  #alan
+- 🟢 `2025-10-08` [[2025-10-08 - Sleeping in car options|Sleeping in car options]]  #alan
+- 🟢 `2025-10-08` [[2025-10-08 - Can you hear me|Can you hear me]]  #alan
+- 🟢 `2025-10-08` [[2025-10-08 - ADA violation inquiry|ADA violation inquiry]]  #alan
+- 🟢 `2025-10-08` [[2025-10-08 - Traffic timing tips|Traffic timing tips]]  #alan #finance
+- 🟢 `2025-10-08` [[2025-10-08 - Eye redness causes holistic fix|Eye redness causes holistic fix]]  #alan
+- 🟢 `2025-10-08` [[2025-10-08 - Low energy causes|Low energy causes]]  #alan
+- 🟢 `2025-10-09` [[2025-10-09 - AI audio editing tools|AI audio editing tools]]  #alan #instagram #marketing
+- 🟢 `2025-10-09` [[2025-10-09 - Heartfelt birthday message|Heartfelt birthday message]]  #alan
+- 🟢 `2025-10-09` [[2025-10-09 - Best sleep times for 6-30 AM|Best sleep times for 6:30 AM]]  #alan
+- 🟢 `2025-10-09` [[2025-10-09 - R7 vs R6 vs R9 vs R1|R7 vs R6 vs R9 vs R1]]  #alan
+- 🟢 `2025-10-09` [[2025-10-09 - Teeth whitening session comparison|Teeth whitening session comparison]]  #alan
+- 🟢 `2025-10-09` [[2025-10-09 - Steak near McCormick Place|Steak near McCormick Place]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Tie knot fix tips|Tie knot fix tips]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Juniper Tesla release dates|Juniper Tesla release dates]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Corral K pace Chicago|Corral K pace Chicago]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Smoothie comparison|Smoothie comparison]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Phone step tracking issue|Phone step tracking issue]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Force update Tesla Y 2026|Force update Tesla Y 2026]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Separate iPhone Bluetooth volume|Separate iPhone Bluetooth volume]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Coach feedback summary|Coach feedback summary]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Receiving packages while traveling|Receiving packages while traveling]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Shred motivation advice|Shred motivation advice]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Waymo vs Tesla FSD|Waymo vs Tesla FSD]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Tummy tuck cost estimate|Tummy tuck cost estimate]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - MSRP vs used market|MSRP vs used market]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - XPEL tint insurance coverage|XPEL tint insurance coverage]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Belt under or over|Belt under or over]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Laundry tips while traveling|Laundry tips while traveling]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - New chat|New chat]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Free iPad offer explained|Free iPad offer explained]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - Minimum payment and interest|Minimum payment and interest]]  #alan
+- 🟢 `2025-10-10` [[2025-10-10 - FCRA inquiry removal rules|FCRA inquiry removal rules]]  #alan #credit #funding #legal #personal-credit
+- 🟢 `2025-10-10` [[2025-10-10 - WeWork All Access locations|WeWork All Access locations]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Best camera kit advice|Best camera kit advice]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Fix default 48MP iPhone|Fix default 48MP iPhone]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Sunny weather forecast|Sunny weather forecast]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Bossfight US shows search|Bossfight US shows search]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Set aperture Sony A7 IV|Set aperture Sony A7 IV]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Fabletics joggers comparison|Fabletics joggers comparison]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Fat shred outlook|Fat shred outlook]]  #alan #fitness #health
+- 🟢 `2025-10-11` [[2025-10-11 - Release dates rumors|Release dates rumors]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Astrology productivity alignment|Astrology productivity alignment]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Media pass request template|Media pass request template]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Parking at Irvine Spectrum|Parking at Irvine Spectrum]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Enable Sleep Focus|Enable Sleep Focus]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Squares in nature|Squares in nature]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Scalp dandruff solutions|Scalp dandruff solutions]]  #alan
+- 🟢 `2025-10-11` [[2025-10-11 - Calorie macro estimate|Calorie macro estimate]]  #alan #fitness #health
+- 🟢 `2025-10-12` [[2025-10-12 - Return to live view|Return to live view]]  #alan
+- 🟢 `2025-10-12` [[2025-10-12 - Best 4K120 cameras|Best 4K120 cameras]]  #alan #instagram #marketing
+- 🟢 `2025-10-12` [[2025-10-12 - Change f-stop Nikon|Change f-stop Nikon]]  #alan
+- 🟢 `2025-10-12` [[2025-10-12 - Sensual storytelling options|Sensual storytelling options]]  #alan
+- 🟢 `2025-10-12` [[2025-10-12 - Optimizing energy and vitality|Optimizing energy and vitality]]  #alan #health
+- 🟢 `2025-10-12` [[2025-10-12 - Job climate forum insights|Job climate forum insights]]  #alan #finance
+- 🟢 `2025-10-12` [[2025-10-12 - A1 vs A7S III speed|A1 vs A7S III speed]]  #alan
+- 🟢 `2025-10-12` [[2025-10-12 - Camera policy at festivals|Camera policy at festivals]]  #alan
+- 🟢 `2025-10-12` [[2025-10-12 - Clarification request|Clarification request]]  #alan
+- 🟢 `2025-10-12` [[2025-10-12 - Days since 9-12|Days since 9/12]]  #alan
+- 🟢 `2025-10-12` [[2025-10-12 - Canon R5 vs R5 MII|Canon R5 vs R5 MII]]  #alan
+- 🟢 `2025-10-12` [[2025-10-12 - Squirting percentage estimate|Squirting percentage estimate]]  #alan
+- 🟢 `2025-10-13` [[2025-10-13 - Self-mastery insights|Self-mastery insights]]  #alan
+- 🟢 `2025-10-13` [[2025-10-13 - Change iPhone backup location|Change iPhone backup location]]  #alan
+- 🟢 `2025-10-13` [[2025-10-13 - Canon R5 Mark II cards|Canon R5 Mark II cards]]  #alan
+- 🟢 `2025-10-13` [[2025-10-13 - Shipping options for cameras|Shipping options for cameras]]  #alan
+- 🟢 `2025-10-13` [[2025-10-13 - Unlock phone after return|Unlock phone after return]]  #alan
+- 🟢 `2025-10-13` [[2025-10-13 - Message refinement advice|Message refinement advice]]  #alan
+- 🟢 `2025-10-13` [[2025-10-13 - Clarify game details|Clarify game details]]  #alan
+- 🟢 `2025-10-13` [[2025-10-13 - Staying aligned with flow|Staying aligned with flow]]  #alan
+- 🟢 `2025-10-13` [[2025-10-13 - Best winter SUVs mpg|Best winter SUVs mpg]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Write funny response|Write funny response]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Spotting after IUD|Spotting after IUD]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Auntie Anne's vs Wetzel's|Auntie Anne's vs Wetzel's]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Invisalign dentist comparison|Invisalign dentist comparison]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Kevin Trudeau manifestation technique|Kevin Trudeau manifestation technique]]  #alan #sales
+- 🟢 `2025-10-14` [[2025-10-14 - Thigh soreness recovery tips|Thigh soreness recovery tips]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Add people to iPhone photo|Add people to iPhone photo]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Gmail BCC list creation|Gmail BCC list creation]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Weed pen and yellow teeth|Weed pen and yellow teeth]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Product ingredients inquiry|Product ingredients inquiry]]  #alan #copywriting
+- 🟢 `2025-10-14` [[2025-10-14 - Electric cost to MPG conversion|Electric cost to MPG conversion]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Akashic Record life path|Akashic Record life path]]  #alan
+- 🟢 `2025-10-14` [[2025-10-14 - Cheer poem creation|Cheer poem creation]]  #alan #negotiation
+- 🟢 `2025-10-15` [[2025-10-15 - Instagram caption creation|Instagram caption creation]]  #alan #copywriting #instagram #marketing #mindset
+- 🟢 `2025-10-15` [[2025-10-15 - Parking rules clarification|Parking rules clarification]]  #alan
+- 🟢 `2025-10-15` [[2025-10-15 - Eating lemon peel|Eating lemon peel]]  #alan
+- 🟢 `2025-10-15` [[2025-10-15 - Best settings for Instagram|Best settings for Instagram]]  #alan #instagram #marketing
+- 🟢 `2025-10-15` [[2025-10-15 - Fix health app steps|Fix health app steps]]  #alan
+- 🟢 `2025-10-15` [[2025-10-15 - NAD injection vs supplement|NAD injection vs supplement]]  #alan #health #supplements
+- 🟢 `2025-10-15` [[2025-10-15 - Injection reaction concerns|Injection reaction concerns]]  #alan #health #surgery
+- 🟢 `2025-10-15` [[2025-10-15 - Tesla mechanical popping noise|Tesla mechanical popping noise]]  #alan
+- 🟢 `2025-10-15` [[2025-10-15 - Lens comparison|Lens comparison]]  #alan #instagram #marketing
+- 🟢 `2025-10-15` [[2025-10-15 - Lens choice for arm's length|Lens choice for arm's length]]  #alan
+- 🟢 `2025-10-15` [[2025-10-15 - Finding clarity through nature|Finding clarity through nature]]  #alan
+- 🟢 `2025-10-15` [[2025-10-15 - Questions to answer for Brooke|Questions to answer for Brooke]]  #alan
+- 🟢 `2025-10-15` [[2025-10-15 - Car scraping concern|Car scraping concern]]  #alan
+- 🟢 `2025-10-16` [[2025-10-16 - Inspiration vs motivation|Inspiration vs motivation]]  #alan #copywriting #mindset
+- 🟢 `2025-10-16` [[2025-10-16 - Tamarind fluoride microplastics effects|Tamarind fluoride microplastics effects]]  #alan
+- 🟢 `2025-10-16` [[2025-10-16 - FFC Elmhurst location|FFC Elmhurst location]]  #alan #high-signal
+- 🟢 `2025-10-16` [[2025-10-16 - Cold recovery with autoimmune disease|Cold recovery with autoimmune disease]]  #alan
+- 🟢 `2025-10-16` [[2025-10-16 - New kid movies 2024|New kid movies 2024]]  #alan
+- 🟢 `2025-10-16` [[2025-10-16 - FSD 14.1.2 update delay|FSD 14.1.2 update delay]]  #alan
+- 🟢 `2025-10-16` [[2025-10-16 - Fees for Standish-Hickey|Fees for Standish-Hickey]]  #alan
+- 🟢 `2025-10-16` [[2025-10-16 - Leaked for another party|Leaked for another party]]  #alan
+- 🟢 `2025-10-17` [[2025-10-17 - Instagram caption creation|Instagram caption creation]]  #alan #copywriting #instagram #marketing #high-signal
+- 🟢 `2025-10-17` [[2025-10-17 - Funny response comparison|Funny response comparison]]  #alan
+- 🟢 `2025-10-17` [[2025-10-17 - Healthier choice comparison|Healthier choice comparison]]  #alan #fitness #health
+- 🟢 `2025-10-17` [[2025-10-17 - Hypnotic hook for credit|Hypnotic hook for credit]]  #alan #copywriting
+- 🟢 `2025-10-17` [[2025-10-17 - Serving papers without address|Serving papers without address]]  #alan
+- 🟢 `2025-10-17` [[2025-10-17 - California recording laws|California recording laws]]  #alan
+- 🟢 `2025-10-17` [[2025-10-17 - f4 vs f2.4 comparison|f4 vs f2.4 comparison]]  #alan
+- 🟢 `2025-10-17` [[2025-10-17 - Funny response suggestions|Funny response suggestions]]  #alan
+- 🟢 `2025-10-17` [[2025-10-17 - Flirty response suggestions|Flirty response suggestions]]  #alan #fitness #health
+- 🟢 `2025-10-17` [[2025-10-17 - Flirty response options|Flirty response options]]  #alan
+- 🟢 `2025-10-17` [[2025-10-17 - Expressing emotional conflict|Expressing emotional conflict]]  #alan
+- 🟢 `2025-10-17` [[2025-10-17 - Ocean views Oregon coast|Ocean views Oregon coast]]  #alan
+- 🟢 `2025-10-17` [[2025-10-17 - Emotionally balanced rewrite|Emotionally balanced rewrite]]  #alan
+- 🟢 `2025-10-17` [[2025-10-17 - Google business page and bankruptcy|Google business page and bankruptcy]]  #alan #bankruptcy #legal
+- 🟢 `2025-10-17` [[2025-10-17 - Chargeback best option|Chargeback best option]]  #alan #chargeback #dispute
+- 🟢 `2025-10-17` [[2025-10-17 - Caption ideas for reel|Caption ideas for reel]]  #alan #copywriting
+- 🟢 `2025-10-17` [[2025-10-17 - Heart rate comparison|Heart rate comparison]]  #alan #credit
+- 🟢 `2025-10-17` [[2025-10-17 - Funny caption creation|Funny caption creation]]  #alan #copywriting
+- 🟢 `2025-10-17` [[2025-10-17 - Tesla SpaceX decal guide|Tesla SpaceX decal guide]]  #alan
+- 🟢 `2025-10-18` [[2025-10-18 - Clarify woofs smelling|Clarify woofs smelling]]  #alan
+- 🟢 `2025-10-18` [[2025-10-18 - Stock options and loans|Stock options and loans]]  #alan
+- 🟢 `2025-10-18` [[2025-10-18 - Video vs pictures comparison|Video vs pictures comparison]]  #alan
+- 🟢 `2025-10-18` [[2025-10-18 - Qi Men Dun Jia summary|Qi Men Dun Jia summary]]  #alan #high-signal
+- 🟢 `2025-10-18` [[2025-10-18 - Canon RF 24-70 comparison|Canon RF 24-70 comparison]]  #alan
+- 🟢 `2025-10-18` [[2025-10-18 - Bug attraction to car|Bug attraction to car]]  #alan
+- 🟢 `2025-10-18` [[2025-10-18 - High frame rate bitrate change|High frame rate bitrate change]]  #alan
+- 🟢 `2025-10-19` [[2025-10-19 - Fish eye lens explained|Fish eye lens explained]]  #alan
+- 🟢 `2025-10-19` [[2025-10-19 - Yosemite sunrise views|Yosemite sunrise views]]  #alan #travel
+- 🟢 `2025-10-19` [[2025-10-19 - Yosemite scenic drive itinerary|Yosemite scenic drive itinerary]]  #alan #travel
+- 🟢 `2025-10-19` [[2025-10-19 - Canon R5 video mode|Canon R5 video mode]]  #alan
+- 🟢 `2025-10-19` [[2025-10-19 - Algorithm accuracy discussion|Algorithm accuracy discussion]]  #alan #marketing
+- 🟢 `2025-10-19` [[2025-10-19 - Vietnamese coffee preparation|Vietnamese coffee preparation]]  #alan
+- 🟢 `2025-10-19` [[2025-10-19 - House ownership question|House ownership question]]  #alan
+- 🟢 `2025-10-19` [[2025-10-19 - Land ownership in forests|Land ownership in forests]]  #alan
+- 🟢 `2025-10-19` [[2025-10-19 - Country song dance-off|Country song dance-off]]  #alan
+- 🟢 `2025-10-19` [[2025-10-19 - Trà Mộc Câu caffeine content|Trà Mộc Câu caffeine content]]  #alan
+- 🟢 `2025-10-19` [[2025-10-19 - Isolated beach suggestions|Isolated beach suggestions]]  #alan
+- 🟢 `2025-10-19` [[2025-10-19 - Ask for password clue|Ask for password clue]]  #alan
+- 🟢 `2025-10-20` [[2025-10-20 - State story strategy comparison|State story strategy comparison]]  #alan #high-signal
+- 🟢 `2025-10-20` [[2025-10-20 - Astrocartography map analysis|Astrocartography map analysis]]  #alan #mindset #high-signal
+- 🟢 `2025-10-20` [[2025-10-20 - Clarify statement meaning|Clarify statement meaning]]  #alan
+- 🟢 `2025-10-20` [[2025-10-20 - Rewrite explanation to doctor|Rewrite explanation to doctor]]  #alan
+- 🟢 `2025-10-20` [[2025-10-20 - Redwood parks near Monterey|Redwood parks near Monterey]]  #alan
+- 🟢 `2025-10-20` [[2025-10-20 - Write funny birthday message|Write funny birthday message]]  #alan
+- 🟢 `2025-10-20` [[2025-10-20 - Chasing women vs money|Chasing women vs money]]  #alan
+- 🟢 `2025-10-20` [[2025-10-20 - Zaggs vs Occushield comparison|Zaggs vs Occushield comparison]]  #alan
+- 🟢 `2025-10-20` [[2025-10-20 - New chat|New chat]]  #alan
+- 🟢 `2025-10-20` [[2025-10-20 - Derrick Whitehead asset protection|Derrick Whitehead asset protection]]  #alan #finance
+- 🟢 `2025-10-20` [[2025-10-20 - Rewriting desire messages|Rewriting desire messages]]  #alan #family
+- 🟢 `2025-10-20` [[2025-10-20 - New chat-2|New chat]]  #alan #family
+- 🟢 `2025-10-20` [[2025-10-20 - Rewrite request|Rewrite request]]  #alan #family
+- 🟢 `2025-10-21` [[2025-10-21 - Offer worksheet extraction|Offer worksheet extraction]]  #alan
+- 🟢 `2025-10-21` [[2025-10-21 - CapCut import speed fix|CapCut import speed fix]]  #alan
+- 🟢 `2025-10-21` [[2025-10-21 - Lemon law comparison|Lemon law comparison]]  #alan
+- 🟢 `2025-10-21` [[2025-10-21 - VPG and memory card comparison|VPG and memory card comparison]]  #alan
+- 🟢 `2025-10-21` [[2025-10-21 - Salt and bloating effects|Salt and bloating effects]]  #alan
+- 🟢 `2025-10-21` [[2025-10-21 - Field dynamics summary|Field dynamics summary]]  #alan
+- 🟢 `2025-10-21` [[2025-10-21 - Divorce decision guidance|Divorce decision guidance]]  #alan #family
+- 🟢 `2025-10-21` [[2025-10-21 - Credit to Funding Journey|Credit to Funding Journey]]  #alan
+- 🟢 `2025-10-21` [[2025-10-21 - Plan for funding offer|Plan for funding offer]]  #alan #funding #instagram #marketing
+- 🟢 `2025-10-21` [[2025-10-21 - IM8 vs Kachava comparison|IM8 vs Kachava comparison]]  #alan
+- 🟢 `2025-10-21` [[2025-10-21 - Delete all Safari tabs|Delete all Safari tabs]]  #alan
+- 🟢 `2025-10-22` [[2025-10-22 - Email media pass request|Email media pass request]]  #alan #instagram #marketing
+- 🟢 `2025-10-22` [[2025-10-22 - Habit burger health review|Habit burger health review]]  #alan
+- 🟢 `2025-10-22` [[2025-10-22 - Insurance accident payout options|Insurance accident payout options]]  #alan
+- 🟢 `2025-10-22` [[2025-10-22 - Lawyer fees explanation|Lawyer fees explanation]]  #alan
+- 🟢 `2025-10-22` [[2025-10-22 - Emotional rewrite request|Emotional rewrite request]]  #alan
+- 🟢 `2025-10-22` [[2025-10-22 - Deer diet preferences|Deer diet preferences]]  #alan #health
+- 🟢 `2025-10-22` [[2025-10-22 - Email to William Black|Email to William Black]]  #alan
+- 🟢 `2025-10-22` [[2025-10-22 - Event reminders and updates|Event reminders and updates]]  #alan
+- 🟢 `2025-10-22` [[2025-10-22 - Urban plates dressing ingredients|Urban plates dressing ingredients]]  #alan
+- 🟢 `2025-10-22` [[2025-10-22 - TQ meaning explanation|TQ meaning explanation]]  #alan
+- 🟢 `2025-10-22` [[2025-10-22 - Funny cute response|Funny cute response]]  #alan
+- 🟢 `2025-10-22` [[2025-10-22 - Carbamide vs hydrogen peroxide|Carbamide vs hydrogen peroxide]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Clarifying Roncy meaning|Clarifying Roncy meaning]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Adding mystery playfully|Adding mystery playfully]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Throat itch advice|Throat itch advice]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Best warm states year-round|Best warm states year-round]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Astrology transits explanation|Astrology transits explanation]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Mercury retrograde explanation|Mercury retrograde explanation]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Zinc overdose effects|Zinc overdose effects]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Down payment assistance requirements|Down payment assistance requirements]]  #alan #finance
+- 🟢 `2025-10-23` [[2025-10-23 - Message revision help|Message revision help]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Moon and conspiracy claims|Moon and conspiracy claims]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Free parking Laguna Beach|Free parking Laguna Beach]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Parking lots free status|Parking lots free status]]  #alan
+- 🟢 `2025-10-23` [[2025-10-23 - Best dried fruits seeds B|Best dried fruits seeds B]]  #alan
+- 🟢 `2025-10-24` [[2025-10-24 - Apology refinement examples|Apology refinement examples]]  #alan
+- 🟢 `2025-10-24` [[2025-10-24 - Blue majik as base|Blue majik as base]]  #alan
+- 🟢 `2025-10-24` [[2025-10-24 - Best nail salon Eagan|Best nail salon Eagan]]  #alan
+- 🟢 `2025-10-24` [[2025-10-24 - Golden wisdom synthesis|Golden wisdom synthesis]]  #alan
+- 🟢 `2025-10-24` [[2025-10-24 - Media pass request letter|Media pass request letter]]  #alan
+- 🟢 `2025-10-24` [[2025-10-24 - No ratio and down payment|No ratio and down payment]]  #alan
+- 🟢 `2025-10-25` [[2025-10-25 - Cooked meat no seed oils|Cooked meat no seed oils]]  #alan
+- 🟢 `2025-10-25` [[2025-10-25 - Gap vs Gain comparison|Gap vs Gain comparison]]  #alan
+- 🟢 `2025-10-25` [[2025-10-25 - Itchy skin after beach|Itchy skin after beach]]  #alan
+- 🟢 `2025-10-25` [[2025-10-25 - Song lyric identification|Song lyric identification]]  #alan
+- 🟢 `2025-10-25` [[2025-10-25 - Groupon Regal ticket usage|Groupon Regal ticket usage]]  #alan
+- 🟢 `2025-10-25` [[2025-10-25 - Astrological transit meanings|Astrological transit meanings]]  #alan #mindset
+- 🟢 `2025-10-25` [[2025-10-25 - Rewrite emotional message|Rewrite emotional message]]  #alan
+- 🟢 `2025-10-25` [[2025-10-25 - Vehicle towing description|Vehicle towing description]]  #alan
+- 🟢 `2025-10-25` [[2025-10-25 - AMC format comparison|AMC format comparison]]  #alan
+- 🟢 `2025-10-25` [[2025-10-25 - AMC terms cancellation fees|AMC terms cancellation fees]]  #alan #legal
+- 🟢 `2025-10-26` [[2025-10-26 - Subconscious mind principles|Subconscious mind principles]]  #alan #mindset #sales
+- 🟢 `2025-10-26` [[2025-10-26 - Education system history|Education system history]]  #alan
+- 🟢 `2025-10-26` [[2025-10-26 - Wood vs Steel Construction|Wood vs Steel Construction]]  #alan
+- 🟢 `2025-10-26` [[2025-10-26 - Illinois football playoffs info|Illinois football playoffs info]]  #alan
+- 🟢 `2025-10-26` [[2025-10-26 - California island history|California island history]]  #alan
+- 🟢 `2025-10-26` [[2025-10-26 - Astrology transit interpretation|Astrology transit interpretation]]  #alan
+- 🟢 `2025-10-26` [[2025-10-26 - Annihilated meaning explanation|Annihilated meaning explanation]]  #alan
+- 🟢 `2025-10-26` [[2025-10-26 - Coastal city absence reasons|Coastal city absence reasons]]  #alan
+- 🟢 `2025-10-27` [[2025-10-27 - Bleeding with IUD|Bleeding with IUD]]  #alan #sales
+- 🟢 `2025-10-27` [[2025-10-27 - Government shutdown impact|Government shutdown impact]]  #alan
+- 🟢 `2025-10-27` [[2025-10-27 - Covering Down Payment DSCR|Covering Down Payment DSCR]]  #alan
+- 🟢 `2025-10-27` [[2025-10-27 - How to make women laugh|How to make women laugh]]  #alan
+- 🟢 `2025-10-27` [[2025-10-27 - Turmeric dosage timing|Turmeric dosage timing]]  #alan
+- 🟢 `2025-10-27` [[2025-10-27 - Nike return policy|Nike return policy]]  #alan #legal
+- 🟢 `2025-10-27` [[2025-10-27 - Change reading voice iPhone|Change reading voice iPhone]]  #alan
+- 🟢 `2025-10-27` [[2025-10-27 - Manifestation formula breakdown|Manifestation formula breakdown]]  #alan
+- 🟢 `2025-10-27` [[2025-10-27 - Event coverage plan|Event coverage plan]]  #alan
+- 🟢 `2025-10-28` [[2025-10-28 - Call recording notice|Call recording notice]]  #alan
+- 🟢 `2025-10-28` [[2025-10-28 - Tummy tuck cost breakdown|Tummy tuck cost breakdown]]  #alan
+- 🟢 `2025-10-28` [[2025-10-28 - Chart insights and actions|Chart insights and actions]]  #alan #mindset
+- 🟢 `2025-10-28` [[2025-10-28 - Geico mechanical insurance benefits|Geico mechanical insurance benefits]]  #alan
+- 🟢 `2025-10-28` [[2025-10-28 - Tummy tuck cost MN|Tummy tuck cost MN]]  #alan
+- 🟢 `2025-10-28` [[2025-10-28 - Brand identity summary|Brand identity summary]]  #alan #legal #travel #high-signal
+- 🟢 `2025-10-28` [[2025-10-28 - Cheapest luxury apartments|Cheapest luxury apartments]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Why Myers Flat AQI is Poor|Why Myers Flat AQI is Poor]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Calculate down payment|Calculate down payment]]  #alan #family
+- 🟢 `2025-10-29` [[2025-10-29 - Top U.S. Cities EDM|Top U.S. Cities EDM]]  #alan #dj-music
+- 🟢 `2025-10-29` [[2025-10-29 - Minnesota lemon law eligibility|Minnesota lemon law eligibility]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Eligibility for $200K settlement|Eligibility for $200K settlement]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Spanking and child abuse|Spanking and child abuse]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Zro delta modulus legality|Zro delta modulus legality]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Down payment sources DSCR|Down payment sources DSCR]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Book therapy session|Book therapy session]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Government shutdown details|Government shutdown details]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Owls symbolism summary|Owls symbolism summary]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Chase business revenue tiers|Chase business revenue tiers]]  #alan
+- 🟢 `2025-10-29` [[2025-10-29 - Collections reporting and FCRA|Collections reporting and FCRA]]  #alan #credit #legal
+- 🟢 `2025-10-29` [[2025-10-29 - Drywall project discussion|Drywall project discussion]]  #alan
+- 🟢 `2025-10-30` [[2025-10-30 - Flirty response ideas|Flirty response ideas]]  #alan
+- 🟢 `2025-10-30` [[2025-10-30 - Oregon car sleeping rules|Oregon car sleeping rules]]  #alan
+- 🟢 `2025-10-30` [[2025-10-30 - Log vs log2 comparison|Log vs log2 comparison]]  #alan
+- 🟢 `2025-10-30` [[2025-10-30 - USFS car camping rules|USFS car camping rules]]  #alan
+- 🟢 `2025-10-30` [[2025-10-30 - United States Reserve coin真假|United States Reserve coin真假]]  #alan
+- 🟢 `2025-10-30` [[2025-10-30 - Canon R5 shake warning|Canon R5 shake warning]]  #alan
+- 🟢 `2025-10-30` [[2025-10-30 - Pills for Asian flush|Pills for Asian flush]]  #alan
+- 🟢 `2025-10-30` [[2025-10-30 - Canon R5 Mark II sensor|Canon R5 Mark II sensor]]  #alan
+- 🟢 `2025-10-30` [[2025-10-30 - R5 Mark II memory cards|R5 Mark II memory cards]]  #alan
+- 🟢 `2025-10-30` [[2025-10-30 - Secure spot message draft|Secure spot message draft]]  #alan
+- 🟢 `2025-10-31` [[2025-10-31 - AI strategy sponsorship idea|AI strategy sponsorship idea]]  #alan #high-signal
+- 🟢 `2025-10-31` [[2025-10-31 - White vs black lenses|White vs black lenses]]  #alan
+- 🟢 `2025-10-31` [[2025-10-31 - Using dude wipes on face|Using dude wipes on face]]  #alan
+- 🟢 `2025-10-31` [[2025-10-31 - Alex Hormozi avatar strategy|Alex Hormozi avatar strategy]]  #alan #high-signal
+- 🟢 `2025-10-31` [[2025-10-31 - COI for shooting shows|COI for shooting shows]]  #alan
+- 🟢 `2025-10-31` [[2025-10-31 - View sent messages|View sent messages]]  #alan
+- 🟢 `2025-10-31` [[2025-10-31 - 3-bed townhome in Austin|3-bed townhome in Austin]]  #alan
+- 🟢 `2025-10-31` [[2025-10-31 - Uniswap v3 and WETH|Uniswap v3 and WETH]]  #alan
+- 🟢 `2025-10-31` [[2025-10-31 - Parking laws in Washington|Parking laws in Washington]]  #alan
+- 🟢 `2025-10-31` [[2025-10-31 - Lens adapter housing purpose|Lens adapter housing purpose]]  #alan
+
+## 2025-09  (340)
+
+- 🟢 `2025-09-01` [[2025-09-01 - Tesla door light issue|Tesla door light issue]]  #alan
+- 🟢 `2025-09-01` [[2025-09-01 - $1M-mo profit strategies|$1M/mo profit strategies]]  #alan
+- 🟢 `2025-09-01` [[2025-09-01 - Ovarian cyst removal risks|Ovarian cyst removal risks]]  #alan #health #skin
+- 🟢 `2025-09-01` [[2025-09-01 - Meaning of swoon|Meaning of swoon]]  #alan
+- 🟢 `2025-09-01` [[2025-09-01 - SWIFT XRP trial update|SWIFT XRP trial update]]  #alan
+- 🟢 `2025-09-01` [[2025-09-01 - Sarcastic hi response|Sarcastic hi response]]  #alan
+- 🟢 `2025-09-01` [[2025-09-01 - Metro 2 vs FCRA 605B|Metro 2 vs FCRA 605B]]  #alan #legal
+- 🟢 `2025-09-01` [[2025-09-01 - Write witty greeting|Write witty greeting]]  #alan
+- 🟢 `2025-09-01` [[2025-09-01 - Labor Day store hours|Labor Day store hours]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Cook rice and quinoa|Cook rice and quinoa]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Testosterone boost alternatives|Testosterone boost alternatives]]  #alan #fitness #health
+- 🟢 `2025-09-02` [[2025-09-02 - Minimum payment explanation|Minimum payment explanation]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Discord chat collapsibility|Discord chat collapsibility
+
+]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Overcoming resistance and stress|Overcoming resistance and stress]]  #alan #fitness #health
+- 🟢 `2025-09-02` [[2025-09-02 - Celery bitterness explanation|Celery bitterness explanation]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Best coolers for Tesla|Best coolers for Tesla]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - UA Halo models comparison|UA Halo models comparison]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Travel time and sleep|Travel time and sleep]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Credit card interest calculation|Credit card interest calculation]]  #alan #finance
+- 🟢 `2025-09-02` [[2025-09-02 - Silicone bowls and microplastics|Silicone bowls and microplastics]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Mouth sore and cough causes|Mouth sore and cough causes]]  #alan #health
+- 🟢 `2025-09-02` [[2025-09-02 - TRT storage in heat|TRT storage in heat]]  #alan #health #trt
+- 🟢 `2025-09-02` [[2025-09-02 - Living in car essentials|Living in car essentials]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Crispy bacon in oven|Crispy bacon in oven]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Rewrite request|Rewrite request]]  #alan #legal
+- 🟢 `2025-09-02` [[2025-09-02 - Borderlands FPS 1060 i7|Borderlands FPS 1060 i7]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Tony Robbins hypnosis teacher|Tony Robbins hypnosis teacher]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Add trip Southwest app|Add trip Southwest app]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Surgery during menstruation|Surgery during menstruation]]  #alan #health #skin #surgery
+- 🟢 `2025-09-02` [[2025-09-02 - Tesla FSD unsupervised timeline|Tesla FSD unsupervised timeline]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Recording at Unison Festival|Recording at Unison Festival]]  #alan
+- 🟢 `2025-09-02` [[2025-09-02 - Rinsing rice and quinoa|Rinsing rice and quinoa]]  #alan
+- 🟢 `2025-09-03` [[2025-09-03 - Walmart stock query|Walmart stock query]]  #alan
+- 🟢 `2025-09-03` [[2025-09-03 - Launch Walmart agent|Launch Walmart agent]]  #alan
+- 🟢 `2025-09-03` [[2025-09-03 - Bolt size for Yakima EXO|Bolt size for Yakima EXO]]  #alan
+- 🟢 `2025-09-03` [[2025-09-03 - Torque conversion Nm to lbs|Torque conversion Nm to lbs]]  #alan #sales
+- 🟢 `2025-09-03` [[2025-09-03 - Sharps disposal guidelines|Sharps disposal guidelines]]  #alan
+- 🟢 `2025-09-03` [[2025-09-03 - Pain with new IUD|Pain with new IUD]]  #alan
+- 🟢 `2025-09-03` [[2025-09-03 - Lock pin purpose explained|Lock pin purpose explained]]  #alan
+- 🟢 `2025-09-04` [[2025-09-04 - Funny writing request|Funny writing request]]  #alan
+- 🟢 `2025-09-04` [[2025-09-04 - Best cards for companion tickets|Best cards for companion tickets]]  #alan
+- 🟢 `2025-09-04` [[2025-09-04 - Sunrise spots Colorado mountains|Sunrise spots Colorado mountains]]  #alan #amex
+- 🟢 `2025-09-04` [[2025-09-04 - FSD with blocked camera|FSD with blocked camera]]  #alan
+- 🟢 `2025-09-04` [[2025-09-04 - Star Wars vs Hunger Games|Star Wars vs Hunger Games]]  #alan
+- 🟢 `2025-09-04` [[2025-09-04 - Tanning after chemical peel|Tanning after chemical peel]]  #alan
+- 🟢 `2025-09-04` [[2025-09-04 - Windshield crack repair options|Windshield crack repair options]]  #alan
+- 🟢 `2025-09-05` [[2025-09-05 - Overdue balance message rewrite|Overdue balance message rewrite]]  #alan
+- 🟢 `2025-09-05` [[2025-09-05 - Tesla vs Scheels roof rack|Tesla vs Scheels roof rack]]  #alan
+- 🟢 `2025-09-05` [[2025-09-05 - Free camping on west coast|Free camping on west coast]]  #alan
+- 🟢 `2025-09-05` [[2025-09-05 - Turkey tail tumor healing|Turkey tail tumor healing]]  #alan
+- 🟢 `2025-09-05` [[2025-09-05 - Honey rose elixir safety|Honey rose elixir safety]]  #alan #fitness #health
+- 🟢 `2025-09-05` [[2025-09-05 - Chutes and ladders park|Chutes and ladders park]]  #alan
+- 🟢 `2025-09-05` [[2025-09-05 - Responding to party invite|Responding to party invite]]  #alan
+- 🟢 `2025-09-05` [[2025-09-05 - Song meaning breakdown|Song meaning breakdown]]  #alan
+- 🟢 `2025-09-05` [[2025-09-05 - Hapé timing before ayahuasca|Hapé timing before ayahuasca]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - Cure executive dysfunction|Cure executive dysfunction]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - Big city midpoint|Big city midpoint]]  #alan #health #skin
+- 🟢 `2025-09-06` [[2025-09-06 - Remove card from Venmo|Remove card from Venmo]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - Aztec Ruins Overview|Aztec Ruins Overview]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - Frame in dating meaning|Frame in dating meaning]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - Message refinement options|Message refinement options]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - iPhone text thread search|iPhone text thread search]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - Cacao during aya dieta|Cacao during aya dieta]]  #alan #health
+- 🟢 `2025-09-06` [[2025-09-06 - How hypnosis makes actions happen|How hypnosis makes actions happen]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - Upcoming AI Phones|Upcoming AI Phones]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - Red flag perceptions explained|Red flag perceptions explained]]  #alan #mindset
+- 🟢 `2025-09-06` [[2025-09-06 - Akashic records on wealth|Akashic records on wealth]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - Smoothie comparison dieta rules|Smoothie comparison dieta rules]]  #alan #health
+- 🟢 `2025-09-06` [[2025-09-06 - Faucet hose water issue|Faucet hose water issue]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - AGI release date info|AGI release date info]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - AI trading reality check|AI trading reality check]]  #alan
+- 🟢 `2025-09-06` [[2025-09-06 - Compare Drift Open Road|Compare Drift Open Road]]  #alan
+- 🟢 `2025-09-07` [[2025-09-07 - Earlobe bump causes|Earlobe bump causes]]  #alan
+- 🟢 `2025-09-07` [[2025-09-07 - Desire vs dependency|Desire vs dependency]]  #alan
+- 🟢 `2025-09-07` [[2025-09-07 - MDMA for PTSD healing|MDMA for PTSD healing]]  #alan
+- 🟢 `2025-09-07` [[2025-09-07 - Refining emotional message|Refining emotional message]]  #alan
+- 🟢 `2025-09-07` [[2025-09-07 - Edit zits iPhone|Edit zits iPhone]]  #alan
+- 🟢 `2025-09-07` [[2025-09-07 - Insulated sunshades options|Insulated sunshades options]]  #alan
+- 🟢 `2025-09-07` [[2025-09-07 - Action comparison|Action comparison]]  #alan #health
+- 🟢 `2025-09-07` [[2025-09-07 - Empist AI integration|Empist AI integration]]  #alan
+- 🟢 `2025-09-07` [[2025-09-07 - Bumps on hand原因|Bumps on hand原因]]  #alan
+- 🟢 `2025-09-07` [[2025-09-07 - Indigenous views on disasters|Indigenous views on disasters]]  #alan
+- 🟢 `2025-09-07` [[2025-09-07 - Specific ocean request|Specific ocean request]]  #alan
+- 🟢 `2025-09-08` [[2025-09-08 - Frozen fruit dieta guidelines|Frozen fruit dieta guidelines]]  #alan #health
+- 🟢 `2025-09-08` [[2025-09-08 - Empist competitors list|Empist competitors list]]  #alan #travel
+- 🟢 `2025-09-08` [[2025-09-08 - Sharing video with Karina|Sharing video with Karina]]  #alan
+- 🟢 `2025-09-08` [[2025-09-08 - Bills game fantasy points|Bills game fantasy points]]  #alan
+- 🟢 `2025-09-08` [[2025-09-08 - Gastroperisis discussion|Gastroperisis discussion]]  #alan #health #surgery
+- 🟢 `2025-09-08` [[2025-09-08 - Athletes and vaccine deaths|Athletes and vaccine deaths]]  #alan
+- 🟢 `2025-09-08` [[2025-09-08 - Lemuria and Hawaiian peaks|Lemuria and Hawaiian peaks]]  #alan
+- 🟢 `2025-09-08` [[2025-09-08 - Claim approval strategy|Claim approval strategy]]  #alan #high-signal
+- 🟢 `2025-09-08` [[2025-09-08 - Grove vs Teak Smells|Grove vs Teak Smells]]  #alan
+- 🟢 `2025-09-08` [[2025-09-08 - Feedback submission draft|Feedback submission draft]]  #alan #cfpb #demand-letter #dispute
+- 🟢 `2025-09-08` [[2025-09-08 - Nordic ancient symbols|Nordic ancient symbols]]  #alan
+- 🟢 `2025-09-08` [[2025-09-08 - State-covered insurance NV|State-covered insurance NV]]  #alan
+- 🟢 `2025-09-08` [[2025-09-08 - Sexting football mashup|Sexting football mashup]]  #alan
+- 🟢 `2025-09-08` [[2025-09-08 - Escape life quote origin|Escape life quote origin]]  #alan
+- 🟢 `2025-09-08` [[2025-09-08 - Gio vs Midjourney comparison|Gio vs Midjourney comparison]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - ProcureCon Indirect Tuesday|ProcureCon Indirect Tuesday]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - Pineapple and cantaloupe dieta|Pineapple and cantaloupe dieta]]  #alan #ai-workflow #health
+- 🟢 `2025-09-09` [[2025-09-09 - Anytime Fitness options|Anytime Fitness options]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - Tesla Juniper noise diagnosis|Tesla Juniper noise diagnosis]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - The Four Agreements|The Four Agreements]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - Fitness sign up hours|Fitness sign up hours]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - Amex virtual card program|Amex virtual card program]]  #alan #amex
+- 🟢 `2025-09-09` [[2025-09-09 - Contract break examples CCE|Contract break examples CCE]]  #alan #legal
+- 🟢 `2025-09-09` [[2025-09-09 - Integration support explanation|Integration support explanation]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - Translate Reddit comment|Translate Reddit comment]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - Organic grapes and dieta|Organic grapes and dieta]]  #alan #health
+- 🟢 `2025-09-09` [[2025-09-09 - Tesla OEM racks and Thule|Tesla OEM racks and Thule]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - Tesla roof rack installation|Tesla roof rack installation]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - Cricket vs Verizon signal|Cricket vs Verizon signal]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - Chase approval odds analysis|Chase approval odds analysis]]  #alan #credit #utilization
+- 🟢 `2025-09-09` [[2025-09-09 - Shipping cost to NZ|Shipping cost to NZ]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - Tesla roof rack coverage|Tesla roof rack coverage]]  #alan
+- 🟢 `2025-09-09` [[2025-09-09 - First class travel hacks|First class travel hacks]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - Bumps on hand treatment|Bumps on hand treatment]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - Asking date preferences|Asking date preferences]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - Ultra-concise response|Ultra-concise response]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - OTC eye drops options|OTC eye drops options]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - Thule Motion XT vs 3|Thule Motion XT vs 3]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - Tesla roof rack setup|Tesla roof rack setup]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - Image comparison request|Image comparison request]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - Free parking Denver malls|Free parking Denver malls]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - Grapes or blueberries|Grapes or blueberries]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - How to make her laugh|How to make her laugh]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - Unprompted review meaning|Unprompted review meaning]]  #alan
+- 🟢 `2025-09-10` [[2025-09-10 - Romantic message rewrite|Romantic message rewrite]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Best Whole Foods for Aya Dieta|Best Whole Foods for Aya Dieta]]  #alan #fitness #health
+- 🟢 `2025-09-11` [[2025-09-11 - Sleepy sensual phrase|Sleepy sensual phrase]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Bezos Amazon role summary|Bezos Amazon role summary]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Thule vs Yakima box comparison|Thule vs Yakima box comparison]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - RC control issue fix|RC control issue fix]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Scissors on airplane rules|Scissors on airplane rules]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Battery charge time|Battery charge time]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Skin condition advice|Skin condition advice]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Medicaid transfer inquiry|Medicaid transfer inquiry]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Free shaded parking Denver|Free shaded parking Denver]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Height clearance estimate|Height clearance estimate]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Words stronger than hot|Words stronger than hot]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - iPhone 13 Pro vs 17 Pro Max|iPhone 13 Pro vs 17 Pro Max]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Pixel vs iPhone 17 Pro|Pixel vs iPhone 17 Pro]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Penis buffet joke|Penis buffet joke]]  #alan #legal
+- 🟢 `2025-09-11` [[2025-09-11 - Innuendo meaning explanation|Innuendo meaning explanation]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - TPE vs PVC mats|TPE vs PVC mats]]  #alan
+- 🟢 `2025-09-11` [[2025-09-11 - Time awake calculation|Time awake calculation]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Denver population estimate|Denver population estimate]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Days since July 16|Days since July 16]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Whole Foods aya dieta|Whole Foods aya dieta]]  #alan #health
+- 🟢 `2025-09-12` [[2025-09-12 - Data usage breakdown guide|Data usage breakdown guide]]  #alan #finance
+- 🟢 `2025-09-12` [[2025-09-12 - Lost Lands decision analysis|Lost Lands decision analysis]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Concealed carry state overview|Concealed carry state overview]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Metro 2 dispute strategy|Metro 2 dispute strategy]]  #alan #legal #high-signal
+- 🟢 `2025-09-12` [[2025-09-12 - TransUnion breach history|TransUnion breach history]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Bank deposit rating tiers|Bank deposit rating tiers]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Refund dispute guidance|Refund dispute guidance]]  #alan #chargeback #dispute #legal
+- 🟢 `2025-09-12` [[2025-09-12 - Organic linen explanation|Organic linen explanation]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Fragrance comparison notes|Fragrance comparison notes]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Connect Sonos to phone|Connect Sonos to phone]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Bed size comparison|Bed size comparison]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Personal information request|Personal information request]]  #alan
+- 🟢 `2025-09-12` [[2025-09-12 - Apple on ceremony day|Apple on ceremony day]]  #alan #fitness #health
+- 🟢 `2025-09-13` [[2025-09-13 - Pinning Ozark tent vegas|Pinning Ozark tent vegas]]  #alan
+- 🟢 `2025-09-13` [[2025-09-13 - BOGO return policy|BOGO return policy]]  #alan
+- 🟢 `2025-09-13` [[2025-09-13 - Starbucks Frappuccinos availability|Starbucks Frappuccinos availability]]  #alan
+- 🟢 `2025-09-13` [[2025-09-13 - Clarifying user request|Clarifying user request]]  #alan
+- 🟢 `2025-09-13` [[2025-09-13 - San Pedro explanation|San Pedro explanation]]  #alan
+- 🟢 `2025-09-14` [[2025-09-14 - Throat spray technique|Throat spray technique]]  #alan
+- 🟢 `2025-09-14` [[2025-09-14 - Auralabs gummies review|Auralabs gummies review]]  #alan
+- 🟢 `2025-09-14` [[2025-09-14 - Sponge vs brush for airbrush look|Sponge vs brush for airbrush look]]  #alan
+- 🟢 `2025-09-14` [[2025-09-14 - Business or pleasure trip|Business or pleasure trip]]  #alan
+- 🟢 `2025-09-14` [[2025-09-14 - Set phone to grey scale|Set phone to grey scale]]  #alan
+- 🟢 `2025-09-14` [[2025-09-14 - Bodhidharma and Shaolin Kung Fu|Bodhidharma and Shaolin Kung Fu]]  #alan
+- 🟢 `2025-09-14` [[2025-09-14 - Vegas buffets with crab|Vegas buffets with crab]]  #alan
+- 🟢 `2025-09-14` [[2025-09-14 - Recon meaning explanation|Recon meaning explanation]]  #alan
+- 🟢 `2025-09-14` [[2025-09-14 - Local Celebrity Blueprint Explained|Local Celebrity Blueprint Explained]]  #alan #high-signal
+- 🟢 `2025-09-15` [[2025-09-15 - Headphones vs Tesla audio|Headphones vs Tesla audio]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Sigma Society breakdown|Sigma Society breakdown]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Marriott card spa benefits|Marriott card spa benefits]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Kobe vs regular beef|Kobe vs regular beef]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Dollar to peso conversion|Dollar to peso conversion]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Clarifying TPD discharge request|Clarifying TPD discharge request]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Bank chargeback litigation impact|Bank chargeback litigation impact]]  #alan #chargeback #dispute #legal
+- 🟢 `2025-09-15` [[2025-09-15 - What is an awning|What is an awning]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Font identification assistance|Font identification assistance]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Sphere Las Vegas brightness|Sphere Las Vegas brightness]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Reverse number lookup|Reverse number lookup]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Polite price pushback tips|Polite price pushback tips]]  #alan
+- 🟢 `2025-09-15` [[2025-09-15 - Cash advance fee info|Cash advance fee info]]  #alan #fib
+- 🟢 `2025-09-16` [[2025-09-16 - Audi A4 vs BMW 3 Series|Audi A4 vs BMW 3 Series]]  #alan
+- 🟢 `2025-09-16` [[2025-09-16 - Reasonable refund percentage|Reasonable refund percentage]]  #alan
+- 🟢 `2025-09-16` [[2025-09-16 - Bringing cologne to Mexico|Bringing cologne to Mexico]]  #alan
+- 🟢 `2025-09-16` [[2025-09-16 - Chase business debit limits|Chase business debit limits]]  #alan #fib
+- 🟢 `2025-09-16` [[2025-09-16 - Wells Fargo atm limit|Wells Fargo atm limit]]  #alan
+- 🟢 `2025-09-16` [[2025-09-16 - Range Rover Sport dimensions|Range Rover Sport dimensions]]  #alan #copywriting
+- 🟢 `2025-09-16` [[2025-09-16 - Cross border directions|Cross border directions]]  #alan
+- 🟢 `2025-09-16` [[2025-09-16 - Convert cm to inches|Convert cm to inches]]  #alan
+- 🟢 `2025-09-16` [[2025-09-16 - Affordable drinks Hong Kong Tijuana|Affordable drinks Hong Kong Tijuana]]  #alan
+- 🟢 `2025-09-17` [[2025-09-17 - OXXO USB-C charger price|OXXO USB-C charger price]]  #alan
+- 🟢 `2025-09-17` [[2025-09-17 - Disney Springs itinerary|Disney Springs itinerary]]  #alan #travel
+- 🟢 `2025-09-17` [[2025-09-17 - Berry bright juice concerns|Berry bright juice concerns]]  #alan
+- 🟢 `2025-09-17` [[2025-09-17 - Cop incident update|Cop incident update]]  #alan
+- 🟢 `2025-09-17` [[2025-09-17 - Conversation initiation|Conversation initiation]]  #alan
+- 🟢 `2025-09-18` [[2025-09-18 - Rhino 11 product review|Rhino 11 product review]]  #alan
+- 🟢 `2025-09-18` [[2025-09-18 - Essay revision feedback|Essay revision feedback]]  #alan
+- 🟢 `2025-09-18` [[2025-09-18 - Check saved cards iPhone|Check saved cards iPhone]]  #alan
+- 🟢 `2025-09-18` [[2025-09-18 - Beach driving and camping|Beach driving and camping]]  #alan
+- 🟢 `2025-09-18` [[2025-09-18 - Oceano Dunes parking info|Oceano Dunes parking info]]  #alan
+- 🟢 `2025-09-18` [[2025-09-18 - Describe fat with words|Describe fat with words]]  #alan
+- 🟢 `2025-09-18` [[2025-09-18 - Tesla Juniper in dunes|Tesla Juniper in dunes]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - Avata 2 range details|Avata 2 range details]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - Celestial events today|Celestial events today]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - Celestial events today-2|Celestial events today]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - Spiritual growth tools|Spiritual growth tools]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - Translate text meaning|Translate text meaning]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - Write shorter text|Write shorter text]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - Bar food for conferences|Bar food for conferences]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - Text message rewrite|Text message rewrite]]  #alan #negotiation
+- 🟢 `2025-09-19` [[2025-09-19 - BIOHM vs IM8 comparison|BIOHM vs IM8 comparison]]  #alan #supplements
+- 🟢 `2025-09-19` [[2025-09-19 - First-generation drive|First-generation drive]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - Car wash clearance check|Car wash clearance check]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - Fun restaurants Eagan area|Fun restaurants Eagan area]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - iPhone upgrade worth it|iPhone upgrade worth it]]  #alan
+- 🟢 `2025-09-19` [[2025-09-19 - JBL Charge 6 vs Sony ULT Field 5|JBL Charge 6 vs Sony ULT Field 5]]  #alan
+- 🟢 `2025-09-20` [[2025-09-20 - Free beach car camping|Free beach car camping]]  #alan
+- 🟢 `2025-09-20` [[2025-09-20 - Global Entry Midwest MN|Global Entry Midwest MN]]  #alan
+- 🟢 `2025-09-20` [[2025-09-20 - Renew global entry issue|Renew global entry issue]]  #alan
+- 🟢 `2025-09-20` [[2025-09-20 - Mass unfollow Instagram|Mass unfollow Instagram]]  #alan #instagram #marketing
+- 🟢 `2025-09-20` [[2025-09-20 - Sleeping in car Big Sur|Sleeping in car Big Sur]]  #alan
+- 🟢 `2025-09-20` [[2025-09-20 - Free Big Sur beaches|Free Big Sur beaches]]  #alan
+- 🟢 `2025-09-20` [[2025-09-20 - Funny lawn invite|Funny lawn invite]]  #alan
+- 🟢 `2025-09-20` [[2025-09-20 - iPhone 17 Pro Max pickup|iPhone 17 Pro Max pickup]]  #alan
+- 🟢 `2025-09-20` [[2025-09-20 - Void meditation explained|Void meditation explained]]  #alan #legal
+- 🟢 `2025-09-21` [[2025-09-21 - Dark time Big Sur|Dark time Big Sur]]  #alan
+- 🟢 `2025-09-21` [[2025-09-21 - Best meaning explanation|Best meaning explanation]]  #alan
+- 🟢 `2025-09-21` [[2025-09-21 - S25 Ultra vs iPhone 17 Pro Max|S25 Ultra vs iPhone 17 Pro Max]]  #alan
+- 🟢 `2025-09-21` [[2025-09-21 - Song meaning breakdown|Song meaning breakdown]]  #alan
+- 🟢 `2025-09-21` [[2025-09-21 - Funny dramatic writing|Funny dramatic writing]]  #alan
+- 🟢 `2025-09-21` [[2025-09-21 - Wells Fargo fee waiver|Wells Fargo fee waiver]]  #alan
+- 🟢 `2025-09-21` [[2025-09-21 - Love expression rewrite|Love expression rewrite]]  #alan #health #skin
+- 🟢 `2025-09-21` [[2025-09-21 - Head and Shoulders comparison|Head and Shoulders comparison]]  #alan
+- 🟢 `2025-09-21` [[2025-09-21 - Best breakfast in MN|Best breakfast in MN]]  #alan
+- 🟢 `2025-09-21` [[2025-09-21 - Translate Spanish to English|Translate Spanish to English]]  #alan
+- 🟢 `2025-09-22` [[2025-09-22 - Baileys vs Irish coffee|Baileys vs Irish coffee]]  #alan
+- 🟢 `2025-09-22` [[2025-09-22 - Refund policy summary|Refund policy summary]]  #alan
+- 🟢 `2025-09-22` [[2025-09-22 - Acne causes and solutions|Acne causes and solutions]]  #alan #health #skin
+- 🟢 `2025-09-22` [[2025-09-22 - Best sleep apps Iwatch|Best sleep apps Iwatch]]  #alan
+- 🟢 `2025-09-22` [[2025-09-22 - Turn off Siri notifications|Turn off Siri notifications]]  #alan
+- 🟢 `2025-09-22` [[2025-09-22 - Unclear user query|Unclear user query]]  #alan #legal
+- 🟢 `2025-09-23` [[2025-09-23 - AI B-roll tools|AI B-roll tools]]  #alan #instagram #marketing
+- 🟢 `2025-09-23` [[2025-09-23 - Squirting myths and facts|Squirting myths and facts]]  #alan
+- 🟢 `2025-09-23` [[2025-09-23 - Audio impact on IG posts|Audio impact on IG posts]]  #alan
+- 🟢 `2025-09-23` [[2025-09-23 - Boost organic reach|Boost organic reach]]  #alan
+- 🟢 `2025-09-23` [[2025-09-23 - Fix CapCut preset issue|Fix CapCut preset issue]]  #alan #copywriting
+- 🟢 `2025-09-23` [[2025-09-23 - Polished note for pickup|Polished note for pickup]]  #alan
+- 🟢 `2025-09-23` [[2025-09-23 - Rental Kharma bureaus|Rental Kharma bureaus]]  #alan #credit
+- 🟢 `2025-09-23` [[2025-09-23 - Top builders Denver CO|Top builders Denver CO]]  #alan
+- 🟢 `2025-09-23` [[2025-09-23 - AirPods Max release date|AirPods Max release date]]  #alan
+- 🟢 `2025-09-23` [[2025-09-23 - Opener suggestion for girl|Opener suggestion for girl]]  #alan #ai-workflow
+- 🟢 `2025-09-23` [[2025-09-23 - Red flags in agreement|Red flags in agreement]]  #alan
+- 🟢 `2025-09-23` [[2025-09-23 - In-person aligner options|In-person aligner options]]  #alan
+- 🟢 `2025-09-23` [[2025-09-23 - Invisible aligners open bite|Invisible aligners open bite]]  #alan
+- 🟢 `2025-09-24` [[2025-09-24 - Viral follow-up script|Viral follow-up script]]  #alan #copywriting #instagram #marketing #high-signal
+- 🟢 `2025-09-24` [[2025-09-24 - Shadowban posting frequency|Shadowban posting frequency]]  #alan #instagram #marketing
+- 🟢 `2025-09-24` [[2025-09-24 - Discovery call response guide|Discovery call response guide]]  #alan
+- 🟢 `2025-09-24` [[2025-09-24 - Cricket iPhone lease options|Cricket iPhone lease options]]  #alan
+- 🟢 `2025-09-24` [[2025-09-24 - Series 11 vs previous models|Series 11 vs previous models]]  #alan
+- 🟢 `2025-09-24` [[2025-09-24 - Unfollow without getting banned|Unfollow without getting banned]]  #alan
+- 🟢 `2025-09-24` [[2025-09-24 - Instagram video safe zones|Instagram video safe zones]]  #alan #instagram #marketing
+- 🟣 `2025-09-24` [[2025-09-24 - Credit funding community viral marketing|Credit funding community viral marketing]]  #alan #marketing
+- 🟢 `2025-09-24` [[2025-09-24 - Hide Instagram post likes|Hide Instagram post likes]]  #alan #instagram #marketing
+- 🟢 `2025-09-25` [[2025-09-25 - Instagram post draft|Instagram post draft]]  #alan #instagram #marketing #high-signal
+- 🟢 `2025-09-25` [[2025-09-25 - Phone camera fix guide|Phone camera fix guide]]  #alan
+- 🟢 `2025-09-25` [[2025-09-25 - Chemical peels and acne|Chemical peels and acne]]  #alan #health #skin
+- 🟢 `2025-09-25` [[2025-09-25 - Astrology money alignment|Astrology money alignment]]  #alan #family
+- 🟢 `2025-09-25` [[2025-09-25 - Interest cost breakdown|Interest cost breakdown]]  #alan
+- 🟢 `2025-09-25` [[2025-09-25 - Credit card interest explained|Credit card interest explained]]  #alan
+- 🟢 `2025-09-25` [[2025-09-25 - Airtable link access|Airtable link access]]  #alan
+- 🟢 `2025-09-25` [[2025-09-25 - Mailing Adderall Legality|Mailing Adderall Legality]]  #alan
+- 🟢 `2025-09-25` [[2025-09-25 - Free 4K teleprompter apps|Free 4K teleprompter apps]]  #alan
+- 🟢 `2025-09-25` [[2025-09-25 - Mathematical date alignment|Mathematical date alignment]]  #alan
+- 🟢 `2025-09-26` [[2025-09-26 - Course map creation|Course map creation]]  #alan #funding
+- 🟢 `2025-09-26` [[2025-09-26 - IRS Cash App Audit|IRS Cash App Audit]]  #alan
+- 🟢 `2025-09-26` [[2025-09-26 - Ascend credit risk analysis|Ascend credit risk analysis]]  #alan #branding #credit #fitness #health
+- 🟢 `2025-09-26` [[2025-09-26 - SBA loan approval factors|SBA loan approval factors]]  #alan
+- 🟢 `2025-09-26` [[2025-09-26 - Scheduling Instagram Reel Issues|Scheduling Instagram Reel Issues]]  #alan #instagram #marketing
+- 🟢 `2025-09-26` [[2025-09-26 - Sex and magic comparison|Sex and magic comparison]]  #alan
+- 🟢 `2025-09-26` [[2025-09-26 - Shipping cost comparison|Shipping cost comparison]]  #alan
+- 🟢 `2025-09-26` [[2025-09-26 - Spray sound spelling|Spray sound spelling]]  #alan
+- 🟢 `2025-09-26` [[2025-09-26 - Playful degree parody|Playful degree parody]]  #alan
+- 🟢 `2025-09-26` [[2025-09-26 - FHA loan approval docs|FHA loan approval docs]]  #alan #finance
+- 🟢 `2025-09-26` [[2025-09-26 - Free beaches near Monterey|Free beaches near Monterey]]  #alan
+- 🟢 `2025-09-27` [[2025-09-27 - iPhone vs Pixel vs DSLR|iPhone vs Pixel vs DSLR]]  #alan #apw #dsl #sales
+- 🟢 `2025-09-27` [[2025-09-27 - City attractiveness rankings|City attractiveness rankings]]  #alan
+- 🟢 `2025-09-27` [[2025-09-27 - Gen 1 vs Gen 2|Gen 1 vs Gen 2]]  #alan
+- 🟢 `2025-09-27` [[2025-09-27 - Pay credit card balance|Pay credit card balance]]  #alan
+- 🟢 `2025-09-27` [[2025-09-27 - Legal violations and damages|Legal violations and damages]]  #alan #legal
+- 🟢 `2025-09-27` [[2025-09-27 - Vitality foods for skin|Vitality foods for skin]]  #alan
+- 🟢 `2025-09-27` [[2025-09-27 - Paid closed collection impact|Paid closed collection impact]]  #alan
+- 🟢 `2025-09-27` [[2025-09-27 - Damage estimate for Tesla|Damage estimate for Tesla]]  #alan
+- 🟢 `2025-09-27` [[2025-09-27 - Chemical peel for blackheads|Chemical peel for blackheads]]  #alan
+- 🟢 `2025-09-27` [[2025-09-27 - Wealthy hotspots for viral content|Wealthy hotspots for viral content]]  #alan
+- 🟢 `2025-09-27` [[2025-09-27 - Plaid vs regular comparison|Plaid vs regular comparison]]  #alan #finance
+- 🟢 `2025-09-28` [[2025-09-28 - iPhone financing plan cancel|iPhone financing plan cancel]]  #alan
+- 🟢 `2025-09-28` [[2025-09-28 - Parking comparison apple vs grove|Parking comparison apple vs grove]]  #alan
+- 🟢 `2025-09-28` [[2025-09-28 - Faster Tesla charging tips|Faster Tesla charging tips]]  #alan
+- 🟢 `2025-09-28` [[2025-09-28 - Video content strategy|Video content strategy]]  #alan #copywriting #high-signal
+- 🟢 `2025-09-28` [[2025-09-28 - Dividend income per 10K|Dividend income per 10K]]  #alan
+- 🟢 `2025-09-28` [[2025-09-28 - Fire hydrant parking distance|Fire hydrant parking distance]]  #alan
+- 🟢 `2025-09-28` [[2025-09-28 - iPhone 17 Pro Max cases|iPhone 17 Pro Max cases]]  #alan
+- 🟢 `2025-09-28` [[2025-09-28 - Birthday message revision|Birthday message revision]]  #alan
+- 🟢 `2025-09-28` [[2025-09-28 - Abdominal pain causes|Abdominal pain causes]]  #alan
+- 🟢 `2025-09-28` [[2025-09-28 - Unlimited car wash options|Unlimited car wash options]]  #alan
+- 🟢 `2025-09-28` [[2025-09-28 - Sharp line suggestions|Sharp line suggestions]]  #alan
+- 🟢 `2025-09-28` [[2025-09-28 - Disable light meta glasses|Disable light meta glasses]]  #alan
+- 🟢 `2025-09-29` [[2025-09-29 - Acknowledgment response|Acknowledgment response]]  #alan #ai-workflow
+- 🟢 `2025-09-29` [[2025-09-29 - Price comparison spirits|Price comparison spirits]]  #alan
+- 🟢 `2025-09-29` [[2025-09-29 - Beachside spots for women|Beachside spots for women]]  #alan
+- 🟢 `2025-09-29` [[2025-09-29 - American wagyu vs wagyu|American wagyu vs wagyu]]  #alan
+- 🟢 `2025-09-29` [[2025-09-29 - San Diego vs LA OC|San Diego vs LA OC]]  #alan
+- 🟢 `2025-09-29` [[2025-09-29 - Wagyu price rates|Wagyu price rates]]  #alan
+- 🟢 `2025-09-29` [[2025-09-29 - WeWork Costa Mesa cost|WeWork Costa Mesa cost]]  #alan
+- 🟢 `2025-09-29` [[2025-09-29 - Blood test results interpretation|Blood test results interpretation]]  #alan
+- 🟢 `2025-09-29` [[2025-09-29 - Dividend yield calculation|Dividend yield calculation]]  #alan
+- 🟢 `2025-09-29` [[2025-09-29 - Wrinkles around arms fix|Wrinkles around arms fix]]  #alan
+- 🟢 `2025-09-29` [[2025-09-29 - Parking at 400 Spectrum|Parking at 400 Spectrum]]  #alan
+- 🟢 `2025-09-30` [[2025-09-30 - Atnt plan throttling limit|Atnt plan throttling limit]]  #alan
+- 🟢 `2025-09-30` [[2025-09-30 - Month-to-month policy template|Month-to-month policy template]]  #alan
+- 🟢 `2025-09-30` [[2025-09-30 - Message tone adjustment|Message tone adjustment]]  #alan
+- 🟢 `2025-09-30` [[2025-09-30 - Sunflower seed oil risks|Sunflower seed oil risks]]  #alan
+- 🟢 `2025-09-30` [[2025-09-30 - Golf abbreviation suggestion|Golf abbreviation suggestion]]  #alan
+- 🟢 `2025-09-30` [[2025-09-30 - Tax form for Amazon Vine|Tax form for Amazon Vine]]  #alan
+- 🟢 `2025-09-30` [[2025-09-30 - Car damage liability options|Car damage liability options]]  #alan #legal
+- 🟢 `2025-09-30` [[2025-09-30 - Crumbl cookies after surgery|Crumbl cookies after surgery]]  #alan #health #skin #surgery
+- 🟢 `2025-09-30` [[2025-09-30 - View private Instagram posts|View private Instagram posts]]  #alan #instagram #marketing
+- 🟢 `2025-09-30` [[2025-09-30 - Apple Watch iPhone disconnect|Apple Watch iPhone disconnect]]  #alan
+- 🟢 `2025-09-30` [[2025-09-30 - Delta companion credit card|Delta companion credit card]]  #alan
+- 🟢 `2025-09-30` [[2025-09-30 - Account breakdown for Google Sheets|Account breakdown for Google Sheets]]  #alan
+- 🟢 `2025-09-30` [[2025-09-30 - Funding tiers based on rating|Funding tiers based on rating]]  #alan #credit #utilization
+- 🟢 `2025-09-30` [[2025-09-30 - Obtopsy clarification|Obtopsy clarification]]  #alan
+
+## 2025-08  (471)
+
+- 🟢 `2025-08-01` [[2025-08-01 - Navy Federal home loan|Navy Federal home loan]]  #alan #finance
+- 🟢 `2025-08-01` [[2025-08-01 - Reset Sonos network connection|Reset Sonos network connection]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Tax returns for loans|Tax returns for loans]]  #alan #finance
+- 🟢 `2025-08-01` [[2025-08-01 - Salmon salad safety tips|Salmon salad safety tips]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Juniper Performance availability|Juniper Performance availability]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Batphone explanation|Batphone explanation]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Tesla Model Y case material|Tesla Model Y case material]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Tesla free supercharging options|Tesla free supercharging options]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Meaning of ms|Meaning of ms]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Quantum meruit meaning|Quantum meruit meaning]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Translation explanation|Translation explanation]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Offset funding calculation|Offset funding calculation]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Pahrump child conspiracy claims|Pahrump child conspiracy claims]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Tesla XPEL tint comparison|Tesla XPEL tint comparison]]  #alan #legal
+- 🟢 `2025-08-01` [[2025-08-01 - Alignment vs money first|Alignment vs money first]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Sprinter van build options|Sprinter van build options]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Sleep but no energy|Sleep but no energy]]  #alan
+- 🟢 `2025-08-01` [[2025-08-01 - Conversation check|Conversation check]]  #alan #mindset
+- 🟢 `2025-08-02` [[2025-08-02 - Model Y Juniper vs Model S|Model Y Juniper vs Model S]]  #alan
+- 🟢 `2025-08-02` [[2025-08-02 - Model X vs Model Y|Model X vs Model Y]]  #alan
+- 🟢 `2025-08-02` [[2025-08-02 - XRP to ETH trade strategy|XRP to ETH trade strategy]]  #alan #high-signal
+- 🟢 `2025-08-02` [[2025-08-02 - Smoke ribs in Traeger|Smoke ribs in Traeger]]  #alan
+- 🟢 `2025-08-02` [[2025-08-02 - Buy Tesla with Supercharging|Buy Tesla with Supercharging]]  #alan
+- 🟢 `2025-08-02` [[2025-08-02 - Upcoming AI phones|Upcoming AI phones]]  #alan
+- 🟢 `2025-08-02` [[2025-08-02 - Protein and fat loss|Protein and fat loss]]  #alan #fitness #health #supplements
+- 🟢 `2025-08-02` [[2025-08-02 - Mattress options for Model Y|Mattress options for Model Y]]  #alan
+- 🟢 `2025-08-02` [[2025-08-02 - Mastercard return fee policy|Mastercard return fee policy]]  #alan #fib #legal
+- 🟢 `2025-08-02` [[2025-08-02 - OPM strategy breakdown|OPM strategy breakdown]]  #alan #networking #high-signal
+- 🟢 `2025-08-02` [[2025-08-02 - Gap funding options WA|Gap funding options WA]]  #alan #networking
+- 🟢 `2025-08-03` [[2025-08-03 - Tesla loan impact analysis|Tesla loan impact analysis]]  #alan #business-credit #credit #personal-credit
+- 🟢 `2025-08-03` [[2025-08-03 - Annual revenue projection formula|Annual revenue projection formula]]  #alan #finance
+- 🟢 `2025-08-03` [[2025-08-03 - Switch Amazon app region|Switch Amazon app region]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Vlogging setup for Tesla|Vlogging setup for Tesla]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Money movement plan|Money movement plan]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Best video quality glasses|Best video quality glasses]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Corporate lease qualification guide|Corporate lease qualification guide]]  #alan #finance
+- 🟢 `2025-08-03` [[2025-08-03 - Take over pre-foreclosure|Take over pre-foreclosure]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Anker Gan vs PowerIQ|Anker Gan vs PowerIQ]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Dandelions song meaning|Dandelions song meaning]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Rapid rescore request process|Rapid rescore request process]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Minimal home cost breakdown|Minimal home cost breakdown]]  #alan #finance
+- 🟢 `2025-08-03` [[2025-08-03 - Percent calculation results|Percent calculation results]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Best used SUVs audio|Best used SUVs audio]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Buy and finance van|Buy and finance van]]  #alan
+- 🟢 `2025-08-03` [[2025-08-03 - Model X seating options|Model X seating options]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Affordable modern living options|Affordable modern living options]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Model S vs Model Y|Model S vs Model Y]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Subconscious Resistance Transformation|Subconscious Resistance Transformation]]  #alan #mindset
+- 🟢 `2025-08-04` [[2025-08-04 - EcoFlow panel comparison|EcoFlow panel comparison]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Cooler freezer combos Tesla Y|Cooler freezer combos Tesla Y]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Polestar 3 vs Model X|Polestar 3 vs Model X]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Model X vs Plaid|Model X vs Plaid]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Model X vs Model Y|Model X vs Model Y]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Assessment of patterns and growth|Assessment of patterns and growth]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Late payment removal law|Late payment removal law]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - 1692g collection removal guide|1692g collection removal guide]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Same sound system|Same sound system]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - Car insurance agent earnings|Car insurance agent earnings]]  #alan
+- 🟢 `2025-08-04` [[2025-08-04 - TRT follow-up labs analysis|TRT follow-up labs analysis]]  #alan #health #trt
+- 🟢 `2025-08-04` [[2025-08-04 - Crock-pot cooking with EcoFlow|Crock-pot cooking with EcoFlow]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Karina situation analysis|Karina situation analysis]]  #alan #instagram #marketing
+- 🟢 `2025-08-05` [[2025-08-05 - Loan balance thresholds|Loan balance thresholds]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Literally vs figuratively meaning|Literally vs figuratively meaning]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - JBL Charge 7 release date|JBL Charge 7 release date]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Spotify scrubbing issue Tesla|Spotify scrubbing issue Tesla]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Compatibility check|Compatibility check]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Loan request strategy|Loan request strategy]]  #alan #high-signal
+- 🟢 `2025-08-05` [[2025-08-05 - Restore removed reddit post|Restore removed reddit post]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Teraglide Pro vs Fruble|Teraglide Pro vs Fruble]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Pay credit card with another|Pay credit card with another]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - DJI transmitter comparison|DJI transmitter comparison]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Relationship clarity and closure|Relationship clarity and closure]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - BofA auto refinance options|BofA auto refinance options]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Causes of face breakouts|Causes of face breakouts]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - iPhone alarm trigger limits|iPhone alarm trigger limits]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Longest river comparison|Longest river comparison]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Van financing options|Van financing options]]  #alan #funding
+- 🟢 `2025-08-05` [[2025-08-05 - Delta Pro vs Pro 3 vs Ultra|Delta Pro vs Pro 3 vs Ultra]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - French onion dip recipe|French onion dip recipe]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Sales tax NV vs MN|Sales tax NV vs MN]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Best Class A RVs|Best Class A RVs]]  #alan #tech
+- 🟢 `2025-08-05` [[2025-08-05 - Class B RV loan options|Class B RV loan options]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - J.D. Power Mercedes RV|J.D. Power Mercedes RV]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Cancel Arlo subscription steps|Cancel Arlo subscription steps]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - TRT assessment summary|TRT assessment summary]]  #alan #health #trt
+- 🟢 `2025-08-05` [[2025-08-05 - Fundera business funding review|Fundera business funding review]]  #alan #funding
+- 🟢 `2025-08-05` [[2025-08-05 - RV loan $200K zero down|RV loan $200K zero down]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - QuickBooks loan options|QuickBooks loan options]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - LLC business auto refinance|LLC business auto refinance]]  #alan
+- 🟢 `2025-08-05` [[2025-08-05 - Drawer size comparison|Drawer size comparison]]  #alan
+- 🟢 `2025-08-06` [[2025-08-06 - Vertical clearance estimate|Vertical clearance estimate]]  #alan
+- 🟢 `2025-08-06` [[2025-08-06 - Letter review and optimization|Letter review and optimization]]  #alan #cfpb #credit #dispute #legal
+- 🟢 `2025-08-06` [[2025-08-06 - Steak comparison stores|Steak comparison stores]]  #alan #fitness #health
+- 🟢 `2025-08-06` [[2025-08-06 - Tesla decision dilemma|Tesla decision dilemma]]  #alan
+- 🟢 `2025-08-06` [[2025-08-06 - Sprinter van conversions with financing|Sprinter van conversions with financing]]  #alan
+- 🟢 `2025-08-06` [[2025-08-06 - Tesla vs Stay-At-Home|Tesla vs Stay-At-Home]]  #alan
+- 🟢 `2025-08-06` [[2025-08-06 - Break-in risk vs insurance|Break-in risk vs insurance]]  #alan
+- 🟢 `2025-08-06` [[2025-08-06 - Starlink in Tesla Y|Starlink in Tesla Y]]  #alan
+- 🟢 `2025-08-06` [[2025-08-06 - College Essay Tips|College Essay Tips]]  #alan
+- 🟢 `2025-08-06` [[2025-08-06 - Credit reporting with Splitit|Credit reporting with Splitit]]  #alan #credit
+- 🟢 `2025-08-06` [[2025-08-06 - Tesla Premium Connectivity Explained|Tesla Premium Connectivity Explained]]  #alan
+- 🟢 `2025-08-06` [[2025-08-06 - Unlock Model Y rear doors|Unlock Model Y rear doors]]  #alan
+- 🟢 `2025-08-07` [[2025-08-07 - Meaning of mixed-up tasks|Meaning of mixed-up tasks]]  #alan
+- 🟢 `2025-08-07` [[2025-08-07 - Full Moon details|Full Moon details]]  #alan
+- 🟢 `2025-08-07` [[2025-08-07 - Fraud vs identity theft|Fraud vs identity theft]]  #alan #cfpb #credit #dispute #legal #scam
+- 🟢 `2025-08-07` [[2025-08-07 - Turn off Tesla monitoring|Turn off Tesla monitoring]]  #alan #tech
+- 🟢 `2025-08-07` [[2025-08-07 - Starlink Mini vs Standard|Starlink Mini vs Standard]]  #alan
+- 🟢 `2025-08-07` [[2025-08-07 - Cramp after IUD normal|Cramp after IUD normal]]  #alan
+- 🟢 `2025-08-07` [[2025-08-07 - Starlink Mini vs Standard-2|Starlink Mini vs Standard]]  #alan
+- 🟢 `2025-08-07` [[2025-08-07 - Best all-weather mats Tesla|Best all-weather mats Tesla]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Make footwell lights RGB|Make footwell lights RGB]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Tesla Model Y 12V ports|Tesla Model Y 12V ports]]  #alan #negotiation
+- 🟢 `2025-08-08` [[2025-08-08 - Unlock all doors fix|Unlock all doors fix]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - M2 Max charger watts|M2 Max charger watts]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Free reverse phone lookup|Free reverse phone lookup]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - MagSafe charger wattage|MagSafe charger wattage]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Private plane departures MN|Private plane departures MN]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Jesus and the Bread of Life|Jesus and the Bread of Life]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Consequences of not donating|Consequences of not donating]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Severe period pain causes|Severe period pain causes]]  #alan #health #surgery
+- 🟢 `2025-08-08` [[2025-08-08 - Nordstrom vs Macy's cologne|Nordstrom vs Macy's cologne]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Happy Gilmore quote explanation|Happy Gilmore quote explanation]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Express Legend fragrance details|Express Legend fragrance details]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Tesla music app comparison|Tesla music app comparison]]  #alan
+- 🟢 `2025-08-08` [[2025-08-08 - Product details summary|Product details summary]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - Ceramic coating comparison|Ceramic coating comparison]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - Cub sandwich length or weight|Cub sandwich length or weight]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - Charging issue troubleshooting|Charging issue troubleshooting]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - ETH and XRP news|ETH and XRP news]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - Cheaper home comparison|Cheaper home comparison]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - Storm or atmospheric lightning|Storm or atmospheric lightning]]  #alan #instagram #marketing #tech
+- 🟢 `2025-08-09` [[2025-08-09 - Starlink mini vs standard|Starlink mini vs standard]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - Psychoanalysis of relationship trauma|Psychoanalysis of relationship trauma]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - Affair impact in divorce|Affair impact in divorce]]  #alan #family
+- 🟢 `2025-08-09` [[2025-08-09 - Best FPV drones for ridgelines|Best FPV drones for ridgelines]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - PowerIQ version clarified|PowerIQ version clarified]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - Portable water heater Tesla|Portable water heater Tesla]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - Microplastics in water jugs|Microplastics in water jugs]]  #alan
+- 🟢 `2025-08-09` [[2025-08-09 - Starlink car suction mount|Starlink car suction mount]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Dji Mini comparison|Dji Mini comparison]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Define demure meaning|Define demure meaning]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Free Tesla chargers Minneapolis|Free Tesla chargers Minneapolis]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Niche selection strategy|Niche selection strategy]]  #alan #high-signal
+- 🟢 `2025-08-10` [[2025-08-10 - Model Y Juniper specs|Model Y Juniper specs]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Festivals with Ray Volte|Festivals with Ray Volte]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - 8-8 portal and charts|8/8 portal and charts]]  #alan #health #skin
+- 🟢 `2025-08-10` [[2025-08-10 - Nano ceramic coating options|Nano ceramic coating options]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Living in Juniper checklist|Living in Juniper checklist]]  #alan #high-signal
+- 🟢 `2025-08-10` [[2025-08-10 - Tesla charging with EcoFlow|Tesla charging with EcoFlow]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Where to buy druid wear|Where to buy druid wear]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Vehicle pass vs ticket|Vehicle pass vs ticket]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Rode vs DJI lavalier|Rode vs DJI lavalier]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Drift pine vs grove vs teak|Drift pine vs grove vs teak]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Electric hookup clarification|Electric hookup clarification]]  #alan #copywriting
+- 🟢 `2025-08-10` [[2025-08-10 - Suspension bar repair cost|Suspension bar repair cost]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - National car wash memberships|National car wash memberships]]  #alan
+- 🟢 `2025-08-10` [[2025-08-10 - Graphene vs Ceramic Wax|Graphene vs Ceramic Wax]]  #alan
+- 🟢 `2025-08-11` [[2025-08-11 - Graphene spray vs bottle|Graphene spray vs bottle]]  #alan
+- 🟢 `2025-08-11` [[2025-08-11 - Charity bank accounts|Charity bank accounts]]  #alan #dispute #scam
+- 🟢 `2025-08-11` [[2025-08-11 - Supercharging vs home charging|Supercharging vs home charging]]  #alan
+- 🟢 `2025-08-11` [[2025-08-11 - Gtechniq W8 sap removal|Gtechniq W8 sap removal]]  #alan
+- 🟢 `2025-08-11` [[2025-08-11 - ACH deposit qualification rules|ACH deposit qualification rules]]  #alan
+- 🟢 `2025-08-11` [[2025-08-11 - Shredding belly fat tips|Shredding belly fat tips]]  #alan #fitness #health #supplements
+- 🟢 `2025-08-11` [[2025-08-11 - Tesla charging EcoFlow Delta|Tesla charging EcoFlow Delta]]  #alan
+- 🟢 `2025-08-11` [[2025-08-11 - Best dual eSIM options|Best dual eSIM options]]  #alan
+- 🟢 `2025-08-11` [[2025-08-11 - Direct powerful strategy|Direct powerful strategy]]  #alan #high-signal
+- 🟢 `2025-08-11` [[2025-08-11 - Toggle audio output|Toggle audio output]]  #alan
+- 🟢 `2025-08-11` [[2025-08-11 - Niche selection guide|Niche selection guide]]  #alan
+- 🟢 `2025-08-11` [[2025-08-11 - Chargeback advice for delays|Chargeback advice for delays]]  #alan #chargeback #dispute
+- 🟢 `2025-08-11` [[2025-08-11 - Salary to hourly rate|Salary to hourly rate]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - Pheromone shampoo options|Pheromone shampoo options]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - Blackwolf vs Brickell comparison|Blackwolf vs Brickell comparison]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - Tesla trip essentials|Tesla trip essentials]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - Pancreas diseases diagnosis|Pancreas diseases diagnosis]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - Best multi cooker 2025|Best multi cooker 2025]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - Apex game vibe questions|Apex game vibe questions]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - Swallowing Snow Whitening Wand|Swallowing Snow Whitening Wand]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - Crypto.com bureau pull|Crypto.com bureau pull]]  #alan #credit
+- 🟢 `2025-08-12` [[2025-08-12 - Message rewrite suggestion|Message rewrite suggestion]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - 5x rewards eligibility|5x rewards eligibility]]  #alan #amex
+- 🟢 `2025-08-12` [[2025-08-12 - Spicy fun options|Spicy fun options]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - Ancient cultures with powers|Ancient cultures with powers]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - PS5 power usage in vehicle|PS5 power usage in vehicle]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - K-2SO in Rogue One|K-2SO in Rogue One]]  #alan
+- 🟢 `2025-08-12` [[2025-08-12 - Price breakdown comparison|Price breakdown comparison]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Cheapest Wix Alternatives|Cheapest Wix Alternatives]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Hostinger 0% fees|Hostinger 0% fees]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Wells Fargo credit bureau|Wells Fargo credit bureau]]  #alan #credit
+- 🟢 `2025-08-13` [[2025-08-13 - DJI Avata 2 stock update|DJI Avata 2 stock update]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Cooking with Ninja MC1001|Cooking with Ninja MC1001]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - DJI Avata purchase options|DJI Avata purchase options]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Infrared contact lenses vision|Infrared contact lenses vision]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Birth chart interpretation|Birth chart interpretation]]  #alan #mindset
+- 🟢 `2025-08-13` [[2025-08-13 - Fundera loan terms|Fundera loan terms]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Email not sending fix|Email not sending fix]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Wedding day coordinator rates|Wedding day coordinator rates]]  #alan #fitness #health
+- 🟢 `2025-08-13` [[2025-08-13 - ACH transfer qualification rules|ACH transfer qualification rules]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Stock vs aftermarket tires|Stock vs aftermarket tires]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Tire rotation consequences|Tire rotation consequences]]  #alan
+- 🟢 `2025-08-13` [[2025-08-13 - Guidance and wisdom shared|Guidance and wisdom shared]]  #alan #ai-workflow
+- 🟢 `2025-08-13` [[2025-08-13 - Waiākea water treatment analysis|Waiākea water treatment analysis]]  #alan
+- 🟢 `2025-08-14` [[2025-08-14 - Lottery ticket winnings|Lottery ticket winnings]]  #alan
+- 🟢 `2025-08-14` [[2025-08-14 - Liver cleanse duration|Liver cleanse duration]]  #alan
+- 🟢 `2025-08-14` [[2025-08-14 - Gtechniq vs Adam's coating|Gtechniq vs Adam's coating]]  #alan
+- 🟢 `2025-08-14` [[2025-08-14 - Response to CFPB complaint|Response to CFPB complaint]]  #alan #cfpb #credit #dispute #legal
+- 🟢 `2025-08-14` [[2025-08-14 - Will vs trust comparison|Will vs trust comparison]]  #alan
+- 🟢 `2025-08-14` [[2025-08-14 - Wash before graphene application|Wash before graphene application]]  #alan
+- 🟢 `2025-08-14` [[2025-08-14 - Instagram location settings|Instagram location settings]]  #alan #instagram #marketing
+- 🟢 `2025-08-14` [[2025-08-14 - Streak removal advice|Streak removal advice]]  #alan
+- 🟢 `2025-08-14` [[2025-08-14 - Buffer vs no buffing|Buffer vs no buffing]]  #alan
+- 🟢 `2025-08-14` [[2025-08-14 - Car washing and coating|Car washing and coating]]  #alan
+- 🟢 `2025-08-14` [[2025-08-14 - Battery burn explanation|Battery burn explanation]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - Graphene coat prep tips|Graphene coat prep tips]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - Smell description of air freshener|Smell description of air freshener]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - What is furikake|What is furikake]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - Gray cloth explanation|Gray cloth explanation]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - Microfiber towel solution|Microfiber towel solution]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - Interstellar blends ovarian cysts|Interstellar blends ovarian cysts]]  #alan #health #skin #supplements
+- 🟢 `2025-08-15` [[2025-08-15 - Sous vide steak guide|Sous vide steak guide]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - IRS business closure steps|IRS business closure steps]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - Multi-vaxers and HIV claim|Multi-vaxers and HIV claim]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - BofA fee waiver options|BofA fee waiver options]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - Book summary summary|Book summary summary]]  #alan
+- 🟢 `2025-08-15` [[2025-08-15 - Prayers meaning clarification|Prayers meaning clarification]]  #alan
+- 🟢 `2025-08-16` [[2025-08-16 - Psychology and flow app|Psychology and flow app]]  #alan
+- 🟢 `2025-08-16` [[2025-08-16 - Non-compete contract check|Non-compete contract check]]  #alan #legal
+- 🟢 `2025-08-16` [[2025-08-16 - William Black 2025 shows|William Black 2025 shows]]  #alan
+- 🟢 `2025-08-16` [[2025-08-16 - Smooth splintery plywood|Smooth splintery plywood]]  #alan
+- 🟢 `2025-08-16` [[2025-08-16 - Storms and climate change|Storms and climate change]]  #alan
+- 🟢 `2025-08-16` [[2025-08-16 - Insurance pullbacks in Malibu|Insurance pullbacks in Malibu]]  #alan
+- 🟢 `2025-08-16` [[2025-08-16 - Prolonged thunder causes|Prolonged thunder causes]]  #alan
+- 🟢 `2025-08-16` [[2025-08-16 - Women morning wood names|Women morning wood names]]  #alan
+- 🟢 `2025-08-16` [[2025-08-16 - Costco cupcakes availability|Costco cupcakes availability]]  #alan
+- 🟢 `2025-08-16` [[2025-08-16 - Airbnb arbitrage tips|Airbnb arbitrage tips]]  #alan
+- 🟢 `2025-08-16` [[2025-08-16 - Recovering from constant critique|Recovering from constant critique]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Fabric shaver vs lint roller|Fabric shaver vs lint roller]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Dismissal and guilt-tripping analysis|Dismissal and guilt-tripping analysis]]  #alan #sales
+- 🟢 `2025-08-17` [[2025-08-17 - Codenames clue suggestions|Codenames clue suggestions]]  #alan #copywriting
+- 🟢 `2025-08-17` [[2025-08-17 - Word list generation|Word list generation]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Codenames clue suggestions-2|Codenames clue suggestions]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Copper kettle cheese explained|Copper kettle cheese explained]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Pure vs modified inverters|Pure vs modified inverters]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Wet foaming shoes原因|Wet foaming shoes原因]]  #alan #procurement
+- 🟢 `2025-08-17` [[2025-08-17 - Wireless charge rate comparison|Wireless charge rate comparison]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Book disclosure requirements|Book disclosure requirements]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Best wireless magnetic monitor|Best wireless magnetic monitor]]  #alan #tech
+- 🟢 `2025-08-17` [[2025-08-17 - Reheat fries and burger|Reheat fries and burger]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Ascended masters views on abstinence|Ascended masters views on abstinence]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Snack sign-up message|Snack sign-up message]]  #alan
+- 🟢 `2025-08-17` [[2025-08-17 - Rear window obstruction legality|Rear window obstruction legality]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Flip Secrets vs FIRE Accelerator|Flip Secrets vs FIRE Accelerator]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Tesla charging eco flow|Tesla charging eco flow]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Larger applicator block use|Larger applicator block use]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - West Coast festival dates|West Coast festival dates]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Football draft commissioner guide|Football draft commissioner guide]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Astrological chart and money|Astrological chart and money]]  #alan #mindset
+- 🟢 `2025-08-18` [[2025-08-18 - Safe metal detox tips|Safe metal detox tips]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Container home loans options|Container home loans options]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Create image of conversation|Create image of conversation]]  #alan #instagram #marketing
+- 🟢 `2025-08-18` [[2025-08-18 - Laptop charges with Starlink|Laptop charges with Starlink]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Choose Your Niche|Choose Your Niche]]  #alan #funding #networking
+- 🟢 `2025-08-18` [[2025-08-18 - Best cooler for Tesla|Best cooler for Tesla]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Iceco vs Dometic coolers|Iceco vs Dometic coolers]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Avoidant tendencies and ego defenses|Avoidant tendencies and ego defenses]]  #alan #marketing
+- 🟢 `2025-08-18` [[2025-08-18 - Gamifying Enlight's Academy|Gamifying Enlight's Academy]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Sweep vs shoutout comparison|Sweep vs shoutout comparison]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Best food in Minneapolis|Best food in Minneapolis]]  #alan #travel
+- 🟢 `2025-08-18` [[2025-08-18 - Effortless genius explanation|Effortless genius explanation]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Purium volcanic ash claim|Purium volcanic ash claim]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Romantic expression writing|Romantic expression writing]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Loan responsibility dispute|Loan responsibility dispute]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - PNC debit card PIN reset|PNC debit card PIN reset]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - Ketamine death risk|Ketamine death risk]]  #alan
+- 🟢 `2025-08-18` [[2025-08-18 - AI modern hit creation|AI modern hit creation]]  #alan #ai-workflow
+- 🟢 `2025-08-19` [[2025-08-19 - SIRT activator function|SIRT activator function]]  #alan #supplements
+- 🟢 `2025-08-19` [[2025-08-19 - Consciousness movement comparison|Consciousness movement comparison]]  #alan
+- 🟢 `2025-08-19` [[2025-08-19 - Dometic CFX5 footwell fit|Dometic CFX5 footwell fit]]  #alan
+- 🟢 `2025-08-19` [[2025-08-19 - Rebuilding love connection|Rebuilding love connection]]  #alan
+- 🟢 `2025-08-19` [[2025-08-19 - Song lyric search|Song lyric search]]  #alan
+- 🟢 `2025-08-19` [[2025-08-19 - Loyalty discount issue|Loyalty discount issue]]  #alan
+- 🟢 `2025-08-19` [[2025-08-19 - Presuppositions and language patterns|Presuppositions and language patterns]]  #alan
+- 🟢 `2025-08-19` [[2025-08-19 - Funny message rewrite|Funny message rewrite]]  #alan #fitness #health
+- 🟢 `2025-08-19` [[2025-08-19 - Rewrite message cuter|Rewrite message cuter]]  #alan
+- 🟢 `2025-08-19` [[2025-08-19 - User input|User input]]  #alan
+- 🟢 `2025-08-19` [[2025-08-19 - Invisalign aligner comparison|Invisalign aligner comparison]]  #alan
+- 🟢 `2025-08-19` [[2025-08-19 - Parking in ramp|Parking in ramp]]  #alan
+- 🟢 `2025-08-19` [[2025-08-19 - Effortless genius and niche|Effortless genius and niche]]  #alan
+- 🟢 `2025-08-20` [[2025-08-20 - Explain program details|Explain program details]]  #alan
+- 🟢 `2025-08-20` [[2025-08-20 - Somnambulism definition and details|Somnambulism definition and details]]  #alan
+- 🟢 `2025-08-20` [[2025-08-20 - Missed you message edit|Missed you message edit]]  #alan
+- 🟢 `2025-08-20` [[2025-08-20 - Rewrite for passion|Rewrite for passion]]  #alan
+- 🟢 `2025-08-20` [[2025-08-20 - Tesla Model Y WiFi speed|Tesla Model Y WiFi speed]]  #alan
+- 🟢 `2025-08-20` [[2025-08-20 - Write no-drama version|Write no-drama version]]  #alan
+- 🟢 `2025-08-20` [[2025-08-20 - Anytime fitness month-to-month options|Anytime fitness month-to-month options]]  #alan
+- 🟢 `2025-08-20` [[2025-08-20 - Emotional back-and-forth dynamics|Emotional back-and-forth dynamics]]  #alan #health #skin
+- 🟢 `2025-08-20` [[2025-08-20 - Refund and fees legality|Refund and fees legality]]  #alan
+- 🟢 `2025-08-20` [[2025-08-20 - Allergy relief blends|Allergy relief blends]]  #alan #supplements
+- 🟢 `2025-08-20` [[2025-08-20 - Weeks since June 4|Weeks since June 4]]  #alan
+- 🟢 `2025-08-21` [[2025-08-21 - Where is this video|Where is this video]]  #alan
+- 🟢 `2025-08-21` [[2025-08-21 - Server engagement suggestions|Server engagement suggestions]]  #alan
+- 🟢 `2025-08-21` [[2025-08-21 - Passionate affair recount|Passionate affair recount]]  #alan
+- 🟢 `2025-08-21` [[2025-08-21 - Stress and ovarian cysts|Stress and ovarian cysts]]  #alan #health #skin
+- 🟢 `2025-08-21` [[2025-08-21 - Overwhelm potential analysis|Overwhelm potential analysis]]  #alan
+- 🟢 `2025-08-21` [[2025-08-21 - Best folding cargo hitch|Best folding cargo hitch]]  #alan
+- 🟢 `2025-08-21` [[2025-08-21 - Polarizing attraction techniques|Polarizing attraction techniques]]  #alan
+- 🟢 `2025-08-21` [[2025-08-21 - Song lyric refinement|Song lyric refinement]]  #alan
+- 🟢 `2025-08-21` [[2025-08-21 - How to cook ahi tuna|How to cook ahi tuna]]  #alan
+- 🟢 `2025-08-21` [[2025-08-21 - Fun message rewrite|Fun message rewrite]]  #alan
+- 🟢 `2025-08-21` [[2025-08-21 - Refund legal options - First Interstate Bank|Refund legal options - First Interstate Bank]]  #alan #fib
+- 🟢 `2025-08-21` [[2025-08-21 - Wart-like growths on dog|Wart-like growths on dog]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Rewriting feelings gently|Rewriting feelings gently]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Starlink drop check|Starlink drop check]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Case summary|Case summary]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Rewrite suggestion|Rewrite suggestion]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Low light action cameras|Low light action cameras]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Compatible boxes for Yakima EXO|Compatible boxes for Yakima EXO]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Ikigai explanation|Ikigai explanation]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Ikigai niche and offer|Ikigai niche and offer]]  #alan #high-signal
+- 🟢 `2025-08-22` [[2025-08-22 - Swing hitch for Pelican box|Swing hitch for Pelican box]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Hitch cargo compatibility|Hitch cargo compatibility]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Karina respect loss reasons|Karina respect loss reasons]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Obstacle courses and remote viewing|Obstacle courses and remote viewing]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Trump EV tax credit|Trump EV tax credit]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - United States Corporation Debate|United States Corporation Debate]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Rewrite suggestion-2|Rewrite suggestion]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Cute response suggestions|Cute response suggestions]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Drinks for clear skin|Drinks for clear skin]]  #alan #health #skin
+- 🟢 `2025-08-22` [[2025-08-22 - Liquid glass vs graphene|Liquid glass vs graphene]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - New moon manifestation guide|New moon manifestation guide]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Love garden image request|Love garden image request]]  #alan
+- 🟢 `2025-08-22` [[2025-08-22 - Find FAA serial number|Find FAA serial number]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Buzzing noise cause|Buzzing noise cause]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Removing stuck suction cup|Removing stuck suction cup]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Tesla charging with Yakima|Tesla charging with Yakima]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Women age and childbirth|Women age and childbirth]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Wedding Crashers quote|Wedding Crashers quote]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Best plant protein powder|Best plant protein powder]]  #alan #fitness #health
+- 🟢 `2025-08-23` [[2025-08-23 - Email to Tesla complaint|Email to Tesla complaint]]  #alan #sales
+- 🟢 `2025-08-23` [[2025-08-23 - Medium rare steak oven|Medium rare steak oven]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Buzzing sound Tesla fix|Buzzing sound Tesla fix]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Tesla tire services costs|Tesla tire services costs]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Tesla cooler fit comparison|Tesla cooler fit comparison]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Military grade cargo box|Military grade cargo box]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Emotional scars explanation|Emotional scars explanation]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Create spiritual hub|Create spiritual hub]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Identifying your curse|Identifying your curse]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Vlogging gear for Tesla life|Vlogging gear for Tesla life]]  #alan
+- 🟢 `2025-08-23` [[2025-08-23 - Astrological and spiritual meanings|Astrological and spiritual meanings]]  #alan #mindset
+- 🟢 `2025-08-23` [[2025-08-23 - Dog swallowed plastic fork|Dog swallowed plastic fork]]  #alan
+- 🟢 `2025-08-24` [[2025-08-24 - Dairy Queen smoothie ingredients|Dairy Queen smoothie ingredients]]  #alan
+- 🟢 `2025-08-24` [[2025-08-24 - Decongesting from mucus fast|Decongesting from mucus fast]]  #alan
+- 🟢 `2025-08-24` [[2025-08-24 - Im8 review|Im8 review]]  #alan #fitness #health #supplements #high-signal
+- 🟢 `2025-08-24` [[2025-08-24 - Factor vs Ka'Chava comparison|Factor vs Ka'Chava comparison]]  #alan
+- 🟢 `2025-08-24` [[2025-08-24 - Portable supplement storage ideas|Portable supplement storage ideas]]  #alan #health #supplements
+- 🟢 `2025-08-24` [[2025-08-24 - Find Avata 2 Remote ID|Find Avata 2 Remote ID]]  #alan
+- 🟢 `2025-08-24` [[2025-08-24 - Securing Pelican Case Hitch|Securing Pelican Case Hitch]]  #alan
+- 🟢 `2025-08-24` [[2025-08-24 - Yakima GearLocker waterproofing|Yakima GearLocker waterproofing]]  #alan
+- 🟢 `2025-08-24` [[2025-08-24 - Mattress cover for SnüzPod|Mattress cover for SnüzPod]]  #alan
+- 🟢 `2025-08-24` [[2025-08-24 - Patent help options|Patent help options]]  #alan
+- 🟢 `2025-08-24` [[2025-08-24 - Akashic view on ketamine|Akashic view on ketamine]]  #alan
+- 🟢 `2025-08-24` [[2025-08-24 - Offer worksheet completion|Offer worksheet completion]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Rewrite description scene|Rewrite description scene]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Juniper trunk wheel well dimensions|Juniper trunk wheel well dimensions]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Make number negative|Make number negative]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Ketamine and 5D access|Ketamine and 5D access]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - MC1001 capacity in ML Oz|MC1001 capacity in ML Oz]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Birthday post writing|Birthday post writing]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Instant street hypnosis explained|Instant street hypnosis explained]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Titanium boards and knives|Titanium boards and knives]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Bitrate vs sound quality|Bitrate vs sound quality]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Hose size for faucet|Hose size for faucet]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - 3i atlas explanation|3i atlas explanation]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Avoidant lover dynamics|Avoidant lover dynamics]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Headlight bulb cost|Headlight bulb cost]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Private equity explained|Private equity explained]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Shiny object syndrome|Shiny object syndrome]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Tesla vlogs to 5K+|Tesla vlogs to 5K+]]  #alan #copywriting #marketing
+- 🟢 `2025-08-25` [[2025-08-25 - TRT impact on relationships|TRT impact on relationships]]  #alan #health #trt
+- 🟢 `2025-08-25` [[2025-08-25 - Tesla footwell cooler options|Tesla footwell cooler options]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Acceleration boost cost reasons|Acceleration boost cost reasons]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Exercising Your Organs|Exercising Your Organs]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Airbnb arbitrage viability|Airbnb arbitrage viability]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Top 10 wealthiest MN cities|Top 10 wealthiest MN cities]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Activating innate powers|Activating innate powers]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Oregon supernatural phenomena|Oregon supernatural phenomena]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Play music via USB-C|Play music via USB-C]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Add Roblox Guide|Add Roblox Guide]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Liquid Sunshine overview|Liquid Sunshine overview]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Navy Federal chargeback update|Navy Federal chargeback update]]  #alan #chargeback #credit #dispute #legal #scam
+- 🟢 `2025-08-25` [[2025-08-25 - Convert to plain text|Convert to plain text]]  #alan #chargeback #dispute #legal
+- 🟢 `2025-08-25` [[2025-08-25 - Visa dispute escalation process|Visa dispute escalation process]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Conned definition or case|Conned definition or case]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Tesla Camp Mode Issue|Tesla Camp Mode Issue]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Testosterone test alternatives|Testosterone test alternatives]]  #alan #bloodwork #health #supplements #trt
+- 🟢 `2025-08-25` [[2025-08-25 - Drop off syringes Walgreens|Drop off syringes Walgreens]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Sharps disposal options|Sharps disposal options]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Disable Tesla Bluetooth Auto-Connect|Disable Tesla Bluetooth Auto-Connect]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Funny response suggestion|Funny response suggestion]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Clarifying money blocks|Clarifying money blocks]]  #alan
+- 🟢 `2025-08-25` [[2025-08-25 - Soul aligned money path|Soul aligned money path]]  #alan #funding
+- 🟢 `2025-08-26` [[2025-08-26 - Surface prep tips|Surface prep tips]]  #alan
+- 🟢 `2025-08-26` [[2025-08-26 - Main character in The Office|Main character in The Office]]  #alan
+- 🟢 `2025-08-26` [[2025-08-26 - Graphene booster application guide|Graphene booster application guide]]  #alan
+- 🟢 `2025-08-26` [[2025-08-26 - Soul-aligned niche creation|Soul-aligned niche creation]]  #alan
+- 🟢 `2025-08-26` [[2025-08-26 - Soul aligned niche guidance|Soul aligned niche guidance]]  #alan
+- 🟢 `2025-08-26` [[2025-08-26 - Purium vs Ka'chava comparison|Purium vs Ka'chava comparison]]  #alan
+- 🟢 `2025-08-26` [[2025-08-26 - Tax exempt LLC ownership|Tax exempt LLC ownership]]  #alan #funding
+- 🟢 `2025-08-26` [[2025-08-26 - Arizona sandstorm explanation|Arizona sandstorm explanation]]  #alan
+- 🟢 `2025-08-26` [[2025-08-26 - Write motivating message|Write motivating message]]  #alan
+- 🟢 `2025-08-26` [[2025-08-26 - Things to do in Millston|Things to do in Millston]]  #alan #travel
+- 🟢 `2025-08-27` [[2025-08-27 - Death Vader clarification|Death Vader clarification]]  #alan
+- 🟢 `2025-08-27` [[2025-08-27 - Tony Robbins RPM method|Tony Robbins RPM method]]  #alan
+- 🟢 `2025-08-27` [[2025-08-27 - Escalation request FCBA Visa|Escalation request FCBA Visa]]  #alan #dispute #legal
+- 🟢 `2025-08-27` [[2025-08-27 - Visa chargeback escalation|Visa chargeback escalation]]  #alan #chargeback #dispute #legal
+- 🟢 `2025-08-27` [[2025-08-27 - Escalation request draft|Escalation request draft]]  #alan #dispute #legal
+- 🟢 `2025-08-27` [[2025-08-27 - Manchurian Candidate or Candida|Manchurian Candidate or Candida]]  #alan #hiring
+- 🟢 `2025-08-27` [[2025-08-27 - Profit calculation breakdown|Profit calculation breakdown]]  #alan
+- 🟢 `2025-08-27` [[2025-08-27 - New chat|New chat]]  #alan
+- 🟢 `2025-08-27` [[2025-08-27 - Meta Wayfarer FPS breakdown|Meta Wayfarer FPS breakdown]]  #alan
+- 🟢 `2025-08-27` [[2025-08-27 - Water purification business viability|Water purification business viability]]  #alan
+- 🟢 `2025-08-27` [[2025-08-27 - Craving cheesy burritos explained|Craving cheesy burritos explained]]  #alan #supplements
+- 🟢 `2025-08-27` [[2025-08-27 - Soulmate connection description|Soulmate connection description]]  #alan
+- 🟢 `2025-08-27` [[2025-08-27 - Fixing graphene streaks|Fixing graphene streaks]]  #alan
+- 🟢 `2025-08-27` [[2025-08-27 - Offer positioning advice|Offer positioning advice]]  #alan #funding
+- 🟢 `2025-08-27` [[2025-08-27 - Cancer and parasites myths|Cancer and parasites myths]]  #alan
+- 🟢 `2025-08-27` [[2025-08-27 - IUD acne breakout tips|IUD acne breakout tips]]  #alan #health #skin
+- 🟢 `2025-08-27` [[2025-08-27 - Exit real mode steps|Exit real mode steps]]  #alan
+- 🟢 `2025-08-28` [[2025-08-28 - Lisbon WI parks restrooms|Lisbon WI parks restrooms]]  #alan #travel
+- 🟢 `2025-08-28` [[2025-08-28 - Sale leaseback options|Sale leaseback options]]  #alan #negotiation
+- 🟢 `2025-08-28` [[2025-08-28 - CRO price outlook|CRO price outlook]]  #alan
+- 🟢 `2025-08-28` [[2025-08-28 - CRO vs BNB comparison|CRO vs BNB comparison]]  #alan
+- 🟢 `2025-08-28` [[2025-08-28 - Bank crypto purchase policy|Bank crypto purchase policy]]  #alan #sales
+- 🟢 `2025-08-28` [[2025-08-28 - Inquiry impact duration comparison|Inquiry impact duration comparison]]  #alan #credit
+- 🟢 `2025-08-28` [[2025-08-28 - Convert conversation to JSON|Convert conversation to JSON]]  #alan
+- 🟢 `2025-08-28` [[2025-08-28 - Ketamine and Aya Dieta|Ketamine and Aya Dieta]]  #alan #health
+- 🟢 `2025-08-28` [[2025-08-28 - No response given|No response given]]  #alan
+- 🟢 `2025-08-28` [[2025-08-28 - Interest on statement balance|Interest on statement balance]]  #alan
+- 🟢 `2025-08-28` [[2025-08-28 - Fatasmas humbe translation|Fatasmas humbe translation]]  #alan
+- 🟢 `2025-08-28` [[2025-08-28 - NCUA complaint outcome summary|NCUA complaint outcome summary]]  #alan
+- 🟢 `2025-08-28` [[2025-08-28 - Improving rental agreement|Improving rental agreement]]  #alan
+- 🟢 `2025-08-28` [[2025-08-28 - Carintine 3000 benefits and dosage|Carintine 3000 benefits and dosage]]  #alan
+- 🟢 `2025-08-29` [[2025-08-29 - Rewrite suggestion|Rewrite suggestion]]  #alan
+- 🟢 `2025-08-29` [[2025-08-29 - Fear avoidance loop|Fear avoidance loop]]  #alan
+- 🟢 `2025-08-29` [[2025-08-29 - Translate song lyrics|Translate song lyrics]]  #alan
+- 🟢 `2025-08-29` [[2025-08-29 - Ryze and parasite bloating|Ryze and parasite bloating]]  #alan
+- 🟢 `2025-08-29` [[2025-08-29 - Tesla footwell cooler fit|Tesla footwell cooler fit]]  #alan
+- 🟢 `2025-08-29` [[2025-08-29 - Abdominal pain after eating|Abdominal pain after eating]]  #alan
+- 🟢 `2025-08-29` [[2025-08-29 - Soulmate tarot reading|Soulmate tarot reading]]  #alan
+- 🟢 `2025-08-29` [[2025-08-29 - Best cold sandwich recipe|Best cold sandwich recipe]]  #alan
+- 🟢 `2025-08-29` [[2025-08-29 - Resentment and truth|Resentment and truth]]  #alan
+- 🟢 `2025-08-29` [[2025-08-29 - Dextroamphetamine and Aya risks|Dextroamphetamine and Aya risks]]  #alan #health #trt
+- 🟢 `2025-08-30` [[2025-08-30 - Aya for long-term depression|Aya for long-term depression]]  #alan
+- 🟢 `2025-08-30` [[2025-08-30 - Grey knockdown shield health|Grey knockdown shield health]]  #alan
+- 🟢 `2025-08-30` [[2025-08-30 - Root Cause film controversy|Root Cause film controversy]]  #alan
+- 🟢 `2025-08-30` [[2025-08-30 - Video impact assessment|Video impact assessment]]  #alan #health #skin
+- 🟢 `2025-08-30` [[2025-08-30 - Free Instagram transcription tools|Free Instagram transcription tools]]  #alan #instagram #marketing
+- 🟢 `2025-08-30` [[2025-08-30 - Redirecting energy tips|Redirecting energy tips]]  #alan
+- 🟢 `2025-08-30` [[2025-08-30 - Master manifestation meditation|Master manifestation meditation]]  #alan
+- 🟢 `2025-08-30` [[2025-08-30 - Song translation and meaning|Song translation and meaning]]  #alan
+- 🟢 `2025-08-30` [[2025-08-30 - Bloating causes analysis|Bloating causes analysis]]  #alan #fitness #health
+- 🟢 `2025-08-30` [[2025-08-30 - DeFi passive income risks|DeFi passive income risks]]  #alan #high-signal
+- 🟢 `2025-08-30` [[2025-08-30 - Identify character style|Identify character style]]  #alan
+- 🟢 `2025-08-30` [[2025-08-30 - Alternative love phrases|Alternative love phrases]]  #alan
+- 🟢 `2025-08-31` [[2025-08-31 - AmEx companion flight limits|AmEx companion flight limits]]  #alan #amex
+- 🟢 `2025-08-31` [[2025-08-31 - Stronger communication alternatives|Stronger communication alternatives]]  #alan
+- 🟢 `2025-08-31` [[2025-08-31 - Letting go of toxic bonds|Letting go of toxic bonds]]  #alan
+- 🟢 `2025-08-31` [[2025-08-31 - Chemical peel day four|Chemical peel day four]]  #alan
+- 🟢 `2025-08-31` [[2025-08-31 - AirPods Max vs competitors|AirPods Max vs competitors]]  #alan
+- 🟢 `2025-08-31` [[2025-08-31 - Medication and diet prep|Medication and diet prep]]  #alan #fitness #health #supplements
+- 🟢 `2025-08-31` [[2025-08-31 - Viral vax spraying debunked|Viral vax spraying debunked]]  #alan
+- 🟢 `2025-08-31` [[2025-08-31 - Russia adrenochrome claim debunked|Russia adrenochrome claim debunked]]  #alan
+
+## 2025-07  (440)
+
+- 🟢 `2025-07-01` [[2025-07-01 - Emotional Incongruence and Intimacy|Emotional Incongruence and Intimacy]]  #alan
+- 🟢 `2025-07-01` [[2025-07-01 - Prozac Emotional Disconnect Concern|Prozac Emotional Disconnect Concern]]  #alan
+- 🟢 `2025-07-01` [[2025-07-01 - Gallbladder Surgery and Recovery|Gallbladder Surgery and Recovery]]  #alan #fitness #health #surgery
+- 🟢 `2025-07-01` [[2025-07-01 - Star Wars Quote Request|Star Wars Quote Request]]  #alan
+- 🟢 `2025-07-01` [[2025-07-01 - Anime Couple Request|Anime Couple Request]]  #alan
+- 🟢 `2025-07-01` [[2025-07-01 - Gallbladder Replacement Possibility|Gallbladder Replacement Possibility]]  #alan
+- 🟢 `2025-07-01` [[2025-07-01 - Pool Party Reminder|Pool Party Reminder]]  #alan
+- 🟢 `2025-07-01` [[2025-07-01 - Celestial Stress Analysis|Celestial Stress Analysis]]  #alan
+- 🟢 `2025-07-01` [[2025-07-01 - 605B Block Review|605B Block Review]]  #alan
+- 🟢 `2025-07-01` [[2025-07-01 - Thread of Destiny|Thread of Destiny]]  #alan
+- 🟢 `2025-07-01` [[2025-07-01 - Emotional Pull and Distance|Emotional Pull and Distance]]  #alan
+- 🟢 `2025-07-01` [[2025-07-01 - Remove Duplicates Check|Remove Duplicates Check]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - Money-Making Models Comparison|Money-Making Models Comparison]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - Blank Document Analysis|Blank Document Analysis]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - Flirty Beach Sunset Rewrite|Flirty Beach Sunset Rewrite]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - MidJourney Discord Banner Zoom|MidJourney Discord Banner Zoom]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - How to Find Deals|How to Find Deals]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - Ryse Mushroom and Bloating|Ryse Mushroom and Bloating]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - Swollen Eyelid Relief|Swollen Eyelid Relief]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - Flirty Love Synonyms|Flirty Love Synonyms]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - AirDNA Occupancy Rate Accuracy|AirDNA Occupancy Rate Accuracy]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - L-Carnitine Effects Timeline|L-Carnitine Effects Timeline]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - MN Real ID Requirements|MN Real ID Requirements]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - Credit Reporting Delay|Credit Reporting Delay]]  #alan #credit #utilization
+- 🟢 `2025-07-02` [[2025-07-02 - Synonyms for Terrible|Synonyms for Terrible]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - OG Zaza Pizza Size|OG Zaza Pizza Size]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - Snow Whitening Comparison|Snow Whitening Comparison]]  #alan
+- 🟢 `2025-07-02` [[2025-07-02 - Blackstone Medium-Rare Steak Guide|Blackstone Medium-Rare Steak Guide]]  #alan
+- 🟢 `2025-07-03` [[2025-07-03 - Arrow S6 Plot Analysis|Arrow S6 Plot Analysis]]  #alan
+- 🟢 `2025-07-03` [[2025-07-03 - Fabletics Men's Tee Materials|Fabletics Men's Tee Materials]]  #alan
+- 🟢 `2025-07-03` [[2025-07-03 - L-Carnitine Melatonin Sleep Issues|L-Carnitine Melatonin Sleep Issues]]  #alan #health #supplements
+- 🟢 `2025-07-03` [[2025-07-03 - Chase Sapphire Reserve Approval|Chase Sapphire Reserve Approval]]  #alan
+- 🟢 `2025-07-03` [[2025-07-03 - Charge-Off Denial Options|Charge-Off Denial Options]]  #alan #credit
+- 🟢 `2025-07-03` [[2025-07-03 - Witness Requirement 605B Report|Witness Requirement 605B Report]]  #alan
+- 🟢 `2025-07-03` [[2025-07-03 - Mini Bundtini Calorie Count|Mini Bundtini Calorie Count]]  #alan
+- 🟢 `2025-07-03` [[2025-07-03 - Keep Steak Warm Rare|Keep Steak Warm Rare]]  #alan
+- 🟢 `2025-07-04` [[2025-07-04 - OMMA License Workaround Solutions|OMMA License Workaround Solutions]]  #alan
+- 🟢 `2025-07-04` [[2025-07-04 - CFPB Complaint TransUnion Violation|CFPB Complaint TransUnion Violation]]  #alan #cfpb #dispute #legal
+- 🟢 `2025-07-04` [[2025-07-04 - 4th of July Caption|4th of July Caption]]  #alan #copywriting #instagram #marketing
+- 🟢 `2025-07-04` [[2025-07-04 - Comfort Hoodie Comparison|Comfort Hoodie Comparison]]  #alan
+- 🟢 `2025-07-05` [[2025-07-05 - Knighting Ceremony Accolade Explained|Knighting Ceremony Accolade Explained]]  #alan
+- 🟢 `2025-07-05` [[2025-07-05 - Power Outage Cell Loss|Power Outage Cell Loss]]  #alan
+- 🟢 `2025-07-05` [[2025-07-05 - Good girl dynamics tips|Good girl dynamics tips]]  #alan
+- 🟢 `2025-07-05` [[2025-07-05 - BIOHM Greens Comparison|BIOHM Greens Comparison]]  #alan #supplements
+- 🟢 `2025-07-05` [[2025-07-05 - Shrimp Price Comparison|Shrimp Price Comparison]]  #alan
+- 🟢 `2025-07-06` [[2025-07-06 - Minnesota Self-Insurance Requirements|Minnesota Self-Insurance Requirements]]  #alan
+- 🟢 `2025-07-06` [[2025-07-06 - Steak Comparison Guide|Steak Comparison Guide]]  #alan #fitness #health
+- 🟢 `2025-07-06` [[2025-07-06 - Roasted Garlic Instructions|Roasted Garlic Instructions]]  #alan
+- 🟢 `2025-07-06` [[2025-07-06 - Fourth of July Fun|Fourth of July Fun]]  #alan #instagram #marketing
+- 🟢 `2025-07-06` [[2025-07-06 - FHA Loan Requirements Overview|FHA Loan Requirements Overview]]  #alan
+- 🟢 `2025-07-06` [[2025-07-06 - Baseball Drinking Game Rules|Baseball Drinking Game Rules]]  #alan
+- 🟢 `2025-07-06` [[2025-07-06 - Instant Manifestation for Abundance|Instant Manifestation for Abundance]]  #alan
+- 🟢 `2025-07-07` [[2025-07-07 - Fabletics vs Father & Sons|Fabletics vs Father & Sons]]  #alan
+- 🟢 `2025-07-07` [[2025-07-07 - Life Jacket Rules Cascade Bay|Life Jacket Rules Cascade Bay]]  #alan
+- 🟢 `2025-07-07` [[2025-07-07 - Solve Intelligence Hosting Location|Solve Intelligence Hosting Location]]  #alan
+- 🟢 `2025-07-07` [[2025-07-07 - Hard Inquiry Removal Limits|Hard Inquiry Removal Limits]]  #alan
+- 🟢 `2025-07-07` [[2025-07-07 - Gallbladder Health and Nutrition|Gallbladder Health and Nutrition]]  #alan #health
+- 🟢 `2025-07-07` [[2025-07-07 - Organic Stress Relief Stack|Organic Stress Relief Stack]]  #alan #health #supplements
+- 🟢 `2025-07-07` [[2025-07-07 - Account Application Appeal|Account Application Appeal]]  #alan
+- 🟢 `2025-07-07` [[2025-07-07 - Denial due to inquiries|Denial due to inquiries]]  #alan
+- 🟢 `2025-07-07` [[2025-07-07 - FCRA Violation Response Review|FCRA Violation Response Review]]  #alan #cfpb #credit #dispute #legal #scam
+- 🟢 `2025-07-07` [[2025-07-07 - Max Monthly Payment DTI|Max Monthly Payment DTI]]  #alan
+- 🟢 `2025-07-07` [[2025-07-07 - Best Self-Driving Hybrids 2025|Best Self-Driving Hybrids 2025]]  #alan
+- 🟢 `2025-07-07` [[2025-07-07 - Stripe Refund Fee Policy|Stripe Refund Fee Policy]]  #alan
+- 🟢 `2025-07-08` [[2025-07-08 - Nausea Relief Tips|Nausea Relief Tips]]  #alan
+- 🟢 `2025-07-08` [[2025-07-08 - MN Foreclosure Resources|MN Foreclosure Resources]]  #alan #family #legal #negotiation
+- 🟢 `2025-07-08` [[2025-07-08 - Elephant Challenge Summary|Elephant Challenge Summary]]  #alan
+- 🟢 `2025-07-08` [[2025-07-08 - Buybox Land Criteria Guide|Buybox Land Criteria Guide]]  #alan
+- 🟢 `2025-07-08` [[2025-07-08 - Finding Good Land Deals|Finding Good Land Deals]]  #alan
+- 🟢 `2025-07-08` [[2025-07-08 - TC Fee Explained|TC Fee Explained]]  #alan #legal #sales
+- 🟢 `2025-07-08` [[2025-07-08 - Multifamily Buy Box Guide|Multifamily Buy Box Guide]]  #alan
+- 🟢 `2025-07-08` [[2025-07-08 - Multifamily Buy Box Rewrite|Multifamily Buy Box Rewrite]]  #alan
+- 🟢 `2025-07-08` [[2025-07-08 - Off-Market Data Access|Off-Market Data Access]]  #alan
+- 🟢 `2025-07-08` [[2025-07-08 - Extreme Weather Impacts|Extreme Weather Impacts]]  #alan
+- 🟢 `2025-07-08` [[2025-07-08 - Klarna Interest Time Calculation|Klarna Interest Time Calculation]]  #alan
+- 🟢 `2025-07-08` [[2025-07-08 - Crispy Salmon Skin TO|Crispy Salmon Skin TO]]  #alan
+- 🟢 `2025-07-09` [[2025-07-09 - Emotional Detachment Strategy|Emotional Detachment Strategy]]  #alan #high-signal
+- 🟢 `2025-07-09` [[2025-07-09 - Snow Whitening Wand Timing|Snow Whitening Wand Timing]]  #alan
+- 🟢 `2025-07-09` [[2025-07-09 - Emotional Shutdown Strategy|Emotional Shutdown Strategy]]  #alan #high-signal
+- 🟢 `2025-07-09` [[2025-07-09 - Missed TRT Injection Advice|Missed TRT Injection Advice]]  #alan #health #trt
+- 🟢 `2025-07-09` [[2025-07-09 - Texas Flood Conspiracy Theories|Texas Flood Conspiracy Theories]]  #alan
+- 🟢 `2025-07-09` [[2025-07-09 - Oil of Oregano Benefits|Oil of Oregano Benefits]]  #alan
+- 🟢 `2025-07-09` [[2025-07-09 - CC App Assets Guide|CC App Assets Guide]]  #alan
+- 🟢 `2025-07-09` [[2025-07-09 - Bank Balance Ratings Overview|Bank Balance Ratings Overview]]  #alan
+- 🟢 `2025-07-09` [[2025-07-09 - Bird-Dogging vs Fix & Flip|Bird-Dogging vs Fix & Flip]]  #alan
+- 🟢 `2025-07-10` [[2025-07-10 - Steak Tips vs Sirloin|Steak Tips vs Sirloin]]  #alan #fitness #health
+- 🟢 `2025-07-10` [[2025-07-10 - CCE Refund Request Resolution|CCE Refund Request Resolution]]  #alan #dispute #funding #scam
+- 🟢 `2025-07-10` [[2025-07-10 - Non-Dairy Protein Alternatives|Non-Dairy Protein Alternatives]]  #alan #fitness #health
+- 🟢 `2025-07-10` [[2025-07-10 - Baby appearance inquiry|Baby appearance inquiry]]  #alan
+- 🟢 `2025-07-10` [[2025-07-10 - Fraud Block Denial Resolution|Fraud Block Denial Resolution]]  #alan #dispute #scam
+- 🟢 `2025-07-10` [[2025-07-10 - CSN Cream of Rice Protein|CSN Cream of Rice Protein]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-11` [[2025-07-11 - Core 100 vs NLP|Core 100 vs NLP]]  #alan
+- 🟢 `2025-07-11` [[2025-07-11 - Song Lyrics Search|Song Lyrics Search]]  #alan
+- 🟢 `2025-07-11` [[2025-07-11 - Emotional support and validation|Emotional support and validation]]  #alan
+- 🟢 `2025-07-11` [[2025-07-11 - Hydrolyzed vs WPI Comparison|Hydrolyzed vs WPI Comparison]]  #alan #fitness #health
+- 🟢 `2025-07-11` [[2025-07-11 - Conference Discount Inquiry|Conference Discount Inquiry]]  #alan #faegre #legal-tech
+- 🟢 `2025-07-11` [[2025-07-11 - Justification for Conference Attendance|Justification for Conference Attendance]]  #alan #negotiation
+- 🟢 `2025-07-11` [[2025-07-11 - First-Timer Discount Request|First-Timer Discount Request]]  #alan #procurement
+- 🟢 `2025-07-11` [[2025-07-11 - Telehealth Care Across States|Telehealth Care Across States]]  #alan
+- 🟢 `2025-07-11` [[2025-07-11 - ProcureCon Conference Justification|ProcureCon Conference Justification]]  #alan #legal #negotiation #procurement
+- 🟢 `2025-07-11` [[2025-07-11 - Emotional Support Strategy|Emotional Support Strategy]]  #alan #high-signal
+- 🟢 `2025-07-11` [[2025-07-11 - Florida Blue vs BCBS|Florida Blue vs BCBS]]  #alan
+- 🟢 `2025-07-11` [[2025-07-11 - Hotel rates request|Hotel rates request]]  #alan
+- 🟢 `2025-07-11` [[2025-07-11 - Bible on Women Roles|Bible on Women Roles]]  #alan
+- 🟢 `2025-07-11` [[2025-07-11 - Integrity and Boundaries in Love|Integrity and Boundaries in Love]]  #alan
+- 🟢 `2025-07-12` [[2025-07-12 - Upload Limit Efficiency|Upload Limit Efficiency]]  #alan
+- 🟢 `2025-07-12` [[2025-07-12 - Full Moon Astrology Summary|Full Moon Astrology Summary]]  #alan
+- 🟢 `2025-07-12` [[2025-07-12 - Father Love Blueprint Mastery|Father Love Blueprint Mastery]]  #alan #high-signal
+- 🟢 `2025-07-12` [[2025-07-12 - Josephine Literski Bio Rewrite|Josephine Literski Bio Rewrite]]  #josephine #contracts #faegre #legal #legal-tech #negotiation
+- 🟢 `2025-07-12` [[2025-07-12 - Veteran plan renewal details|Veteran plan renewal details]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Adult Fun at MOA|Adult Fun at MOA]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Boiling Chicken Temp Guide|Boiling Chicken Temp Guide]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Ideal Life Checklist|Ideal Life Checklist]]  #alan #high-signal
+- 🟢 `2025-07-13` [[2025-07-13 - Wells Fargo Card Limits|Wells Fargo Card Limits]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - DTI Calculation and Limits|DTI Calculation and Limits]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Melatonin and Hormonal Impact|Melatonin and Hormonal Impact]]  #alan #health #supplements
+- 🟢 `2025-07-13` [[2025-07-13 - Play YouTube in Discord|Play YouTube in Discord]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Skip next song Jockie|Skip next song Jockie]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - 20-10 Scale Breaker|20/10 Scale Breaker]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - 34+35 song meaning|34+35 song meaning]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Balance Sheet vs P&L|Balance Sheet vs P&L]]  #alan #branding #domains #legal
+- 🟢 `2025-07-13` [[2025-07-13 - Respectful Phone Distraction Talk|Respectful Phone Distraction Talk]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Disney Movie Recommendations|Disney Movie Recommendations]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Karina's Archetype Analysis|Karina's Archetype Analysis]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Shirt Size Recommendation|Shirt Size Recommendation]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Star Wars Reply Guide|Star Wars Reply Guide]]  #alan
+- 🟢 `2025-07-13` [[2025-07-13 - Pant Size Recommendation|Pant Size Recommendation]]  #alan
+- 🟢 `2025-07-14` [[2025-07-14 - Finding Legend Dupes|Finding Legend Dupes]]  #alan
+- 🟢 `2025-07-14` [[2025-07-14 - Land Opportunity Prospecting Strategy|Land Opportunity Prospecting Strategy]]  #alan #high-signal
+- 🟢 `2025-07-14` [[2025-07-14 - You as Technology|You as Technology]]  #alan
+- 🟢 `2025-07-14` [[2025-07-14 - TransUnion Ownership and Responsibility|TransUnion Ownership and Responsibility]]  #alan #credit #funding
+- 🟢 `2025-07-14` [[2025-07-14 - NOKT vs Thorne Sleep|NOKT vs Thorne Sleep]]  #alan #health #supplements
+- 🟢 `2025-07-14` [[2025-07-14 - Pre-Litigation Demand Letter|Pre-Litigation Demand Letter]]  #alan #demand-letter #dispute
+- 🟢 `2025-07-14` [[2025-07-14 - Dream Interpretation and Symbols|Dream Interpretation and Symbols]]  #alan
+- 🟢 `2025-07-14` [[2025-07-14 - Started at 1A Meaning|Started at 1A Meaning]]  #alan
+- 🟢 `2025-07-14` [[2025-07-14 - Inver Grove CC Membership|Inver Grove CC Membership]]  #alan
+- 🟢 `2025-07-14` [[2025-07-14 - Reddit Review Compliance|Reddit Review Compliance]]  #alan #dispute #funding #legal #scam
+- 🟢 `2025-07-14` [[2025-07-14 - Emotional Support in Relationships|Emotional Support in Relationships]]  #alan
+- 🟢 `2025-07-14` [[2025-07-14 - FIB COM BLGS Credit Report|FIB COM BLGS Credit Report]]  #alan #credit #fib
+- 🟢 `2025-07-15` [[2025-07-15 - Olive oil authenticity tips|Olive oil authenticity tips]]  #alan
+- 🟢 `2025-07-15` [[2025-07-15 - Regrow Broccoli in Water|Regrow Broccoli in Water]]  #alan
+- 🟢 `2025-07-15` [[2025-07-15 - Happy Hour Spots Eagan|Happy Hour Spots Eagan]]  #alan
+- 🟢 `2025-07-15` [[2025-07-15 - Chargeback Dispute Escalation|Chargeback Dispute Escalation]]  #alan #chargeback #credit #dispute #legal
+- 🟢 `2025-07-15` [[2025-07-15 - Delta SkyMiles Expiration Policy|Delta SkyMiles Expiration Policy]]  #alan
+- 🟢 `2025-07-15` [[2025-07-15 - Niche Identity Clarity|Niche Identity Clarity]]  #alan
+- 🟢 `2025-07-15` [[2025-07-15 - TRT Acne and Solutions|TRT Acne and Solutions]]  #alan #credit #health #skin #trt
+- 🟢 `2025-07-15` [[2025-07-15 - Flipping for 20K+|Flipping for 20K+]]  #alan
+- 🟢 `2025-07-15` [[2025-07-15 - Star Bank Local Size|Star Bank Local Size]]  #alan
+- 🟢 `2025-07-15` [[2025-07-15 - Telemetry Overview Explained|Telemetry Overview Explained]]  #alan
+- 🟢 `2025-07-15` [[2025-07-15 - USSFCU paystub verification|USSFCU paystub verification]]  #alan
+- 🟢 `2025-07-15` [[2025-07-15 - Truist vs Chase Transfers|Truist vs Chase Transfers]]  #alan
+- 🟢 `2025-07-15` [[2025-07-15 - Red flags in NDA|Red flags in NDA]]  #alan
+- 🟢 `2025-07-16` [[2025-07-16 - Red Roses for Cousin|Red Roses for Cousin]]  #alan
+- 🟢 `2025-07-16` [[2025-07-16 - Honmoon song lyrics|Honmoon song lyrics]]  #alan
+- 🟢 `2025-07-16` [[2025-07-16 - Narcissist God Complex|Narcissist God Complex]]  #alan
+- 🟢 `2025-07-16` [[2025-07-16 - Song Lyric Inquiry|Song Lyric Inquiry]]  #alan
+- 🟢 `2025-07-16` [[2025-07-16 - State tax on paystub|State tax on paystub]]  #alan
+- 🟢 `2025-07-16` [[2025-07-16 - Calculating employee deductions|Calculating employee deductions]]  #alan #finance
+- 🟢 `2025-07-17` [[2025-07-17 - Buyer list explanation|Buyer list explanation]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - Best buyers to call|Best buyers to call]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - Mouth bumps after eating|Mouth bumps after eating]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - BPC 157 forms comparison|BPC 157 forms comparison]]  #alan #health #trt
+- 🟢 `2025-07-17` [[2025-07-17 - Salmon sashimi safety tips|Salmon sashimi safety tips]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - Make sushi rice|Make sushi rice]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - Simplified product overview|Simplified product overview]]  #alan #supplements #high-signal
+- 🟢 `2025-07-17` [[2025-07-17 - Extract all website text|Extract all website text]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - SIRT-1 longevity activation|SIRT-1 longevity activation]]  #alan #branding #supplements
+- 🟢 `2025-07-17` [[2025-07-17 - Chase dispute enforcement plan|Chase dispute enforcement plan]]  #alan #cfpb #dispute #legal
+- 🟢 `2025-07-17` [[2025-07-17 - Oliver and Theo Party|Oliver and Theo Party]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - Interstellar blends sourcing info|Interstellar blends sourcing info]]  #alan #supplements
+- 🟢 `2025-07-17` [[2025-07-17 - Job Opportunity Follow-up|Job Opportunity Follow-up]]  #alan #legal
+- 🟢 `2025-07-17` [[2025-07-17 - Supernova vs Nebula|Supernova vs Nebula]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - Sum calculation result|Sum calculation result]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - Niacinamide vs TrySnow|Niacinamide vs TrySnow]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - Size recommendation premier look|Size recommendation premier look]]  #alan
+- 🟢 `2025-07-17` [[2025-07-17 - Bulletproof coffee fasting|Bulletproof coffee fasting]]  #alan #supplements #high-signal
+- 🟢 `2025-07-17` [[2025-07-17 - Interstellar fasting protocol|Interstellar fasting protocol]]  #alan #health #supplements #trt #high-signal
+- 🟢 `2025-07-17` [[2025-07-17 - Instagram bio revision|Instagram bio revision]]  #alan #instagram #marketing
+- 🟢 `2025-07-17` [[2025-07-17 - Bird dog summary|Bird dog summary]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Hoodie length details|Hoodie length details]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Resistance and energy misalignment|Resistance and energy misalignment]]  #alan #mindset
+- 🟢 `2025-07-18` [[2025-07-18 - Shark Week Prep Fun|Shark Week Prep Fun]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Psilocybin strain comparison|Psilocybin strain comparison]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Sagittarius Gemini compatibility|Sagittarius Gemini compatibility]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Bird dog real estate guide|Bird dog real estate guide]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Search secluded homes Airbnb|Search secluded homes Airbnb]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Best large SUVs with audio|Best large SUVs with audio]]  #alan #mindset
+- 🟢 `2025-07-18` [[2025-07-18 - Wells Fargo prequalification results|Wells Fargo prequalification results]]  #alan #credit #utilization
+- 🟢 `2025-07-18` [[2025-07-18 - Mushroom strain identification|Mushroom strain identification]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Clothing measurements estimate|Clothing measurements estimate]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Third CFPB complaint|Third CFPB complaint]]  #alan #cfpb #dispute #legal
+- 🟢 `2025-07-18` [[2025-07-18 - Tesla Model Y AWD vs RWD|Tesla Model Y AWD vs RWD]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Chevy Volt trims comparison|Chevy Volt trims comparison]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Liver dishes nearby|Liver dishes nearby]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - See Me Now Summary|See Me Now Summary]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Never say I didn’t|Never say I didn’t]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Shappy Stuff Removed|Shappy Stuff Removed]]  #alan
+- 🟢 `2025-07-18` [[2025-07-18 - Nordstrom Return Policy Summary|Nordstrom Return Policy Summary]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Tesla loan eligibility|Tesla loan eligibility]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Red flags in terms of use|Red flags in terms of use]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - RWD vs AWD Tesla|RWD vs AWD Tesla]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Model Y vs Juniper 26 audio|Model Y vs Juniper 26 audio]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - TX delivery MN registration|TX delivery MN registration]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Obsessed with Tesla Purchase|Obsessed with Tesla Purchase]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - FSD purchase vs subscription|FSD purchase vs subscription]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Finance Tesla with business credit|Finance Tesla with business credit]]  #alan #business-credit #credit
+- 🟢 `2025-07-19` [[2025-07-19 - Trustpilot compliance review|Trustpilot compliance review]]  #alan #dispute #funding #legal #scam
+- 🟢 `2025-07-19` [[2025-07-19 - Fractured Ribs Healing Guide|Fractured Ribs Healing Guide]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Olives for Blood Type B|Olives for Blood Type B]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Sezzle payment options|Sezzle payment options]]  #alan #credit #tradeline
+- 🟢 `2025-07-19` [[2025-07-19 - Financial discipline vs lust|Financial discipline vs lust]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Tesla model generations|Tesla model generations]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Boats n Hoes Lyrics|Boats n Hoes Lyrics]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - What is GHB|What is GHB]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Upcoming EDM healing festivals|Upcoming EDM healing festivals]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Crypto mining profitability 2025|Crypto mining profitability 2025]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - kWh to gas equivalent|kWh to gas equivalent]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Tesla EV incentive explanation|Tesla EV incentive explanation]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Tesla water pump options|Tesla water pump options]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Credit card interest calculation|Credit card interest calculation]]  #alan
+- 🟢 `2025-07-19` [[2025-07-19 - Rate loan terms analysis|Rate loan terms analysis]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Oil change interval 160K|Oil change interval 160K]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Beef liver benefits|Beef liver benefits]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Flirty Responses Unleashed|Flirty Responses Unleashed]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Cost of Robux pricing|Cost of Robux pricing]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Minnesota tint limits|Minnesota tint limits]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Not So K Moms Happy Hour|Not So K Moms Happy Hour]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - What does I'm 426 mean|What does I'm 426 mean]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Signing risks breakdown|Signing risks breakdown]]  #alan #legal
+- 🟢 `2025-07-20` [[2025-07-20 - Tesla insurance vs Geico|Tesla insurance vs Geico]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Sleep debt or deeper issues|Sleep debt or deeper issues]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-20` [[2025-07-20 - Words Stronger Than Addicted|Words Stronger Than Addicted]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Week calculation from July 19|Week calculation from July 19]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Tesla contracts business use|Tesla contracts business use]]  #alan #legal
+- 🟢 `2025-07-20` [[2025-07-20 - Check Honda Pilot Drivetrain|Check Honda Pilot Drivetrain]]  #alan
+- 🟢 `2025-07-20` [[2025-07-20 - Coverage differences explained|Coverage differences explained]]  #alan #legal
+- 🟢 `2025-07-20` [[2025-07-20 - Misalignment causes stress|Misalignment causes stress]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Model Y filtration comparison|Model Y filtration comparison]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Tesla Model Y mattress comparison|Tesla Model Y mattress comparison]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Impeccable Precision|Impeccable Precision]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Lease agreement preparation|Lease agreement preparation]]  #alan #legal
+- 🟢 `2025-07-21` [[2025-07-21 - Pre-Approval Odds Explained|Pre-Approval Odds Explained]]  #alan #credit #utilization
+- 🟢 `2025-07-21` [[2025-07-21 - Cord blood truth check|Cord blood truth check]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Cashback vs points|Cashback vs points]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Best phone service options|Best phone service options]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Audible purchases without subscription|Audible purchases without subscription]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Apple Watch sleep trackers|Apple Watch sleep trackers]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Internet for travelers comparison|Internet for travelers comparison]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Free unlimited supercharging options|Free unlimited supercharging options]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Tesla vlogging tips|Tesla vlogging tips]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Tesla camping storage options|Tesla camping storage options]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Underwear Joke Direction|Underwear Joke Direction]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - TransUnion account access legality|TransUnion account access legality]]  #alan #ai-workflow #credit #dispute #scam
+- 🟢 `2025-07-21` [[2025-07-21 - What is a Data Center|What is a Data Center]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Permissible purposes for inquiries|Permissible purposes for inquiries]]  #alan #account-age #credit
+- 🟢 `2025-07-21` [[2025-07-21 - Remove hard inquiries fast|Remove hard inquiries fast]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Caribou auto loan refinance|Caribou auto loan refinance]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Date range calculation|Date range calculation]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Virgin vs non-virgin oil|Virgin vs non-virgin oil]]  #alan
+- 🟢 `2025-07-21` [[2025-07-21 - Washing white with colors|Washing white with colors]]  #alan
+- 🟢 `2025-07-22` [[2025-07-22 - Skull and Bones overview|Skull and Bones overview]]  #alan
+- 🟢 `2025-07-22` [[2025-07-22 - Price prediction for flights|Price prediction for flights]]  #alan
+- 🟢 `2025-07-22` [[2025-07-22 - PowerIQ confirmation request|PowerIQ confirmation request]]  #alan
+- 🟢 `2025-07-22` [[2025-07-22 - Stylize parameter issue|Stylize parameter issue]]  #alan
+- 🟢 `2025-07-22` [[2025-07-22 - Connecting Barb to Mark|Connecting Barb to Mark]]  #alan #procurement
+- 🟢 `2025-07-22` [[2025-07-22 - Relationship emotional assessment|Relationship emotional assessment]]  #alan
+- 🟢 `2025-07-22` [[2025-07-22 - Tesla mileage premium adjustment|Tesla mileage premium adjustment]]  #alan
+- 🟢 `2025-07-22` [[2025-07-22 - Mechanical coverage eligibility|Mechanical coverage eligibility]]  #alan
+- 🟢 `2025-07-22` [[2025-07-22 - Requested credit limit range|Requested credit limit range]]  #alan #personal-credit
+- 🟢 `2025-07-23` [[2025-07-23 - Owls symbolism explained|Owls symbolism explained]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Clarify message E|Clarify message E]]  #alan #legal
+- 🟢 `2025-07-23` [[2025-07-23 - Tesla financial relief options|Tesla financial relief options]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Chipotle vs Five Guys|Chipotle vs Five Guys]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Bank balance tiers breakdown|Bank balance tiers breakdown]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Best Tesla value options|Best Tesla value options]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Republic vs Corporation Debate|Republic vs Corporation Debate]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Big Sur night patrols|Big Sur night patrols]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - CareCredit credit pull|CareCredit credit pull]]  #alan #credit
+- 🟢 `2025-07-23` [[2025-07-23 - Big Sur car camping|Big Sur car camping]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - ChatGPT contract analysis|ChatGPT contract analysis]]  #alan #ai-workflow #legal
+- 🟢 `2025-07-23` [[2025-07-23 - Response validation and strength|Response validation and strength]]  #alan #legal
+- 🟢 `2025-07-23` [[2025-07-23 - Best camera for vlogging|Best camera for vlogging]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - AI agents for fast MRR|AI agents for fast MRR]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Car storage for Tesla Y|Car storage for Tesla Y]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Power stations comparison|Power stations comparison]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Data usage comparison|Data usage comparison]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Starlink on Tesla Model Y|Starlink on Tesla Model Y]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - House construction year|House construction year]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Air quality concerns 1917 furnace|Air quality concerns 1917 furnace]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Enhancing asymmetrical risk|Enhancing asymmetrical risk]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Best Airbnb markets ranked|Best Airbnb markets ranked]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Maximize income from $0|Maximize income from $0]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - First month deal strategy|First month deal strategy]]  #alan #high-signal
+- 🟢 `2025-07-23` [[2025-07-23 - Spam calls or spiritual message|Spam calls or spiritual message]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Texas electricity rates|Texas electricity rates]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Follow-me drones comparison|Follow-me drones comparison]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - House hack 4-plex strategy|House hack 4-plex strategy]]  #alan #funding #high-signal
+- 🟢 `2025-07-23` [[2025-07-23 - Invisalign vs SmileDirectClub|Invisalign vs SmileDirectClub]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Download Zoom transcript|Download Zoom transcript]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Transportation options OC to Tijuana|Transportation options OC to Tijuana]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Baseball Game Drinking Games|Baseball Game Drinking Games]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Send money via credit card|Send money via credit card]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Phone audio recording risks|Phone audio recording risks]]  #alan #tech
+- 🟢 `2025-07-23` [[2025-07-23 - Grok AI overview|Grok AI overview]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Remove TransUnion inquiries|Remove TransUnion inquiries]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Spoon size estimate|Spoon size estimate]]  #alan #supplements
+- 🟢 `2025-07-23` [[2025-07-23 - Pine pollen consumption advice|Pine pollen consumption advice]]  #alan #sales #supplements
+- 🟢 `2025-07-23` [[2025-07-23 - Fruble expedition diy guide|Fruble expedition diy guide]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Scarring treatment options|Scarring treatment options]]  #alan
+- 🟢 `2025-07-23` [[2025-07-23 - Wash pastels guide|Wash pastels guide]]  #alan
+- 🟢 `2025-07-24` [[2025-07-24 - Air 3S vs Mini 4 comparison|Air 3S vs Mini 4 comparison]]  #alan
+- 🟢 `2025-07-24` [[2025-07-24 - Ray Ban Meta vs Wayfarer|Ray Ban Meta vs Wayfarer]]  #alan
+- 🟢 `2025-07-24` [[2025-07-24 - Minnesota Beers Starting with M|Minnesota Beers Starting with M]]  #alan
+- 🟢 `2025-07-24` [[2025-07-24 - Emotional conversation support|Emotional conversation support]]  #alan
+- 🟢 `2025-07-24` [[2025-07-24 - Tesla Model Y plates process|Tesla Model Y plates process]]  #alan
+- 🟢 `2025-07-24` [[2025-07-24 - Goda Perfume Overview|Goda Perfume Overview]]  #alan
+- 🟢 `2025-07-24` [[2025-07-24 - Sr Contracts Manager Interest|Sr Contracts Manager Interest]]  #alan #legal #procurement
+- 🟢 `2025-07-24` [[2025-07-24 - Bloating and Back Pain Causes|Bloating and Back Pain Causes]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-24` [[2025-07-24 - Master bird dogging day 1|Master bird dogging day 1]]  #alan
+- 🟢 `2025-07-24` [[2025-07-24 - Health analysis of eyes|Health analysis of eyes]]  #alan
+- 🟢 `2025-07-24` [[2025-07-24 - Taking supplements safely|Taking supplements safely]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-25` [[2025-07-25 - Financial regret management|Financial regret management]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Late-night sushi options|Late-night sushi options]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Luteolin health benefits|Luteolin health benefits]]  #alan #supplements
+- 🟢 `2025-07-25` [[2025-07-25 - Charge EcoFlow with Tesla|Charge EcoFlow with Tesla]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Interest charge explanation|Interest charge explanation]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Huntington business checking fees|Huntington business checking fees]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Best cameras for vlogging|Best cameras for vlogging]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Home loan without income|Home loan without income]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - iPhone hardware suppliers|iPhone hardware suppliers]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Balancing boundaries and forgiveness|Balancing boundaries and forgiveness]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - New moon date details|New moon date details]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Bringing blends on plane|Bringing blends on plane]]  #alan #supplements
+- 🟢 `2025-07-25` [[2025-07-25 - Bashar's style and intuition|Bashar's style and intuition]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Emotional support strategies|Emotional support strategies]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Tesla Model Y bike rack|Tesla Model Y bike rack]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Sing like Nevertel|Sing like Nevertel]]  #alan #sales
+- 🟢 `2025-07-25` [[2025-07-25 - Top Office Quotes|Top Office Quotes]]  #alan
+- 🟢 `2025-07-25` [[2025-07-25 - Running Lakes Near Eagan|Running Lakes Near Eagan]]  #alan
+- 🟢 `2025-07-26` [[2025-07-26 - Nashville Southern Belle Vibe|Nashville Southern Belle Vibe]]  #alan #travel
+- 🟢 `2025-07-26` [[2025-07-26 - Boundary violation in relationships|Boundary violation in relationships]]  #alan
+- 🟢 `2025-07-26` [[2025-07-26 - Boundaries and emotional needs|Boundaries and emotional needs]]  #alan
+- 🟢 `2025-07-26` [[2025-07-26 - Salmon carpaccio price|Salmon carpaccio price]]  #alan
+- 🟢 `2025-07-26` [[2025-07-26 - Shake vs Shack comparison|Shake vs Shack comparison]]  #alan
+- 🟢 `2025-07-26` [[2025-07-26 - APR comparison Huntington cards|APR comparison Huntington cards]]  #alan #business-credit #credit
+- 🟢 `2025-07-26` [[2025-07-26 - Generate birth chart image|Generate birth chart image]]  #alan #mindset
+- 🟢 `2025-07-26` [[2025-07-26 - Quantum Codex Reading|Quantum Codex Reading]]  #alan #funding
+- 🟢 `2025-07-27` [[2025-07-27 - Cry Out Loud Ideas|Cry Out Loud Ideas]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - Feeling of danger explained|Feeling of danger explained]]  #alan #funding
+- 🟢 `2025-07-27` [[2025-07-27 - Bird dogging day breakdown|Bird dogging day breakdown]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - Tint laws comparison|Tint laws comparison]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - Nutrition stack optimization|Nutrition stack optimization]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-27` [[2025-07-27 - Next full moon date|Next full moon date]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - Ground zero to clients|Ground zero to clients]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - ChatGPT conversations in court|ChatGPT conversations in court]]  #alan #ai-workflow
+- 🟢 `2025-07-27` [[2025-07-27 - DJI Avata 2 for beginners|DJI Avata 2 for beginners]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - Viral video secrets|Viral video secrets]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - DJI mic tx and rx functions|DJI mic tx and rx functions]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - EcoFlow vs Anker Solix|EcoFlow vs Anker Solix]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - Best Anker Power Banks|Best Anker Power Banks]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - Best free AI video generators|Best free AI video generators]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - Best budget 8TB SSDs|Best budget 8TB SSDs]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - Financial alignment vs ego|Financial alignment vs ego]]  #alan
+- 🟢 `2025-07-27` [[2025-07-27 - AI smartphone return policies|AI smartphone return policies]]  #alan #credit
+- 🟢 `2025-07-27` [[2025-07-27 - Lawsuits for Late Payment Removal|Lawsuits for Late Payment Removal]]  #alan #funding #legal
+- 🟢 `2025-07-27` [[2025-07-27 - Overpaying for Data Usage|Overpaying for Data Usage]]  #alan #travel
+- 🟢 `2025-07-27` [[2025-07-27 - Tesla supercharger times|Tesla supercharger times]]  #alan
+- 🟢 `2025-07-28` [[2025-07-28 - AYCE hotpot near me|AYCE hotpot near me]]  #alan
+- 🟢 `2025-07-28` [[2025-07-28 - DVS FPS Frametime Settings|DVS FPS Frametime Settings]]  #alan
+- 🟢 `2025-07-28` [[2025-07-28 - Best value JBL speakers|Best value JBL speakers]]  #alan #dispute #scam
+- 🟢 `2025-07-28` [[2025-07-28 - Biome vs digestive greens|Biome vs digestive greens]]  #alan
+- 🟢 `2025-07-28` [[2025-07-28 - Cramps after ovulation|Cramps after ovulation]]  #alan
+- 🟢 `2025-07-28` [[2025-07-28 - LMNT Daily Limit|LMNT Daily Limit]]  #alan
+- 🟢 `2025-07-28` [[2025-07-28 - Deranged Definition Explained|Deranged Definition Explained]]  #alan #travel
+- 🟢 `2025-07-28` [[2025-07-28 - Credit card refund status|Credit card refund status]]  #alan
+- 🟢 `2025-07-28` [[2025-07-28 - Best markets for buybox|Best markets for buybox]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Realtor earnings overview|Realtor earnings overview]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Boston Tea Party Explanation|Boston Tea Party Explanation]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Transportation plan documents|Transportation plan documents]]  #alan #funding
+- 🟢 `2025-07-29` [[2025-07-29 - 100% LTC for Fix and Flip|100% LTC for Fix and Flip]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Finding quiet apartments|Finding quiet apartments]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Replace lost ID green card|Replace lost ID green card]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Song Lyrics Inquiry|Song Lyrics Inquiry]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Chin Temple Breakouts Causes|Chin Temple Breakouts Causes]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Transfer Google Calendar|Transfer Google Calendar]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Factory reset Google Nest|Factory reset Google Nest]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Amex business card types|Amex business card types]]  #alan #amex
+- 🟢 `2025-07-29` [[2025-07-29 - Spironolactone Acne Treatment Info|Spironolactone Acne Treatment Info]]  #alan #health #skin
+- 🟢 `2025-07-29` [[2025-07-29 - Lexington property buyers check|Lexington property buyers check]]  #alan
+- 🟢 `2025-07-29` [[2025-07-29 - Sorting commercial vs residential buyers|Sorting commercial vs residential buyers]]  #alan #address-strategy
+- 🟢 `2025-07-30` [[2025-07-30 - Leverage credit for profit|Leverage credit for profit]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Debt collection ID theft|Debt collection ID theft]]  #alan #dispute #scam
+- 🟢 `2025-07-30` [[2025-07-30 - Book comparison request|Book comparison request]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Program funding issues|Program funding issues]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Income increase and credit apps|Income increase and credit apps]]  #alan #amex
+- 🟢 `2025-07-30` [[2025-07-30 - Card type comparison|Card type comparison]]  #alan #amex
+- 🟢 `2025-07-30` [[2025-07-30 - Card comparison benefits|Card comparison benefits]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Tsunami warning update|Tsunami warning update]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Tesla vs Geico Insurance|Tesla vs Geico Insurance]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Natural focus boosters|Natural focus boosters]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - 30th vs 40th edition|30th vs 40th edition]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Purpose of The Goal|Purpose of The Goal]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Transfer statement timing|Transfer statement timing]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Huntington fee explanation|Huntington fee explanation]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Huntington fee waivers|Huntington fee waivers]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Navy Federal CLI timing|Navy Federal CLI timing]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - qlloans.com scam review|qlloans.com scam review]]  #alan #dispute #scam
+- 🟢 `2025-07-30` [[2025-07-30 - Truist business checking fees|Truist business checking fees]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - AI voicemail voice variations|AI voicemail voice variations]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Chase 5-24 approval tips|Chase 5/24 approval tips]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - US Bank approval inquiry|US Bank approval inquiry]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Subcontractor Jurisdiction Boundary Dispute|Subcontractor Jurisdiction Boundary Dispute]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - AI creator marketplace review|AI creator marketplace review]]  #alan #instagram #marketing
+- 🟢 `2025-07-30` [[2025-07-30 - Coinbase Solana wallet issue|Coinbase Solana wallet issue]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Repelling Woodpeckers Tips|Repelling Woodpeckers Tips]]  #alan #health #skin
+- 🟢 `2025-07-30` [[2025-07-30 - Credit Suite funding review|Credit Suite funding review]]  #alan #personal-credit
+- 🟢 `2025-07-30` [[2025-07-30 - Invisalign vs Braces cost|Invisalign vs Braces cost]]  #alan #branding #business-credit #credit #domains
+- 🟢 `2025-07-30` [[2025-07-30 - Reconsideration line tips|Reconsideration line tips]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Helix wheels vs stock|Helix wheels vs stock]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Private lender 20% gap|Private lender 20% gap]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Savings requirement at Huntington|Savings requirement at Huntington]]  #alan
+- 🟢 `2025-07-30` [[2025-07-30 - Unexpected deposit explanation|Unexpected deposit explanation]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - Personal credit and limits|Personal credit and limits]]  #alan #business-credit #credit #funding #personal-credit
+- 🟢 `2025-07-31` [[2025-07-31 - Change PDF author metadata|Change PDF author metadata]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - Assess red flags refund policy|Assess red flags refund policy]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - Nest Hub YouTube issue|Nest Hub YouTube issue]]  #alan #ai-workflow
+- 🟢 `2025-07-31` [[2025-07-31 - Blends and temperature preferences|Blends and temperature preferences]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-31` [[2025-07-31 - Fix location unavailable error|Fix location unavailable error]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - How Quicken Loans Works|How Quicken Loans Works]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - Hawaiian Island Starting with K|Hawaiian Island Starting with K]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - Driving with cargo box|Driving with cargo box]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - Akashic view on ADHD meds|Akashic view on ADHD meds]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - Property value estimate|Property value estimate]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - AI transcription vendors|AI transcription vendors]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - Exit points explained|Exit points explained]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - Quick fix and flip opportunities|Quick fix and flip opportunities]]  #alan
+- 🟢 `2025-07-31` [[2025-07-31 - How it works|How it works]]  #alan #supplements
+- 🟢 `2025-07-31` [[2025-07-31 - Liquidating credit cards 0%|Liquidating credit cards 0%]]  #alan #amex
+- 🟢 `2025-07-31` [[2025-07-31 - Credit application timing|Credit application timing]]  #alan #business-credit #credit #utilization
+- 🟢 `2025-07-31` [[2025-07-31 - Tesla Model Y wheel comparison|Tesla Model Y wheel comparison]]  #alan
+
+## 2025-06  (272)
+
+- 🟢 `2025-06-01` [[2025-06-01 - Wild Duck Food Safety|Wild Duck Food Safety]]  #alan
+- 🟢 `2025-06-01` [[2025-06-01 - Loan Approval Odds Analysis|Loan Approval Odds Analysis]]  #alan
+- 🟢 `2025-06-01` [[2025-06-01 - 2-Player Switch Guide|2-Player Switch Guide]]  #alan
+- 🟢 `2025-06-01` [[2025-06-01 - Zone 1 and 2 Training|Zone 1 and 2 Training]]  #alan
+- 🟢 `2025-06-02` [[2025-06-02 - Bitvae Whitening Tips|Bitvae Whitening Tips]]  #alan
+- 🟢 `2025-06-02` [[2025-06-02 - Memory Integrity Gaming Impact|Memory Integrity Gaming Impact]]  #alan
+- 🟢 `2025-06-02` [[2025-06-02 - TikTok Profile View Limit|TikTok Profile View Limit]]  #alan
+- 🟢 `2025-06-02` [[2025-06-02 - Tease and Control Dynamics|Tease and Control Dynamics]]  #alan
+- 🟢 `2025-06-02` [[2025-06-02 - Late Payment Removal Methods|Late Payment Removal Methods]]  #alan #funding
+- 🟢 `2025-06-02` [[2025-06-02 - TPD Discharge Credit Impact|TPD Discharge Credit Impact]]  #alan #credit
+- 🟢 `2025-06-02` [[2025-06-02 - Amphetamine Anxiety Relief Guide|Amphetamine Anxiety Relief Guide]]  #alan #fitness #health #supplements
+- 🟢 `2025-06-02` [[2025-06-02 - Business Ownership Accuracy|Business Ownership Accuracy]]  #alan
+- 🟢 `2025-06-03` [[2025-06-03 - ALGS Pro League Schedule|ALGS Pro League Schedule]]  #alan
+- 🟢 `2025-06-03` [[2025-06-03 - West Coast Road Trip|West Coast Road Trip]]  #alan
+- 🟢 `2025-06-03` [[2025-06-03 - Why I Want IVO|Why I Want IVO]]  #alan #contracts #faegre #legal #legal-tech #negotiation
+- 🟢 `2025-06-03` [[2025-06-03 - Red Flags in Terms|Red Flags in Terms]]  #alan #branding
+- 🟢 `2025-06-03` [[2025-06-03 - NAICS Codes for Funding|NAICS Codes for Funding]]  #alan #business-credit #credit #funding
+- 🟢 `2025-06-03` [[2025-06-03 - Finding First Interstate Bank Data|Finding First Interstate Bank Data]]  #alan #fib
+- 🟢 `2025-06-03` [[2025-06-03 - Grateful for the Tea|Grateful for the Tea]]  #alan
+- 🟢 `2025-06-03` [[2025-06-03 - NAICS code for skymanhua|NAICS code for skymanhua]]  #alan #funding
+- 🟢 `2025-06-04` [[2025-06-04 - Filling Out Financial Statement|Filling Out Financial Statement]]  #alan #finance
+- 🟢 `2025-06-04` [[2025-06-04 - Airbnb Revenue Estimate|Airbnb Revenue Estimate]]  #alan
+- 🟢 `2025-06-04` [[2025-06-04 - LLC Resolution Template|LLC Resolution Template]]  #alan #legal
+- 🟢 `2025-06-04` [[2025-06-04 - FTFCU Odyssey Approval Odds|FTFCU Odyssey Approval Odds]]  #alan
+- 🟢 `2025-06-04` [[2025-06-04 - Remove Blue Light iPhone|Remove Blue Light iPhone]]  #alan
+- 🟢 `2025-06-04` [[2025-06-04 - Capital One Credit Limit|Capital One Credit Limit]]  #alan #funding
+- 🟢 `2025-06-04` [[2025-06-04 - Hard Inquiry Removal Risks|Hard Inquiry Removal Risks]]  #alan #personal-credit
+- 🟢 `2025-06-04` [[2025-06-04 - Sleep Aid Stack Tips|Sleep Aid Stack Tips]]  #alan #health #supplements
+- 🟢 `2025-06-04` [[2025-06-04 - Aug 15 vs Full Moon|Aug 15 vs Full Moon]]  #alan
+- 🟢 `2025-06-04` [[2025-06-04 - Monthly SUV Rental Options|Monthly SUV Rental Options]]  #alan
+- 🟢 `2025-06-04` [[2025-06-04 - Legit Paystub Creation Guide|Legit Paystub Creation Guide]]  #alan #funding #legal
+- 🟢 `2025-06-04` [[2025-06-04 - AOI vs AOO MN LLC|AOI vs AOO MN LLC]]  #alan
+- 🟢 `2025-06-04` [[2025-06-04 - Consulting Agreement Red Flags|Consulting Agreement Red Flags]]  #alan
+- 🟢 `2025-06-04` [[2025-06-04 - High-ROI STR Locations|High-ROI STR Locations]]  #alan
+- 🟢 `2025-06-04` [[2025-06-04 - SLT STR Compliance Guide|SLT STR Compliance Guide]]  #alan #legal
+- 🟢 `2025-06-05` [[2025-06-05 - Income for Apple Card Approval|Income for Apple Card Approval]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - Equifax Hard Inquiry Removal|Equifax Hard Inquiry Removal]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - Astro Chart Compatibility Help|Astro Chart Compatibility Help]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - How Many Pizzas Needed|How Many Pizzas Needed]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - Pizza Quantity Estimation|Pizza Quantity Estimation]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - NSF Payment Impact on NFCU|NSF Payment Impact on NFCU]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - Highest Credit Card Limit|Highest Credit Card Limit]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - Highest PNC Credit Limit|Highest PNC Credit Limit]]  #alan #personal-credit
+- 🟢 `2025-06-05` [[2025-06-05 - Highest Credit Limit Truist|Highest Credit Limit Truist]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - Remove PDF Author|Remove PDF Author]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - Card Assets Explanation|Card Assets Explanation]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - Balance Sheet vs P&L|Balance Sheet vs P&L]]  #alan
+- 🟢 `2025-06-05` [[2025-06-05 - Signing Instructions Clarified|Signing Instructions Clarified]]  #alan
+- 🟢 `2025-06-06` [[2025-06-06 - LLC in Canada Banking|LLC in Canada Banking]]  #alan
+- 🟢 `2025-06-06` [[2025-06-06 - Loan Payoff Breakdown|Loan Payoff Breakdown]]  #alan
+- 🟢 `2025-06-06` [[2025-06-06 - Apple FCU Fees|Apple FCU Fees]]  #alan
+- 🟢 `2025-06-06` [[2025-06-06 - Low-risk STR Markets|Low-risk STR Markets]]  #alan
+- 🟢 `2025-06-06` [[2025-06-06 - Aven Income Verification Docs|Aven Income Verification Docs]]  #alan
+- 🟢 `2025-06-06` [[2025-06-06 - Equipment Loan vs Working Capital|Equipment Loan vs Working Capital]]  #alan #funding
+- 🟢 `2025-06-06` [[2025-06-06 - Fun Activities Eagan Toddlers|Fun Activities Eagan Toddlers]]  #alan
+- 🟢 `2025-06-06` [[2025-06-06 - Half Birthday Calculation|Half Birthday Calculation]]  #alan
+- 🟢 `2025-06-06` [[2025-06-06 - Equifax Hard Inquiry Removal|Equifax Hard Inquiry Removal]]  #alan
+- 🟢 `2025-06-06` [[2025-06-06 - Percentage Calculation|Percentage Calculation]]  #alan
+- 🟢 `2025-06-07` [[2025-06-07 - Car Camping in WA|Car Camping in WA]]  #alan
+- 🟢 `2025-06-07` [[2025-06-07 - Belly Fat Hormonal Imbalance|Belly Fat Hormonal Imbalance]]  #alan
+- 🟢 `2025-06-07` [[2025-06-07 - Auto Loan Impact on Credit|Auto Loan Impact on Credit]]  #alan #personal-credit
+- 🟢 `2025-06-07` [[2025-06-07 - Dinner Invitation Refinement|Dinner Invitation Refinement]]  #alan #ai-workflow
+- 🟢 `2025-06-07` [[2025-06-07 - Can dogs eat pineapple|Can dogs eat pineapple]]  #alan
+- 🟢 `2025-06-08` [[2025-06-08 - Lemonade Party Recap|Lemonade Party Recap]]  #alan
+- 🟢 `2025-06-08` [[2025-06-08 - Scam Detection Analysis|Scam Detection Analysis]]  #alan #dispute #mindset #scam
+- 🟢 `2025-06-08` [[2025-06-08 - Dark red spot chicken safety|Dark red spot chicken safety]]  #alan
+- 🟢 `2025-06-09` [[2025-06-09 - Belly Fat Burn Alternatives|Belly Fat Burn Alternatives]]  #alan #health #surgery
+- 🟢 `2025-06-09` [[2025-06-09 - Douxds Crush Usage Tips|Douxds Crush Usage Tips]]  #alan
+- 🟢 `2025-06-09` [[2025-06-09 - Logan's Team 2nd Place|Logan's Team 2nd Place]]  #alan
+- 🟢 `2025-06-09` [[2025-06-09 - Grandma Stroke Update|Grandma Stroke Update]]  #alan #tech
+- 🟢 `2025-06-09` [[2025-06-09 - TransUnion FCRA Violation|TransUnion FCRA Violation]]  #alan #cfpb #dispute #legal #scam
+- 🟢 `2025-06-09` [[2025-06-09 - Unemployment Benefits Miami Guide|Unemployment Benefits Miami Guide]]  #alan
+- 🟢 `2025-06-09` [[2025-06-09 - Auto Loan Impact on Credit|Auto Loan Impact on Credit]]  #alan #credit #utilization
+- 🟢 `2025-06-09` [[2025-06-09 - MCT vs Sesame Inflammation|MCT vs Sesame Inflammation]]  #alan
+- 🟢 `2025-06-09` [[2025-06-09 - Bank Ratings and Financials|Bank Ratings and Financials]]  #alan
+- 🟢 `2025-06-09` [[2025-06-09 - Tax Return Strategy for Funding|Tax Return Strategy for Funding]]  #alan #finance #high-signal
+- 🟢 `2025-06-09` [[2025-06-09 - Income Verification Clarification|Income Verification Clarification]]  #alan #branding #credit #domains #finance
+- 🟢 `2025-06-09` [[2025-06-09 - Tax Extension After Filing|Tax Extension After Filing]]  #alan
+- 🟢 `2025-06-09` [[2025-06-09 - Eager Beaver Opposite Terms|Eager Beaver Opposite Terms]]  #alan
+- 🟢 `2025-06-09` [[2025-06-09 - Dad's Effort for Us|Dad's Effort for Us]]  #alan
+- 🟢 `2025-06-09` [[2025-06-09 - Meaning of Nam-Myoho-Renge-Kyo|Meaning of Nam-Myoho-Renge-Kyo]]  #alan
+- 🟢 `2025-06-09` [[2025-06-09 - Alterian Hybrid Species Overview|Alterian Hybrid Species Overview]]  #alan
+- 🟢 `2025-06-10` [[2025-06-10 - Descriptions Clarification Request|Descriptions Clarification Request]]  #alan #credit #legal #high-signal
+- 🟢 `2025-06-10` [[2025-06-10 - STR Legality and Compliance Austin|STR Legality and Compliance Austin]]  #alan #legal
+- 🟢 `2025-06-10` [[2025-06-10 - First Interstate Bank Florida Query|First Interstate Bank Florida Query]]  #alan #fib
+- 🟢 `2025-06-10` [[2025-06-10 - Emotional Manipulation Strategies|Emotional Manipulation Strategies]]  #alan
+- 🟢 `2025-06-10` [[2025-06-10 - Deep Connection Questionnaire Game|Deep Connection Questionnaire Game]]  #alan
+- 🟢 `2025-06-10` [[2025-06-10 - Bacon safety after 36 hours|Bacon safety after 36 hours]]  #alan
+- 🟢 `2025-06-10` [[2025-06-10 - Emotional Support Strategy|Emotional Support Strategy]]  #alan #high-signal
+- 🟢 `2025-06-10` [[2025-06-10 - Emotional Pull and Silence|Emotional Pull and Silence]]  #alan
+- 🟢 `2025-06-10` [[2025-06-10 - IRS Form 8821 Explanation|IRS Form 8821 Explanation]]  #alan
+- 🟢 `2025-06-10` [[2025-06-10 - Credit Dispute Explanation|Credit Dispute Explanation]]  #alan #business-credit #credit
+- 🟢 `2025-06-10` [[2025-06-10 - Blast vs Wave Soccer|Blast vs Wave Soccer]]  #alan
+- 🟢 `2025-06-10` [[2025-06-10 - Business Credit Card P&L|Business Credit Card P&L]]  #alan #business-credit #credit
+- 🟢 `2025-06-10` [[2025-06-10 - IRAE Model Explanation|IRAE Model Explanation]]  #alan
+- 🟢 `2025-06-10` [[2025-06-10 - Acne Scar Treatments|Acne Scar Treatments]]  #alan #health #skin
+- 🟢 `2025-06-10` [[2025-06-10 - Songmics Shower Caddy Assembly|Songmics Shower Caddy Assembly]]  #alan
+- 🟢 `2025-06-11` [[2025-06-11 - Savor to Venture X Approval|Savor to Venture X Approval]]  #alan #funding
+- 🟢 `2025-06-11` [[2025-06-11 - Sleeping with Whitening Strips|Sleeping with Whitening Strips]]  #alan
+- 🟢 `2025-06-11` [[2025-06-11 - Vendor Corrective Action Plan|Vendor Corrective Action Plan]]  #alan
+- 🟢 `2025-06-11` [[2025-06-11 - Application Incomplete Checklist|Application Incomplete Checklist]]  #alan #high-signal
+- 🟢 `2025-06-11` [[2025-06-11 - TCM Signature Card Approval|TCM Signature Card Approval]]  #alan
+- 🟢 `2025-06-11` [[2025-06-11 - Card Issuers in MN|Card Issuers in MN]]  #alan #credit
+- 🟢 `2025-06-11` [[2025-06-11 - No-doc CC Income Guide|No-doc CC Income Guide]]  #alan #credit #funding #no-doc
+- 🟢 `2025-06-11` [[2025-06-11 - Red and Green Mixing|Red and Green Mixing]]  #alan
+- 🟢 `2025-06-11` [[2025-06-11 - Proof of Service Request|Proof of Service Request]]  #alan #finance
+- 🟢 `2025-06-11` [[2025-06-11 - Sell OK Cannabis Property|Sell OK Cannabis Property]]  #alan
+- 🟢 `2025-06-12` [[2025-06-12 - Loan Approval Estimate|Loan Approval Estimate]]  #alan
+- 🟢 `2025-06-12` [[2025-06-12 - Fix Yeti Mic Issue|Fix Yeti Mic Issue]]  #alan
+- 🟢 `2025-06-12` [[2025-06-12 - Parenting like horse taming|Parenting like horse taming]]  #alan
+- 🟢 `2025-06-12` [[2025-06-12 - FTC Report Expiration Dispute|FTC Report Expiration Dispute]]  #alan #legal
+- 🟢 `2025-06-12` [[2025-06-12 - Hair Product Comparison Guide|Hair Product Comparison Guide]]  #alan
+- 🟢 `2025-06-13` [[2025-06-13 - Emotional Manipulation Tactics|Emotional Manipulation Tactics]]  #alan
+- 🟢 `2025-06-13` [[2025-06-13 - Emotional Oscillation Analysis|Emotional Oscillation Analysis]]  #alan
+- 🟢 `2025-06-13` [[2025-06-13 - Mini-Inventor Challenge Idea|Mini-Inventor Challenge Idea]]  #alan
+- 🟢 `2025-06-13` [[2025-06-13 - Business Credit Card Denial|Business Credit Card Denial]]  #alan #business-credit #credit #dispute #scam
+- 🟢 `2025-06-13` [[2025-06-13 - Cycle Comfort and Support|Cycle Comfort and Support]]  #alan
+- 🟢 `2025-06-13` [[2025-06-13 - Best 50M Ultras USA|Best 50M Ultras USA]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - Missile Escalation Overview|Missile Escalation Overview]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - Emotional Reset Strategy|Emotional Reset Strategy]]  #alan #marketing #high-signal
+- 🟢 `2025-06-14` [[2025-06-14 - Emotional Lockup Communication Strategy|Emotional Lockup Communication Strategy]]  #alan #high-signal
+- 🟢 `2025-06-14` [[2025-06-14 - Chase approval with high utilization|Chase approval with high utilization]]  #alan #credit #utilization
+- 🟢 `2025-06-14` [[2025-06-14 - iPhone 13 Pro Length|iPhone 13 Pro Length]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - Ginny and Georgia Song|Ginny and Georgia Song]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - Homemade Box Brownies Tips|Homemade Box Brownies Tips]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - Bang Energy Health Review|Bang Energy Health Review]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - TRT Frequency Adjustment Guidance|TRT Frequency Adjustment Guidance]]  #alan #health #trt
+- 🟢 `2025-06-14` [[2025-06-14 - Change Messages Icon|Change Messages Icon]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - YouTube Kids Downloads Guide|YouTube Kids Downloads Guide]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - ChatGPT Ownership and Source|ChatGPT Ownership and Source]]  #alan #ai-workflow
+- 🟢 `2025-06-14` [[2025-06-14 - Intel i9-12900K Cores|Intel i9-12900K Cores]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - Portable PCs for Editing Gaming|Portable PCs for Editing Gaming]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - Borderlands 4 Ideal Specs|Borderlands 4 Ideal Specs]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - i5 vs i7 Performance|i5 vs i7 Performance]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - Mini ITX GPU Compatibility|Mini ITX GPU Compatibility]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - Overpowered 18-inch laptop specs|Overpowered 18-inch laptop specs]]  #alan #tech
+- 🟢 `2025-06-14` [[2025-06-14 - Radeon 780M Borderlands 4 Performance|Radeon 780M Borderlands 4 Performance]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - NFCU Homebuyers Choice Loan|NFCU Homebuyers Choice Loan]]  #alan
+- 🟢 `2025-06-14` [[2025-06-14 - Mastering Self-Hypnosis Techniques|Mastering Self-Hypnosis Techniques]]  #alan
+- 🟢 `2025-06-15` [[2025-06-15 - 1060 vs 1650 Borderlands 4|1060 vs 1650 Borderlands 4]]  #alan
+- 🟢 `2025-06-15` [[2025-06-15 - Ginny & Georgia S4 Spoilers|Ginny & Georgia S4 Spoilers]]  #alan
+- 🟢 `2025-06-15` [[2025-06-15 - Hot and Cold Relationships|Hot and Cold Relationships]]  #alan
+- 🟢 `2025-06-15` [[2025-06-15 - Happy Dad's Day Post|Happy Dad's Day Post]]  #alan #instagram #marketing #teaching
+- 🟢 `2025-06-15` [[2025-06-15 - Best 24-7 Gyms|Best 24/7 Gyms]]  #alan
+- 🟢 `2025-06-15` [[2025-06-15 - Best Playgrounds IGH|Best Playgrounds IGH]]  #alan #dispute #scam
+- 🟢 `2025-06-15` [[2025-06-15 - Scent Ranking and Appeal|Scent Ranking and Appeal]]  #alan
+- 🟢 `2025-06-15` [[2025-06-15 - Melatonin dosage for sleep|Melatonin dosage for sleep]]  #alan #health #supplements #trt
+- 🟢 `2025-06-16` [[2025-06-16 - Emotional Imbalance Analysis|Emotional Imbalance Analysis]]  #alan
+- 🟢 `2025-06-16` [[2025-06-16 - Salmon rice room temp safety|Salmon rice room temp safety]]  #alan
+- 🟢 `2025-06-16` [[2025-06-16 - TransUnion FTC Report Process|TransUnion FTC Report Process]]  #alan
+- 🟢 `2025-06-16` [[2025-06-16 - Notarized.com Legal Status|Notarized.com Legal Status]]  #alan #credit
+- 🟢 `2025-06-16` [[2025-06-16 - Duplicate Job First-Class Mailing|Duplicate Job First-Class Mailing]]  #alan
+- 🟢 `2025-06-16` [[2025-06-16 - Agreement Key Points Summary|Agreement Key Points Summary]]  #alan #legal
+- 🟢 `2025-06-16` [[2025-06-16 - Bamboo Rayon vs Cotton|Bamboo Rayon vs Cotton]]  #alan
+- 🟢 `2025-06-16` [[2025-06-16 - Avoiding Hard Inquiries U.S. Bank|Avoiding Hard Inquiries U.S. Bank]]  #alan #personal-credit
+- 🟢 `2025-06-16` [[2025-06-16 - TransUnion FCRA Noncompliance Complaint|TransUnion FCRA Noncompliance Complaint]]  #alan #cfpb #dispute #legal #high-signal
+- 🟢 `2025-06-16` [[2025-06-16 - Song clarification request|Song clarification request]]  #alan
+- 🟢 `2025-06-17` [[2025-06-17 - SavorOne to Venture Limit|SavorOne to Venture Limit]]  #alan
+- 🟢 `2025-06-17` [[2025-06-17 - Karina's Dream Plants|Karina's Dream Plants]]  #alan
+- 🟢 `2025-06-17` [[2025-06-17 - Wagon Wheel Song Origin|Wagon Wheel Song Origin]]  #alan
+- 🟢 `2025-06-17` [[2025-06-17 - Splitting Finances for Household|Splitting Finances for Household]]  #alan #fib
+- 🟢 `2025-06-17` [[2025-06-17 - Removing Burnt Stains Tips|Removing Burnt Stains Tips]]  #alan
+- 🟢 `2025-06-17` [[2025-06-17 - Engaging Karina Emotionally|Engaging Karina Emotionally]]  #alan
+- 🟢 `2025-06-18` [[2025-06-18 - Parasite or Undigested Food|Parasite or Undigested Food]]  #alan
+- 🟢 `2025-06-18` [[2025-06-18 - No‑Doc Lending Florida|No‑Doc Lending Florida]]  #alan #fib #funding
+- 🟢 `2025-06-18` [[2025-06-18 - Organic Rice Protein Safety|Organic Rice Protein Safety]]  #alan #fitness #health
+- 🟢 `2025-06-18` [[2025-06-18 - Protein Calorie Ratio Comparison|Protein Calorie Ratio Comparison]]  #alan #fitness #health #supplements
+- 🟢 `2025-06-18` [[2025-06-18 - Cascade Head Location Info|Cascade Head Location Info]]  #alan
+- 🟢 `2025-06-18` [[2025-06-18 - Funding Eligibility Comparison|Funding Eligibility Comparison]]  #alan #address-strategy #funding
+- 🟢 `2025-06-18` [[2025-06-18 - New Home Construction Low|New Home Construction Low]]  #alan
+- 🟢 `2025-06-18` [[2025-06-18 - Online Print and Ship Services|Online Print and Ship Services]]  #alan
+- 🟢 `2025-06-18` [[2025-06-18 - Wholesale Land Flipping Markets|Wholesale Land Flipping Markets]]  #alan
+- 🟢 `2025-06-18` [[2025-06-18 - Amen Song Inquiry|Amen Song Inquiry]]  #alan
+- 🟢 `2025-06-18` [[2025-06-18 - Lazy $100K-month Strategy|Lazy $100K/month Strategy]]  #alan #high-signal
+- 🟢 `2025-06-18` [[2025-06-18 - RTFD vs RTF Upload|RTFD vs RTF Upload]]  #alan #ai-workflow
+- 🟢 `2025-06-18` [[2025-06-18 - Invisalign vs SDC Comparison|Invisalign vs SDC Comparison]]  #alan
+- 🟢 `2025-06-18` [[2025-06-18 - Funding Company Fees Evaluation|Funding Company Fees Evaluation]]  #alan #legal
+- 🟢 `2025-06-18` [[2025-06-18 - TRT Dose Frequency Adjustment|TRT Dose Frequency Adjustment]]  #alan #health #trt
+- 🟢 `2025-06-19` [[2025-06-19 - Hard Costs of Drinks|Hard Costs of Drinks]]  #alan #finance
+- 🟢 `2025-06-19` [[2025-06-19 - GPT Communication Framework|GPT Communication Framework]]  #alan #high-signal
+- 🟢 `2025-06-19` [[2025-06-19 - Investment Asymmetry Analysis|Investment Asymmetry Analysis]]  #alan
+- 🟢 `2025-06-19` [[2025-06-19 - Emotional Defense and Leadership|Emotional Defense and Leadership]]  #alan
+- 🟢 `2025-06-19` [[2025-06-19 - Wholesaling Land Playbook|Wholesaling Land Playbook]]  #alan #high-signal
+- 🟢 `2025-06-19` [[2025-06-19 - Vitamin C overdose limit|Vitamin C overdose limit]]  #alan
+- 🟢 `2025-06-19` [[2025-06-19 - Texas At-Will Employment Rules|Texas At-Will Employment Rules]]  #alan #legal
+- 🟢 `2025-06-19` [[2025-06-19 - Syncing Custom GPTs|Syncing Custom GPTs]]  #alan #legal
+- 🟢 `2025-06-19` [[2025-06-19 - Whitening Serum Comparison|Whitening Serum Comparison]]  #alan
+- 🟢 `2025-06-20` [[2025-06-20 - Emotional Withdrawal Strategy|Emotional Withdrawal Strategy]]  #alan #high-signal
+- 🟢 `2025-06-20` [[2025-06-20 - Emotional Sabotage Reset|Emotional Sabotage Reset]]  #alan
+- 🟢 `2025-06-21` [[2025-06-21 - Fortnite Cross-Platform Play|Fortnite Cross-Platform Play]]  #alan
+- 🟢 `2025-06-21` [[2025-06-21 - Change Fortnite Name Guide|Change Fortnite Name Guide]]  #alan
+- 🟢 `2025-06-21` [[2025-06-21 - Shred in 30 Days|Shred in 30 Days]]  #alan #health #legal #supplements
+- 🟢 `2025-06-21` [[2025-06-21 - Compression Socks for Shin Splints|Compression Socks for Shin Splints]]  #alan
+- 🟢 `2025-06-21` [[2025-06-21 - Sleep Debt Recovery Tips|Sleep Debt Recovery Tips]]  #alan
+- 🟢 `2025-06-21` [[2025-06-21 - Right Leg Cramp Diagnosis|Right Leg Cramp Diagnosis]]  #alan
+- 🟢 `2025-06-21` [[2025-06-21 - Can Dogs Eat Mac n Cheese|Can Dogs Eat Mac n Cheese]]  #alan
+- 🟢 `2025-06-22` [[2025-06-22 - Optimal Sleep Cycles|Optimal Sleep Cycles]]  #alan
+- 🟢 `2025-06-22` [[2025-06-22 - Apex Legends Spectate Menu|Apex Legends Spectate Menu]]  #alan
+- 🟢 `2025-06-22` [[2025-06-22 - Match Points Calculation|Match Points Calculation]]  #alan
+- 🟢 `2025-06-22` [[2025-06-22 - Admin vs Regular Match Code|Admin vs Regular Match Code]]  #alan
+- 🟢 `2025-06-22` [[2025-06-22 - Easy Chicken Pot Method|Easy Chicken Pot Method]]  #alan
+- 🟢 `2025-06-22` [[2025-06-22 - BMI Obesity Categories Explained|BMI Obesity Categories Explained]]  #alan
+- 🟢 `2025-06-23` [[2025-06-23 - Best Tequila Guide|Best Tequila Guide]]  #alan
+- 🟢 `2025-06-23` [[2025-06-23 - Apex Love Subconscious Techniques|Apex Love Subconscious Techniques]]  #alan #mindset
+- 🟢 `2025-06-23` [[2025-06-23 - Florida Business Credit Limits|Florida Business Credit Limits]]  #alan #business-credit #credit #fib #funding
+- 🟢 `2025-06-23` [[2025-06-23 - Best Edina Playgrounds|Best Edina Playgrounds]]  #alan
+- 🟢 `2025-06-23` [[2025-06-23 - Indoor Kids Activities Edina|Indoor Kids Activities Edina]]  #alan
+- 🟢 `2025-06-23` [[2025-06-23 - Dextroamphetamine and Sleep Impact|Dextroamphetamine and Sleep Impact]]  #alan #fitness #health #supplements
+- 🟢 `2025-06-23` [[2025-06-23 - Property Contract Checklist|Property Contract Checklist]]  #alan #legal #ops #sop #high-signal
+- 🟢 `2025-06-23` [[2025-06-23 - Custom Discord and Clan Tags|Custom Discord and Clan Tags]]  #alan
+- 🟢 `2025-06-24` [[2025-06-24 - Submission Link Viability|Submission Link Viability]]  #alan #legal
+- 🟢 `2025-06-24` [[2025-06-24 - Low Shine High Hold Hair|Low Shine High Hold Hair]]  #alan
+- 🟢 `2025-06-24` [[2025-06-24 - Trimmer Not Cutting Fix|Trimmer Not Cutting Fix]]  #alan
+- 🟢 `2025-06-24` [[2025-06-24 - Emotional Support vs Rational Action|Emotional Support vs Rational Action]]  #alan
+- 🟢 `2025-06-24` [[2025-06-24 - BudgetAir legit or scam|BudgetAir legit or scam]]  #alan #dispute #scam
+- 🟢 `2025-06-24` [[2025-06-24 - Tomorrow Tonight Song Meaning|Tomorrow Tonight Song Meaning]]  #alan
+- 🟢 `2025-06-24` [[2025-06-24 - Confirm Flight Booking Sun Country|Confirm Flight Booking Sun Country]]  #alan
+- 🟢 `2025-06-24` [[2025-06-24 - Bloating and Belly Fat Protocol|Bloating and Belly Fat Protocol]]  #alan #high-signal
+- 🟢 `2025-06-24` [[2025-06-24 - Copy SRT URL to TXT|Copy SRT URL to TXT]]  #alan
+- 🟢 `2025-06-24` [[2025-06-24 - Google Tools Audio Transcription|Google Tools Audio Transcription]]  #alan
+- 🟢 `2025-06-24` [[2025-06-24 - Token Count and Limits|Token Count and Limits]]  #alan #ai-workflow
+- 🟢 `2025-06-24` [[2025-06-24 - Token Count Summary|Token Count Summary]]  #alan #sales
+- 🟢 `2025-06-24` [[2025-06-24 - Audio to Text Transcription|Audio to Text Transcription]]  #alan
+- 🟢 `2025-06-24` [[2025-06-24 - Token Count Request|Token Count Request]]  #alan
+- 🟢 `2025-06-24` [[2025-06-24 - Wealth Beneath Your Feet Insights|Wealth Beneath Your Feet Insights]]  #alan #sales
+- 🟢 `2025-06-25` [[2025-06-25 - High Contrast Portrait Request|High Contrast Portrait Request]]  #alan #instagram #marketing
+- 🟢 `2025-06-25` [[2025-06-25 - View Pinterest Likes 2025|View Pinterest Likes 2025]]  #alan
+- 🟢 `2025-06-25` [[2025-06-25 - Emotional Safety Strategies|Emotional Safety Strategies]]  #alan
+- 🟢 `2025-06-25` [[2025-06-25 - Suspicious Relationship Dynamics|Suspicious Relationship Dynamics]]  #alan
+- 🟢 `2025-06-25` [[2025-06-25 - Traeger Pork Loin Recipe|Traeger Pork Loin Recipe]]  #alan
+- 🟢 `2025-06-25` [[2025-06-25 - Master Teacher Programming|Master Teacher Programming]]  #alan #mindset
+- 🟢 `2025-06-25` [[2025-06-25 - Mastery and Alignment Guide|Mastery and Alignment Guide]]  #alan #mindset
+- 🟢 `2025-06-25` [[2025-06-25 - Embodied Gratitude Practice|Embodied Gratitude Practice]]  #alan
+- 🟢 `2025-06-25` [[2025-06-25 - Top Manifestation Mentorships|Top Manifestation Mentorships]]  #alan #networking
+- 🟢 `2025-06-25` [[2025-06-25 - Steak Temp Guide|Steak Temp Guide]]  #alan
+- 🟢 `2025-06-25` [[2025-06-25 - Disable iPad Restrictions|Disable iPad Restrictions]]  #alan
+- 🟢 `2025-06-25` [[2025-06-25 - Drift Amber vs Forest Walk|Drift Amber vs Forest Walk]]  #alan
+- 🟢 `2025-06-25` [[2025-06-25 - Action Plan Realignment|Action Plan Realignment]]  #alan
+- 🟢 `2025-06-25` [[2025-06-25 - US Bank Credit Limits|US Bank Credit Limits]]  #alan #business-credit #credit
+- 🟢 `2025-06-26` [[2025-06-26 - Amount Ranking Summary|Amount Ranking Summary]]  #alan
+- 🟢 `2025-06-26` [[2025-06-26 - Higher You Mentorship Breakdown|Higher You Mentorship Breakdown]]  #alan #networking
+- 🟢 `2025-06-26` [[2025-06-26 - Colon Hydrotherapy for Bloating|Colon Hydrotherapy for Bloating]]  #alan
+- 🟢 `2025-06-26` [[2025-06-26 - Song identification request|Song identification request]]  #alan
+- 🟢 `2025-06-26` [[2025-06-26 - Income Verification Bypass|Income Verification Bypass]]  #alan
+- 🟢 `2025-06-26` [[2025-06-26 - MN Family Photo Spots|MN Family Photo Spots]]  #alan
+- 🟢 `2025-06-26` [[2025-06-26 - Brining Pork Loin Guide|Brining Pork Loin Guide]]  #alan
+- 🟢 `2025-06-26` [[2025-06-26 - TransUnion ID Theft Rejection|TransUnion ID Theft Rejection]]  #alan #credit
+- 🟢 `2025-06-26` [[2025-06-26 - Pool Party Invitation|Pool Party Invitation]]  #alan
+- 🟢 `2025-06-26` [[2025-06-26 - Recording Call Compliance MN|Recording Call Compliance MN]]  #alan #legal #high-signal
+- 🟢 `2025-06-26` [[2025-06-26 - TransUnion Legal Addresses|TransUnion Legal Addresses]]  #alan
+- 🟢 `2025-06-27` [[2025-06-27 - Itinerary Refinement|Itinerary Refinement]]  #alan #travel
+- 🟢 `2025-06-27` [[2025-06-27 - Sunflower Oil Health Effects|Sunflower Oil Health Effects]]  #alan
+- 🟢 `2025-06-27` [[2025-06-27 - Chase Biz Reporting Discrepancy|Chase Biz Reporting Discrepancy]]  #alan
+- 🟢 `2025-06-27` [[2025-06-27 - Addressing Misalignment Tactfully|Addressing Misalignment Tactfully]]  #alan
+- 🟢 `2025-06-27` [[2025-06-27 - Freezer Burn vs Mold|Freezer Burn vs Mold]]  #alan
+- 🟢 `2025-06-27` [[2025-06-27 - Anima Animus Music Alchemy|Anima Animus Music Alchemy]]  #alan
+- 🟢 `2025-06-27` [[2025-06-27 - Emotional Vulnerability and Power|Emotional Vulnerability and Power]]  #alan
+- 🟢 `2025-06-27` [[2025-06-27 - TransUnion 605B Block Denial|TransUnion 605B Block Denial]]  #alan
+- 🟢 `2025-06-27` [[2025-06-27 - TRT Skin Bumps Guide|TRT Skin Bumps Guide]]  #alan #health #trt
+- 🟢 `2025-06-27` [[2025-06-27 - Pork Loin Traeger Tips|Pork Loin Traeger Tips]]  #alan
+- 🟢 `2025-06-27` [[2025-06-27 - COSPO Cost Proposal Summary|COSPO Cost Proposal Summary]]  #alan
+- 🟢 `2025-06-28` [[2025-06-28 - Traeger Smoked Pork Loin|Traeger Smoked Pork Loin]]  #alan
+- 🟢 `2025-06-29` [[2025-06-29 - Boiling Chicken for Tenderness|Boiling Chicken for Tenderness]]  #alan
+- 🟢 `2025-06-29` [[2025-06-29 - Life Wealth Clarity Map|Life Wealth Clarity Map]]  #alan
+- 🟢 `2025-06-29` [[2025-06-29 - CFPB Complaint Draft|CFPB Complaint Draft]]  #alan #cfpb #dispute #legal
+- 🟢 `2025-06-29` [[2025-06-29 - Rapport Collapse Reset|Rapport Collapse Reset]]  #alan
+- 🟢 `2025-06-30` [[2025-06-30 - Kids Photo Captions|Kids Photo Captions]]  #alan #copywriting
+- 🟢 `2025-06-30` [[2025-06-30 - Add KTN Sun Country|Add KTN Sun Country]]  #alan
+- 🟢 `2025-06-30` [[2025-06-30 - Emotional Depth vs Withdrawal|Emotional Depth vs Withdrawal]]  #alan
+- 🟢 `2025-06-30` [[2025-06-30 - Emotional Unavailability Tactics|Emotional Unavailability Tactics]]  #alan
+- 🟢 `2025-06-30` [[2025-06-30 - RFP Scoring Methods|RFP Scoring Methods]]  #alan #procurement
+- 🟢 `2025-06-30` [[2025-06-30 - Unlock TransUnion Account Request|Unlock TransUnion Account Request]]  #alan
+
+## 2025-05  (266)
+
+- 🟢 `2025-05-01` [[2025-05-01 - DoorDash Promo Codes May|DoorDash Promo Codes May]]  #alan
+- 🟢 `2025-05-01` [[2025-05-01 - Carb Loading for Ultra|Carb Loading for Ultra]]  #alan
+- 🟢 `2025-05-01` [[2025-05-01 - Budget Request and Speaker|Budget Request and Speaker]]  #alan #procurement
+- 🟢 `2025-05-01` [[2025-05-01 - Survey Graph Tools|Survey Graph Tools]]  #alan
+- 🟢 `2025-05-01` [[2025-05-01 - Purchasing AUs Cost Analysis|Purchasing AUs Cost Analysis]]  #alan
+- 🟢 `2025-05-01` [[2025-05-01 - OCR to Google Sheets|OCR to Google Sheets]]  #alan #business-credit #credit
+- 🟢 `2025-05-02` [[2025-05-02 - Doubling to One Million|Doubling to One Million]]  #alan
+- 🟢 `2025-05-02` [[2025-05-02 - Resume Review and Improvement|Resume Review and Improvement]]  #alan
+- 🟢 `2025-05-02` [[2025-05-02 - Caffeine Gel Intake Guidelines|Caffeine Gel Intake Guidelines]]  #alan #ai-workflow
+- 🟢 `2025-05-02` [[2025-05-02 - Outside Counsel Guidelines Summary|Outside Counsel Guidelines Summary]]  #alan
+- 🟢 `2025-05-02` [[2025-05-02 - Business Credit Card Approval|Business Credit Card Approval]]  #alan #business-credit #credit
+- 🟢 `2025-05-02` [[2025-05-02 - Order Form Precedence Clause|Order Form Precedence Clause]]  #alan #faegre #legal #legal-tech
+- 🟢 `2025-05-02` [[2025-05-02 - Credit Stress Management|Credit Stress Management]]  #alan #funding #personal-credit
+- 🟢 `2025-05-02` [[2025-05-02 - Clarification on Program Support|Clarification on Program Support]]  #alan
+- 🟢 `2025-05-03` [[2025-05-03 - Renting with Day Trading|Renting with Day Trading]]  #alan #credit
+- 🟢 `2025-05-03` [[2025-05-03 - Apex to OAC Sensitivity|Apex to OAC Sensitivity]]  #alan
+- 🟢 `2025-05-03` [[2025-05-03 - Feel-Good Movie Recommendations|Feel-Good Movie Recommendations]]  #alan
+- 🟢 `2025-05-03` [[2025-05-03 - Nathan Hydro Pack Capacity|Nathan Hydro Pack Capacity]]  #alan
+- 🟢 `2025-05-03` [[2025-05-03 - Wart Causes and Transmission|Wart Causes and Transmission]]  #alan
+- 🟢 `2025-05-03` [[2025-05-03 - Steps for 7% Body Fat|Steps for 7% Body Fat]]  #alan
+- 🟢 `2025-05-04` [[2025-05-04 - Lower Back Pain Running|Lower Back Pain Running]]  #alan #health #surgery
+- 🟢 `2025-05-04` [[2025-05-04 - Bloating Digestive Troubleshooting|Bloating Digestive Troubleshooting]]  #alan
+- 🟢 `2025-05-04` [[2025-05-04 - 1000 Cypher TFT Guide|1000 Cypher TFT Guide]]  #alan
+- 🟢 `2025-05-04` [[2025-05-04 - Puppy in Mountain Sunset|Puppy in Mountain Sunset]]  #alan
+- 🟢 `2025-05-05` [[2025-05-05 - ALGS Open and Pro League|ALGS Open and Pro League]]  #alan
+- 🟢 `2025-05-05` [[2025-05-05 - TCM Data Sharing Query|TCM Data Sharing Query]]  #alan #credit
+- 🟢 `2025-05-05` [[2025-05-05 - Land Development No Money|Land Development No Money]]  #alan
+- 🟢 `2025-05-05` [[2025-05-05 - Income Limit Inquiry Strategy|Income Limit Inquiry Strategy]]  #alan #high-signal
+- 🟢 `2025-05-05` [[2025-05-05 - Flirty Rapport Building Tips|Flirty Rapport Building Tips]]  #alan
+- 🟢 `2025-05-05` [[2025-05-05 - Klarna Chargeback Dispute Escalation|Klarna Chargeback Dispute Escalation]]  #alan #cfpb #chargeback #dispute #legal #scam
+- 🟢 `2025-05-05` [[2025-05-05 - Credit Card Payment Timing|Credit Card Payment Timing]]  #alan #credit #utilization
+- 🟢 `2025-05-05` [[2025-05-05 - CFPB Complaint Chase Account Closure|CFPB Complaint Chase Account Closure]]  #alan #cfpb #dispute
+- 🟢 `2025-05-05` [[2025-05-05 - Staying in the US|Staying in the US]]  #alan
+- 🟢 `2025-05-05` [[2025-05-05 - $200-mo Business Vehicle Options|$200/mo Business Vehicle Options]]  #alan #business-credit #credit #personal-credit
+- 🟢 `2025-05-05` [[2025-05-05 - iPhone read recipes aloud|iPhone read recipes aloud]]  #alan
+- 🟢 `2025-05-05` [[2025-05-05 - Kia K5 Trim Differences|Kia K5 Trim Differences]]  #alan
+- 🟢 `2025-05-05` [[2025-05-05 - Turkey vs Beef Minerals|Turkey vs Beef Minerals]]  #alan
+- 🟢 `2025-05-05` [[2025-05-05 - Best Iron Supplements Women|Best Iron Supplements Women]]  #alan #health #supplements
+- 🟢 `2025-05-06` [[2025-05-06 - Mighty Ducks School Location|Mighty Ducks School Location]]  #alan
+- 🟢 `2025-05-06` [[2025-05-06 - Credit Data Organization|Credit Data Organization]]  #alan #credit #personal-credit #sales #utilization
+- 🟢 `2025-05-06` [[2025-05-06 - Bitter Milk Causes|Bitter Milk Causes]]  #alan
+- 🟢 `2025-05-06` [[2025-05-06 - Pulling Loose Tooth Tips|Pulling Loose Tooth Tips]]  #alan
+- 🟢 `2025-05-06` [[2025-05-06 - HSA Social Chair Experience|HSA Social Chair Experience]]  #alan #procurement
+- 🟢 `2025-05-06` [[2025-05-06 - LightStream Loan Review Process|LightStream Loan Review Process]]  #alan #account-age #credit
+- 🟢 `2025-05-06` [[2025-05-06 - Triple-pane Andersen Windows Savings|Triple-pane Andersen Windows Savings]]  #alan
+- 🟢 `2025-05-06` [[2025-05-06 - Low APR Personal Loans|Low APR Personal Loans]]  #alan
+- 🟢 `2025-05-06` [[2025-05-06 - Credit Report Formatting|Credit Report Formatting]]  #alan #credit #personal-credit #sales #utilization
+- 🟢 `2025-05-07` [[2025-05-07 - Kid-friendly Parks Hastings|Kid-friendly Parks Hastings]]  #alan
+- 🟢 `2025-05-07` [[2025-05-07 - PPI 32in 4K vs 27in 1440p|PPI 32in 4K vs 27in 1440p]]  #alan
+- 🟢 `2025-05-07` [[2025-05-07 - Delete Old Charge-Offs|Delete Old Charge-Offs]]  #alan #credit
+- 🟢 `2025-05-07` [[2025-05-07 - EMEET 4K Webcam Comparison|EMEET 4K Webcam Comparison]]  #alan
+- 🟢 `2025-05-07` [[2025-05-07 - Teacher Appreciation Gift Idea|Teacher Appreciation Gift Idea]]  #alan
+- 🟢 `2025-05-07` [[2025-05-07 - Adjunct Role Details|Adjunct Role Details]]  #alan
+- 🟢 `2025-05-07` [[2025-05-07 - Face Painting Balloon Services|Face Painting Balloon Services]]  #alan #faegre #legal-tech #procurement
+- 🟢 `2025-05-07` [[2025-05-07 - Table Price Options|Table Price Options]]  #alan
+- 🟢 `2025-05-07` [[2025-05-07 - 9% of 154000|9% of 154000]]  #alan
+- 🟢 `2025-05-07` [[2025-05-07 - Underwriters at First Interstate|Underwriters at First Interstate]]  #alan #fib
+- 🟢 `2025-05-07` [[2025-05-07 - Nausea and Fuzzy Vision|Nausea and Fuzzy Vision]]  #alan
+- 🟢 `2025-05-08` [[2025-05-08 - Hide Following on IG|Hide Following on IG]]  #alan #instagram #marketing
+- 🟢 `2025-05-08` [[2025-05-08 - Top Money-Making Opportunities|Top Money-Making Opportunities]]  #alan
+- 🟢 `2025-05-08` [[2025-05-08 - Spiritual Purpose Discovery Guide|Spiritual Purpose Discovery Guide]]  #alan
+- 🟢 `2025-05-08` [[2025-05-08 - Verification Issues with Application|Verification Issues with Application]]  #alan #fib
+- 🟢 `2025-05-08` [[2025-05-08 - Free Ticketing Referral System|Free Ticketing Referral System]]  #alan
+- 🟢 `2025-05-08` [[2025-05-08 - FNBO Credit Card Process|FNBO Credit Card Process]]  #alan #business-credit #credit
+- 🟢 `2025-05-08` [[2025-05-08 - Credit Denial Transparency Laws|Credit Denial Transparency Laws]]  #alan
+- 🟢 `2025-05-08` [[2025-05-08 - MN Security Deposit Interest|MN Security Deposit Interest]]  #alan
+- 🟢 `2025-05-08` [[2025-05-08 - GAP Plan Overview|GAP Plan Overview]]  #alan
+- 🟢 `2025-05-08` [[2025-05-08 - DCU auto loan process|DCU auto loan process]]  #alan
+- 🟢 `2025-05-08` [[2025-05-08 - DCU ACH Payment Failure|DCU ACH Payment Failure]]  #alan
+- 🟢 `2025-05-09` [[2025-05-09 - Business Credit Approval Help|Business Credit Approval Help]]  #alan #business-credit #credit #utilization
+- 🟢 `2025-05-09` [[2025-05-09 - Taurus Leo Compatibility Analysis|Taurus Leo Compatibility Analysis]]  #alan
+- 🟢 `2025-05-09` [[2025-05-09 - Using Blackstone After Seasoning|Using Blackstone After Seasoning]]  #alan
+- 🟢 `2025-05-09` [[2025-05-09 - Blackstone Seasoning Process|Blackstone Seasoning Process]]  #alan
+- 🟢 `2025-05-09` [[2025-05-09 - Land Flipping vs Wholesaling|Land Flipping vs Wholesaling]]  #alan
+- 🟢 `2025-05-09` [[2025-05-09 - High Limit Business Cards|High Limit Business Cards]]  #alan #business-credit #credit #funding
+- 🟢 `2025-05-09` [[2025-05-09 - NFCU Business Card Verification|NFCU Business Card Verification]]  #alan #business-credit #credit
+- 🟢 `2025-05-09` [[2025-05-09 - Banks pulling from Experian|Banks pulling from Experian]]  #alan #business-credit #credit
+- 🟢 `2025-05-10` [[2025-05-10 - Flying without a passport|Flying without a passport]]  #alan
+- 🟢 `2025-05-10` [[2025-05-10 - ACC Business Credit Cards|ACC Business Credit Cards]]  #alan #business-credit #credit
+- 🟢 `2025-05-10` [[2025-05-10 - iPhone Alarm Issue Fixes|iPhone Alarm Issue Fixes]]  #alan
+- 🟢 `2025-05-10` [[2025-05-10 - Airbnb Loan Payoff Analysis|Airbnb Loan Payoff Analysis]]  #alan
+- 🟢 `2025-05-10` [[2025-05-10 - Roof Replacement Inquiry|Roof Replacement Inquiry]]  #alan
+- 🟢 `2025-05-10` [[2025-05-10 - Beef Back Ribs on Blackstone|Beef Back Ribs on Blackstone]]  #alan
+- 🟢 `2025-05-10` [[2025-05-10 - Hide Followers on Instagram|Hide Followers on Instagram]]  #alan #instagram #marketing
+- 🟢 `2025-05-10` [[2025-05-10 - Nicotine for Alzheimer’s Risks|Nicotine for Alzheimer’s Risks]]  #alan
+- 🟢 `2025-05-11` [[2025-05-11 - Claircognizant vs Lucid Insight|Claircognizant vs Lucid Insight]]  #alan
+- 🟢 `2025-05-11` [[2025-05-11 - Speedway Pizza Sizes|Speedway Pizza Sizes]]  #alan
+- 🟢 `2025-05-11` [[2025-05-11 - Formula Creation Request|Formula Creation Request]]  #alan #copywriting
+- 🟢 `2025-05-11` [[2025-05-11 - Small Dogs and Cheese|Small Dogs and Cheese]]  #alan
+- 🟢 `2025-05-11` [[2025-05-11 - Remedying Guilt Through Alignment|Remedying Guilt Through Alignment]]  #alan
+- 🟢 `2025-05-12` [[2025-05-12 - Blackstone Joe Clarification|Blackstone Joe Clarification]]  #alan
+- 🟢 `2025-05-12` [[2025-05-12 - Flag Football Party Invite|Flag Football Party Invite]]  #alan
+- 🟢 `2025-05-12` [[2025-05-12 - Migraine Relief Tips|Migraine Relief Tips]]  #alan
+- 🟢 `2025-05-12` [[2025-05-12 - Gut Distension Diagnosis Tips|Gut Distension Diagnosis Tips]]  #alan
+- 🟢 `2025-05-12` [[2025-05-12 - AirPods Not Playing Audio|AirPods Not Playing Audio]]  #alan
+- 🟢 `2025-05-12` [[2025-05-12 - CRO vs BNB Growth|CRO vs BNB Growth]]  #alan
+- 🟢 `2025-05-12` [[2025-05-12 - Navy Federal Loan Deposit|Navy Federal Loan Deposit]]  #alan
+- 🟢 `2025-05-12` [[2025-05-12 - Organic Ashwagandha Pros Cons|Organic Ashwagandha Pros Cons]]  #alan #health #trt
+- 🟢 `2025-05-13` [[2025-05-13 - Age Conversion for Google Sheets|Age Conversion for Google Sheets]]  #alan
+- 🟢 `2025-05-13` [[2025-05-13 - SSN account myth debunked|SSN account myth debunked]]  #alan
+- 🟢 `2025-05-13` [[2025-05-13 - Mindset Workbook Guide|Mindset Workbook Guide]]  #alan #mindset
+- 🟢 `2025-05-13` [[2025-05-13 - Best MN Bar Hopping|Best MN Bar Hopping]]  #alan
+- 🟢 `2025-05-13` [[2025-05-13 - Vimeo CVT File Parsing|Vimeo CVT File Parsing]]  #alan
+- 🟢 `2025-05-13` [[2025-05-13 - Top BPC-157 Supplements|Top BPC-157 Supplements]]  #alan #health #supplements
+- 🟢 `2025-05-13` [[2025-05-13 - CWT and law firms|CWT and law firms]]  #alan
+- 🟢 `2025-05-13` [[2025-05-13 - LLC 501(c)(3) Tax-Exempt|LLC 501(c)(3) Tax-Exempt]]  #alan
+- 🟢 `2025-05-14` [[2025-05-14 - Comparing Detox Programs|Comparing Detox Programs]]  #alan
+- 🟢 `2025-05-14` [[2025-05-14 - Website Funding Optimization Guide|Website Funding Optimization Guide]]  #alan #branding #domains
+- 🟢 `2025-05-14` [[2025-05-14 - How to get verified|How to get verified]]  #alan #instagram #marketing
+- 🟢 `2025-05-14` [[2025-05-14 - Quantum Collapse and Time|Quantum Collapse and Time]]  #alan #marketing
+- 🟢 `2025-05-14` [[2025-05-14 - Perplexity vs GPT-4o|Perplexity vs GPT-4o]]  #alan
+- 🟢 `2025-05-14` [[2025-05-14 - Resolve Debt via Identity Theft|Resolve Debt via Identity Theft]]  #alan #funding
+- 🟢 `2025-05-14` [[2025-05-14 - Bank Search Tools MN|Bank Search Tools MN]]  #alan #fib #funding
+- 🟢 `2025-05-14` [[2025-05-14 - Payment Plan Proposal|Payment Plan Proposal]]  #alan
+- 🟢 `2025-05-14` [[2025-05-14 - Lucrative Lightworker|Lucrative Lightworker]]  #alan #amex #business-credit #credit #funding
+- 🟢 `2025-05-14` [[2025-05-14 - Birthday Gratitude Expressed|Birthday Gratitude Expressed]]  #alan
+- 🟢 `2025-05-14` [[2025-05-14 - CCE Contract Refund Help|CCE Contract Refund Help]]  #alan #legal
+- 🟢 `2025-05-14` [[2025-05-14 - TCM Business Card Approval|TCM Business Card Approval]]  #alan #amex
+- 🟢 `2025-05-14` [[2025-05-14 - Fathom AI Video Notes|Fathom AI Video Notes]]  #alan
+- 🟢 `2025-05-15` [[2025-05-15 - Traffic Control Alternatives|Traffic Control Alternatives]]  #alan
+- 🟢 `2025-05-15` [[2025-05-15 - Baller Success Framework|Baller Success Framework]]  #alan #mindset #high-signal
+- 🟢 `2025-05-15` [[2025-05-15 - Best Electrolytes on Amazon|Best Electrolytes on Amazon]]  #alan #health #supplements
+- 🟢 `2025-05-15` [[2025-05-15 - GCC Contract Red Flags|GCC Contract Red Flags]]  #alan #contracts #legal
+- 🟢 `2025-05-15` [[2025-05-15 - Driveway Width Permit Eagan|Driveway Width Permit Eagan]]  #alan
+- 🟢 `2025-05-15` [[2025-05-15 - Triverity Debt Resolution Guide|Triverity Debt Resolution Guide]]  #alan #credit
+- 🟢 `2025-05-16` [[2025-05-16 - TCM Application Discrepancy Fix|TCM Application Discrepancy Fix]]  #alan #fib
+- 🟢 `2025-05-16` [[2025-05-16 - CreditPulls Limit Sorting|CreditPulls Limit Sorting]]  #alan
+- 🟢 `2025-05-16` [[2025-05-16 - Bond Investment Legitimacy Check|Bond Investment Legitimacy Check]]  #alan #funding
+- 🟢 `2025-05-16` [[2025-05-16 - Working mom run squad|Working mom run squad]]  #alan
+- 🟢 `2025-05-16` [[2025-05-16 - Payment Plan Proposal|Payment Plan Proposal]]  #alan #marketing
+- 🟢 `2025-05-16` [[2025-05-16 - Social Media Strategy Tips|Social Media Strategy Tips]]  #alan #high-signal
+- 🟢 `2025-05-16` [[2025-05-16 - Terima kasih dan penjelasan|Terima kasih dan penjelasan]]  #alan #instagram #marketing
+- 🟢 `2025-05-16` [[2025-05-16 - TransUnion ID Theft Process|TransUnion ID Theft Process]]  #alan #cfpb #credit #dispute
+- 🟢 `2025-05-17` [[2025-05-17 - Business Funding Prep Tasks|Business Funding Prep Tasks]]  #alan #business-credit #credit #funding #sales
+- 🟢 `2025-05-17` [[2025-05-17 - Pool Party Invite Help|Pool Party Invite Help]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Ocean Dream Spa Plan|Ocean Dream Spa Plan]]  #alan #high-signal
+- 🟢 `2025-05-17` [[2025-05-17 - ID Theft Debt Removal|ID Theft Debt Removal]]  #alan #cfpb #dispute
+- 🟢 `2025-05-17` [[2025-05-17 - Best Free Dating Apps|Best Free Dating Apps]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Elan and U.S. Bank|Elan and U.S. Bank]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Foreign Qualification for Funding|Foreign Qualification for Funding]]  #alan #address-strategy #branding #domains #funding #legal
+- 🟢 `2025-05-17` [[2025-05-17 - Airbnb Arbitrage Biz Plan|Airbnb Arbitrage Biz Plan]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Siblings Welcome Usage|Siblings Welcome Usage]]  #alan #hiring #legal
+- 🟢 `2025-05-17` [[2025-05-17 - KPI Tracker Setup|KPI Tracker Setup]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Credit Profile Fundability Assessment|Credit Profile Fundability Assessment]]  #alan #credit #utilization
+- 🟢 `2025-05-17` [[2025-05-17 - Credit Card Data Sheet|Credit Card Data Sheet]]  #alan #funding
+- 🟢 `2025-05-17` [[2025-05-17 - Date Gap Analysis|Date Gap Analysis]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Disability Pay After Accident|Disability Pay After Accident]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Best Laotian Food MN|Best Laotian Food MN]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Suite vs Apartment Address|Suite vs Apartment Address]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Best Electrolyte Supplements Review|Best Electrolyte Supplements Review]]  #alan #health #supplements
+- 🟢 `2025-05-17` [[2025-05-17 - Income Impact on Credit Limits|Income Impact on Credit Limits]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Virtual Faxing Options|Virtual Faxing Options]]  #alan
+- 🟢 `2025-05-17` [[2025-05-17 - Chase Klarna Dispute Agencies|Chase Klarna Dispute Agencies]]  #alan #cfpb #credit #dispute
+- 🟢 `2025-05-18` [[2025-05-18 - Balancing Life Priorities|Balancing Life Priorities]]  #alan
+- 🟢 `2025-05-18` [[2025-05-18 - Real-time Fathom Notes|Real-time Fathom Notes]]  #alan
+- 🟢 `2025-05-18` [[2025-05-18 - ID Theft Credit Removal|ID Theft Credit Removal]]  #alan #credit #dispute #funding #scam
+- 🟢 `2025-05-19` [[2025-05-19 - Chase Billing and Credit Disputes|Chase Billing and Credit Disputes]]  #alan #credit #legal
+- 🟢 `2025-05-19` [[2025-05-19 - Top Developer Markets 2023|Top Developer Markets 2023]]  #alan
+- 🟢 `2025-05-19` [[2025-05-19 - Google Voice vs Smarter Contact|Google Voice vs Smarter Contact]]  #alan
+- 🟢 `2025-05-19` [[2025-05-19 - Borrowing Against Brokerage LLC|Borrowing Against Brokerage LLC]]  #alan #credit
+- 🟢 `2025-05-19` [[2025-05-19 - AI MRR Strategies|AI MRR Strategies]]  #alan
+- 🟢 `2025-05-19` [[2025-05-19 - AUs and Business Funding|AUs and Business Funding]]  #alan #amex #credit #fib #funding
+- 🟢 `2025-05-19` [[2025-05-19 - Google PPC Land Deals|Google PPC Land Deals]]  #alan
+- 🟢 `2025-05-19` [[2025-05-19 - TCM vs ELAN Cards|TCM vs ELAN Cards]]  #alan
+- 🟢 `2025-05-19` [[2025-05-19 - Memorial Weekend Activities Kids|Memorial Weekend Activities Kids]]  #alan
+- 🟢 `2025-05-19` [[2025-05-19 - Pre-period Fatigue Relief|Pre-period Fatigue Relief]]  #alan
+- 🟢 `2025-05-19` [[2025-05-19 - Business Banking Questions Strategy|Business Banking Questions Strategy]]  #alan #business-credit #credit #finance #high-signal
+- 🟢 `2025-05-19` [[2025-05-19 - Business Credit Process Q&A|Business Credit Process Q&A]]  #alan #business-credit #credit #tradeline #utilization
+- 🟢 `2025-05-19` [[2025-05-19 - Bond Return Timing|Bond Return Timing]]  #alan
+- 🟢 `2025-05-19` [[2025-05-19 - New chat|New chat]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Permissible Purposes of Reports|Permissible Purposes of Reports]]  #alan #legal
+- 🟢 `2025-05-20` [[2025-05-20 - Is it safe to eat|Is it safe to eat?]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Collateralized Insurance Financing Explained|Collateralized Insurance Financing Explained]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Holistic POTS Management|Holistic POTS Management]]  #alan #high-signal
+- 🟢 `2025-05-20` [[2025-05-20 - White Stuff on Salmon|White Stuff on Salmon]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Market Research Checklist|Market Research Checklist]]  #alan #high-signal
+- 🟢 `2025-05-20` [[2025-05-20 - Refund vs Chargeback Benefits|Refund vs Chargeback Benefits]]  #alan #chargeback #dispute
+- 🟢 `2025-05-20` [[2025-05-20 - ID Theft Removal Process|ID Theft Removal Process]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Business Credit Bureau Verification|Business Credit Bureau Verification]]  #alan #business-credit #credit
+- 🟢 `2025-05-20` [[2025-05-20 - Practice Update and Snacks|Practice Update and Snacks]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Insurance Loan Legitimacy|Insurance Loan Legitimacy]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Land Entitlements Process Overview|Land Entitlements Process Overview]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - $0 Down Lease-to-Own|$0 Down Lease-to-Own]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Table extraction tools|Table extraction tools]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Ultimate Kris Krohn Assistant|Ultimate Kris Krohn Assistant]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Community Bank vs CU|Community Bank vs CU]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Toyota Honda Financing 608|Toyota Honda Financing 608]]  #alan
+- 🟢 `2025-05-20` [[2025-05-20 - Commercial eviction timeline|Commercial eviction timeline]]  #alan
+- 🟢 `2025-05-21` [[2025-05-21 - Smarter Contact for Mass Texting|Smarter Contact for Mass Texting]]  #alan
+- 🟢 `2025-05-21` [[2025-05-21 - Top Land Flip Markets|Top Land Flip Markets]]  #alan
+- 🟢 `2025-05-21` [[2025-05-21 - Sleeping in LDS Parking|Sleeping in LDS Parking]]  #alan
+- 🟢 `2025-05-21` [[2025-05-21 - Best Land Flipping Markets|Best Land Flipping Markets]]  #alan
+- 🟢 `2025-05-21` [[2025-05-21 - Trust Validity Review|Trust Validity Review]]  #alan
+- 🟢 `2025-05-21` [[2025-05-21 - Florida Rear-End Compensation|Florida Rear-End Compensation]]  #alan
+- 🟢 `2025-05-21` [[2025-05-21 - Marquis Who's Who Overview|Marquis Who's Who Overview]]  #alan
+- 🟢 `2025-05-22` [[2025-05-22 - Walmart Organic Beef Concerns|Walmart Organic Beef Concerns]]  #alan
+- 🟢 `2025-05-22` [[2025-05-22 - Funding Strategy Plan|Funding Strategy Plan]]  #alan #funding #high-signal
+- 🟢 `2025-05-22` [[2025-05-22 - Kundalini Awakening Signs|Kundalini Awakening Signs]]  #alan
+- 🟢 `2025-05-22` [[2025-05-22 - Mold on Jar Safety|Mold on Jar Safety]]  #alan
+- 🟢 `2025-05-22` [[2025-05-22 - Planet Fitness Bloomington Size|Planet Fitness Bloomington Size]]  #alan
+- 🟢 `2025-05-22` [[2025-05-22 - US Spiritual Festivals 2025|US Spiritual Festivals 2025]]  #alan
+- 🟢 `2025-05-22` [[2025-05-22 - Card Assets Credit Approval|Card Assets Credit Approval]]  #alan #account-age #credit
+- 🟢 `2025-05-22` [[2025-05-22 - Legal Dispute with Chase|Legal Dispute with Chase]]  #alan #dispute #scam
+- 🟢 `2025-05-23` [[2025-05-23 - Disconnecting External Bank Access|Disconnecting External Bank Access]]  #alan
+- 🟢 `2025-05-23` [[2025-05-23 - Age Conversion Guide|Age Conversion Guide]]  #alan #funding
+- 🟢 `2025-05-23` [[2025-05-23 - Parchment vs Wax Paper|Parchment vs Wax Paper]]  #alan
+- 🟢 `2025-05-23` [[2025-05-23 - Credit Report Summary|Credit Report Summary]]  #alan #credit
+- 🟢 `2025-05-23` [[2025-05-23 - ID Theft Dispute Process|ID Theft Dispute Process]]  #alan #credit
+- 🟢 `2025-05-23` [[2025-05-23 - Balance Stuffing Risks|Balance Stuffing Risks]]  #alan
+- 🟢 `2025-05-23` [[2025-05-23 - Regional Banks Business Credit Cards|Regional Banks Business Credit Cards]]  #alan #business-credit #credit #funding
+- 🟢 `2025-05-24` [[2025-05-24 - Executive vs Salesperson Income|Executive vs Salesperson Income]]  #alan
+- 🟢 `2025-05-24` [[2025-05-24 - Kygo Stay Song Summary|Kygo Stay Song Summary]]  #alan
+- 🟢 `2025-05-24` [[2025-05-24 - Miscellaneous vs Educational Funding|Miscellaneous vs Educational Funding]]  #alan #funding
+- 🟢 `2025-05-24` [[2025-05-24 - Energy Fund Returns Misconception|Energy Fund Returns Misconception]]  #alan
+- 🟢 `2025-05-24` [[2025-05-24 - Find Wistia Video ID|Find Wistia Video ID]]  #alan #tech
+- 🟢 `2025-05-24` [[2025-05-24 - Thyroid Issues and Solutions|Thyroid Issues and Solutions]]  #alan #health
+- 🟢 `2025-05-24` [[2025-05-24 - Thyroid Health Myths|Thyroid Health Myths]]  #alan #health
+- 🟢 `2025-05-24` [[2025-05-24 - Verify Health Claims Research|Verify Health Claims Research]]  #alan #health
+- 🟢 `2025-05-25` [[2025-05-25 - Prismatic Business Description|Prismatic Business Description]]  #alan #apw #branding #domains #funding #scio
+- 🟢 `2025-05-25` [[2025-05-25 - Natural Sleep Aids Tips|Natural Sleep Aids Tips]]  #alan #health #supplements
+- 🟢 `2025-05-25` [[2025-05-25 - NAD+ Injections for Energy|NAD+ Injections for Energy]]  #alan #health #trt
+- 🟢 `2025-05-25` [[2025-05-25 - Love Compatibility Breakdown|Love Compatibility Breakdown]]  #alan
+- 🟢 `2025-05-25` [[2025-05-25 - CIP Sewer Line Investments|CIP Sewer Line Investments]]  #alan #funding
+- 🟢 `2025-05-25` [[2025-05-25 - Thawed Salmon Safety Check|Thawed Salmon Safety Check]]  #alan
+- 🟢 `2025-05-26` [[2025-05-26 - FBI Cheating Stats Myth|FBI Cheating Stats Myth]]  #alan
+- 🟢 `2025-05-26` [[2025-05-26 - Force of Nature vs Organic Beef|Force of Nature vs Organic Beef]]  #alan
+- 🟢 `2025-05-26` [[2025-05-26 - Melatonin 3mg Onset Time|Melatonin 3mg Onset Time]]  #alan #health #supplements
+- 🟢 `2025-05-26` [[2025-05-26 - Road Trip Plan MN to UT|Road Trip Plan MN to UT]]  #alan
+- 🟢 `2025-05-26` [[2025-05-26 - Real Estate Market Comparison|Real Estate Market Comparison]]  #alan
+- 🟢 `2025-05-26` [[2025-05-26 - VA Loan Assumption Rules|VA Loan Assumption Rules]]  #alan
+- 🟢 `2025-05-26` [[2025-05-26 - TRT Progress and Optimization|TRT Progress and Optimization]]  #alan #health #trt
+- 🟢 `2025-05-27` [[2025-05-27 - USALLIANCE Financial Overview|USALLIANCE Financial Overview]]  #alan
+- 🟢 `2025-05-27` [[2025-05-27 - Headquarters Location Requirement|Headquarters Location Requirement]]  #alan #business-credit #credit
+- 🟢 `2025-05-27` [[2025-05-27 - Schlage lock troubleshooting guide|Schlage lock troubleshooting guide]]  #alan
+- 🟢 `2025-05-27` [[2025-05-27 - Camry XLE Trim Comparison|Camry XLE Trim Comparison]]  #alan
+- 🟢 `2025-05-27` [[2025-05-27 - Business Revenue Update|Business Revenue Update]]  #alan #account-age #business-credit #credit
+- 🟢 `2025-05-27` [[2025-05-27 - Table Transcription for Sheets|Table Transcription for Sheets]]  #alan #funding
+- 🟢 `2025-05-27` [[2025-05-27 - KeyBank branch locations|KeyBank branch locations]]  #alan
+- 🟢 `2025-05-27` [[2025-05-27 - Compression Sock Fit Guide|Compression Sock Fit Guide]]  #alan
+- 🟢 `2025-05-27` [[2025-05-27 - Remove Fraud Flag Equifax|Remove Fraud Flag Equifax]]  #alan #dispute #scam
+- 🟢 `2025-05-28` [[2025-05-28 - Ryzen 5 5600 vs i5-12400|Ryzen 5 5600 vs i5-12400]]  #alan #tech
+- 🟢 `2025-05-28` [[2025-05-28 - Being Someone's Keeper|Being Someone's Keeper]]  #alan
+- 🟢 `2025-05-28` [[2025-05-28 - DDA ChexSystems Impact on Funding|DDA ChexSystems Impact on Funding]]  #alan
+- 🟢 `2025-05-28` [[2025-05-28 - Release Letter in Sale|Release Letter in Sale]]  #alan
+- 🟢 `2025-05-28` [[2025-05-28 - Customer Service Disappointment|Customer Service Disappointment]]  #alan
+- 🟢 `2025-05-28` [[2025-05-28 - Business Funding Strategy|Business Funding Strategy]]  #alan #funding #high-signal
+- 🟢 `2025-05-28` [[2025-05-28 - Prismatic LLC Revenue Breakdown|Prismatic LLC Revenue Breakdown]]  #alan #branding #domains #sales
+- 🟢 `2025-05-29` [[2025-05-29 - Teacher Request for Oliver|Teacher Request for Oliver]]  #alan
+- 🟢 `2025-05-29` [[2025-05-29 - Discord on PS4 Limitations|Discord on PS4 Limitations]]  #alan
+- 🟢 `2025-05-29` [[2025-05-29 - Requited love song help|Requited love song help]]  #alan
+- 🟢 `2025-05-29` [[2025-05-29 - Ivo AI Contract Review|Ivo AI Contract Review]]  #alan #contracts #instagram #legal #marketing #high-signal
+- 🟢 `2025-05-29` [[2025-05-29 - Authentic Testimonials for Prismatic|Authentic Testimonials for Prismatic]]  #alan #branding #domains
+- 🟢 `2025-05-29` [[2025-05-29 - AVP vs VP Roles|AVP vs VP Roles]]  #alan
+- 🟢 `2025-05-29` [[2025-05-29 - Gmail Business Logo Setup|Gmail Business Logo Setup]]  #alan #branding
+- 🟢 `2025-05-30` [[2025-05-30 - Hard Inquiry Removal Guide|Hard Inquiry Removal Guide]]  #alan
+- 🟢 `2025-05-30` [[2025-05-30 - Meaning of Becoming a Sap|Meaning of Becoming a Sap]]  #alan
+- 🟢 `2025-05-30` [[2025-05-30 - Love vs Fear Decision|Love vs Fear Decision]]  #alan
+- 🟢 `2025-05-30` [[2025-05-30 - Business Credit Card Docs|Business Credit Card Docs]]  #alan #business-credit #credit
+- 🟢 `2025-05-30` [[2025-05-30 - RAD-140 for Belly Fat|RAD-140 for Belly Fat]]  #alan
+- 🟢 `2025-05-30` [[2025-05-30 - 1099 vs W-2 Clarification|1099 vs W-2 Clarification]]  #alan #credit
+- 🟢 `2025-05-30` [[2025-05-30 - What Ducks Can Eat|What Ducks Can Eat]]  #alan
+- 🟢 `2025-05-31` [[2025-05-31 - Swiss Alps Location Identification|Swiss Alps Location Identification]]  #alan
+- 🟢 `2025-05-31` [[2025-05-31 - New Laws Impacting Section 8|New Laws Impacting Section 8]]  #alan
+- 🟢 `2025-05-31` [[2025-05-31 - Image location identification tools|Image location identification tools]]  #alan
+- 🟢 `2025-05-31` [[2025-05-31 - STFU acronym and slang|STFU acronym and slang]]  #alan
+- 🟢 `2025-05-31` [[2025-05-31 - Top Cufflink Brands|Top Cufflink Brands]]  #alan
+
+## 2025-04  (163)
+
+- 🟢 `2025-04-01` [[2025-04-01 - Noetica AI Platform Overview|Noetica AI Platform Overview]]  #alan #procurement
+- 🟢 `2025-04-01` [[2025-04-01 - Ark of the Covenant|Ark of the Covenant]]  #alan
+- 🟢 `2025-04-01` [[2025-04-01 - High-Protein High-Fiber Breakfasts|High-Protein High-Fiber Breakfasts]]  #alan #fib #fitness #health
+- 🟢 `2025-04-02` [[2025-04-02 - TFT Set 14 Update|TFT Set 14 Update]]  #alan
+- 🟢 `2025-04-02` [[2025-04-02 - CardioLog Analytics Data Access|CardioLog Analytics Data Access]]  #alan #legal
+- 🟢 `2025-04-02` [[2025-04-02 - Emotional Dynamics and Boundaries|Emotional Dynamics and Boundaries]]  #alan
+- 🟢 `2025-04-02` [[2025-04-02 - 0.4ml TRT Dose Explanation|0.4ml TRT Dose Explanation]]  #alan #health #trt
+- 🟢 `2025-04-02` [[2025-04-02 - TRT for Chronic Exhaustion|TRT for Chronic Exhaustion]]  #alan #health #trt
+- 🟢 `2025-04-03` [[2025-04-03 - TRT First Aid Essentials|TRT First Aid Essentials]]  #alan #health #trt
+- 🟢 `2025-04-03` [[2025-04-03 - ORBILIVE Shilajit Authenticity Concerns|ORBILIVE Shilajit Authenticity Concerns]]  #alan
+- 🟢 `2025-04-03` [[2025-04-03 - Optimum Nutrition Heavy Metal Test|Optimum Nutrition Heavy Metal Test]]  #alan #fitness #health #trt
+- 🟢 `2025-04-03` [[2025-04-03 - L-Theanine Effects and Uses|L-Theanine Effects and Uses]]  #alan
+- 🟢 `2025-04-03` [[2025-04-03 - Keep Apple Watch On Strava|Keep Apple Watch On Strava]]  #alan
+- 🟢 `2025-04-03` [[2025-04-03 - BMR Calculation for Female|BMR Calculation for Female]]  #alan
+- 🟢 `2025-04-03` [[2025-04-03 - AG1 vs BIOHM Comparison|AG1 vs BIOHM Comparison]]  #alan #supplements
+- 🟢 `2025-04-04` [[2025-04-04 - Lime vs Pineapple Juice|Lime vs Pineapple Juice]]  #alan
+- 🟢 `2025-04-04` [[2025-04-04 - Switch 1 vs Switch 2|Switch 1 vs Switch 2]]  #alan
+- 🟢 `2025-04-04` [[2025-04-04 - TRT Injection Soreness|TRT Injection Soreness]]  #alan #health #trt
+- 🟢 `2025-04-04` [[2025-04-04 - Throat pain dizziness symptoms|Throat pain dizziness symptoms]]  #alan
+- 🟢 `2025-04-05` [[2025-04-05 - Aldi vs Walmart Grass-fed Beef|Aldi vs Walmart Grass-fed Beef]]  #alan
+- 🟢 `2025-04-05` [[2025-04-05 - Eye of Round vs Top Sirloin|Eye of Round vs Top Sirloin]]  #alan #fitness #health
+- 🟢 `2025-04-05` [[2025-04-05 - Crystal Farms vs Great Value|Crystal Farms vs Great Value]]  #alan
+- 🟢 `2025-04-05` [[2025-04-05 - Zone 2 HR Calculation|Zone 2 HR Calculation]]  #alan #high-signal
+- 🟢 `2025-04-05` [[2025-04-05 - Credit Utilization Impact|Credit Utilization Impact]]  #alan #credit #utilization
+- 🟢 `2025-04-07` [[2025-04-07 - TRT After All-Nighter|TRT After All-Nighter]]  #alan #health #trt
+- 🟢 `2025-04-07` [[2025-04-07 - Hydration Supplement Comparison|Hydration Supplement Comparison]]  #alan #health #supplements
+- 🟢 `2025-04-07` [[2025-04-07 - Welch's vs Mott's|Welch's vs Mott's]]  #alan
+- 🟢 `2025-04-07` [[2025-04-07 - TRT Dose Effects Timeline|TRT Dose Effects Timeline]]  #alan #health #trt
+- 🟢 `2025-04-08` [[2025-04-08 - Birch Benders GF Flavors|Birch Benders GF Flavors]]  #alan
+- 🟢 `2025-04-08` [[2025-04-08 - Countering Excessive Sweetness|Countering Excessive Sweetness]]  #alan
+- 🟢 `2025-04-08` [[2025-04-08 - Moon Cycle Update|Moon Cycle Update]]  #alan
+- 🟢 `2025-04-08` [[2025-04-08 - Near-syncope and Low Iron|Near-syncope and Low Iron]]  #alan
+- 🟢 `2025-04-08` [[2025-04-08 - Daily Water Intake Guide|Daily Water Intake Guide]]  #alan
+- 🟢 `2025-04-08` [[2025-04-08 - 10k Steps Walk Time|10k Steps Walk Time]]  #alan
+- 🟢 `2025-04-08` [[2025-04-08 - BenQ Zowie vs ASUS ROG|BenQ Zowie vs ASUS ROG]]  #alan
+- 🟢 `2025-04-09` [[2025-04-09 - Lease Buyout and Refinancing|Lease Buyout and Refinancing]]  #alan
+- 🟢 `2025-04-09` [[2025-04-09 - Good Listener Synonyms|Good Listener Synonyms]]  #alan
+- 🟢 `2025-04-09` [[2025-04-09 - Real-Time Emotional Mastery|Real-Time Emotional Mastery]]  #alan
+- 🟢 `2025-04-09` [[2025-04-09 - Credit Bureau Reporting|Credit Bureau Reporting]]  #alan #credit
+- 🟢 `2025-04-09` [[2025-04-09 - Oliver's Mass Reading|Oliver's Mass Reading]]  #alan
+- 🟢 `2025-04-10` [[2025-04-10 - 4070 Ti vs 3090 Apex|4070 Ti vs 3090 Apex]]  #alan
+- 🟢 `2025-04-10` [[2025-04-10 - Soft Meatballs Tips|Soft Meatballs Tips]]  #alan
+- 🟢 `2025-04-10` [[2025-04-10 - Sadistic Definition Explained|Sadistic Definition Explained]]  #alan
+- 🟢 `2025-04-10` [[2025-04-10 - Carb Loading for Long Runs|Carb Loading for Long Runs]]  #alan #credit
+- 🟢 `2025-04-10` [[2025-04-10 - Siren sound explanation|Siren sound explanation]]  #alan
+- 🟢 `2025-04-10` [[2025-04-10 - Astrocartography Life Optimization|Astrocartography Life Optimization]]  #alan #mindset
+- 🟢 `2025-04-10` [[2025-04-10 - NVIDIA Control Panel Resolution Fix|NVIDIA Control Panel Resolution Fix]]  #alan
+- 🟢 `2025-04-10` [[2025-04-10 - Time Calculation|Time Calculation]]  #alan
+- 🟢 `2025-04-11` [[2025-04-11 - Fix Netflix Black Screen|Fix Netflix Black Screen]]  #alan
+- 🟢 `2025-04-11` [[2025-04-11 - Glazed Brakes Explanation|Glazed Brakes Explanation]]  #alan
+- 🟢 `2025-04-11` [[2025-04-11 - Part of Your World Summary|Part of Your World Summary]]  #alan
+- 🟢 `2025-04-11` [[2025-04-11 - Breach of Contract Refund|Breach of Contract Refund]]  #alan #credit #legal #tradeline
+- 🟢 `2025-04-11` [[2025-04-11 - Eloise the Lion Roar|Eloise the Lion Roar]]  #alan #instagram #marketing
+- 🟢 `2025-04-11` [[2025-04-11 - Investing in ChatGPT|Investing in ChatGPT]]  #alan #ai-workflow
+- 🟢 `2025-04-11` [[2025-04-11 - Resetting Circuit Breaker Access|Resetting Circuit Breaker Access]]  #alan
+- 🟢 `2025-04-11` [[2025-04-11 - Seafood Poisoning Recovery Tips|Seafood Poisoning Recovery Tips]]  #alan #supplements
+- 🟢 `2025-04-12` [[2025-04-12 - Top US Marathons|Top US Marathons]]  #alan
+- 🟢 `2025-04-12` [[2025-04-12 - Birth Control Effectiveness Timing|Birth Control Effectiveness Timing]]  #alan
+- 🟢 `2025-04-12` [[2025-04-12 - TRT Dose Adjustment Guidance|TRT Dose Adjustment Guidance]]  #alan #health #trt
+- 🟢 `2025-04-12` [[2025-04-12 - Lawyer Mom Doll Design|Lawyer Mom Doll Design]]  #alan #negotiation
+- 🟢 `2025-04-13` [[2025-04-13 - Ranked Mode Unlock Guide|Ranked Mode Unlock Guide]]  #alan
+- 🟢 `2025-04-13` [[2025-04-13 - Protein Content Breakdown|Protein Content Breakdown]]  #alan #fitness #health
+- 🟢 `2025-04-13` [[2025-04-13 - Dosage Calculation|Dosage Calculation]]  #alan
+- 🟢 `2025-04-13` [[2025-04-13 - Ordinance Damage Challenge|Ordinance Damage Challenge]]  #alan
+- 🟢 `2025-04-13` [[2025-04-13 - Top MN Date Spots|Top MN Date Spots]]  #alan
+- 🟢 `2025-04-14` [[2025-04-14 - Investment Recoupment Timeline|Investment Recoupment Timeline]]  #alan #networking
+- 🟢 `2025-04-14` [[2025-04-14 - SSI vs SSA-9|SSI vs SSA-9]]  #alan
+- 🟢 `2025-04-14` [[2025-04-14 - Credit Card Interest Calculation|Credit Card Interest Calculation]]  #alan
+- 🟢 `2025-04-14` [[2025-04-14 - High Limit 0% APR Cards|High Limit 0% APR Cards]]  #alan #fib #personal-credit
+- 🟢 `2025-04-14` [[2025-04-14 - Highest Discover Card Limits|Highest Discover Card Limits]]  #alan
+- 🟢 `2025-04-14` [[2025-04-14 - NFCU Limit Discrepancy Explanation|NFCU Limit Discrepancy Explanation]]  #alan #credit
+- 🟢 `2025-04-15` [[2025-04-15 - Discover Credit Products Comparison|Discover Credit Products Comparison]]  #alan
+- 🟢 `2025-04-15` [[2025-04-15 - Weight Gain After Running|Weight Gain After Running]]  #alan #procurement
+- 🟢 `2025-04-15` [[2025-04-15 - C Corp Tax Filing Guide|C Corp Tax Filing Guide]]  #alan
+- 🟢 `2025-04-15` [[2025-04-15 - SSA 3373 submission process|SSA 3373 submission process]]  #alan
+- 🟢 `2025-04-15` [[2025-04-15 - Chipotle Vinaigrette Recipe|Chipotle Vinaigrette Recipe]]  #alan
+- 🟢 `2025-04-16` [[2025-04-16 - Check total call time|Check total call time]]  #alan
+- 🟢 `2025-04-16` [[2025-04-16 - Snack Sign-Up Update|Snack Sign-Up Update]]  #alan
+- 🟢 `2025-04-16` [[2025-04-16 - Wyckoff Method Breakdown|Wyckoff Method Breakdown]]  #alan
+- 🟢 `2025-04-16` [[2025-04-16 - Business Credit Card Limits|Business Credit Card Limits]]  #alan #business-credit #credit
+- 🟢 `2025-04-16` [[2025-04-16 - Community West Bank Credit Pull|Community West Bank Credit Pull]]  #alan #business-credit #credit
+- 🟢 `2025-04-17` [[2025-04-17 - Score 800+ Tips|Score 800+ Tips]]  #alan
+- 🟢 `2025-04-17` [[2025-04-17 - PeterMD TRT Dosage|PeterMD TRT Dosage]]  #alan #health #trt
+- 🟢 `2025-04-17` [[2025-04-17 - MrBeast Burger Recipe|MrBeast Burger Recipe]]  #alan
+- 🟢 `2025-04-17` [[2025-04-17 - Tostitos Scoops Ingredients|Tostitos Scoops Ingredients]]  #alan
+- 🟢 `2025-04-17` [[2025-04-17 - Cold Plunge Benefits|Cold Plunge Benefits]]  #alan
+- 🟢 `2025-04-17` [[2025-04-17 - LLC Trading Tax Benefits|LLC Trading Tax Benefits]]  #alan
+- 🟢 `2025-04-17` [[2025-04-17 - Best Free NQ Paper Trading|Best Free NQ Paper Trading]]  #alan
+- 🟢 `2025-04-17` [[2025-04-17 - Breaking Through Creative Blocks|Breaking Through Creative Blocks]]  #alan
+- 🟢 `2025-04-18` [[2025-04-18 - Convert Credit to Cash|Convert Credit to Cash]]  #alan
+- 🟢 `2025-04-18` [[2025-04-18 - Radiating Kindness Through Triggers|Radiating Kindness Through Triggers]]  #alan
+- 🟢 `2025-04-18` [[2025-04-18 - 9950X vs 9800X3D Gaming|9950X vs 9800X3D Gaming]]  #alan
+- 🟢 `2025-04-18` [[2025-04-18 - Normal vs Compression Socks|Normal vs Compression Socks]]  #alan
+- 🟢 `2025-04-18` [[2025-04-18 - Mini vs Normal Shocks|Mini vs Normal Shocks]]  #alan
+- 🟢 `2025-04-19` [[2025-04-19 - Mozzarella to Nacho Cheese|Mozzarella to Nacho Cheese]]  #alan
+- 🟢 `2025-04-19` [[2025-04-19 - AC Unity Co-op Info|AC Unity Co-op Info]]  #alan
+- 🟢 `2025-04-19` [[2025-04-19 - Movie Recommendations List|Movie Recommendations List]]  #alan
+- 🟢 `2025-04-20` [[2025-04-20 - Ponzu Sauce Substitute|Ponzu Sauce Substitute]]  #alan
+- 🟢 `2025-04-20` [[2025-04-20 - Newegg Credit Card Bureau|Newegg Credit Card Bureau]]  #alan #credit
+- 🟢 `2025-04-20` [[2025-04-20 - DTI and Credit Line Approval|DTI and Credit Line Approval]]  #alan
+- 🟢 `2025-04-20` [[2025-04-20 - Prop Firm Risk Justification|Prop Firm Risk Justification]]  #alan
+- 🟢 `2025-04-20` [[2025-04-20 - Easter Bunny Message|Easter Bunny Message]]  #alan #instagram #marketing
+- 🟢 `2025-04-20` [[2025-04-20 - 2025 Prius Model Differences|2025 Prius Model Differences]]  #alan
+- 🟢 `2025-04-20` [[2025-04-20 - VikkiKitty Trans Status|VikkiKitty Trans Status]]  #alan
+- 🟢 `2025-04-20` [[2025-04-20 - Mini Cheeseburgers Recipe|Mini Cheeseburgers Recipe]]  #alan
+- 🟢 `2025-04-20` [[2025-04-20 - Minecraft Cart Shaking Fix|Minecraft Cart Shaking Fix]]  #alan
+- 🟢 `2025-04-21` [[2025-04-21 - McDonald's Fries Health Impact|McDonald's Fries Health Impact]]  #alan
+- 🟢 `2025-04-21` [[2025-04-21 - LDS and Reincarnation|LDS and Reincarnation]]  #alan
+- 🟢 `2025-04-21` [[2025-04-21 - Debt Reassignment Strategies Explained|Debt Reassignment Strategies Explained]]  #alan
+- 🟢 `2025-04-21` [[2025-04-21 - Plastiq Personal Credit Risk|Plastiq Personal Credit Risk]]  #alan #credit #payments #personal-credit
+- 🟢 `2025-04-22` [[2025-04-22 - Support Resistance Strategy|Support Resistance Strategy]]  #alan #high-signal
+- 🟢 `2025-04-22` [[2025-04-22 - How Shorting Works|How Shorting Works]]  #alan
+- 🟢 `2025-04-22` [[2025-04-22 - Days until May 13|Days until May 13]]  #alan
+- 🟢 `2025-04-22` [[2025-04-22 - Kris Krohn Residence|Kris Krohn Residence]]  #alan
+- 🟢 `2025-04-22` [[2025-04-22 - Asymmetric Bets Explained|Asymmetric Bets Explained]]  #alan
+- 🟢 `2025-04-22` [[2025-04-22 - Αφήνεια και εξήγηση|Αφήνεια και εξήγηση]]  #alan
+- 🟢 `2025-04-22` [[2025-04-22 - Login help request|Login help request]]  #alan
+- 🟢 `2025-04-23` [[2025-04-23 - Pregnancy after Vasectomy Query|Pregnancy after Vasectomy Query]]  #alan #legal
+- 🟢 `2025-04-23` [[2025-04-23 - Denied Business Credit Explanation|Denied Business Credit Explanation]]  #alan #business-credit #credit
+- 🟢 `2025-04-23` [[2025-04-23 - Power Hour for Day Trading|Power Hour for Day Trading]]  #alan
+- 🟢 `2025-04-23` [[2025-04-23 - Sun Vitamin D or C|Sun Vitamin D or C]]  #alan #procurement
+- 🟢 `2025-04-23` [[2025-04-23 - 3 Day Rescission Rights|3 Day Rescission Rights]]  #alan #dispute #legal #scam
+- 🟢 `2025-04-24` [[2025-04-24 - AAoA Increase Strategy|AAoA Increase Strategy]]  #alan #high-signal
+- 🟢 `2025-04-24` [[2025-04-24 - Risk Comparison- ZIM vs CCE|Risk Comparison: ZIM vs CCE]]  #alan
+- 🟢 `2025-04-24` [[2025-04-24 - Steno.ai AI Models|Steno.ai AI Models]]  #alan #ai-workflow
+- 🟢 `2025-04-24` [[2025-04-24 - Day Trading with LLC|Day Trading with LLC]]  #alan #funding
+- 🟢 `2025-04-24` [[2025-04-24 - Contract Non-Payment Consequences|Contract Non-Payment Consequences]]  #alan #legal
+- 🟢 `2025-04-24` [[2025-04-24 - Is crypto built on Solana|Is crypto built on Solana]]  #alan
+- 🟢 `2025-04-25` [[2025-04-25 - Compression Socks for Runners|Compression Socks for Runners]]  #alan
+- 🟢 `2025-04-25` [[2025-04-25 - Apex to Supermarket Sensitivity|Apex to Supermarket Sensitivity]]  #alan
+- 🟢 `2025-04-25` [[2025-04-25 - Supermarket Profit Boost Tips|Supermarket Profit Boost Tips]]  #alan
+- 🟢 `2025-04-25` [[2025-04-25 - Skip Music on Shokz|Skip Music on Shokz]]  #alan
+- 🟢 `2025-04-25` [[2025-04-25 - Refund Policy Summary|Refund Policy Summary]]  #alan #health #supplements
+- 🟢 `2025-04-25` [[2025-04-25 - FTC Report Inquiry Removal|FTC Report Inquiry Removal]]  #alan
+- 🟢 `2025-04-26` [[2025-04-26 - Removing Dog Pee Smell|Removing Dog Pee Smell]]  #alan #ai-workflow
+- 🟢 `2025-04-26` [[2025-04-26 - Blackstone Griddle Comparison|Blackstone Griddle Comparison]]  #alan
+- 🟢 `2025-04-26` [[2025-04-26 - Best Cricut for Crafts|Best Cricut for Crafts]]  #alan
+- 🟢 `2025-04-26` [[2025-04-26 - Order Packaging Upgrade|Order Packaging Upgrade]]  #alan
+- 🟢 `2025-04-26` [[2025-04-26 - Top Asian Restaurants MN|Top Asian Restaurants MN]]  #alan
+- 🟢 `2025-04-27` [[2025-04-27 - Digestive Support and Nourishment|Digestive Support and Nourishment]]  #alan #health #supplements
+- 🟢 `2025-04-27` [[2025-04-27 - Custom Suit Options Minneapolis|Custom Suit Options Minneapolis]]  #alan
+- 🟢 `2025-04-28` [[2025-04-28 - Self-Partner Insight Mastery|Self-Partner Insight Mastery]]  #alan #copywriting
+- 🟢 `2025-04-28` [[2025-04-28 - Raising Chicks Indoors Guide|Raising Chicks Indoors Guide]]  #alan
+- 🟢 `2025-04-28` [[2025-04-28 - Moon Phase Now|Moon Phase Now]]  #alan
+- 🟢 `2025-04-28` [[2025-04-28 - Rash from TRT causes|Rash from TRT causes]]  #alan #health #trt
+- 🟢 `2025-04-28` [[2025-04-28 - Refund Request for Breach|Refund Request for Breach]]  #alan #credit #legal #tradeline
+- 🟢 `2025-04-28` [[2025-04-28 - Bank Data Sources|Bank Data Sources]]  #alan
+- 🟢 `2025-04-28` [[2025-04-28 - Convert data to sheet|Convert data to sheet]]  #alan
+- 🟢 `2025-04-29` [[2025-04-29 - High-Frequency Trading Markets|High-Frequency Trading Markets]]  #alan
+- 🟢 `2025-04-29` [[2025-04-29 - NFCU Loan Options|NFCU Loan Options]]  #alan #mindset
+- 🟢 `2025-04-29` [[2025-04-29 - No Money Down Options|No Money Down Options]]  #alan
+- 🟢 `2025-04-29` [[2025-04-29 - Apple Watch Water Resistance|Apple Watch Water Resistance]]  #alan #faegre #legal-tech #networking #procurement
+- 🟢 `2025-04-29` [[2025-04-29 - Refund Policy Overview|Refund Policy Overview]]  #alan #chargeback #dispute #legal
+- 🟢 `2025-04-29` [[2025-04-29 - Navy Federal Loan Rates|Navy Federal Loan Rates]]  #alan
+- 🟢 `2025-04-29` [[2025-04-29 - Microloans for Startups|Microloans for Startups]]  #alan
+- 🟢 `2025-04-29` [[2025-04-29 - Bloomberg Subscription Options|Bloomberg Subscription Options]]  #alan #negotiation
+- 🟢 `2025-04-30` [[2025-04-30 - Healthy Fit Wealthy Schedule|Healthy Fit Wealthy Schedule]]  #alan
+- 🟢 `2025-04-30` [[2025-04-30 - Abby Jimenez Books Order|Abby Jimenez Books Order]]  #alan
+- 🟢 `2025-04-30` [[2025-04-30 - Non-Performance Income Strategy|Non-Performance Income Strategy]]  #alan #high-signal
+- 🟢 `2025-04-30` [[2025-04-30 - Holes Larger Than Nails Meaning|Holes Larger Than Nails Meaning]]  #alan #high-signal
+- 🟢 `2025-04-30` [[2025-04-30 - Energy Alignment Reset|Energy Alignment Reset]]  #alan
+- 🟢 `2025-04-30` [[2025-04-30 - AU Calculator Input|AU Calculator Input]]  #alan
+- 🟢 `2025-04-30` [[2025-04-30 - Discover Credit Limits|Discover Credit Limits]]  #alan
+
+## 2025-03  (139)
+
+- 🟢 `2025-03-01` [[2025-03-01 - Yahweh Meaning and Significance|Yahweh Meaning and Significance]]  #alan
+- 🟢 `2025-03-01` [[2025-03-01 - Identify ASUS Gaming Monitor|Identify ASUS Gaming Monitor]]  #alan #tech
+- 🟢 `2025-03-01` [[2025-03-01 - AX11000 Pro Reset Issues|AX11000 Pro Reset Issues]]  #alan
+- 🟢 `2025-03-01` [[2025-03-01 - Reset Screen Time Passcode|Reset Screen Time Passcode]]  #alan
+- 🟢 `2025-03-01` [[2025-03-01 - Burn Treatment for Kids|Burn Treatment for Kids]]  #alan
+- 🟢 `2025-03-01` [[2025-03-01 - Original minus return calculation|Original minus return calculation]]  #alan
+- 🟢 `2025-03-01` [[2025-03-01 - Cross vs Mary Necklace|Cross vs Mary Necklace]]  #alan
+- 🟢 `2025-03-01` [[2025-03-01 - Moana credits song artist|Moana credits song artist]]  #alan
+- 🟢 `2025-03-02` [[2025-03-02 - Apple Pencil Compatibility iPad|Apple Pencil Compatibility iPad]]  #alan
+- 🟢 `2025-03-02` [[2025-03-02 - Kids Events Near Eagan|Kids Events Near Eagan]]  #alan
+- 🟢 `2025-03-02` [[2025-03-02 - Potatoes vs Rice Carbs|Potatoes vs Rice Carbs]]  #alan
+- 🟢 `2025-03-03` [[2025-03-03 - Lunar Festival Pass XP|Lunar Festival Pass XP]]  #alan
+- 🟢 `2025-03-03` [[2025-03-03 - Baked Potato Pizza|Baked Potato Pizza]]  #alan
+- 🟢 `2025-03-04` [[2025-03-04 - ASUS 4070 No Video Signal|ASUS 4070 No Video Signal]]  #alan #tech
+- 🟢 `2025-03-04` [[2025-03-04 - Kobuko TFT Ability|Kobuko TFT Ability]]  #alan
+- 🟢 `2025-03-04` [[2025-03-04 - Clots During Periods|Clots During Periods]]  #alan
+- 🟢 `2025-03-04` [[2025-03-04 - AEMP II BIOS Settings|AEMP II BIOS Settings]]  #alan #tech
+- 🟢 `2025-03-04` [[2025-03-04 - Port Forwarding Apex Legends|Port Forwarding Apex Legends]]  #alan
+- 🟢 `2025-03-04` [[2025-03-04 - Hydrogenated Oils Health Impact|Hydrogenated Oils Health Impact]]  #alan
+- 🟢 `2025-03-04` [[2025-03-04 - Cancellation Clause Revision|Cancellation Clause Revision]]  #alan #legal #legal-tech #negotiation #procurement #high-signal
+- 🟢 `2025-03-04` [[2025-03-04 - NFCU Card Limit Increase|NFCU Card Limit Increase]]  #alan #credit
+- 🟢 `2025-03-05` [[2025-03-05 - Force 7.1 Apex Output|Force 7.1 Apex Output]]  #alan
+- 🟢 `2025-03-05` [[2025-03-05 - 12900K Idle High Clock|12900K Idle High Clock]]  #alan #tech
+- 🟢 `2025-03-05` [[2025-03-05 - Lower Butt Pain Relief|Lower Butt Pain Relief]]  #alan
+- 🟢 `2025-03-06` [[2025-03-06 - Best FHA Fourplex Locations|Best FHA Fourplex Locations]]  #alan
+- 🟢 `2025-03-07` [[2025-03-07 - Nickelodeon Universe Pass Info|Nickelodeon Universe Pass Info]]  #alan
+- 🟢 `2025-03-07` [[2025-03-07 - Peeled vs Unpeeled Cucumbers|Peeled vs Unpeeled Cucumbers]]  #alan
+- 🟢 `2025-03-07` [[2025-03-07 - Legend by Express Notes|Legend by Express Notes]]  #alan
+- 🟢 `2025-03-07` [[2025-03-07 - Valleyfair Ride Heights|Valleyfair Ride Heights]]  #alan
+- 🟢 `2025-03-08` [[2025-03-08 - Iconic Sax Dubstep Track|Iconic Sax Dubstep Track]]  #alan
+- 🟢 `2025-03-08` [[2025-03-08 - Nail Color Conflict Resolution|Nail Color Conflict Resolution]]  #alan
+- 🟢 `2025-03-08` [[2025-03-08 - Smartest Dog Breeds Ranking|Smartest Dog Breeds Ranking]]  #alan
+- 🟢 `2025-03-08` [[2025-03-08 - Unrealistic Investment Expectations|Unrealistic Investment Expectations]]  #alan
+- 🟢 `2025-03-08` [[2025-03-08 - Monster vs Red Bull Health|Monster vs Red Bull Health]]  #alan
+- 🟢 `2025-03-09` [[2025-03-09 - Synonyms for Heaven|Synonyms for Heaven]]  #alan
+- 🟢 `2025-03-09` [[2025-03-09 - Power Outage Troubleshooting Guide|Power Outage Troubleshooting Guide]]  #alan
+- 🟢 `2025-03-11` [[2025-03-11 - Kindergarten Moms Happy Hour|Kindergarten Moms Happy Hour]]  #alan
+- 🟢 `2025-03-11` [[2025-03-11 - Growing Flowers Metaphor|Growing Flowers Metaphor]]  #alan
+- 🟢 `2025-03-11` [[2025-03-11 - Medications Summary|Medications Summary]]  #alan
+- 🟢 `2025-03-12` [[2025-03-12 - 4K 240Hz Monitors|4K 240Hz Monitors]]  #alan #tech
+- 🟢 `2025-03-12` [[2025-03-12 - Contract Non-Renewal Notice|Contract Non-Renewal Notice]]  #alan #legal
+- 🟢 `2025-03-12` [[2025-03-12 - Kids Events Near Eagan|Kids Events Near Eagan]]  #alan #legal #negotiation
+- 🟢 `2025-03-13` [[2025-03-13 - Chase Refund Dispute|Chase Refund Dispute]]  #alan
+- 🟢 `2025-03-13` [[2025-03-13 - TFT Infinite Money Bug|TFT Infinite Money Bug]]  #alan
+- 🟢 `2025-03-13` [[2025-03-13 - GCE in Apex Legends|GCE in Apex Legends]]  #alan
+- 🟢 `2025-03-13` [[2025-03-13 - Baccarat Hand Explanation|Baccarat Hand Explanation]]  #alan
+- 🟢 `2025-03-14` [[2025-03-14 - Jr Bacon Cheeseburger Beef Size|Jr Bacon Cheeseburger Beef Size]]  #alan
+- 🟢 `2025-03-14` [[2025-03-14 - Grass Fed Beef Protein|Grass Fed Beef Protein]]  #alan #fitness #health
+- 🟢 `2025-03-14` [[2025-03-14 - Samsung 49 vs 57 PPI|Samsung 49 vs 57 PPI]]  #alan #tech
+- 🟢 `2025-03-15` [[2025-03-15 - Image Upscaling in MJ|Image Upscaling in MJ]]  #alan
+- 🟢 `2025-03-15` [[2025-03-15 - Chem Baron Loss Streak Tips|Chem Baron Loss Streak Tips]]  #alan
+- 🟢 `2025-03-15` [[2025-03-15 - Samsung Odyssey 240Hz Issue|Samsung Odyssey 240Hz Issue]]  #alan #tech
+- 🟢 `2025-03-15` [[2025-03-15 - Choline Sources Without Eggs|Choline Sources Without Eggs]]  #alan
+- 🟢 `2025-03-15` [[2025-03-15 - Jesus Inspired Drink Names|Jesus Inspired Drink Names]]  #alan
+- 🟢 `2025-03-16` [[2025-03-16 - Reviving Brittle Flowers|Reviving Brittle Flowers]]  #alan
+- 🟢 `2025-03-16` [[2025-03-16 - Blood in Mouth Causes|Blood in Mouth Causes]]  #alan
+- 🟢 `2025-03-16` [[2025-03-16 - Cherry Sauce Shenanigans|Cherry Sauce Shenanigans]]  #alan
+- 🟢 `2025-03-17` [[2025-03-17 - St Patrick's Day Overview|St Patrick's Day Overview]]  #alan
+- 🟢 `2025-03-17` [[2025-03-17 - Refund Request for Booze Tour|Refund Request for Booze Tour]]  #alan
+- 🟢 `2025-03-17` [[2025-03-17 - Total Calculation Request|Total Calculation Request]]  #alan
+- 🟢 `2025-03-18` [[2025-03-18 - Simmering Chicken Soup Safety|Simmering Chicken Soup Safety]]  #alan
+- 🟢 `2025-03-18` [[2025-03-18 - Apostles in LDS Church|Apostles in LDS Church]]  #alan
+- 🟢 `2025-03-18` [[2025-03-18 - Understanding Jesus' Atonement Models|Understanding Jesus' Atonement Models]]  #alan #copywriting
+- 🟢 `2025-03-18` [[2025-03-18 - When to Replace Shoes|When to Replace Shoes]]  #alan
+- 🟢 `2025-03-18` [[2025-03-18 - Eucalyptus Body Wash Safety|Eucalyptus Body Wash Safety]]  #alan
+- 🟢 `2025-03-18` [[2025-03-18 - Flash IV vs Drinks|Flash IV vs Drinks]]  #alan
+- 🟢 `2025-03-18` [[2025-03-18 - CoCounsel Developer Information|CoCounsel Developer Information]]  #alan
+- 🟢 `2025-03-19` [[2025-03-19 - Unauthorized Inquiry Removal FCRA|Unauthorized Inquiry Removal FCRA]]  #alan #credit #legal
+- 🟢 `2025-03-19` [[2025-03-19 - Leveling Up Legends Stats|Leveling Up Legends Stats]]  #alan
+- 🟢 `2025-03-19` [[2025-03-19 - Melchizedek Jesus Wizards Connections|Melchizedek Jesus Wizards Connections]]  #alan
+- 🟢 `2025-03-19` [[2025-03-19 - K2 Services ServiceNow Specialization|K2 Services ServiceNow Specialization]]  #alan
+- 🟢 `2025-03-19` [[2025-03-19 - Networking Message Refinement|Networking Message Refinement]]  #alan #faegre #legal-tech #networking #procurement
+- 🟢 `2025-03-19` [[2025-03-19 - Morning Protein with Leucine|Morning Protein with Leucine]]  #alan #fitness #health
+- 🟢 `2025-03-19` [[2025-03-19 - Cage-Free Eggs and Thoth|Cage-Free Eggs and Thoth]]  #alan
+- 🟢 `2025-03-19` [[2025-03-19 - Organic vs Non-Organic Eggs|Organic vs Non-Organic Eggs]]  #alan
+- 🟢 `2025-03-19` [[2025-03-19 - Omnibus pronunciation guide|Omnibus pronunciation guide]]  #alan
+- 🟢 `2025-03-19` [[2025-03-19 - Scheduling and Teams Invite|Scheduling and Teams Invite]]  #alan
+- 🟢 `2025-03-19` [[2025-03-19 - Fair Accountability Discussion|Fair Accountability Discussion]]  #alan #copywriting
+- 🟢 `2025-03-20` [[2025-03-20 - Fat-Free Refried Beans Benefits|Fat-Free Refried Beans Benefits]]  #alan #legal
+- 🟢 `2025-03-20` [[2025-03-20 - Gold Traits TFT Mission|Gold Traits TFT Mission]]  #alan
+- 🟢 `2025-03-21` [[2025-03-21 - Reusing Cooking Oils|Reusing Cooking Oils]]  #alan
+- 🟢 `2025-03-21` [[2025-03-21 - PBE TFT Skins Guide|PBE TFT Skins Guide]]  #alan
+- 🟢 `2025-03-21` [[2025-03-21 - Best Food Near MCC|Best Food Near MCC]]  #alan
+- 🟢 `2025-03-21` [[2025-03-21 - Monthly Support Request|Monthly Support Request]]  #alan
+- 🟢 `2025-03-22` [[2025-03-22 - Cousin Group Chat Names|Cousin Group Chat Names]]  #alan
+- 🟢 `2025-03-22` [[2025-03-22 - Pro Compression Sock Review|Pro Compression Sock Review]]  #alan
+- 🟢 `2025-03-22` [[2025-03-22 - Sentinels vs 8 Pit Fighters|Sentinels vs 8 Pit Fighters]]  #alan
+- 🟢 `2025-03-22` [[2025-03-22 - Movies Like Moana and Aladdin|Movies Like Moana and Aladdin]]  #alan
+- 🟢 `2025-03-22` [[2025-03-22 - Best Anti-Nutrient Free Protein|Best Anti-Nutrient Free Protein]]  #alan #fitness #health
+- 🟢 `2025-03-23` [[2025-03-23 - California Fire Maps|California Fire Maps]]  #alan
+- 🟢 `2025-03-23` [[2025-03-23 - TRT Order Request|TRT Order Request]]  #alan #health #trt
+- 🟢 `2025-03-24` [[2025-03-24 - Cold Hands After Beef|Cold Hands After Beef]]  #alan
+- 🟢 `2025-03-24` [[2025-03-24 - TRT Carrier Oil Ranking|TRT Carrier Oil Ranking]]  #alan #health #trt
+- 🟢 `2025-03-24` [[2025-03-24 - AI Ready PCs Explained|AI Ready PCs Explained]]  #alan
+- 🟢 `2025-03-24` [[2025-03-24 - Reverse Engineering Sounds|Reverse Engineering Sounds]]  #alan
+- 🟢 `2025-03-24` [[2025-03-24 - Shockz vs Beats Running|Shockz vs Beats Running]]  #alan #dispute #scam
+- 🟢 `2025-03-25` [[2025-03-25 - Egg Yolk Allergy Symptoms|Egg Yolk Allergy Symptoms]]  #alan #fitness #health
+- 🟢 `2025-03-25` [[2025-03-25 - IM vs SubQ TRT|IM vs SubQ TRT]]  #alan #health #trt
+- 🟢 `2025-03-25` [[2025-03-25 - Low T Levels Protocol|Low T Levels Protocol]]  #alan #high-signal
+- 🟢 `2025-03-25` [[2025-03-25 - Rent to Own Terms|Rent to Own Terms]]  #alan
+- 🟢 `2025-03-25` [[2025-03-25 - Free GPT Logic Limitations|Free GPT Logic Limitations]]  #alan
+- 🟢 `2025-03-25` [[2025-03-25 - Banana Peel Skincare Benefits|Banana Peel Skincare Benefits]]  #alan #health #skin
+- 🟢 `2025-03-26` [[2025-03-26 - Potato vs Cauliflower Cooking Time|Potato vs Cauliflower Cooking Time]]  #alan
+- 🟢 `2025-03-26` [[2025-03-26 - Creatine for Brain Health|Creatine for Brain Health]]  #alan #fitness #health
+- 🟢 `2025-03-26` [[2025-03-26 - Egg Shortage and Prices|Egg Shortage and Prices]]  #alan
+- 🟢 `2025-03-26` [[2025-03-26 - Headache Between Eyebrows Causes|Headache Between Eyebrows Causes]]  #alan
+- 🟢 `2025-03-26` [[2025-03-26 - SBA Loan Approval Tips|SBA Loan Approval Tips]]  #alan
+- 🟢 `2025-03-26` [[2025-03-26 - Apex Heirloom Odds Explained|Apex Heirloom Odds Explained]]  #alan
+- 🟢 `2025-03-26` [[2025-03-26 - Steam Apex Coins Issue|Steam Apex Coins Issue]]  #alan
+- 🟢 `2025-03-26` [[2025-03-26 - Fat-Free Refried Beans Health|Fat-Free Refried Beans Health]]  #alan
+- 🟢 `2025-03-27` [[2025-03-27 - Scavenger Hunt List|Scavenger Hunt List]]  #alan
+- 🟢 `2025-03-27` [[2025-03-27 - Pregnancy Risk Clarification|Pregnancy Risk Clarification]]  #alan
+- 🟢 `2025-03-27` [[2025-03-27 - Testosterone in MCT oil|Testosterone in MCT oil]]  #alan
+- 🟢 `2025-03-28` [[2025-03-28 - Lightly Pink Lamb Safety|Lightly Pink Lamb Safety]]  #alan
+- 🟢 `2025-03-28` [[2025-03-28 - Preventing Bloating Tips|Preventing Bloating Tips]]  #alan
+- 🟢 `2025-03-28` [[2025-03-28 - Understanding Jesus' Sacrifice|Understanding Jesus' Sacrifice]]  #alan
+- 🟢 `2025-03-28` [[2025-03-28 - Ballistic Quiet Time Upgrade|Ballistic Quiet Time Upgrade]]  #alan
+- 🟢 `2025-03-28` [[2025-03-28 - Self-assessment Leadership Highlights|Self-assessment Leadership Highlights]]  #alan #legal #negotiation #procurement
+- 🟢 `2025-03-28` [[2025-03-28 - Meaningful Baby Names|Meaningful Baby Names]]  #alan
+- 🟢 `2025-03-29` [[2025-03-29 - Pace Partner Phrases|Pace Partner Phrases]]  #alan
+- 🟢 `2025-03-29` [[2025-03-29 - Does Pür Gum Break Fast|Does Pür Gum Break Fast]]  #alan
+- 🟢 `2025-03-29` [[2025-03-29 - Best 4K Gaming Monitors|Best 4K Gaming Monitors]]  #alan #tech
+- 🟢 `2025-03-29` [[2025-03-29 - 16-10 Resolution Conversion|16:10 Resolution Conversion]]  #alan
+- 🟢 `2025-03-29` [[2025-03-29 - Abortion in Utah|Abortion in Utah]]  #alan
+- 🟢 `2025-03-29` [[2025-03-29 - Pendulum art creation ideas|Pendulum art creation ideas]]  #alan
+- 🟢 `2025-03-29` [[2025-03-29 - Pivoting from Pitfighters|Pivoting from Pitfighters]]  #alan
+- 🟢 `2025-03-29` [[2025-03-29 - Mindset and Growth Formula|Mindset and Growth Formula]]  #alan #mindset
+- 🟢 `2025-03-29` [[2025-03-29 - Consciousness vs Matter|Consciousness vs Matter]]  #alan
+- 🟢 `2025-03-30` [[2025-03-30 - Zone 2 Speed Benefits|Zone 2 Speed Benefits]]  #alan
+- 🟢 `2025-03-31` [[2025-03-31 - Doge Stimulus Check Reality|Doge Stimulus Check Reality]]  #alan
+- 🟢 `2025-03-31` [[2025-03-31 - Low Latency Apex Legends Setup|Low Latency Apex Legends Setup]]  #alan
+- 🟢 `2025-03-31` [[2025-03-31 - Seller Financing Insurance Options|Seller Financing Insurance Options]]  #alan
+- 🟢 `2025-03-31` [[2025-03-31 - AI Success Fast Track|AI Success Fast Track]]  #alan #mindset
+- 🟢 `2025-03-31` [[2025-03-31 - Profitable Airbnb Markets|Profitable Airbnb Markets]]  #alan
+- 🟢 `2025-03-31` [[2025-03-31 - NAV Prime Score Drop|NAV Prime Score Drop]]  #alan
+- 🟢 `2025-03-31` [[2025-03-31 - Positive Energy & Finances|Positive Energy & Finances]]  #alan
+- 🟢 `2025-03-31` [[2025-03-31 - Process Improvement and Collaboration|Process Improvement and Collaboration]]  #alan #procurement
+- 🟢 `2025-03-31` [[2025-03-31 - Best 3-Star Property Insurers|Best 3-Star Property Insurers]]  #alan
+- 🟢 `2025-03-31` [[2025-03-31 - Movies Like The Adam Project|Movies Like The Adam Project]]  #alan
+
+## 2025-02  (97)
+
+- 🟢 `2025-02-02` [[2025-02-02 - Firm vs Soft Sleep|Firm vs Soft Sleep]]  #alan
+- 🟢 `2025-02-02` [[2025-02-02 - Covid Lab Leak Theory|Covid Lab Leak Theory]]  #alan
+- 🟢 `2025-02-02` [[2025-02-02 - BPC-157 Liver Health|BPC-157 Liver Health]]  #alan
+- 🟢 `2025-02-02` [[2025-02-02 - Survival Functionality in Heels|Survival Functionality in Heels]]  #alan
+- 🟢 `2025-02-02` [[2025-02-02 - Product Comparison Overview|Product Comparison Overview]]  #alan
+- 🟢 `2025-02-03` [[2025-02-03 - Sealy High Point Mattress Return|Sealy High Point Mattress Return]]  #alan
+- 🟢 `2025-02-03` [[2025-02-03 - Income for Sealy Limit|Income for Sealy Limit]]  #alan
+- 🟢 `2025-02-03` [[2025-02-03 - Satin Silk vs Silk|Satin Silk vs Silk]]  #alan
+- 🟢 `2025-02-03` [[2025-02-03 - Valentina Sauce Scoville Comparison|Valentina Sauce Scoville Comparison]]  #alan
+- 🟢 `2025-02-03` [[2025-02-03 - Coconut Oil as Lube|Coconut Oil as Lube]]  #alan
+- 🟢 `2025-02-03` [[2025-02-03 - CCC License External Use|CCC License External Use]]  #alan #legal
+- 🟢 `2025-02-03` [[2025-02-03 - Recent Aviation Safety Concerns|Recent Aviation Safety Concerns]]  #alan
+- 🟢 `2025-02-04` [[2025-02-04 - Organic Protein Dips|Organic Protein Dips]]  #alan #fitness #health
+- 🟢 `2025-02-04` [[2025-02-04 - Business Debt Management Options|Business Debt Management Options]]  #alan #bankruptcy #funding #legal
+- 🟢 `2025-02-04` [[2025-02-04 - NDA After Layoff|NDA After Layoff]]  #alan
+- 🟢 `2025-02-05` [[2025-02-05 - 401k Withdrawal Strategies|401k Withdrawal Strategies]]  #alan
+- 🟢 `2025-02-05` [[2025-02-05 - Ground Beef vs Steak|Ground Beef vs Steak]]  #alan
+- 🟢 `2025-02-05` [[2025-02-05 - Tactful Boundary Setting|Tactful Boundary Setting]]  #alan
+- 🟢 `2025-02-05` [[2025-02-05 - Latin Mexican Aztec Maya Lineage|Latin Mexican Aztec Maya Lineage]]  #alan
+- 🟢 `2025-02-05` [[2025-02-05 - Who is Yahweh|Who is Yahweh]]  #alan
+- 🟢 `2025-02-06` [[2025-02-06 - What is NIT|What is NIT]]  #alan #legal
+- 🟢 `2025-02-06` [[2025-02-06 - Apple Product Return Policies|Apple Product Return Policies]]  #alan
+- 🟢 `2025-02-06` [[2025-02-06 - Convert Amazon Credit to Cash|Convert Amazon Credit to Cash]]  #alan
+- 🟢 `2025-02-07` [[2025-02-07 - Is tallow olive oil safe|Is tallow olive oil safe?]]  #alan
+- 🟢 `2025-02-07` [[2025-02-07 - Covenant vs Commandment LDS|Covenant vs Commandment LDS]]  #alan
+- 🟢 `2025-02-07` [[2025-02-07 - IBM MaaS360 Termination Process|IBM MaaS360 Termination Process]]  #alan #high-signal
+- 🟢 `2025-02-08` [[2025-02-08 - Burger King Fries Health Risks|Burger King Fries Health Risks]]  #alan
+- 🟢 `2025-02-08` [[2025-02-08 - Tax Return Timeline and Amendments|Tax Return Timeline and Amendments]]  #alan #finance
+- 🟢 `2025-02-08` [[2025-02-08 - AI Investment and Stargate|AI Investment and Stargate]]  #alan
+- 🟢 `2025-02-08` [[2025-02-08 - Dextroamphetamine Stomach Relief Tips|Dextroamphetamine Stomach Relief Tips]]  #alan
+- 🟢 `2025-02-09` [[2025-02-09 - 1099-C Chase Impact|1099-C Chase Impact]]  #alan #credit
+- 🟢 `2025-02-09` [[2025-02-09 - Liquid I.V. vs Cymbiotika|Liquid I.V. vs Cymbiotika]]  #alan
+- 🟢 `2025-02-09` [[2025-02-09 - Fulvic Minerals for Dehydration|Fulvic Minerals for Dehydration]]  #alan
+- 🟢 `2025-02-10` [[2025-02-10 - Butter Conversion Guide|Butter Conversion Guide]]  #alan
+- 🟢 `2025-02-10` [[2025-02-10 - Zinc Deficiency Symptoms|Zinc Deficiency Symptoms]]  #alan
+- 🟢 `2025-02-10` [[2025-02-10 - 1099-K Tax Report|1099-K Tax Report]]  #alan
+- 🟢 `2025-02-10` [[2025-02-10 - Bankruptcy 90-Day Disputes|Bankruptcy 90-Day Disputes]]  #alan #bankruptcy #legal
+- 🟢 `2025-02-11` [[2025-02-11 - Trump DOE Proposal Feasibility|Trump DOE Proposal Feasibility]]  #alan
+- 🟢 `2025-02-11` [[2025-02-11 - Incumbency Certificate and E-Signatures|Incumbency Certificate and E-Signatures]]  #alan
+- 🟢 `2025-02-11` [[2025-02-11 - SBA Loan Bankruptcy Risks|SBA Loan Bankruptcy Risks]]  #alan #bankruptcy #legal
+- 🟢 `2025-02-12` [[2025-02-12 - Power Draw Circuit Safety|Power Draw Circuit Safety]]  #alan
+- 🟢 `2025-02-12` [[2025-02-12 - Purpose of Blue USB Cable|Purpose of Blue USB Cable]]  #alan #tech
+- 🟢 `2025-02-12` [[2025-02-12 - Improving Rice Krispies Treats|Improving Rice Krispies Treats]]  #alan
+- 🟢 `2025-02-12` [[2025-02-12 - Car Starting Troubleshooting Guide|Car Starting Troubleshooting Guide]]  #alan
+- 🟢 `2025-02-13` [[2025-02-13 - Sony TV turning off|Sony TV turning off]]  #alan
+- 🟢 `2025-02-13` [[2025-02-13 - NIL Rights Explained|NIL Rights Explained]]  #alan #faegre #legal-tech #networking
+- 🟢 `2025-02-13` [[2025-02-13 - Back Bumps Healing Guide|Back Bumps Healing Guide]]  #alan
+- 🟢 `2025-02-14` [[2025-02-14 - Flower Preservation Methods|Flower Preservation Methods]]  #alan
+- 🟢 `2025-02-14` [[2025-02-14 - HDMI vs Optical Soundbar|HDMI vs Optical Soundbar]]  #alan
+- 🟢 `2025-02-14` [[2025-02-14 - 1680x1050 vs 1728x1080|1680x1050 vs 1728x1080]]  #alan
+- 🟢 `2025-02-14` [[2025-02-14 - Sensitivity Conversion Formula|Sensitivity Conversion Formula]]  #alan
+- 🟢 `2025-02-14` [[2025-02-14 - Burning Sensation Urination Causes|Burning Sensation Urination Causes]]  #alan #supplements
+- 🟢 `2025-02-14` [[2025-02-14 - Uncovering Self Illusions|Uncovering Self Illusions]]  #alan
+- 🟢 `2025-02-14` [[2025-02-14 - Valentine's Day Pickup Line|Valentine's Day Pickup Line]]  #alan #instagram #marketing #travel
+- 🟢 `2025-02-15` [[2025-02-15 - Kemps Mango Sherbet Health Analysis|Kemps Mango Sherbet Health Analysis]]  #alan
+- 🟢 `2025-02-15` [[2025-02-15 - Conversation summary request|Conversation summary request]]  #alan
+- 🟢 `2025-02-15` [[2025-02-15 - Uncensored Library and Censorship|Uncensored Library and Censorship]]  #alan
+- 🟢 `2025-02-15` [[2025-02-15 - Underground Maglev Speed Myths|Underground Maglev Speed Myths]]  #alan
+- 🟢 `2025-02-16` [[2025-02-16 - Healing Vaginal Microtears Tips|Healing Vaginal Microtears Tips]]  #alan
+- 🟢 `2025-02-16` [[2025-02-16 - QLED vs OLED Quality|QLED vs OLED Quality]]  #alan
+- 🟢 `2025-02-16` [[2025-02-16 - Healthy Pad Thai Recipe|Healthy Pad Thai Recipe]]  #alan
+- 🟢 `2025-02-16` [[2025-02-16 - Consumer Protection Laws|Consumer Protection Laws]]  #alan #legal
+- 🟢 `2025-02-16` [[2025-02-16 - Bashar Formula for Wealth|Bashar Formula for Wealth]]  #alan
+- 🟢 `2025-02-17` [[2025-02-17 - Where to find dress|Where to find dress]]  #alan
+- 🟢 `2025-02-18` [[2025-02-18 - Apology and Availability Response|Apology and Availability Response]]  #alan
+- 🟢 `2025-02-19` [[2025-02-19 - Recent Aviation Incidents|Recent Aviation Incidents]]  #alan
+- 🟢 `2025-02-19` [[2025-02-19 - Thank You Teacher Gift|Thank You Teacher Gift]]  #alan
+- 🟢 `2025-02-19` [[2025-02-19 - Corn Nutritional Value|Corn Nutritional Value]]  #alan #health
+- 🟢 `2025-02-20` [[2025-02-20 - Meat Seasoning Names|Meat Seasoning Names]]  #alan
+- 🟢 `2025-02-20` [[2025-02-20 - Introduction to Fintech|Introduction to Fintech]]  #alan
+- 🟢 `2025-02-20` [[2025-02-20 - Coping Styles in Relationships|Coping Styles in Relationships]]  #alan
+- 🟢 `2025-02-20` [[2025-02-20 - Eye Cream for Hands|Eye Cream for Hands]]  #alan
+- 🟢 `2025-02-20` [[2025-02-20 - Heartfelt Birthday Message|Heartfelt Birthday Message]]  #alan
+- 🟢 `2025-02-20` [[2025-02-20 - Birthday Message Creation|Birthday Message Creation]]  #alan #legal
+- 🟢 `2025-02-21` [[2025-02-21 - Non-hormonal Birth Control|Non-hormonal Birth Control]]  #alan
+- 🟢 `2025-02-21` [[2025-02-21 - Ham Health Risks UTI|Ham Health Risks UTI]]  #alan
+- 🟢 `2025-02-21` [[2025-02-21 - Bruising Causes and Remedies|Bruising Causes and Remedies]]  #alan
+- 🟢 `2025-02-21` [[2025-02-21 - Male Birth Control Options|Male Birth Control Options]]  #alan
+- 🟢 `2025-02-21` [[2025-02-21 - Alternative Breakfast Ideas|Alternative Breakfast Ideas]]  #alan
+- 🟢 `2025-02-22` [[2025-02-22 - Whole vs Inner Leaf Aloe|Whole vs Inner Leaf Aloe]]  #alan
+- 🟢 `2025-02-22` [[2025-02-22 - Marvel Splendor Token Stalemate|Marvel Splendor Token Stalemate]]  #alan
+- 🟢 `2025-02-24` [[2025-02-24 - Sourcing Legal Expertise Summary|Sourcing Legal Expertise Summary]]  #alan #contracts #hiring #legal #legal-tech #negotiation #procurement
+- 🟢 `2025-02-25` [[2025-02-25 - Honey ham glaze ingredients|Honey ham glaze ingredients]]  #alan
+- 🟢 `2025-02-25` [[2025-02-25 - Resetting Tripped Breaker|Resetting Tripped Breaker]]  #alan
+- 🟢 `2025-02-25` [[2025-02-25 - Top Hydration Cognition Supplements|Top Hydration Cognition Supplements]]  #alan #health #supplements
+- 🟢 `2025-02-25` [[2025-02-25 - Dealing with Persistent Spirits|Dealing with Persistent Spirits]]  #alan
+- 🟢 `2025-02-26` [[2025-02-26 - Macy's Credit Card Usage|Macy's Credit Card Usage]]  #alan #credit
+- 🟢 `2025-02-26` [[2025-02-26 - Hourly rate calculation|Hourly rate calculation]]  #alan
+- 🟢 `2025-02-26` [[2025-02-26 - Bankruptcy Timing Strategy|Bankruptcy Timing Strategy]]  #alan #bankruptcy #legal #high-signal
+- 🟢 `2025-02-26` [[2025-02-26 - Flash IV vs Liquid IV vs IQMX|Flash IV vs Liquid IV vs IQMX]]  #alan
+- 🟢 `2025-02-26` [[2025-02-26 - TADS Financial Need Eligibility|TADS Financial Need Eligibility]]  #alan
+- 🟢 `2025-02-26` [[2025-02-26 - RFP Integration into Contract|RFP Integration into Contract]]  #alan #legal #procurement
+- 🟢 `2025-02-27` [[2025-02-27 - Sourcing and Legal Expertise|Sourcing and Legal Expertise]]  #alan #contracts #hiring #legal
+- 🟢 `2025-02-27` [[2025-02-27 - Windows Cloud Assessment Overview|Windows Cloud Assessment Overview]]  #alan #instagram #marketing #procurement
+- 🟢 `2025-02-27` [[2025-02-27 - Biohm Greens Safety Question|Biohm Greens Safety Question]]  #alan #supplements
+- 🟢 `2025-02-28` [[2025-02-28 - Salmon Iron Content|Salmon Iron Content]]  #alan
+- 🟢 `2025-02-28` [[2025-02-28 - Chewing vs Swallowing Sildenafil|Chewing vs Swallowing Sildenafil]]  #alan
+
+## 2025-01  (128)
+
+- 🟢 `2025-01-01` [[2025-01-01 - Post-payment contract enforceability|Post-payment contract enforceability]]  #alan #dispute #legal #scam
+- 🟢 `2025-01-01` [[2025-01-01 - Parizat v Meron Case Summary|Parizat v Meron Case Summary]]  #alan #legal
+- 🟢 `2025-01-01` [[2025-01-01 - Breaking Binding Agreement|Breaking Binding Agreement]]  #alan #dispute #legal #scam
+- 🟢 `2025-01-01` [[2025-01-01 - Hanukkah and Religious Contexts|Hanukkah and Religious Contexts]]  #alan
+- 🟢 `2025-01-01` [[2025-01-01 - Talking to Eloise|Talking to Eloise]]  #alan #ai-workflow
+- 🟢 `2025-01-01` [[2025-01-01 - Astrology Love Life Analysis|Astrology Love Life Analysis]]  #alan
+- 🟢 `2025-01-02` [[2025-01-02 - Cocoa vs Cacao|Cocoa vs Cacao]]  #alan
+- 🟢 `2025-01-03` [[2025-01-03 - Costco vs Sams Club Wings|Costco vs Sams Club Wings]]  #alan
+- 🟢 `2025-01-03` [[2025-01-03 - Detox Heavy Metals Testosterone|Detox Heavy Metals Testosterone]]  #alan
+- 🟢 `2025-01-03` [[2025-01-03 - Boosting Savory Flavor|Boosting Savory Flavor]]  #alan
+- 🟢 `2025-01-03` [[2025-01-03 - FNBO Credit Dispute Resolution|FNBO Credit Dispute Resolution]]  #alan #cfpb #credit #dispute #scam #high-signal
+- 🟢 `2025-01-04` [[2025-01-04 - Coconut Meat for GI Health|Coconut Meat for GI Health]]  #alan
+- 🟢 `2025-01-04` [[2025-01-04 - Utah CFP Requirements|Utah CFP Requirements]]  #alan
+- 🟢 `2025-01-05` [[2025-01-05 - Breaking Contract Duress|Breaking Contract Duress]]  #alan #legal
+- 🟢 `2025-01-05` [[2025-01-05 - Shower Water Cost Estimate|Shower Water Cost Estimate]]  #alan
+- 🟢 `2025-01-05` [[2025-01-05 - Stanley vs Yeti Comparison|Stanley vs Yeti Comparison]]  #alan
+- 🟢 `2025-01-05` [[2025-01-05 - Word Swipe Game iOS|Word Swipe Game iOS]]  #alan
+- 🟢 `2025-01-06` [[2025-01-06 - Legal Mailing Address|Legal Mailing Address]]  #alan
+- 🟢 `2025-01-06` [[2025-01-06 - Chex Systems Legal Address|Chex Systems Legal Address]]  #alan
+- 🟢 `2025-01-06` [[2025-01-06 - Dextrose as Preservative Risks|Dextrose as Preservative Risks]]  #alan
+- 🟢 `2025-01-06` [[2025-01-06 - Sildenafil Prescription Criteria|Sildenafil Prescription Criteria]]  #alan
+- 🟢 `2025-01-06` [[2025-01-06 - Increase Equifax Business Score|Increase Equifax Business Score]]  #alan #business-credit #credit
+- 🟢 `2025-01-07` [[2025-01-07 - Calories in Pasture-raised Lamb|Calories in Pasture-raised Lamb]]  #alan
+- 🟢 `2025-01-07` [[2025-01-07 - Pfizer vaccine microchip myth|Pfizer vaccine microchip myth]]  #alan
+- 🟢 `2025-01-07` [[2025-01-07 - RTX 50-Series FPS Comparison|RTX 50-Series FPS Comparison]]  #alan
+- 🟢 `2025-01-07` [[2025-01-07 - DPI vs Response Time|DPI vs Response Time]]  #alan
+- 🟢 `2025-01-07` [[2025-01-07 - President's Authority and Ownership|President's Authority and Ownership]]  #alan
+- 🟢 `2025-01-07` [[2025-01-07 - Bank Access to External Account|Bank Access to External Account]]  #alan
+- 🟢 `2025-01-07` [[2025-01-07 - Refund dispute with Klarna|Refund dispute with Klarna]]  #alan #legal #high-signal
+- 🟢 `2025-01-07` [[2025-01-07 - Identity Verification Issues|Identity Verification Issues]]  #alan #credit
+- 🟢 `2025-01-07` [[2025-01-07 - Funding Potential for Consulting|Funding Potential for Consulting]]  #alan
+- 🟢 `2025-01-08` [[2025-01-08 - Best Bank Statement Loans|Best Bank Statement Loans]]  #alan #funding
+- 🟢 `2025-01-08` [[2025-01-08 - Natural Detox Methods|Natural Detox Methods]]  #alan
+- 🟢 `2025-01-08` [[2025-01-08 - SBA Express Loan Requirements|SBA Express Loan Requirements]]  #alan #finance
+- 🟢 `2025-01-09` [[2025-01-09 - Best Credit Cards 640 Score|Best Credit Cards 640 Score]]  #alan #credit
+- 🟢 `2025-01-09` [[2025-01-09 - Natural Remedies Headache Cough|Natural Remedies Headache Cough]]  #alan
+- 🟢 `2025-01-09` [[2025-01-09 - California Wildfires Explained|California Wildfires Explained]]  #alan
+- 🟢 `2025-01-09` [[2025-01-09 - Costco Salmon Sashimi Safety|Costco Salmon Sashimi Safety]]  #alan
+- 🟢 `2025-01-09` [[2025-01-09 - Three Strikes Availability Dates|Three Strikes Availability Dates]]  #alan
+- 🟢 `2025-01-09` [[2025-01-09 - Business Credit Cards 0% APR|Business Credit Cards 0% APR]]  #alan #business-credit #credit
+- 🟢 `2025-01-10` [[2025-01-10 - Controller Software Mouse Conflict|Controller Software Mouse Conflict]]  #alan
+- 🟢 `2025-01-10` [[2025-01-10 - Chase chargeback dispute tips|Chase chargeback dispute tips]]  #alan #chargeback #dispute
+- 🟢 `2025-01-10` [[2025-01-10 - LLC Operator Liability Protection|LLC Operator Liability Protection]]  #alan #legal
+- 🟢 `2025-01-10` [[2025-01-10 - Business Representation in Court|Business Representation in Court]]  #alan
+- 🟢 `2025-01-11` [[2025-01-11 - Rosel medicine inquiry|Rosel medicine inquiry]]  #alan
+- 🟢 `2025-01-12` [[2025-01-12 - Words for Ungrateful People|Words for Ungrateful People]]  #alan
+- 🟢 `2025-01-12` [[2025-01-12 - TFT Quit Penalties Mobile|TFT Quit Penalties Mobile]]  #alan
+- 🟢 `2025-01-12` [[2025-01-12 - Lahaina Smart City Myths|Lahaina Smart City Myths]]  #alan
+- 🟢 `2025-01-13` [[2025-01-13 - Gifts and Discernment in Bible|Gifts and Discernment in Bible]]  #alan
+- 🟢 `2025-01-13` [[2025-01-13 - Teas for Menstrual Cramps|Teas for Menstrual Cramps]]  #alan
+- 🟢 `2025-01-13` [[2025-01-13 - Teas for Brain Boost|Teas for Brain Boost]]  #alan
+- 🟢 `2025-01-13` [[2025-01-13 - Rapid Wealth Generation Strategy|Rapid Wealth Generation Strategy]]  #alan #high-signal
+- 🟢 `2025-01-14` [[2025-01-14 - Weight Fluctuation Causes Explained|Weight Fluctuation Causes Explained]]  #alan
+- 🟢 `2025-01-14` [[2025-01-14 - Calcium Magnesium Energy Foods|Calcium Magnesium Energy Foods]]  #alan
+- 🟢 `2025-01-15` [[2025-01-15 - PNC Sublease Address Verification|PNC Sublease Address Verification]]  #alan #branding #domains
+- 🟢 `2025-01-15` [[2025-01-15 - Soft Inquiries and FCRA|Soft Inquiries and FCRA]]  #alan #legal
+- 🟢 `2025-01-15` [[2025-01-15 - LDN and Testosterone Effects|LDN and Testosterone Effects]]  #alan #health #trt
+- 🟢 `2025-01-15` [[2025-01-15 - Endocrinologist Role in TRT|Endocrinologist Role in TRT]]  #alan #health #trt
+- 🟢 `2025-01-16` [[2025-01-16 - Wire Transfer Address Mismatch|Wire Transfer Address Mismatch]]  #alan
+- 🟢 `2025-01-16` [[2025-01-16 - USPS Delivery Timing|USPS Delivery Timing]]  #alan
+- 🟢 `2025-01-16` [[2025-01-16 - MCM Letter Response|MCM Letter Response]]  #alan #legal #high-signal
+- 🟢 `2025-01-16` [[2025-01-16 - NNN Lease Investment Strategy|NNN Lease Investment Strategy]]  #alan #high-signal
+- 🟢 `2025-01-16` [[2025-01-16 - Elgato Wave 3 Monitoring Fix|Elgato Wave 3 Monitoring Fix]]  #alan #tech
+- 🟢 `2025-01-16` [[2025-01-16 - Liquidate CC for Business|Liquidate CC for Business]]  #alan #funding #personal-credit
+- 🟢 `2025-01-16` [[2025-01-16 - 15% APR Interest Explanation|15% APR Interest Explanation]]  #alan #business-credit #credit
+- 🟢 `2025-01-17` [[2025-01-17 - Venus Career Success Analysis|Venus Career Success Analysis]]  #alan #mindset
+- 🟢 `2025-01-17` [[2025-01-17 - Fed Reserve Member vs Non-Member|Fed Reserve Member vs Non-Member]]  #alan #funding
+- 🟢 `2025-01-17` [[2025-01-17 - ELAN Business Card Limits|ELAN Business Card Limits]]  #alan #business-credit #credit
+- 🟢 `2025-01-17` [[2025-01-17 - SBA 7a Loan Approval|SBA 7a Loan Approval]]  #alan #credit #networking
+- 🟢 `2025-01-17` [[2025-01-17 - Total cost summary|Total cost summary]]  #alan #copywriting
+- 🟢 `2025-01-17` [[2025-01-17 - Honey and Steaming Water|Honey and Steaming Water]]  #alan
+- 🟢 `2025-01-17` [[2025-01-17 - Legal Money Transfers Strategy|Legal Money Transfers Strategy]]  #alan #high-signal
+- 🟢 `2025-01-17` [[2025-01-17 - Onion Bloating Causes|Onion Bloating Causes]]  #alan
+- 🟢 `2025-01-17` [[2025-01-17 - MacBook Pro Resolution Scaling|MacBook Pro Resolution Scaling]]  #alan
+- 🟢 `2025-01-18` [[2025-01-18 - Hulk's Reluctance Explained|Hulk's Reluctance Explained]]  #alan
+- 🟢 `2025-01-19` [[2025-01-19 - Trump Coin vs Tate Coin|Trump Coin vs Tate Coin]]  #alan
+- 🟢 `2025-01-19` [[2025-01-19 - UZX Withdrawal Fees|UZX Withdrawal Fees]]  #alan
+- 🟢 `2025-01-19` [[2025-01-19 - Sunflower Oil Seed Classification|Sunflower Oil Seed Classification]]  #alan
+- 🟢 `2025-01-20` [[2025-01-20 - Low Energy Solutions|Low Energy Solutions]]  #alan
+- 🟢 `2025-01-21` [[2025-01-21 - USC 1666 Late Payment|USC 1666 Late Payment]]  #alan
+- 🟢 `2025-01-21` [[2025-01-21 - Amphetamine Stomach Ache Solutions|Amphetamine Stomach Ache Solutions]]  #alan #fitness #health
+- 🟢 `2025-01-21` [[2025-01-21 - Safety and Liability Analysis|Safety and Liability Analysis]]  #alan #legal
+- 🟢 `2025-01-21` [[2025-01-21 - Strategic Cloud Consulting Overview|Strategic Cloud Consulting Overview]]  #alan
+- 🟢 `2025-01-21` [[2025-01-21 - Navy Federal ATM Fees|Navy Federal ATM Fees]]  #alan
+- 🟢 `2025-01-21` [[2025-01-21 - Legal Resume Optimization|Legal Resume Optimization]]  #alan #legal #negotiation
+- 🟢 `2025-01-22` [[2025-01-22 - Ketamine IV Dosage Guide|Ketamine IV Dosage Guide]]  #alan
+- 🟢 `2025-01-22` [[2025-01-22 - Business Credit Utilization Impact|Business Credit Utilization Impact]]  #alan #business-credit #credit #utilization
+- 🟢 `2025-01-22` [[2025-01-22 - Fall Guy Explanation|Fall Guy Explanation]]  #alan
+- 🟢 `2025-01-22` [[2025-01-22 - Ketamine IV Replenishment|Ketamine IV Replenishment]]  #alan
+- 🟢 `2025-01-23` [[2025-01-23 - William Roberts Overview|William Roberts Overview]]  #alan #faegre #legal #legal-tech
+- 🟢 `2025-01-23` [[2025-01-23 - Comet Subscription Plans|Comet Subscription Plans]]  #alan #legal
+- 🟢 `2025-01-23` [[2025-01-23 - Top 750 Predator Regions|Top 750 Predator Regions]]  #alan
+- 🟢 `2025-01-23` [[2025-01-23 - Heavenly Mother in Christianity|Heavenly Mother in Christianity]]  #alan
+- 🟢 `2025-01-25` [[2025-01-25 - Dogs and Toffee Cashews|Dogs and Toffee Cashews]]  #alan
+- 🟢 `2025-01-25` [[2025-01-25 - Red Lump Diaper Issue|Red Lump Diaper Issue]]  #alan
+- 🟢 `2025-01-25` [[2025-01-25 - Dog Behavior Concerns|Dog Behavior Concerns]]  #alan
+- 🟢 `2025-01-25` [[2025-01-25 - Liquidating Credit Card Cash|Liquidating Credit Card Cash]]  #alan
+- 🟢 `2025-01-25` [[2025-01-25 - Icelandic Glacial Water Bulk|Icelandic Glacial Water Bulk]]  #alan
+- 🟢 `2025-01-25` [[2025-01-25 - Rent vs Income for Approval|Rent vs Income for Approval]]  #alan #credit
+- 🟢 `2025-01-25` [[2025-01-25 - Super Reds vs Super Kids|Super Reds vs Super Kids]]  #alan #supplements
+- 🟢 `2025-01-26` [[2025-01-26 - Kindred Spirits Definition|Kindred Spirits Definition]]  #alan
+- 🟢 `2025-01-26` [[2025-01-26 - iPad Sidecar Touchscreen Limitations|iPad Sidecar Touchscreen Limitations]]  #alan #tech
+- 🟢 `2025-01-26` [[2025-01-26 - Increase TFT Quality iPad|Increase TFT Quality iPad]]  #alan
+- 🟢 `2025-01-27` [[2025-01-27 - Memorization Complete|Memorization Complete]]  #alan #legal
+- 🟢 `2025-01-27` [[2025-01-27 - Countering Cultist Assassins|Countering Cultist Assassins]]  #alan
+- 🟢 `2025-01-27` [[2025-01-27 - Buy Business with SBA|Buy Business with SBA]]  #alan
+- 🟢 `2025-01-27` [[2025-01-27 - Durability in TFT|Durability in TFT]]  #alan
+- 🟢 `2025-01-27` [[2025-01-27 - Cash Back Exclusions LG|Cash Back Exclusions LG]]  #alan
+- 🟢 `2025-01-28` [[2025-01-28 - Building Credit with New Profile|Building Credit with New Profile]]  #alan #credit
+- 🟢 `2025-01-28` [[2025-01-28 - Spartan Blue Team Timing|Spartan Blue Team Timing]]  #alan
+- 🟢 `2025-01-28` [[2025-01-28 - Teas for Stomach Pain|Teas for Stomach Pain]]  #alan
+- 🟢 `2025-01-28` [[2025-01-28 - Sole vs Multi Member LLC|Sole vs Multi Member LLC]]  #alan
+- 🟢 `2025-01-29` [[2025-01-29 - Throat Tickle and Weakness|Throat Tickle and Weakness]]  #alan
+- 🟢 `2025-01-29` [[2025-01-29 - Unemployment Eligibility Utah|Unemployment Eligibility Utah]]  #alan
+- 🟢 `2025-01-29` [[2025-01-29 - Unauthorized Billing Dispute|Unauthorized Billing Dispute]]  #alan #dispute #legal #scam #high-signal
+- 🟢 `2025-01-29` [[2025-01-29 - Buy Business with SBA 7a|Buy Business with SBA 7a]]  #alan
+- 🟢 `2025-01-29` [[2025-01-29 - How to preorder RTX 5090|How to preorder RTX 5090]]  #alan
+- 🟢 `2025-01-30` [[2025-01-30 - Credit Unions Savings Loans|Credit Unions Savings Loans]]  #alan
+- 🟢 `2025-01-30` [[2025-01-30 - Grass-fed vs Organic Beef|Grass-fed vs Organic Beef]]  #alan
+- 🟢 `2025-01-30` [[2025-01-30 - Thomas Farms Burger Review|Thomas Farms Burger Review]]  #alan
+- 🟢 `2025-01-30` [[2025-01-30 - Existential Fear Unpacked|Existential Fear Unpacked]]  #alan #ai-workflow
+- 🟢 `2025-01-30` [[2025-01-30 - Nvidia GPU Supply Issues|Nvidia GPU Supply Issues]]  #alan
+- 🟢 `2025-01-30` [[2025-01-30 - Meeting Request for Renewal|Meeting Request for Renewal]]  #alan
+- 🟢 `2025-01-30` [[2025-01-30 - Experian Dispute Non-Compliance|Experian Dispute Non-Compliance]]  #alan #business-credit #credit #legal
+- 🟢 `2025-01-31` [[2025-01-31 - Twitch Expenses Tax Deductions|Twitch Expenses Tax Deductions]]  #alan #finance #instagram #marketing
+- 🟢 `2025-01-31` [[2025-01-31 - Unauthorized Withdrawal Assistance|Unauthorized Withdrawal Assistance]]  #alan #funding
+- 🟢 `2025-01-31` [[2025-01-31 - Fraud Protection Options Chase|Fraud Protection Options Chase]]  #alan #dispute #scam
+- 🟢 `2025-01-31` [[2025-01-31 - Zeolite in Organic Foods|Zeolite in Organic Foods]]  #alan
+
+## 2024-12  (213)
+
+- 🟢 `2024-12-01` [[2024-12-01 - CHG27 10-bit Monitor|CHG27 10-bit Monitor]]  #alan #tech
+- 🟢 `2024-12-02` [[2024-12-02 - KG257Q vs CHG27 Latency|KG257Q vs CHG27 Latency]]  #alan #tech
+- 🟢 `2024-12-02` [[2024-12-02 - Origins of High Heels|Origins of High Heels]]  #alan
+- 🟢 `2024-12-02` [[2024-12-02 - Sexy Secretary Glasses|Sexy Secretary Glasses]]  #alan
+- 🟢 `2024-12-02` [[2024-12-02 - Benzonatate and DayQuil NyQuil Safety|Benzonatate and DayQuil NyQuil Safety]]  #alan
+- 🟢 `2024-12-02` [[2024-12-02 - LASIK vs PRK Safety|LASIK vs PRK Safety]]  #alan
+- 🟢 `2024-12-02` [[2024-12-02 - Funding Agreement Risks Analysis|Funding Agreement Risks Analysis]]  #alan #credit
+- 🟢 `2024-12-02` [[2024-12-02 - Tomo Credit Line Reporting|Tomo Credit Line Reporting]]  #alan
+- 🟢 `2024-12-02` [[2024-12-02 - Sapphire Preferred vs Reserve|Sapphire Preferred vs Reserve]]  #alan
+- 🟢 `2024-12-02` [[2024-12-02 - Minnesota LLC Requirements|Minnesota LLC Requirements]]  #alan
+- 🟢 `2024-12-03` [[2024-12-03 - Uterine Tumor Causes Solutions|Uterine Tumor Causes Solutions]]  #alan
+- 🟢 `2024-12-03` [[2024-12-03 - Co-borrower iPhone Financing|Co-borrower iPhone Financing]]  #alan
+- 🟢 `2024-12-03` [[2024-12-03 - Organic Peppermint Tea Caffeine|Organic Peppermint Tea Caffeine]]  #alan
+- 🟢 `2024-12-03` [[2024-12-03 - Best RO UV Systems|Best RO UV Systems]]  #alan
+- 🟢 `2024-12-03` [[2024-12-03 - Marquise Simulated Blue Sapphire|Marquise Simulated Blue Sapphire]]  #alan
+- 🟢 `2024-12-03` [[2024-12-03 - Unauthorized Transactions Inquiry|Unauthorized Transactions Inquiry]]  #alan
+- 🟢 `2024-12-03` [[2024-12-03 - Julian Calendar Reforms|Julian Calendar Reforms]]  #alan #mindset
+- 🟢 `2024-12-03` [[2024-12-03 - 10 Balloons Arrangement|10 Balloons Arrangement]]  #alan
+- 🟢 `2024-12-04` [[2024-12-04 - Bloating After Grass Fed Beef|Bloating After Grass Fed Beef]]  #alan
+- 🟢 `2024-12-04` [[2024-12-04 - Communicating with Lemurian Crystals|Communicating with Lemurian Crystals]]  #alan
+- 🟢 `2024-12-04` [[2024-12-04 - Recording Zoom Calls Legally|Recording Zoom Calls Legally]]  #alan
+- 🟢 `2024-12-04` [[2024-12-04 - Credit Report Dispute Letter|Credit Report Dispute Letter]]  #alan #credit
+- 🟢 `2024-12-04` [[2024-12-04 - Inquiry Record Formatting|Inquiry Record Formatting]]  #alan
+- 🟢 `2024-12-05` [[2024-12-05 - Aim Assist 120Hz Impact|Aim Assist 120Hz Impact]]  #alan #tech
+- 🟢 `2024-12-05` [[2024-12-05 - 7000 Points Navy Federal|7000 Points Navy Federal]]  #alan
+- 🟢 `2024-12-05` [[2024-12-05 - FCRA Dispute and Affidavit|FCRA Dispute and Affidavit]]  #alan #legal
+- 🟢 `2024-12-06` [[2024-12-06 - ADP Gusto B2B Payments|ADP Gusto B2B Payments]]  #alan #funding
+- 🟢 `2024-12-06` [[2024-12-06 - Bank States and Credit Bureaus|Bank States and Credit Bureaus]]  #alan #credit
+- 🟢 `2024-12-06` [[2024-12-06 - Ten Commandments and Jesus|Ten Commandments and Jesus]]  #alan
+- 🟢 `2024-12-06` [[2024-12-06 - Airbnb Arbitrage Co-Hosting|Airbnb Arbitrage Co-Hosting]]  #alan
+- 🟢 `2024-12-06` [[2024-12-06 - Christmas Decor Ideas|Christmas Decor Ideas]]  #alan
+- 🟢 `2024-12-06` [[2024-12-06 - BenQ Zowie vs Mobius|BenQ Zowie vs Mobius]]  #alan
+- 🟢 `2024-12-07` [[2024-12-07 - Seller Financing Business Acquisition|Seller Financing Business Acquisition]]  #alan
+- 🟢 `2024-12-07` [[2024-12-07 - BOI Reporting Requirements|BOI Reporting Requirements]]  #alan
+- 🟢 `2024-12-07` [[2024-12-07 - CIA Hiring and Drug Use|CIA Hiring and Drug Use]]  #alan #hiring
+- 🟢 `2024-12-07` [[2024-12-07 - Fraud Victim Status Explained|Fraud Victim Status Explained]]  #alan #dispute #scam
+- 🟢 `2024-12-07` [[2024-12-07 - Administrative Management Consulting|Administrative Management Consulting]]  #alan
+- 🟢 `2024-12-07` [[2024-12-07 - Vatican City Overview|Vatican City Overview]]  #alan
+- 🟢 `2024-12-07` [[2024-12-07 - Forged in the Fire|Forged in the Fire]]  #alan
+- 🟢 `2024-12-07` [[2024-12-07 - Know Thyself in Bible|Know Thyself in Bible]]  #alan
+- 🟢 `2024-12-07` [[2024-12-07 - Mullein Tea for Congestion|Mullein Tea for Congestion]]  #alan
+- 🟢 `2024-12-07` [[2024-12-07 - BPC-157 Brain Fog Energy|BPC-157 Brain Fog Energy]]  #alan
+- 🟢 `2024-12-08` [[2024-12-08 - Logo Design Request|Logo Design Request]]  #alan #branding
+- 🟢 `2024-12-08` [[2024-12-08 - Twitch Alert Sound Fix|Twitch Alert Sound Fix]]  #alan
+- 🟢 `2024-12-08` [[2024-12-08 - Mormon Temple and Chastity|Mormon Temple and Chastity]]  #alan
+- 🟢 `2024-12-08` [[2024-12-08 - iSpring vs APEC RO|iSpring vs APEC RO]]  #alan
+- 🟢 `2024-12-08` [[2024-12-08 - Top RO UV Systems|Top RO UV Systems]]  #alan
+- 🟢 `2024-12-08` [[2024-12-08 - Inflammation Management Post-Surgery|Inflammation Management Post-Surgery]]  #alan #health #supplements #surgery
+- 🟢 `2024-12-08` [[2024-12-08 - B-Complex and Multivitamin Interaction|B-Complex and Multivitamin Interaction]]  #alan
+- 🟢 `2024-12-08` [[2024-12-08 - All right summary|All right summary]]  #alan #health #supplements #trt
+- 🟢 `2024-12-09` [[2024-12-09 - LDS Conference Center Cost|LDS Conference Center Cost]]  #alan
+- 🟢 `2024-12-09` [[2024-12-09 - TRT Providers in MN|TRT Providers in MN]]  #alan #health #trt
+- 🟢 `2024-12-09` [[2024-12-09 - Old vs New Programming|Old vs New Programming]]  #alan
+- 🟢 `2024-12-09` [[2024-12-09 - Logo design request|Logo design request]]  #alan #branding
+- 🟢 `2024-12-09` [[2024-12-09 - Chin Pimple Face Mapping|Chin Pimple Face Mapping]]  #alan
+- 🟢 `2024-12-09` [[2024-12-09 - 13 Crystal Skulls Myth|13 Crystal Skulls Myth]]  #alan
+- 🟢 `2024-12-09` [[2024-12-09 - Silicon Crystals in CPUs|Silicon Crystals in CPUs]]  #alan #tech
+- 🟢 `2024-12-09` [[2024-12-09 - Magnesium Glycinate Dosage Calculation|Magnesium Glycinate Dosage Calculation]]  #alan
+- 🟢 `2024-12-09` [[2024-12-09 - Abracadabra and its Origins|Abracadabra and its Origins]]  #alan
+- 🟢 `2024-12-09` [[2024-12-09 - Closing Kikoff Early Impact|Closing Kikoff Early Impact]]  #alan #sales
+- 🟢 `2024-12-09` [[2024-12-09 - Nav Prime Tradelines Plan|Nav Prime Tradelines Plan]]  #alan #credit #tradeline
+- 🟢 `2024-12-09` [[2024-12-09 - Consulting Risk and Fundability|Consulting Risk and Fundability]]  #alan
+- 🟢 `2024-12-09` [[2024-12-09 - Co-mingling Risk in Business|Co-mingling Risk in Business]]  #alan #personal-credit
+- 🟢 `2024-12-09` [[2024-12-09 - Credit Builder Bureaus|Credit Builder Bureaus]]  #alan #business-credit #credit
+- 🟢 `2024-12-10` [[2024-12-10 - Dispute Unauthorized Inquiries|Dispute Unauthorized Inquiries]]  #alan
+- 🟢 `2024-12-10` [[2024-12-10 - Inquiry Permissible Purpose Explanation|Inquiry Permissible Purpose Explanation]]  #alan #credit
+- 🟢 `2024-12-10` [[2024-12-10 - ChexSystems Dispute Deadline Issue|ChexSystems Dispute Deadline Issue]]  #alan #legal
+- 🟢 `2024-12-10` [[2024-12-10 - Magnesium Glycinate Dosage Effects|Magnesium Glycinate Dosage Effects]]  #alan
+- 🟢 `2024-12-10` [[2024-12-10 - Experian Business Credit Dispute|Experian Business Credit Dispute]]  #alan #business-credit #credit
+- 🟢 `2024-12-10` [[2024-12-10 - Low NAV Prime Score|Low NAV Prime Score]]  #alan #business-credit #credit
+- 🟢 `2024-12-10` [[2024-12-10 - Liquid Stool Causes|Liquid Stool Causes]]  #alan #fitness #health
+- 🟢 `2024-12-10` [[2024-12-10 - Funding Restrictions Clarification|Funding Restrictions Clarification]]  #alan
+- 🟢 `2024-12-10` [[2024-12-10 - E-signing Without Recourse|E-signing Without Recourse]]  #alan #legal
+- 🟢 `2024-12-10` [[2024-12-10 - Klarna Credit Report Dispute|Klarna Credit Report Dispute]]  #alan #credit
+- 🟢 `2024-12-11` [[2024-12-11 - Freshens vs Jamba Juice|Freshens vs Jamba Juice]]  #alan
+- 🟢 `2024-12-11` [[2024-12-11 - Magnesium Stearate Effects|Magnesium Stearate Effects]]  #alan
+- 🟢 `2024-12-11` [[2024-12-11 - TRT for Recovery and Motivation|TRT for Recovery and Motivation]]  #alan #health #surgery #trt
+- 🟢 `2024-12-11` [[2024-12-11 - Wholesaling to Hedge Funds|Wholesaling to Hedge Funds]]  #alan
+- 🟢 `2024-12-11` [[2024-12-11 - Income vs Money Supply|Income vs Money Supply]]  #alan
+- 🟢 `2024-12-11` [[2024-12-11 - Cryptocurrency Basics Explained|Cryptocurrency Basics Explained]]  #alan
+- 🟢 `2024-12-11` [[2024-12-11 - Red 40 Health Concerns|Red 40 Health Concerns]]  #alan
+- 🟢 `2024-12-11` [[2024-12-11 - Klarna Credit Report Issue|Klarna Credit Report Issue]]  #alan #credit
+- 🟢 `2024-12-12` [[2024-12-12 - Juice Ingredient Combinations|Juice Ingredient Combinations]]  #alan
+- 🟢 `2024-12-12` [[2024-12-12 - Controller Button Macro Setup|Controller Button Macro Setup]]  #alan
+- 🟢 `2024-12-12` [[2024-12-12 - Ranked Squad Restrictions|Ranked Squad Restrictions]]  #alan
+- 🟢 `2024-12-12` [[2024-12-12 - IP Reputation Attack Blocked|IP Reputation Attack Blocked]]  #alan
+- 🟢 `2024-12-12` [[2024-12-12 - Ear Inflammation from Earbuds|Ear Inflammation from Earbuds]]  #alan
+- 🟢 `2024-12-12` [[2024-12-12 - Oral vs Injection Testosterone|Oral vs Injection Testosterone]]  #alan
+- 🟢 `2024-12-12` [[2024-12-12 - Non-Rent Bill Reporting|Non-Rent Bill Reporting]]  #alan #credit #tradeline
+- 🟢 `2024-12-13` [[2024-12-13 - Credit Entries Cleanup|Credit Entries Cleanup]]  #alan #funding
+- 🟢 `2024-12-13` [[2024-12-13 - LLC Registered Agent Address|LLC Registered Agent Address]]  #alan
+- 🟢 `2024-12-13` [[2024-12-13 - Timeline Progress Check|Timeline Progress Check]]  #alan
+- 🟢 `2024-12-13` [[2024-12-13 - Bank Presence by State|Bank Presence by State]]  #alan #funding
+- 🟢 `2024-12-13` [[2024-12-13 - Testosterone Boosting Supplements|Testosterone Boosting Supplements]]  #alan #health #supplements
+- 🟢 `2024-12-13` [[2024-12-13 - Incentives for Reporting Inaccuracies|Incentives for Reporting Inaccuracies]]  #alan #credit
+- 🟢 `2024-12-13` [[2024-12-13 - Certified vs First Class|Certified vs First Class]]  #alan
+- 🟢 `2024-12-13` [[2024-12-13 - Acne Scar Treatments|Acne Scar Treatments]]  #alan #health #skin
+- 🟢 `2024-12-13` [[2024-12-13 - Business Credit Institutions Analysis|Business Credit Institutions Analysis]]  #alan #business-credit #credit #funding #personal-credit
+- 🟢 `2024-12-13` [[2024-12-13 - Funding Plan Breakdown|Funding Plan Breakdown]]  #alan
+- 🟢 `2024-12-13` [[2024-12-13 - Break-even Calculation Challenge|Break-even Calculation Challenge]]  #alan #ai-workflow #funding
+- 🟢 `2024-12-13` [[2024-12-13 - Mastering Wealth Intuitively|Mastering Wealth Intuitively]]  #alan
+- 🟢 `2024-12-13` [[2024-12-13 - Thoth Knowledge and Mastery|Thoth Knowledge and Mastery]]  #alan
+- 🟢 `2024-12-13` [[2024-12-13 - Best Water Filtration Systems|Best Water Filtration Systems]]  #alan
+- 🟢 `2024-12-13` [[2024-12-13 - Ultimate Mastery Goal|Ultimate Mastery Goal]]  #alan
+- 🟢 `2024-12-13` [[2024-12-13 - Foods for Solid Poops|Foods for Solid Poops]]  #alan
+- 🟢 `2024-12-14` [[2024-12-14 - Best Rent Reporting Services|Best Rent Reporting Services]]  #alan #credit
+- 🟢 `2024-12-14` [[2024-12-14 - Ava Card Overview|Ava Card Overview]]  #alan #credit #tradeline
+- 🟢 `2024-12-14` [[2024-12-14 - Improve Business Credit Score|Improve Business Credit Score]]  #alan #bankruptcy #business-credit #credit #legal #tradeline
+- 🟢 `2024-12-14` [[2024-12-14 - Boom Pay Verification Process|Boom Pay Verification Process]]  #alan #credit
+- 🟢 `2024-12-14` [[2024-12-14 - PITI Cash Flow Analysis|PITI Cash Flow Analysis]]  #alan #sales
+- 🟢 `2024-12-15` [[2024-12-15 - Mormonism on Chastity and Cohabitation|Mormonism on Chastity and Cohabitation]]  #alan
+- 🟢 `2024-12-15` [[2024-12-15 - Jesus vs Barabbas Mormonism|Jesus vs Barabbas Mormonism]]  #alan
+- 🟢 `2024-12-15` [[2024-12-15 - 3BR 2BA Salt Lake|3BR 2BA Salt Lake]]  #alan
+- 🟢 `2024-12-15` [[2024-12-15 - Bali for Nomads and Seekers|Bali for Nomads and Seekers]]  #alan
+- 🟢 `2024-12-15` [[2024-12-15 - Legitimacy of Wholesaling Program|Legitimacy of Wholesaling Program]]  #alan #legal #sales #high-signal
+- 🟢 `2024-12-15` [[2024-12-15 - Bank account security|Bank account security]]  #alan
+- 🟢 `2024-12-15` [[2024-12-15 - Experian Duns Backdating Inquiry|Experian Duns Backdating Inquiry]]  #alan #business-credit #credit
+- 🟢 `2024-12-16` [[2024-12-16 - Late Payment Dispute Template|Late Payment Dispute Template]]  #alan
+- 🟢 `2024-12-16` [[2024-12-16 - KeyBank Credit Bureau Reporting|KeyBank Credit Bureau Reporting]]  #alan #credit
+- 🟢 `2024-12-16` [[2024-12-16 - Sumerian Flood Myth|Sumerian Flood Myth]]  #alan
+- 🟢 `2024-12-16` [[2024-12-16 - Experian Business Report History|Experian Business Report History]]  #alan #business-credit #credit
+- 🟢 `2024-12-16` [[2024-12-16 - Notarized Affidavit Validation|Notarized Affidavit Validation]]  #alan #credit #dispute #legal #scam
+- 🟢 `2024-12-16` [[2024-12-16 - Access to Databases|Access to Databases]]  #alan
+- 🟢 `2024-12-16` [[2024-12-16 - Debt Dispute Validation Request|Debt Dispute Validation Request]]  #alan #dispute #legal #scam
+- 🟢 `2024-12-16` [[2024-12-16 - 3rd Party Tested Protein|3rd Party Tested Protein]]  #alan #fitness #health
+- 🟢 `2024-12-16` [[2024-12-16 - White Label Protein Options|White Label Protein Options]]  #alan #branding #fitness #health #supplements
+- 🟢 `2024-12-17` [[2024-12-17 - Rent to Market Value|Rent to Market Value]]  #alan
+- 🟢 `2024-12-17` [[2024-12-17 - Bridger Pennington's Hometown|Bridger Pennington's Hometown]]  #alan
+- 🟢 `2024-12-17` [[2024-12-17 - Anker 335 Charging Specs|Anker 335 Charging Specs]]  #alan
+- 🟢 `2024-12-17` [[2024-12-17 - Anker Power Bank USB-C|Anker Power Bank USB-C]]  #alan
+- 🟢 `2024-12-17` [[2024-12-17 - GaN Charging Impact|GaN Charging Impact]]  #alan #fib
+- 🟢 `2024-12-17` [[2024-12-17 - LandVest DMAP Coupon Request|LandVest DMAP Coupon Request]]  #alan
+- 🟢 `2024-12-17` [[2024-12-17 - Premium Custom Hoodie Options|Premium Custom Hoodie Options]]  #alan
+- 🟢 `2024-12-17` [[2024-12-17 - White Label Protein Dropshipping|White Label Protein Dropshipping]]  #alan #fitness #health
+- 🟢 `2024-12-17` [[2024-12-17 - Fastest TTK Weapons S23|Fastest TTK Weapons S23]]  #alan
+- 🟢 `2024-12-18` [[2024-12-18 - Inquiry Record Summary|Inquiry Record Summary]]  #alan
+- 🟢 `2024-12-18` [[2024-12-18 - Vortex Water Claims Explained|Vortex Water Claims Explained]]  #alan #sales
+- 🟢 `2024-12-18` [[2024-12-18 - Best Water Filtration System|Best Water Filtration System]]  #alan
+- 🟢 `2024-12-18` [[2024-12-18 - Disable Hardware Acceleration Chrome iOS|Disable Hardware Acceleration Chrome iOS]]  #alan
+- 🟢 `2024-12-18` [[2024-12-18 - Finding Quadplex Deals|Finding Quadplex Deals]]  #alan
+- 🟢 `2024-12-18` [[2024-12-18 - Ketamine IV Dosage Guide|Ketamine IV Dosage Guide]]  #alan #health #trt
+- 🟢 `2024-12-18` [[2024-12-18 - Path to Multibillionaire Status|Path to Multibillionaire Status]]  #alan
+- 🟢 `2024-12-18` [[2024-12-18 - Legal Risks in Videos|Legal Risks in Videos]]  #alan #copywriting #fitness #health #instagram #marketing #mindset
+- 🟢 `2024-12-18` [[2024-12-18 - Truist Kentucky Listing Exclusion|Truist Kentucky Listing Exclusion]]  #alan
+- 🟢 `2024-12-18` [[2024-12-18 - Timeless Christmas Gifts for Dad|Timeless Christmas Gifts for Dad]]  #alan
+- 🟢 `2024-12-18` [[2024-12-18 - Mobile Home Section 8 Eligibility|Mobile Home Section 8 Eligibility]]  #alan
+- 🟢 `2024-12-18` [[2024-12-18 - Ketamine Infusion Comparison|Ketamine Infusion Comparison]]  #alan
+- 🟢 `2024-12-19` [[2024-12-19 - TikTok Ban and Appeal|TikTok Ban and Appeal]]  #alan
+- 🟢 `2024-12-19` [[2024-12-19 - Menstrual Pain Natural Remedies|Menstrual Pain Natural Remedies]]  #alan
+- 🟢 `2024-12-19` [[2024-12-19 - 3BR 2BA Soundproof Rentals|3BR 2BA Soundproof Rentals]]  #alan #fib
+- 🟢 `2024-12-19` [[2024-12-19 - Chest Pain and Blood Taste|Chest Pain and Blood Taste]]  #alan #bloodwork #health
+- 🟢 `2024-12-19` [[2024-12-19 - Fraudulent Billing and Violations|Fraudulent Billing and Violations]]  #alan #dispute #scam
+- 🟢 `2024-12-19` [[2024-12-19 - Secondary Credit Bureaus|Secondary Credit Bureaus]]  #alan #credit
+- 🟢 `2024-12-19` [[2024-12-19 - Eagan MN Subdivisions|Eagan MN Subdivisions]]  #alan
+- 🟢 `2024-12-19` [[2024-12-19 - Fraud Investigation Appeal Tips|Fraud Investigation Appeal Tips]]  #alan #cfpb #credit #dispute #scam
+- 🟢 `2024-12-20` [[2024-12-20 - FCRA Violation and Credit Dispute|FCRA Violation and Credit Dispute]]  #alan #cfpb #credit #dispute #legal #scam
+- 🟢 `2024-12-20` [[2024-12-20 - FNBO Sun Country Dispute|FNBO Sun Country Dispute]]  #alan #dispute #scam
+- 🟢 `2024-12-20` [[2024-12-20 - Mercury Hormonal Effects|Mercury Hormonal Effects]]  #alan
+- 🟢 `2024-12-20` [[2024-12-20 - Simmering Broth Safety Tips|Simmering Broth Safety Tips]]  #alan
+- 🟢 `2024-12-20` [[2024-12-20 - Ultimate Water Filtration System|Ultimate Water Filtration System]]  #alan
+- 🟢 `2024-12-20` [[2024-12-20 - Business Credit Bureaus|Business Credit Bureaus]]  #alan #business-credit #credit
+- 🟢 `2024-12-20` [[2024-12-20 - Contract Enforceability After Payment|Contract Enforceability After Payment]]  #alan #legal #networking
+- 🟢 `2024-12-21` [[2024-12-21 - Fundable Low-Risk SIC Codes|Fundable Low-Risk SIC Codes]]  #alan #legal
+- 🟢 `2024-12-21` [[2024-12-21 - Apex Legends VPN Issues|Apex Legends VPN Issues]]  #alan #high-signal
+- 🟢 `2024-12-21` [[2024-12-21 - Breaking Contract Without Reading|Breaking Contract Without Reading]]  #alan #legal
+- 🟢 `2024-12-21` [[2024-12-21 - Peptides vs Amino Acids vs Proteins|Peptides vs Amino Acids vs Proteins]]  #alan #fitness #health
+- 🟢 `2024-12-22` [[2024-12-22 - Shooting on BLM Land|Shooting on BLM Land]]  #alan
+- 🟢 `2024-12-22` [[2024-12-22 - BLM Land in MA|BLM Land in MA]]  #alan
+- 🟢 `2024-12-22` [[2024-12-22 - iPhone Camera as Webcam|iPhone Camera as Webcam]]  #alan
+- 🟢 `2024-12-22` [[2024-12-22 - Color Comparison Response|Color Comparison Response]]  #alan
+- 🟢 `2024-12-22` [[2024-12-22 - Bible Blood Imagery|Bible Blood Imagery]]  #alan
+- 🟢 `2024-12-22` [[2024-12-22 - Cleric in Christianity|Cleric in Christianity]]  #alan
+- 🟢 `2024-12-22` [[2024-12-22 - Deworming Program Guide|Deworming Program Guide]]  #alan
+- 🟢 `2024-12-22` [[2024-12-22 - Amazon Prime Reimbursement FAQ|Amazon Prime Reimbursement FAQ]]  #alan
+- 🟢 `2024-12-22` [[2024-12-22 - Yosemite Reservation Guidelines|Yosemite Reservation Guidelines]]  #alan
+- 🟢 `2024-12-23` [[2024-12-23 - Unicorn Bedtime Story|Unicorn Bedtime Story]]  #alan
+- 🟢 `2024-12-23` [[2024-12-23 - Washington DC Symbolism Analysis|Washington DC Symbolism Analysis]]  #alan
+- 🟢 `2024-12-23` [[2024-12-23 - Singing Apps with Pitch Feedback|Singing Apps with Pitch Feedback]]  #alan #sales
+- 🟢 `2024-12-24` [[2024-12-24 - Wine Gift Comparison|Wine Gift Comparison]]  #alan
+- 🟢 `2024-12-26` [[2024-12-26 - Crystal vs Regular Glass|Crystal vs Regular Glass]]  #alan
+- 🟢 `2024-12-26` [[2024-12-26 - Cold-press Oranges with Nama|Cold-press Oranges with Nama]]  #alan
+- 🟢 `2024-12-27` [[2024-12-27 - Business Credit Options|Business Credit Options]]  #alan #business-credit #credit
+- 🟢 `2024-12-27` [[2024-12-27 - Risk and Fundability Analysis|Risk and Fundability Analysis]]  #alan #business-credit #credit #legal
+- 🟢 `2024-12-27` [[2024-12-27 - NAICS Codes Massage Nails|NAICS Codes Massage Nails]]  #alan
+- 🟢 `2024-12-27` [[2024-12-27 - Accurate SQFT Verification|Accurate SQFT Verification]]  #alan
+- 🟢 `2024-12-27` [[2024-12-27 - Pizza Area Comparison|Pizza Area Comparison]]  #alan
+- 🟢 `2024-12-27` [[2024-12-27 - Holy Spirit vs Intuition|Holy Spirit vs Intuition]]  #alan
+- 🟢 `2024-12-27` [[2024-12-27 - Uterus Function and Structure|Uterus Function and Structure]]  #alan
+- 🟢 `2024-12-28` [[2024-12-28 - Palm Oil vs Seed Oils|Palm Oil vs Seed Oils]]  #alan
+- 🟢 `2024-12-28` [[2024-12-28 - Malicious IP Block Fix|Malicious IP Block Fix]]  #alan
+- 🟢 `2024-12-28` [[2024-12-28 - Hypnotic Job Application Email|Hypnotic Job Application Email]]  #alan #hiring #networking #sales
+- 🟢 `2024-12-28` [[2024-12-28 - Sales Funding Email Draft|Sales Funding Email Draft]]  #alan #ai-workflow #hiring
+- 🟢 `2024-12-29` [[2024-12-29 - DNA Similarities Fun Facts|DNA Similarities Fun Facts]]  #alan
+- 🟢 `2024-12-29` [[2024-12-29 - MCC Steam Sale Dates|MCC Steam Sale Dates]]  #alan
+- 🟢 `2024-12-29` [[2024-12-29 - Forerunners and Prometheans Halo 4|Forerunners and Prometheans Halo 4]]  #alan
+- 🟢 `2024-12-29` [[2024-12-29 - Cortana Rampancy Transition|Cortana Rampancy Transition]]  #alan #tech
+- 🟢 `2024-12-29` [[2024-12-29 - QSC K12 Wattage Specs|QSC K12 Wattage Specs]]  #alan
+- 🟢 `2024-12-29` [[2024-12-29 - QSC K12 MSRP|QSC K12 MSRP]]  #alan
+- 🟢 `2024-12-29` [[2024-12-29 - LLC C-Corp Payroll Setup|LLC C-Corp Payroll Setup]]  #alan
+- 🟢 `2024-12-30` [[2024-12-30 - Normal vs Crystal Glass|Normal vs Crystal Glass]]  #alan
+- 🟢 `2024-12-30` [[2024-12-30 - Step Card Credit Reporting|Step Card Credit Reporting]]  #alan #credit
+- 🟢 `2024-12-30` [[2024-12-30 - Ketamine for Depression Relief|Ketamine for Depression Relief]]  #alan
+- 🟢 `2024-12-30` [[2024-12-30 - Best Dairy-Free Tzatziki|Best Dairy-Free Tzatziki]]  #alan
+- 🟢 `2024-12-30` [[2024-12-30 - Enhanced vs Regular Bitrate|Enhanced vs Regular Bitrate]]  #alan
+- 🟢 `2024-12-30` [[2024-12-30 - W2 Income Business Deduction|W2 Income Business Deduction]]  #alan
+- 🟢 `2024-12-30` [[2024-12-30 - FDCPA Violation Lawsuit Guide|FDCPA Violation Lawsuit Guide]]  #alan #dispute #legal #scam
+- 🟢 `2024-12-30` [[2024-12-30 - ChexSystems Inquiries Impact|ChexSystems Inquiries Impact]]  #alan
+- 🟢 `2024-12-30` [[2024-12-30 - ChexSystems Identity Theft Dispute|ChexSystems Identity Theft Dispute]]  #alan #legal
+- 🟢 `2024-12-31` [[2024-12-31 - Healthiest Oils for Frying|Healthiest Oils for Frying]]  #alan
+- 🟢 `2024-12-31` [[2024-12-31 - Chase Bank Notes Deletion|Chase Bank Notes Deletion]]  #alan #credit #legal
+- 🟢 `2024-12-31` [[2024-12-31 - Progressive Farkle Rules|Progressive Farkle Rules]]  #alan
+- 🟢 `2024-12-31` [[2024-12-31 - Misrepresentation Overriding Written Contracts|Misrepresentation Overriding Written Contracts]]  #alan #legal
+- 🟢 `2024-12-31` [[2024-12-31 - Posting Risks and Legalities|Posting Risks and Legalities]]  #alan
+
+## 2024-11  (117)
+
+- 🟢 `2024-11-01` [[2024-11-01 - AIS Models Review|AIS Models Review]]  #alan
+- 🟢 `2024-11-01` [[2024-11-01 - Getting Snipped and Reversed|Getting Snipped and Reversed]]  #alan
+- 🟢 `2024-11-01` [[2024-11-01 - Saratoga Water pH Levels|Saratoga Water pH Levels]]  #alan
+- 🟢 `2024-11-02` [[2024-11-02 - What is KatsuSauce|What is KatsuSauce]]  #alan
+- 🟢 `2024-11-03` [[2024-11-03 - Borlest Manifestation Technique Review|Borlest Manifestation Technique Review]]  #alan
+- 🟢 `2024-11-03` [[2024-11-03 - TBHQ BHT Health Concerns|TBHQ BHT Health Concerns]]  #alan
+- 🟢 `2024-11-03` [[2024-11-03 - New chat|New chat]]  #alan
+- 🟢 `2024-11-03` [[2024-11-03 - Build Credit for Homeownership|Build Credit for Homeownership]]  #alan
+- 🟢 `2024-11-04` [[2024-11-04 - Mortgage Eligibility Calculation|Mortgage Eligibility Calculation]]  #alan
+- 🟢 `2024-11-05` [[2024-11-05 - Boosting Credit Age AUs|Boosting Credit Age AUs]]  #alan #account-age #credit
+- 🟢 `2024-11-05` [[2024-11-05 - FHA Quadplex Investment Locations|FHA Quadplex Investment Locations]]  #alan
+- 🟢 `2024-11-06` [[2024-11-06 - Credit Building Strategies Fast|Credit Building Strategies Fast]]  #alan
+- 🟢 `2024-11-06` [[2024-11-06 - Finding Quadplexes in SLC|Finding Quadplexes in SLC]]  #alan
+- 🟢 `2024-11-06` [[2024-11-06 - NASA CU Checking Accounts|NASA CU Checking Accounts]]  #alan
+- 🟢 `2024-11-06` [[2024-11-06 - High Credit Limits Minnesota|High Credit Limits Minnesota]]  #alan
+- 🟢 `2024-11-06` [[2024-11-06 - Remove Hard Inquiries Guide|Remove Hard Inquiries Guide]]  #alan #sales
+- 🟢 `2024-11-06` [[2024-11-06 - Registration Docs vs Tabs|Registration Docs vs Tabs]]  #alan
+- 🟢 `2024-11-07` [[2024-11-07 - St Joseph Levitation Flights|St Joseph Levitation Flights]]  #alan #mindset
+- 🟢 `2024-11-07` [[2024-11-07 - Maxing Amex Business Funding|Maxing Amex Business Funding]]  #alan #amex #funding #payments
+- 🟢 `2024-11-07` [[2024-11-07 - Mormonism Commandments and Chastity|Mormonism Commandments and Chastity]]  #alan
+- 🟢 `2024-11-07` [[2024-11-07 - Navy Federal Business Accounts|Navy Federal Business Accounts]]  #alan
+- 🟢 `2024-11-07` [[2024-11-07 - Holistic Eye Redness Remedies|Holistic Eye Redness Remedies]]  #alan
+- 🟢 `2024-11-07` [[2024-11-07 - Aubrey Marcus Residence Location|Aubrey Marcus Residence Location]]  #alan
+- 🟢 `2024-11-08` [[2024-11-08 - Articles of Incorporation MN LLC|Articles of Incorporation MN LLC]]  #alan
+- 🟢 `2024-11-08` [[2024-11-08 - Account Denial Consumer Rights|Account Denial Consumer Rights]]  #alan #credit #legal
+- 🟢 `2024-11-08` [[2024-11-08 - Bank Inquiry on Consulting|Bank Inquiry on Consulting]]  #alan
+- 🟢 `2024-11-08` [[2024-11-08 - Contract Cancellation and Refunds|Contract Cancellation and Refunds]]  #alan #legal #tech
+- 🟢 `2024-11-08` [[2024-11-08 - Coconut Aminos Salmon Soup|Coconut Aminos Salmon Soup]]  #alan
+- 🟢 `2024-11-08` [[2024-11-08 - Experian Inquiry Dispute Process|Experian Inquiry Dispute Process]]  #alan
+- 🟢 `2024-11-09` [[2024-11-09 - Hot Tub Weakness Analysis|Hot Tub Weakness Analysis]]  #alan
+- 🟢 `2024-11-09` [[2024-11-09 - Joint Loan Credit Impact|Joint Loan Credit Impact]]  #alan #credit
+- 🟢 `2024-11-10` [[2024-11-10 - Tongkat Ali vs TRT|Tongkat Ali vs TRT]]  #alan #health #trt
+- 🟢 `2024-11-11` [[2024-11-11 - Why Jesus is Savior|Why Jesus is Savior]]  #alan
+- 🟢 `2024-11-11` [[2024-11-11 - FNB Omaha FCRA Violation|FNB Omaha FCRA Violation]]  #alan #credit #dispute #legal #scam
+- 🟢 `2024-11-11` [[2024-11-11 - Mortgage Payment Estimate|Mortgage Payment Estimate]]  #alan
+- 🟢 `2024-11-12` [[2024-11-12 - NFCU Credit Card Limits|NFCU Credit Card Limits]]  #alan
+- 🟢 `2024-11-12` [[2024-11-12 - Hydrogenated Oil Health Risks|Hydrogenated Oil Health Risks]]  #alan
+- 🟢 `2024-11-14` [[2024-11-14 - Foreign Filing Costs C Corp|Foreign Filing Costs C Corp]]  #alan
+- 🟢 `2024-11-14` [[2024-11-14 - Self-Love Healing Books|Self-Love Healing Books]]  #alan
+- 🟢 `2024-11-14` [[2024-11-14 - Ejaculation and Testosterone Levels|Ejaculation and Testosterone Levels]]  #alan
+- 🟢 `2024-11-14` [[2024-11-14 - TRT Blood Test Results|TRT Blood Test Results]]  #alan #health #trt
+- 🟢 `2024-11-14` [[2024-11-14 - EWS Account Denial Reasons|EWS Account Denial Reasons]]  #alan
+- 🟢 `2024-11-14` [[2024-11-14 - Eurodollars Market Size|Eurodollars Market Size]]  #alan
+- 🟢 `2024-11-14` [[2024-11-14 - Contract Risks and Liabilities|Contract Risks and Liabilities]]  #alan #legal
+- 🟢 `2024-11-15` [[2024-11-15 - Top Round vs Eye Round|Top Round vs Eye Round]]  #alan
+- 🟢 `2024-11-16` [[2024-11-16 - God Parted the Sea|God Parted the Sea]]  #alan
+- 🟢 `2024-11-16` [[2024-11-16 - Klarna Afterpay Credit Impact|Klarna Afterpay Credit Impact]]  #alan #credit
+- 🟢 `2024-11-17` [[2024-11-17 - Minnesota Tax ID Process|Minnesota Tax ID Process]]  #alan
+- 🟢 `2024-11-17` [[2024-11-17 - Loose Toilet Handle Fix|Loose Toilet Handle Fix]]  #alan
+- 🟢 `2024-11-17` [[2024-11-17 - Health Wealth Success System|Health Wealth Success System]]  #alan #funding
+- 🟢 `2024-11-18` [[2024-11-18 - Nebuchadnezzar Overview|Nebuchadnezzar Overview]]  #alan
+- 🟢 `2024-11-18` [[2024-11-18 - Airbnb Pitch Script Help|Airbnb Pitch Script Help]]  #alan #sales
+- 🟢 `2024-11-18` [[2024-11-18 - Priest vs Bishop LDS|Priest vs Bishop LDS]]  #alan
+- 🟢 `2024-11-18` [[2024-11-18 - Ayahuasca Diet Guide|Ayahuasca Diet Guide]]  #alan #health
+- 🟢 `2024-11-18` [[2024-11-18 - File BOI for Free|File BOI for Free]]  #alan
+- 🟢 `2024-11-18` [[2024-11-18 - Citizens One Credit Impact|Citizens One Credit Impact]]  #alan #credit
+- 🟢 `2024-11-18` [[2024-11-18 - Holy Ghost vs Holy Spirit|Holy Ghost vs Holy Spirit]]  #alan
+- 🟢 `2024-11-18` [[2024-11-18 - Agreement Liability Analysis|Agreement Liability Analysis]]  #alan #legal
+- 🟢 `2024-11-18` [[2024-11-18 - ACH Payment Solutions|ACH Payment Solutions]]  #alan
+- 🟢 `2024-11-18` [[2024-11-18 - FCRA Identity Theft Dispute|FCRA Identity Theft Dispute]]  #alan #legal
+- 🟢 `2024-11-19` [[2024-11-19 - NFCU CLI Increase Timeline|NFCU CLI Increase Timeline]]  #alan
+- 🟢 `2024-11-19` [[2024-11-19 - Are sprouted potatoes safe|Are sprouted potatoes safe?]]  #alan
+- 🟢 `2024-11-19` [[2024-11-19 - Esketamine Eye Redness Remedies|Esketamine Eye Redness Remedies]]  #alan
+- 🟢 `2024-11-19` [[2024-11-19 - Ginger Juicing Tips|Ginger Juicing Tips]]  #alan
+- 🟢 `2024-11-20` [[2024-11-20 - Juice Pulp Crackers Recipe|Juice Pulp Crackers Recipe]]  #alan
+- 🟢 `2024-11-20` [[2024-11-20 - Recourse Clause Advice|Recourse Clause Advice]]  #alan #credit #legal
+- 🟢 `2024-11-20` [[2024-11-20 - O1 vs GPT-4o Comparison|O1 vs GPT-4o Comparison]]  #alan
+- 🟢 `2024-11-20` [[2024-11-20 - Halo Infinite Engine vs UE5|Halo Infinite Engine vs UE5]]  #alan
+- 🟢 `2024-11-20` [[2024-11-20 - Astrology and Cosmic Waves|Astrology and Cosmic Waves]]  #alan
+- 🟢 `2024-11-20` [[2024-11-20 - Starter Cards Credit Report|Starter Cards Credit Report]]  #alan #credit
+- 🟢 `2024-11-21` [[2024-11-21 - Estimated Rent Calculation|Estimated Rent Calculation]]  #alan
+- 🟢 `2024-11-21` [[2024-11-21 - Image analysis request|Image analysis request]]  #alan
+- 🟢 `2024-11-22` [[2024-11-22 - DRG and DRG-CLS Meaning|DRG and DRG/CLS Meaning]]  #alan
+- 🟢 `2024-11-22` [[2024-11-22 - Aquarian Age and 2012|Aquarian Age and 2012]]  #alan
+- 🟢 `2024-11-22` [[2024-11-22 - Fix and Flip OPM|Fix and Flip OPM]]  #alan
+- 🟢 `2024-11-22` [[2024-11-22 - Just Bare Chicken Health|Just Bare Chicken Health]]  #alan
+- 🟢 `2024-11-22` [[2024-11-22 - Holistic Remedies for Pneumonia|Holistic Remedies for Pneumonia]]  #alan
+- 🟢 `2024-11-22` [[2024-11-22 - Credit report interpretation|Credit report interpretation]]  #alan #credit #legal
+- 🟢 `2024-11-22` [[2024-11-22 - DSCR Loan Interest Rates|DSCR Loan Interest Rates]]  #alan
+- 🟢 `2024-11-22` [[2024-11-22 - Internal Transfers as Revenue|Internal Transfers as Revenue]]  #alan
+- 🟢 `2024-11-22` [[2024-11-22 - Xcel Energy Solar Buyback|Xcel Energy Solar Buyback]]  #alan
+- 🟢 `2024-11-23` [[2024-11-23 - Hard Money Lenders Options|Hard Money Lenders Options]]  #alan
+- 🟢 `2024-11-23` [[2024-11-23 - High Limit Credit Cards|High Limit Credit Cards]]  #alan #credit #funding #utilization
+- 🟢 `2024-11-23` [[2024-11-23 - King James Bible Release|King James Bible Release]]  #alan
+- 🟢 `2024-11-24` [[2024-11-24 - Shirt Sizing Conversion US|Shirt Sizing Conversion US]]  #alan
+- 🟢 `2024-11-24` [[2024-11-24 - Backflip 96% LTC Explained|Backflip 96% LTC Explained]]  #alan
+- 🟢 `2024-11-24` [[2024-11-24 - Cathar vs Catholic War|Cathar vs Catholic War]]  #alan
+- 🟢 `2024-11-24` [[2024-11-24 - NAD+ vs TRT Comparison|NAD+ vs TRT Comparison]]  #alan #health #trt
+- 🟢 `2024-11-24` [[2024-11-24 - Founding Fathers on Truth|Founding Fathers on Truth]]  #alan
+- 🟢 `2024-11-24` [[2024-11-24 - Overcoming Fearful Entities|Overcoming Fearful Entities]]  #alan
+- 🟢 `2024-11-24` [[2024-11-24 - YukaF Mouse Pad|YukaF Mouse Pad]]  #alan
+- 🟢 `2024-11-24` [[2024-11-24 - Free Instagram Video Transcriber|Free Instagram Video Transcriber]]  #alan #instagram #marketing
+- 🟢 `2024-11-24` [[2024-11-24 - Pyramid Mythology Debunked|Pyramid Mythology Debunked]]  #alan
+- 🟢 `2024-11-25` [[2024-11-25 - New chat|New chat]]  #alan
+- 🟢 `2024-11-25` [[2024-11-25 - Lord's Prayer Request|Lord's Prayer Request]]  #alan
+- 🟢 `2024-11-25` [[2024-11-25 - Artisan Zero Soft vs Wallhack|Artisan Zero Soft vs Wallhack]]  #alan
+- 🟢 `2024-11-25` [[2024-11-25 - Cramps Causes and Variability|Cramps Causes and Variability]]  #alan
+- 🟢 `2024-11-26` [[2024-11-26 - Personal Loans TransUnion Only|Personal Loans TransUnion Only]]  #alan
+- 🟢 `2024-11-26` [[2024-11-26 - Demonizing Sexuality and Control|Demonizing Sexuality and Control]]  #alan #dispute #scam
+- 🟢 `2024-11-26` [[2024-11-26 - D♭ Major Scale Notes|D♭ Major Scale Notes]]  #alan
+- 🟢 `2024-11-26` [[2024-11-26 - Lvl 1 vs Lvl 2 RM|Lvl 1 vs Lvl 2 RM]]  #alan
+- 🟢 `2024-11-26` [[2024-11-26 - Backdating Business Credit History|Backdating Business Credit History]]  #alan #business-credit #credit
+- 🟢 `2024-11-27` [[2024-11-27 - Gigabyte Aim Stabilizer Sync|Gigabyte Aim Stabilizer Sync]]  #alan #tech
+- 🟢 `2024-11-27` [[2024-11-27 - Z690-P DDR4 Compatibility|Z690-P DDR4 Compatibility]]  #alan
+- 🟢 `2024-11-27` [[2024-11-27 - Business Document Refusal Scenarios|Business Document Refusal Scenarios]]  #alan #dispute #scam
+- 🟢 `2024-11-27` [[2024-11-27 - DSC vs ELMB Apex|DSC vs ELMB Apex]]  #alan #tech
+- 🟢 `2024-11-27` [[2024-11-27 - 16-9 to 16-10 Conversion|16:9 to 16:10 Conversion]]  #alan
+- 🟢 `2024-11-27` [[2024-11-27 - Apple Vision Pro Cushion|Apple Vision Pro Cushion]]  #alan
+- 🟢 `2024-11-28` [[2024-11-28 - Dharma vs Life Purpose|Dharma vs Life Purpose]]  #alan
+- 🟢 `2024-11-28` [[2024-11-28 - Conversation Summary Request|Conversation Summary Request]]  #alan #legal
+- 🟢 `2024-11-28` [[2024-11-28 - Bible and Astrology Guidance|Bible and Astrology Guidance]]  #alan
+- 🟢 `2024-11-28` [[2024-11-28 - Essenes and Jesus Comparison|Essenes and Jesus Comparison]]  #alan
+- 🟢 `2024-11-28` [[2024-11-28 - Gut Brain Axis|Gut Brain Axis]]  #alan
+- 🟢 `2024-11-28` [[2024-11-28 - DPS and PMS in Airbnb|DPS and PMS in Airbnb]]  #alan
+- 🟢 `2024-11-28` [[2024-11-28 - Best Credit Unions 55438|Best Credit Unions 55438]]  #alan #funding
+- 🟢 `2024-11-28` [[2024-11-28 - Enlight_Shop Bio Creation|Enlight_Shop Bio Creation]]  #alan
+- 🟢 `2024-11-29` [[2024-11-29 - Small Dog Bone Safety|Small Dog Bone Safety]]  #alan
+
+## 2024-10  (97)
+
+- 🟢 `2024-10-01` [[2024-10-01 - Total Call Time Summary|Total Call Time Summary]]  #alan
+- 🟢 `2024-10-01` [[2024-10-01 - Debt Verification Process Help|Debt Verification Process Help]]  #alan
+- 🟢 `2024-10-01` [[2024-10-01 - Covid Death Stats by Age|Covid Death Stats by Age]]  #alan
+- 🟢 `2024-10-01` [[2024-10-01 - Accessing Akashic Records Guide|Accessing Akashic Records Guide]]  #alan
+- 🟢 `2024-10-02` [[2024-10-02 - Kasa Smart Power Strip Issue|Kasa Smart Power Strip Issue]]  #alan
+- 🟢 `2024-10-02` [[2024-10-02 - iPhone Alarm Volume Issue|iPhone Alarm Volume Issue]]  #alan
+- 🟢 `2024-10-02` [[2024-10-02 - eOSCAR Address Dispute Code|eOSCAR Address Dispute Code]]  #alan
+- 🟢 `2024-10-02` [[2024-10-02 - Late Payment Removal Guide|Late Payment Removal Guide]]  #alan #credit #dispute #funding
+- 🟢 `2024-10-03` [[2024-10-03 - Alan Hyla Compatibility Horoscope|Alan Hyla Compatibility Horoscope]]  #alan
+- 🟢 `2024-10-03` [[2024-10-03 - Growing Green Onions Tips|Growing Green Onions Tips]]  #alan
+- 🟢 `2024-10-03` [[2024-10-03 - SBA Loan Types Overview|SBA Loan Types Overview]]  #alan
+- 🟢 `2024-10-03` [[2024-10-03 - Federal Reserve Interest Rates|Federal Reserve Interest Rates]]  #alan
+- 🟢 `2024-10-03` [[2024-10-03 - LightStream Auto Loan Contact|LightStream Auto Loan Contact]]  #alan
+- 🟢 `2024-10-03` [[2024-10-03 - Nelnet Credit Reporting Issues|Nelnet Credit Reporting Issues]]  #alan #credit
+- 🟢 `2024-10-03` [[2024-10-03 - Burning Itching Lips Aligners|Burning Itching Lips Aligners]]  #alan
+- 🟢 `2024-10-04` [[2024-10-04 - Intel XTU MSI Afterburner Undervolt|Intel XTU MSI Afterburner Undervolt]]  #alan #tech
+- 🟢 `2024-10-04` [[2024-10-04 - Structuring Money Transfers|Structuring Money Transfers]]  #alan #funding
+- 🟢 `2024-10-04` [[2024-10-04 - 100k Loan Payment Query|100k Loan Payment Query]]  #alan
+- 🟢 `2024-10-04` [[2024-10-04 - Apex Legends Global Series Rules|Apex Legends Global Series Rules]]  #alan #legal
+- 🟢 `2024-10-04` [[2024-10-04 - Website Completion Timeline Follow-up|Website Completion Timeline Follow-up]]  #alan
+- 🟢 `2024-10-04` [[2024-10-04 - Organic Certification Levels US|Organic Certification Levels US]]  #alan
+- 🟢 `2024-10-05` [[2024-10-05 - Navy Federal Pledge Loan|Navy Federal Pledge Loan]]  #alan
+- 🟢 `2024-10-05` [[2024-10-05 - Cease and Desist Aged Domains|Cease and Desist Aged Domains]]  #alan
+- 🟢 `2024-10-05` [[2024-10-05 - Prince to King Journey|Prince to King Journey]]  #alan
+- 🟢 `2024-10-06` [[2024-10-06 - Red Mold Safety Inquiry|Red Mold Safety Inquiry]]  #alan
+- 🟢 `2024-10-06` [[2024-10-06 - Drive Plan to Salt Lake|Drive Plan to Salt Lake]]  #alan
+- 🟢 `2024-10-06` [[2024-10-06 - Restore iOS Emoji Keyboard|Restore iOS Emoji Keyboard]]  #alan
+- 🟢 `2024-10-07` [[2024-10-07 - Sake and Microbiome Health|Sake and Microbiome Health]]  #alan
+- 🟢 `2024-10-07` [[2024-10-07 - Touchstone Fulvic vs Shilajit Sea Moss|Touchstone Fulvic vs Shilajit Sea Moss]]  #alan
+- 🟢 `2024-10-07` [[2024-10-07 - Huel vs KaChava Comparison|Huel vs KaChava Comparison]]  #alan
+- 🟢 `2024-10-07` [[2024-10-07 - Appendix Rupture Explained|Appendix Rupture Explained]]  #alan
+- 🟢 `2024-10-07` [[2024-10-07 - Leasing vs Financing Costs|Leasing vs Financing Costs]]  #alan #finance
+- 🟢 `2024-10-08` [[2024-10-08 - Fluoride Teeth IQ Pineal Gland|Fluoride Teeth IQ Pineal Gland]]  #alan
+- 🟢 `2024-10-08` [[2024-10-08 - Optimal Deductible for Insurance|Optimal Deductible for Insurance]]  #alan
+- 🟢 `2024-10-10` [[2024-10-10 - Jesus Sinlessness and Misunderstanding|Jesus Sinlessness and Misunderstanding]]  #alan
+- 🟢 `2024-10-10` [[2024-10-10 - Lutheran vs Mormon Baptism|Lutheran vs Mormon Baptism]]  #alan
+- 🟢 `2024-10-10` [[2024-10-10 - Pro Q vs Pro MB|Pro Q vs Pro MB]]  #alan
+- 🟢 `2024-10-11` [[2024-10-11 - Sleeping in Car Mt Rainier|Sleeping in Car Mt Rainier]]  #alan
+- 🟢 `2024-10-11` [[2024-10-11 - Bible Meat Consumption Debate|Bible Meat Consumption Debate]]  #alan
+- 🟢 `2024-10-11` [[2024-10-11 - NFCU Pledge Loan Policy|NFCU Pledge Loan Policy]]  #alan
+- 🟢 `2024-10-12` [[2024-10-12 - Mormonism and Sexual Relationships|Mormonism and Sexual Relationships]]  #alan
+- 🟢 `2024-10-14` [[2024-10-14 - Hypoallergenic Golden Retriever Mixes|Hypoallergenic Golden Retriever Mixes]]  #alan
+- 🟢 `2024-10-14` [[2024-10-14 - Contract Agreement Drafting|Contract Agreement Drafting]]  #alan #legal
+- 🟢 `2024-10-14` [[2024-10-14 - Sex Before Marriage Teachings|Sex Before Marriage Teachings]]  #alan
+- 🟢 `2024-10-14` [[2024-10-14 - Car Breakdown Coverage Inquiry|Car Breakdown Coverage Inquiry]]  #alan
+- 🟢 `2024-10-14` [[2024-10-14 - Oil Change Concerns Summary|Oil Change Concerns Summary]]  #alan
+- 🟢 `2024-10-15` [[2024-10-15 - Natural Penis Size Enhancement|Natural Penis Size Enhancement]]  #alan
+- 🟢 `2024-10-15` [[2024-10-15 - Jesus on Worship and Power|Jesus on Worship and Power]]  #alan
+- 🟢 `2024-10-15` [[2024-10-15 - Sleeping in Car Laws|Sleeping in Car Laws]]  #alan
+- 🟢 `2024-10-16` [[2024-10-16 - Mormons and Caffeine Restrictions|Mormons and Caffeine Restrictions]]  #alan
+- 🟢 `2024-10-16` [[2024-10-16 - Sleeping in Car Restrictions|Sleeping in Car Restrictions]]  #alan
+- 🟢 `2024-10-17` [[2024-10-17 - BLGS Apex Legends Overview|BLGS Apex Legends Overview]]  #alan
+- 🟢 `2024-10-17` [[2024-10-17 - LLC Registration Requirements|LLC Registration Requirements]]  #alan
+- 🟢 `2024-10-17` [[2024-10-17 - High pitched car noise|High pitched car noise]]  #alan #sales
+- 🟢 `2024-10-17` [[2024-10-17 - Business Codes Overview|Business Codes Overview]]  #alan
+- 🟢 `2024-10-17` [[2024-10-17 - Chase Business Card Usage|Chase Business Card Usage]]  #alan
+- 🟢 `2024-10-18` [[2024-10-18 - Testosterone Boosting Supplements Guide|Testosterone Boosting Supplements Guide]]  #alan #health #supplements
+- 🟢 `2024-10-18` [[2024-10-18 - Cost of Removable Veneers|Cost of Removable Veneers]]  #alan
+- 🟢 `2024-10-19` [[2024-10-19 - UCC Attorney General Credit Dispute|UCC Attorney General Credit Dispute]]  #alan #credit
+- 🟢 `2024-10-19` [[2024-10-19 - Median Net Worth by Age|Median Net Worth by Age]]  #alan
+- 🟢 `2024-10-19` [[2024-10-19 - Honda Pilot B1 Oil Life|Honda Pilot B1 Oil Life]]  #alan
+- 🟢 `2024-10-20` [[2024-10-20 - Open Carry Permit Utah|Open Carry Permit Utah]]  #alan
+- 🟢 `2024-10-20` [[2024-10-20 - Corporate Lease Approval Criteria|Corporate Lease Approval Criteria]]  #alan
+- 🟢 `2024-10-20` [[2024-10-20 - Business Logo Design Request|Business Logo Design Request]]  #alan #branding
+- 🟢 `2024-10-20` [[2024-10-20 - Sleeping in Car Near Snoqualmie|Sleeping in Car Near Snoqualmie]]  #alan
+- 🟢 `2024-10-21` [[2024-10-21 - Bridge Loans Overview|Bridge Loans Overview]]  #alan
+- 🟢 `2024-10-21` [[2024-10-21 - Self Reviewing Guidelines|Self Reviewing Guidelines]]  #alan
+- 🟢 `2024-10-22` [[2024-10-22 - NAV Boost and Business Credit|NAV Boost and Business Credit]]  #alan #business-credit #credit
+- 🟢 `2024-10-22` [[2024-10-22 - Sleeping in Car Legally|Sleeping in Car Legally]]  #alan
+- 🟢 `2024-10-22` [[2024-10-22 - Mormon Views on Jesus|Mormon Views on Jesus]]  #alan
+- 🟢 `2024-10-22` [[2024-10-22 - Late Payment Removal Request|Late Payment Removal Request]]  #alan
+- 🟢 `2024-10-25` [[2024-10-25 - Cramps Pain Relief Tips|Cramps Pain Relief Tips]]  #alan
+- 🟢 `2024-10-25` [[2024-10-25 - Building Business Credit Strategy|Building Business Credit Strategy]]  #alan #business-credit #credit #high-signal
+- 🟢 `2024-10-25` [[2024-10-25 - Brokering Multi Million Deals|Brokering Multi Million Deals]]  #alan
+- 🟢 `2024-10-25` [[2024-10-25 - Credit Card Debt Payments|Credit Card Debt Payments]]  #alan
+- 🟢 `2024-10-25` [[2024-10-25 - Buying Home No Income|Buying Home No Income]]  #alan
+- 🟢 `2024-10-25` [[2024-10-25 - Buy Box Strategy Overview|Buy Box Strategy Overview]]  #alan #high-signal
+- 🟢 `2024-10-25` [[2024-10-25 - Jesus in the Himalayas|Jesus in the Himalayas]]  #alan
+- 🟢 `2024-10-26` [[2024-10-26 - Toll Free Number Dispute|Toll Free Number Dispute]]  #alan #business-credit #credit
+- 🟢 `2024-10-26` [[2024-10-26 - Wealth Freedom Lifestyle Vision|Wealth Freedom Lifestyle Vision]]  #alan
+- 🟢 `2024-10-27` [[2024-10-27 - Fermented Juice Safety Concern|Fermented Juice Safety Concern]]  #alan
+- 🟢 `2024-10-27` [[2024-10-27 - Mormonism on Premarital Sex|Mormonism on Premarital Sex]]  #alan
+- 🟢 `2024-10-27` [[2024-10-27 - Moses and the Red Sea|Moses and the Red Sea]]  #alan
+- 🟢 `2024-10-27` [[2024-10-27 - Honda Pilot Service Reset|Honda Pilot Service Reset]]  #alan
+- 🟢 `2024-10-28` [[2024-10-28 - Macro and Microcosmic Orbit|Macro and Microcosmic Orbit]]  #alan
+- 🟢 `2024-10-28` [[2024-10-28 - Infinite Orgasms Request|Infinite Orgasms Request]]  #alan
+- 🟢 `2024-10-28` [[2024-10-28 - How to Levitate Like Monks|How to Levitate Like Monks]]  #alan
+- 🟢 `2024-10-28` [[2024-10-28 - Latin Inspired Names|Latin Inspired Names]]  #alan
+- 🟢 `2024-10-29` [[2024-10-29 - Professional Domain Name Comparison|Professional Domain Name Comparison]]  #alan #branding #credit #domains
+- 🟢 `2024-10-29` [[2024-10-29 - Groin Skin Growth Inquiry|Groin Skin Growth Inquiry]]  #alan
+- 🟢 `2024-10-29` [[2024-10-29 - Remove Phone Number Online|Remove Phone Number Online]]  #alan
+- 🟢 `2024-10-29` [[2024-10-29 - Savings Secured Pledge Loan|Savings Secured Pledge Loan]]  #alan #account-age #credit #funding #utilization
+- 🟢 `2024-10-30` [[2024-10-30 - Adultery in Mormon Doctrine|Adultery in Mormon Doctrine]]  #alan
+- 🟢 `2024-10-30` [[2024-10-30 - Exhaust Rattle and Liquid|Exhaust Rattle and Liquid]]  #alan
+- 🟢 `2024-10-30` [[2024-10-30 - NAICS SIC Consulting Alignment|NAICS SIC Consulting Alignment]]  #alan
+- 🟢 `2024-10-31` [[2024-10-31 - Roulette Odds Black Red|Roulette Odds Black Red]]  #alan
+- 🟢 `2024-10-31` [[2024-10-31 - Doubles to Reach Million|Doubles to Reach Million]]  #alan
+
+## 2024-09  (123)
+
+- 🟢 `2024-09-01` [[2024-09-01 - Filing UCC-1 Basics|Filing UCC-1 Basics]]  #alan #credit
+- 🟢 `2024-09-01` [[2024-09-01 - Lendability Comparison Analysis|Lendability Comparison Analysis]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Lendability Comparison NAICS Codes|Lendability Comparison NAICS Codes]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Summarize Conversation Title|Summarize Conversation Title]]  #alan #branding #domains
+- 🟢 `2024-09-01` [[2024-09-01 - SSN Impact on Credit|SSN Impact on Credit]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Felony Record Duration|Felony Record Duration]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Text Extraction Summary|Text Extraction Summary]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Help in Disguise|Help in Disguise]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Multiple C Corps Ownership|Multiple C Corps Ownership]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Minnesota vs Colorado C Corp|Minnesota vs Colorado C Corp]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - FCRA and UCC Violations|FCRA and UCC Violations]]  #alan #credit #funding #legal
+- 🟢 `2024-09-01` [[2024-09-01 - OpenAI Funding Explained|OpenAI Funding Explained]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - R-Dynamic SE vs HST|R-Dynamic SE vs HST]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Lease vs Financing|Lease vs Financing]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Aspect Ratio Explained|Aspect Ratio Explained]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Illegal to Have Multiple SSNs|Illegal to Have Multiple SSNs]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Razer Polling Rate Comparison|Razer Polling Rate Comparison]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Understanding Promissory Notes|Understanding Promissory Notes]]  #alan
+- 🟢 `2024-09-01` [[2024-09-01 - Understanding 18 U.S.C. 8|Understanding 18 U.S.C. 8]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - Ensure UCC Filing Visibility|Ensure UCC Filing Visibility]]  #alan #credit
+- 🟢 `2024-09-02` [[2024-09-02 - Finding DiCaprio Lookalike|Finding DiCaprio Lookalike]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - No-Doc Loan Options|No-Doc Loan Options]]  #alan #funding #no-doc
+- 🟢 `2024-09-02` [[2024-09-02 - Reinvesting in C Corp|Reinvesting in C Corp]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - Building Business Credit Vehicle Loan|Building Business Credit Vehicle Loan]]  #alan #business-credit #credit
+- 🟢 `2024-09-02` [[2024-09-02 - Dual Bind Scroll Wheel|Dual Bind Scroll Wheel]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - Domain Ownership Changes Explained|Domain Ownership Changes Explained]]  #alan #domains
+- 🟢 `2024-09-02` [[2024-09-02 - Optimizing Apex Legends Performance|Optimizing Apex Legends Performance]]  #alan #tech
+- 🟢 `2024-09-02` [[2024-09-02 - Managing Payables Receivables|Managing Payables Receivables]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - Fixing Stuck NVIDIA FPS|Fixing Stuck NVIDIA FPS]]  #alan #tech
+- 🟢 `2024-09-02` [[2024-09-02 - High DPC Latency Fix|High DPC Latency Fix]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - Sensitivity Conversion FOV Adjustment|Sensitivity Conversion FOV Adjustment]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - Small Business Financial Limits|Small Business Financial Limits]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - Understanding the Loan Process|Understanding the Loan Process]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - Internal Invoicing Legality|Internal Invoicing Legality]]  #alan #payments
+- 🟢 `2024-09-02` [[2024-09-02 - Neck Pain and Meridians|Neck Pain and Meridians]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - Lifetime Total Calculation|Lifetime Total Calculation]]  #alan
+- 🟢 `2024-09-02` [[2024-09-02 - Loan Approval Difficulty Ranking|Loan Approval Difficulty Ranking]]  #alan
+- 🟢 `2024-09-03` [[2024-09-03 - Oven Temperature Troubleshooting|Oven Temperature Troubleshooting]]  #alan
+- 🟢 `2024-09-03` [[2024-09-03 - No-Doc Funding Strategy|No-Doc Funding Strategy]]  #alan #apw #credit #funding #no-doc #high-signal
+- 🟢 `2024-09-03` [[2024-09-03 - Score Discrepancy Explained|Score Discrepancy Explained]]  #alan #credit
+- 🟢 `2024-09-03` [[2024-09-03 - FCRA Loan Denial Details|FCRA Loan Denial Details]]  #alan #legal
+- 🟢 `2024-09-03` [[2024-09-03 - Company Signature Requirements|Company Signature Requirements]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - New chat|New chat]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - Credit Inquiry Denial Reasons|Credit Inquiry Denial Reasons]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - Mortgage Addition Impact|Mortgage Addition Impact]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - Treasury vs Federal Reserve|Treasury vs Federal Reserve]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - Chakra Organs Overview|Chakra Organs Overview]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - Sensitivity Conversion for FOV|Sensitivity Conversion for FOV]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - Steps After Identity Theft|Steps After Identity Theft]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - 4N OFC vs Non-4N|4N OFC vs Non-4N]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - UCC and Payment Queries|UCC and Payment Queries]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - Deep State Theory Explained|Deep State Theory Explained]]  #alan
+- 🟢 `2024-09-04` [[2024-09-04 - DBAs and Corporate Structure|DBAs and Corporate Structure]]  #alan #branding #domains
+- 🟢 `2024-09-05` [[2024-09-05 - UCC1 Impact on Personal Credit|UCC1 Impact on Personal Credit]]  #alan #credit #personal-credit
+- 🟢 `2024-09-05` [[2024-09-05 - Abdominal Pain and Spots|Abdominal Pain and Spots]]  #alan
+- 🟢 `2024-09-05` [[2024-09-05 - Settlement Offer Analysis|Settlement Offer Analysis]]  #alan
+- 🟢 `2024-09-05` [[2024-09-05 - Late Payment Dispute Request|Late Payment Dispute Request]]  #alan #credit
+- 🟢 `2024-09-06` [[2024-09-06 - SBA Loan Forgiveness Options|SBA Loan Forgiveness Options]]  #alan
+- 🟢 `2024-09-06` [[2024-09-06 - Video Audio Signal Issues|Video Audio Signal Issues]]  #alan
+- 🟢 `2024-09-06` [[2024-09-06 - Apex Legends Montage Techniques|Apex Legends Montage Techniques]]  #alan
+- 🟢 `2024-09-08` [[2024-09-08 - Tuning Into Inner Guidance|Tuning Into Inner Guidance]]  #alan
+- 🟢 `2024-09-08` [[2024-09-08 - High-Value Deal Strategies|High-Value Deal Strategies]]  #alan
+- 🟢 `2024-09-09` [[2024-09-09 - GPT-4 Chat Version|GPT-4 Chat Version]]  #alan
+- 🟢 `2024-09-09` [[2024-09-09 - SSD Boot Issues|SSD Boot Issues]]  #alan #tech
+- 🟢 `2024-09-10` [[2024-09-10 - Accessing Off-Market Apartments|Accessing Off-Market Apartments]]  #alan
+- 🟢 `2024-09-10` [[2024-09-10 - Women Shareholding Requirements|Women Shareholding Requirements]]  #alan
+- 🟢 `2024-09-10` [[2024-09-10 - Mikki Mase Background Summary|Mikki Mase Background Summary]]  #alan
+- 🟢 `2024-09-10` [[2024-09-10 - Phone Spelling Explanation|Phone Spelling Explanation]]  #alan
+- 🟢 `2024-09-10` [[2024-09-10 - DoD AI Funding Viability|DoD AI Funding Viability]]  #alan
+- 🟢 `2024-09-11` [[2024-09-11 - Fix Apex Legends Audio|Fix Apex Legends Audio]]  #alan
+- 🟢 `2024-09-11` [[2024-09-11 - Spiritual Transformation and Empowerment|Spiritual Transformation and Empowerment]]  #alan
+- 🟢 `2024-09-11` [[2024-09-11 - Supplement Combo Review|Supplement Combo Review]]  #alan #health #supplements #high-signal
+- 🟢 `2024-09-12` [[2024-09-12 - Attracting Online Interest|Attracting Online Interest]]  #alan
+- 🟢 `2024-09-12` [[2024-09-12 - Wet vs Creamy Lubrication|Wet vs Creamy Lubrication]]  #alan
+- 🟢 `2024-09-12` [[2024-09-12 - Finding High-Value Apartment Deals|Finding High-Value Apartment Deals]]  #alan
+- 🟢 `2024-09-13` [[2024-09-13 - Walmart vs Aldi Beef|Walmart vs Aldi Beef]]  #alan
+- 🟢 `2024-09-14` [[2024-09-14 - FPS Drop Troubleshooting|FPS Drop Troubleshooting]]  #alan
+- 🟢 `2024-09-14` [[2024-09-14 - Polling Rate vs. Refresh Rate|Polling Rate vs. Refresh Rate]]  #alan #tech
+- 🟢 `2024-09-14` [[2024-09-14 - Reusing Wet Teabag Safety|Reusing Wet Teabag Safety]]  #alan
+- 🟢 `2024-09-14` [[2024-09-14 - Dairy in Detox Diet|Dairy in Detox Diet]]  #alan #health
+- 🟢 `2024-09-15` [[2024-09-15 - Microphone Quality Issues|Microphone Quality Issues]]  #alan
+- 🟢 `2024-09-15` [[2024-09-15 - IRS Audit Jet Deductions|IRS Audit Jet Deductions]]  #alan
+- 🟢 `2024-09-15` [[2024-09-15 - ES File Explorer Connection|ES File Explorer Connection]]  #alan
+- 🟢 `2024-09-15` [[2024-09-15 - Affordable Home Water Filters|Affordable Home Water Filters]]  #alan
+- 🟢 `2024-09-17` [[2024-09-17 - Invisible Asymmetry of Power|Invisible Asymmetry of Power]]  #alan
+- 🟢 `2024-09-17` [[2024-09-17 - Dangers of Resin Fillings|Dangers of Resin Fillings]]  #alan
+- 🟢 `2024-09-18` [[2024-09-18 - Organic Grass Fed Beef Comparison|Organic Grass Fed Beef Comparison]]  #alan
+- 🟢 `2024-09-18` [[2024-09-18 - Ground Lamb Safety Concerns|Ground Lamb Safety Concerns]]  #alan
+- 🟢 `2024-09-18` [[2024-09-18 - Settlement Negotiation Response Draft|Settlement Negotiation Response Draft]]  #alan #negotiation #sales
+- 🟢 `2024-09-18` [[2024-09-18 - Business Account Options|Business Account Options]]  #alan
+- 🟢 `2024-09-19` [[2024-09-19 - Business Credit House Building|Business Credit House Building]]  #alan #business-credit #credit
+- 🟢 `2024-09-19` [[2024-09-19 - Apex Legends Server Selection|Apex Legends Server Selection]]  #alan
+- 🟢 `2024-09-19` [[2024-09-19 - Egg yolk allergy advice|Egg yolk allergy advice]]  #alan
+- 🟢 `2024-09-19` [[2024-09-19 - Deer Antler Velvet Claims|Deer Antler Velvet Claims]]  #alan
+- 🟢 `2024-09-20` [[2024-09-20 - Insurance for Private Financing|Insurance for Private Financing]]  #alan
+- 🟢 `2024-09-20` [[2024-09-20 - Cash and Credit for Cars|Cash and Credit for Cars]]  #alan #legal
+- 🟢 `2024-09-21` [[2024-09-21 - Tony Robbins NMN Brand|Tony Robbins NMN Brand]]  #alan
+- 🟢 `2024-09-22` [[2024-09-22 - Halo 5 KDA Calculation|Halo 5 KDA Calculation]]  #alan
+- 🟢 `2024-09-23` [[2024-09-23 - McNuggets Ingredients and Concerns|McNuggets Ingredients and Concerns]]  #alan
+- 🟢 `2024-09-23` [[2024-09-23 - Fulvic Minerals Taste Concern|Fulvic Minerals Taste Concern]]  #alan
+- 🟢 `2024-09-24` [[2024-09-24 - Banking Manager Benefits for Credit|Banking Manager Benefits for Credit]]  #alan #business-credit #credit
+- 🟢 `2024-09-24` [[2024-09-24 - Intimacy Building Questions|Intimacy Building Questions]]  #alan
+- 🟢 `2024-09-24` [[2024-09-24 - Tire Maintenance Sequence|Tire Maintenance Sequence]]  #alan
+- 🟢 `2024-09-25` [[2024-09-25 - Ashwagandha for Emotional Stability|Ashwagandha for Emotional Stability]]  #alan
+- 🟢 `2024-09-25` [[2024-09-25 - Icelandic Water and Microplastics|Icelandic Water and Microplastics]]  #alan
+- 🟢 `2024-09-25` [[2024-09-25 - Multi-family vs Apartment Complex|Multi-family vs Apartment Complex]]  #alan
+- 🟢 `2024-09-25` [[2024-09-25 - Yellow Semen Concerns|Yellow Semen Concerns]]  #alan
+- 🟢 `2024-09-26` [[2024-09-26 - Golden Retriever Lifespan|Golden Retriever Lifespan]]  #alan
+- 🟢 `2024-09-26` [[2024-09-26 - Grapeseed Oil and TRT Risks|Grapeseed Oil and TRT Risks]]  #alan #health #trt
+- 🟢 `2024-09-26` [[2024-09-26 - Testosterone Boost Strategies|Testosterone Boost Strategies]]  #alan
+- 🟢 `2024-09-26` [[2024-09-26 - DDR4 vs DDR5 Gaming Latency|DDR4 vs DDR5 Gaming Latency]]  #alan
+- 🟢 `2024-09-26` [[2024-09-26 - Best DDR4 RAM for Gaming|Best DDR4 RAM for Gaming]]  #alan #tech
+- 🟢 `2024-09-26` [[2024-09-26 - DDR4 RAM Speed Impact|DDR4 RAM Speed Impact]]  #alan
+- 🟢 `2024-09-26` [[2024-09-26 - Enhancing Canned Salmon Flavor|Enhancing Canned Salmon Flavor]]  #alan
+- 🟢 `2024-09-27` [[2024-09-27 - Post Pizza Detox Tips|Post Pizza Detox Tips]]  #alan #supplements
+- 🟢 `2024-09-27` [[2024-09-27 - Emotions and Organ Health|Emotions and Organ Health]]  #alan
+- 🟢 `2024-09-28` [[2024-09-28 - Moon Constellation Tracking|Moon Constellation Tracking]]  #alan
+- 🟢 `2024-09-28` [[2024-09-28 - Impact of Short Loan Payoff|Impact of Short Loan Payoff]]  #alan
+- 🟢 `2024-09-29` [[2024-09-29 - Commingling Funds Concerns|Commingling Funds Concerns]]  #alan #funding
+- 🟢 `2024-09-29` [[2024-09-29 - CPU Overheating AIO Cooler|CPU Overheating AIO Cooler]]  #alan #ai-workflow #tech
+- 🟢 `2024-09-29` [[2024-09-29 - Uncommon Latino Last Names|Uncommon Latino Last Names]]  #alan
+- 🟢 `2024-09-30` [[2024-09-30 - ZRODelta Modulus Legality Issues|ZRODelta Modulus Legality Issues]]  #alan
+- 🟢 `2024-09-30` [[2024-09-30 - Driving Without Insurance Legalities|Driving Without Insurance Legalities]]  #alan
+
+## 2024-08  (290)
+
+- 🟢 `2024-08-01` [[2024-08-01 - Filing IRS Form 4868|Filing IRS Form 4868]]  #alan
+- 🟢 `2024-08-01` [[2024-08-01 - Billion Dollar Copywriting Summary|Billion Dollar Copywriting Summary]]  #alan #copywriting
+- 🟢 `2024-08-01` [[2024-08-01 - SBA Loan Eligibility Debt|SBA Loan Eligibility Debt]]  #alan
+- 🟢 `2024-08-01` [[2024-08-01 - Refinancing with High Utilization|Refinancing with High Utilization]]  #alan #credit #personal-credit #utilization
+- 🟢 `2024-08-01` [[2024-08-01 - Free Sales Traffic Strategies|Free Sales Traffic Strategies]]  #alan #high-signal
+- 🟢 `2024-08-01` [[2024-08-01 - FTC Power Over Dubai Scams|FTC Power Over Dubai Scams]]  #alan #dispute #scam
+- 🟢 `2024-08-01` [[2024-08-01 - Contact Email Inquiry|Contact Email Inquiry]]  #alan #dispute #scam
+- 🟢 `2024-08-01` [[2024-08-01 - Complaint Against Supervisor Gabriel|Complaint Against Supervisor Gabriel]]  #alan #dispute #networking #scam
+- 🟢 `2024-08-01` [[2024-08-01 - Removing Closed Bank Accounts|Removing Closed Bank Accounts]]  #alan
+- 🟢 `2024-08-01` [[2024-08-01 - Demand Letter Drafting|Demand Letter Drafting]]  #alan #demand-letter #dispute #finance #legal #negotiation #high-signal
+- 🟢 `2024-08-01` [[2024-08-01 - BPS Solar Financing Role|BPS Solar Financing Role]]  #alan
+- 🟢 `2024-08-01` [[2024-08-01 - FTC Fraud Complaint Summary|FTC Fraud Complaint Summary]]  #alan #dispute #scam
+- 🟢 `2024-08-01` [[2024-08-01 - FBI Investigation Request Summary|FBI Investigation Request Summary]]  #alan #credit #dispute #networking #payments #sales #scam
+- 🟢 `2024-08-01` [[2024-08-01 - Online Scam Exposed|Online Scam Exposed]]  #alan #dispute #legal #networking #payments #sales #scam
+- 🟢 `2024-08-02` [[2024-08-02 - Solar Company Insurance Inquiry|Solar Company Insurance Inquiry]]  #alan
+- 🟢 `2024-08-02` [[2024-08-02 - FCRA Dispute Response Time|FCRA Dispute Response Time]]  #alan #credit #legal
+- 🟢 `2024-08-02` [[2024-08-02 - Resolution Letter Template|Resolution Letter Template]]  #alan
+- 🟢 `2024-08-02` [[2024-08-02 - Nail Salon Profit Calculation|Nail Salon Profit Calculation]]  #alan
+- 🟢 `2024-08-02` [[2024-08-02 - Credit Reporting Issues|Credit Reporting Issues]]  #alan #credit
+- 🟢 `2024-08-02` [[2024-08-02 - Government Debt and Fed|Government Debt and Fed]]  #alan
+- 🟢 `2024-08-02` [[2024-08-02 - Credit Score Lookup Limits|Credit Score Lookup Limits]]  #alan #credit
+- 🟢 `2024-08-02` [[2024-08-02 - FCRA Violation Inquiry|FCRA Violation Inquiry]]  #alan #credit #legal #utilization
+- 🟢 `2024-08-02` [[2024-08-02 - Inaccurate Credit Reporting Issue|Inaccurate Credit Reporting Issue]]  #alan #credit #legal #utilization
+- 🟢 `2024-08-02` [[2024-08-02 - Link Request Fulfillment|Link Request Fulfillment]]  #alan #credit
+- 🟢 `2024-08-03` [[2024-08-03 - Credit Dispute Request Summary|Credit Dispute Request Summary]]  #alan #credit
+- 🟢 `2024-08-03` [[2024-08-03 - Impact of Closing Account|Impact of Closing Account]]  #alan #sales
+- 🟢 `2024-08-03` [[2024-08-03 - Free Daily FICO Score|Free Daily FICO Score]]  #alan #credit
+- 🟢 `2024-08-03` [[2024-08-03 - Closed Accounts Credit Report|Closed Accounts Credit Report]]  #alan #credit
+- 🟢 `2024-08-03` [[2024-08-03 - Optimal Credit Utilization Tips|Optimal Credit Utilization Tips]]  #alan #credit #utilization
+- 🟢 `2024-08-03` [[2024-08-03 - Late Payments Reporting Duration|Late Payments Reporting Duration]]  #alan #credit
+- 🟢 `2024-08-03` [[2024-08-03 - Loose Leaf Tea Safety|Loose Leaf Tea Safety]]  #alan
+- 🟢 `2024-08-03` [[2024-08-03 - Merchant Processor Liability|Merchant Processor Liability]]  #alan #cfpb #dispute #legal #scam #tech
+- 🟢 `2024-08-03` [[2024-08-03 - Credit Dispute Letter Template|Credit Dispute Letter Template]]  #alan #cfpb #credit #dispute #legal #sales
+- 🟢 `2024-08-04` [[2024-08-04 - Credit Line Increase Impact|Credit Line Increase Impact]]  #alan #credit #utilization
+- 🟢 `2024-08-04` [[2024-08-04 - Credit Score Utilization Tips|Credit Score Utilization Tips]]  #alan #credit #utilization
+- 🟢 `2024-08-04` [[2024-08-04 - TPD Discharge Credit Impact|TPD Discharge Credit Impact]]  #alan
+- 🟢 `2024-08-04` [[2024-08-04 - Credit Score Fluctuations|Credit Score Fluctuations]]  #alan #credit #funding #utilization #high-signal
+- 🟢 `2024-08-04` [[2024-08-04 - Dispute Incorrect Addresses Removal|Dispute Incorrect Addresses Removal]]  #alan #cfpb #dispute
+- 🟢 `2024-08-04` [[2024-08-04 - Post-Market Trading in HK|Post-Market Trading in HK]]  #alan
+- 🟢 `2024-08-04` [[2024-08-04 - Benefits of Opting Out|Benefits of Opting Out]]  #alan
+- 🟢 `2024-08-04` [[2024-08-04 - Post-Market Trading Platforms|Post-Market Trading Platforms]]  #alan
+- 🟢 `2024-08-04` [[2024-08-04 - From Scratch to IPO|From Scratch to IPO]]  #alan
+- 🟢 `2024-08-04` [[2024-08-04 - FCRA Violation Compensation Guide|FCRA Violation Compensation Guide]]  #alan #hiring #legal
+- 🟢 `2024-08-05` [[2024-08-05 - Increasing Testosterone Levels|Increasing Testosterone Levels]]  #alan
+- 🟢 `2024-08-05` [[2024-08-05 - Request for Dispute Details|Request for Dispute Details]]  #alan
+- 🟢 `2024-08-05` [[2024-08-05 - Utilization Rate Comparison|Utilization Rate Comparison]]  #alan #credit #utilization
+- 🟢 `2024-08-05` [[2024-08-05 - Credit Reporting Dispute Resolution|Credit Reporting Dispute Resolution]]  #alan #cfpb #credit #dispute #legal #utilization
+- 🟢 `2024-08-05` [[2024-08-05 - Credit Utilization Impact|Credit Utilization Impact]]  #alan #credit #utilization
+- 🟢 `2024-08-05` [[2024-08-05 - FTC Fraud Affidavit Guide|FTC Fraud Affidavit Guide]]  #alan #credit #dispute #scam
+- 🟢 `2024-08-05` [[2024-08-05 - Creditor Reporting Late Payments|Creditor Reporting Late Payments]]  #alan #credit #legal
+- 🟢 `2024-08-05` [[2024-08-05 - Warm Light and Blue Light|Warm Light and Blue Light]]  #alan
+- 🟢 `2024-08-05` [[2024-08-05 - Stylish Blue Light Glasses|Stylish Blue Light Glasses]]  #alan
+- 🟢 `2024-08-05` [[2024-08-05 - UCare Coverage Changes Ketamine|UCare Coverage Changes Ketamine]]  #alan
+- 🟢 `2024-08-05` [[2024-08-05 - Closed Account Balance Reporting|Closed Account Balance Reporting]]  #alan
+- 🟢 `2024-08-05` [[2024-08-05 - Credit Update Timing|Credit Update Timing]]  #alan #credit
+- 🟢 `2024-08-05` [[2024-08-05 - Removing Hard Inquiries Faster|Removing Hard Inquiries Faster]]  #alan
+- 🟢 `2024-08-05` [[2024-08-05 - US Debt Spending Breakdown|US Debt Spending Breakdown]]  #alan
+- 🟢 `2024-08-05` [[2024-08-05 - Money Creation Process Explained|Money Creation Process Explained]]  #alan
+- 🟢 `2024-08-06` [[2024-08-06 - Total File Size Calculation|Total File Size Calculation]]  #alan
+- 🟢 `2024-08-06` [[2024-08-06 - Global Financial Pyramid Explained|Global Financial Pyramid Explained]]  #alan
+- 🟢 `2024-08-06` [[2024-08-06 - Credit Line Increase Criteria|Credit Line Increase Criteria]]  #alan #credit
+- 🟢 `2024-08-06` [[2024-08-06 - US Home Count 2024|US Home Count 2024]]  #alan #sales
+- 🟢 `2024-08-06` [[2024-08-06 - No Income Verification Loans|No Income Verification Loans]]  #alan
+- 🟢 `2024-08-06` [[2024-08-06 - Multinational Cybercrime Agencies|Multinational Cybercrime Agencies]]  #alan #dispute #scam
+- 🟢 `2024-08-07` [[2024-08-07 - Moral vs Admiralty Law|Moral vs Admiralty Law]]  #alan
+- 🟢 `2024-08-07` [[2024-08-07 - MTNs and Trillion Trades|MTNs and Trillion Trades]]  #alan
+- 🟢 `2024-08-07` [[2024-08-07 - Time Conversion Calculation|Time Conversion Calculation]]  #alan
+- 🟢 `2024-08-07` [[2024-08-07 - Toothpaste Comparison Review|Toothpaste Comparison Review]]  #alan
+- 🟢 `2024-08-07` [[2024-08-07 - Who is Basel|Who is Basel]]  #alan
+- 🟢 `2024-08-07` [[2024-08-07 - Checking Credit Data Bureaus|Checking Credit Data Bureaus]]  #alan #credit
+- 🟢 `2024-08-07` [[2024-08-07 - Using Bonds as Collateral|Using Bonds as Collateral]]  #alan
+- 🟢 `2024-08-07` [[2024-08-07 - Credit Report Compensation Guide|Credit Report Compensation Guide]]  #alan #credit #personal-credit #utilization
+- 🟢 `2024-08-07` [[2024-08-07 - Credit Report Dispute Request|Credit Report Dispute Request]]  #alan #cfpb #credit #dispute #legal
+- 🟢 `2024-08-07` [[2024-08-07 - Credit Report Dispute Resolution|Credit Report Dispute Resolution]]  #alan #credit #legal
+- 🟢 `2024-08-07` [[2024-08-07 - FCRA Dispute Information Rights|FCRA Dispute Information Rights]]  #alan #credit #legal
+- 🟢 `2024-08-07` [[2024-08-07 - Creditor Hearsay Lawsuit Guide|Creditor Hearsay Lawsuit Guide]]  #alan #legal
+- 🟢 `2024-08-07` [[2024-08-07 - Joe Rogan TRT HGH|Joe Rogan TRT HGH]]  #alan #health #trt
+- 🟢 `2024-08-07` [[2024-08-07 - Financial Inequality Exposed|Financial Inequality Exposed]]  #alan
+- 🟢 `2024-08-08` [[2024-08-08 - Script Translation Request|Script Translation Request]]  #alan #credit #personal-credit #teaching
+- 🟢 `2024-08-08` [[2024-08-08 - Meeting Summary and Overview|Meeting Summary and Overview]]  #alan
+- 🟢 `2024-08-08` [[2024-08-08 - Timestamp Discussion Summary|Timestamp Discussion Summary]]  #alan #business-credit #credit #personal-credit #teaching #tradeline
+- 🟢 `2024-08-08` [[2024-08-08 - Timestamp Summary and Overview|Timestamp Summary and Overview]]  #alan
+- 🟢 `2024-08-08` [[2024-08-08 - Subtitle File Comparison|Subtitle File Comparison]]  #alan
+- 🟢 `2024-08-08` [[2024-08-08 - Exporting GPT Configuration|Exporting GPT Configuration]]  #alan
+- 🟢 `2024-08-08` [[2024-08-08 - Legal Term for Non-Compliance|Legal Term for Non-Compliance]]  #alan #legal
+- 🟢 `2024-08-08` [[2024-08-08 - Removing Hard Inquiry TU|Removing Hard Inquiry TU]]  #alan #credit
+- 🟢 `2024-08-08` [[2024-08-08 - Online Notary FTC Affidavit|Online Notary FTC Affidavit]]  #alan
+- 🟢 `2024-08-08` [[2024-08-08 - Auto Loan Cash Options|Auto Loan Cash Options]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - MTNs After-Hours Trading|MTNs After-Hours Trading]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - Bank Levels for Credit Stacking|Bank Levels for Credit Stacking]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - Banking System Explanation|Banking System Explanation]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - Auto Loan Denial Reasons|Auto Loan Denial Reasons]]  #alan #credit #utilization
+- 🟢 `2024-08-09` [[2024-08-09 - Officer Roles in C Corps|Officer Roles in C Corps]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - Opting Out Privacy Agencies|Opting Out Privacy Agencies]]  #alan #credit
+- 🟢 `2024-08-09` [[2024-08-09 - Impact of Closed Credit|Impact of Closed Credit]]  #alan #credit
+- 🟢 `2024-08-09` [[2024-08-09 - Untitled conversation|Untitled conversation]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - Lightbody Latin Translation|Lightbody Latin Translation]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - Credit Score Anomalies Explained|Credit Score Anomalies Explained]]  #alan #credit #funding
+- 🟢 `2024-08-09` [[2024-08-09 - Fractional Reserve Banking Explained|Fractional Reserve Banking Explained]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - Milgram Experiment Overview|Milgram Experiment Overview]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - Loan Balance Discrepancy|Loan Balance Discrepancy]]  #alan #credit #legal
+- 🟢 `2024-08-09` [[2024-08-09 - Credit Disputes and Procedures|Credit Disputes and Procedures]]  #alan #cfpb #credit #dispute #scam
+- 🟢 `2024-08-09` [[2024-08-09 - Notarized Affidavit Use|Notarized Affidavit Use]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - Backdated Credit Services|Backdated Credit Services]]  #alan
+- 🟢 `2024-08-09` [[2024-08-09 - Credit Profile Boost Strategies|Credit Profile Boost Strategies]]  #alan #credit #funding #utilization
+- 🟢 `2024-08-09` [[2024-08-09 - Permissible Purpose Authorization|Permissible Purpose Authorization]]  #alan #credit
+- 🟢 `2024-08-09` [[2024-08-09 - Credit Unions Auto Loans|Credit Unions Auto Loans]]  #alan
+- 🟢 `2024-08-10` [[2024-08-10 - Personal Business Loan Compliance|Personal Business Loan Compliance]]  #alan #legal
+- 🟢 `2024-08-10` [[2024-08-10 - Legal Claim Breakdown|Legal Claim Breakdown]]  #alan #dispute #finance #scam
+- 🟢 `2024-08-10` [[2024-08-10 - Credit Reporting Consent Rules|Credit Reporting Consent Rules]]  #alan #credit
+- 🟢 `2024-08-10` [[2024-08-10 - Credit Score Drop Reasons|Credit Score Drop Reasons]]  #alan #credit #utilization
+- 🟢 `2024-08-10` [[2024-08-10 - Online Testosterone Prescription Process|Online Testosterone Prescription Process]]  #alan #health #trt
+- 🟢 `2024-08-11` [[2024-08-11 - Best BPC 157 Sources|Best BPC 157 Sources]]  #alan #health #surgery #trt
+- 🟢 `2024-08-11` [[2024-08-11 - Free TransUnion FICO Score|Free TransUnion FICO Score]]  #alan #credit
+- 🟢 `2024-08-11` [[2024-08-11 - Violation Consequence Breakdown|Violation Consequence Breakdown]]  #alan #dispute #finance #scam
+- 🟢 `2024-08-11` [[2024-08-11 - Integration Assistance Request|Integration Assistance Request]]  #alan #cfpb #dispute #teaching
+- 🟢 `2024-08-11` [[2024-08-11 - Unconscionability Legal Codes|Unconscionability Legal Codes]]  #alan #legal
+- 🟢 `2024-08-11` [[2024-08-11 - Suing Remotely From Home|Suing Remotely From Home]]  #alan #legal
+- 🟢 `2024-08-11` [[2024-08-11 - Simultaneous Drive Failures|Simultaneous Drive Failures]]  #alan
+- 🟢 `2024-08-11` [[2024-08-11 - Document Comparison Differences|Document Comparison Differences]]  #alan
+- 🟢 `2024-08-11` [[2024-08-11 - Account Deletion Request Letter|Account Deletion Request Letter]]  #alan #credit
+- 🟢 `2024-08-11` [[2024-08-11 - Opt-Out Information Sharing|Opt-Out Information Sharing]]  #alan
+- 🟢 `2024-08-11` [[2024-08-11 - Solar Violations Inquiry|Solar Violations Inquiry]]  #alan #dispute #legal #scam
+- 🟢 `2024-08-12` [[2024-08-12 - Free Testosterone Levels 29|Free Testosterone Levels 29]]  #alan
+- 🟢 `2024-08-12` [[2024-08-12 - Soar Kirito Apex Sensitivity|Soar Kirito Apex Sensitivity]]  #alan
+- 🟢 `2024-08-12` [[2024-08-12 - Multi-Monitor FPS Drop|Multi-Monitor FPS Drop]]  #alan #credit #tech #utilization
+- 🟢 `2024-08-12` [[2024-08-12 - Peptides for Fibromyalgia and Dysautonomia|Peptides for Fibromyalgia and Dysautonomia]]  #alan #fib
+- 🟢 `2024-08-12` [[2024-08-12 - Interview Follow-Up Thank You|Interview Follow-Up Thank You]]  #alan
+- 🟢 `2024-08-12` [[2024-08-12 - High Risk Funding SIC|High Risk Funding SIC]]  #alan #funding
+- 🟢 `2024-08-12` [[2024-08-12 - FCRA Credit Denial Details|FCRA Credit Denial Details]]  #alan #legal
+- 🟢 `2024-08-12` [[2024-08-12 - New chat|New chat]]  #alan
+- 🟢 `2024-08-13` [[2024-08-13 - Fix Zoom View Issue|Fix Zoom View Issue]]  #alan
+- 🟢 `2024-08-13` [[2024-08-13 - Permissible Purpose FCRA Summary|Permissible Purpose FCRA Summary]]  #alan #credit #legal
+- 🟢 `2024-08-13` [[2024-08-13 - Skull and Bones Society|Skull and Bones Society]]  #alan
+- 🟢 `2024-08-13` [[2024-08-13 - Manta Business Funding Benefits|Manta Business Funding Benefits]]  #alan #funding
+- 🟢 `2024-08-13` [[2024-08-13 - Connecting with Spiritual Masters|Connecting with Spiritual Masters]]  #alan
+- 🟢 `2024-08-13` [[2024-08-13 - Bypassing Critical Faculty Guide|Bypassing Critical Faculty Guide]]  #alan
+- 🟢 `2024-08-13` [[2024-08-13 - Packet Loss Troubleshooting Apex|Packet Loss Troubleshooting Apex]]  #alan
+- 🟢 `2024-08-13` [[2024-08-13 - Masionic vs Masonic|Masionic vs Masonic]]  #alan
+- 🟢 `2024-08-13` [[2024-08-13 - Ketamine User Reports Summary|Ketamine User Reports Summary]]  #alan
+- 🟢 `2024-08-14` [[2024-08-14 - Lease Agreement Protection Tips|Lease Agreement Protection Tips]]  #alan #legal
+- 🟢 `2024-08-14` [[2024-08-14 - Building Credit for Teens|Building Credit for Teens]]  #alan
+- 🟢 `2024-08-14` [[2024-08-14 - Opening Trust Account Chase|Opening Trust Account Chase]]  #alan #business-credit #credit #personal-credit
+- 🟢 `2024-08-14` [[2024-08-14 - Global Financial History Overview|Global Financial History Overview]]  #alan
+- 🟢 `2024-08-14` [[2024-08-14 - Fractional Reserve Banking Explained|Fractional Reserve Banking Explained]]  #alan
+- 🟢 `2024-08-14` [[2024-08-14 - Mortgage Note Recovery Process|Mortgage Note Recovery Process]]  #alan
+- 🟢 `2024-08-14` [[2024-08-14 - Funding Databases Overview|Funding Databases Overview]]  #alan
+- 🟢 `2024-08-14` [[2024-08-14 - GLBA vs FCRA Compliance|GLBA vs FCRA Compliance]]  #alan #credit #legal
+- 🟢 `2024-08-14` [[2024-08-14 - QWR ResolvePro MemoryGuard|QWR ResolvePro MemoryGuard]]  #alan #dispute #scam
+- 🟢 `2024-08-15` [[2024-08-15 - GPT Individual vs Teams|GPT Individual vs Teams]]  #alan
+- 🟢 `2024-08-15` [[2024-08-15 - Bypassing Critical Faculty Techniques|Bypassing Critical Faculty Techniques]]  #alan #mindset
+- 🟢 `2024-08-15` [[2024-08-15 - Timestamp Affidavit Submission|Timestamp Affidavit Submission]]  #alan
+- 🟢 `2024-08-15` [[2024-08-15 - Court Cases Exclusion Strategy|Court Cases Exclusion Strategy]]  #alan #dispute #legal #scam #high-signal
+- 🟢 `2024-08-15` [[2024-08-15 - Impact of Account Removal|Impact of Account Removal]]  #alan
+- 🟢 `2024-08-15` [[2024-08-15 - Dynamex Employee Classification Case|Dynamex Employee Classification Case]]  #alan #legal
+- 🟢 `2024-08-15` [[2024-08-15 - Funding Strategy Breakdown|Funding Strategy Breakdown]]  #alan #high-signal
+- 🟢 `2024-08-16` [[2024-08-16 - Proof of Residency Options|Proof of Residency Options]]  #alan
+- 🟢 `2024-08-16` [[2024-08-16 - Affidavit Notarization Guidelines|Affidavit Notarization Guidelines]]  #alan
+- 🟢 `2024-08-16` [[2024-08-16 - Credit Union Comparison|Credit Union Comparison]]  #alan
+- 🟢 `2024-08-16` [[2024-08-16 - Photocopied Affidavit Validity|Photocopied Affidavit Validity]]  #alan #credit
+- 🟢 `2024-08-16` [[2024-08-16 - Free Credit Report Sites|Free Credit Report Sites]]  #alan #credit
+- 🟢 `2024-08-16` [[2024-08-16 - Using Home Address Risks|Using Home Address Risks]]  #alan
+- 🟢 `2024-08-16` [[2024-08-16 - Virtual Office Address Risks|Virtual Office Address Risks]]  #alan
+- 🟢 `2024-08-16` [[2024-08-16 - Legal Affidavit Template Creation|Legal Affidavit Template Creation]]  #alan #credit
+- 🟢 `2024-08-16` [[2024-08-16 - USPS Affidavit Mailing Options|USPS Affidavit Mailing Options]]  #alan
+- 🟢 `2024-08-16` [[2024-08-16 - License Transfer Options|License Transfer Options]]  #alan #funding
+- 🟢 `2024-08-17` [[2024-08-17 - Violation of Privacy Rights|Violation of Privacy Rights]]  #alan
+- 🟢 `2024-08-17` [[2024-08-17 - Most Expensive Colorado ZIPs|Most Expensive Colorado ZIPs]]  #alan
+- 🟢 `2024-08-17` [[2024-08-17 - 80111 Area Code Inquiry|80111 Area Code Inquiry]]  #alan
+- 🟢 `2024-08-17` [[2024-08-17 - Meningitis Overview and Types|Meningitis Overview and Types]]  #alan
+- 🟢 `2024-08-17` [[2024-08-17 - Address Requirement Clarification|Address Requirement Clarification]]  #alan
+- 🟢 `2024-08-17` [[2024-08-17 - Using Business Address as Agent|Using Business Address as Agent]]  #alan
+- 🟢 `2024-08-17` [[2024-08-17 - Registered Agent Privacy Concerns|Registered Agent Privacy Concerns]]  #alan
+- 🟢 `2024-08-17` [[2024-08-17 - Legal Violations and Consequences|Legal Violations and Consequences]]  #alan #high-signal
+- 🟢 `2024-08-17` [[2024-08-17 - Credit Utilization Calculation|Credit Utilization Calculation]]  #alan #credit #utilization
+- 🟢 `2024-08-17` [[2024-08-17 - Preds vs Bronzes Viability|Preds vs Bronzes Viability]]  #alan #sales
+- 🟢 `2024-08-17` [[2024-08-17 - Business Name Consistency|Business Name Consistency]]  #alan
+- 🟢 `2024-08-17` [[2024-08-17 - Program Overview Summary|Program Overview Summary]]  #alan #ai-workflow #high-signal
+- 🟢 `2024-08-17` [[2024-08-17 - Study Guide Creation|Study Guide Creation]]  #alan #high-signal
+- 🟢 `2024-08-17` [[2024-08-17 - Consultant vs Consulting|Consultant vs Consulting]]  #alan #credit #funding
+- 🟢 `2024-08-18` [[2024-08-18 - Fasting Glucose Level Concern|Fasting Glucose Level Concern]]  #alan
+- 🟢 `2024-08-18` [[2024-08-18 - Stock Manipulation Scheme|Stock Manipulation Scheme]]  #alan #funding #legal
+- 🟢 `2024-08-19` [[2024-08-19 - Viral Meningitis Symptoms Remedies|Viral Meningitis Symptoms Remedies]]  #alan
+- 🟢 `2024-08-20` [[2024-08-20 - Top Asset Protection Trusts|Top Asset Protection Trusts]]  #alan
+- 🟢 `2024-08-20` [[2024-08-20 - Prestige Global Funds Overview|Prestige Global Funds Overview]]  #alan
+- 🟢 `2024-08-21` [[2024-08-21 - ADP Invoice Cost Inquiry|ADP Invoice Cost Inquiry]]  #alan #payments
+- 🟢 `2024-08-21` [[2024-08-21 - Link Payment Processor Fees|Link Payment Processor Fees]]  #alan #tech
+- 🟢 `2024-08-21` [[2024-08-21 - Student Loan Debt Removal|Student Loan Debt Removal]]  #alan
+- 🟢 `2024-08-21` [[2024-08-21 - Gematria Overview Explained|Gematria Overview Explained]]  #alan
+- 🟢 `2024-08-21` [[2024-08-21 - UCC Filing Payment Proof|UCC Filing Payment Proof]]  #alan #business-credit #credit #tradeline #high-signal
+- 🟢 `2024-08-21` [[2024-08-21 - Credit Card Liability Explained|Credit Card Liability Explained]]  #alan #legal
+- 🟢 `2024-08-21` [[2024-08-21 - Navigating Credit Dispute|Navigating Credit Dispute]]  #alan #cfpb #dispute #legal
+- 🟢 `2024-08-22` [[2024-08-22 - Using Same Virtual Address|Using Same Virtual Address]]  #alan #address-strategy #funding
+- 🟢 `2024-08-22` [[2024-08-22 - Proper Size Recommendation|Proper Size Recommendation]]  #alan
+- 🟢 `2024-08-22` [[2024-08-22 - Consistent Polling Rate Mice|Consistent Polling Rate Mice]]  #alan
+- 🟢 `2024-08-22` [[2024-08-22 - Obtaining 10-Year Credit History|Obtaining 10-Year Credit History]]  #alan
+- 🟢 `2024-08-22` [[2024-08-22 - Personal Card Business Payments|Personal Card Business Payments]]  #alan
+- 🟢 `2024-08-22` [[2024-08-22 - Apex Legends Launch Options|Apex Legends Launch Options]]  #alan
+- 🟢 `2024-08-22` [[2024-08-22 - Understanding Bonds Basics|Understanding Bonds Basics]]  #alan #business-credit #credit
+- 🟢 `2024-08-22` [[2024-08-22 - Heavy Metal Detox Tips|Heavy Metal Detox Tips]]  #alan
+- 🟢 `2024-08-22` [[2024-08-22 - Combine 2.4 and 5GHz|Combine 2.4 and 5GHz]]  #alan
+- 🟢 `2024-08-22` [[2024-08-22 - Backdating Credit Services Overview|Backdating Credit Services Overview]]  #alan #teaching
+- 🟢 `2024-08-22` [[2024-08-22 - Credit Reporting Assistance Options|Credit Reporting Assistance Options]]  #alan #credit #funding
+- 🟢 `2024-08-22` [[2024-08-22 - Utah Pro Bono Attorneys|Utah Pro Bono Attorneys]]  #alan #dispute #finance #scam
+- 🟢 `2024-08-23` [[2024-08-23 - Market Cap Categories|Market Cap Categories]]  #alan
+- 🟢 `2024-08-23` [[2024-08-23 - Lehmans Commission Calculation|Lehmans Commission Calculation]]  #alan
+- 🟢 `2024-08-23` [[2024-08-23 - US Code Titles Summary|US Code Titles Summary]]  #alan
+- 🟢 `2024-08-23` [[2024-08-23 - NFL NBA Payments Bonds|NFL NBA Payments Bonds]]  #alan
+- 🟢 `2024-08-23` [[2024-08-23 - Without Recourse Line Explained|Without Recourse Line Explained]]  #alan #legal
+- 🟢 `2024-08-23` [[2024-08-23 - High Funding Credit Unions|High Funding Credit Unions]]  #alan
+- 🟢 `2024-08-23` [[2024-08-23 - Backdating Website Legally|Backdating Website Legally]]  #alan
+- 🟢 `2024-08-23` [[2024-08-23 - User Agreement Summary|User Agreement Summary]]  #alan #legal
+- 🟢 `2024-08-23` [[2024-08-23 - Contract Risk and Validity|Contract Risk and Validity]]  #alan #legal
+- 🟢 `2024-08-23` [[2024-08-23 - Customer Support Avoidance Inquiry|Customer Support Avoidance Inquiry]]  #alan
+- 🟢 `2024-08-23` [[2024-08-23 - Credit Score Drop Reasons|Credit Score Drop Reasons]]  #alan #credit
+- 🟢 `2024-08-23` [[2024-08-23 - Minimizing Invoice Processing Fees|Minimizing Invoice Processing Fees]]  #alan #branding #domains #legal #payments
+- 🟢 `2024-08-24` [[2024-08-24 - Discrediting The Protocols|Discrediting The Protocols]]  #alan #high-signal
+- 🟢 `2024-08-24` [[2024-08-24 - MT 199 SWIFT Message|MT 199 SWIFT Message]]  #alan
+- 🟢 `2024-08-24` [[2024-08-24 - Unauthorized LLC Changes|Unauthorized LLC Changes]]  #alan
+- 🟢 `2024-08-24` [[2024-08-24 - Study Guide Overview|Study Guide Overview]]  #alan
+- 🟢 `2024-08-24` [[2024-08-24 - Principal Executive Office Address|Principal Executive Office Address]]  #alan
+- 🟢 `2024-08-24` [[2024-08-24 - Real Estate Financing Strategy|Real Estate Financing Strategy]]  #alan #high-signal
+- 🟢 `2024-08-24` [[2024-08-24 - 30-Year Loan Payment|30-Year Loan Payment]]  #alan #finance
+- 🟢 `2024-08-25` [[2024-08-25 - World Aspects Summary|World Aspects Summary]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - Non-recourse Loans Explained|Non-recourse Loans Explained]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - NDA Limits on Investigations|NDA Limits on Investigations]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - Offshore Trust Money Flow|Offshore Trust Money Flow]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - Funding Strategies LOI LC|Funding Strategies LOI LC]]  #alan #funding
+- 🟢 `2024-08-25` [[2024-08-25 - Racemic vs Dextroamphetamine|Racemic vs Dextroamphetamine]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - Understanding Bond Costs|Understanding Bond Costs]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - FCRA Inquiry Removal Rules|FCRA Inquiry Removal Rules]]  #alan #legal
+- 🟢 `2024-08-25` [[2024-08-25 - TransUnion Secure Mail Details|TransUnion Secure Mail Details]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - SBNASELFLNDR Dispute Address|SBNASELFLNDR Dispute Address]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - Copyright Notice Options|Copyright Notice Options]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - Reg D Rules Summary|Reg D Rules Summary]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - IPO Financial Statements Overview|IPO Financial Statements Overview]]  #alan
+- 🟢 `2024-08-25` [[2024-08-25 - Maritime Law Strategy Explained|Maritime Law Strategy Explained]]  #alan #high-signal
+- 🟢 `2024-08-25` [[2024-08-25 - Affidavit vs Police Report|Affidavit vs Police Report]]  #alan #credit
+- 🟢 `2024-08-25` [[2024-08-25 - Form 8-K Explanation|Form 8-K Explanation]]  #alan
+- 🟢 `2024-08-26` [[2024-08-26 - Precision in Legal Action|Precision in Legal Action]]  #alan #legal
+- 🟢 `2024-08-26` [[2024-08-26 - Safeguarding Company Takeovers|Safeguarding Company Takeovers]]  #alan
+- 🟢 `2024-08-27` [[2024-08-27 - B2B ACH Transfer Fee|B2B ACH Transfer Fee]]  #alan
+- 🟢 `2024-08-27` [[2024-08-27 - IRS Rules for REITs|IRS Rules for REITs]]  #alan
+- 🟢 `2024-08-27` [[2024-08-27 - Contacting US Fraud Department|Contacting US Fraud Department]]  #alan #dispute #scam
+- 🟢 `2024-08-27` [[2024-08-27 - Tony Robbins Stem Cells|Tony Robbins Stem Cells]]  #alan
+- 🟢 `2024-08-27` [[2024-08-27 - Elite Network Analysis|Elite Network Analysis]]  #alan
+- 🟢 `2024-08-27` [[2024-08-27 - Eyelid Twitching Solutions|Eyelid Twitching Solutions]]  #alan
+- 🟢 `2024-08-27` [[2024-08-27 - Top 10 List Request|Top 10 List Request]]  #alan
+- 🟢 `2024-08-27` [[2024-08-27 - Credit Strategy for Investments|Credit Strategy for Investments]]  #alan #bankruptcy #business-credit #credit #legal #high-signal
+- 🟢 `2024-08-27` [[2024-08-27 - Real Estate Syndication Overview|Real Estate Syndication Overview]]  #alan
+- 🟢 `2024-08-28` [[2024-08-28 - Navy Federal Membership Process|Navy Federal Membership Process]]  #alan #legal
+- 🟢 `2024-08-28` [[2024-08-28 - Using FCRA to Complain|Using FCRA to Complain]]  #alan #credit #legal
+- 🟢 `2024-08-28` [[2024-08-28 - Data Sharing Legality|Data Sharing Legality]]  #alan
+- 🟢 `2024-08-28` [[2024-08-28 - Reg A+ $75M Overview|Reg A+ $75M Overview]]  #alan
+- 🟢 `2024-08-28` [[2024-08-28 - 1T Fed Window Explanation|1T Fed Window Explanation]]  #alan
+- 🟢 `2024-08-28` [[2024-08-28 - Abrakadula Inquiry Clarified|Abrakadula Inquiry Clarified]]  #alan
+- 🟢 `2024-08-28` [[2024-08-28 - Illegal UCC Late Payments|Illegal UCC Late Payments]]  #alan #credit #legal
+- 🟢 `2024-08-28` [[2024-08-28 - Removing Unauthorized Inquiries|Removing Unauthorized Inquiries]]  #alan #legal
+- 🟢 `2024-08-28` [[2024-08-28 - Super-Children Program Summary|Super-Children Program Summary]]  #alan
+- 🟢 `2024-08-28` [[2024-08-28 - Institutional Funding Overview|Institutional Funding Overview]]  #alan
+- 🟢 `2024-08-29` [[2024-08-29 - Secondary Bureau Student Loans|Secondary Bureau Student Loans]]  #alan #credit
+- 🟢 `2024-08-29` [[2024-08-29 - Removing Student Loans FTC|Removing Student Loans FTC]]  #alan #credit
+- 🟢 `2024-08-29` [[2024-08-29 - Ketamine and Sleep Regulation|Ketamine and Sleep Regulation]]  #alan
+- 🟢 `2024-08-29` [[2024-08-29 - LLC vs C Corp Holding|LLC vs C Corp Holding]]  #alan
+- 🟢 `2024-08-29` [[2024-08-29 - C Corp Shares Overview|C Corp Shares Overview]]  #alan
+- 🟢 `2024-08-29` [[2024-08-29 - Top Credit Unions Funding|Top Credit Unions Funding]]  #alan #business-credit #credit #personal-credit
+- 🟢 `2024-08-29` [[2024-08-29 - Navy Federal Pledge Loan|Navy Federal Pledge Loan]]  #alan
+- 🟢 `2024-08-29` [[2024-08-29 - PenFed Credit Inquiry Bureau|PenFed Credit Inquiry Bureau]]  #alan #credit
+- 🟢 `2024-08-29` [[2024-08-29 - Consultant Professional Category|Consultant Professional Category]]  #alan
+- 🟢 `2024-08-30` [[2024-08-30 - Reverse Merger Overview|Reverse Merger Overview]]  #alan
+- 🟢 `2024-08-30` [[2024-08-30 - UCC Late Payment Removal|UCC Late Payment Removal]]  #alan #credit
+- 🟢 `2024-08-30` [[2024-08-30 - Navy Federal Credit Reports|Navy Federal Credit Reports]]  #alan #credit
+- 🟢 `2024-08-30` [[2024-08-30 - Ketamine in Health Use|Ketamine in Health Use]]  #alan #health #skin
+- 🟢 `2024-08-30` [[2024-08-30 - Invoicing Between Parent Subsidiary|Invoicing Between Parent Subsidiary]]  #alan #payments
+- 🟢 `2024-08-30` [[2024-08-30 - Ableton Video Preview Issue|Ableton Video Preview Issue]]  #alan
+- 🟢 `2024-08-30` [[2024-08-30 - Copyrighting Your Name|Copyrighting Your Name]]  #alan
+- 🟢 `2024-08-31` [[2024-08-31 - Minority Business Loan Assistance|Minority Business Loan Assistance]]  #alan
+- 🟢 `2024-08-31` [[2024-08-31 - Building Corporate Credit Loan|Building Corporate Credit Loan]]  #alan #business-credit #credit
+- 🟢 `2024-08-31` [[2024-08-31 - Building Business Credit Guide|Building Business Credit Guide]]  #alan #business-credit #credit
+- 🟢 `2024-08-31` [[2024-08-31 - Secretary Credit Impact C Corp|Secretary Credit Impact C Corp]]  #alan
+- 🟢 `2024-08-31` [[2024-08-31 - Disabling Backup Card Usage|Disabling Backup Card Usage]]  #alan
+- 🟢 `2024-08-31` [[2024-08-31 - Student Loan Debt Clarification|Student Loan Debt Clarification]]  #alan
+- 🟢 `2024-08-31` [[2024-08-31 - QE and Federal Reserve|QE and Federal Reserve]]  #alan
+- 🟢 `2024-08-31` [[2024-08-31 - SSI Address Change Impact|SSI Address Change Impact]]  #alan
+- 🟢 `2024-08-31` [[2024-08-31 - Getting TRT Online Today|Getting TRT Online Today]]  #alan #health #trt
+- 🟢 `2024-08-31` [[2024-08-31 - Investing in OpenAI Alternatives|Investing in OpenAI Alternatives]]  #alan
+- 🟢 `2024-08-31` [[2024-08-31 - Testosterone Therapy Options|Testosterone Therapy Options]]  #alan #health #skin
+- 🟢 `2024-08-31` [[2024-08-31 - Understanding Securities and Loans|Understanding Securities and Loans]]  #alan
+- 🟢 `2024-08-31` [[2024-08-31 - Funding AI Tech Startup|Funding AI Tech Startup]]  #alan
+- 🟢 `2024-08-31` [[2024-08-31 - Finding Defaulting Individuals|Finding Defaulting Individuals]]  #alan
+
+## 2024-07  (58)
+
+- 🟢 `2024-07-25` [[2024-07-25 - Basal Cell Carcinoma Info|Basal Cell Carcinoma Info]]  #alan
+- 🟢 `2024-07-25` [[2024-07-25 - Joining Navy Federal Eligibility|Joining Navy Federal Eligibility]]  #alan
+- 🟢 `2024-07-26` [[2024-07-26 - NACA Home Buying Program|NACA Home Buying Program]]  #alan
+- 🟢 `2024-07-27` [[2024-07-27 - Free Testosterone Levels Analysis|Free Testosterone Levels Analysis]]  #alan
+- 🟢 `2024-07-27` [[2024-07-27 - Scaling Companies Strategy Guide|Scaling Companies Strategy Guide]]  #alan #high-signal
+- 🟢 `2024-07-27` [[2024-07-27 - Business Strategy for Growth|Business Strategy for Growth]]  #alan #high-signal
+- 🟢 `2024-07-27` [[2024-07-27 - Top Markets and Offers|Top Markets and Offers]]  #alan #high-signal
+- 🟢 `2024-07-27` [[2024-07-27 - W-2 Income Tax Strategy|W-2 Income Tax Strategy]]  #alan #high-signal
+- 🟢 `2024-07-27` [[2024-07-27 - Investment Strategy Viability|Investment Strategy Viability]]  #alan #funding #high-signal
+- 🟢 `2024-07-27` [[2024-07-27 - Billion-Dollar Business Plan|Billion-Dollar Business Plan]]  #alan #high-signal
+- 🟢 `2024-07-27` [[2024-07-27 - Understanding Long-Term Impact|Understanding Long-Term Impact]]  #alan
+- 🟢 `2024-07-27` [[2024-07-27 - Career Astrology Inquiry|Career Astrology Inquiry]]  #alan #mindset
+- 🟢 `2024-07-27` [[2024-07-27 - Acquiring Section 8 Property|Acquiring Section 8 Property]]  #alan
+- 🟢 `2024-07-27` [[2024-07-27 - Recovering Funds from Scam|Recovering Funds from Scam]]  #alan #dispute #scam
+- 🟢 `2024-07-28` [[2024-07-28 - High-Value $10K Offers|High-Value $10K Offers]]  #alan
+- 🟢 `2024-07-28` [[2024-07-28 - No Doc Business Loans|No Doc Business Loans]]  #alan #business-credit #credit #finance
+- 🟢 `2024-07-28` [[2024-07-28 - Optimal Timing for 0% Loans|Optimal Timing for 0% Loans]]  #alan #funding
+- 🟢 `2024-07-28` [[2024-07-28 - Credit Rights Verification|Credit Rights Verification]]  #alan #credit
+- 🟢 `2024-07-28` [[2024-07-28 - Bank Loan Myths|Bank Loan Myths]]  #alan
+- 🟢 `2024-07-28` [[2024-07-28 - Car Loan Refinancing Strategy|Car Loan Refinancing Strategy]]  #alan #credit #high-signal
+- 🟢 `2024-07-28` [[2024-07-28 - Building Paydex Score Strategy|Building Paydex Score Strategy]]  #alan #credit #high-signal
+- 🟢 `2024-07-28` [[2024-07-28 - C Corp Funding Steps|C Corp Funding Steps]]  #alan
+- 🟢 `2024-07-28` [[2024-07-28 - Masterclass Funding and Credit|Masterclass Funding and Credit]]  #alan #business-credit #credit
+- 🟢 `2024-07-28` [[2024-07-28 - Business Funding Strategies|Business Funding Strategies]]  #alan #funding
+- 🟢 `2024-07-28` [[2024-07-28 - SPV and SP Entities|SPV and SP Entities]]  #alan
+- 🟢 `2024-07-28` [[2024-07-28 - Removing Incorrect Name|Removing Incorrect Name]]  #alan #credit
+- 🟢 `2024-07-28` [[2024-07-28 - Real Estate Seasoning and LLC|Real Estate Seasoning and LLC]]  #alan
+- 🟢 `2024-07-29` [[2024-07-29 - Nutritional Meal Assessment|Nutritional Meal Assessment]]  #alan #health
+- 🟢 `2024-07-29` [[2024-07-29 - Credit Report Dispute|Credit Report Dispute]]  #alan #credit
+- 🟢 `2024-07-29` [[2024-07-29 - Other Credit Bureaus Overview|Other Credit Bureaus Overview]]  #alan #credit
+- 🟢 `2024-07-29` [[2024-07-29 - Chase Ink Business Pull|Chase Ink Business Pull]]  #alan
+- 🟢 `2024-07-29` [[2024-07-29 - Understanding Aged Shelf Corporations|Understanding Aged Shelf Corporations]]  #alan
+- 🟢 `2024-07-29` [[2024-07-29 - Personal Guarantees Overview|Personal Guarantees Overview]]  #alan
+- 🟢 `2024-07-29` [[2024-07-29 - Legal Business Revenue Strategies|Legal Business Revenue Strategies]]  #alan #amex
+- 🟢 `2024-07-29` [[2024-07-29 - Fix and Flip Strategies|Fix and Flip Strategies]]  #alan
+- 🟢 `2024-07-29` [[2024-07-29 - Debt Reassignment Strategy Guide|Debt Reassignment Strategy Guide]]  #alan #high-signal
+- 🟢 `2024-07-29` [[2024-07-29 - Motorcycle vs Car Loan|Motorcycle vs Car Loan]]  #alan #funding
+- 🟢 `2024-07-29` [[2024-07-29 - Scratch Pub Co Inquiry|Scratch Pub Co Inquiry]]  #alan
+- 🟢 `2024-07-29` [[2024-07-29 - Handling Disruptive Child Behavior|Handling Disruptive Child Behavior]]  #alan
+- 🟢 `2024-07-30` [[2024-07-30 - Late Payment Removal Request|Late Payment Removal Request]]  #alan #credit
+- 🟢 `2024-07-30` [[2024-07-30 - Microwaves in Cancer Research|Microwaves in Cancer Research]]  #alan #health
+- 🟢 `2024-07-30` [[2024-07-30 - Pro Forma Paystub Verification|Pro Forma Paystub Verification]]  #alan
+- 🟢 `2024-07-30` [[2024-07-30 - Dreams and Emotional Reflection|Dreams and Emotional Reflection]]  #alan
+- 🟢 `2024-07-30` [[2024-07-30 - Address Confusion Resolution|Address Confusion Resolution]]  #alan
+- 🟢 `2024-07-30` [[2024-07-30 - Bank Application Strategy|Bank Application Strategy]]  #alan #high-signal
+- 🟢 `2024-07-30` [[2024-07-30 - Loan Approval Categories Analysis|Loan Approval Categories Analysis]]  #alan #credit
+- 🟢 `2024-07-30` [[2024-07-30 - High-Performance Sales Operations|High-Performance Sales Operations]]  #alan
+- 🟢 `2024-07-30` [[2024-07-30 - Bond Market Control Explained|Bond Market Control Explained]]  #alan
+- 🟢 `2024-07-31` [[2024-07-31 - Name Correction Request Fax|Name Correction Request Fax]]  #alan
+- 🟢 `2024-07-31` [[2024-07-31 - Trillion Dollar Stocks|Trillion Dollar Stocks]]  #alan
+- 🟢 `2024-07-31` [[2024-07-31 - Interest Rate Discrepancy Explained|Interest Rate Discrepancy Explained]]  #alan
+- 🟢 `2024-07-31` [[2024-07-31 - Derrick Whitehead CEO Overview|Derrick Whitehead CEO Overview]]  #alan
+- 🟢 `2024-07-31` [[2024-07-31 - Removing PG from Corporation|Removing PG from Corporation]]  #alan
+- 🟢 `2024-07-31` [[2024-07-31 - Dispute Incorrect Late Payments|Dispute Incorrect Late Payments]]  #alan #credit
+- 🟢 `2024-07-31` [[2024-07-31 - Quick NFCU Membership Options|Quick NFCU Membership Options]]  #alan #legal
+- 🟢 `2024-07-31` [[2024-07-31 - Psychedelic Use and Legalities|Psychedelic Use and Legalities]]  #alan #hiring #legal
+- 🟢 `2024-07-31` [[2024-07-31 - Winning Government Contracts Without Website|Winning Government Contracts Without Website]]  #alan #legal
+- 🟢 `2024-07-31` [[2024-07-31 - UCare MN Adult Braces|UCare MN Adult Braces]]  #alan
+
+## 2024-06  (13)
+
+- 🟢 `2024-06-04` [[2024-06-04 - ChatGPT-5 Details Unknown|ChatGPT-5 Details Unknown]]  #alan #ai-workflow
+- 🟢 `2024-06-11` [[2024-06-11 - Strange Dog Behavior Analysis|Strange Dog Behavior Analysis]]  #alan
+- 🟢 `2024-06-13` [[2024-06-13 - Proper Bamboo Charcoal Cleanser|Proper Bamboo Charcoal Cleanser]]  #alan
+- 🟢 `2024-06-15` [[2024-06-15 - Life Insurance Cash Value|Life Insurance Cash Value]]  #alan
+- 🟢 `2024-06-19` [[2024-06-19 - Monetary Systems- Shadow, Offshore, Digital|Monetary Systems: Shadow, Offshore, Digital]]  #alan
+- 🟢 `2024-06-19` [[2024-06-19 - Astrology Love Life Analysis|Astrology Love Life Analysis]]  #alan
+- 🟢 `2024-06-19` [[2024-06-19 - Loan Approval Criteria Overview|Loan Approval Criteria Overview]]  #alan #credit #finance #utilization
+- 🟢 `2024-06-20` [[2024-06-20 - Ready YouTube Transcripts|Ready YouTube Transcripts]]  #alan
+- 🟢 `2024-06-20` [[2024-06-20 - Split Text into Segments|Split Text into Segments]]  #alan
+- 🟢 `2024-06-20` [[2024-06-20 - Opening Line Crafting Success|Opening Line Crafting Success]]  #alan #copywriting
+- 🟢 `2024-06-21` [[2024-06-21 - Redress or theme character|Redress or theme character]]  #alan
+- 🟢 `2024-06-22` [[2024-06-22 - AI PDF Creation Solution|AI PDF Creation Solution]]  #alan
+- 🟢 `2024-06-22` [[2024-06-22 - Targeting EDM Artists Strategically|Targeting EDM Artists Strategically]]  #alan #instagram #marketing #networking #teaching
+
+## 2024-05  (8)
+
+- 🟢 `2024-05-06` [[2024-05-06 - New chat|New chat]]  #alan
+- 🟢 `2024-05-21` [[2024-05-21 - PhaFlaModDub Growls|PhaFlaModDub Growls]]  #alan
+- 🟢 `2024-05-21` [[2024-05-21 - Model Summarizes User Request|Model Summarizes User Request]]  #alan
+- 🟢 `2024-05-23` [[2024-05-23 - Orgasmic Energy Exploration|Orgasmic Energy Exploration]]  #alan
+- 🟢 `2024-05-23` [[2024-05-23 - Budget-Friendly Athlete Meal Prep|Budget-Friendly Athlete Meal Prep]]  #alan
+- 🟢 `2024-05-25` [[2024-05-25 - Astro Wealth- MC & Career|Astro Wealth: MC & Career]]  #alan
+- 🟢 `2024-05-28` [[2024-05-28 - Conquer Laziness with Strategies|Conquer Laziness with Strategies]]  #alan
+- 🟢 `2024-05-31` [[2024-05-31 - Balance Mindful Discipline Integration|Balance Mindful Discipline Integration]]  #alan #high-signal

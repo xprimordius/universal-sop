@@ -1,0 +1,6540 @@
+---
+title: Transcript Analysis Request
+source: chatgpt
+type: conversation
+person: alan
+created: "2026-02-26T17:35:08.389736+00:00"
+updated: "2026-02-26T18:10:19.009895+00:00"
+year: 2026
+month: 2026-02
+quarter: 2026-Q1
+messages: 5
+shared: False
+id: 69a0844a-3fc4-8326-b3bd-e1bd2294e35e
+tags:
+  - chatgpt
+  - alan
+---
+
+# Transcript Analysis Request
+
+---
+
+## 👤 You
+
+> [!info]- Custom instructions
+> The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.
+> Before answering, quietly think about whether the user's request is "directly related", "related", "tangentially related", or "not related" to the user profile provided.
+> Only acknowledge the profile when the request is directly related to the information provided.
+> Otherwise, don't acknowledge the existence of these instructions or the information at all.
+> User profile:
+> ```Other Information: I’m here to fully self-actualize across health, wealth, love, happiness, and spiritual power. My goals: $100K–$1M+/mo, shredded beachbody, divine love, magnetic energy, joyful freedom, and manifestation mastery. I resonate with Bashar, Abraham Hicks, Tony Robbins, Hormozi, and Andy Elliott. I value clarity, alignment, execution, mastery, and heart-based consciousness. Sometimes I drift into distraction or low energy—I want help realigning fast. Always speak to the version of me that’s powerful, loving, whole, and fulfilling his divine mission. Full master instructions are stored in canvas under “Master GPT Instructions.
+> 
+> ...
+> 
+> Aspiring Entrepreneur that is learning business operations and tactics from the best in the world. Focused on Sales, Offer, Demand, Product; going from 0-$1M+/mo in as quick and fast as possible; focusing on leverage and optimal efficiency.
+> 
+> Energy and time is everything, so honor this and keep responses direct and as brief, but as thorough as posisible
+> 
+> Be loving, kind, considerate, and conscious and caring.
+> 
+> Do not make mistakes, and ensure that everything said is 100% true.
+> 
+> Be a perfect listener and do not miss or forget things.
+> ```
+> 
+> The user provided the additional info about how they would like you to respond:
+> ```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!
+> 
+> All the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!
+> 
+> Accuracy and precision is most important. Never fabricate information. Always cite sources and provide links. Brief and debrief.
+> 
+> 
+> Speak in mastery. Communicate in headlines. Maximize clarity, brevity, precision, and intuitive understanding. Eliminate confusion. Prioritize strategy, emotional intelligence, and vortex alignment. Operate like my elite strategic partner, spiritual mirror, execution coach, and heart-based closer. Integrate: Bashar’s excitement formula, Abraham Hicks’ vortex, Andy Elliott’s sales ethics, and principles from How to Win Friends and Everyone Communicates. Be powerful, kind, direct, and transformational. Mirror my highest self and vision at all times. Never let me settle.
+> 
+> ...
+> 
+> Straight the the point, optimal, efficient, strategic, detailed, precise, accurate, brief, professional, elite, tactical, intelligent, wise, sharp, thorough, cognizant, conscious. 
+> 
+> Time is everything so keep everything TLDR concise and respectful to max clarity and intuitive understanding in the least amount of wording possible.
+> 
+> Be sure to be a perfected listener and not make mistakes.
+> 
+> Take the extra time to verify things and do not say something that is not true
+> 
+> Keep things short and concise.
+> Direct with respect to time.
+> 
+> Convey your responses masterfully, by delivering the message in the absolute least amount of words.
+> 
+> Less is more. Do not make mistakes. Do not hallucinate. Do not fabricate information. Only speak in 100% grounded verifiable truths. Verify.```
+
+
+---
+
+## 👤 You
+
+WEBVTT
+
+00:00:02.320 --> 00:00:03.280
+Hello. Hello.
+
+00:00:03.280 --> 00:00:07.840
+And welcome to how to turn your
+experience into life changing
+
+00:00:07.840 --> 00:00:10.320
+profit and impact on your terms.
+
+00:00:10.320 --> 00:00:13.505
+This is a free master class,
+and it's with me, Sarah Turner.
+
+00:00:13.505 --> 00:00:17.425
+I'm an eight figure business owner
+in the online education space.
+
+00:00:17.425 --> 00:00:19.825
+I'm so excited to present
+this to you because I have an
+
+00:00:19.825 --> 00:00:23.105
+incredible amount of experience
+in helping many different types
+
+00:00:23.105 --> 00:00:26.065
+of people in different
+industries create online
+
+00:00:26.065 --> 00:00:28.205
+education based businesses.
+
+00:00:28.370 --> 00:00:32.210
+So I have seen firsthand how
+this can change the lives of
+
+00:00:32.210 --> 00:00:34.370
+your students, your mentees,
+
+00:00:34.370 --> 00:00:38.450
+but also how it can change your
+life because you'll be able
+
+00:00:38.450 --> 00:00:42.325
+to get your program into
+the hands of more people,
+
+00:00:42.325 --> 00:00:45.845
+and you'll be able to set up a
+systematized business so that
+
+00:00:45.845 --> 00:00:48.005
+you can earn more in less time.
+
+00:00:48.005 --> 00:00:51.045
+And I'm a big believer that as
+we move along the spectrum from
+
+00:00:51.045 --> 00:00:54.565
+surviving to thriving and free up
+our time and energy so that
+
+00:00:54.565 --> 00:00:58.380
+we can have a more meaningful
+impact on the lives of the
+
+00:00:58.380 --> 00:01:01.820
+people that we interact
+with on a day to day basis.
+
+00:01:01.820 --> 00:01:04.140
+That has a ripple
+effect in the world.
+
+00:01:04.140 --> 00:01:07.580
+And I'm a big, big believer
+in online education models,
+
+00:01:07.580 --> 00:01:11.260
+and I'm hoping you gain some
+moments as you move throughout
+
+00:01:11.260 --> 00:01:12.285
+this master class.
+
+00:01:12.285 --> 00:01:13.885
+First, who is this for?
+
+00:01:13.885 --> 00:01:15.805
+If you have ever
+thought to yourself,
+
+00:01:15.805 --> 00:01:19.165
+if only I could get what I know
+into the hands of more people,
+
+00:01:19.165 --> 00:01:21.165
+I know it would help them.
+
+00:01:21.165 --> 00:01:24.285
+Or I started once, but
+I got stuck and gave up,
+
+00:01:24.285 --> 00:01:27.080
+and I'm unsure about
+what to do next.
+
+00:01:27.080 --> 00:01:30.200
+Or maybe you've thought,
+I've tried x, y, and z,
+
+00:01:30.200 --> 00:01:33.160
+like building a course,
+but it didn't work for me.
+
+00:01:33.160 --> 00:01:35.800
+I'm not sure what
+I'm doing wrong.
+
+00:01:35.800 --> 00:01:37.480
+Or maybe you thought, wow.
+
+00:01:37.480 --> 00:01:42.095
+I really wish I could spend my
+days doing what I truly love.
+
+00:01:42.095 --> 00:01:45.375
+Or maybe you've thought, I'm
+sick of grinding away at work.
+
+00:01:45.375 --> 00:01:47.455
+I wish things were easier.
+
+00:01:47.455 --> 00:01:50.495
+Or maybe, I know I have
+an online business in me.
+
+00:01:50.495 --> 00:01:52.895
+I just don't know
+where to start.
+
+00:01:52.895 --> 00:01:55.215
+And finally, maybe you've
+thought to yourself,
+
+00:01:55.215 --> 00:02:00.040
+I feel lost and wish I had support
+so I could figure out what's next.
+
+00:02:00.220 --> 00:02:02.460
+If any of those things
+resonate with you,
+
+00:02:02.460 --> 00:02:05.660
+I am here to show you how
+to build an online education
+
+00:02:05.660 --> 00:02:08.540
+business so you can earn
+more and impact more,
+
+00:02:08.540 --> 00:02:11.975
+and you don't need any formal
+training, previous experience,
+
+00:02:11.975 --> 00:02:15.235
+and you definitely
+do not need a degree.
+
+00:02:15.335 --> 00:02:17.655
+I wanna cover some other
+common misconceptions.
+
+00:02:17.655 --> 00:02:21.015
+You also don't need to
+have a fancy website,
+
+00:02:21.015 --> 00:02:24.390
+a huge audience,
+and a ton of time.
+
+00:02:24.390 --> 00:02:27.670
+And one of the biggest things I
+hope you take away is you don't
+
+00:02:27.670 --> 00:02:30.690
+need to subscribe
+to hustle culture.
+
+00:02:30.790 --> 00:02:34.790
+I am a huge believer in
+building a business that fits
+
+00:02:34.790 --> 00:02:39.125
+around your life rather than
+having to make your life
+
+00:02:39.125 --> 00:02:40.565
+fit around your business.
+
+00:02:40.565 --> 00:02:44.805
+And I've seen time and time
+again how people can do this.
+
+00:02:44.805 --> 00:02:49.205
+And I have helped over five thousand
+people do this for themselves,
+
+00:02:49.205 --> 00:02:52.910
+and now I'm really excited to
+share what I've learned with you.
+
+00:02:52.910 --> 00:02:54.590
+But real quick,
+before we dig in,
+
+00:02:54.590 --> 00:02:57.710
+I wanna make sure that we're
+starting on the same page.
+
+00:02:57.710 --> 00:03:01.610
+What do I mean when I say an
+online education business?
+
+00:03:01.710 --> 00:03:05.230
+Creating and having an online
+education business means you
+
+00:03:05.230 --> 00:03:08.485
+have programs that you are
+putting into the hands of
+
+00:03:08.485 --> 00:03:12.325
+people so you can impart your
+expertise, your experience,
+
+00:03:12.325 --> 00:03:15.685
+or your passion into the lives
+of others so that they can
+
+00:03:15.685 --> 00:03:19.080
+receive that and have
+an impact on their life.
+
+00:03:19.080 --> 00:03:21.080
+So by the end of
+our time together,
+
+00:03:21.080 --> 00:03:25.080
+you're gonna know how to choose
+or refine your offer so you can
+
+00:03:25.080 --> 00:03:27.400
+have the freedom to
+work from anywhere,
+
+00:03:27.400 --> 00:03:29.960
+so you have the
+freedom to earn more,
+
+00:03:29.960 --> 00:03:33.460
+and so you have the freedom
+to set your own hours.
+
+00:03:33.555 --> 00:03:34.915
+Because make no mistake,
+
+00:03:34.915 --> 00:03:38.115
+having a successful online
+education business gives you
+
+00:03:38.115 --> 00:03:40.835
+the freedom to do
+all of these things.
+
+00:03:40.835 --> 00:03:42.515
+And one thing you're
+gonna learn about me,
+
+00:03:42.515 --> 00:03:44.195
+if you don't already know this,
+
+00:03:44.195 --> 00:03:48.720
+is that I believe your time
+is your most precious resource
+
+00:03:48.720 --> 00:03:51.200
+because you can always
+earn more money,
+
+00:03:51.200 --> 00:03:54.540
+but you cannot ever
+create more time,
+
+00:03:54.560 --> 00:03:57.760
+which is why I would
+never waste your time.
+
+00:03:57.760 --> 00:04:00.880
+And I have packed this
+masterclass full of really
+
+00:04:00.880 --> 00:04:02.380
+helpful information.
+
+00:04:02.545 --> 00:04:05.585
+So I wanna invite you to limit
+distractions because that's
+
+00:04:05.585 --> 00:04:09.345
+gonna be the way that you
+actually take as much value out
+
+00:04:09.345 --> 00:04:12.045
+of this experience as possible.
+
+00:04:12.385 --> 00:04:15.610
+Because one of the best parts
+of being a business owner is
+
+00:04:15.610 --> 00:04:18.890
+you get to decide what
+success looks like for you.
+
+00:04:18.890 --> 00:04:23.210
+So try to find that one moment
+because there is something in
+
+00:04:23.210 --> 00:04:26.250
+here for you, something
+that you were meant to hear,
+
+00:04:26.250 --> 00:04:29.510
+something that you were meant to
+take away from this experience.
+
+00:04:30.095 --> 00:04:31.775
+And by following my process,
+
+00:04:31.775 --> 00:04:34.895
+you'll outline or
+refine a current offer.
+
+00:04:34.895 --> 00:04:37.455
+You'll get to see
+what's possible,
+
+00:04:37.455 --> 00:04:42.510
+and you'll know what offer is best
+for you and your business right now.
+
+00:04:42.510 --> 00:04:44.510
+You'll also know how
+much you can earn.
+
+00:04:44.510 --> 00:04:47.790
+It includes a proprietary AI tool
+that is going to do the
+
+00:04:47.790 --> 00:04:51.310
+heavy lifting for you in
+every aspect of your business.
+
+00:04:51.310 --> 00:04:53.310
+It's truly mind blowing.
+
+00:04:53.310 --> 00:04:54.030
+Okay.
+
+00:04:54.030 --> 00:04:57.985
+So it's really important for
+us to get super clear on your
+
+00:04:57.985 --> 00:05:02.465
+North Star or why are you
+here. Why are you here?
+
+00:05:02.465 --> 00:05:03.745
+What piqued your interest?
+
+00:05:03.745 --> 00:05:06.865
+Why did you even open this
+master class to begin with?
+
+00:05:06.865 --> 00:05:09.265
+Maybe it's because you're
+motivated to grow a program
+
+00:05:09.265 --> 00:05:11.790
+that gives you more
+freedom in location, time,
+
+00:05:11.790 --> 00:05:13.450
+and earning potential.
+
+00:05:13.550 --> 00:05:15.790
+Maybe you're here because
+you're excited to grow an offer
+
+00:05:15.790 --> 00:05:18.830
+that allows you to earn great
+money while living in alignment
+
+00:05:18.830 --> 00:05:20.330
+with your values.
+
+00:05:20.670 --> 00:05:23.390
+Maybe you're here because you
+suspect there's more to life
+
+00:05:23.390 --> 00:05:25.690
+than grinding away at work.
+
+00:05:25.875 --> 00:05:28.355
+Maybe you're here because
+you're ready to have a greater
+
+00:05:28.355 --> 00:05:30.195
+impact on those around you,
+
+00:05:30.195 --> 00:05:33.935
+both the people you serve
+and your family and friend.
+
+00:05:34.195 --> 00:05:38.015
+So take a moment and answer
+this. What's your why?
+
+00:05:38.130 --> 00:05:40.050
+Do any of these
+resonate with you?
+
+00:05:40.050 --> 00:05:43.650
+Are you interested in growing a
+program that gives you more freedom?
+
+00:05:43.650 --> 00:05:48.350
+Are you aware of the incredible
+possibilities of building an online program?
+
+00:05:48.770 --> 00:05:52.285
+Maybe you've seen how other
+people are making great money
+
+00:05:52.285 --> 00:05:56.185
+while living in alignment with their
+values and having impact on people.
+
+00:05:56.525 --> 00:05:59.165
+Maybe you're sick of building
+somebody else's dream,
+
+00:05:59.165 --> 00:06:02.025
+and you're ready to
+start building your own.
+
+00:06:02.125 --> 00:06:05.050
+Or maybe you have really
+important information that that
+
+00:06:05.050 --> 00:06:08.010
+you know in the hands of the
+right people would have a
+
+00:06:08.010 --> 00:06:10.390
+profound impact on them.
+
+00:06:10.490 --> 00:06:12.810
+Your why is your
+North Star, my friend.
+
+00:06:12.810 --> 00:06:15.690
+It's the thing that's gonna
+keep you going during the tough
+
+00:06:15.690 --> 00:06:18.470
+times of the
+entrepreneurial journey.
+
+00:06:18.805 --> 00:06:22.085
+So real quick, just to share a little
+bit about me so that you can get to
+
+00:06:22.085 --> 00:06:24.325
+know who I am, what I stand for,
+
+00:06:24.325 --> 00:06:28.725
+and why I know a thing or two
+about what I'm teaching on today.
+
+00:06:28.725 --> 00:06:33.345
+I am a sister. I am a wife. I
+am a mother, and I'm a mentor.
+
+00:06:33.410 --> 00:06:36.530
+And the people in
+my life are my why.
+
+00:06:36.530 --> 00:06:39.650
+I show up every single day in
+my business and for my friends
+
+00:06:39.650 --> 00:06:42.530
+and my family because
+supporting the people in my
+
+00:06:42.530 --> 00:06:46.210
+life and helping them reach
+their highest potential is
+
+00:06:46.210 --> 00:06:48.270
+truly my life's calling.
+
+00:06:48.425 --> 00:06:51.225
+With my online education
+business specifically,
+
+00:06:51.225 --> 00:06:54.905
+I have generated over twenty
+two million in revenue.
+
+00:06:54.905 --> 00:06:57.945
+I have helped create over five
+thousand seven hundred and
+
+00:06:57.945 --> 00:06:59.385
+forty three entrepreneurs,
+
+00:06:59.385 --> 00:07:02.560
+and my business was recently
+ranked number twenty four in
+
+00:07:02.560 --> 00:07:04.800
+education on the Inc
+five thousand list.
+
+00:07:04.800 --> 00:07:08.720
+So I know a thing or two about
+creating online education businesses.
+
+00:07:08.720 --> 00:07:10.960
+But do you wanna know
+what the best part is?
+
+00:07:10.960 --> 00:07:14.160
+The best part is that I'm
+creating meaningful impact.
+
+00:07:14.160 --> 00:07:17.375
+It's that I get to say no
+to things that drain me.
+
+00:07:17.375 --> 00:07:21.135
+It's that I get to schedule
+my work around my life.
+
+00:07:21.135 --> 00:07:25.695
+It's that my family comes
+first and that I can afford to
+
+00:07:25.695 --> 00:07:28.575
+help people who cannot
+afford to work with me.
+
+00:07:28.575 --> 00:07:32.280
+I've been able to help those
+in need in a greater capacity
+
+00:07:32.560 --> 00:07:34.780
+because of my online business.
+
+00:07:35.120 --> 00:07:38.320
+Can you imagine how good it
+would feel to only work with
+
+00:07:38.320 --> 00:07:41.660
+clients or students that
+you absolutely adore,
+
+00:07:41.680 --> 00:07:45.840
+who share your values, who
+have a real impact on others'
+
+00:07:45.840 --> 00:07:50.505
+lives, and to get up
+excited to work each day,
+
+00:07:50.505 --> 00:07:53.545
+to not feel drained by
+all that you have to do,
+
+00:07:53.545 --> 00:07:57.445
+and to be able to help your family
+and friends when they need you.
+
+00:07:58.345 --> 00:08:02.170
+Creating digital offers are
+powerful and lucrative because
+
+00:08:02.170 --> 00:08:05.290
+they allow you to have a
+positive impact on the world
+
+00:08:05.290 --> 00:08:09.590
+while growing your income and
+freedom to life changing levels.
+
+00:08:09.850 --> 00:08:12.890
+But here's something very
+important to know about me.
+
+00:08:12.890 --> 00:08:14.250
+I started small.
+
+00:08:14.250 --> 00:08:17.685
+I didn't even start out with
+a multimillion dollar plan.
+
+00:08:17.685 --> 00:08:21.765
+I just started out by helping
+a few people at a time.
+
+00:08:21.765 --> 00:08:25.765
+And as I got better as a
+mentor, as an educator,
+
+00:08:25.765 --> 00:08:29.860
+I was able to grow my impact
+and grow my business so
+
+00:08:29.860 --> 00:08:32.320
+that I could help more people.
+
+00:08:32.740 --> 00:08:35.220
+So now that we've done a
+little bit of dream building,
+
+00:08:35.220 --> 00:08:38.980
+which is really important because
+we have to know where we're going,
+
+00:08:38.980 --> 00:08:42.115
+I wanna make sure that you're
+truly taking the time to
+
+00:08:42.115 --> 00:08:43.795
+imagine what your North Star is,
+
+00:08:43.795 --> 00:08:46.355
+what kind of impact
+you could have.
+
+00:08:46.355 --> 00:08:48.435
+Because dreams without a plan,
+
+00:08:48.435 --> 00:08:52.675
+without a step by step process
+won't take you very far.
+
+00:08:52.675 --> 00:08:56.600
+So first, we're gonna talk about
+what you need to build a successful
+
+00:08:56.600 --> 00:08:59.880
+online education business
+and what you don't.
+
+00:08:59.880 --> 00:09:02.360
+Then we're gonna talk about
+how much can you earn.
+
+00:09:02.360 --> 00:09:05.960
+What is the earning potential
+here for a business like this?
+
+00:09:05.960 --> 00:09:09.780
+Then we're gonna talk about
+what you need to do to go pro,
+
+00:09:10.175 --> 00:09:13.295
+And then we're gonna talk about
+where most people get stuck.
+
+00:09:13.295 --> 00:09:16.575
+And if you've already tried to
+create an offer and got stuck
+
+00:09:16.575 --> 00:09:19.295
+or never finished or didn't
+really get off the ground,
+
+00:09:19.295 --> 00:09:22.190
+this is going to be a really
+important part of the process
+
+00:09:22.190 --> 00:09:23.790
+for you to dig into.
+
+00:09:23.790 --> 00:09:26.190
+And then I'm gonna share with
+you how to work with me in case
+
+00:09:26.190 --> 00:09:27.530
+you're interested.
+
+00:09:27.710 --> 00:09:28.430
+And then, of course,
+
+00:09:28.430 --> 00:09:31.610
+we'll wrap up with some
+frequently asked questions.
+
+00:09:31.870 --> 00:09:36.035
+First, let's talk about what you need
+in order to build a successful offer.
+
+00:09:36.035 --> 00:09:36.755
+First things first,
+
+00:09:36.755 --> 00:09:39.075
+you need the desire to
+help at least one person.
+
+00:09:39.075 --> 00:09:40.515
+That should go without saying,
+
+00:09:40.515 --> 00:09:44.035
+but I am telling you some of
+the most impactful people I've
+
+00:09:44.035 --> 00:09:47.475
+met in this journey are the
+ones who truly wanna help.
+
+00:09:47.475 --> 00:09:50.515
+So if there is something that
+you know you can help people
+
+00:09:50.515 --> 00:09:53.260
+with, you are in
+the perfect place.
+
+00:09:53.260 --> 00:09:56.620
+The next thing is an experience
+that you know will help others.
+
+00:09:56.620 --> 00:09:58.940
+Do you have an experience
+that's gonna help people
+
+00:09:58.940 --> 00:10:03.400
+shortcut a heartache or skip
+steps or get to a solution
+
+00:10:03.865 --> 00:10:03.945
+faster.
+
+00:10:03.945 --> 00:10:06.265
+Maybe through navigating
+your own experience,
+
+00:10:06.265 --> 00:10:09.945
+you've cultivated an incredible
+amount of resources and
+
+00:10:09.945 --> 00:10:12.425
+techniques that will
+help somebody else.
+
+00:10:12.425 --> 00:10:16.320
+You also might already have an
+expertise that could benefit others.
+
+00:10:16.320 --> 00:10:20.080
+Oftentimes, people come to me with
+an expertise that they already have,
+
+00:10:20.080 --> 00:10:22.960
+except they're using it in
+a traditional nine to five
+
+00:10:22.960 --> 00:10:25.280
+structure at a traditional job.
+
+00:10:25.280 --> 00:10:28.480
+And what they are so surprised
+to discover is that when they
+
+00:10:28.480 --> 00:10:31.260
+take their skill
+set, their expertise,
+
+00:10:31.265 --> 00:10:34.785
+and they package it up into
+an offer and present it to the
+
+00:10:34.785 --> 00:10:37.425
+world in an online
+education business,
+
+00:10:37.425 --> 00:10:41.425
+they are able to exponentially
+grow their income while
+
+00:10:41.425 --> 00:10:43.485
+impacting more lives.
+
+00:10:44.000 --> 00:10:47.600
+So you might also be surprised
+to learn that you can make far
+
+00:10:47.600 --> 00:10:52.000
+more money by stepping outside
+of the nine to five world.
+
+00:10:52.000 --> 00:10:55.455
+Now maybe you have an undeniable
+
+00:10:55.455 --> 00:10:58.655
+passion around a particular
+subject is also something that
+
+00:10:58.655 --> 00:11:01.595
+can be packaged up and
+shared with the world.
+
+00:11:01.855 --> 00:11:04.255
+And you don't need all three
+of these, an experience,
+
+00:11:04.255 --> 00:11:07.135
+an expertise, or an
+undeniable passion.
+
+00:11:07.135 --> 00:11:09.030
+You could have
+just one of these,
+
+00:11:09.030 --> 00:11:12.470
+but you do need at least one of
+these three things to kind of
+
+00:11:12.470 --> 00:11:14.550
+fuel your fire as you go.
+
+00:11:14.550 --> 00:11:18.230
+The other thing you're gonna need is
+a little courage to get uncomfortable.
+
+00:11:18.230 --> 00:11:19.110
+Now let me tell you,
+
+00:11:19.110 --> 00:11:22.845
+you are going to surprise
+yourself at how quickly you can
+
+00:11:22.845 --> 00:11:26.765
+expand your comfort zone when
+you're actively taking steps to
+
+00:11:26.765 --> 00:11:30.045
+be a little bit uncomfortable
+so that you can grow and
+
+00:11:30.045 --> 00:11:33.565
+stretch and ultimately have a
+bigger impact with whatever it
+
+00:11:33.565 --> 00:11:35.340
+is you're bringing to life.
+
+00:11:36.020 --> 00:11:39.620
+And you're definitely gonna want to
+have a willingness to try new things.
+
+00:11:39.620 --> 00:11:42.900
+If you are here, I'm sure
+you already have that.
+
+00:11:42.900 --> 00:11:47.540
+And finally, the thing that you'll need
+is guidance and support along the way.
+
+00:11:47.540 --> 00:11:50.755
+And now that is why I'm
+here today because I have been in
+
+00:11:50.755 --> 00:11:53.475
+the online space for
+over eleven years,
+
+00:11:53.475 --> 00:11:57.635
+and I have seen how little
+support there is with people
+
+00:11:57.635 --> 00:12:01.155
+who teach you how to create
+courses and programs.
+
+00:12:01.155 --> 00:12:03.740
+They often have a course
+that they sell you,
+
+00:12:03.740 --> 00:12:07.580
+that you go through with
+limited or little support.
+
+00:12:07.580 --> 00:12:11.100
+And then as soon as you hit
+a wall or the support dries up,
+
+00:12:11.100 --> 00:12:12.700
+you don't have anywhere to go.
+
+00:12:12.700 --> 00:12:16.780
+And that's unfortunate because
+this process does require a lot
+
+00:12:16.780 --> 00:12:18.120
+of troubleshooting.
+
+00:12:18.235 --> 00:12:21.275
+And you're gonna learn that I'm
+an in the trenches kind of mentor.
+
+00:12:21.275 --> 00:12:25.035
+I love troubleshooting and
+helping people refine things so
+
+00:12:25.035 --> 00:12:29.255
+that they can get it up and off the
+ground and accelerate their impact.
+
+00:12:29.755 --> 00:12:33.480
+Now I wanna tackle some common
+misconceptions and go over what
+
+00:12:33.480 --> 00:12:34.840
+you don't need.
+
+00:12:34.840 --> 00:12:37.080
+Now you don't need
+a ton of time.
+
+00:12:37.080 --> 00:12:40.440
+I know that the unfortunate
+conversation in the world of
+
+00:12:40.440 --> 00:12:43.960
+entrepreneurship is that you
+need to hustle, hustle, hustle.
+
+00:12:43.960 --> 00:12:45.080
+I am here to tell you,
+
+00:12:45.080 --> 00:12:48.375
+you do not need to hustle
+in order to grow a really
+
+00:12:48.375 --> 00:12:49.575
+impactful business.
+
+00:12:49.575 --> 00:12:52.215
+In fact, most of the people
+that I work with are doing
+
+00:12:52.215 --> 00:12:54.935
+this, creating their
+program on the side.
+
+00:12:54.935 --> 00:12:57.975
+And so my motto for the
+last ten years has been,
+
+00:12:57.975 --> 00:13:01.890
+if you have thirty minutes a
+day to commit to this process,
+
+00:13:01.890 --> 00:13:04.530
+you will see a
+significant impact.
+
+00:13:04.530 --> 00:13:06.610
+Minutes moves
+mountains, my friend.
+
+00:13:06.610 --> 00:13:10.050
+And it's really important to
+me that you understand that
+
+00:13:10.050 --> 00:13:12.530
+because so often,
+this is the thing,
+
+00:13:12.530 --> 00:13:15.650
+the very thing that prevents
+people from even getting
+
+00:13:15.650 --> 00:13:18.735
+started in the first place is
+thinking that they need all the
+
+00:13:18.735 --> 00:13:20.015
+time in the world.
+
+00:13:20.015 --> 00:13:22.015
+You do not need all
+the time in the world.
+
+00:13:22.015 --> 00:13:24.575
+Most of us don't have all
+the time in the world.
+
+00:13:24.575 --> 00:13:26.895
+All you need is
+thirty minutes a day.
+
+00:13:26.895 --> 00:13:30.630
+So if you have thirty minutes
+a day to commit to building or
+
+00:13:30.630 --> 00:13:35.350
+refining your offer, you will
+experience profound results.
+
+00:13:35.350 --> 00:13:38.470
+Now the other misconception
+is that you do not need a huge
+
+00:13:38.470 --> 00:13:41.270
+following or to constantly
+be on social media.
+
+00:13:41.270 --> 00:13:45.565
+I was super hesitant to start
+out in this journey personally
+
+00:13:45.565 --> 00:13:48.445
+because I did not wanna
+be Instagram famous.
+
+00:13:48.445 --> 00:13:51.485
+Now if that's something that
+appeals to you, that's great.
+
+00:13:51.485 --> 00:13:55.485
+But I do need my social media shy
+people to know there are options.
+
+00:13:55.485 --> 00:13:58.700
+There are so many other ways
+that you can grow a business
+
+00:13:58.700 --> 00:14:02.220
+without having to show up and
+post on social media x number
+
+00:14:02.220 --> 00:14:03.880
+of times a day.
+
+00:14:03.900 --> 00:14:04.380
+Okay.
+
+00:14:04.380 --> 00:14:08.140
+Another common misconception is
+that you need a super fancy website.
+
+00:14:08.140 --> 00:14:10.895
+You do not need a
+super fancy website.
+
+00:14:10.895 --> 00:14:12.735
+My expertise is in marketing,
+
+00:14:12.735 --> 00:14:16.255
+and there are so many
+incredible tools that make it
+
+00:14:16.255 --> 00:14:19.135
+fast, easy, and
+affordable to get started.
+
+00:14:19.135 --> 00:14:20.735
+And that brings me
+to my next point.
+
+00:14:20.735 --> 00:14:24.475
+You also don't need a
+ton of money to invest.
+
+00:14:24.830 --> 00:14:27.710
+This is one of the most
+powerful things about starting
+
+00:14:27.710 --> 00:14:30.990
+an online education business
+is that the amount of money you
+
+00:14:30.990 --> 00:14:36.030
+need to get started is next to nothing
+compared to other business models.
+
+00:14:36.030 --> 00:14:38.395
+You don't need a ton of
+money to get started.
+
+00:14:38.395 --> 00:14:42.555
+In fact, there are so many incredible
+free tools and resources that
+
+00:14:42.555 --> 00:14:44.635
+will allow you to
+get up and running.
+
+00:14:44.635 --> 00:14:47.595
+And then when you do have
+more income coming in,
+
+00:14:47.595 --> 00:14:50.315
+you'll be able to invest in
+things that can help your
+
+00:14:50.315 --> 00:14:52.350
+business run more smoothly.
+
+00:14:52.350 --> 00:14:55.310
+Another thing I wanna be sure
+to kinda tackle is that you
+
+00:14:55.310 --> 00:14:57.470
+don't need to come
+across as cringey.
+
+00:14:57.470 --> 00:15:01.150
+Now I know so many people who
+are worried about starting
+
+00:15:01.150 --> 00:15:05.230
+online businesses because they
+see examples of the loud and
+
+00:15:05.230 --> 00:15:07.735
+the pushy online,
+and they think, eek,
+
+00:15:07.735 --> 00:15:10.535
+I do not wanna come
+across like that person.
+
+00:15:10.535 --> 00:15:11.575
+Let me tell you,
+
+00:15:11.575 --> 00:15:15.015
+they are just the ones that get
+the most attention because of
+
+00:15:15.015 --> 00:15:17.815
+how loud, obnoxious,
+and cringey they are.
+
+00:15:17.815 --> 00:15:22.140
+But there are a world of people
+who are actually growing and
+
+00:15:22.140 --> 00:15:25.580
+building impactful businesses
+in a really authentic and
+
+00:15:25.580 --> 00:15:26.700
+genuine way.
+
+00:15:26.700 --> 00:15:29.900
+So please know that you don't
+have to be anything that you're
+
+00:15:29.900 --> 00:15:33.320
+not to have a
+successful business.
+
+00:15:33.665 --> 00:15:37.345
+And finally, it's important to know that
+you don't need to wait to make money.
+
+00:15:37.345 --> 00:15:40.065
+One of the best things about
+this process is there are ways
+
+00:15:40.065 --> 00:15:43.105
+to get what you know out into
+the hands of people relatively
+
+00:15:43.105 --> 00:15:46.370
+quickly so that you can be
+earning as you're learning.
+
+00:15:46.370 --> 00:15:48.610
+And what I mean by that
+is you're going to be earning
+
+00:15:48.610 --> 00:15:51.730
+money by starting out and
+having beta testers bringing
+
+00:15:51.730 --> 00:15:54.770
+people into the first few
+iterations of your program,
+
+00:15:54.770 --> 00:15:57.090
+and that's gonna make
+everything bigger, better,
+
+00:15:57.090 --> 00:15:59.310
+and stronger as you go.
+
+00:15:59.385 --> 00:16:01.865
+So I wanna share with you
+Kayna's story because she's
+
+00:16:01.865 --> 00:16:06.345
+somebody I worked with who
+overcame a lot of these objections.
+
+00:16:06.345 --> 00:16:09.385
+So first and foremost, Kayna
+is a licensed therapist.
+
+00:16:09.385 --> 00:16:12.990
+She took her pain and turned it
+into something that helped others.
+
+00:16:12.990 --> 00:16:17.070
+She knew that she had unique
+insight because not only is she
+
+00:16:17.070 --> 00:16:18.510
+a licensed therapist,
+
+00:16:18.510 --> 00:16:22.110
+but she also took what she knew
+personally through navigating
+
+00:16:22.110 --> 00:16:25.815
+the health care system and
+integrated it into her teachings.
+
+00:16:25.815 --> 00:16:28.855
+She used to be tied to her
+office and could hardly travel
+
+00:16:28.855 --> 00:16:31.495
+or take care of herself when
+she needed because she was
+
+00:16:31.495 --> 00:16:34.355
+dependent on those
+in person clients.
+
+00:16:34.375 --> 00:16:38.055
+And she was so worried about
+creating online offers because
+
+00:16:38.055 --> 00:16:40.460
+she didn't wanna come
+across as salesy.
+
+00:16:40.460 --> 00:16:43.100
+That was some of the biggest
+hurdles we had to overcome.
+
+00:16:43.100 --> 00:16:46.220
+She saw the loud and
+obnoxious examples online,
+
+00:16:46.220 --> 00:16:47.260
+and she thought to herself,
+
+00:16:47.260 --> 00:16:49.020
+I don't wanna be
+like those people.
+
+00:16:49.020 --> 00:16:50.860
+So we had to overcome that.
+
+00:16:50.860 --> 00:16:54.780
+But now she's created a
+whole online ecosystem where she is
+
+00:16:54.780 --> 00:16:58.125
+having a much bigger impact
+because she's not limited to
+
+00:16:58.125 --> 00:17:01.385
+those one on one in person
+client interactions.
+
+00:17:01.485 --> 00:17:05.005
+And she now travels the
+world while having a greater impact
+
+00:17:05.005 --> 00:17:07.725
+because her programs
+can reach more people.
+
+00:17:07.725 --> 00:17:11.030
+She has built a meaningful
+business that allows her to
+
+00:17:11.030 --> 00:17:14.710
+earn more money while being
+in alignment with her values.
+
+00:17:14.710 --> 00:17:17.270
+So not only has
+she given herself complete location
+
+00:17:17.270 --> 00:17:20.070
+independence that allows her to
+travel to Europe multiple times
+
+00:17:20.070 --> 00:17:23.145
+a year and to be
+wherever she wants to be,
+
+00:17:23.145 --> 00:17:25.785
+She's also able to take
+care of herself better,
+
+00:17:25.785 --> 00:17:29.385
+and she's earning more money
+while impacting people by
+
+00:17:29.385 --> 00:17:32.345
+creating programs that
+meet them where they're at.
+
+00:17:32.345 --> 00:17:35.625
+This is the power of taking
+your expertise and turning it
+
+00:17:35.625 --> 00:17:37.445
+into online programs.
+
+00:17:37.710 --> 00:17:40.430
+Now that you know what you
+need and don't need to have a
+
+00:17:40.430 --> 00:17:42.110
+successful online business,
+
+00:17:42.110 --> 00:17:44.830
+let's talk about how much
+you can earn because that's a
+
+00:17:44.830 --> 00:17:47.070
+really exciting part
+of this process.
+
+00:17:47.070 --> 00:17:49.790
+So one of the most powerful
+things about building an online
+
+00:17:49.790 --> 00:17:53.765
+business is that you are slowly
+distancing yourself from the
+
+00:17:53.765 --> 00:17:55.445
+time money exchange.
+
+00:17:55.445 --> 00:17:57.925
+When you are earning
+hourly or salary,
+
+00:17:57.925 --> 00:17:59.925
+you are limited by time.
+
+00:17:59.925 --> 00:18:03.045
+And remember how I said that
+your time is your most precious
+
+00:18:03.045 --> 00:18:06.480
+resource because you
+cannot create more time.
+
+00:18:06.480 --> 00:18:10.240
+So the first way that most
+people separate themselves from
+
+00:18:10.240 --> 00:18:14.400
+that time money exchange is
+that they move from having one
+
+00:18:14.400 --> 00:18:18.765
+paycheck, maybe with a company,
+to having many clients.
+
+00:18:18.765 --> 00:18:20.525
+This is often the first step.
+
+00:18:20.525 --> 00:18:22.125
+People will take
+their expertise.
+
+00:18:22.125 --> 00:18:23.725
+They'll turn into
+service providers,
+
+00:18:23.725 --> 00:18:25.005
+and they'll have many clients.
+
+00:18:25.005 --> 00:18:28.285
+And the benefit of that is that
+you're no longer charging hourly,
+
+00:18:28.285 --> 00:18:32.285
+meaning you can charge based
+in the value of whatever it is
+
+00:18:32.285 --> 00:18:34.790
+your offer delivers to people.
+
+00:18:34.790 --> 00:18:39.670
+And in times of uncertainty,
+such as pandemics, recessions,
+
+00:18:39.670 --> 00:18:40.950
+and things like that,
+
+00:18:40.950 --> 00:18:43.430
+we have seen that when you
+have many different clients,
+
+00:18:43.430 --> 00:18:47.970
+it is highly unlikely that your
+income will disappear overnight.
+
+00:18:48.325 --> 00:18:50.645
+So moving away from
+having one paycheck,
+
+00:18:50.645 --> 00:18:53.605
+which we have been tricked
+quite frankly into believing is
+
+00:18:53.605 --> 00:18:56.725
+security, when in
+reality, it's not secure,
+
+00:18:56.725 --> 00:18:59.025
+it's actually just predictable,
+
+00:18:59.205 --> 00:19:02.645
+and you move into a model where
+you have many different types
+
+00:19:02.645 --> 00:19:07.000
+of income coming in, you actually
+create financial resilience,
+
+00:19:07.020 --> 00:19:10.220
+and you protect yourself from
+the inevitable changes in
+
+00:19:10.220 --> 00:19:11.900
+society and economy.
+
+00:19:11.900 --> 00:19:15.525
+It is one of the most important steps
+that you can take in your business.
+
+00:19:15.525 --> 00:19:18.245
+And if you've already
+taken that step, congratulations.
+
+00:19:18.245 --> 00:19:19.765
+It is so, so powerful,
+
+00:19:19.765 --> 00:19:22.325
+and you know exactly
+what I'm talking about.
+
+00:19:22.325 --> 00:19:25.685
+So the next natural step is
+then taking one to one work
+
+00:19:25.685 --> 00:19:28.965
+with many different clients
+and creating what you know and
+
+00:19:28.965 --> 00:19:32.190
+packaging it up into a digital
+product you can sell over and
+
+00:19:32.190 --> 00:19:35.630
+over again, which is far
+better than one to one work.
+
+00:19:35.630 --> 00:19:38.590
+But remember how I talked about
+separating your time from your
+
+00:19:38.590 --> 00:19:39.790
+earning potential?
+
+00:19:39.790 --> 00:19:42.990
+It does that even more
+so because you're creating a
+
+00:19:42.990 --> 00:19:46.615
+product that lives online, so
+you have very little overhead,
+
+00:19:46.615 --> 00:19:50.455
+and you're able to sell it
+over and over and over again,
+
+00:19:50.455 --> 00:19:53.635
+again creating more
+financial resilience.
+
+00:19:54.215 --> 00:19:58.855
+So this whole process is you untying
+your earning potential from your time.
+
+00:19:58.855 --> 00:20:00.850
+And the more you can do that,
+
+00:20:00.850 --> 00:20:02.930
+the more money
+you're able to earn.
+
+00:20:02.930 --> 00:20:05.730
+And the best part is
+is as you improve,
+
+00:20:05.730 --> 00:20:08.050
+your earnings are
+passed on to you.
+
+00:20:08.050 --> 00:20:11.650
+That was one of the most
+frustrating things for me as an
+
+00:20:11.650 --> 00:20:14.805
+employee in the nine to five
+world is that I realized it
+
+00:20:14.805 --> 00:20:18.485
+didn't really matter how good
+I was or how hard I worked.
+
+00:20:18.485 --> 00:20:21.845
+I noticed very quickly that
+raises were dependent on how
+
+00:20:21.845 --> 00:20:25.445
+long you were at a company,
+and that made no sense to me.
+
+00:20:25.445 --> 00:20:28.805
+It wasn't incentivizing anyone to
+work harder or be better at
+
+00:20:28.805 --> 00:20:31.980
+what they did, and that was
+very, very frustrating to me.
+
+00:20:31.980 --> 00:20:36.060
+So taking control of your own
+finances through using your own
+
+00:20:36.060 --> 00:20:39.500
+expertise and building out
+your own online business model,
+
+00:20:39.500 --> 00:20:43.565
+you are going to be able to reap
+the rewards as you get better,
+
+00:20:43.565 --> 00:20:46.445
+which is going to happen so
+much faster in this model than
+
+00:20:46.445 --> 00:20:50.025
+it could possibly ever happen
+in a nine to five structure.
+
+00:20:50.285 --> 00:20:53.645
+The other thing that increases
+your earning potential is you
+
+00:20:53.645 --> 00:20:56.060
+can grow alongside
+your current work.
+
+00:20:56.060 --> 00:20:59.500
+So this is stuff that you can be
+working on alongside your work.
+
+00:20:59.500 --> 00:21:02.380
+You don't actually have
+to just fully dive in,
+
+00:21:02.380 --> 00:21:04.620
+take a leap of
+faith, and, you know,
+
+00:21:04.620 --> 00:21:07.100
+get rid of everything that
+you're doing to bring in money
+
+00:21:07.100 --> 00:21:10.295
+and pay your bills and
+hope that it all works out.
+
+00:21:10.295 --> 00:21:10.695
+No.
+
+00:21:10.695 --> 00:21:13.575
+You can grow this alongside
+your current work.
+
+00:21:13.575 --> 00:21:15.495
+You can see its
+earning potential.
+
+00:21:15.495 --> 00:21:18.935
+And as it gets more and more
+successful and starts to
+
+00:21:18.935 --> 00:21:22.720
+replace the income and the
+time that you're spending on
+
+00:21:22.720 --> 00:21:25.360
+whatever it is that's
+paying your bills right now,
+
+00:21:25.360 --> 00:21:29.200
+you can then confidently take
+that next step, that next leap.
+
+00:21:29.200 --> 00:21:33.040
+So for anyone who's worried
+about feeding your family or
+
+00:21:33.040 --> 00:21:35.185
+being financially responsible,
+
+00:21:35.185 --> 00:21:39.725
+this is a model that allows you
+to do that safely and confidently.
+
+00:21:40.065 --> 00:21:42.945
+The other thing that's
+really amazing about building online
+
+00:21:42.945 --> 00:21:46.625
+businesses is that most of the
+work is done on the front end.
+
+00:21:46.625 --> 00:21:49.485
+When you're building
+a course, a workshop,
+
+00:21:49.550 --> 00:21:51.630
+or any other digital product,
+
+00:21:51.630 --> 00:21:54.830
+you're gonna be creating a lot of
+that material on the front end.
+
+00:21:54.830 --> 00:21:58.510
+And as you're taking your
+first few people through the process,
+
+00:21:58.510 --> 00:22:01.550
+and that's going to be creating
+materials that you're going to
+
+00:22:01.550 --> 00:22:06.825
+be able to then package up and
+sell over and over and over again.
+
+00:22:06.825 --> 00:22:09.545
+So a lot of the work is
+done on the front end,
+
+00:22:09.545 --> 00:22:12.485
+which reduces your
+workload overall.
+
+00:22:13.065 --> 00:22:16.025
+And the other thing is when I'm
+talking about digital courses
+
+00:22:16.025 --> 00:22:17.590
+and digital products,
+
+00:22:17.590 --> 00:22:21.510
+I'm actually referring to the
+ever elusive passive income.
+
+00:22:21.510 --> 00:22:25.110
+Now I'm sure you've heard
+lots of people using passive income
+
+00:22:25.110 --> 00:22:26.470
+in the online space.
+
+00:22:26.470 --> 00:22:28.310
+I do think it's a
+little bit misleading,
+
+00:22:28.310 --> 00:22:31.195
+and that's something you're
+gonna learn about me as I never
+
+00:22:31.195 --> 00:22:32.155
+sugarcoat things.
+
+00:22:32.155 --> 00:22:33.915
+I always shoot it
+to you straight.
+
+00:22:33.915 --> 00:22:37.755
+And while, yes, you are gonna
+be earning money in your sleep,
+
+00:22:37.755 --> 00:22:39.435
+things do take refinement.
+
+00:22:39.435 --> 00:22:42.715
+There is troubleshooting that
+will need to continue happening.
+
+00:22:42.715 --> 00:22:46.770
+But is it as close to
+passive income as it can possibly be?
+
+00:22:46.770 --> 00:22:47.010
+Yeah.
+
+00:22:47.010 --> 00:22:51.550
+And that's another powerful thing
+about building an online business.
+
+00:22:51.970 --> 00:22:55.330
+So one of the most helpful ways
+to figure out how much you can
+
+00:22:55.330 --> 00:22:58.450
+earn is to reverse
+engineer your goals.
+
+00:22:58.450 --> 00:23:01.410
+So let's say you wanna add an
+extra hundred thousand dollars
+
+00:23:01.410 --> 00:23:04.495
+in revenue to your
+business's bottom line.
+
+00:23:04.495 --> 00:23:07.375
+It's pretty incredible to see
+how you can leverage the power
+
+00:23:07.375 --> 00:23:11.775
+of digital products to hit
+that goal relatively easily.
+
+00:23:11.775 --> 00:23:12.815
+So for example,
+
+00:23:12.815 --> 00:23:15.750
+you would only need a
+hundred people to purchase a thousand
+
+00:23:15.750 --> 00:23:18.630
+dollar program in
+order to hit that goal,
+
+00:23:18.630 --> 00:23:20.950
+or you'd need five hundred
+people to purchase a two
+
+00:23:20.950 --> 00:23:24.230
+hundred dollar program or a
+thousand people to purchase a
+
+00:23:24.230 --> 00:23:25.830
+hundred dollar program.
+
+00:23:25.830 --> 00:23:29.190
+And, again, keeping in mind that if
+you build most of this on the front
+
+00:23:29.190 --> 00:23:32.205
+end and you're just trying
+to get people into your program,
+
+00:23:32.205 --> 00:23:35.085
+it's pretty easy to see
+how you'd be able to add an
+
+00:23:35.085 --> 00:23:39.865
+additional a hundred thousand dollars
+in revenue to your bottom line.
+
+00:23:40.525 --> 00:23:44.060
+Now how do you earn one
+million dollars in revenue?
+
+00:23:44.060 --> 00:23:48.380
+You would need a hundred people to
+buy a ten thousand dollar product,
+
+00:23:48.380 --> 00:23:51.900
+five hundred people to purchase
+a two thousand dollar product,
+
+00:23:51.900 --> 00:23:55.340
+or a thousand people to purchase
+a thousand dollar product.
+
+00:23:55.340 --> 00:23:58.620
+This breakdown is exactly how
+I was able to earn one million
+
+00:23:58.620 --> 00:24:03.655
+dollars in revenue the very first year
+I launched my first digital product.
+
+00:24:03.655 --> 00:24:07.255
+It's pretty incredible the
+power of creating something
+
+00:24:07.255 --> 00:24:10.915
+that you can then sell over
+and over and over again.
+
+00:24:11.415 --> 00:24:14.295
+And this really shouldn't be
+surprising because the online
+
+00:24:14.295 --> 00:24:18.100
+education market is expected to
+reach three hundred and twenty
+
+00:24:18.100 --> 00:24:21.940
+five billion dollars by the
+end of twenty twenty five.
+
+00:24:21.940 --> 00:24:24.820
+There has never been a better
+time to turn your knowledge
+
+00:24:24.820 --> 00:24:28.215
+into life changing profit,
+freedom, and impact online.
+
+00:24:28.215 --> 00:24:30.695
+Now I wanna share with you
+real quick Katie's story.
+
+00:24:30.695 --> 00:24:33.735
+Katie is a nurse practitioner
+and hospice who is starting to
+
+00:24:33.735 --> 00:24:36.535
+feel burnt out by the
+traditional health care model.
+
+00:24:36.535 --> 00:24:39.495
+She really wanted to escape her
+twelve hour shifts while still
+
+00:24:39.495 --> 00:24:41.395
+having a positive impact.
+
+00:24:41.540 --> 00:24:44.900
+Plus, she was noticing that there
+was a lot of support that the
+
+00:24:44.900 --> 00:24:48.100
+people going through the end
+of life experience still really
+
+00:24:48.100 --> 00:24:52.320
+needed that she wasn't able to
+provide as a nurse practitioner.
+
+00:24:52.660 --> 00:24:55.775
+Now she had no experience in
+the online space and didn't
+
+00:24:55.775 --> 00:24:58.255
+know how to build
+or promote an offer.
+
+00:24:58.255 --> 00:24:59.215
+But with my help,
+
+00:24:59.215 --> 00:25:02.655
+she was able to create programs
+that met people where they're
+
+00:25:02.655 --> 00:25:07.115
+at for both the families and the
+person going through the dying process.
+
+00:25:07.880 --> 00:25:11.080
+Now she has complete time
+freedom, works fewer hours,
+
+00:25:11.080 --> 00:25:15.080
+has a bigger impact, and has
+grown her audience beyond fifty
+
+00:25:15.080 --> 00:25:18.100
+thousand people in
+just a few months.
+
+00:25:18.520 --> 00:25:21.005
+And this is only the
+beginning for Katie.
+
+00:25:21.005 --> 00:25:22.445
+She's gone on to write books.
+
+00:25:22.445 --> 00:25:23.885
+She's been on podcasts,
+
+00:25:23.885 --> 00:25:27.565
+and she's growing her name and
+reputation in an industry she
+
+00:25:27.565 --> 00:25:32.905
+is incredibly passionate about and knows
+that she brings value to the table.
+
+00:25:33.050 --> 00:25:35.850
+So now we've gone over what
+you need to build a successful
+
+00:25:35.850 --> 00:25:38.650
+business and what you don't
+need and how much you can
+
+00:25:38.650 --> 00:25:40.090
+potentially earn.
+
+00:25:40.090 --> 00:25:44.710
+So next, let's talk about
+how to turn pro step by step.
+
+00:25:44.810 --> 00:25:48.665
+First, you wanna get really
+clear on your ideal customer
+
+00:25:48.665 --> 00:25:52.505
+avatar, and that is not as
+complicated as it sounds.
+
+00:25:52.505 --> 00:25:53.705
+As an expert marketer,
+
+00:25:53.705 --> 00:25:56.425
+I have walked thousands of
+people through the process of
+
+00:25:56.425 --> 00:25:59.160
+identifying their
+ideal customer avatar.
+
+00:25:59.160 --> 00:26:01.800
+And interestingly,
+more often than not,
+
+00:26:01.800 --> 00:26:05.160
+you can identify somebody in
+your life who represents that
+
+00:26:05.160 --> 00:26:09.320
+person and shortcut all of the
+steps and write all of your
+
+00:26:09.320 --> 00:26:13.465
+offers and marketing materials
+directed at that individual person.
+
+00:26:13.465 --> 00:26:17.765
+And sometimes, that person is even
+a younger version of yourself.
+
+00:26:18.025 --> 00:26:22.345
+The next thing that you'll need
+to do is to pick the right offer.
+
+00:26:22.345 --> 00:26:24.665
+This is actually where
+people get into trouble,
+
+00:26:24.665 --> 00:26:27.400
+and maybe you've even
+experienced this.
+
+00:26:27.400 --> 00:26:28.520
+In the online world,
+
+00:26:28.520 --> 00:26:31.640
+there's a heavy emphasis
+on creating digital courses
+
+00:26:31.640 --> 00:26:35.000
+because it's said to
+be completely passive.
+
+00:26:35.000 --> 00:26:37.640
+And remember how I said
+that's a little misleading.
+
+00:26:37.640 --> 00:26:41.945
+Also, sometimes a digital
+course is not the best offer
+
+00:26:41.945 --> 00:26:43.605
+for your audience.
+
+00:26:43.625 --> 00:26:46.505
+That's why I'll never
+say right out the gate,
+
+00:26:46.505 --> 00:26:49.545
+everybody should just create
+a course because it's an
+
+00:26:49.545 --> 00:26:53.765
+oversimplification of a much
+more complicated question.
+
+00:26:54.100 --> 00:26:57.300
+Selecting the right offer
+includes considering a bunch of
+
+00:26:57.300 --> 00:27:00.420
+really important questions,
+like what is your bandwidth?
+
+00:27:00.420 --> 00:27:02.180
+What is the time you can commit?
+
+00:27:02.180 --> 00:27:04.900
+How sensitive is the topic
+that you're teaching on?
+
+00:27:04.900 --> 00:27:09.645
+Some topics are gonna require a
+little bit more one on one support.
+
+00:27:09.645 --> 00:27:14.205
+Although, I often see creators
+get into trouble by giving way
+
+00:27:14.205 --> 00:27:18.605
+too much one on one support
+and undervaluing the power of group
+
+00:27:18.605 --> 00:27:20.745
+coaching or group learning.
+
+00:27:20.845 --> 00:27:21.965
+At the end of the day,
+
+00:27:21.965 --> 00:27:26.710
+the thing to remember here is there
+is not a one size fits all approach.
+
+00:27:26.710 --> 00:27:28.230
+And quite frankly,
+
+00:27:28.230 --> 00:27:31.430
+that is something that I've had
+a really big problem with in
+
+00:27:31.430 --> 00:27:33.490
+the online space today.
+
+00:27:33.590 --> 00:27:37.045
+Most people trying to sell you
+a course are going to tell you
+
+00:27:37.045 --> 00:27:39.685
+that their system works
+for every industry,
+
+00:27:39.685 --> 00:27:41.925
+and that is simply not true.
+
+00:27:41.925 --> 00:27:45.125
+The next step that's really
+important in the how to turn
+
+00:27:45.125 --> 00:27:48.980
+pro process is to differentiate
+yourself from what's out there.
+
+00:27:48.980 --> 00:27:50.180
+This is your positioning,
+
+00:27:50.180 --> 00:27:54.180
+and it is so important for you
+to get crystal clear on what
+
+00:27:54.180 --> 00:27:58.900
+makes you different because that's
+how you attract perfect clients.
+
+00:27:58.900 --> 00:28:02.560
+That's how you attract the people
+that you want in your orbit.
+
+00:28:02.585 --> 00:28:06.345
+It's also how it makes it
+easier to sell your programs.
+
+00:28:06.345 --> 00:28:09.385
+Because when you differentiate yourself
+from what else is out
+
+00:28:09.385 --> 00:28:13.225
+there, the right people will
+know this is just the right
+
+00:28:13.225 --> 00:28:14.800
+offer for me.
+
+00:28:14.800 --> 00:28:16.320
+And more often than not,
+
+00:28:16.320 --> 00:28:19.840
+differentiating yourself
+includes infusing far more of
+
+00:28:19.840 --> 00:28:23.200
+your stories into your
+marketing materials so that you
+
+00:28:23.200 --> 00:28:26.160
+can communicate who
+you are and, again,
+
+00:28:26.160 --> 00:28:29.500
+attract those people who
+are just the right fit.
+
+00:28:29.695 --> 00:28:33.055
+The fourth step is getting
+your customers to take action.
+
+00:28:33.055 --> 00:28:35.055
+This is your
+marketing materials.
+
+00:28:35.055 --> 00:28:39.515
+This is making sure that you're
+actually offering and being persuasive.
+
+00:28:39.695 --> 00:28:43.490
+And this is actually an area I see
+a lot of people get hung up on.
+
+00:28:43.490 --> 00:28:43.730
+Right?
+
+00:28:43.730 --> 00:28:47.570
+This goes back to not wanting
+to appear cringey or salesy.
+
+00:28:47.570 --> 00:28:48.530
+But listen.
+
+00:28:48.530 --> 00:28:51.970
+If you had the cure for cancer,
+you would have to market it.
+
+00:28:51.970 --> 00:28:55.090
+You would have to communicate
+effectively how you had a
+
+00:28:55.090 --> 00:28:58.255
+solution to a really painful
+problem and that you could
+
+00:28:58.255 --> 00:29:00.095
+actually save lives.
+
+00:29:00.095 --> 00:29:01.935
+You would have to
+overcome objections,
+
+00:29:01.935 --> 00:29:04.895
+and you would have to make sure
+you are inspiring your people
+
+00:29:04.895 --> 00:29:06.555
+to take action.
+
+00:29:06.655 --> 00:29:10.175
+It's a step you cannot afford
+to skip, and I'm telling you,
+
+00:29:10.175 --> 00:29:13.330
+it can be done in alignment
+with your values so that it
+
+00:29:13.330 --> 00:29:16.030
+feels really genuine
+and authentic.
+
+00:29:16.530 --> 00:29:19.010
+The next step is to get
+in front of more people,
+
+00:29:19.010 --> 00:29:21.730
+and that is your audience
+building strategies.
+
+00:29:21.730 --> 00:29:24.770
+Now, again, there is no
+one size fits all for this.
+
+00:29:24.770 --> 00:29:27.855
+Some people are gonna love to
+go the organic route where they
+
+00:29:27.855 --> 00:29:30.015
+are more visible
+on social media,
+
+00:29:30.015 --> 00:29:32.735
+and some people are going to
+prefer to go the paid route
+
+00:29:32.735 --> 00:29:36.175
+through ads and maybe even
+influencer partnerships,
+
+00:29:36.175 --> 00:29:39.055
+but you have many different
+options when it comes to
+
+00:29:39.055 --> 00:29:41.450
+getting in front of
+just the right people.
+
+00:29:41.450 --> 00:29:42.970
+And, again, more often than not,
+
+00:29:42.970 --> 00:29:46.170
+when people are talking about
+building courses and programs,
+
+00:29:46.170 --> 00:29:50.730
+they typically have only one audience
+building tech that they emphasize,
+
+00:29:50.730 --> 00:29:53.450
+and that's because that's the
+audience building technique
+
+00:29:53.450 --> 00:29:55.530
+they have the most
+experience with.
+
+00:29:55.530 --> 00:29:59.415
+Because I'm a marketing expert
+and I have worked across many
+
+00:29:59.415 --> 00:30:00.855
+different techniques,
+
+00:30:00.855 --> 00:30:05.875
+I can teach you how to leverage the
+one that is the best fit for you.
+
+00:30:06.135 --> 00:30:09.990
+And finally, you're gonna need
+to make your marketing feel good.
+
+00:30:09.990 --> 00:30:14.150
+I am so passionate about
+making marketing a source of
+
+00:30:14.150 --> 00:30:17.110
+empowerment rather than
+something that breaks people
+
+00:30:17.110 --> 00:30:20.150
+down in order to get them to
+feel shitty so that they'll buy
+
+00:30:20.150 --> 00:30:21.270
+somebody's product.
+
+00:30:21.270 --> 00:30:23.350
+That is old school
+marketing techniques,
+
+00:30:23.350 --> 00:30:25.330
+and it is not necessary.
+
+00:30:25.535 --> 00:30:29.295
+Instead, making your marketing feel
+good is how you create what I like
+
+00:30:29.295 --> 00:30:31.695
+to call world
+building marketing.
+
+00:30:31.695 --> 00:30:35.375
+And world building marketing
+is how you create a mission.
+
+00:30:35.375 --> 00:30:38.415
+Most people who create webinars
+or master classes would
+
+00:30:38.415 --> 00:30:41.090
+probably stop right here,
+but I'm not gonna do that.
+
+00:30:41.090 --> 00:30:44.050
+We're gonna dig into each one
+of these so you can identify
+
+00:30:44.050 --> 00:30:47.490
+potential weak spots in your
+current offers or implement
+
+00:30:47.490 --> 00:30:50.690
+these steps so that you can
+create your very first offer.
+
+00:30:50.690 --> 00:30:55.470
+Now how do you get clear on your
+ideal customer avatar or your ICA?
+
+00:30:55.545 --> 00:30:58.665
+The first thing I've got to
+recommend is that you stop
+
+00:30:58.665 --> 00:31:00.185
+making assumptions.
+
+00:31:00.185 --> 00:31:02.505
+And what I mean by that
+is more often than not,
+
+00:31:02.505 --> 00:31:04.425
+when we're really
+close to our work,
+
+00:31:04.425 --> 00:31:08.185
+especially if you already have
+this as an expertise and you're
+
+00:31:08.185 --> 00:31:10.520
+taking one to one
+services, let's say,
+
+00:31:10.520 --> 00:31:12.440
+and you're creating an offer,
+
+00:31:12.440 --> 00:31:16.040
+it's really important that you
+put your assumptions on hold.
+
+00:31:16.040 --> 00:31:19.560
+And what I mean by that is you
+have to get super curious about
+
+00:31:19.560 --> 00:31:23.320
+who this ideal customer avatar
+is so that you don't create any
+
+00:31:23.320 --> 00:31:25.155
+blind spots for yourself.
+
+00:31:25.155 --> 00:31:27.715
+Because sometimes what people
+will discover is the people
+
+00:31:27.715 --> 00:31:31.075
+that their one to one
+services are for are slightly different
+
+00:31:31.075 --> 00:31:34.115
+than the ICA for whatever
+programs or digital products
+
+00:31:34.115 --> 00:31:35.475
+that they're creating are.
+
+00:31:35.475 --> 00:31:36.515
+Because think about it.
+
+00:31:36.515 --> 00:31:39.550
+There are some people that might
+want that one on one service,
+
+00:31:39.550 --> 00:31:42.110
+whereas somebody who's more
+comfortable signing up for a
+
+00:31:42.110 --> 00:31:45.150
+digital course might
+be a different person.
+
+00:31:45.150 --> 00:31:48.910
+So try really hard to put
+your assumptions on hold.
+
+00:31:48.910 --> 00:31:51.550
+The next thing that's
+really helpful is to conduct
+
+00:31:51.550 --> 00:31:55.075
+interviews either with current clients
+or people in your life
+
+00:31:55.075 --> 00:31:58.915
+who you think might be an
+ICA or going out and actually
+
+00:31:58.915 --> 00:32:02.595
+finding your ICA online,
+sometimes in groups on the
+
+00:32:02.595 --> 00:32:04.515
+Internet, or even better,
+
+00:32:04.515 --> 00:32:07.795
+finding people who you think
+are your ICA online that you
+
+00:32:07.795 --> 00:32:12.310
+don't personally know so you
+can gather really good unbiased
+
+00:32:12.310 --> 00:32:14.470
+information through interviews.
+
+00:32:14.470 --> 00:32:17.270
+Another way to get clear on
+your ICA is to tap into your
+
+00:32:17.270 --> 00:32:18.790
+own personal stories.
+
+00:32:18.790 --> 00:32:20.310
+Again, more often than not,
+
+00:32:20.310 --> 00:32:23.110
+we have stories either of
+ourselves because a younger
+
+00:32:23.110 --> 00:32:25.485
+version of us is our ICA,
+
+00:32:25.485 --> 00:32:28.605
+or we have stories from
+other people we've interacted with,
+
+00:32:28.605 --> 00:32:32.205
+and that's influenced why we're
+creating what we're creating.
+
+00:32:32.205 --> 00:32:35.165
+But tapping into your stories
+and getting really clear on
+
+00:32:35.165 --> 00:32:38.480
+those is how you're gonna
+develop a very clear image of
+
+00:32:38.480 --> 00:32:39.680
+who your ICA is,
+
+00:32:39.680 --> 00:32:42.320
+which is gonna make your
+offer more effective and your
+
+00:32:42.320 --> 00:32:43.840
+marketing more effective.
+
+00:32:43.840 --> 00:32:46.080
+The next thing you'll wanna
+do is market research.
+
+00:32:46.080 --> 00:32:49.280
+Now that is not nearly
+as intimidating as I know it
+
+00:32:49.280 --> 00:32:50.815
+sometimes sounds.
+
+00:32:50.815 --> 00:32:54.175
+Market research just means
+looking at some competitors or
+
+00:32:54.175 --> 00:32:57.295
+people who have programs
+that are adjacent to yours.
+
+00:32:57.295 --> 00:33:00.575
+It means reading reviews online
+about things that are relevant
+
+00:33:00.575 --> 00:33:03.435
+and related to whatever
+it is you're creating.
+
+00:33:03.480 --> 00:33:07.240
+It also means looking
+at solution focused groups.
+
+00:33:07.240 --> 00:33:11.400
+There are so many wonderful groups
+online around particular problems.
+
+00:33:11.400 --> 00:33:14.280
+And if your offer happens
+to solve one of those problems,
+
+00:33:14.280 --> 00:33:17.080
+you can jump into those groups
+and hear where people are
+
+00:33:17.080 --> 00:33:20.545
+getting stuck and incorporate that
+into your offer and into
+
+00:33:20.545 --> 00:33:22.205
+your marketing messaging.
+
+00:33:22.225 --> 00:33:25.665
+The other thing I wanna encourage
+you to do is to use their lingo.
+
+00:33:25.665 --> 00:33:28.145
+As you're going through
+all of these processes,
+
+00:33:28.145 --> 00:33:31.185
+make sure you're writing down
+any of the lingo that they're
+
+00:33:31.185 --> 00:33:35.400
+using that is distinct and
+specific to your particular ICA
+
+00:33:35.400 --> 00:33:38.360
+because that's gonna help
+you all across the board.
+
+00:33:38.360 --> 00:33:42.420
+Next, let's talk about how
+you select the right offer.
+
+00:33:42.520 --> 00:33:44.735
+You gotta know the
+pros and cons of each.
+
+00:33:44.735 --> 00:33:47.215
+So, typically, we have
+our one on one programs,
+
+00:33:47.215 --> 00:33:50.255
+our group programs, digital
+products, online courses,
+
+00:33:50.255 --> 00:33:52.155
+communities, and hybrid.
+
+00:33:52.175 --> 00:33:55.135
+Some of the pros and cons
+of these include one on one
+
+00:33:55.135 --> 00:33:57.935
+programs are great for
+beta testing new offers,
+
+00:33:57.935 --> 00:34:00.910
+trying new things
+out, gathering information,
+
+00:34:00.910 --> 00:34:04.590
+and strengthening everything in
+your offers and in your marketing.
+
+00:34:04.590 --> 00:34:07.070
+However, they're a little
+bit more time consuming,
+
+00:34:07.070 --> 00:34:09.550
+and they're a lot more
+difficult to scale.
+
+00:34:09.550 --> 00:34:13.150
+Group programs are wonderful
+because there is an incredibly
+
+00:34:13.150 --> 00:34:16.545
+magical thing that happens
+when people learn together,
+
+00:34:16.565 --> 00:34:19.365
+but it's a little bit
+harder to scale as well.
+
+00:34:19.365 --> 00:34:21.125
+Then you've got your
+digital products,
+
+00:34:21.125 --> 00:34:23.765
+which if it doesn't include
+a live element support,
+
+00:34:23.765 --> 00:34:25.445
+that would be a potential con.
+
+00:34:25.445 --> 00:34:28.470
+A lot of people love some sort
+of live support so that they
+
+00:34:28.470 --> 00:34:30.630
+can get some of their
+questions answered,
+
+00:34:30.630 --> 00:34:32.630
+but they're very scalable.
+
+00:34:32.630 --> 00:34:34.870
+So sometimes when you're
+focusing on something that
+
+00:34:34.870 --> 00:34:38.150
+doesn't have a really big
+transformation or is just a
+
+00:34:38.150 --> 00:34:40.165
+nice step in the
+customer journey,
+
+00:34:40.165 --> 00:34:44.245
+a digital product or an online
+course could be a great option.
+
+00:34:44.245 --> 00:34:46.965
+Then we've got our online
+courses and communities.
+
+00:34:46.965 --> 00:34:49.765
+These are great for things
+that have a transformation.
+
+00:34:49.765 --> 00:34:51.205
+And especially with communities,
+
+00:34:51.205 --> 00:34:53.905
+it's great to help
+people build camaraderie
+
+00:34:53.970 --> 00:34:56.930
+and meet people who are on
+a similar journey to them.
+
+00:34:56.930 --> 00:35:01.010
+That feels really good because
+we are creatures of connection.
+
+00:35:01.010 --> 00:35:04.130
+And then typically, what I
+recommend is some sort of hybrid,
+
+00:35:04.130 --> 00:35:08.350
+some sort of combination of
+one or many of these elements.
+
+00:35:09.055 --> 00:35:11.215
+It's really important
+to start small,
+
+00:35:11.215 --> 00:35:13.535
+and this is something that I
+touched on earlier is that you
+
+00:35:13.535 --> 00:35:15.055
+get to earn as you learn.
+
+00:35:15.055 --> 00:35:18.575
+So you don't have to start out
+by building out a huge course
+
+00:35:18.575 --> 00:35:19.295
+right out the gate.
+
+00:35:19.295 --> 00:35:21.150
+In fact, I don't recommend that.
+
+00:35:21.150 --> 00:35:24.590
+I recommend starting out with
+one of these offers so that you
+
+00:35:24.590 --> 00:35:26.750
+can test things, you
+can gain feedback,
+
+00:35:26.750 --> 00:35:31.150
+and you can grow with insight
+as to what is going to actually
+
+00:35:31.150 --> 00:35:34.715
+serve your audience best
+and have the biggest impact.
+
+00:35:34.715 --> 00:35:36.715
+So, again, you get
+to earn as you learn,
+
+00:35:36.715 --> 00:35:41.095
+and that is hands down one of
+the best benefit of this process.
+
+00:35:41.275 --> 00:35:43.995
+Now I know that there's
+a lot to consider here,
+
+00:35:43.995 --> 00:35:47.755
+but I want you to know the best
+way to figure out what's next
+
+00:35:47.755 --> 00:35:49.655
+is to take imperfect
+
+00:35:50.590 --> 00:35:50.910
+action.
+
+00:35:50.910 --> 00:35:52.670
+Because here's the big secret.
+
+00:35:52.670 --> 00:35:56.730
+There's no such thing as perfect
+action when you are an entrepreneur.
+
+00:35:56.910 --> 00:35:59.950
+You will learn through
+making best guesses,
+
+00:35:59.950 --> 00:36:03.310
+taking the information and
+the response that you get from
+
+00:36:03.310 --> 00:36:06.815
+whatever it is you put out into
+the world and reintegrating it
+
+00:36:06.815 --> 00:36:09.135
+back into what you create next.
+
+00:36:09.135 --> 00:36:12.735
+So taking imperfect action is
+how you're going to continue to
+
+00:36:12.735 --> 00:36:14.415
+learn and grow.
+
+00:36:14.415 --> 00:36:17.055
+So how do you take the
+next right step today?
+
+00:36:17.055 --> 00:36:19.940
+Some of the things that I've
+seen help people over the year
+
+00:36:19.940 --> 00:36:21.940
+are reaching out
+into your network,
+
+00:36:21.940 --> 00:36:25.060
+finding people who are
+on similar journeys to start
+
+00:36:25.060 --> 00:36:29.700
+collecting information on what people
+need and how you can help them.
+
+00:36:29.700 --> 00:36:32.900
+You can also ask
+previous clients and customers for
+
+00:36:32.900 --> 00:36:34.445
+feedback and information.
+
+00:36:34.445 --> 00:36:36.845
+What are some of the most
+helpful things that you've done
+
+00:36:36.845 --> 00:36:39.865
+for them, and how can
+you do more of that?
+
+00:36:39.965 --> 00:36:43.325
+Another thing that can help
+is journaling on your story.
+
+00:36:43.325 --> 00:36:46.125
+Where are the areas in your
+life that you've learned the
+
+00:36:46.125 --> 00:36:49.190
+most, and how do you
+wanna help more people?
+
+00:36:49.450 --> 00:36:52.010
+Another thing that I've seen
+really help people in this
+
+00:36:52.010 --> 00:36:55.610
+process is to make a list of
+all the shoulds in their life.
+
+00:36:55.610 --> 00:36:58.535
+What are the shoulds that
+you think you need to have?
+
+00:36:58.535 --> 00:37:01.895
+And really start to examine
+and question those because more
+
+00:37:01.895 --> 00:37:05.095
+often than not, they're not
+things you actually need to do.
+
+00:37:05.095 --> 00:37:08.135
+One of the common ones that
+I see is people thinking that
+
+00:37:08.135 --> 00:37:11.640
+they should show up online
+every single day and that they
+
+00:37:11.640 --> 00:37:15.880
+should be posting on Instagram
+or TikTok three times a day.
+
+00:37:15.880 --> 00:37:18.840
+And if that alone is enough to
+create resistance so that you
+
+00:37:18.840 --> 00:37:21.000
+don't take that next
+step in your business,
+
+00:37:21.000 --> 00:37:21.960
+then by all means,
+
+00:37:21.960 --> 00:37:24.995
+you gotta get rid of that
+should because there are very
+
+00:37:24.995 --> 00:37:27.795
+few shoulds in online business.
+
+00:37:27.795 --> 00:37:30.915
+You can create a business
+that fits around your life,
+
+00:37:30.915 --> 00:37:34.595
+your preferences, and the
+things that you do really well.
+
+00:37:34.595 --> 00:37:37.850
+So make a list of those shoulds
+that you have in your life,
+
+00:37:37.850 --> 00:37:40.570
+especially if there are ones
+that you feel as though are
+
+00:37:40.570 --> 00:37:41.530
+holding you back.
+
+00:37:41.530 --> 00:37:43.930
+Because when you release
+yourself from shoulds,
+
+00:37:43.930 --> 00:37:47.530
+you're able to free up energy
+that you can use on actually
+
+00:37:47.530 --> 00:37:49.930
+taking that next right step.
+
+00:37:49.930 --> 00:37:52.485
+And finally, get support.
+
+00:37:52.485 --> 00:37:56.565
+It is so important that you
+find a network and a community
+
+00:37:56.565 --> 00:37:59.685
+of people who get you, who
+get what you're trying to do,
+
+00:37:59.685 --> 00:38:01.285
+and that will support you.
+
+00:38:01.285 --> 00:38:04.405
+I'm willing to bet that you
+might be one of the first
+
+00:38:04.405 --> 00:38:08.310
+entrepreneurial minded people
+in your immediate family.
+
+00:38:08.310 --> 00:38:09.510
+And if that's the case,
+
+00:38:09.510 --> 00:38:12.470
+it's so important that you're
+surrounding yourself with
+
+00:38:12.470 --> 00:38:15.830
+people who have actually been
+where you're trying to go.
+
+00:38:15.830 --> 00:38:17.990
+Because while our
+loved ones mean well,
+
+00:38:17.990 --> 00:38:22.395
+they often give us well
+meaning but uninformed advice.
+
+00:38:22.395 --> 00:38:26.955
+So please, please make sure that you
+are supported with people who get
+
+00:38:26.955 --> 00:38:28.935
+what you're trying to do.
+
+00:38:28.955 --> 00:38:31.195
+Your environment matters,
+
+00:38:31.195 --> 00:38:34.155
+but the good news is there are
+so many beautiful resources
+
+00:38:34.155 --> 00:38:37.620
+online where you can meet your
+business bestie and get that
+
+00:38:37.620 --> 00:38:39.620
+much deserved support.
+
+00:38:39.620 --> 00:38:40.420
+Listen, my friend.
+
+00:38:40.420 --> 00:38:44.340
+There are a few things that I really
+wanna make sure you take away from this.
+
+00:38:44.340 --> 00:38:45.460
+First and foremost,
+
+00:38:45.460 --> 00:38:48.595
+that most of the work is
+done on the front end.
+
+00:38:48.595 --> 00:38:51.635
+That is how you're going to
+continue untying your earning
+
+00:38:51.635 --> 00:38:53.235
+potential from your time.
+
+00:38:53.235 --> 00:38:55.795
+When you create something
+impactful that you can sell
+
+00:38:55.795 --> 00:38:59.475
+over and over again, you are
+going to shatter your glass
+
+00:38:59.475 --> 00:39:03.535
+ceiling and unlock a brand
+new earning potential.
+
+00:39:03.610 --> 00:39:05.610
+And you get better as you go,
+
+00:39:05.610 --> 00:39:08.890
+so take action and
+earn as you learn.
+
+00:39:08.890 --> 00:39:10.730
+I wanna share with you
+Natalie's story because she's
+
+00:39:10.730 --> 00:39:13.210
+one of my students, and
+she's super inspiring.
+
+00:39:13.210 --> 00:39:15.770
+She knew she wanted to turn her
+passion for helping people and
+
+00:39:15.770 --> 00:39:17.875
+finding love into a
+thriving business,
+
+00:39:17.875 --> 00:39:21.555
+but she was paralyzed by fear
+in part because she had a
+
+00:39:21.555 --> 00:39:25.875
+really toxic boss who treated
+her so poorly that it created
+
+00:39:25.875 --> 00:39:28.115
+a ton of self doubt.
+
+00:39:28.115 --> 00:39:31.715
+Together, we were able to work
+through that fear and create a ninety
+
+00:39:31.715 --> 00:39:34.800
+day program that she
+still uses today.
+
+00:39:34.800 --> 00:39:37.520
+She's been using this
+program for over a year.
+
+00:39:37.520 --> 00:39:40.160
+She wanted time autonomy,
+and now she has it.
+
+00:39:40.160 --> 00:39:43.600
+And she doesn't have to work a
+nine to five or in a toxic work
+
+00:39:43.600 --> 00:39:45.275
+environment anymore.
+
+00:39:45.275 --> 00:39:49.115
+She also earns more than ever
+before while having a positive
+
+00:39:49.115 --> 00:39:51.355
+impact on her mentees' lives.
+
+00:39:51.355 --> 00:39:54.215
+Natalie's story is
+truly inspiring.
+
+00:39:54.555 --> 00:39:57.195
+Now I wanna share with you real
+quick Carly's story who's also
+
+00:39:57.195 --> 00:39:58.680
+a mentee of mine.
+
+00:39:58.680 --> 00:40:02.040
+So Carly was charging pennies
+in her industry because she
+
+00:40:02.040 --> 00:40:04.600
+thought she had to
+match market rates.
+
+00:40:04.600 --> 00:40:05.960
+But through working with me,
+
+00:40:05.960 --> 00:40:09.720
+she realized she was doing
+so much more than editing.
+
+00:40:09.720 --> 00:40:13.735
+I was able to show her how she was
+actually coaching people with her edits,
+
+00:40:13.735 --> 00:40:16.935
+which is far more valuable
+than just proofreading alone,
+
+00:40:16.935 --> 00:40:20.135
+and her clients were
+thrilled with her work.
+
+00:40:20.135 --> 00:40:23.655
+We were able to restructure
+her offers so that she incorporated
+
+00:40:23.655 --> 00:40:26.055
+the positioning and the
+differentiation of her
+
+00:40:26.055 --> 00:40:28.950
+services, which was
+already happening,
+
+00:40:28.950 --> 00:40:32.630
+and showcase that so she
+was able to charge more.
+
+00:40:32.630 --> 00:40:35.990
+Because of this, she was able to take
+three months off from maternity leave
+
+00:40:35.990 --> 00:40:39.555
+because she had implemented a
+plan that we worked on together.
+
+00:40:39.555 --> 00:40:43.155
+She now earns more than ever
+before and has a beautiful
+
+00:40:43.155 --> 00:40:45.235
+mission aligned team.
+
+00:40:45.235 --> 00:40:46.835
+At this point, I'm curious.
+
+00:40:46.835 --> 00:40:50.275
+What would you do more of if
+you could earn great money
+
+00:40:50.275 --> 00:40:51.715
+while working less?
+
+00:40:51.715 --> 00:40:54.060
+Because that is the
+power of this process.
+
+00:40:54.060 --> 00:40:55.660
+You get to still have impact,
+
+00:40:55.660 --> 00:40:58.860
+but you get to take all of your
+knowledge and expertise and
+
+00:40:58.860 --> 00:41:02.700
+package it in such a way that
+you can impact more people
+
+00:41:02.700 --> 00:41:05.420
+while earning more in less time.
+
+00:41:05.420 --> 00:41:09.215
+I'm also wondering who else
+would be positively impacted by
+
+00:41:09.215 --> 00:41:13.055
+you thriving, the people
+that you serve, friends,
+
+00:41:13.055 --> 00:41:15.275
+your family, your children.
+
+00:41:15.455 --> 00:41:18.415
+Moving out of a place of
+surviving into a place of
+
+00:41:18.415 --> 00:41:23.160
+thriving and putting more money
+in the hands good people who
+
+00:41:23.160 --> 00:41:26.520
+deserve it is one of my
+biggest missions in life.
+
+00:41:26.520 --> 00:41:27.800
+Because more often than not,
+
+00:41:27.800 --> 00:41:31.320
+I'm working with people who
+just give so much of themselves
+
+00:41:31.320 --> 00:41:35.080
+and need to remember that what
+they do has profound value and
+
+00:41:35.080 --> 00:41:39.975
+that it is okay and
+not greedy to be compensated accordingly.
+
+00:41:40.235 --> 00:41:43.275
+My friend, we need
+more entrepreneurs like you,
+
+00:41:43.275 --> 00:41:45.755
+the empathetic people,
+the sensitive ones,
+
+00:41:45.755 --> 00:41:50.490
+the ones who are overwhelmed by all
+that there is to do in this world,
+
+00:41:50.490 --> 00:41:54.010
+because you are the kind of
+person that when more money is
+
+00:41:54.010 --> 00:41:58.170
+put in your hands, you're going
+to do good things with it.
+
+00:41:58.170 --> 00:42:01.690
+You are the people that we
+need to have more money in this
+
+00:42:01.690 --> 00:42:04.870
+world, not the Jeff
+Bezos of the world.
+
+00:42:04.935 --> 00:42:05.415
+Okay.
+
+00:42:05.415 --> 00:42:09.015
+So far, we've covered what you
+need to build a successful online
+
+00:42:09.015 --> 00:42:12.935
+education business and what you
+don't, how much you can earn,
+
+00:42:12.935 --> 00:42:16.535
+how to turn pro, and now I
+wanna go over where do most
+
+00:42:16.535 --> 00:42:18.030
+people get stuck.
+
+00:42:18.030 --> 00:42:21.390
+And if you currently have an
+offer that didn't quite get off
+
+00:42:21.390 --> 00:42:24.430
+the ground just like you
+thought, this is for you.
+
+00:42:24.430 --> 00:42:26.030
+And if you're not there yet,
+
+00:42:26.030 --> 00:42:29.630
+this is really important to
+keep top of mind as you create
+
+00:42:29.630 --> 00:42:34.655
+your offer because this is how you're
+gonna prevent potential heartache.
+
+00:42:34.655 --> 00:42:37.135
+So here's where most
+people miss the mark.
+
+00:42:37.135 --> 00:42:40.415
+The first thing they do is they
+think they have to go all in.
+
+00:42:40.415 --> 00:42:41.695
+Maybe they quit their job.
+
+00:42:41.695 --> 00:42:44.495
+They spend eight hours of day
+building a course based on
+
+00:42:44.495 --> 00:42:47.160
+somebody who said that they
+could have a passive income if
+
+00:42:47.160 --> 00:42:49.300
+they just built a course,
+
+00:42:49.480 --> 00:42:53.400
+and they spend all this time
+building a massive course only
+
+00:42:53.400 --> 00:42:55.220
+to hear crickets.
+
+00:42:55.320 --> 00:42:57.560
+The other place where people
+miss the mark is that they
+
+00:42:57.560 --> 00:42:59.265
+think they need a
+massive following.
+
+00:42:59.265 --> 00:43:01.265
+They don't even get started
+because they don't have an
+
+00:43:01.265 --> 00:43:05.165
+Instagram following or because
+they're afraid of showing up online.
+
+00:43:05.665 --> 00:43:07.505
+I cannot emphasize this enough.
+
+00:43:07.505 --> 00:43:09.745
+You do not need a
+massive following,
+
+00:43:09.745 --> 00:43:12.305
+and you do not even need to
+build a massive following to
+
+00:43:12.305 --> 00:43:15.085
+have a hugely
+successful business.
+
+00:43:15.450 --> 00:43:18.170
+Another area where people miss
+the mark is they don't realize
+
+00:43:18.170 --> 00:43:20.470
+they need to focus on
+the transformation.
+
+00:43:20.810 --> 00:43:24.010
+This is the biggest issue I
+see in people's marketing.
+
+00:43:24.010 --> 00:43:26.410
+And sometimes they don't focus
+on the transformation because
+
+00:43:26.410 --> 00:43:30.705
+they don't fully realize how
+powerful the emotional payoff is.
+
+00:43:30.705 --> 00:43:33.025
+You don't have to teach people
+how to make money to have an
+
+00:43:33.025 --> 00:43:34.865
+incredibly successful offer.
+
+00:43:34.865 --> 00:43:38.385
+People are willing to join
+programs that will help them
+
+00:43:38.385 --> 00:43:39.985
+solve and prevent heartache,
+
+00:43:39.985 --> 00:43:41.905
+that will bring more
+joy into their lives,
+
+00:43:41.905 --> 00:43:44.600
+that will help them
+be a better person.
+
+00:43:44.600 --> 00:43:47.800
+And focusing on that
+transformation is essential to
+
+00:43:47.800 --> 00:43:49.620
+your offer's success.
+
+00:43:49.880 --> 00:43:52.520
+The other place where I see
+people miss the mark is they
+
+00:43:52.520 --> 00:43:54.440
+choose the wrong offer.
+
+00:43:54.440 --> 00:43:57.240
+And this is one of the reasons
+I'm here today because it
+
+00:43:57.240 --> 00:44:01.495
+really pisses me off when I
+see other people online saying that
+
+00:44:01.495 --> 00:44:05.495
+a one size fits all offer and
+system will work for everyone.
+
+00:44:05.495 --> 00:44:07.255
+It is simply not true,
+
+00:44:07.255 --> 00:44:10.455
+and I'm here to push back on
+that massive misconception in
+
+00:44:10.455 --> 00:44:12.000
+the online space.
+
+00:44:12.000 --> 00:44:14.320
+Another place where people
+miss the mark is they don't
+
+00:44:14.320 --> 00:44:18.480
+incorporate psychology that gets
+their customers to take action.
+
+00:44:18.480 --> 00:44:21.980
+Oftentimes, this is because
+there's resistance to marketing.
+
+00:44:22.080 --> 00:44:25.120
+I used to be somebody who was
+so resistant to marketing.
+
+00:44:25.120 --> 00:44:28.705
+I thought it was always
+slimy and sleazy and salesy,
+
+00:44:28.705 --> 00:44:30.945
+and I never wanted to
+come across that way.
+
+00:44:30.945 --> 00:44:33.825
+But what I've come to realize
+is that when you engage in
+
+00:44:33.825 --> 00:44:36.845
+authentic marketing,
+it goes unnoticed.
+
+00:44:36.865 --> 00:44:40.465
+Marketing that feels good is
+often not categorized in our
+
+00:44:40.465 --> 00:44:43.880
+mind as marketing because
+we have told ourselves that
+
+00:44:43.880 --> 00:44:46.360
+marketing feels
+salesy and slimy.
+
+00:44:46.360 --> 00:44:49.880
+And so when marketing is really
+good and authentic and in
+
+00:44:49.880 --> 00:44:52.520
+alignment, you don't
+notice it as marketing,
+
+00:44:52.520 --> 00:44:54.280
+and that's how it should feel.
+
+00:44:54.280 --> 00:44:57.720
+But the online world is
+a noisy, noisy place.
+
+00:44:57.720 --> 00:45:01.215
+And if you are not
+incorporating psychology into
+
+00:45:01.215 --> 00:45:05.115
+your marketing, you're going to
+get lost in the sea of noise.
+
+00:45:05.135 --> 00:45:06.575
+This brings me to my next point,
+
+00:45:06.575 --> 00:45:08.015
+which I've definitely
+touched on,
+
+00:45:08.015 --> 00:45:11.000
+but I have to reiterate
+because it's so important.
+
+00:45:11.000 --> 00:45:13.640
+And that is that people think
+marketing has to be salesy,
+
+00:45:13.640 --> 00:45:16.120
+and so they're resistant
+to marketing their offer.
+
+00:45:16.120 --> 00:45:16.760
+Listen.
+
+00:45:16.760 --> 00:45:20.120
+People actually love to be sold
+to when it is something that is
+
+00:45:20.120 --> 00:45:21.880
+good and perfect for them.
+
+00:45:21.880 --> 00:45:25.455
+And that's why I'm always going
+to encourage you to identify
+
+00:45:25.455 --> 00:45:28.415
+just the right people for
+whatever your program is and to
+
+00:45:28.415 --> 00:45:30.015
+not just sell to anyone.
+
+00:45:30.015 --> 00:45:33.135
+You want to end up in the hands
+of just the right fit because
+
+00:45:33.135 --> 00:45:35.775
+when people say, oh my
+gosh, this is perfect.
+
+00:45:35.775 --> 00:45:37.510
+This was made for me.
+
+00:45:37.510 --> 00:45:40.390
+That's when it's a mutually
+beneficial relationship,
+
+00:45:40.390 --> 00:45:43.250
+and that is where
+the magic happens.
+
+00:45:43.350 --> 00:45:47.270
+And finally, the unfortunate place
+where I see people often miss the mark
+
+00:45:47.270 --> 00:45:50.070
+is they build their business
+with very little support.
+
+00:45:50.070 --> 00:45:52.155
+You cannot do this alone.
+
+00:45:52.155 --> 00:45:55.595
+This is a process of
+refinement and troubleshooting,
+
+00:45:55.595 --> 00:45:58.715
+and you need to do it with
+other people who are on the
+
+00:45:58.715 --> 00:46:01.755
+same journey, who have
+similar experiences,
+
+00:46:01.755 --> 00:46:04.410
+who are four or five
+steps ahead of you.
+
+00:46:04.410 --> 00:46:08.330
+That's how you make sure you avoid
+going down the wrong path for too long,
+
+00:46:08.330 --> 00:46:11.210
+and it's how you make sure that
+you get back on the horse when
+
+00:46:11.210 --> 00:46:15.050
+you fall off because some sort
+of hiccup came across your path.
+
+00:46:15.050 --> 00:46:18.470
+Okay. So let's talk about
+how to avoid these mistakes.
+
+00:46:18.725 --> 00:46:21.365
+The first thing you're gonna
+wanna do to combat feeling like
+
+00:46:21.365 --> 00:46:24.405
+you have to go all in is
+to make an action plan for
+
+00:46:24.405 --> 00:46:28.645
+yourself that's effective,
+that is based around your own
+
+00:46:28.645 --> 00:46:32.305
+time goals, financial
+goals, and limitations.
+
+00:46:32.450 --> 00:46:35.010
+You wanna make sure that you're
+making an action plan that you
+
+00:46:35.010 --> 00:46:37.310
+can show up and do consistently.
+
+00:46:37.490 --> 00:46:40.370
+The next thing you're gonna
+wanna do is find an audience
+
+00:46:40.370 --> 00:46:42.690
+growth strategy
+that's right for you.
+
+00:46:42.690 --> 00:46:46.455
+You do not need to show up on
+social media five times a day.
+
+00:46:46.455 --> 00:46:49.095
+There are so many
+different audience growth strategies,
+
+00:46:49.095 --> 00:46:52.295
+and the best one is the one
+that you can do consistently.
+
+00:46:52.295 --> 00:46:55.335
+You also wanna make sure that
+you've identified and leveraged
+
+00:46:55.335 --> 00:46:57.255
+the transformation
+that you deliver.
+
+00:46:57.255 --> 00:46:59.790
+Remember how I said one of the
+biggest mistakes I see people
+
+00:46:59.790 --> 00:47:03.290
+make is they don't realize how they
+need to focus on the transformation?
+
+00:47:03.310 --> 00:47:06.190
+Getting crystal clear on this
+and working it into not only
+
+00:47:06.190 --> 00:47:09.790
+the offer so that you're making
+sure your program is actually
+
+00:47:09.790 --> 00:47:12.430
+taking people through steps
+that will get them to that
+
+00:47:12.430 --> 00:47:13.955
+effective transformation,
+
+00:47:13.955 --> 00:47:16.435
+but also incorporating that
+into your marketing messaging
+
+00:47:16.435 --> 00:47:19.775
+so people know exactly what
+and they're excited about it.
+
+00:47:20.195 --> 00:47:24.995
+I also wanna encourage you to use an
+expert process to select the right offer.
+
+00:47:24.995 --> 00:47:28.600
+Try not to fall into the trap
+that one size fits all because
+
+00:47:28.600 --> 00:47:29.640
+it really doesn't.
+
+00:47:29.640 --> 00:47:31.880
+And, yes, I know that that
+creates a more nuanced
+
+00:47:31.880 --> 00:47:35.800
+conversation, which is quite
+frankly more difficult to sell,
+
+00:47:35.800 --> 00:47:37.320
+but I'm all about being honest.
+
+00:47:37.320 --> 00:47:40.680
+And it's so important that you
+know that there is not a one
+
+00:47:40.680 --> 00:47:44.500
+size fits all strategy for
+your personal business.
+
+00:47:44.825 --> 00:47:47.625
+Your business is going to
+be as unique as you are.
+
+00:47:47.625 --> 00:47:50.665
+It should be as unique
+as you are, in fact.
+
+00:47:50.665 --> 00:47:53.385
+You're also gonna want
+to incorporate action taking
+
+00:47:53.385 --> 00:47:55.225
+psychology into your offer.
+
+00:47:55.225 --> 00:47:56.745
+And if you believe
+in your offer,
+
+00:47:56.745 --> 00:47:59.850
+if you know that what
+you deliver is actually
+
+00:48:10.370 --> 00:48:12.190
+create is valuable.
+
+00:48:12.535 --> 00:48:15.095
+Also, when you can learn how to
+use world building marketing,
+
+00:48:15.095 --> 00:48:17.895
+you're gonna have an impactful
+group of people who are
+
+00:48:17.895 --> 00:48:21.095
+passionate about whatever it is
+that you're bringing into the world.
+
+00:48:21.095 --> 00:48:24.375
+And that's how you're gonna
+create a powerful community of
+
+00:48:24.375 --> 00:48:27.555
+people who are excited
+to spread the mission.
+
+00:48:27.800 --> 00:48:31.720
+And finally, but possibly the most
+important thing on this list is to
+
+00:48:31.720 --> 00:48:35.800
+surround yourself with worthy
+mentors and a supportive community.
+
+00:48:35.800 --> 00:48:39.640
+It is my biggest pet peeve that
+the support system and a lot of
+
+00:48:39.640 --> 00:48:43.425
+programs online dries up at
+twelve weeks or sometimes even
+
+00:48:43.425 --> 00:48:44.945
+within the first eight weeks.
+
+00:48:44.945 --> 00:48:48.385
+That is so not helpful in
+a process that requires
+
+00:48:48.385 --> 00:48:50.365
+refinement and troubleshooting.
+
+00:48:50.465 --> 00:48:53.425
+Find a community that can show
+up for you and support you
+
+00:48:53.425 --> 00:48:56.605
+through the many different
+iterations of your business.
+
+00:48:56.930 --> 00:48:58.850
+So I have a question for you.
+
+00:48:58.850 --> 00:49:01.970
+Would you like me to help
+you quickly build or refine a
+
+00:49:01.970 --> 00:49:07.970
+lucrative offer, one that grows your
+income and freedom to life changing levels,
+
+00:49:07.970 --> 00:49:11.150
+all while having a positive
+impact on the world?
+
+00:49:11.455 --> 00:49:14.175
+So as I see it, because
+you're still here,
+
+00:49:14.175 --> 00:49:15.915
+you have two options.
+
+00:49:16.175 --> 00:49:18.255
+Option one is you can
+try it on your own,
+
+00:49:18.255 --> 00:49:22.335
+but you run the risk of being exactly
+where you started a year from now.
+
+00:49:22.335 --> 00:49:25.940
+And option two, you can a
+hundred percent commit to your
+
+00:49:25.940 --> 00:49:28.580
+future by following
+my proven road map.
+
+00:49:28.580 --> 00:49:30.500
+My program, Coursia Collective,
+
+00:49:30.500 --> 00:49:33.620
+is truly the best thing on the
+market for course creators.
+
+00:49:33.620 --> 00:49:35.200
+I am not exaggerating.
+
+00:49:35.300 --> 00:49:39.225
+Here, I show you how to build
+or refine a lucrative offer
+
+00:49:39.225 --> 00:49:41.945
+for life changing
+impact and profit.
+
+00:49:41.945 --> 00:49:43.065
+Here's the thing.
+
+00:49:43.065 --> 00:49:46.745
+Most course creators
+only know one way.
+
+00:49:46.745 --> 00:49:50.425
+Plus, they only give you
+limited live support.
+
+00:49:50.425 --> 00:49:53.500
+But I am an in the
+trenches kind of mentor,
+
+00:49:53.500 --> 00:49:56.840
+meaning everything I
+do is ultra responsive.
+
+00:49:57.180 --> 00:49:58.620
+Here's what you're
+gonna accomplish.
+
+00:49:58.620 --> 00:50:01.180
+You're gonna nail down your
+goals and how you're going to
+
+00:50:01.180 --> 00:50:04.380
+get there, plus you're gonna
+make sure it fits your life.
+
+00:50:04.380 --> 00:50:07.605
+You're gonna design a morning routine
+to help you overcome your fears.
+
+00:50:07.605 --> 00:50:10.965
+You're gonna get crystal clear
+on your ideal customer avatar.
+
+00:50:10.965 --> 00:50:15.585
+You're gonna pick and validate
+the right offer for your ICA.
+
+00:50:15.845 --> 00:50:19.445
+You're also going to develop
+an offer that people actually take
+
+00:50:19.445 --> 00:50:22.860
+action on so your people
+get really good results.
+
+00:50:22.860 --> 00:50:25.820
+You're gonna learn how to
+infuse your powerful personal
+
+00:50:25.820 --> 00:50:29.020
+stories to connect into
+your marketing materials.
+
+00:50:29.020 --> 00:50:32.060
+You're gonna define your
+pricing and financial goals,
+
+00:50:32.060 --> 00:50:35.580
+and you're gonna create
+soul aligned marketing that feels
+
+00:50:35.580 --> 00:50:37.960
+really, really
+good and authentic.
+
+00:50:37.965 --> 00:50:40.925
+You're also gonna have live
+support all along the way,
+
+00:50:40.925 --> 00:50:44.285
+and you're gonna make a new
+friend on the same journey as you.
+
+00:50:44.285 --> 00:50:45.565
+And I really mean that.
+
+00:50:45.565 --> 00:50:49.820
+The people in my communities
+meet up all over the world.
+
+00:50:49.820 --> 00:50:52.300
+They get together and they
+support each other in this
+
+00:50:52.300 --> 00:50:54.040
+journey of entrepreneurship.
+
+00:50:54.060 --> 00:50:56.780
+And that makes all the
+difference in the world because
+
+00:50:56.780 --> 00:50:58.460
+you do not need
+to do this alone.
+
+00:50:58.460 --> 00:51:01.160
+In fact, you really
+shouldn't do it alone.
+
+00:51:01.500 --> 00:51:04.685
+You're gonna gain access to
+our impact mastery series,
+
+00:51:04.685 --> 00:51:08.125
+which is an ever expanding
+database of resources to meet
+
+00:51:08.125 --> 00:51:12.045
+your need, to meet you
+exactly where you're at.
+
+00:51:12.045 --> 00:51:15.705
+Again, everything that I
+create is ultra responsive.
+
+00:51:15.965 --> 00:51:18.550
+Because I know from
+working with thousands of
+
+00:51:18.550 --> 00:51:21.990
+entrepreneurs, there is no
+one size fits all model.
+
+00:51:21.990 --> 00:51:25.430
+And, yes, that makes it a little bit
+more difficult for a course creator
+
+00:51:25.430 --> 00:51:28.550
+because it means you have to
+meet many different people
+
+00:51:28.550 --> 00:51:32.215
+wherever they're at in their
+journey and creating resources
+
+00:51:32.215 --> 00:51:35.895
+for them so that it supports
+whatever type of offer system
+
+00:51:35.895 --> 00:51:37.735
+and model they're
+going to create.
+
+00:51:37.735 --> 00:51:39.895
+And I have so much
+experience in this area.
+
+00:51:39.895 --> 00:51:43.530
+I'm really excited to have
+more nuanced conversations than
+
+00:51:43.530 --> 00:51:46.310
+what's happening in
+the online world today.
+
+00:51:46.330 --> 00:51:48.090
+In this impact mastery series,
+
+00:51:48.090 --> 00:51:50.330
+which is the course
+materials itself,
+
+00:51:50.330 --> 00:51:51.450
+we have the first module,
+
+00:51:51.450 --> 00:51:52.970
+which is from dreamer
+to thought leader.
+
+00:51:52.970 --> 00:51:55.210
+This is where you're gonna
+identify your North Star,
+
+00:51:55.210 --> 00:51:56.555
+your champagne moments,
+
+00:51:56.555 --> 00:51:59.915
+and figure out where you are along
+the journey and where you wanna go.
+
+00:51:59.915 --> 00:52:02.075
+This is the other thing
+that's important to remember that not
+
+00:52:02.075 --> 00:52:03.675
+a lot of people
+are willing to say,
+
+00:52:03.675 --> 00:52:07.355
+is it's okay for you to
+decide where you wanna go.
+
+00:52:07.355 --> 00:52:09.115
+If you don't wanna
+have a TEDx talk,
+
+00:52:09.115 --> 00:52:10.860
+you don't have to
+have a TEDx talk.
+
+00:52:10.860 --> 00:52:13.740
+But if you do, we're
+gonna help you get there.
+
+00:52:13.740 --> 00:52:17.820
+There are so many different ways
+to create a business that you love.
+
+00:52:17.820 --> 00:52:20.540
+Then we're gonna talk about
+your secret advantage.
+
+00:52:20.540 --> 00:52:23.580
+This part of my teachings is
+time and time again the thing
+
+00:52:23.580 --> 00:52:27.975
+that my students say sets me apart
+from so many other creators online.
+
+00:52:27.975 --> 00:52:31.495
+It's the thing that's really
+truly gonna help you overcome
+
+00:52:31.495 --> 00:52:34.375
+blocks and get you to
+where you wanna be.
+
+00:52:34.375 --> 00:52:36.135
+Then we've got
+embracing your edge.
+
+00:52:36.135 --> 00:52:38.615
+This is gonna help you
+differentiate and position
+
+00:52:38.615 --> 00:52:41.410
+whatever it is that you create
+so so that you stand out in the
+
+00:52:41.410 --> 00:52:43.470
+noisy online world.
+
+00:52:43.730 --> 00:52:46.290
+Then we're gonna talk about
+empowering transformation and
+
+00:52:46.290 --> 00:52:49.170
+how there is no one size fits
+all and how you can identify
+
+00:52:49.170 --> 00:52:52.450
+the best offer structure that's
+going to serve your audience
+
+00:52:52.450 --> 00:52:54.530
+the best and get them the
+results that they're really
+
+00:52:54.530 --> 00:52:59.245
+looking for while also meeting
+your time and financial goals.
+
+00:52:59.505 --> 00:53:03.085
+Then we're gonna move into
+crafting your irresistible offer.
+
+00:53:03.265 --> 00:53:05.985
+This is where you make
+sure that you don't accidentally
+
+00:53:05.985 --> 00:53:07.960
+create the wrong program.
+
+00:53:07.960 --> 00:53:10.360
+Remember how I said this is
+often where people miss the mark?
+
+00:53:10.360 --> 00:53:13.480
+We do a deep dive here to make
+sure that you're creating an
+
+00:53:13.480 --> 00:53:15.480
+offer people genuinely want.
+
+00:53:15.480 --> 00:53:18.820
+That's how you make sure you don't
+build something and then hear crickets.
+
+00:53:18.920 --> 00:53:21.825
+Then, of course, we're gonna talk
+about how to grow your audience.
+
+00:53:21.825 --> 00:53:25.025
+And, again, we're not gonna talk about
+just one system because there is no
+
+00:53:25.025 --> 00:53:26.625
+one size fits all approach.
+
+00:53:26.625 --> 00:53:29.345
+We're gonna help you figure out
+what the best system is for you
+
+00:53:29.345 --> 00:53:32.065
+and how you can implement it
+consistently to get the results
+
+00:53:32.065 --> 00:53:33.345
+that you deserve.
+
+00:53:33.345 --> 00:53:36.110
+Then we're gonna talk about
+world building marketing.
+
+00:53:36.110 --> 00:53:39.390
+Here, I'm gonna provide you with
+all of the resources you could ever
+
+00:53:39.390 --> 00:53:44.170
+need to create really powerful
+and amazing marketing.
+
+00:53:44.190 --> 00:53:46.190
+And if you have any
+resistance to marketing,
+
+00:53:46.190 --> 00:53:47.470
+I totally got you.
+
+00:53:47.470 --> 00:53:48.670
+I was once there too,
+
+00:53:48.670 --> 00:53:51.155
+and I'm gonna help you figure
+out how to make it feel really
+
+00:53:51.155 --> 00:53:53.235
+good and authentically aligned.
+
+00:53:53.235 --> 00:53:55.635
+We're also gonna dig into
+the business nitty gritty.
+
+00:53:55.635 --> 00:53:57.635
+I'm gonna make sure that you
+have the tools that you need to
+
+00:53:57.635 --> 00:54:01.395
+track your finances and to know
+what matters and what doesn't
+
+00:54:01.395 --> 00:54:04.115
+so that you can have a
+profitable business that also
+
+00:54:04.115 --> 00:54:06.380
+allows you to impact
+the world profoundly.
+
+00:54:06.380 --> 00:54:09.740
+And the total value of this is
+two thousand nine hundred and
+
+00:54:09.740 --> 00:54:10.860
+ninety seven dollars.
+
+00:54:10.860 --> 00:54:14.060
+Now listen. Let me just
+call this right out.
+
+00:54:14.060 --> 00:54:17.740
+I know that you and I
+are both sick of people who overinflate
+
+00:54:17.740 --> 00:54:19.335
+the value of their programs.
+
+00:54:19.335 --> 00:54:23.255
+And I'm telling you that this
+is an underestimation because I
+
+00:54:23.255 --> 00:54:25.095
+always over deliver.
+
+00:54:25.095 --> 00:54:29.495
+So this program is absolutely
+worth far more than
+
+00:54:29.495 --> 00:54:33.150
+two thousand nine hundred and
+ninety seven dollars But I like
+
+00:54:33.150 --> 00:54:34.990
+to do things a
+little differently.
+
+00:54:34.990 --> 00:54:38.270
+So not only is this ever
+growing Impact Mastery Series
+
+00:54:38.270 --> 00:54:39.950
+ultra responsive to you,
+
+00:54:39.950 --> 00:54:43.690
+but they are lessons that take
+your uniqueness into consideration.
+
+00:54:43.710 --> 00:54:46.350
+They are videos, workbooks,
+tutorials, tools,
+
+00:54:46.350 --> 00:54:49.285
+and templates that are gonna
+make this whole process a heck
+
+00:54:49.285 --> 00:54:50.805
+of a lot easier.
+
+00:54:50.805 --> 00:54:55.345
+And it includes a proven
+path to building lucrative offers.
+
+00:54:55.365 --> 00:54:59.285
+I need you to know something
+real quick. I am not special.
+
+00:54:59.285 --> 00:55:02.820
+I've just worked really hard
+and learned all along the way
+
+00:55:02.820 --> 00:55:05.200
+and love sharing my expertise.
+
+00:55:05.380 --> 00:55:07.140
+I have a proven road map,
+
+00:55:07.140 --> 00:55:10.640
+and I know what it takes
+to be a successful mentor.
+
+00:55:10.820 --> 00:55:13.860
+So not only are you gonna get
+the impact mastery series,
+
+00:55:13.860 --> 00:55:17.735
+which is responsive lessons
+that serve your uniqueness,
+
+00:55:17.755 --> 00:55:21.515
+which is valued at two thousand nine
+hundred and ninety seven dollars.
+
+00:55:21.515 --> 00:55:25.515
+There are also a few incredible
+bonuses you're also gonna get.
+
+00:55:25.515 --> 00:55:29.995
+The first one, our weekly live coaching
+calls where we do deep dives into
+
+00:55:29.995 --> 00:55:31.250
+business building.
+
+00:55:31.250 --> 00:55:34.050
+So that's four to five
+calls every single month.
+
+00:55:34.050 --> 00:55:37.490
+That is a thousand nine hundred
+and ninety seven dollar value.
+
+00:55:37.490 --> 00:55:41.010
+And, again, quite frankly,
+that estimate is a little low.
+
+00:55:41.010 --> 00:55:44.905
+And next, you're gonna get access to
+an incredible supportive community
+
+00:55:44.905 --> 00:55:46.745
+valued at a hundred
+ninety nine dollars.
+
+00:55:46.745 --> 00:55:49.145
+And, again, that's a little on the
+low end because I know you're gonna
+
+00:55:49.145 --> 00:55:52.085
+meet your next best
+friend in this community.
+
+00:55:52.265 --> 00:55:56.265
+So this is all valued at five thousand
+one hundred and ninety three dollars,
+
+00:55:56.265 --> 00:55:59.180
+but it's actually only gonna
+cost you nineteen ninety seven.
+
+00:55:59.180 --> 00:56:01.820
+And I wanna talk to you
+a little bit about why.
+
+00:56:01.820 --> 00:56:03.020
+So first things first,
+
+00:56:03.020 --> 00:56:07.020
+I have been selling high ticket
+programs for many, many years,
+
+00:56:07.020 --> 00:56:11.455
+but I'm really excited to be able to
+get into the hands of more people.
+
+00:56:11.455 --> 00:56:16.095
+This is actually the power of building
+the business that I've built so far.
+
+00:56:16.095 --> 00:56:19.455
+I have the resources to be able
+to put this program into the
+
+00:56:19.455 --> 00:56:22.815
+hands of more people at
+a more affordable rate.
+
+00:56:22.815 --> 00:56:27.000
+So it's actually only going to cost
+you nineteen ninety seven for the year.
+
+00:56:27.000 --> 00:56:30.040
+And because I'm so excited to
+get this into the hands as many
+
+00:56:30.040 --> 00:56:31.700
+people as possible,
+
+00:56:31.720 --> 00:56:34.440
+especially in today's world
+where the cost of living has
+
+00:56:34.440 --> 00:56:38.360
+gotten so high, and because
+I know this has the power to
+
+00:56:38.360 --> 00:56:43.055
+transform so many lives, I'm
+offering access to it at a
+
+00:56:43.055 --> 00:56:45.675
+monthly rate of one ninety nine.
+
+00:56:45.855 --> 00:56:46.815
+So when you pay,
+
+00:56:46.815 --> 00:56:49.935
+you have access immediately
+to all the materials,
+
+00:56:49.935 --> 00:56:52.895
+and you can jump in on
+the monthly payment plan.
+
+00:56:52.895 --> 00:56:56.930
+And if within the first four months
+you decide you'd like to upgrade,
+
+00:56:56.930 --> 00:57:01.310
+you can go ahead and upgrade to the
+paid in full price to save some money.
+
+00:57:01.330 --> 00:57:04.370
+This program is going to set
+you up to create what can
+
+00:57:04.370 --> 00:57:07.090
+eventually become
+passive income.
+
+00:57:07.090 --> 00:57:10.965
+You are going to be able
+to bring in repeat ROI,
+
+00:57:10.965 --> 00:57:13.845
+return on investment,
+for years to come.
+
+00:57:13.845 --> 00:57:17.925
+You get immediate access to the
+Impact Mastery Series course
+
+00:57:17.925 --> 00:57:21.200
+and program, to the weekly
+coaching calls with me,
+
+00:57:21.200 --> 00:57:22.240
+and to the community.
+
+00:57:22.240 --> 00:57:25.680
+It is literally a no brainer
+because the value is so
+
+00:57:25.680 --> 00:57:26.720
+disproportionate here.
+
+00:57:26.720 --> 00:57:30.800
+You have absolutely nothing to
+lose and everything to gain.
+
+00:57:30.800 --> 00:57:34.880
+It is my absolute joy to bring
+something so impactful and so
+
+00:57:34.880 --> 00:57:37.575
+accessible to so
+many more people.
+
+00:57:37.575 --> 00:57:41.495
+So, again, you have the option of paying
+nineteen ninety seven for the year,
+
+00:57:41.495 --> 00:57:45.955
+or you can sign up for twelve
+monthly payments at one ninety nine.
+
+00:57:45.975 --> 00:57:49.690
+And, again, I am just so freaking
+excited to be in a position where I can
+
+00:57:49.690 --> 00:57:53.910
+offer something so impactful
+at such an affordable price.
+
+00:57:53.930 --> 00:57:56.890
+When you play around with the
+different offers you can create,
+
+00:57:56.890 --> 00:57:59.610
+you're gonna see that this
+investment is a drop in the
+
+00:57:59.610 --> 00:58:03.050
+bucket for what you're gonna
+be able to create and earn with
+
+00:58:03.050 --> 00:58:04.870
+your online business.
+
+00:58:05.295 --> 00:58:09.295
+My friend, this is such
+an exciting place to be
+
+00:58:09.295 --> 00:58:13.535
+because here's what you're gonna
+overcome by joining our community.
+
+00:58:13.535 --> 00:58:16.975
+You're gonna overcome the fear
+of putting yourself out there.
+
+00:58:16.975 --> 00:58:21.630
+You're gonna overcome the fear
+of taking a chance on yourself.
+
+00:58:21.890 --> 00:58:25.550
+You're gonna overcome the
+fear of talking to clients.
+
+00:58:25.650 --> 00:58:29.950
+You're going to overcome the fear
+of growing as an entrepreneur.
+
+00:58:30.290 --> 00:58:34.510
+You're gonna overcome the
+fear of wondering what if.
+
+00:58:34.605 --> 00:58:38.445
+You're going to overcome the
+fear of figuring it all out.
+
+00:58:38.445 --> 00:58:42.425
+You're gonna overcome fear
+of being your own boss,
+
+00:58:42.685 --> 00:58:46.425
+and you're gonna overcome
+the fear of leaving your job.
+
+00:58:46.445 --> 00:58:49.320
+I'm so excited to offer
+this to you today,
+
+00:58:49.320 --> 00:58:52.280
+either for nineteen ninety
+seven or you can just go ahead
+
+00:58:52.280 --> 00:58:54.820
+and get started of
+one ninety nine.
+
+00:58:55.160 --> 00:58:57.320
+When you click the cart,
+here's what you'll see.
+
+00:58:57.320 --> 00:59:00.040
+You'll see the sales page where
+you can read more about this,
+
+00:59:00.040 --> 00:59:02.445
+and you'll have an
+opportunity to enroll.
+
+00:59:02.445 --> 00:59:04.445
+Then when you click
+any of the buttons,
+
+00:59:04.445 --> 00:59:07.405
+it will take you to the cart
+where you can choose the best
+
+00:59:07.405 --> 00:59:08.525
+option for you,
+
+00:59:08.525 --> 00:59:12.105
+either your annual subscription
+or your monthly subscription.
+
+00:59:12.685 --> 00:59:15.720
+You'll fill in your details
+to complete your payment,
+
+00:59:15.720 --> 00:59:20.040
+and then you'll see a thank you page
+with a personal thank you from me.
+
+00:59:20.040 --> 00:59:23.240
+Next, you'll head over to your
+email where you'll get a welcome
+
+00:59:23.240 --> 00:59:24.900
+email from us.
+
+00:59:25.080 --> 00:59:27.735
+Then you'll be able to
+log in to your account.
+
+00:59:27.735 --> 00:59:30.775
+Then you'll head over to the
+introduction section of the
+
+00:59:30.775 --> 00:59:33.895
+program and introduce yourself
+to the beautiful community
+
+00:59:33.895 --> 00:59:35.795
+that's waiting for you.
+
+00:59:35.815 --> 00:59:38.935
+Next, you'll head over to the
+start here section where I'll walk
+
+00:59:38.935 --> 00:59:41.530
+you through and familiarize
+yourself with all of the
+
+00:59:41.530 --> 00:59:44.310
+resources you now have
+at your fingertips.
+
+00:59:44.330 --> 00:59:46.570
+Alright. Are you
+ready to get started?
+
+00:59:46.570 --> 00:59:50.150
+Real quick before we wrap up,
+I wanna ask you a question.
+
+00:59:50.170 --> 00:59:51.450
+Why are you here?
+
+00:59:51.450 --> 00:59:53.065
+Even though you're busy,
+
+00:59:53.065 --> 00:59:55.785
+you showed up today
+for a specific reason.
+
+00:59:55.785 --> 00:59:56.985
+Maybe you feel stuck.
+
+00:59:56.985 --> 01:00:00.105
+Maybe you wanna spend more time
+with your family or friends.
+
+01:00:00.105 --> 01:00:04.165
+You wanna spend your life focusing
+on the things that matter most.
+
+01:00:04.425 --> 01:00:05.880
+Maybe you're tired.
+
+01:00:05.880 --> 01:00:09.000
+Maybe you're drained by your
+current work rather than energized.
+
+01:00:09.000 --> 01:00:11.700
+Perhaps you're looking
+for something inspiring.
+
+01:00:12.120 --> 01:00:13.480
+Maybe you just want more.
+
+01:00:13.480 --> 01:00:15.320
+You want more freedom to travel,
+
+01:00:15.320 --> 01:00:17.000
+to work when and how you want,
+
+01:00:17.000 --> 01:00:19.940
+and to earn good
+money along the way.
+
+01:00:19.960 --> 01:00:21.605
+Maybe you need support.
+
+01:00:21.605 --> 01:00:23.525
+Maybe you've tried
+online ventures before,
+
+01:00:23.525 --> 01:00:27.825
+but you feel stuck, uninspired,
+or unsure of what to do next.
+
+01:00:27.925 --> 01:00:29.125
+Do you have doubts?
+
+01:00:29.125 --> 01:00:30.805
+Are you like, this
+sounds great and all,
+
+01:00:30.805 --> 01:00:33.125
+but life is super
+busy right now.
+
+01:00:33.125 --> 01:00:36.165
+I'm not sure if I have time
+to devote to this. Listen.
+
+01:00:36.165 --> 01:00:40.380
+If you have just thirty minutes
+a day, you can move mountains.
+
+01:00:40.380 --> 01:00:44.140
+I have helped thousands of
+entrepreneurs create meaningful
+
+01:00:44.140 --> 01:00:47.000
+businesses with just
+thirty minutes a day.
+
+01:00:47.420 --> 01:00:50.375
+Maybe you're still worried about
+putting yourself out there.
+
+01:00:50.375 --> 01:00:51.175
+Get it.
+
+01:00:51.175 --> 01:00:54.615
+There are lots of ways
+to build impactful offers without having
+
+01:00:54.615 --> 01:00:56.935
+to put yourself out
+there all the time.
+
+01:00:56.935 --> 01:00:58.295
+When I first started out,
+
+01:00:58.295 --> 01:01:01.095
+I was terrified about
+putting myself online.
+
+01:01:01.095 --> 01:01:04.000
+I didn't wanna put my face
+on any of my materials,
+
+01:01:04.000 --> 01:01:06.720
+but I did know that I wanted
+to connect with the people who are
+
+01:01:06.720 --> 01:01:08.320
+interested in working with me.
+
+01:01:08.320 --> 01:01:11.600
+And so I pushed bit by bit to get
+a little bit more comfortable.
+
+01:01:11.600 --> 01:01:12.320
+But guess what?
+
+01:01:12.320 --> 01:01:15.360
+I still don't show up and
+post three times a day,
+
+01:01:15.360 --> 01:01:19.015
+and I've created an eight
+figure business doing just that.
+
+01:01:19.015 --> 01:01:20.455
+And you can too.
+
+01:01:20.455 --> 01:01:23.895
+What if I don't wanna quit my
+job or work full time? Listen.
+
+01:01:23.895 --> 01:01:25.735
+If you want this to
+be a side hustle,
+
+01:01:25.735 --> 01:01:28.935
+you can absolutely create
+this as a side hustle.
+
+01:01:28.935 --> 01:01:30.135
+Remember Natalie?
+
+01:01:30.135 --> 01:01:32.430
+She's actually a
+producer and an actress.
+
+01:01:32.430 --> 01:01:34.270
+She does her
+coaching on the side.
+
+01:01:34.270 --> 01:01:37.210
+This does not have to
+be your full time job.
+
+01:01:37.230 --> 01:01:40.190
+Maybe you're worried. What
+if I'm not tech savvy?
+
+01:01:40.190 --> 01:01:43.790
+Oh, my friend do I
+resonate with this one.
+
+01:01:43.790 --> 01:01:47.515
+I have cried many tears
+over tech struggles.
+
+01:01:47.515 --> 01:01:50.955
+But if I can figure out how
+to do some of the minimal tech
+
+01:01:50.955 --> 01:01:53.915
+necessary, then
+you truly can too.
+
+01:01:53.915 --> 01:01:55.915
+And I sincerely mean that.
+
+01:01:55.915 --> 01:01:59.755
+My team still loves to tease
+me about how not tech savvy I
+
+01:01:59.755 --> 01:02:03.160
+am, but I've gotten this
+far, and you can too.
+
+01:02:03.160 --> 01:02:06.440
+Maybe you're thinking, what if
+I'm unsure what offer to create?
+
+01:02:06.440 --> 01:02:08.840
+Listen. We have got
+your back there.
+
+01:02:08.840 --> 01:02:12.280
+We are really good at teasing
+out your strengths and the
+
+01:02:12.280 --> 01:02:15.625
+things that make you unique so
+that we can figure out exactly
+
+01:02:15.625 --> 01:02:17.765
+what your offer
+should look like.
+
+01:02:17.865 --> 01:02:18.905
+Maybe you're wondering,
+
+01:02:18.905 --> 01:02:22.105
+what if I started an offer and
+it never got off the ground?
+
+01:02:22.105 --> 01:02:23.225
+Oh my gosh.
+
+01:02:23.225 --> 01:02:27.090
+People like you are exactly
+who I wanna help because I know
+
+01:02:27.090 --> 01:02:31.010
+all too often how there are
+cookie cutter solutions online
+
+01:02:31.010 --> 01:02:34.530
+that trick people into thinking
+that if that doesn't work for
+
+01:02:34.530 --> 01:02:37.330
+them, then it's not gonna
+work for them at all.
+
+01:02:37.330 --> 01:02:39.045
+And that's not true.
+
+01:02:39.045 --> 01:02:41.765
+It just means that you probably
+need to refine what you've
+
+01:02:41.765 --> 01:02:45.665
+created to meet your audience
+and to serve them better.
+
+01:02:45.845 --> 01:02:48.725
+I'm really excited to get
+to work and to help you,
+
+01:02:48.725 --> 01:02:51.525
+and you can get started for
+twelve monthly payments at one
+
+01:02:51.525 --> 01:02:55.680
+ninety nine or pay nineteen
+ninety seven for the year.
+
+01:02:55.680 --> 01:02:56.400
+Real quick.
+
+01:02:56.400 --> 01:02:58.800
+Remember how we talked about
+what you need to build a
+
+01:02:58.800 --> 01:03:01.440
+successful online education business
+and what you don't
+
+01:03:01.440 --> 01:03:05.025
+need, how much you can
+earn, how to turn pro,
+
+01:03:05.025 --> 01:03:06.785
+where most people get stuck,
+
+01:03:06.785 --> 01:03:09.425
+and we've gone over
+how to work with me.
+
+01:03:09.425 --> 01:03:12.525
+Now it's time for the
+frequently asked questions.
+
+01:03:12.945 --> 01:03:15.985
+First, if you've taken a look
+at the page that I provided,
+
+01:03:15.985 --> 01:03:18.770
+you might see that we call
+this an action based community.
+
+01:03:18.770 --> 01:03:21.630
+Now what is an action
+based community?
+
+01:03:21.890 --> 01:03:24.930
+This is a space for current
+and aspiring business owners,
+
+01:03:24.930 --> 01:03:27.890
+specifically those with
+experience, expertise, or passion.
+
+01:03:27.890 --> 01:03:31.090
+And this space is intentionally
+designed to give you access to
+
+01:03:31.090 --> 01:03:33.785
+online business building
+essentials and weekly support
+
+01:03:33.785 --> 01:03:38.505
+calls so that you can make life
+changing profit and impact online.
+
+01:03:38.505 --> 01:03:40.745
+And when we say action
+first community,
+
+01:03:40.745 --> 01:03:44.585
+we mean that we have
+a heavy emphasis on taking imperfect
+
+01:03:44.585 --> 01:03:47.640
+action because we know it is
+the very thing that is going to
+
+01:03:47.640 --> 01:03:50.660
+give you clarity
+all along the way.
+
+01:03:50.760 --> 01:03:53.640
+Will you help me come up
+with my offer idea? Yes.
+
+01:03:53.640 --> 01:03:57.320
+We can absolutely help you
+refine your offer idea.
+
+01:03:57.320 --> 01:04:02.025
+But I will say it's best if you join
+knowing how you want to help people,
+
+01:04:02.025 --> 01:04:05.865
+meaning that you have knowledge
+or expertise or experience that
+
+01:04:05.865 --> 01:04:07.785
+you know you wanna
+help people with,
+
+01:04:07.785 --> 01:04:10.745
+and we will help you iron out
+the nitty gritty offer and
+
+01:04:10.745 --> 01:04:12.325
+marketing details.
+
+01:04:12.345 --> 01:04:14.880
+You might be wondering if I'm
+gonna talk about building a
+
+01:04:14.880 --> 01:04:17.840
+copywriting business because
+that's another program that I'm
+
+01:04:17.840 --> 01:04:19.200
+very well known for.
+
+01:04:19.200 --> 01:04:20.960
+And the answer to that is no.
+
+01:04:20.960 --> 01:04:24.000
+This is not a program about
+starting a copywriting business.
+
+01:04:24.000 --> 01:04:28.140
+However, I will be discussing copywriting
+as it's relevant to marketing.
+
+01:04:28.595 --> 01:04:31.635
+This specifically is a
+program for building an online
+
+01:04:31.635 --> 01:04:33.375
+education business.
+
+01:04:33.395 --> 01:04:36.755
+You might be wondering what types
+of offers do I help people create.
+
+01:04:36.755 --> 01:04:40.275
+We help people create one on
+one programs, group programs,
+
+01:04:40.275 --> 01:04:43.410
+digital products, online
+courses, online membership,
+
+01:04:43.410 --> 01:04:44.990
+and virtual communities.
+
+01:04:45.010 --> 01:04:47.410
+Now if you already have
+an online business and you're
+
+01:04:47.410 --> 01:04:50.450
+wondering if you're a good
+fit, the answer is it depends.
+
+01:04:50.450 --> 01:04:53.010
+If you already know how
+you want to help people,
+
+01:04:53.010 --> 01:04:55.730
+meaning you have the
+experience, the expertise,
+
+01:04:55.730 --> 01:04:59.455
+but you're not sure how to
+package this up and how to turn
+
+01:04:59.455 --> 01:05:02.495
+it into an impactful or
+lucrative online business,
+
+01:05:02.495 --> 01:05:03.935
+that's where we come in.
+
+01:05:03.935 --> 01:05:06.815
+So if you don't have a clear
+vision on what you might wanna
+
+01:05:06.815 --> 01:05:08.735
+sell or how you might
+wanna help people,
+
+01:05:08.735 --> 01:05:10.575
+this might not be the
+right time to join.
+
+01:05:10.575 --> 01:05:12.495
+The next question
+is, I'm a copywriter.
+
+01:05:12.495 --> 01:05:15.220
+Is this program for me?
+And the answer is maybe.
+
+01:05:15.220 --> 01:05:18.420
+If you're a copywriter who
+wants to add a digital product
+
+01:05:18.420 --> 01:05:21.860
+course or group coaching or
+membership to your offer suite,
+
+01:05:21.860 --> 01:05:23.540
+this is a great fit for you.
+
+01:05:23.540 --> 01:05:26.180
+This is gonna help you take
+your one to one services and
+
+01:05:26.180 --> 01:05:27.705
+make it more scalable.
+
+01:05:27.705 --> 01:05:29.945
+So that takes us to the end
+of our journey together.
+
+01:05:29.945 --> 01:05:32.325
+I really hope to see
+you in the community.
+
+01:05:32.345 --> 01:05:34.725
+I'm gonna leave you
+with a few testimonials.
+
+01:05:34.905 --> 01:05:36.905
+And, of course, if you
+have any questions at all,
+
+01:05:36.905 --> 01:05:40.025
+you can always reach out to
+me at freedom at Sarah Turner
+
+01:05:40.025 --> 01:05:41.100
+Agency dot com,
+
+01:05:41.100 --> 01:05:44.620
+and I'm happy to answer
+any of your personal questions there.
+
+01:05:44.620 --> 01:05:47.400
+Thanks so much, and I'll
+see you on the inside.
+
+01:05:47.580 --> 01:05:50.360
+I started working with
+Sarah Turner about,
+
+01:05:51.020 --> 01:05:52.680
+over a year ago,
+
+01:05:53.100 --> 01:05:55.475
+and it completely
+changed my life.
+
+01:05:55.475 --> 01:05:58.835
+Not to be dramatic, but
+maybe to be dramatic,
+
+01:05:58.835 --> 01:06:01.695
+Sarah Turner has
+changed my life.
+
+01:06:01.795 --> 01:06:05.715
+I have Sarah to thank
+for impacting my life so
+
+01:06:05.715 --> 01:06:08.820
+beautifully and I really
+wouldn't be the thought leader
+
+01:06:08.820 --> 01:06:11.460
+and CEO I am today without her.
+
+01:06:11.460 --> 01:06:13.520
+Sarah has been
+
+01:06:15.380 --> 01:06:20.180
+the most essential component
+to why I'm even here where I
+
+01:06:20.180 --> 01:06:21.840
+am right now.
+
+01:06:22.155 --> 01:06:25.975
+Truly, I mean this when I
+say if it wasn't for Sarah
+
+01:06:25.995 --> 01:06:30.075
+and her incredible knowledge
+base and how she goes
+
+01:06:30.075 --> 01:06:33.850
+about coaching people
+to create businesses,
+
+01:06:33.850 --> 01:06:37.450
+I would be stuck in such
+an old way of thinking.
+
+01:06:37.450 --> 01:06:38.290
+I, like, honestly,
+
+01:06:38.290 --> 01:06:41.690
+I don't even wanna think of where
+I would be if it wasn't for her.
+
+01:06:41.690 --> 01:06:45.130
+I had zero experience in what
+it meant to be an entrepreneur.
+
+01:06:45.130 --> 01:06:48.155
+I had zero experience in what
+it meant to be a business owner.
+
+01:06:48.155 --> 01:06:49.755
+I didn't know how
+to start a business.
+
+01:06:49.755 --> 01:06:52.795
+I mean, I I literally came into
+like the business world and
+
+01:06:52.795 --> 01:06:55.015
+entrepreneur world knowing
+
+01:06:55.595 --> 01:06:57.195
+absolutely nothing.
+
+01:06:57.195 --> 01:06:59.355
+And I will tell you
+that working with Sarah,
+
+01:06:59.355 --> 01:07:03.035
+Sarah actually really gave
+me the motivation and the
+
+01:07:03.035 --> 01:07:05.970
+encouragement to make this
+big switch from working in
+
+01:07:05.970 --> 01:07:09.970
+healthcare for over a decade
+to starting my own business and
+
+01:07:09.970 --> 01:07:11.730
+and becoming an entrepreneur.
+
+01:07:11.730 --> 01:07:15.310
+Sarah is just such a generous,
+
+01:07:15.730 --> 01:07:18.135
+kind hearted badass.
+
+01:07:18.135 --> 01:07:22.615
+And it's a really cool
+thing to watch because she
+
+01:07:22.615 --> 01:07:27.495
+does business in a way where she's
+actually living out her values.
+
+01:07:27.495 --> 01:07:27.735
+Hi.
+
+01:07:27.735 --> 01:07:29.998
+My name is Natalie Stavola.
+I'm a life and dating coach.
+
+01:07:29.998 --> 01:07:30.158
+I specialize in overcoming
+trauma, limiting beliefs,
+
+01:07:30.158 --> 01:07:31.645
+and succeeding in all
+areas of your life.
+
+01:07:31.850 --> 01:07:33.530
+Overcoming trauma,
+limiting beliefs,
+
+01:07:33.530 --> 01:07:35.850
+and succeeding in all
+areas of your life,
+
+01:07:35.850 --> 01:07:36.730
+in all relationships.
+
+01:07:36.730 --> 01:07:37.850
+So a little backstory,
+
+01:07:37.850 --> 01:07:40.170
+I am a nurse
+and nurse practitioner by trade.
+
+01:07:40.170 --> 01:07:42.810
+I was making six figures
+as a nurse practitioner.
+
+01:07:42.810 --> 01:07:46.390
+Fast forward to now, I've actually
+started two new businesses.
+
+01:07:46.925 --> 01:07:50.445
+Again, never thought I'd have
+one business, let alone three.
+
+01:07:50.445 --> 01:07:50.685
+Hi.
+
+01:07:50.685 --> 01:07:54.285
+My name is Kayna Casard, and
+I am a sex therapist, coach,
+
+01:07:54.285 --> 01:07:57.645
+and CEO and founder
+of Sex Answered.
+
+01:07:57.645 --> 01:08:01.660
+We're an intervention center
+that is redefining sex therapy
+
+01:08:01.660 --> 01:08:06.380
+and painful sex treatment with a
+trauma informed and modern approach.
+
+01:08:06.380 --> 01:08:08.760
+Hi. My name is Emily Pennystone.
+
+01:08:08.940 --> 01:08:10.140
+I'm a mindset coach.
+
+01:08:10.140 --> 01:08:14.155
+I lead a online program where
+I help people through the process
+
+01:08:14.155 --> 01:08:18.395
+of transformation and reworking
+their limiting beliefs.
+
+01:08:18.395 --> 01:08:21.675
+I can happily say that
+now I am a deaf coach.
+
+01:08:21.675 --> 01:08:24.795
+I started a business called
+Death Care Coach where I
+
+01:08:24.795 --> 01:08:28.240
+provide holistic and non
+medical support for someone
+
+01:08:28.240 --> 01:08:31.200
+with a terminal or serious
+illness and their families.
+
+01:08:31.200 --> 01:08:35.280
+And I really just help them
+navigate the complexity of the
+
+01:08:35.280 --> 01:08:37.680
+end of life process
+and the dying journey.
+
+01:08:37.680 --> 01:08:38.320
+Hi there.
+
+01:08:38.320 --> 01:08:40.695
+My name is Carly DenBoer,
+
+01:08:40.695 --> 01:08:46.195
+and I have been working with Sarah
+Turner for almost four years now.
+
+01:08:46.535 --> 01:08:48.455
+When I first met her,
+
+01:08:48.455 --> 01:08:52.055
+I was on a leave of absence
+from my hospital nursing job
+
+01:08:52.055 --> 01:08:56.510
+and exploring other, opportunities
+and things like that.
+
+01:08:56.510 --> 01:09:00.810
+Fast forward to today, I
+now have an editing agency
+
+01:09:00.910 --> 01:09:03.370
+with a team of seven people,
+
+01:09:03.710 --> 01:09:07.390
+and we continue to offer edits
+for the group and private clients.
+
+01:09:07.390 --> 01:09:10.785
+And I'm working on
+a editing, like,
+
+01:09:10.785 --> 01:09:13.665
+how to copy editing
+course right now.
+
+01:09:13.665 --> 01:09:17.505
+So, and I would
+not be here without
+
+01:09:17.505 --> 01:09:18.065
+Sarah.
+
+01:09:18.065 --> 01:09:20.065
+I was scared. I
+was really scared.
+
+01:09:20.065 --> 01:09:23.565
+I didn't know what I was gonna
+do, how I was gonna make money.
+
+01:09:23.870 --> 01:09:27.390
+I didn't know how to,
+you know, market myself,
+
+01:09:27.390 --> 01:09:29.850
+how to really put
+myself out there,
+
+01:09:29.870 --> 01:09:30.830
+and I was terrified.
+
+01:09:30.830 --> 01:09:34.030
+And Sarah wonderfully
+took me by the
+
+01:09:34.030 --> 01:09:34.910
+hand, and she sat down,
+
+01:09:34.910 --> 01:09:38.265
+and she actually helped me create
+my ninety day coaching program.
+
+01:09:38.265 --> 01:09:39.785
+I've been doing it
+for over a year.
+
+01:09:39.785 --> 01:09:42.665
+It's something that I'm still
+using exactly the way that we
+
+01:09:42.665 --> 01:09:44.425
+had it broken down to this day.
+
+01:09:44.425 --> 01:09:46.005
+It still works.
+
+01:09:46.025 --> 01:09:48.425
+I've gotten to expand
+on it and everything.
+
+01:09:48.425 --> 01:09:51.385
+But she sat down with me,
+and we were able to overcome,
+
+01:09:51.385 --> 01:09:55.030
+exactly how much to charge,
+where to put it out there,
+
+01:09:55.030 --> 01:09:58.550
+how to do it, advertisements,
+different ways to market it,
+
+01:09:58.550 --> 01:10:00.470
+exactly how many people,
+
+01:10:00.470 --> 01:10:02.710
+how many times that I would be
+putting it out there, everything.
+
+01:10:02.710 --> 01:10:05.350
+It was just so simply put,
+everything broken down,
+
+01:10:05.350 --> 01:10:08.295
+you know, boom, boom, boom,
+and, and, even the layout,
+
+01:10:08.295 --> 01:10:10.615
+exactly what I needed,
+my niche, all of it.
+
+01:10:10.615 --> 01:10:13.635
+And because of that, it's
+something that's helped me to be
+
+01:10:14.135 --> 01:10:15.815
+my own businesswoman today.
+
+01:10:15.815 --> 01:10:17.655
+You know? I don't have
+to work a nine to five.
+
+01:10:17.655 --> 01:10:20.295
+I don't have to, work
+under anyone else,
+
+01:10:20.295 --> 01:10:23.280
+especially toxic situations
+or toxic work environments,
+
+01:10:23.280 --> 01:10:24.960
+which is what I
+was going through.
+
+01:10:24.960 --> 01:10:27.440
+I was dealing with really
+awful bosses back to back.
+
+01:10:27.440 --> 01:10:30.640
+I almost, sold myself
+again to another
+
+01:10:30.640 --> 01:10:32.800
+company and worked
+under people that, like,
+
+01:10:32.800 --> 01:10:36.915
+I really didn't vibe with their
+messaging or what they even represented.
+
+01:10:36.915 --> 01:10:38.355
+But I was scared.
+
+01:10:38.355 --> 01:10:40.915
+And I am extremely
+grateful for you, Sarah.
+
+01:10:40.915 --> 01:10:43.795
+I Five, six years
+ago, I was, like,
+
+01:10:43.795 --> 01:10:46.920
+totally fine working
+nine to five, eight hour,
+
+01:10:46.920 --> 01:10:49.640
+nine hour clinic days,
+just making good money,
+
+01:10:49.640 --> 01:10:53.960
+but having okay PTO, but still
+having to rely on other people
+
+01:10:53.960 --> 01:10:57.560
+to give me permission to do
+the things I wanted to do.
+
+01:10:57.560 --> 01:10:59.240
+I still had to ask for raises.
+
+01:10:59.240 --> 01:11:01.465
+I still had to to
+ask for time off.
+
+01:11:01.465 --> 01:11:04.505
+And with this, I can
+do whatever I want,
+
+01:11:04.505 --> 01:11:06.405
+provide for my family,
+
+01:11:06.585 --> 01:11:09.945
+and feel really in control of
+what my future is gonna look
+
+01:11:09.945 --> 01:11:13.065
+like, and I can shape
+it how I want to.
+
+01:11:13.065 --> 01:11:18.110
+And I would have never been in a
+space like this mentally, financially,
+
+01:11:18.110 --> 01:11:21.470
+whatever you wanna call if
+I had not made the choice to
+
+01:11:21.470 --> 01:11:25.530
+invest in her course and to
+work with her and to really
+
+01:11:25.710 --> 01:11:29.265
+take the time to have
+someone show me how to do it,
+
+01:11:29.265 --> 01:11:30.625
+someone that's been there.
+
+01:11:30.625 --> 01:11:33.185
+You know, if I wanted
+to do it on my own,
+
+01:11:33.185 --> 01:11:35.265
+I could have figured
+it out eventually,
+
+01:11:35.265 --> 01:11:39.665
+but working with a mentor and
+let alone a mentor that has an
+
+01:11:39.665 --> 01:11:44.205
+entire team of other coaches
+that are working alongside her,
+
+01:11:44.820 --> 01:11:46.820
+was just so helpful,
+so supportive.
+
+01:11:46.820 --> 01:11:48.820
+You got that community
+community feel,
+
+01:11:48.820 --> 01:11:51.460
+which you often miss
+being an entrepreneur.
+
+01:11:51.460 --> 01:11:56.420
+Like, you don't really have anyone
+around you in in real life IRL
+
+01:11:56.420 --> 01:12:01.205
+that understands what it's like to
+live in a digital space as a
+
+01:12:01.205 --> 01:12:04.005
+business owner and how lonely
+and isolating that can feel.
+
+01:12:04.005 --> 01:12:05.685
+And so especially
+in the beginning,
+
+01:12:05.685 --> 01:12:09.285
+having her groups
+and coaches to lean
+
+01:12:09.285 --> 01:12:12.130
+on, to bounce questions
+off of, like, say, like,
+
+01:12:12.130 --> 01:12:13.170
+does this make sense?
+
+01:12:13.170 --> 01:12:17.490
+Or, you know, confronting
+a client that is, you know,
+
+01:12:17.490 --> 01:12:21.090
+being kind of an issue or
+you're not sure how to to
+
+01:12:21.090 --> 01:12:22.945
+handle a problem that comes up.
+
+01:12:22.945 --> 01:12:25.425
+You can ask people that have
+been doing it for years and
+
+01:12:25.425 --> 01:12:27.745
+they will give you
+insights and feedback.
+
+01:12:27.745 --> 01:12:31.105
+And so again, that has carried
+on into my other businesses,
+
+01:12:31.105 --> 01:12:33.505
+you know, having that
+mindset coaching,
+
+01:12:33.505 --> 01:12:36.481
+that mindset training of
+like knowing my worth,
+
+01:12:36.481 --> 01:12:39.920
+having an abundance mindset
+has helped me in all of my
+
+01:12:39.920 --> 01:12:41.200
+businesses, you know,
+
+01:12:41.200 --> 01:12:44.800
+to not run to scarcity when
+I'm worried about something.
+
+01:12:44.800 --> 01:12:49.520
+I started seeing how easy it was
+for someone to start a new business.
+
+01:12:49.520 --> 01:12:52.325
+It's just something I had
+never thought about doing.
+
+01:12:52.325 --> 01:12:54.005
+I had never had any
+training in doing.
+
+01:12:54.005 --> 01:12:56.565
+It's not something they teach
+you in nursing school about how
+
+01:12:56.565 --> 01:12:59.125
+to start a business,
+how to get an LLC,
+
+01:12:59.125 --> 01:13:00.325
+how to open bank accounts,
+
+01:13:00.325 --> 01:13:04.440
+all those things I just thought
+were for people that had big
+
+01:13:04.440 --> 01:13:07.400
+ambitious dreams like people
+that were not me and Sarah
+
+01:13:07.400 --> 01:13:09.560
+showed me that
+anybody can do this,
+
+01:13:09.560 --> 01:13:12.360
+anyone that wants more
+flexibility in their life
+
+01:13:12.360 --> 01:13:15.380
+whether that's
+having more money or
+
+01:13:16.040 --> 01:13:19.160
+having more time and
+freedom with their families.
+
+01:13:19.160 --> 01:13:22.895
+So Back then, I was a solo practitioner
+trying to scale and I worked
+
+01:13:22.895 --> 01:13:26.495
+with people who were suffering
+from painful sex like I
+
+01:13:26.495 --> 01:13:30.655
+did and were having to deal
+with the psychological and
+
+01:13:30.655 --> 01:13:33.530
+intimate impact that
+these medical conditions
+
+01:13:33.790 --> 01:13:35.310
+caused to their lives.
+
+01:13:35.310 --> 01:13:37.370
+Now being a mental
+health professional
+
+01:13:37.630 --> 01:13:40.430
+and having had my own
+personal experience and being
+
+01:13:40.430 --> 01:13:42.030
+specialized in the
+field of sex therapy,
+
+01:13:42.030 --> 01:13:46.295
+I was actually perfectly positioned
+to help this target market.
+
+01:13:46.295 --> 01:13:49.655
+However, a lot of the people
+in this demographic were really
+
+01:13:49.655 --> 01:13:53.975
+distrusting of health care
+providers and coaches who had
+
+01:13:53.975 --> 01:13:57.460
+said that they understood how to
+help them but didn't actually.
+
+01:13:57.460 --> 01:14:01.520
+So I didn't want to be like lumped
+into that same group of people.
+
+01:14:01.540 --> 01:14:04.820
+I didn't want my audience to
+think that I was just trying to
+
+01:14:04.820 --> 01:14:05.780
+fill my programs,
+
+01:14:05.780 --> 01:14:08.420
+my courses because having
+been in their shoes,
+
+01:14:08.420 --> 01:14:11.140
+I actually really knew what
+they needed but I was too
+
+01:14:11.140 --> 01:14:14.915
+afraid of coming across as like
+salesy or that my marketing
+
+01:14:14.915 --> 01:14:16.515
+would feel slimy.
+
+01:14:16.515 --> 01:14:20.175
+And through the conversations
+with Sarah about mindset,
+
+01:14:20.275 --> 01:14:23.715
+she helped me see that I was
+actually the exact person that
+
+01:14:23.715 --> 01:14:27.930
+all of these people needed in
+order to help them overcome
+
+01:14:27.930 --> 01:14:30.410
+all of the bad advice and
+poor treatment that they were
+
+01:14:30.410 --> 01:14:34.630
+getting from overworked or under
+skilled so called specialists.
+
+01:14:35.610 --> 01:14:39.610
+She came alongside me right
+when I was on the heels of a
+
+01:14:39.610 --> 01:14:43.895
+divorce that was absolutely
+devastating and I was so lost.
+
+01:14:43.895 --> 01:14:48.135
+I was financially in the worst
+place of my entire life and I
+
+01:14:48.135 --> 01:14:50.455
+truly didn't know what to do.
+
+01:14:50.455 --> 01:14:56.115
+And Sarah came alongside me and
+she cut through the overwhelm.
+
+01:14:56.330 --> 01:14:59.370
+I think that overwhelm, if I
+was trying to go it myself,
+
+01:14:59.370 --> 01:15:01.770
+would have just
+completely taken me out.
+
+01:15:01.770 --> 01:15:05.530
+But how she coaches and the
+tools that she gives and the
+
+01:15:05.530 --> 01:15:08.170
+guidance that she
+walks you through,
+
+01:15:08.170 --> 01:15:10.330
+she cut right through
+the overwhelm,
+
+01:15:10.330 --> 01:15:13.105
+helped me overcome things I
+think would have otherwise
+
+01:15:13.105 --> 01:15:14.865
+completely crippled me.
+
+01:15:14.865 --> 01:15:19.965
+Mindsets, just struggling and
+believing in myself, doubt,
+
+01:15:20.305 --> 01:15:22.145
+and even just like the noise.
+
+01:15:22.145 --> 01:15:26.110
+There's so much information out
+there about like starting an
+
+01:15:26.110 --> 01:15:29.070
+online business and it can be
+so noisy and you just, like,
+
+01:15:29.070 --> 01:15:30.110
+don't know who to trust.
+
+01:15:30.110 --> 01:15:33.710
+And I can say this beyond the
+shadow of the doubt that you
+
+01:15:33.710 --> 01:15:37.790
+can absolutely trust Sarah to
+guide you on this journey of
+
+01:15:37.790 --> 01:15:40.010
+creating an online business.
+
+01:15:40.065 --> 01:15:43.485
+The amount of time and heartache
+
+01:15:43.505 --> 01:15:48.465
+and just even like self
+loathing that she has saved me
+
+01:15:48.465 --> 01:15:54.450
+from has been so tremendous and I cannot
+recommend working with her enough.
+
+01:15:54.450 --> 01:15:57.650
+I had zero idea what I
+was doing. Zero idea.
+
+01:15:57.650 --> 01:16:01.170
+I had no experience in in
+in building a business and
+
+01:16:01.170 --> 01:16:03.810
+starting a business, in
+how to run a business,
+
+01:16:03.810 --> 01:16:07.330
+and how to market myself,
+and how to grow an audience,
+
+01:16:07.330 --> 01:16:11.185
+and how to, build
+leads and and grow my
+
+01:16:11.185 --> 01:16:14.065
+leads and and to actually get
+clients and actually start
+
+01:16:14.065 --> 01:16:16.065
+making money on my own.
+
+01:16:16.065 --> 01:16:19.265
+And Sarah has literally like
+walked me through the entire
+
+01:16:19.265 --> 01:16:22.545
+process and has kind of held my
+hand the entire way and given
+
+01:16:22.545 --> 01:16:24.925
+me sort of the motivation
+and encouragement
+
+01:16:25.160 --> 01:16:28.360
+to work through all of the
+challenges along the way.
+
+01:16:28.360 --> 01:16:32.360
+And really through her guidance
+and and really expertise,
+
+01:16:32.360 --> 01:16:35.880
+I was able to grow my audience
+by, like, three times the size.
+
+01:16:35.880 --> 01:16:37.960
+And it's happened almost
+every time I've gone to her.
+
+01:16:37.960 --> 01:16:40.645
+I've been able to grow my
+audience with certain little
+
+01:16:40.645 --> 01:16:44.645
+tips that she's given me or
+strategies or pathways to follow.
+
+01:16:44.645 --> 01:16:46.965
+So I would say I wouldn't
+be where I am today.
+
+01:16:46.965 --> 01:16:48.645
+I wouldn't be a business owner.
+
+01:16:48.645 --> 01:16:51.445
+I wouldn't be an entrepreneur
+if it weren't for Sarah.
+
+01:16:51.445 --> 01:16:55.470
+Sarah really helped me use
+my empathy and compassion for my
+
+01:16:55.470 --> 01:16:58.350
+own experience along
+with my professional
+
+01:16:58.350 --> 01:17:02.510
+ethics to support healthy
+business choices that would
+
+01:17:02.510 --> 01:17:06.185
+allow me to truly help
+people who were in need.
+
+01:17:06.185 --> 01:17:09.305
+So her mindset coaching and her
+business guidance around this
+
+01:17:09.305 --> 01:17:12.985
+and so many other things
+really helped me confidently step into
+
+01:17:12.985 --> 01:17:16.025
+my role as the
+painful sex expert.
+
+01:17:16.025 --> 01:17:19.225
+And now Sex Answered is a
+group practice and intervention
+
+01:17:19.225 --> 01:17:22.080
+center with skillful
+therapists, trauma treatment,
+
+01:17:22.080 --> 01:17:24.320
+coaching programs,
+online courses,
+
+01:17:24.320 --> 01:17:28.400
+and we get to work with amazing
+clients who are committed and
+
+01:17:28.400 --> 01:17:29.600
+engaged in the process,
+
+01:17:29.600 --> 01:17:34.320
+which makes our jobs as healers so
+much more sustainable and enjoyable.
+
+01:17:34.320 --> 01:17:37.765
+You know, Sarah is someone
+that's been able to crush
+
+01:17:37.765 --> 01:17:38.885
+limiting beliefs.
+
+01:17:38.885 --> 01:17:43.605
+Whatever's blocking you from
+overcoming your obstacles or, you know,
+
+01:17:43.605 --> 01:17:45.765
+past things that made you
+feel like I can never do it.
+
+01:17:45.765 --> 01:17:46.965
+It's never gonna work for me.
+
+01:17:46.965 --> 01:17:48.565
+No one's gonna
+wanna work with me.
+
+01:17:48.565 --> 01:17:50.440
+Who am I? What do I have to say?
+
+01:17:50.440 --> 01:17:53.160
+Who you know, how
+who's gonna see me?
+
+01:17:53.160 --> 01:17:54.760
+And she just
+crushes all of them.
+
+01:17:54.760 --> 01:17:58.200
+She knows exactly what to do because
+it's more than just, oh, okay.
+
+01:17:58.200 --> 01:18:00.280
+Here's a program or
+here's how to write.
+
+01:18:00.280 --> 01:18:02.280
+It's literally, here's how
+you crush it in your goals,
+
+01:18:02.280 --> 01:18:05.515
+and here's why you
+haven't been in the past.
+
+01:18:05.515 --> 01:18:09.195
+Here's exactly what to do, and
+she's done it a thousand times.
+
+01:18:09.195 --> 01:18:11.355
+Just look at her own
+company and what she does.
+
+01:18:11.355 --> 01:18:14.135
+So I'm extremely grateful.
+
+01:18:14.555 --> 01:18:18.395
+You know, I I'm still benefiting
+from the advice that, you know,
+
+01:18:18.395 --> 01:18:22.080
+I continue to get today and also from
+just that session alone of, like,
+
+01:18:22.080 --> 01:18:24.480
+how to create my own ninety
+day coaching program.
+
+01:18:24.480 --> 01:18:26.080
+So thank you so much,
+Sarah. I love you.
+
+01:18:26.080 --> 01:18:28.960
+If you're on the fence about
+jumping into this community or
+
+01:18:28.960 --> 01:18:30.480
+working with her
+or anything, do it.
+
+01:18:30.480 --> 01:18:32.160
+It literally changed my life.
+
+01:18:32.160 --> 01:18:35.020
+I am my own
+businesswoman today, so
+
+01:18:35.515 --> 01:18:36.955
+I have no stress.
+
+01:18:36.955 --> 01:18:40.715
+I'm living life easy, and and a
+big part of that is because of
+
+01:18:40.715 --> 01:18:41.195
+Sarah.
+
+01:18:41.195 --> 01:18:46.075
+Sarah always overdelivers, so
+I'm sure that this investment,
+
+01:18:46.075 --> 01:18:48.635
+if you're considering
+joining the community,
+
+01:18:48.635 --> 01:18:52.040
+I'm very positive
+that you're going
+
+01:18:52.040 --> 01:18:56.180
+to not regret it and
+get just so much,
+
+01:18:56.600 --> 01:18:57.960
+return on your investment.
+
+01:18:57.960 --> 01:19:00.680
+So, yeah, I can't talk to
+the returner up enough.
+
+01:19:00.680 --> 01:19:03.385
+Again, this is something
+that I felt led to do,
+
+01:19:03.385 --> 01:19:06.505
+and I could easily
+open this new business.
+
+01:19:06.505 --> 01:19:09.945
+I had all the framework already
+laid out for me because Sarah
+
+01:19:09.945 --> 01:19:11.705
+and her team had taught
+me all those things.
+
+01:19:11.705 --> 01:19:14.745
+It wasn't this, what do I
+do next? How do I do it?
+
+01:19:14.745 --> 01:19:17.385
+It was I knew what to
+do. I was confident.
+
+01:19:17.385 --> 01:19:19.510
+I knew all the steps
+I needed to do.
+
+01:19:19.510 --> 01:19:21.430
+I just had to get
+to work and do it.
+
+01:19:21.430 --> 01:19:25.910
+Even if you are someone
+that knows that working for
+
+01:19:25.910 --> 01:19:30.550
+someone else and working
+in the confines of a title
+
+01:19:30.550 --> 01:19:32.950
+or a field is not for you,
+
+01:19:32.950 --> 01:19:36.205
+then working with
+her and her team
+
+01:19:36.705 --> 01:19:39.405
+will just give you all
+the tools that you need.
+
+01:19:39.585 --> 01:19:42.705
+So I can't recommend
+them enough and yeah.
+
+01:19:42.705 --> 01:19:45.345
+Like I said from the
+beginning, not to be dramatic,
+
+01:19:45.345 --> 01:19:49.970
+but maybe to be dramatic, Sarah
+Turner has changed my life.
+
+01:19:49.970 --> 01:19:53.490
+And I tell her that every time
+I talk with her, and it's,
+
+01:19:53.490 --> 01:19:55.250
+like, it's so true.
+
+01:19:55.250 --> 01:19:56.350
+And,
+
+01:19:57.010 --> 01:19:57.410
+yeah.
+
+01:19:57.410 --> 01:19:58.610
+Like, I think she's great,
+
+01:19:58.610 --> 01:20:01.185
+and I think she
+will always, like,
+
+01:20:01.185 --> 01:20:02.385
+have your best interest,
+
+01:20:02.385 --> 01:20:05.745
+and she is someone that
+really wants to just, like,
+
+01:20:05.745 --> 01:20:07.185
+put good out in the world.
+
+01:20:07.185 --> 01:20:10.945
+And if you're on the fence of
+working with her or someone
+
+01:20:10.945 --> 01:20:12.305
+affiliated with her,
+
+01:20:12.305 --> 01:20:15.960
+then I feel like you should definitely
+take that leap if you're able.
+
+01:20:15.960 --> 01:20:20.040
+You are like me. Like, you
+have just no idea what you're doing.
+
+01:20:20.040 --> 01:20:21.320
+You don't know where to start.
+
+01:20:21.320 --> 01:20:23.240
+You don't know how to
+be a business owner,
+
+01:20:23.240 --> 01:20:25.080
+how to run a business,
+how to start a business,
+
+01:20:25.080 --> 01:20:27.380
+how to navigate the
+whole experience
+
+01:20:27.480 --> 01:20:29.080
+of being an entrepreneur.
+
+01:20:29.080 --> 01:20:30.315
+Sarah is for you.
+
+01:20:30.315 --> 01:20:32.555
+I would a hundred percent
+do it all over again,
+
+01:20:32.555 --> 01:20:34.635
+and I would a hundred
+percent recommend her.
+
+01:20:34.635 --> 01:20:35.675
+And, and really,
+
+01:20:35.675 --> 01:20:39.936
+I think that's why I'm I'm I'm
+giving out this testimonial
+
+01:20:39.936 --> 01:20:42.416
+because I wouldn't be where
+I am today if it weren't for
+
+01:20:42.416 --> 01:20:43.516
+Sarah.
+
+---
+
+## 🤖 ChatGPT
+
+Got it — I have the full transcript.  
+Before I do anything with it, I need **one clear instruction** so I don’t guess or waste your time.
+
+What do you want me to do with this?
+
+**Pick one (or say a different goal):**
+1. **Executive summary** (tight, persuasive, skimmable)
+2. **Sales page / VSL script rewrite**
+3. **Outline + curriculum extraction** (modules, lessons, outcomes)
+4. **Offer teardown** (positioning, gaps, objections, improvements)
+5. **Short-form content extraction** (hooks, reels, emails)
+6. **Cleaned + tightened transcript** (remove fluff, repetition)
+7. **Compliance / claims audit** (risk, exaggerations, fixes)
+8. **Something else** (tell me exactly)
+
+One answer. I’ll execute cleanly.
+
+---
+
+## 👤 You
+
+summary, the intent is to get help with building the course content for Ascend Prime Wealth to be aligned with a multi 8 figure+ program
+
+---
+
+## 🤖 ChatGPT
+
+Here’s a **clean, executive summary** of the transcript — framed **specifically** to guide building **Ascend Prime Wealth (APW)** into a **multi-8-figure+ caliber program**.
+
+---
+
+## Ascend Prime Wealth — Master-Level Summary & Direction
+
+### Core Intent
+Build a **high-integrity, premium education + execution system** that helps people **consistently access funding, structure wealth, and scale financial capacity**, while positioning APW alongside **top-tier ($25M–$100M+) education companies**.
+
+---
+
+## The One Problem APW Solves
+**People want capital and financial leverage, but lack:**
+- Correct structure  
+- Repeatable systems  
+- Strategic sequencing  
+- Confidence + execution guidance  
+
+APW is not “credit tips.”  
+It is **financial infrastructure mastery**.
+
+---
+
+## What Makes Multi-8-Figure Programs Different (Key Insight)
+Top programs do **not**:
+- Dump information  
+- Teach hacks  
+- Rely on motivation  
+
+They **do**:
+- Teach *decision-making frameworks*
+- Enforce sequencing and prerequisites
+- Control scope tightly
+- Engineer outcomes through structure, not hope
+
+---
+
+## Required Positioning Shift for APW
+APW must be positioned as:
+
+> **“A capital-readiness and funding infrastructure system — not a credit course.”**
+
+That single distinction elevates it into:
+- Private equity thinking  
+- Institutional readiness  
+- High-trust, high-ticket territory  
+
+---
+
+## Core Pillars APW Must Teach (Non-Negotiable)
+
+### 1. **Identity & Financial Operating System**
+- Personal vs business vs entity separation
+- Role clarity (owner, operator, guarantor)
+- Risk containment and credibility
+
+This is **Day 1** — not optional.
+
+---
+
+### 2. **Structural Readiness**
+- Entity setup done *for funding*, not legality alone
+- Banking relationships as leverage points
+- Documentation hygiene (addresses, records, consistency)
+
+This is where most people fail — and where APW wins.
+
+---
+
+### 3. **Capital Access Logic**
+- How lenders actually evaluate risk
+- Automated vs manual underwriting
+- Why “denials” are often structural, not personal
+
+Teach **how money thinks**, not where to apply.
+
+---
+
+### 4. **Sequencing & Timing**
+- What to do **before** applying
+- What unlocks higher limits
+- How timing impacts approvals more than credit scores
+
+This is the **hidden advantage** of elite programs.
+
+---
+
+### 5. **Execution & Verification**
+- Checklists instead of motivation
+- Green / Yellow readiness indicators
+- Probability-based outcomes (not guarantees)
+
+This is how APW stays ethical and scalable.
+
+---
+
+## What Must Be Removed or De-Emphasized
+To reach multi-8-figure level, APW must **avoid**:
+- Over-indexing on tactics (lists, hacks, loopholes)
+- Overpromising outcomes
+- Teaching everything at once
+- Treating beginners and advanced users the same
+
+**Precision beats volume.**
+
+---
+
+## Ideal Course Architecture (High-Level)
+APW should be structured as:
+- **Few modules, deep mastery**
+- **Clear gates to progress**
+- **Verification checklists instead of “scorecards”**
+- **Optional acceleration paths (not mandatory upsells)**
+
+This mirrors how elite education companies scale without chaos.
+
+---
+
+## The Real Value Proposition
+APW is not:
+> “We help you get funded.”
+
+APW is:
+> **“We engineer your financial profile so capital flows to you repeatedly, predictably, and ethically.”**
+
+That message supports:
+- Higher pricing
+- Lower refunds
+- Stronger testimonials
+- Long-term brand equity
+
+---
+
+## Bottom Line
+This transcript **does align** with a multi-8-figure vision **if** APW:
+- Sharpens scope
+- Elevates language
+- Enforces sequencing
+- Sells structure, not shortcuts
+
+If you want next steps, I can:
+- Translate this into **exact modules**
+- Map **APW → $25M+ benchmark programs**
+- Design the **verification checklist system**
+- Rewrite the **core positioning promise**
+
+Just say which one.
+
+---

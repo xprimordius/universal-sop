@@ -1,0 +1,298 @@
+---
+title: MOC - Sales & Marketing
+type: index
+tags:
+  - index
+  - moc
+---
+
+# MOC - Sales & Marketing
+
+231 conversations  ·  56 Claude / 175 ChatGPT
+
+_🟣 Claude  ·  🟢 ChatGPT_
+
+---
+
+## High-signal (Layer-2 extraction queue)
+
+- 🟢 `2024-12-15` [[2024-12-15 - Legitimacy of Wholesaling Program|Legitimacy of Wholesaling Program]]  #alan #legal #sales #high-signal
+- 🟢 `2025-05-29` [[2025-05-29 - Ivo AI Contract Review|Ivo AI Contract Review]]  #alan #contracts #instagram #legal #marketing #high-signal
+- 🟢 `2025-06-14` [[2025-06-14 - Emotional Reset Strategy|Emotional Reset Strategy]]  #alan #marketing #high-signal
+- 🟢 `2025-09-24` [[2025-09-24 - Viral follow-up script|Viral follow-up script]]  #alan #copywriting #instagram #marketing #high-signal
+- 🟢 `2025-09-25` [[2025-09-25 - Instagram post draft|Instagram post draft]]  #alan #instagram #marketing #high-signal
+- 🟢 `2025-09-28` [[2025-09-28 - Video content strategy|Video content strategy]]  #alan #copywriting #high-signal
+- 🟢 `2025-10-17` [[2025-10-17 - Instagram caption creation|Instagram caption creation]]  #alan #copywriting #instagram #marketing #high-signal
+- 🟢 `2025-12-30` [[2025-12-30 - Overcoming Subconscious Blocks|Overcoming Subconscious Blocks]]  #alan #copywriting #mindset #high-signal
+- 🟢 `2026-01-27` [[2026-01-27 - Ascend Credit Grand Slam|Ascend Credit Grand Slam]]  #alan #offer-design #sales #high-signal
+- 🟢 `2026-02-17` [[2026-02-17 - Marketing-First Program Confusion|Marketing-First Program Confusion]]  #alan #apw #copywriting #marketing #ops #sales #teaching #vsl #high-signal
+- 🟢 `2026-02-24` [[2026-02-24 - LLC Tax Benefits Strategy|LLC Tax Benefits Strategy]]  #alan #branding #legal #high-signal
+- 🟢 `2026-02-28` [[2026-02-28 - Exec Summary Request|Exec Summary Request]]  #alan #marketing #high-signal
+- 🟣 `2026-02-28` [[2026-02-28 - Evaluating funding offer value equation|Evaluating funding offer value equation]]  #alan #funding #offer-design #sales #high-signal
+- 🟣 `2026-03-01` [[2026-03-01 - Optimized course wireframe for 7-day fast start program|Optimized course wireframe for 7-day fast start program]]  #alan #apw #branding #credit #curriculum #funding #teaching #utilization #high-signal
+- 🟣 `2026-03-01` [[2026-03-01 - Ascend Prime Wealth curriculum for medical practice owners|Ascend Prime Wealth curriculum for medical practice owners]]  #alan #apw #branding #credit #curriculum #funding #personal-credit #teaching #utilization #high-signal
+- 🟣 `2026-03-02` [[2026-03-02 - Reframing bank complaint for regulatory examination|Reframing bank complaint for regulatory examination]]  #alan #chargeback #dispute #legal #sales #scam #high-signal
+- 🟣 `2026-03-09` [[2026-03-09 - Memory update review|Memory update review]]  #alan #apw #bloodwork #business-credit #copywriting #credit #dj-music #finance #fitness #funding #health #hiring #marketing #meta-ads #sales #scio #supplements #teaching #high-signal
+- 🟢 `2026-03-12` [[2026-03-12 - Streaming Revenue Strategy|Streaming Revenue Strategy]]  #alan #copywriting #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Building the ultimate Claude project instructions framework|Building the ultimate Claude project instructions framework]]  #alan #ai-workflow #apw #sales #sales-framework #teaching #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Caching and file creation for process mastery|Caching and file creation for process mastery]]  #alan #ai-workflow #apw #sales #sales-framework #teaching #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Constantine's four-phase sales framework|Constantine's four-phase sales framework]]  #alan #apw #sales #sales-framework #high-signal
+- 🟣 `2026-03-20` [[2026-03-20 - Sailing versus real estate careers|Sailing versus real estate careers]]  #alan #apw #legal #networking #sales #high-signal
+- 🟣 `2026-03-23` [[2026-03-23 - Funding timeline breakdown- blitz vs prime protocol paths|Funding timeline breakdown: blitz vs prime protocol paths]]  #alan #ai-workflow #apw #blitz #branding #business-credit #credit #funding #ops #prime-protocol #utilization #high-signal
+- 🟣 `2026-03-27` [[2026-03-27 - Uploading large ChatGPT data exports|Uploading large ChatGPT data exports]]  #alan #ai-workflow #apw #blitz #cfpb #chargeback #contracts #credit #dbfi #dispute #dj-music #fib #funding #health #legal #marketing #meta-ads #ops #scio #supplements #surgery #travel #high-signal
+- 🟣 `2026-03-30` [[2026-03-30 - Legal demand letter for post removal|Legal demand letter for post removal]]  #alan #demand-letter #dispute #legal #sales #tech #high-signal
+- 🟣 `2026-03-31` [[2026-03-31 - Slide Decks SCIO x CCA|Slide Decks SCIO x CCA]]  #alan #apw #cca #copywriting #dsl #funding #hiring #sales #scio #vsl #high-signal
+- 🟣 `2026-04-02` [[2026-04-02 - UGC creator video agreement terms|UGC creator video agreement terms]]  #alan #apw #legal #marketing #sales #ugc #vsl #high-signal
+- 🟣 `2026-04-02` [[2026-04-02 - Comparing two things|Comparing two things]]  #alan #apw #funding #legal #sales #vsl #high-signal
+- 🟣 `2026-04-04` [[2026-04-04 - Credit approval data points by priority|Credit approval data points by priority]]  #alan #apw #business-credit #credit #curriculum #dsl #funding #sales #teaching #high-signal
+- 🟣 `2026-04-05` [[2026-04-05 - Corporate credit reporting and personal liability separation|Corporate credit reporting and personal liability separation]]  #alan #business-credit #credit #legal #ops #sales #sop #tradeline #high-signal
+- 🟣 `2026-04-05` [[2026-04-05 - Complete checklist and framework flow|Complete checklist and framework flow]]  #alan #apw #dsl #ops #sales #scio #vsl #high-signal
+- 🟣 `2026-04-06` [[2026-04-06 - 💬 Help me create the best IG ree…|💬 Help me create the best IG ree…]]  #alan #apw #copywriting #credit #funding #instagram #marketing #ops #sales #vsl #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - VSL sales script optimization and competitive analysis|VSL sales script optimization and competitive analysis]]  #alan #apw #cca #copywriting #dsl #instagram #marketing #meta-ads #ops #sales #scio #vsl #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - Trinity by Interstellar Blend use case|Trinity by Interstellar Blend use case]]  #alan #apw #health #sales #supplements #vsl #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - SCIO 7-8 figure training checklist|SCIO 7-8 figure training checklist]]  #alan #apw #copywriting #dsl #funding #hiring #legal #sales #scio #vsl #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Alex Hormozi naming formula|Alex Hormozi naming formula]]  #alan #apw #blitz #branding #copywriting #funding #health #hiring #prime-protocol #scio #surgery #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Missing chat about DSL slides with artifacts|Missing chat about DSL slides with artifacts]]  #alan #apw #dsl #funding #sales #scio #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Saving progress before context limit|Saving progress before context limit]]  #alan #ai-workflow #apw #dsl #funding #sales #scio #vsl #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Memory update review|Memory update review]]  #alan #apw #blitz #business-credit #cfpb #credit #dbfi #dispute #dj-music #dsl #fib #fitness #funding #health #instagram #legal #marketing #prime-protocol #reg-z #sales #scio #supplements #tech #vsl #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Continuing previous chat with context|Continuing previous chat with context]]  #alan #apw #dsl #ops #sales #sop #teaching #high-signal
+- 🟣 `2026-04-16` [[2026-04-16 - SOP fidelity and AI fabrication issues|SOP fidelity and AI fabrication issues]]  #alan #apw #copywriting #instagram #legal #marketing #ops #sales-framework #sop #high-signal
+- 🟣 `2026-04-16` [[2026-04-16 - Building intuitive mastery through step-by-step learning|Building intuitive mastery through step-by-step learning]]  #alan #apw #dispute #legal #marketing #mindset #sales #scam #high-signal
+- 🟣 `2026-04-20` [[2026-04-20 - Exporting APW notes to Obsidian with animated grid visualization|Exporting APW notes to Obsidian with animated grid visualization]]  #alan #ai-workflow #apw #blitz #curriculum #dsl #funding #legal #marketing #prime-protocol #sales #scio #teaching #ugc #vsl #high-signal
+- 🟣 `2026-04-21` [[2026-04-21 - CFPB complaint against DBFI for unlawful chargeback denial-3|CFPB complaint against DBFI for unlawful chargeback denial]]  #alan #branding #cfpb #chargeback #copywriting #dbfi #dispute #domains #fib #hiring #legal #legal-tech #payments #reg-z #high-signal
+- 🟣 `2026-04-22` [[2026-04-22 - Balancing personal obligations with business deadlines|Balancing personal obligations with business deadlines]]  #alan #apw #cca #funding #instagram #marketing #ops #sales #sales-framework #sop #vsl #high-signal
+- 🟣 `2026-05-05` [[2026-05-05 - Seeking legal and tech mentorship|Seeking legal and tech mentorship]]  #josephine #faegre #legal-tech #networking #procurement #sales #high-signal
+
+## All conversations
+
+- 🟢 `2024-06-20` [[2024-06-20 - Opening Line Crafting Success|Opening Line Crafting Success]]  #alan #copywriting
+- 🟢 `2024-06-22` [[2024-06-22 - Targeting EDM Artists Strategically|Targeting EDM Artists Strategically]]  #alan #instagram #marketing #networking #teaching
+- 🟢 `2024-08-01` [[2024-08-01 - Billion Dollar Copywriting Summary|Billion Dollar Copywriting Summary]]  #alan #copywriting
+- 🟢 `2024-08-01` [[2024-08-01 - FBI Investigation Request Summary|FBI Investigation Request Summary]]  #alan #credit #dispute #networking #payments #sales #scam
+- 🟢 `2024-08-01` [[2024-08-01 - Online Scam Exposed|Online Scam Exposed]]  #alan #dispute #legal #networking #payments #sales #scam
+- 🟢 `2024-08-03` [[2024-08-03 - Impact of Closing Account|Impact of Closing Account]]  #alan #sales
+- 🟢 `2024-08-03` [[2024-08-03 - Credit Dispute Letter Template|Credit Dispute Letter Template]]  #alan #cfpb #credit #dispute #legal #sales
+- 🟢 `2024-08-06` [[2024-08-06 - US Home Count 2024|US Home Count 2024]]  #alan #sales
+- 🟢 `2024-08-17` [[2024-08-17 - Preds vs Bronzes Viability|Preds vs Bronzes Viability]]  #alan #sales
+- 🟢 `2024-08-23` [[2024-08-23 - Minimizing Invoice Processing Fees|Minimizing Invoice Processing Fees]]  #alan #branding #domains #legal #payments
+- 🟢 `2024-09-01` [[2024-09-01 - Summarize Conversation Title|Summarize Conversation Title]]  #alan #branding #domains
+- 🟢 `2024-09-04` [[2024-09-04 - DBAs and Corporate Structure|DBAs and Corporate Structure]]  #alan #branding #domains
+- 🟢 `2024-09-18` [[2024-09-18 - Settlement Negotiation Response Draft|Settlement Negotiation Response Draft]]  #alan #negotiation #sales
+- 🟢 `2024-10-17` [[2024-10-17 - High pitched car noise|High pitched car noise]]  #alan #sales
+- 🟢 `2024-10-20` [[2024-10-20 - Business Logo Design Request|Business Logo Design Request]]  #alan #branding
+- 🟢 `2024-10-29` [[2024-10-29 - Professional Domain Name Comparison|Professional Domain Name Comparison]]  #alan #branding #credit #domains
+- 🟢 `2024-11-06` [[2024-11-06 - Remove Hard Inquiries Guide|Remove Hard Inquiries Guide]]  #alan #sales
+- 🟢 `2024-11-18` [[2024-11-18 - Airbnb Pitch Script Help|Airbnb Pitch Script Help]]  #alan #sales
+- 🟢 `2024-11-24` [[2024-11-24 - Free Instagram Video Transcriber|Free Instagram Video Transcriber]]  #alan #instagram #marketing
+- 🟢 `2024-12-08` [[2024-12-08 - Logo Design Request|Logo Design Request]]  #alan #branding
+- 🟢 `2024-12-09` [[2024-12-09 - Logo design request|Logo design request]]  #alan #branding
+- 🟢 `2024-12-09` [[2024-12-09 - Closing Kikoff Early Impact|Closing Kikoff Early Impact]]  #alan #sales
+- 🟢 `2024-12-14` [[2024-12-14 - PITI Cash Flow Analysis|PITI Cash Flow Analysis]]  #alan #sales
+- 🟢 `2024-12-15` [[2024-12-15 - Legitimacy of Wholesaling Program|Legitimacy of Wholesaling Program]]  #alan #legal #sales #high-signal
+- 🟢 `2024-12-16` [[2024-12-16 - White Label Protein Options|White Label Protein Options]]  #alan #branding #fitness #health #supplements
+- 🟢 `2024-12-18` [[2024-12-18 - Vortex Water Claims Explained|Vortex Water Claims Explained]]  #alan #sales
+- 🟢 `2024-12-18` [[2024-12-18 - Legal Risks in Videos|Legal Risks in Videos]]  #alan #copywriting #fitness #health #instagram #marketing #mindset
+- 🟢 `2024-12-23` [[2024-12-23 - Singing Apps with Pitch Feedback|Singing Apps with Pitch Feedback]]  #alan #sales
+- 🟢 `2024-12-28` [[2024-12-28 - Hypnotic Job Application Email|Hypnotic Job Application Email]]  #alan #hiring #networking #sales
+- 🟢 `2025-01-15` [[2025-01-15 - PNC Sublease Address Verification|PNC Sublease Address Verification]]  #alan #branding #domains
+- 🟢 `2025-01-17` [[2025-01-17 - Total cost summary|Total cost summary]]  #alan #copywriting
+- 🟢 `2025-01-31` [[2025-01-31 - Twitch Expenses Tax Deductions|Twitch Expenses Tax Deductions]]  #alan #finance #instagram #marketing
+- 🟢 `2025-02-14` [[2025-02-14 - Valentine's Day Pickup Line|Valentine's Day Pickup Line]]  #alan #instagram #marketing #travel
+- 🟢 `2025-02-27` [[2025-02-27 - Windows Cloud Assessment Overview|Windows Cloud Assessment Overview]]  #alan #instagram #marketing #procurement
+- 🟢 `2025-03-18` [[2025-03-18 - Understanding Jesus' Atonement Models|Understanding Jesus' Atonement Models]]  #alan #copywriting
+- 🟢 `2025-03-19` [[2025-03-19 - Fair Accountability Discussion|Fair Accountability Discussion]]  #alan #copywriting
+- 🟢 `2025-04-11` [[2025-04-11 - Eloise the Lion Roar|Eloise the Lion Roar]]  #alan #instagram #marketing
+- 🟢 `2025-04-20` [[2025-04-20 - Easter Bunny Message|Easter Bunny Message]]  #alan #instagram #marketing
+- 🟢 `2025-04-28` [[2025-04-28 - Self-Partner Insight Mastery|Self-Partner Insight Mastery]]  #alan #copywriting
+- 🟢 `2025-05-06` [[2025-05-06 - Credit Data Organization|Credit Data Organization]]  #alan #credit #personal-credit #sales #utilization
+- 🟢 `2025-05-06` [[2025-05-06 - Credit Report Formatting|Credit Report Formatting]]  #alan #credit #personal-credit #sales #utilization
+- 🟢 `2025-05-08` [[2025-05-08 - Hide Following on IG|Hide Following on IG]]  #alan #instagram #marketing
+- 🟢 `2025-05-10` [[2025-05-10 - Hide Followers on Instagram|Hide Followers on Instagram]]  #alan #instagram #marketing
+- 🟢 `2025-05-11` [[2025-05-11 - Formula Creation Request|Formula Creation Request]]  #alan #copywriting
+- 🟢 `2025-05-14` [[2025-05-14 - Website Funding Optimization Guide|Website Funding Optimization Guide]]  #alan #branding #domains
+- 🟢 `2025-05-14` [[2025-05-14 - How to get verified|How to get verified]]  #alan #instagram #marketing
+- 🟢 `2025-05-14` [[2025-05-14 - Quantum Collapse and Time|Quantum Collapse and Time]]  #alan #marketing
+- 🟢 `2025-05-16` [[2025-05-16 - Payment Plan Proposal|Payment Plan Proposal]]  #alan #marketing
+- 🟢 `2025-05-16` [[2025-05-16 - Terima kasih dan penjelasan|Terima kasih dan penjelasan]]  #alan #instagram #marketing
+- 🟢 `2025-05-17` [[2025-05-17 - Business Funding Prep Tasks|Business Funding Prep Tasks]]  #alan #business-credit #credit #funding #sales
+- 🟢 `2025-05-17` [[2025-05-17 - Foreign Qualification for Funding|Foreign Qualification for Funding]]  #alan #address-strategy #branding #domains #funding #legal
+- 🟢 `2025-05-25` [[2025-05-25 - Prismatic Business Description|Prismatic Business Description]]  #alan #apw #branding #domains #funding #scio
+- 🟢 `2025-05-28` [[2025-05-28 - Prismatic LLC Revenue Breakdown|Prismatic LLC Revenue Breakdown]]  #alan #branding #domains #sales
+- 🟢 `2025-05-29` [[2025-05-29 - Ivo AI Contract Review|Ivo AI Contract Review]]  #alan #contracts #instagram #legal #marketing #high-signal
+- 🟢 `2025-05-29` [[2025-05-29 - Authentic Testimonials for Prismatic|Authentic Testimonials for Prismatic]]  #alan #branding #domains
+- 🟢 `2025-05-29` [[2025-05-29 - Gmail Business Logo Setup|Gmail Business Logo Setup]]  #alan #branding
+- 🟢 `2025-06-03` [[2025-06-03 - Red Flags in Terms|Red Flags in Terms]]  #alan #branding
+- 🟢 `2025-06-09` [[2025-06-09 - Income Verification Clarification|Income Verification Clarification]]  #alan #branding #credit #domains #finance
+- 🟢 `2025-06-14` [[2025-06-14 - Emotional Reset Strategy|Emotional Reset Strategy]]  #alan #marketing #high-signal
+- 🟢 `2025-06-15` [[2025-06-15 - Happy Dad's Day Post|Happy Dad's Day Post]]  #alan #instagram #marketing #teaching
+- 🟢 `2025-06-24` [[2025-06-24 - Token Count Summary|Token Count Summary]]  #alan #sales
+- 🟢 `2025-06-24` [[2025-06-24 - Wealth Beneath Your Feet Insights|Wealth Beneath Your Feet Insights]]  #alan #sales
+- 🟢 `2025-06-25` [[2025-06-25 - High Contrast Portrait Request|High Contrast Portrait Request]]  #alan #instagram #marketing
+- 🟢 `2025-06-30` [[2025-06-30 - Kids Photo Captions|Kids Photo Captions]]  #alan #copywriting
+- 🟢 `2025-07-04` [[2025-07-04 - 4th of July Caption|4th of July Caption]]  #alan #copywriting #instagram #marketing
+- 🟢 `2025-07-06` [[2025-07-06 - Fourth of July Fun|Fourth of July Fun]]  #alan #instagram #marketing
+- 🟢 `2025-07-08` [[2025-07-08 - TC Fee Explained|TC Fee Explained]]  #alan #legal #sales
+- 🟢 `2025-07-13` [[2025-07-13 - Balance Sheet vs P&L|Balance Sheet vs P&L]]  #alan #branding #domains #legal
+- 🟢 `2025-07-17` [[2025-07-17 - SIRT-1 longevity activation|SIRT-1 longevity activation]]  #alan #branding #supplements
+- 🟢 `2025-07-17` [[2025-07-17 - Instagram bio revision|Instagram bio revision]]  #alan #instagram #marketing
+- 🟢 `2025-07-23` [[2025-07-23 - Pine pollen consumption advice|Pine pollen consumption advice]]  #alan #sales #supplements
+- 🟢 `2025-07-25` [[2025-07-25 - Sing like Nevertel|Sing like Nevertel]]  #alan #sales
+- 🟢 `2025-07-30` [[2025-07-30 - AI creator marketplace review|AI creator marketplace review]]  #alan #instagram #marketing
+- 🟢 `2025-07-30` [[2025-07-30 - Invisalign vs Braces cost|Invisalign vs Braces cost]]  #alan #branding #business-credit #credit #domains
+- 🟢 `2025-08-05` [[2025-08-05 - Karina situation analysis|Karina situation analysis]]  #alan #instagram #marketing
+- 🟢 `2025-08-09` [[2025-08-09 - Storm or atmospheric lightning|Storm or atmospheric lightning]]  #alan #instagram #marketing #tech
+- 🟢 `2025-08-10` [[2025-08-10 - Electric hookup clarification|Electric hookup clarification]]  #alan #copywriting
+- 🟢 `2025-08-14` [[2025-08-14 - Instagram location settings|Instagram location settings]]  #alan #instagram #marketing
+- 🟢 `2025-08-17` [[2025-08-17 - Dismissal and guilt-tripping analysis|Dismissal and guilt-tripping analysis]]  #alan #sales
+- 🟢 `2025-08-17` [[2025-08-17 - Codenames clue suggestions|Codenames clue suggestions]]  #alan #copywriting
+- 🟢 `2025-08-18` [[2025-08-18 - Create image of conversation|Create image of conversation]]  #alan #instagram #marketing
+- 🟢 `2025-08-18` [[2025-08-18 - Avoidant tendencies and ego defenses|Avoidant tendencies and ego defenses]]  #alan #marketing
+- 🟢 `2025-08-23` [[2025-08-23 - Email to Tesla complaint|Email to Tesla complaint]]  #alan #sales
+- 🟢 `2025-08-25` [[2025-08-25 - Tesla vlogs to 5K+|Tesla vlogs to 5K+]]  #alan #copywriting #marketing
+- 🟢 `2025-08-28` [[2025-08-28 - Bank crypto purchase policy|Bank crypto purchase policy]]  #alan #sales
+- 🟢 `2025-08-30` [[2025-08-30 - Free Instagram transcription tools|Free Instagram transcription tools]]  #alan #instagram #marketing
+- 🟢 `2025-09-03` [[2025-09-03 - Torque conversion Nm to lbs|Torque conversion Nm to lbs]]  #alan #sales
+- 🟢 `2025-09-16` [[2025-09-16 - Range Rover Sport dimensions|Range Rover Sport dimensions]]  #alan #copywriting
+- 🟢 `2025-09-20` [[2025-09-20 - Mass unfollow Instagram|Mass unfollow Instagram]]  #alan #instagram #marketing
+- 🟢 `2025-09-23` [[2025-09-23 - AI B-roll tools|AI B-roll tools]]  #alan #instagram #marketing
+- 🟢 `2025-09-23` [[2025-09-23 - Fix CapCut preset issue|Fix CapCut preset issue]]  #alan #copywriting
+- 🟢 `2025-09-24` [[2025-09-24 - Viral follow-up script|Viral follow-up script]]  #alan #copywriting #instagram #marketing #high-signal
+- 🟢 `2025-09-24` [[2025-09-24 - Shadowban posting frequency|Shadowban posting frequency]]  #alan #instagram #marketing
+- 🟢 `2025-09-24` [[2025-09-24 - Instagram video safe zones|Instagram video safe zones]]  #alan #instagram #marketing
+- 🟣 `2025-09-24` [[2025-09-24 - Credit funding community viral marketing|Credit funding community viral marketing]]  #alan #marketing
+- 🟢 `2025-09-24` [[2025-09-24 - Hide Instagram post likes|Hide Instagram post likes]]  #alan #instagram #marketing
+- 🟢 `2025-09-25` [[2025-09-25 - Instagram post draft|Instagram post draft]]  #alan #instagram #marketing #high-signal
+- 🟢 `2025-09-26` [[2025-09-26 - Ascend credit risk analysis|Ascend credit risk analysis]]  #alan #branding #credit #fitness #health
+- 🟢 `2025-09-26` [[2025-09-26 - Scheduling Instagram Reel Issues|Scheduling Instagram Reel Issues]]  #alan #instagram #marketing
+- 🟢 `2025-09-27` [[2025-09-27 - iPhone vs Pixel vs DSLR|iPhone vs Pixel vs DSLR]]  #alan #apw #dsl #sales
+- 🟢 `2025-09-28` [[2025-09-28 - Video content strategy|Video content strategy]]  #alan #copywriting #high-signal
+- 🟢 `2025-09-30` [[2025-09-30 - View private Instagram posts|View private Instagram posts]]  #alan #instagram #marketing
+- 🟢 `2025-10-03` [[2025-10-03 - Hypnotic hook modification|Hypnotic hook modification]]  #alan #copywriting
+- 🟢 `2025-10-04` [[2025-10-04 - Burning money plan|Burning money plan]]  #alan #copywriting #mindset
+- 🟢 `2025-10-07` [[2025-10-07 - Best running earbuds|Best running earbuds]]  #alan #copywriting
+- 🟢 `2025-10-09` [[2025-10-09 - AI audio editing tools|AI audio editing tools]]  #alan #instagram #marketing
+- 🟢 `2025-10-12` [[2025-10-12 - Best 4K120 cameras|Best 4K120 cameras]]  #alan #instagram #marketing
+- 🟢 `2025-10-14` [[2025-10-14 - Kevin Trudeau manifestation technique|Kevin Trudeau manifestation technique]]  #alan #sales
+- 🟢 `2025-10-14` [[2025-10-14 - Product ingredients inquiry|Product ingredients inquiry]]  #alan #copywriting
+- 🟢 `2025-10-15` [[2025-10-15 - Instagram caption creation|Instagram caption creation]]  #alan #copywriting #instagram #marketing #mindset
+- 🟢 `2025-10-15` [[2025-10-15 - Best settings for Instagram|Best settings for Instagram]]  #alan #instagram #marketing
+- 🟢 `2025-10-15` [[2025-10-15 - Lens comparison|Lens comparison]]  #alan #instagram #marketing
+- 🟢 `2025-10-16` [[2025-10-16 - Inspiration vs motivation|Inspiration vs motivation]]  #alan #copywriting #mindset
+- 🟢 `2025-10-17` [[2025-10-17 - Instagram caption creation|Instagram caption creation]]  #alan #copywriting #instagram #marketing #high-signal
+- 🟢 `2025-10-17` [[2025-10-17 - Hypnotic hook for credit|Hypnotic hook for credit]]  #alan #copywriting
+- 🟢 `2025-10-17` [[2025-10-17 - Caption ideas for reel|Caption ideas for reel]]  #alan #copywriting
+- 🟢 `2025-10-17` [[2025-10-17 - Funny caption creation|Funny caption creation]]  #alan #copywriting
+- 🟢 `2025-10-19` [[2025-10-19 - Algorithm accuracy discussion|Algorithm accuracy discussion]]  #alan #marketing
+- 🟢 `2025-10-21` [[2025-10-21 - Plan for funding offer|Plan for funding offer]]  #alan #funding #instagram #marketing
+- 🟢 `2025-10-22` [[2025-10-22 - Email media pass request|Email media pass request]]  #alan #instagram #marketing
+- 🟢 `2025-10-26` [[2025-10-26 - Subconscious mind principles|Subconscious mind principles]]  #alan #mindset #sales
+- 🟢 `2025-10-27` [[2025-10-27 - Bleeding with IUD|Bleeding with IUD]]  #alan #sales
+- 🟢 `2025-11-01` [[2025-11-01 - Best photo upload sites|Best photo upload sites]]  #alan #instagram #marketing
+- 🟢 `2025-11-15` [[2025-11-15 - Exporting for Capcut|Exporting for Capcut]]  #alan #instagram #marketing
+- 🟢 `2025-11-15` [[2025-11-15 - Unlink Instagram from Facebook|Unlink Instagram from Facebook]]  #alan #instagram #marketing
+- 🟢 `2025-11-19` [[2025-11-19 - LinkedIn message writing|LinkedIn message writing]]  #alan #copywriting #networking
+- 🟢 `2025-11-27` [[2025-11-27 - License plate visibility options|License plate visibility options]]  #alan #copywriting
+- 🟢 `2025-12-02` [[2025-12-02 - Translate to IG caption|Translate to IG caption]]  #alan #copywriting #instagram #marketing
+- 🟢 `2025-12-02` [[2025-12-02 - Instagram audio issue fix|Instagram audio issue fix]]  #alan #instagram #marketing
+- 🟢 `2025-12-02` [[2025-12-02 - Communicating coverage details|Communicating coverage details]]  #alan #health #instagram #marketing #supplements
+- 🟢 `2025-12-04` [[2025-12-04 - Instagram post caption|Instagram post caption]]  #alan #copywriting #instagram #marketing
+- 🟢 `2025-12-04` [[2025-12-04 - Hypnotic EDM video hooks|Hypnotic EDM video hooks]]  #alan #copywriting #dj-music #instagram #marketing
+- 🟢 `2025-12-18` [[2025-12-18 - Time tracking tools|Time tracking tools]]  #alan #mindset #sales
+- 🟢 `2025-12-18` [[2025-12-18 - Outcompete funding offers|Outcompete funding offers]]  #alan #funding #networking #offer-design #sales
+- 🟢 `2025-12-23` [[2025-12-23 - Manifestation Vision Statement|Manifestation Vision Statement]]  #alan #faegre #legal-tech #marketing #procurement
+- 🟢 `2025-12-25` [[2025-12-25 - Navy Federal Down Payment Assistance|Navy Federal Down Payment Assistance]]  #alan #sales
+- 🟢 `2025-12-28` [[2025-12-28 - Effective vs Ineffective Action|Effective vs Ineffective Action]]  #alan #branding #hiring #marketing
+- 🟢 `2025-12-30` [[2025-12-30 - Overcoming Subconscious Blocks|Overcoming Subconscious Blocks]]  #alan #copywriting #mindset #high-signal
+- 🟢 `2025-12-30` [[2025-12-30 - Home Purchase Tax Deductions|Home Purchase Tax Deductions]]  #alan #finance #sales
+- 🟢 `2026-01-01` [[2026-01-01 - 2026 Manifestation Rewrite|2026 Manifestation Rewrite]]  #alan #faegre #legal-tech #marketing #procurement
+- 🟢 `2026-01-05` [[2026-01-05 - Section 8 Mentorship Reality|Section 8 Mentorship Reality]]  #alan #instagram #marketing #networking
+- 🟢 `2026-01-07` [[2026-01-07 - EDM Artist Instagram Followers|EDM Artist Instagram Followers]]  #alan #instagram #marketing
+- 🟢 `2026-01-14` [[2026-01-14 - Shirt Bust Enhancement Hooks|Shirt Bust Enhancement Hooks]]  #alan #copywriting
+- 🟢 `2026-01-16` [[2026-01-16 - Logo Brand Rating Analysis|Logo Brand Rating Analysis]]  #alan #branding
+- 🟢 `2026-01-24` [[2026-01-24 - DSLR Lighting Comparison|DSLR Lighting Comparison]]  #alan #apw #dsl #sales
+- 🟢 `2026-01-27` [[2026-01-27 - Ascend Credit Grand Slam|Ascend Credit Grand Slam]]  #alan #offer-design #sales #high-signal
+- 🟢 `2026-01-27` [[2026-01-27 - Camera mount setup guide|Camera mount setup guide]]  #alan #apw #dsl #sales
+- 🟢 `2026-02-03` [[2026-02-03 - AI Image Editing Request|AI Image Editing Request]]  #alan #branding
+- 🟢 `2026-02-05` [[2026-02-05 - Personal Credit Snapshot|Personal Credit Snapshot]]  #alan #credit #fib #personal-credit #sales #tradeline #utilization
+- 🟢 `2026-02-05` [[2026-02-05 - Julie Le Contempt Case|Julie Le Contempt Case]]  #alan #instagram #marketing
+- 🟢 `2026-02-08` [[2026-02-08 - Top High-Ticket Program Names|Top High-Ticket Program Names]]  #alan #apw #branding #finance
+- 🟢 `2026-02-11` [[2026-02-11 - Credit Card Stacking Results|Credit Card Stacking Results]]  #alan #finance #marketing
+- 🟢 `2026-02-13` [[2026-02-13 - Safari Deceptive Warning Causes|Safari Deceptive Warning Causes]]  #alan #apw #sales #vsl
+- 🟢 `2026-02-17` [[2026-02-17 - CFPB Second Complaint Guide|CFPB Second Complaint Guide]]  #alan #bankruptcy #cfpb #credit #dispute #fib #legal #sales
+- 🟢 `2026-02-17` [[2026-02-17 - FIB Dispute Review|FIB Dispute Review]]  #alan #branding #dispute #domains #fib #legal #reg-z
+- 🟢 `2026-02-17` [[2026-02-17 - Marketing-First Program Confusion|Marketing-First Program Confusion]]  #alan #apw #copywriting #marketing #ops #sales #teaching #vsl #high-signal
+- 🟢 `2026-02-19` [[2026-02-19 - Add DBA to Business|Add DBA to Business]]  #alan #branding #domains #legal
+- 🟢 `2026-02-20` [[2026-02-20 - Credit Agreement Highlights|Credit Agreement Highlights]]  #alan #branding #domains
+- 🟢 `2026-02-22` [[2026-02-22 - Non-Scam Discord Titles|Non-Scam Discord Titles]]  #alan #copywriting #dispute #marketing #scam
+- 🟢 `2026-02-23` [[2026-02-23 - Office Background Design Request|Office Background Design Request]]  #alan #apw #branding
+- 🟢 `2026-02-23` [[2026-02-23 - Backdrop Perception for Zoom|Backdrop Perception for Zoom]]  #alan #apw #mindset #sales #tech #vsl
+- 🟢 `2026-02-24` [[2026-02-24 - LLC Tax Benefits Strategy|LLC Tax Benefits Strategy]]  #alan #branding #legal #high-signal
+- 🟢 `2026-02-24` [[2026-02-24 - FIB Response Letter Review|FIB Response Letter Review]]  #alan #branding #credit #domains #fib
+- 🟢 `2026-02-26` [[2026-02-26 - Backdrop Perception and Trust|Backdrop Perception and Trust]]  #alan #apw #mindset #sales #tech #vsl
+- 🟢 `2026-02-27` [[2026-02-27 - CEO Execution Assistant Tips|CEO Execution Assistant Tips]]  #alan #apw #sales #vsl
+- 🟢 `2026-02-27` [[2026-02-27 - FTC Compliance and Funding Guarantees|FTC Compliance and Funding Guarantees]]  #alan #apw #copywriting #credit #legal #tradeline #utilization
+- 🟢 `2026-02-28` [[2026-02-28 - Exec Summary Request|Exec Summary Request]]  #alan #marketing #high-signal
+- 🟣 `2026-02-28` [[2026-02-28 - Claude vs GPT-5.2 for business and sales|Claude vs GPT-5.2 for business and sales]]  #alan #ai-workflow #apw #marketing #meta-ads #sales
+- 🟣 `2026-02-28` [[2026-02-28 - Evaluating funding offer value equation|Evaluating funding offer value equation]]  #alan #funding #offer-design #sales #high-signal
+- 🟣 `2026-03-01` [[2026-03-01 - Optimized course wireframe for 7-day fast start program|Optimized course wireframe for 7-day fast start program]]  #alan #apw #branding #credit #curriculum #funding #teaching #utilization #high-signal
+- 🟣 `2026-03-01` [[2026-03-01 - Ascend Prime Wealth curriculum for medical practice owners|Ascend Prime Wealth curriculum for medical practice owners]]  #alan #apw #branding #credit #curriculum #funding #personal-credit #teaching #utilization #high-signal
+- 🟣 `2026-03-02` [[2026-03-02 - Reframing bank complaint for regulatory examination|Reframing bank complaint for regulatory examination]]  #alan #chargeback #dispute #legal #sales #scam #high-signal
+- 🟣 `2026-03-03` [[2026-03-03 - Finding high-intent markets for Ascend Prime Wealth ads|Finding high-intent markets for Ascend Prime Wealth ads]]  #alan #apw #copywriting #funding #marketing #meta-ads
+- 🟢 `2026-03-05` [[2026-03-05 - FTC Bait-and-Switch Laws|FTC Bait-and-Switch Laws]]  #alan #apw #sales #vsl
+- 🟢 `2026-03-05` [[2026-03-05 - Bank Chargeback Regulations|Bank Chargeback Regulations]]  #alan #chargeback #dispute #legal #reg-z #sales
+- 🟢 `2026-03-07` [[2026-03-07 - Character Count Reduction|Character Count Reduction]]  #alan #dispute #marketing #scam
+- 🟣 `2026-03-09` [[2026-03-09 - Memory update review|Memory update review]]  #alan #apw #bloodwork #business-credit #copywriting #credit #dj-music #finance #fitness #funding #health #hiring #marketing #meta-ads #sales #scio #supplements #teaching #high-signal
+- 🟢 `2026-03-10` [[2026-03-10 - Logo Design Concept|Logo Design Concept]]  #alan #branding #supplements
+- 🟣 `2026-03-12` [[2026-03-12 - Validating your offer before spending on ads|Validating your offer before spending on ads]]  #alan #apw #copywriting #sales #scio #vsl
+- 🟢 `2026-03-12` [[2026-03-12 - Streaming Revenue Strategy|Streaming Revenue Strategy]]  #alan #copywriting #high-signal
+- 🟣 `2026-03-13` [[2026-03-13 - Ascension offers debrief for growth partners|Ascension offers debrief for growth partners]]  #alan #apw #funding #hiring #marketing #meta-ads #scio
+- 🟢 `2026-03-15` [[2026-03-15 - Fundable Credit Outline|Fundable Credit Outline]]  #alan #copywriting #health #surgery
+- 🟢 `2026-03-17` [[2026-03-17 - Privacy Policy Creation|Privacy Policy Creation]]  #alan #apw #legal #marketing #meta-ads
+- 🟣 `2026-03-18` [[2026-03-18 - Public terms and agreements optimization for legal compliance|Public terms and agreements optimization for legal compliance]]  #alan #apw #chargeback #dispute #funding #legal #sales #vsl
+- 🟣 `2026-03-18` [[2026-03-18 - Claude project preset prompt button setup|Claude project preset prompt button setup]]  #alan #ai-workflow #copywriting #credit #ops
+- 🟣 `2026-03-19` [[2026-03-19 - Building the ultimate Claude project instructions framework|Building the ultimate Claude project instructions framework]]  #alan #ai-workflow #apw #sales #sales-framework #teaching #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Caching and file creation for process mastery|Caching and file creation for process mastery]]  #alan #ai-workflow #apw #sales #sales-framework #teaching #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Constantine's four-phase sales framework|Constantine's four-phase sales framework]]  #alan #apw #sales #sales-framework #high-signal
+- 🟣 `2026-03-20` [[2026-03-20 - Sailing versus real estate careers|Sailing versus real estate careers]]  #alan #apw #legal #networking #sales #high-signal
+- 🟢 `2026-03-22` [[2026-03-22 - Nashville Bar Closing Time|Nashville Bar Closing Time]]  #alan #sales #travel
+- 🟣 `2026-03-23` [[2026-03-23 - Funding timeline breakdown- blitz vs prime protocol paths|Funding timeline breakdown: blitz vs prime protocol paths]]  #alan #ai-workflow #apw #blitz #branding #business-credit #credit #funding #ops #prime-protocol #utilization #high-signal
+- 🟢 `2026-03-23` [[2026-03-23 - Nashville Concerts April 14-17|Nashville Concerts April 14-17]]  #alan #copywriting #travel
+- 🟣 `2026-03-25` [[2026-03-25 - Removing a post quickly|Removing a post quickly]]  #alan #demand-letter #dispute #legal #sales
+- 🟣 `2026-03-27` [[2026-03-27 - Uploading large ChatGPT data exports|Uploading large ChatGPT data exports]]  #alan #ai-workflow #apw #blitz #cfpb #chargeback #contracts #credit #dbfi #dispute #dj-music #fib #funding #health #legal #marketing #meta-ads #ops #scio #supplements #surgery #travel #high-signal
+- 🟣 `2026-03-27` [[2026-03-27 - Online business offers in meta ads|Online business offers in meta ads]]  #alan #apw #copywriting #marketing #meta-ads #sales #ugc #vsl
+- 🟣 `2026-03-27` [[2026-03-27 - Prompt engineering tips|Prompt engineering tips]]  #alan #ai-workflow #copywriting #credit #ops
+- 🟣 `2026-03-28` [[2026-03-28 - Reading and speaking time estimation|Reading and speaking time estimation]]  #alan #apw #copywriting #sales #vsl
+- 🟣 `2026-03-28` [[2026-03-28 - Self-tape audition request for UGC creators|Self-tape audition request for UGC creators]]  #alan #apw #funding #hiring #marketing #ops #ugc
+- 🟣 `2026-03-29` [[2026-03-29 - Medical practice owner pain points and funding solutions|Medical practice owner pain points and funding solutions]]  #alan #apw #copywriting #funding #sales #vsl
+- 🟣 `2026-03-30` [[2026-03-30 - Legal demand letter for post removal|Legal demand letter for post removal]]  #alan #demand-letter #dispute #legal #sales #tech #high-signal
+- 🟣 `2026-03-31` [[2026-03-31 - Slide Decks SCIO x CCA|Slide Decks SCIO x CCA]]  #alan #apw #cca #copywriting #dsl #funding #hiring #sales #scio #vsl #high-signal
+- 🟣 `2026-04-01` [[2026-04-01 - Finding available prismatic domain names|Finding available prismatic domain names]]  #alan #branding #credit #domains #funding #hiring #ops #tech
+- 🟣 `2026-04-01` [[2026-04-01 - Overcoming subconscious blocks to complete priority projects|Overcoming subconscious blocks to complete priority projects]]  #alan #apw #mindset #sales #scio #vsl
+- 🟣 `2026-04-02` [[2026-04-02 - UGC creator video agreement terms|UGC creator video agreement terms]]  #alan #apw #legal #marketing #sales #ugc #vsl #high-signal
+- 🟣 `2026-04-02` [[2026-04-02 - Comparing two things|Comparing two things]]  #alan #apw #funding #legal #sales #vsl #high-signal
+- 🟣 `2026-04-04` [[2026-04-04 - Credit approval data points by priority|Credit approval data points by priority]]  #alan #apw #business-credit #credit #curriculum #dsl #funding #sales #teaching #high-signal
+- 🟣 `2026-04-05` [[2026-04-05 - Detaching from mother in dream|Detaching from mother in dream]]  #alan #apw #dsl #sales #scio #vsl
+- 🟣 `2026-04-05` [[2026-04-05 - Corporate credit reporting and personal liability separation|Corporate credit reporting and personal liability separation]]  #alan #business-credit #credit #legal #ops #sales #sop #tradeline #high-signal
+- 🟣 `2026-04-05` [[2026-04-05 - Complete checklist and framework flow|Complete checklist and framework flow]]  #alan #apw #dsl #ops #sales #scio #vsl #high-signal
+- 🟣 `2026-04-06` [[2026-04-06 - 💬 Help me create the best IG ree…|💬 Help me create the best IG ree…]]  #alan #apw #copywriting #credit #funding #instagram #marketing #ops #sales #vsl #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - VSL sales script optimization and competitive analysis|VSL sales script optimization and competitive analysis]]  #alan #apw #cca #copywriting #dsl #instagram #marketing #meta-ads #ops #sales #scio #vsl #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - Trinity by Interstellar Blend use case|Trinity by Interstellar Blend use case]]  #alan #apw #health #sales #supplements #vsl #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - SCIO 7-8 figure training checklist|SCIO 7-8 figure training checklist]]  #alan #apw #copywriting #dsl #funding #hiring #legal #sales #scio #vsl #high-signal
+- 🟣 `2026-04-13` [[2026-04-13 - Humanizing SMS welcome message for leads|Humanizing SMS welcome message for leads]]  #alan #apw #branding #copywriting #funding #legal #sms
+- 🟣 `2026-04-15` [[2026-04-15 - Alex Hormozi naming formula|Alex Hormozi naming formula]]  #alan #apw #blitz #branding #copywriting #funding #health #hiring #prime-protocol #scio #surgery #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Missing chat about DSL slides with artifacts|Missing chat about DSL slides with artifacts]]  #alan #apw #dsl #funding #sales #scio #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Saving progress before context limit|Saving progress before context limit]]  #alan #ai-workflow #apw #dsl #funding #sales #scio #vsl #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Memory update review|Memory update review]]  #alan #apw #blitz #business-credit #cfpb #credit #dbfi #dispute #dj-music #dsl #fib #fitness #funding #health #instagram #legal #marketing #prime-protocol #reg-z #sales #scio #supplements #tech #vsl #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Continuing previous chat with context|Continuing previous chat with context]]  #alan #apw #dsl #ops #sales #sop #teaching #high-signal
+- 🟣 `2026-04-16` [[2026-04-16 - SOP fidelity and AI fabrication issues|SOP fidelity and AI fabrication issues]]  #alan #apw #copywriting #instagram #legal #marketing #ops #sales-framework #sop #high-signal
+- 🟣 `2026-04-16` [[2026-04-16 - Building intuitive mastery through step-by-step learning|Building intuitive mastery through step-by-step learning]]  #alan #apw #dispute #legal #marketing #mindset #sales #scam #high-signal
+- 🟣 `2026-04-20` [[2026-04-20 - Exporting APW notes to Obsidian with animated grid visualization|Exporting APW notes to Obsidian with animated grid visualization]]  #alan #ai-workflow #apw #blitz #curriculum #dsl #funding #legal #marketing #prime-protocol #sales #scio #teaching #ugc #vsl #high-signal
+- 🟣 `2026-04-21` [[2026-04-21 - CFPB complaint against DBFI for unlawful chargeback denial-2|CFPB complaint against DBFI for unlawful chargeback denial]]  #alan #cfpb #chargeback #dbfi #dispute #fib #hiring #legal #legal-tech #reg-z #sales
+- 🟣 `2026-04-21` [[2026-04-21 - CFPB complaint against DBFI for unlawful chargeback denial-3|CFPB complaint against DBFI for unlawful chargeback denial]]  #alan #branding #cfpb #chargeback #copywriting #dbfi #dispute #domains #fib #hiring #legal #legal-tech #payments #reg-z #high-signal
+- 🟣 `2026-04-22` [[2026-04-22 - Balancing personal obligations with business deadlines|Balancing personal obligations with business deadlines]]  #alan #apw #cca #funding #instagram #marketing #ops #sales #sales-framework #sop #vsl #high-signal
+- 🟣 `2026-04-27` [[2026-04-27 - First meeting preparation with business owner|First meeting preparation with business owner]]  #alan #sales
+- 🟣 `2026-05-02` [[2026-05-02 - Flight price analysis PSP to CUN|Flight price analysis PSP to CUN]]  #alan #sales #travel
+- 🟣 `2026-05-03` [[2026-05-03 - 💬 Create me a great IG caption f…|💬 Create me a great IG caption f…]]  #alan #copywriting #instagram
+- 🟣 `2026-05-05` [[2026-05-05 - Seeking legal and tech mentorship|Seeking legal and tech mentorship]]  #josephine #faegre #legal-tech #networking #procurement #sales #high-signal
+- 🟣 `2026-05-08` [[2026-05-08 - Importing prismaticprime.com to WordPress|Importing prismaticprime.com to WordPress]]  #alan #branding #domains
+- 🟣 `2026-05-11` [[2026-05-11 - Selecting domain names for consulting business|Selecting domain names for consulting business]]  #alan #branding #domains

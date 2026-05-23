@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "1fce357a6ae3a829",
+    "type": "split",
+    "children": [
+      {
+        "id": "31f6552e6634afd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd88784ab8da198",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a6aa989fac9f195",
+    "type": "split",
+    "children": [
+      {
+        "id": "4454b52ac801f0c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a3f75d56897c574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "143c62585a48d211",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "794e0379a9b228a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a6b4f79c6036e92",
+    "type": "split",
+    "children": [
+      {
+        "id": "8943064d9e4467f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f67411e724135a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "18af6ebc9e26eb89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d20a97bd921b7a27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4784674c5d1849ea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c87063a0aec4d0af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0bd88784ab8da198",
+  "lastOpenFiles": [
+    "aurelius-vault/Sessions/Archive/2026-05-21-93a59399-6023-481c-8192-fc0e325aad50.transcript.md",
+    "universal-sop/sop_versions/APW_Master_SOP_v3.5.pdf",
+    "universal-sop/sop_versions/APW_Master_SOP_v3.4.pdf",
+    "universal-sop/sop_versions/APW_Master_SOP_v3.3.pdf",
+    "universal-sop/sop_versions/APW_Master_SOP_v3.2.pdf",
+    "universal-sop/sop_versions/APW_Master_SOP_v3.1.pdf",
+    "universal-sop/source_files/apw_source_documents/images/a4.png",
+    "universal-sop/source_files/apw_source_documents/images/a2.png",
+    "universal-sop/source_files/apw_source_documents/images/a1.png",
+    "universal-sop/source_files/apw_source_documents/images/a3.png",
+    "universal-sop/source_files/apw_source_documents/images/a5.png",
+    "aurelius-vault/Reference/Operations-Log.md",
+    "universal-sop/cache/legacy/PRIME_SOP.md",
+    "universal-sop/cache/backups/20260314_193000_v27_pre_v28_clarity_rewrite/PRIME_SOP_v2.7_backup.md",
+    "universal-sop/cache/backups/20260314_190000_v26_pre_v27_source_chains_token_reset/PRIME_SOP_v2.6_backup.md",
+    "universal-sop/cache/backups/20260314_120000_v22_pre_v23_primesop_perfection/PRIME_SOP_v2.5_backup.md",
+    "universal-sop/cache/backups/20260314_120000_v22_pre_v23_primesop_perfection/PRIME_SOP_v2.4_backup.md",
+    "universal-sop/UNIVERSAL_SOP_PROMPT.md",
+    "universal-sop/backups/UNIVERSAL_SOP_PROMPT_v1.3_20260401_pre-fidelity-fix_backup.md",
+    "universal-sop/cache/backups/20260314_120000_v22_pre_v23_primesop_perfection/PRIME_SOP_v2.3_backup.md",
+    "universal-sop/backups/UNIVERSAL_SOP_PROMPT_v1.2_20260401_pre-ensurance_backup.md",
+    "universal-sop/backups/UNIVERSAL_SOP_PROMPT_v1.2_20260331_postfix_backup.md",
+    "universal-sop/cache/backups/20260314_120000_v22_pre_v23_primesop_perfection/PRIME_SOP_v2.2_backup.md",
+    "universal-sop/backups/UNIVERSAL_SOP_PROMPT_v1.1_20260331_backup.md",
+    "universal-sop/cache/BACKUP_LOG.md",
+    "universal-sop/backups/BACKUP_LOG_v1.0_20260521_203637_aurelia_pre_rows_162_163_164_backup.md",
+    "universal-sop/STANDALONE_SOP.md",
+    "universal-sop/PROTOCOLS_REFERENCE.md",
+    "universal-sop/cache/backups/20260314_090000_v11_session6_prerebuild/USER_PROMPT_INVENTORY.md",
+    "universal-sop/cache/backups/20260313_100000_v393_session4_final/USER_PROMPT_INVENTORY.md",
+    "universal-sop/cache/legacy/USER_PROMPT_INVENTORY.md",
+    "universal-sop/INVENTORY.md",
+    "universal-sop/backups/BACKUP_LOG_v1.0_20260521_171323_Aurelia_pre_rows_135_136_backup.md",
+    "universal-sop/cache/SESSION_STATE.md",
+    "universal-sop/FAILURE_MODES_ANALYSIS.md",
+    "universal-sop/backups/BACKUP_LOG_v1.0_20260521_170525_Aurelia_pre_device_identity_rule_backup.md",
+    "universal-sop/sop_versions/APW_Master_SOP_v3.6.pdf",
+    "universal-sop/cache/backups/20260314_190000_v26_pre_v27_source_chains_token_reset",
+    "universal-sop/cache/backups/20260313_090000_v393_session4_pre_revert_corrections",
+    "universal-sop/cache/backups/20260314_120000_v22_pre_v23_primesop_perfection",
+    "universal-sop/cache/backups/20260314_193000_v27_pre_v28_clarity_rewrite",
+    "APW_EXPORT/source_files/apw_source_documents/images/a4.png",
+    "APW_EXPORT/source_files/apw_source_documents/images/a2.png",
+    "APW_EXPORT/source_files/apw_source_documents/images/a1.png",
+    "APW_EXPORT/source_files/apw_source_documents/images/a3.png",
+    "APW_EXPORT/source_files/apw_source_documents/images/a5.png",
+    "Untitled.canvas"
+  ]
+}

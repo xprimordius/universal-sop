@@ -1,0 +1,328 @@
+---
+title: 000 ASCEND PRIME WEALTH - OFFER DETAILS - COOKING.txt
+source: claude
+type: project-doc
+project: APW
+person: alan
+created: "2026-04-16T01:32:31.814581+00:00"
+uuid: 0196139d-2a82-444b-9b19-c10a181c9b41
+tags:
+  - claude
+  - alan
+  - apw
+---
+# 000 ASCEND PRIME WEALTH - OFFER DETAILS - COOKING.txt
+
+> [!info] From project: [[_Project Info|APW]]
+
+Hi,
+as you know I've been moving incredibly slow in the program, because I have not yet had a offer that I felt grounded and strongly about; believing in it with my heart.
+I think I made a breakthrough today in terms of making it fit Alex Hormozi's value equation purely first, and temporarily suspending the requirement of it needing to be a "1 of 1 outstanding offer - that cannot be compared to anything else on the market" aspect of it.
+Here are my notes after writing everything down, and refining it alongside A.I.
+With focuses on - clarity, simplicity, accuracy, truth vs trust, certainty, confidence, urgency, and scarcity (ethically)
+Let me know your thoughts / feedback? I'm building out the course wireframe now to prepare scripting and filming for the base content. For me personally, it's A LOT easier to market, sell, and speak about something that I whole heartedly believe in, so it made since most for me to focus on the offer primarily before the marketing and sales side; as that part I'll be able to more effortlessly and more effectively execute once the offer / fulfillment is fully dialed in. almost there. feels like 90%+
+* thank you for all the help, and patience during this time.
+Is this a 10/10 strong offer based on the value equation?
+ 
+Value =
+(1: Dream Outcome x 2: Perceived Likelihood of achievement)
+/ (3: Time Delay x 4: Effort & Sacrifice)
+ 
+Value = (1x2) / (3x4) 
+1: Dream Outcome
+* - Learn how to repeatedly unlock $100K- $500K+ in funding in 90 days without tax returns, income documentation, or paying a funding company 5-10% to do what you can easily do yourself.
+* Use it for growing your business, hiring, new locations, inventory, lead generation, improving technology, acquisitions, buying back your time & freedom, quitting your job, increasing your income, launching a new product, etc.
+* Then do it again for your businesses, partners, friends, family, clients, etc. with a permanent and repeatable skill.
+* Limited to the first 30 approved, qualified clients. When capacity is reached, enrollment closes.
+2: Perceived Likelihood of achievement
+* - If you follow all of the steps, requirements, and guidelines presented, it becomes incredibly UNREASONABLE for you NOT to succeed.
+* This system is built on universal underwriting standards behind over $100M+ funded, proven across decades of real results - efficiently structured to deliver success in the fastest time possible, without sacrificing depth, information, or quality.
+* Built from secret strategies & specialized knowledge passed down from those who trained underwriters, underwriters themselves, and countless modern funding experts & companies.
+* Engineered from real-time data based on current approvals - not the outdated strategies marketed in the industry that worked years ago; consistently updated to reflect what's actually working now.
+* This system has been able to help even a damaged credit profile with negative data produce $300K+ in funding across multiple rounds, with hundreds of thousands more available as desired.
+3: Time Delay
+* - Most qualified clients are funded within 30-90 days.
+* From day one you'll know exactly where you are, what you're doing next, and why.
+* The only requirements are a handful of hours upfront for onboarding and absorbing the system, then just a few hours or so a week as needed to follow the system - with our support every step of the way; so that you have the clarity, speed, efficiency, and confidence to succeed.
+* Included is - weekly live Group + 1-on-1 + Q&A calls, consulting, educational material, community, and quick same day asynchronous text & live video support so you're never stuck, never guessing, and never alone in the process.
+* Fast by design, and supported at every stage. (Please allow up to 24-48 business hour response times for special circumstances)
+4: Effort & Sacrifice
+* - DWY: Minimal effort & sacrifice. Simply follow the steps, take guided action, utilize support, participate in live calls, get your questions answered, and succeed. The system does the heavy lifting for you. You just take action, do not give up, and do not quit.
+* DFY: Everything included in the DWY offer, with even less on your plate - saving you the most time possible. Your strategy is custom built for you specifically. Simply, all you are responsible for is - executing a guided sequence of deliberate actions such as (but not limited to); signing documents, opening the right accounts the right way as instructed, seasoning as directed, and following guided applications. Each action is mapped out in advance, so nothing you do is guesswork. We remove the planning, strategizing and the research for you. Engineered for you to be as close to effortless as legally possible.
+* - DISCLAIMER: Applicants applying without direct, underwriter-level trained knowledge & systems (like what's taught inside this program) - historically face frequent denials, low limits, and 6-24+ month delays; while unknowingly damaging their max available funding per institution and in total. One small missed data point or misguided perspective can sabotage the entire funding process & potential, and often delays timelines exponentially.
+:)
+P.S. Lastly, if everything is 10/10 for value here. What can I do to go above and beyond to truly make it an outstanding one of one offer in the marketplace, that cannot be compared to with any other offer out there? (I want to go above and beyond)
+* the only X factor that I've been able to reasonably identify is the fact that I have first hand experience of funding a damaged credit profile to $300K+ in funding, with hundreds of thousands more available in funding as desired. - emphasis on the profile being damaged. Not truly 1 of 1, but becomes a 1 of maybe 2 or 3 offers that exist similarly. Any other suggestions? 
+another factor is that I've personally been through 40+ ads in the space, sitting down with the top companies, going through the sales process, signing up with a bunch of them in the space; so I have first hand experience of the practices, the misrepresentation, the over promising and under-delivering, as well as the pattern of a lot of these guys outsourcing their work and clients to the same people, and that a lot of the big multi 8 figure funding companies only work with the major national banks, so if you are incompatible with the major 6 or so banks, you're kind of screwed in terms of funding eligibility. A lot of these guys over inflate their numbers, and use marketing material that is not true.
+Also the sales people who sell you on the process routinely will give you false promises, expectations, and misrepresent, as they are disconnected from the actually funding process; their job is just to sell you, where you get led to the onboarding process, account manager, and then finally the funding manager who actually then lets you know in reality that your fundability is a fraction of what the marketing and sales promises you. this happens very very frequently; in the vast majority of services out there.
+The difference with us, is that I am the one that's helping you get funded, and I am the one that creates all of the stipulations and clarity in messaging so there is no false expectations.
+Also, the vast majority of companies only fund you, and do NOT teach you how to do it yourself from scratch; effectively replacing them, as it is a conflict of interest to their business model. I teach people to become self sufficient so they don't need me, or anyone else, especially funding companies that charge 10% funding fees. meaning $300K funded = $30K paid in fees. $500K = $50K, etc. With no control, knowledge to apply for self and others.
+There's only about 1 or 2 companies that i am aware of that truly teach you how to do this from scratch yourself, but from my perspective, they do not teach up to date A-Z information and process that is cutting edge, vs old practices. Also they do not care about your success, vs just your money. I want to tie me working with them for free until they achieve the result as one of the standard guarantees. but i want another money back refund guarantee to really double down with stipulations of course
+...
+A.I. Output:
+"Unlike the vast majority of funding companies and educators in this space — where sales promises, inflated numbers, and outsourced processes leave clients with a fraction of what they were told — everything here is built on transparency, current knowledge, and your permanent self sufficiency. No salespeople. No handoffs. No dependency. No 10% fees on your own money. Just the system, the support, and the result - guaranteed."
+That's as close to one of one as this space allows right now. The combination of insider exposure, founder delivery, self sufficiency mission, real time updated systems, damaged credit proof, and a double layered guarantee exists nowhere else. Each piece alone is findable. All of it together — in one offer, delivered by one person with your specific story — is yours.
+...
+The Guarantee Structure:
+You want two layers — a completion based guarantee and a money back guarantee. Here's how to structure both without overexposing yourself:
+Guarantee Layer 1 - Outcome Guarantee: "Complete every step, attend the 80+% of live calls, utilize the support, and execute every guided action within the timelines as directed - if you don't get funded, we continue working with you for free at no additional cost, until you do."
+
+
+Guarantee Layer 2 - Money Back Guarantee: "If you complete 100% of the program curriculum, attend & participate in a minimum of 90%+ of live calls, actively utilize support resources, execute every guided action and application as directed precisely and within timelines, can demonstrate documented proof of completion of steps, yet have not achieved a minimum of $100K in approved funding and are still unsatisfied with the result within 90 days of program completion — we'll refund your investment."
+
+
+DISCLAIMER: The 90 day execution window begins only once your credit profile has been verified as funding-ready - defined as an approved, qualified profile with no negative marks, low utilization, little to no hard inquiries, established age, a thick file, strong limits, and clean primary and secondary bureaus with zero derogatory items, confirmed with documented proof. Credit optimization required prior to this threshold does not count toward the 90 day window. The clock starts when you're ready to fund - not before."
+Special Approved Cases - Guarantee Addendum:
+"For special approved cases, all guarantee terms apply exclusively to the funding execution phase - beginning only once verified funding-ready status has been confirmed with documented proof.
+"Limited additional program access may be extended on a case by case basis, solely at program discretion and subject to availability."
+Credit optimization timelines are outside the scope of this guarantee, as they are subject to individual credit history, bureau responsiveness, and factors beyond program control.
+Special approved cases must demonstrate consistent, documented progress toward funding-ready status. Lack of active participation, measurable progress, or responsiveness may result in forfeiture of guarantee eligibility.
+****Should verified funding-ready status not be achieved within 12 months of enrollment despite documented consistent effort and compliance with all guided steps, a partial refund of 20% will be issued as a good faith resolution. This program is designed for committed clients pursuing results - not extended access."****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOOM Video Transcript Summary
+Overview
+This pull request introduces a comprehensive structure for a funding program based on the value equation proposed by Alex Hermosi. Key components include:
+* Dream Outcome: Clients can learn to unlock $100,000 to $500,000 in funding within 90 days without traditional documentation.
+* Perceived Likelihood of Achievement: The program is built on proven strategies and real-time data, ensuring high success rates.
+* Time Delay: Most clients will be funded within 39 days with minimal upfront effort.
+* Effort and Sacrifice: Two program versions are available: "Done With You" and "Done For You," catering to different client needs.
+* Guarantee Structure: Includes a performance-based guarantee and a money-back guarantee to ensure client satisfaction and accountability.
+Assumptions
+* Clients will actively participate and follow the program guidelines.
+* The program will attract qualified clients who are genuinely interested in funding solutions.
+* The support system will be effective in addressing client queries and concerns in a timely manner.
+Testing Strategy
+* Conduct user testing with a small group of clients to gather feedback on the program structure and support system.
+* Monitor client success rates and satisfaction levels to evaluate the effectiveness of the guarantees.
+* Implement adjustments based on client feedback and performance metrics to optimize the program.
+Link to Loom
+https://loom.com/share/4d40d1282c2347559bc5705719b62a72
+
+
+
+
+
+
+
+
+
+
+
+
+Loom Video Transcript
+
+00:00 Hey Tommy, how's it going? I'm just gonna read over my doc instead of just sending you the doc just because I feel like it's a lot easier, I've noticed, and a lot more accurate to be able to relay thoughts and communication if I'm just literally reading it to you and just kind of like adding kind of 
+00:16 my thought process behind it. So, basically, like, where this comes from is it just comes from this, uh, this value equation from Alex Hermosi, if you're familiar with him.
+00:24 Basically, he has this thing where he says, you know, he's equi- he, he's boiled down value in an offer to equaling 1, the dream outcome, which is like the result that you want to manifest, uh, times 2, the perceived likelihood of achievement, like, how likely are you going to be able to achieve that
+00:43 thing, um, and then divided by 3, the time delay, how long it takes, you, and then 4, uh, effort and sacrifice, you know, how much effort it's going to take, right?
+00:53 So if you can minimize time, minimize effort and sacrifice while, um, being able to help them create their dream outcome and making them perceive that, I mean, obviously you want to make them, like, the likelihood of achievement, you want to be as high as possible, um, that's just basically how it breaks
+01:12 down. So basically, um, I went through this and I try to really sit down and boil down the offer based off of just specialized knowledge and, um, things of that nature.
+01:21 So, um, yeah, so just let me know what you think. I know, uh, you're probably gonna rip it apart and you're probably gonna have a, a lot to say, probably negative about it.
+01:30 Cause you probably also, I think you told me before you don't believe in courses and I used to not either, but, um, you know, it's just, I don't know, it is what it is.
+01:37 Um, but yeah, so basically, you know, I'm angling just, you know, finding people, um, that are qualified and looking for the solution that I have, um, a solution for that have a problem that they need to have resolved.
+01:49 And then basically that's just, I get more to that later, but basically, you know, uh, the bulk of it is basically here.
+01:56 So, uh, one, the dream outcome, which is, uh, the marketing term is, uh, learn how to repeatedly unlock a hundred to $500,000 plus in funding in 90 days without tax returns, income documentation, or paying funding company five to 10% to do what you can easily do yourself.
+02:13 Um, basically, uh, you can use it to grow your business for hiring new locations, inventory, lead generation, improving technology acquisitions, buying back your time and freedom, quitting your job, increasing your income while you're launching a new product, product, et cetera.
+02:26 Uh, then do it again. Um, and repeat it again for your businesses, uh, your partners, friends, families, clients, et cetera, with a permanent and receive a repeatable scale.
+02:37 It's a system that they can just keep reapplying and reapplying. Um, and yeah, so limited to the first 30 approved qualified clients when capacity is reached.
+02:48 Uh, um, enrollment closes because, uh, you know, at that point I'd have to hire more people to be able to help me with, uh, with the program and things of that nature.
+02:57 So, um, uh, two, so, so, so one, that was just the, uh, dream outcome, uh, two is the perceived likelihood of achievement, which is if you followed all the steps, the requirements and guidelines presented, it becomes incredibly unreasonable for you not to see that you're So like, I mean, plain and simple
+03:15 , uh, this system is built on universal underwriting standards behind over a hundred million dollars plus funded, proven across decades of real results, efficiently structured to deliver success in the fastest time possible without sacrificing depth, information, or quality.
+03:31 So, uh, this is built from secret strategies, specialized knowledge that's passed down from those that have trained underwriters, underwriters, and, um, underwriters themselves from the banks and financial institutions and countless modern funding experts and companies engineered from real-time data 
+03:45 based on current approval rules, not the outdated strategies that are marketed in the industry. Um, very often that worked years ago, but not today, uh, consistently updated to reflect what's actually working now.
+03:58 Um, that that's my system. Uh, not using outdated stuff, uh, the, the, the system has helped, um, the, sorry, the system has been able to help even a damaged credit profile with negative data produced $300,000 plus in funding across multiple rounds with hundreds of thousands of more available as desired
+04:19 . Uh, so three, the time delay, uh, most qualified clients are funded within 39 days. From day one, you'll know exactly where you are, what you're doing next and why the only requirements are a handful of hours up front, um, for onboarding and absorbing all, you know, the system, the knowledge, the information
+04:38 , and then just a few hours per week or so as needed to follow the system and execute on, you know, things that you need to do, uh, with an, obviously you're going to have our support every step of the way so that you have the clarity, the speed, the efficiency, and the confidence to be able to succeed
+04:52 with what it is, um, that you're going for in terms of, uh, numbers. So included is weekly live group, plus one-on-one, plus coaching calls, Q and A coaching calls, uh, consulting, education materials, community, and quick same-day asynchronous text and live video support.
+05:09 So you're never stuck. Basically that, uh, basically that means, um, you know, if you have a question, you just post in the group and someone's probably myself, or someone has been going to be able to get back to you the same day with either a text response or a video response.
+05:22 Uh, mostly it's probably going to be mostly be video, unless it's going to be easier to do through text. Um, so, but this is, this supports there, uh, so people are never guessing and never alone in the process.
+05:31 Also when it's in a group-like setting, you can see what other high-level people are asking questions about. And even learn from their questions and learn what they're doing.
+05:39 And I'm just becomes a greater thing because it just helps people along in their journey. Uh, so it's fast by design and supported at every stage.
+05:48 Um, well, you're supported at every, at every stage. And the, just a disclaimer is, you know, to allow for up to 24 to 48 business hours, uh, response times for special circumstances, you know, for, you know, cause whatever could happen, but.
+06:01 But that's just like asking for grace there, but typically same day, uh, same day responses as quick as humanly possible.
+06:07 So, um, effort and sacrifice, uh, number four, which is there's basically two versions of the program. I'm mainly focusing on the done with you version of the program, where it's like, I'm helping someone alongside of them to teach them how to do and how to basically, uh, do what I've done and to basically
+06:27 become a great funder to learn how to do the process A to Z themselves, be able to get, uh, to get the goal of a hundred, 500 K plus, uh, in funding repeatable.
+06:34 Uh, but yeah, cause I, cause I essentially, I want to be able to help teach people to not have to depend on me or depend on anybody else like funding companies that you have to pay 10% to be able to get funded through.
+06:44 Um, I don't want to keep anything. I basically want to teach them how to basically replace. Me and everybody else.
+06:50 So they become completely self-sufficient. Uh, basically the done with you. Uh, okay. So the done with you version is minimal effort and sacrifice.
+07:02 Uh, you simply just follow the steps. You take the guided action, utilize support and participate in live calls. And then you get your questions answered and then you succeed.
+07:09 Pretty simple. Uh, the system does a small, all the heavy lifting for you, you just take action. Do not give up and do not quit.
+07:17 Follow, follow instructions, boom, easy. Right? And obviously you have our support every step of the way type thing. Um, cause I want to be able to help you.
+07:23 Uh, so the done for you version, which is not the version that I'm recommending or that even want to do, but I have it there because I already know that there's going to be a ton of people that don't have the time.
+07:36 Um, and just want. Thank All of the most of as much of the work done for them as possible. So they just get the money.
+07:43 They don't want to learn how to necessarily do it. Um, at least right now, you know, obviously we'll be able to have access to everything, but they just want that, like their focus is time, time and speed.
+07:53 So, uh, for this, it's everything included in done with you offer. So they'll have all the information to be able to do it themselves on their own time, uh, with even less on their plate.
+08:01 So basically, uh, it saves them as the most time. As possible. The, the whole strategy is going to be custom built for that person specifically in their local area with their local, all the local geo restrictions and all that stuff.
+08:13 Um, all the thinking is going to be as much thinking is going to be removed off of their plate as possible.
+08:20 Um, and yeah, so simply all that they're responsible for is access to on a guided sequence of deliberate actions that are guided, of course, uh, such as, but not limited to, you know, just signing documents, opening up the new accounts, uh, open up, opening up the right accounts in the right way as we
+08:36 instruct. It's pretty simple, but you know, it's, it's very nuanced and very specific. Um, so things don't break and for the strategies to unfold the way that they need to seasoning as directed following, uh, and following guided applications.
+08:48 Very, very simple, you know, and, and with applications can be done over a video call too. So it's like every step of the way, they'll have someone supporting them, um, in real time, just holding their hand through the process.
+08:57 Uh, each action is mapped out in advance and nothing that you do is guesswork, you know, of course, uh, and then we remove the, we remove the planning, the strategizing, and the research done for, you know, the people, the clients, prospects.
+09:08 Um, and then it's engineered for them to be done, or it's, sorry. It's engineered to be as close to as effortless as legally possible, right?
+09:19 Uh, so a big disclaimer here is that, uh, applicants applying without direct underwriter level train knowledge and systems like what's taught inside this program historically face frequent denials, low limits, and six to 24 plus month delays, uh, while an unknowingly damaging their max available funding
+09:40 per institution and in total. Innocently so, but it's just, that's just the nature of the game. Um, and then that's like the real thing too.
+09:47 There's just so many case studies on there where it's just, you know, someone tries to open up an account at one bank and they try to do this.
+09:52 And then like, because they, they try to apply on their own, um, you know, they're either denied or given like a really low limit.
+09:59 And then now that their foot is in the door of that institution, um, in the wrong way, uh, basically their whole possible funding from that institution has been nerfed.
+10:09 Like it has been literally the difference between people getting $150,000 versus getting $0, $2, $5, $10,000, right? It's like, it, it matters.
+10:18 Um, so one small missed data point or one misguided perspective can sabotage basically the entire funding process and potentially the potential.
+10:26 So, and often, you know, delays timelines exponentially. It's just, you know, important. That's just like the raw truth of it.
+10:32 Um, and yeah, yeah. Um, I mean, I've learned the hard way. Other people have learned the hard way as well too.
+10:39 Uh, there's just the, the way, the way that it is. Um, so PS, oh yeah. So yeah, so this was when I wrote those to the group that I'm in to basically ask for their feedback on it.
+10:50 But basically I just asked, you know, if everything is 10 out of 10 for value here, based off of the value equation, what can I do to go above and beyond and truly make it an outstanding one-of-one offer in the marketplace that can not be compared to any other offer out there?
+11:03 You know, I want to go above and beyond because the only way that I was able to actually dial this in was by not making, not focusing on it being a one-of-one offer.
+11:11 Um, yeah, likely. But, uh, I tried to make it as good as an offer as possible that I could deliver on.
+11:19 And this is just, like, uh, detailed information. Um, we don't need to go through this because it's a completely different scope of questions.
+11:25 It just kind of goes about, like, details about, uh, my angle on it and why the positioning is going to be quite different from what else is in the market.
+11:33 What's on, what's on the market. Okay, I'll just explain it here. Um, bless your, bless your heart if you're sitting, sitting in through all this, even at 2x speed, dude, I'm just like, I guess I'm just really slow or this is a lot thicker than I thought it was.
+11:43 I was planning it for it to be five minutes, but anyways. So, uh, basically the only X factor that's, you know, puts me apart that I've been able to reasonably, reasonably identify is that I have firsthand experience of being able to fund damaged credit profiles to, well, a damaged credit profile to 
+11:59 300 K plus in funding with hundreds of thousands more available. So in funding as desired, I've been able to help other damaged profiles as well to be able to create success, you know, taking people's credit scores from like 500 to 800, um, in like one to two months and, uh, yeah, just, you know, stuff
+12:14 like that, but, uh, emphasis on the profiles being damaged, right? Cause a lot of people like that are in the funding space, they just only are working with people with like prime tier one credit.
+12:25 Right. All right. Um, not truly one of one, but it becomes about one of maybe two or three offers that exist similarly.
+12:34 Um, basically there's one offer out there that sells for 15 to 30 K and another offer that, um, is less established that also sells for 15 K that teaches people how to do the process themselves.
+12:47 Uh, the first process, the first, business that does it, uh, from 15 to 30 K uses outdated information. And they're also not very invested into the people's success and they'll also bait and switch, lie and scam, um, unfortunately, and just basically just sell you on the dream versus actually trying 
+13:05 to help you. Um, which is just like a whole crazy thing, but that's a whole nother conversation, but yeah, so it's like close to one-on-one, but not necessarily truly, but, um, close enough.
+13:14 or as close as I can get it so far. Uh, another factor is that I've personally been able to, cause, okay, uh, context, uh, most, most offers in the industry, the only offer done for you funding, cause they don't want to teach people how to do it because it's a conflict of interest, right?
+13:31 Cause they charge 10% of people getting people funded. So they get people funded 150 to 250 K that's 15 K to 25 K that they make.
+13:38 From that, right. So it becomes a conflict of interest, uh, cause they want to be able to fund them and then fund their friends and friends, fund their family and through referrals and stuff like that.
+13:46 Uh, but yeah, uh, I'm going to be in the business model of teaching people how to become self-sufficient. Um, yeah.
+13:54 So another factor that I've personally been through, uh, is that I've personally been through 40 plus ads in the space.
+14:00 you know, I've been seeing like a ton. Of what's happening. I've been sitting down with, you know, the top companies going through the sales process, hopping on calls, doing all that stuff.
+14:08 Um, cause you know, I was someone in the market as a prospect that was interested in the service at one point, right.
+14:14 But, um, you know, I've signed up with a bunch of them, you know, in the space. So I first had experience of the practices.
+14:20 Um, and fortunately, you know, from going through the process, you learn that there's a ton of misrepresentation, um, ton of over-representation.
+14:26 Over-delivering, as well as like a pattern of a lot of these guys outsourcing their work. Um, and clients, uh, I just want to touch up on part where he has misrepresentation and the promising over over delivering basically it's a combination of like marketing material that's like way over the top that's
+14:43 selling people a dream that's not necessarily true marketing material that's using outdated information sales people you know that that are basically selling the dream that don't actually do the fulfillment themselves, they outsource it to somebody else which is like crazy to me to think.
+14:56 Um, so, and that's like the face, right? The face of the business will do that. And then they'll have sales people, um, that are totally disconnected from the process.
+15:03 Their only job there is to sell you through their funnel, right? And they'll tell you whatever you want to hear to be able to get you through the process and they don't actually know how the process works.
+15:05 So once you get s***s, s***s, signed up through the process, you end up into the, into their funnel, you know, signed up, going through onboarding, doing all that stuff.
+15:22 You're being told and sold all these lies, um, about like the amount that you can get funded or what, you know, you know, what the process is going to be like and stuff like that.
+15:29 And then once you finally get to the end of the tunnel where you actually sit down with the actual funding guy, you start realizing that, um, very, very consistently, pretty much every time, basically the f***ing.
+15:39 The funding guy says, oh, yeah, yeah. So they advertise this, but it's actually not actually true. They don't do the funding.
+15:42 I do the funding, right? So realistically, this is what you can actually be eligible for, that I can help you with.
+15:48 And it's, it's like a very, it's like, it's like a fractions. Like you'll be able to get like 25 to 75 K versus, you know, 100 to 300 K that people are advertising.
+15:57 Very rare people advertise 500 K. But yeah, but the point is that like, the other part of it too is.
+16:03 That the people that are funding you, they're not even in really investing your success. They're invested into convenience and volume, right?
+16:09 Cause it's like, it, cause like, anybody can get you like 150 K. Like, like once you learn the process, right?
+16:16 Umm, you know, 150, you know, 200 K plus, right? Cause it's easy. You can get 150 K from one institution, right?
+16:23 A lot of these people bank off of just, just chase, right? But, but the thing. Is, is that like, a lot of these people, they aren't investing in people's actual maximum success, right?
+16:31 So it's like, they'll do what's convenient for them, but they actually won't like, get into it with them, right? Cause there's, and there's like thousands of banks out there, and there's so many ways to approach it, but it's like, basically these guys, they have like, uhh, a lot of these guys, they have
+16:46 access to the six major national banks, and that's it, right? And these, oh, and these are the guys that boast, you know.
+16:51 . Oh, we funded tens of millions of dollars, right? But it's like, they all outsource it to the same people that fund you through six major banks, and then if you, if you already have relationships with the six major banks or not else with them, then, then you're just kind of like, S.O.L., right?
+17:04 But like, you actually can get helped, but they're not gonna take the time to be able to help you with that, because it's inconvenient for them.
+17:09 But there's ways to do it, and that's what I teach in the program, is basically how to step beyond the major national banks, and how to go into all the other, you know, banks out there, the regionals, um, um, and the credit unions and stuff like that to be able to get access to funding and stuff like
+17:21 that. So it's like, the potential's way more than just these six, right? And it's literally like, the potential's like literally millions, but one of, I just say from 100, 100, 500k, that's like more like short term.
+17:33 Um, and more like, easily quantifiable. Uh, . . Like, in terms of like, general experience, if that makes sense. Because a lot of people aren't going to go above and beyond, uh, you know, go that far.
+17:46 But, um, to go beyond that. Uh, but, okay, I already talked about this. I kind of went on a rift organically.
+17:54 Uh, yeah, so a lot of people boast, you know, eight figure funding companies because they just kind of leverage other people's results, but they just use the same, the same people, outsource it.
+18:02 Uh, You know, um, yeah, if you're incompatible to the sixth area, copy of that. Okay. A lot of these, oh, and a lot of these guys inflate their numbers and use marking material.
+18:11 That's not true, right? Because like, dude, I've been on webinars where it's like, they'll be like, hey, everybody on this webinar, there's like a hundred plus people.
+18:16 Be like, right? A hundred plus people. Like, type in your information to this prequalification check, right? Right? Right? And then everyone's like typing these numbers to prequalification check, which has like blown out numbers where it's like.
+18:27 Oh, dude. Yeah. You're eligible for a $50,000 personal loan. You're eligible for a $75,000 personal loan, $30,000, $100,000, right? And like, like, first of all, prequalify doesn't mean actually approved.
+18:39 And then, and if they do go through the application process, like they have to submit, you know, income documentation, tax returns and stuff like that, that they're not going to provide, um, relative to, um, you know, the, I love you.
+18:51 The guidance for, uh, the projected income in, in that, uh, you know, field. So it's like, they, they group up all these numbers and be like, hey, dude, we just got over a million dollars funded on this webinar alone for free, right?
+19:03 And then, and then they take that number and they tally it into like, oh, we got these people funded this amount.
+19:06 But it's like, dude, you didn't get people funded that amount. You got people prequalified for that amount. You know, and that's a completely different conversation.
+19:12 Um, but anyways, though also the, so, so that's just the nature of the market, right? The industry is just for some context, right?
+19:21 And obviously, you know, I'm, like, I'm that person that, whatever I step into, I want to do it as ethically and as, you know, uh, value driven as possible.
+19:30 You know, I want to like do genuine good work, right? Um, but, and generally help people, but, uh, so I think I talked to you about, talked, said about this already.
+19:39 False promises, expectations, misrepresentation, yep. Disconnect from the funding process, it drops just to tell you, yep, uh, yeah, yep, account manager, funding manager, da da da, reality is, you know, totally different.
+19:50 Um, and it's very, very, very frequently. Like, it's, it's very common. It's like, I don't know, I, I don't think it's ever happened one time where it hasn't been true, or it has been true.
+20:01 So it's like, I think it's a hundred percent, a hundred percent. you know, like, like, misrepresentation out there, which is like crazy, right?
+20:08 So, um, the difference is, is that I'm the one helping people directly get funded, right? A lot of people, it's like, again, outsourced.
+20:16 It's like, the person that's selling you, the person that's the face of the thing isn't selling you and helping you through the process.
+20:21 I'm doing, you know, all of it, you know, because it's just, just me, right? Just like, naturally, like one on one.
+20:27 on. Um, so, yeah, so it's just more real, right? Instead of just, like, all these different departments and sectors and people don't know, and they sell you the thinking you know and da-da-da, right?
+20:39 So, uh, also the vast majorities of company only fund you. Oh, yeah, and don't teach you how to do it yourself.
+20:44 I don't explain this. I want to help people effectively replace them and myself. Um, da-da-da. Okay, self-sufficiency, boom. school. 7 Companies that charge 10%.
+20:54 Okay, so, yeah, so typically, uh, in the market, companies charge 10% funding fees. Oh, I already talked about that. Yeah, so, they'll charge, like, $0 up front, 10% on the back end.
+21:02 So, it'll be $300K funded. You have to pay $30,000 in fees, which is, like, pretty crazy. Um, and then if you want to get funded more, it's more.
+21:09 And I don't, I don't teach you how to do the process. No control, no knowledge, no way to Their network of banks and their willingness to help you, right?
+21:20 So, uh, yeah. So, I believe in, like, making people self-sufficient, so they don't, they're never in a position where they're S.O.L.
+21:29 out of luck. And, um, so they can basically, you know, uh, go after as much as they need, uh, without having to depend on anybody else.
+21:37 Um, and I already explained this. There's only one or two companies out aware that I'm aware of, that teach you how to do it yourself from scratch.
+21:44 They don't teach up-to-date, it's information. The other one's old practices. Um, also don't care about your success versus just your money.
+21:51 Um, I want to tie me working with them for free until they achieve the result as one of the standard guarantees, but I want another money-back guarantee to really double down the stipulations of the course.
+22:00 Um, and then this is just me asking AI about that specifically. specifically. . And then it brings up this, it shortens it down and says unlike the vast majority of funding companies and educators in the space, they're the inflated numbers.
+22:12 I don't mean need to read this, it's just AI's interpretation of it, saying it in an easier way, right? I can send you this to be able to, uh, you know, whatever.
+22:18 Uh, but, yep, so then, this is kind of an important part. The guarantee structure is, and obviously the quick AI helped me write this, and then I- I'll say I refined it, but, uh, basically it said you want two layers, a complexion-based guarantee with, uh, and a money-back guarantee.
+22:34 Here's a structure, here's a way to structure both without overexposing yourself, so layer one is the outcome guarantee. Basically, it's saying complete every step.
+22:41 Uh, attend the calls, utilize support, and execute every guided action as directed. If you don't get funded, we continue working with you for free at no additional cost until you do.
+22:51 Right, cause I want to- I like, like, I'm investing in people's success. Like, it wouldn't make me feel good to sign someone up, take their money, and not actually help them get the result.
+22:58 I want to help them get the results, so it's like, like, I'm tying my own time and energy equipment to- to doing it, cause it's like, that's w- that's what we agreed to, right?
+23:07 That's just- I think- to me, that's just ethical. Um, but anyways, layer two is the money-back guarantee, so if you complete a hundred percent of a program curriculum, attend and participate in- minimum of 90 plus percent of the live calls, actively utilize support resources, and execute every guided
+23:21 action and application as directed, and condemn- and within- within the time constraints as well, too. Um, and can demonstrate documented proof of the completions of each step.
+23:31 Uh, and obviously I'll- I'll create a system to be able to, like, collect along the way, to be able to, like, you know, make it easy for them so they don't have- so they know.
+23:38 Um, and then have not achieved- a minimum of $100,000 in approved funding and are unsatisfied with the result within 90 days of the program completion will refund your investment in full.
+23:47 Right, fair enough. You know, beat your money back if, you know, and then this applies. If- if you were able to be in the program and you only got $90,000, right, and you're not satisfied with the result, you can have your money back, right.
+24:04 It's like my goals to get you to $100,000 to $500,000 plus in funding because that's what makes- that's what would make it worth it, uh, to me.
+24:11 Um, anyways, so the disclaimer is that the 90-day execution window begins once their credit profile has been verified as funding ready to find as an approved, qualified profile with no negative remarks, low utilization, little no hard inquiries, establish age, a thick file, str- on women's and clean 
+24:29 primary and secondary bureaus with zero derogatory terms confirmed with documented proof. Credit optimization required prior to this threshold does not count towards the 90-day window.
+24:38 The clock starts when you're ready to fund, not before. And obviously, you know, cause they have to be able to be approved first by us, say, like, hey, like, you're actually good for it.
+24:49 So now we actually start the process and we'll work with them to, you know, go through that. And the reason why this mainly exists here is because we will allow for special approved cases, um, cause basically, you know, not everyone's gonna have perfect credit profiles and people are gonna need help 
+25:01 with the process and I'm gonna be able to help those people too. So for the special approved cases, all guarantee terms apply exclusively to the funding execution phase, specifically beginning only once verified, wait, beginning only once verified funding ready status has been confirmed with that.
+25:16 Yeah, so we just said that. Uh, limited additional program access may be extended on a case-by-case basis solely at the program discretion and subject to availability.
+25:26 Basically, that's just saying like, hey, like, if you need some more time for whatever reason, like, let's say, like, you know, you're at the worst case of the scenario and you have, like, uh, like a bankruptcy that you need help with or you, like, you have collections or whatever and like, or late payments
+25:38 in the process is just, you're in the repair process. Cause, um, and those people specifically aren't actually eligible for the main program, but the special proof case would be allowing them into it.
+25:47 For those people that, um, would be special cases allowed into the main program, right? And they're, and they're unable to move forward because they're in the credit optimization phase, which I do help them with.
+25:58 Um, basically is just saying that, like, hey, like, you know, like, like, I'll just give you extra time in the program.
+26:04 program. I'm like, you know, you have to pay for anything and you'll still get your 90 days, right? Of working together, of, you know, going through this process.
+26:11 But, um, yeah, it's just, you know, uh, and I say limited to availability because it's like, dude, it's like, if, if, cause again, it's, it's dependent on people's ability to take action, right?
+26:21 Cause if you're, if you're gonna be in the program and then, you know, I'm telling you, like, you know, what to do and then you're not doing it and then the month goes by two months.
+26:28 . But go by three months, go by and you just didn't send in like a letter to like get yourself in better position.
+26:33 It's like, you know, at some point, you know, it's like, I'm not gonna continue to extend you extra time until you like, you know, you, you, you actually do what you need to do.
+26:44 And I, I'd also be graceful with that. Um, it's just more so gonna be directed towards people that maybe like to try and take up a lot of one on one time.
+26:51 Um, that's taking away. . From the rest of the business and they're just not like, you know, moving forward. But like, as long as they're willing to put in the work and they're willing to like move forward and like, do things.
+27:01 Like, I'm like super graceful. Like, like, again, I'm here to help people get the result. Um, but they just have to be willing to, uh, work and do what's required as well too.
+27:11 So, you know, just, just, you know, simple, simple stuff. Everyone needs to do their part. Um, credit optimization. I'm to talk to you about how timelines are outside of the scope of the guarantee as they are subject to individual credit history, bureau responsiveness, and factors beyond program control
+27:26 . Yeah. So that's specifically for people that are unqualified, that are in the credit optimization phase, right? Uh, that's outside the scope of guarantee because it's like, there's so many.
+27:36 There's so many different ways. Look at it. Like, uh, you can get stuff, you know, optimized quick. Sure. Basically, but at the end of the day, like, nothing's guaranteed in that space.
+27:44 It does take time. But with enough time, you can pretty much get rid of, you can, you can optimize anything and everything with enough time and, uh, you know, uh, correct action.
+27:53 Uh, special proof cases, much demonstrate consistent and document in progress towards funding ready status, lack of active participation, measure product, lack of active participation, measurable progress.
+28:04 Or responsiveness may result in forfeiture of guaranteed eligibility. So I basically just talked about that before, right? It's just like dude, if you're in here, you're not doing anything, you're not communicating, you're not, you're not, you're not using your help, you're not asking for help, and you're
+28:18 , you're trying to push on the guarantee, you're gonna, basically, like, you could lose your, uh, guarantee eligibility because, I mean, the stipulations weren't here anyways, too.
+28:26 So, um, that's, should funding verified ready status not be achieved within the first 12 months of enrollment despite documented consistent effort with compliance with all guided steps, a partial refund of 20% will be issued as a good faith resolution.
+28:40 This program is designed for committed clients pursuing results, not extended access. So that was AI generated. Um, I think I'm gonna refine this, uh, cause obviously this could be a case-by-case basis.
+28:52 This is, But like, dude, like, again, it's just me. If someone's just genuinely trying and they're, you know, positive spirits and they're like, they just need help and they're going through a process.
+29:01 I don't know why it would take more than 12 months. Like, I literally can not imagine. The only reason I couldn't imagine is like, life happened, right?
+29:07 Like, let's say you just had a kid, right? Or something like that. And then you, now you delete three months for the first phase, right?
+29:12 Now you try to pick things up again and then you kind of execute the process slowly, it takes you like a month.
+29:16 I don't want to. Two months to do things and then you're just, you know, turtle casing, you know, along the case, it's like, but you're putting genuine effort into it with the time that you do have.
+29:25 And you still want to be a part of the program. You still want help. Like, dude, I'll help you, right?
+29:28 Like, it's just, uh, so I, I need to fix this part. Um, but anyways, that's the general scope of things.
+29:36 Sorry, this took so long. Holy crap. It's 30 minutes. If you listen to it at 2x speed, it'll be, um.
+29:41 It'll be 15 minutes. Sorry. I haven't been getting into sleep lately, but yeah. Thanks so much. And I'm looking forward to hearing from your response.
+29:53 Um, and I think it also gives you the AI summary as well to, if I close this video. So, um, yeah, appreciate you and thank you.

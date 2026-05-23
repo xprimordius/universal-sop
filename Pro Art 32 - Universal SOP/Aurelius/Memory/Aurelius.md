@@ -1,0 +1,77 @@
+# Aurelius Memory
+
+_Append-only. All facts preserved with timestamps._
+
+## Facts
+- [2026-05-21 20:32] Test fact alpha
+- [2026-05-21 17:37] Test fact alpha
+- [2026-05-21 17:30] Test fact alpha
+- [2026-05-21 17:15] Test fact alpha
+- [2026-05-21 16:50] Test fact alpha
+- [2026-05-21 16:29] Test fact alpha
+- [2026-05-21 16:20] Test fact alpha
+- [2026-05-21 16:19] Test fact alpha
+- [2026-05-21 15:18] Test fact alpha
+- [2026-05-21 15:17] Test fact alpha
+- [2026-05-21 15:17] Test fact alpha
+- [2026-05-21 15:13] Test fact alpha
+- [2026-05-21 15:13] Test fact alpha
+- [2026-05-21 14:50] Test fact alpha
+- [2026-05-21 14:20] Test fact alpha
+- [2026-05-21 14:07] Test fact alpha
+- [2026-05-21 13:50] Test fact alpha
+- [2026-05-21 13:24] Test fact alpha
+- [2026-05-21 13:23] Test fact alpha
+- [2026-05-21 13:18] Test fact alpha
+- [2026-05-21 13:15] Test fact alpha
+- [2026-05-21 12:30] Test fact alpha
+- [2026-05-21 12:18] Test fact alpha
+- [2026-05-21 12:17] Test fact alpha
+- [2026-05-21 12:17] Test fact alpha
+- [2026-05-21 11:35] Test fact alpha
+- [2026-05-21 11:14] Test fact alpha
+- [2026-05-21 10:57] Test fact alpha
+- [2026-05-21 10:54] Test fact alpha
+- [2026-05-21 10:54] Test fact alpha
+- [2026-05-21 10:53] Test fact alpha
+- [2026-05-21 10:53] Test fact alpha
+- [2026-05-21 10:35] Test fact alpha
+- [2026-05-21 10:35] Test fact alpha
+- [2026-05-21 10:28] Test fact alpha
+
+## Preferences
+- [2026-05-21 20:32] Test pref beta
+- [2026-05-21 17:37] Test pref beta
+- [2026-05-21 17:30] Test pref beta
+- [2026-05-21 17:15] Test pref beta
+- [2026-05-21 16:50] Test pref beta
+- [2026-05-21 16:29] Test pref beta
+- [2026-05-21 16:20] Test pref beta
+- [2026-05-21 16:19] Test pref beta
+- [2026-05-21 15:18] Test pref beta
+- [2026-05-21 15:17] Test pref beta
+- [2026-05-21 15:17] Test pref beta
+- [2026-05-21 15:13] Test pref beta
+- [2026-05-21 15:13] Test pref beta
+- [2026-05-21 14:50] Test pref beta
+- [2026-05-21 14:20] Test pref beta
+- [2026-05-21 14:07] Test pref beta
+- [2026-05-21 13:50] Test pref beta
+- [2026-05-21 13:24] Test pref beta
+- [2026-05-21 13:23] Test pref beta
+- [2026-05-21 13:18] Test pref beta
+- [2026-05-21 13:15] Test pref beta
+- [2026-05-21 12:30] Test pref beta
+- [2026-05-21 12:18] Test pref beta
+- [2026-05-21 12:17] Test pref beta
+- [2026-05-21 12:17] Test pref beta
+- [2026-05-21 11:35] Test pref beta
+- [2026-05-21 11:14] Test pref beta
+- [2026-05-21 10:57] Test pref beta
+- [2026-05-21 10:54] Test pref beta
+- [2026-05-21 10:54] Test pref beta
+- [2026-05-21 10:53] Test pref beta
+- [2026-05-21 10:53] Test pref beta
+- [2026-05-21 10:35] Test pref beta
+- [2026-05-21 10:35] Test pref beta
+- [2026-05-21 10:28] Test pref beta

@@ -1,0 +1,2581 @@
+---
+title: Applying $1M/mo Framework to APW
+source: chatgpt
+type: conversation
+person: alan
+created: "2026-02-23T03:43:54.825355+00:00"
+updated: "2026-02-23T04:02:24.865219+00:00"
+year: 2026
+month: 2026-02
+quarter: 2026-Q1
+messages: 5
+shared: False
+id: 699bccd2-b948-832b-af32-86d0fad2de32
+tags:
+  - chatgpt
+  - alan
+  - apw
+  - high-signal
+---
+
+# Applying $1M/mo Framework to APW
+
+---
+
+## 👤 You
+
+> [!info]- Custom instructions
+> The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.
+> Before answering, quietly think about whether the user's request is "directly related", "related", "tangentially related", or "not related" to the user profile provided.
+> Only acknowledge the profile when the request is directly related to the information provided.
+> Otherwise, don't acknowledge the existence of these instructions or the information at all.
+> User profile:
+> ```Other Information: I’m here to fully self-actualize across health, wealth, love, happiness, and spiritual power. My goals: $100K–$1M+/mo, shredded beachbody, divine love, magnetic energy, joyful freedom, and manifestation mastery. I resonate with Bashar, Abraham Hicks, Tony Robbins, Hormozi, and Andy Elliott. I value clarity, alignment, execution, mastery, and heart-based consciousness. Sometimes I drift into distraction or low energy—I want help realigning fast. Always speak to the version of me that’s powerful, loving, whole, and fulfilling his divine mission. Full master instructions are stored in canvas under “Master GPT Instructions.
+> 
+> ...
+> 
+> Aspiring Entrepreneur that is learning business operations and tactics from the best in the world. Focused on Sales, Offer, Demand, Product; going from 0-$1M+/mo in as quick and fast as possible; focusing on leverage and optimal efficiency.
+> 
+> Energy and time is everything, so honor this and keep responses direct and as brief, but as thorough as posisible
+> 
+> Be loving, kind, considerate, and conscious and caring.
+> 
+> Do not make mistakes, and ensure that everything said is 100% true.
+> 
+> Be a perfect listener and do not miss or forget things.
+> ```
+> 
+> The user provided the additional info about how they would like you to respond:
+> ```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!
+> 
+> All the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!
+> 
+> Accuracy and precision is most important. Never fabricate information. Always cite sources and provide links. Brief and debrief.
+> 
+> 
+> Speak in mastery. Communicate in headlines. Maximize clarity, brevity, precision, and intuitive understanding. Eliminate confusion. Prioritize strategy, emotional intelligence, and vortex alignment. Operate like my elite strategic partner, spiritual mirror, execution coach, and heart-based closer. Integrate: Bashar’s excitement formula, Abraham Hicks’ vortex, Andy Elliott’s sales ethics, and principles from How to Win Friends and Everyone Communicates. Be powerful, kind, direct, and transformational. Mirror my highest self and vision at all times. Never let me settle.
+> 
+> ...
+> 
+> Straight the the point, optimal, efficient, strategic, detailed, precise, accurate, brief, professional, elite, tactical, intelligent, wise, sharp, thorough, cognizant, conscious. 
+> 
+> Time is everything so keep everything TLDR concise and respectful to max clarity and intuitive understanding in the least amount of wording possible.
+> 
+> Be sure to be a perfected listener and not make mistakes.
+> 
+> Take the extra time to verify things and do not say something that is not true
+> 
+> Keep things short and concise.
+> Direct with respect to time.
+> 
+> Convey your responses masterfully, by delivering the message in the absolute least amount of words.
+> 
+> Less is more. Do not make mistakes. Do not hallucinate. Do not fabricate information. Only speak in 100% grounded verifiable truths. Verify.```
+
+
+---
+
+## 👤 You
+
+follow the transcript from the $1m/mo teacher/master. The other doc is the doc he's referencing.
+
+help me apply this to Ascend Prime Wealth APW
+
+---
+
+> [!abstract]- Tool
+> Make sure to include fileciteturn0file0 in your response to cite this file, or to surface it as a link.
+> 
+> ﻿Productizing Your Agency/Coaching/Consulting Biz
+> 
+> 
+> Recap: To scale to $1M/mo+ you must have three things:
+> 1. A consistent, repeatable and scalable way to generate qualified sales calls
+> 2. A consistent, repeatable and scalable way to close clients on a high-ticket offer
+> 3. A consistent, repeatable and scalable way to overdeliver on the results they paid for
+> 
+> 
+> The only way to achieve this at scale whilst maintaining 50%+ margins is to productize your business.
+> Here’s How…
+> Step 1: Solve one singular problem.
+> This might be:
+> * Lead generation
+> * Sales
+> * CRO
+> * Social growth
+> * Make more money
+> * And 101 other potential solvable problems…
+> 
+> 
+> But the key is you solve only one of them. If you do lead generation, social growth and CRO all in one, it will be impossible to productize your business because you have a bunch of different clients coming in with all different requirements. You cannot streamline this unless you’re at 8-figures+ (and it’s almost impossible to get to 8-figures+ if you aren’t hyper focused on one solving one problem).
+> 
+> 
+> Instead, pick one singular problem you solve and focus all your energy on that. Nothing else.
+> Step 2: Solve this one particular problem for one particular person.
+> What’s just as bad as solving multiple problems is solving the same problem for multiple people.
+> 
+> 
+> You have to choose one problem for one person.
+> 
+> 
+> Not only does this make your adspend much more efficient (specificity sells), but you also create a conveyor belt like acquisition system to where every one who books a call with you has the exact same problems and by extension has the exact same desires.
+> 
+> 
+> So in other words, once you close one person, you should be able to replicate that same process for every other prospect (because they’re all the same).
+> 
+> 
+> This is also what makes it tremendously easier to hire closers to take over sales for you.
+> 
+> 
+> A recurring theme with this model is: once you get “it” working for one client, you just need to repeat.
+> 
+> 
+> Example:
+> * You close one client from one script, just do more. Rinse and repeat.
+> * You deliver results for one client, just do more. Rinse and repeat.
+> Step 3: Solve the particular problem, for the particular client using one particular method.
+> Do NOT have multiple services or ways you deliver the result.
+> 
+> 
+> Have one single service/method to getting the result.
+> 
+> 
+> Why? Again, it’s impossible to productize an agency/coaching business that has 5 different services or deliverables.
+> 
+> 
+> And if you do make it work, your fulfilment labor will be through the roof as more often than not you will have to hire an ‘expert’ for each individual service/deliverable which will eat into your margins ultimately making the model not scalable.
+> 
+> 
+> Instead you want to create a “Fulfilment Conveyorbelt” to where you implement on the exact same process/services/deliverables in the exact same way with the exact same COGS every single time for every single client.
+> 
+> 
+> Any variation in this will create MASSIVE operational complexity (as you scale).
+> 
+> 
+> Example: All we do is Facebook Ads for clients. We don’t do google ads, tiktok ads, SEO + websites. Just FB.
+> 
+> 
+> And we do FB ads in a very particular (same) way for every client.
+> 
+> 
+> And whatever service/deliverables you pick, make sure that it delivers the outcome your market wants.
+> 
+> 
+> Your clients do not care what you do for them/coach them on, all they care about is that it gets them their desired result.
+> 
+> 
+> You don’t care if we run your FB ads or if we did outbound email, as long as you get qualified sales calls, close clients, get your clients great results, and you scale from $100k/m to $250k/m to $500k/m+, you build a great team during that process who helps you run the day to day, etc you don’t care. And your clients are the exact same.
+> The Result…
+> Every client who comes to you has the exact same:
+> * Problems
+> * Desires
+> * Business model/current situation (if B2C)
+> 
+> 
+> And you will implement on the exact same:
+> * Service
+> * Client journey
+> 
+> 
+> For every single client…
+> 
+> 
+> NOW you have a scalable model that will take you to $1M/mo as long as your TAM permits.
+> Additional Benefits:
+> * P&L Efficiency
+>    * Your become a lot more lean (more profitable) when you’re doing the same thing over and over again for your clients, especially when it comes to fulfilment labor which is usually the biggest cost for service based/1on1 type businesses.
+>       * This is the only way you’ll see your labor @ 25% of your P&L
+>    * Your marketing spend is a lot more profitable/effcient as specificity sells always, especially on cold ads with people who don’t know you.
+> * Hiring And Ramping Talent + Scaling Team
+>    * Once you hire one successful position (whether it’s a closer, AM, etc) the beauty of this model is all you need to do is rinse and repeat that process because it’s exactly the same for every closer or AM.
+>       * You need to hire the same person over and over again, making it scalable.
+>    * Also, the benefits you get from a model like this when it comes to ramping new team members is honestly unreal. We can take a new AM for example and ramp them in 30 days, simply because there are 5-6 things we need to train them on and once they understand those they can immediately get our clients results.
+> * Unit Economics
+>    * Once you’ve attracted and closed 5-10 clients at a specific price point, you fulfil on the promises to those clients and you do this using our P&L model, literally all you need to do to scale is MORE.
+>       * More team, more adspend. More team, more adspend.
+
+
+---
+
+> [!abstract]- Tool
+> Make sure to include fileciteturn0file1 in your response to cite this file, or to surface it as a link.
+> 
+> WEBVTT
+> 
+> 1
+> 00:00:00.000 --> 00:00:02.050
+> Alright, so this is gonna be on productizing your agency
+> 
+> 2
+> 00:00:02.285 --> 00:00:03.685
+> coaching or consulting business, okay?
+> 
+> 3
+> 00:00:03.685 --> 00:00:07.005
+> And specifically standardizing every single aspect of
+> 
+> 4
+> 00:00:07.005 --> 00:00:08.205
+> what it is that you do, right?
+> 
+> 5
+> 00:00:08.505 --> 00:00:11.565
+> And to recap, to scale to a million a month plus,
+> 
+> 6
+> 00:00:11.565 --> 00:00:12.885
+> you've gotta have three core things.
+> 
+> 7
+> 00:00:12.885 --> 00:00:14.525
+> Number one is a consistent, repeatable,
+> 
+> 8
+> 00:00:14.525 --> 00:00:16.925
+> and scalable way to generate qualified sales calls.
+> 
+> 9
+> 00:00:17.065 --> 00:00:19.325
+> Number two, a consistent, repeatable
+> 
+> 10
+> 00:00:19.325 --> 00:00:22.165
+> and scalable way to close clients on a high ticket offer,
+> 
+> 11
+> 00:00:22.905 --> 00:00:24.485
+> or essentially to close the
+> 
+> 12
+> 00:00:24.485 --> 00:00:25.565
+> sales calls that you're generating.
+> 
+> 13
+> 00:00:25.585 --> 00:00:27.685
+> You've gotta close those guys on a high ticket offer.
+> 
+> 14
+> 00:00:27.905 --> 00:00:30.245
+> And then number three is a consistent, repeatable,
+> 
+> 15
+> 00:00:30.245 --> 00:00:31.925
+> and scalable way to overdeliver on the
+> 
+> 16
+> 00:00:31.925 --> 00:00:33.085
+> results that they paid for.
+> 
+> 17
+> 00:00:33.085 --> 00:00:33.885
+> If you have those three things,
+> 
+> 18
+> 00:00:33.885 --> 00:00:34.925
+> you can scale to a million a month.
+> 
+> 19
+> 00:00:35.065 --> 00:00:37.565
+> Now, the only way to achieve this, though, uh,
+> 
+> 20
+> 00:00:37.825 --> 00:00:42.245
+> what's maintaining 50% plus profit margins is to productize
+> 
+> 21
+> 00:00:42.795 --> 00:00:45.605
+> your business, productize the process
+> 
+> 22
+> 00:00:45.665 --> 00:00:48.285
+> of getting qualified sales calls, productize the process
+> 
+> 23
+> 00:00:48.385 --> 00:00:49.845
+> of closing clients, um,
+> 
+> 24
+> 00:00:49.985 --> 00:00:52.325
+> and productize the, uh, um,
+> 
+> 25
+> 00:00:52.595 --> 00:00:54.365
+> fulfillment aspect of what it is that you do.
+> 
+> 26
+> 00:00:55.145 --> 00:00:56.485
+> Now, in order to do that,
+> 
+> 27
+> 00:00:56.785 --> 00:00:58.325
+> you've gotta have the following three
+> 
+> 28
+> 00:00:58.325 --> 00:00:59.405
+> steps I'm about to show you.
+> 
+> 29
+> 00:00:59.405 --> 00:01:01.805
+> Otherwise, it's impossible to productize.
+> 
+> 30
+> 00:01:01.805 --> 00:01:03.685
+> And by extension, it's impossible.
+> 
+> 31
+> 00:01:03.855 --> 00:01:06.005
+> Maybe not impossible to scale to a million a month,
+> 
+> 32
+> 00:01:06.265 --> 00:01:07.925
+> but it'll be impossible to do.
+> 
+> 33
+> 00:01:07.945 --> 00:01:09.965
+> So while it's maintaining 50% margins,
+> 
+> 34
+> 00:01:09.965 --> 00:01:11.805
+> because you're gonna have to hire so many different people
+> 
+> 35
+> 00:01:12.065 --> 00:01:13.645
+> to handle all of these different problems
+> 
+> 36
+> 00:01:13.645 --> 00:01:14.845
+> and different clients and different this,
+> 
+> 37
+> 00:01:15.045 --> 00:01:17.205
+> and different that, um, that it's gonna eat into your margin
+> 
+> 38
+> 00:01:17.305 --> 00:01:19.405
+> so much to where it might even just not even make sense
+> 
+> 39
+> 00:01:19.405 --> 00:01:21.445
+> to scale, because you're just gonna be so unprofitable,
+> 
+> 40
+> 00:01:21.745 --> 00:01:23.005
+> you know, it just doesn't make sense.
+> 
+> 41
+> 00:01:23.065 --> 00:01:25.285
+> So you've gotta have these three things in place in order
+> 
+> 42
+> 00:01:25.285 --> 00:01:29.045
+> to do so and quickly, if you are, you know, 20,
+> 
+> 43
+> 00:01:29.045 --> 00:01:30.085
+> 30 KA month right?
+> 
+> 44
+> 00:01:30.085 --> 00:01:31.485
+> Now, you might be looking at this
+> 
+> 45
+> 00:01:31.485 --> 00:01:33.125
+> and thinking, oh, that's not gonna be a problem, right?
+> 
+> 46
+> 00:01:33.125 --> 00:01:34.525
+> Oh, I'm not gonna have to worry about this.
+> 
+> 47
+> 00:01:34.945 --> 00:01:38.765
+> But if you're at 200 or 300 KA month, you are most li
+> 
+> 48
+> 00:01:38.765 --> 00:01:40.925
+> and you're not following, you're not already productized.
+> 
+> 49
+> 00:01:41.345 --> 00:01:43.885
+> You are going to be, this is gonna hit home for you a lot.
+> 
+> 50
+> 00:01:44.145 --> 00:01:46.765
+> And so, in other words, if you're at 20 to 30 KA month,
+> 
+> 51
+> 00:01:46.975 --> 00:01:48.725
+> trust me, just put your faith into me
+> 
+> 52
+> 00:01:48.725 --> 00:01:52.205
+> and just know that if you don't change this now,
+> 
+> 53
+> 00:01:52.505 --> 00:01:53.565
+> it will become a problem.
+> 
+> 54
+> 00:01:53.995 --> 00:01:56.645
+> Just, I, I promise you, I've been through this myself.
+> 
+> 55
+> 00:01:56.815 --> 00:01:58.125
+> We've worked with hundreds of clients,
+> 
+> 56
+> 00:01:58.145 --> 00:01:59.765
+> and I see this all of the time.
+> 
+> 57
+> 00:02:00.025 --> 00:02:02.085
+> If you're scaling and you're like, oh my God, this is
+> 
+> 58
+> 00:02:02.105 --> 00:02:05.205
+> so insanely complex, I have no idea how I'm gonna get to 500
+> 
+> 59
+> 00:02:05.225 --> 00:02:06.805
+> or a million a month with the current model.
+> 
+> 60
+> 00:02:06.955 --> 00:02:09.245
+> It's because of this. All right, so the three steps,
+> 
+> 61
+> 00:02:09.245 --> 00:02:13.005
+> number one, step one to becoming a productized, uh, uh,
+> 
+> 62
+> 00:02:13.165 --> 00:02:15.045
+> NCO coaching or consulting business is
+> 
+> 63
+> 00:02:15.045 --> 00:02:18.165
+> to solve one singular problem, period.
+> 
+> 64
+> 00:02:18.615 --> 00:02:19.885
+> Solve one problem. Okay?
+> 
+> 65
+> 00:02:20.035 --> 00:02:22.285
+> That one problem could be any problem.
+> 
+> 66
+> 00:02:22.545 --> 00:02:24.365
+> It doesn't matter what the problem is that
+> 
+> 67
+> 00:02:24.365 --> 00:02:25.685
+> what matters is that you solve one of them.
+> 
+> 68
+> 00:02:25.745 --> 00:02:27.445
+> So it might be lead generation, it might be sales,
+> 
+> 69
+> 00:02:27.445 --> 00:02:29.085
+> it might be CRO, social growth,
+> 
+> 70
+> 00:02:29.085 --> 00:02:30.245
+> it might be making more money.
+> 
+> 71
+> 00:02:30.245 --> 00:02:32.365
+> It might be, uh, you know, if it's like B two C, uh,
+> 
+> 72
+> 00:02:32.545 --> 00:02:34.125
+> it might be, uh, you know, losing weight
+> 
+> 73
+> 00:02:34.125 --> 00:02:35.285
+> or a weight loss type offer.
+> 
+> 74
+> 00:02:35.285 --> 00:02:36.405
+> If you're, you know, again, B two
+> 
+> 75
+> 00:02:36.445 --> 00:02:38.245
+> C, whatever it is, doesn't matter.
+> 
+> 76
+> 00:02:38.245 --> 00:02:40.645
+> There's 101 potential solvable problems.
+> 
+> 77
+> 00:02:40.985 --> 00:02:43.405
+> The key though is that you only solve one of them,
+> 
+> 78
+> 00:02:43.425 --> 00:02:44.965
+> and you only focus everything that you do
+> 
+> 79
+> 00:02:45.935 --> 00:02:48.245
+> under one problem, not multiple.
+> 
+> 80
+> 00:02:48.245 --> 00:02:50.845
+> Alright? If you do lead generation social growth
+> 
+> 81
+> 00:02:50.845 --> 00:02:53.325
+> and CRO all in one, it'll be impro impossible
+> 
+> 82
+> 00:02:53.325 --> 00:02:54.725
+> to productize your business
+> 
+> 83
+> 00:02:54.725 --> 00:02:56.845
+> because you have a bunch of different clients coming in
+> 
+> 84
+> 00:02:56.845 --> 00:02:58.645
+> with all different requirements. And you
+> 
+> 85
+> 00:02:58.645 --> 00:02:59.725
+> Can't streamline this
+> 
+> 86
+> 00:02:59.865 --> 00:03:01.725
+> unless you're at like eight figures
+> 
+> 87
+> 00:03:01.725 --> 00:03:02.885
+> plus 10 million plus a year.
+> 
+> 88
+> 00:03:03.185 --> 00:03:06.445
+> And even then, uh, you know, it's, it's almost impossible
+> 
+> 89
+> 00:03:06.445 --> 00:03:08.925
+> to get to eight figures or 10 million a year if you aren't
+> 
+> 90
+> 00:03:08.925 --> 00:03:10.245
+> hyper-focused on solving one problem.
+> 
+> 91
+> 00:03:10.265 --> 00:03:11.445
+> So it's kind of a catch 22.
+> 
+> 92
+> 00:03:11.545 --> 00:03:13.325
+> So the solution is just solve one problem.
+> 
+> 93
+> 00:03:13.705 --> 00:03:16.085
+> Um, and so, as I say, instead, pick one singular problem
+> 
+> 94
+> 00:03:16.085 --> 00:03:18.405
+> that you solve and focus all your energy on that
+> 
+> 95
+> 00:03:18.665 --> 00:03:20.845
+> and nothing else, that's key.
+> 
+> 96
+> 00:03:20.845 --> 00:03:23.845
+> Alright? Then what kind of stems from that is steps two,
+> 
+> 97
+> 00:03:23.975 --> 00:03:26.205
+> which is then solve that one particular problem
+> 
+> 98
+> 00:03:26.625 --> 00:03:28.325
+> for only one particular person.
+> 
+> 99
+> 00:03:28.355 --> 00:03:30.045
+> Alright? So what's, just as bad
+> 
+> 100
+> 00:03:30.045 --> 00:03:31.805
+> as solving multiple problems is solving the same
+> 
+> 101
+> 00:03:31.805 --> 00:03:32.925
+> problem for multiple people.
+> 
+> 102
+> 00:03:33.665 --> 00:03:37.325
+> You have to choose one problem for one person, alright?
+> 
+> 103
+> 00:03:37.545 --> 00:03:40.205
+> Not only does this make your ad spend much more efficient
+> 
+> 104
+> 00:03:40.235 --> 00:03:42.005
+> because specificity sells.
+> 
+> 105
+> 00:03:42.105 --> 00:03:44.405
+> So anytime you, you know, running ads, you wanna be
+> 
+> 106
+> 00:03:44.405 --> 00:03:45.405
+> as specific as possible,
+> 
+> 107
+> 00:03:45.505 --> 00:03:48.085
+> but if you are trying to speak to five different industries,
+> 
+> 108
+> 00:03:48.265 --> 00:03:49.685
+> you, it's, it's impossible for you
+> 
+> 109
+> 00:03:49.685 --> 00:03:52.565
+> to have specific language speaking to specific pain points
+> 
+> 110
+> 00:03:52.635 --> 00:03:54.045
+> that a certain industry actually faces
+> 
+> 111
+> 00:03:54.045 --> 00:03:54.925
+> because you're trying to
+> 
+> 112
+> 00:03:54.925 --> 00:03:56.045
+> speak to five different people, right?
+> 
+> 113
+> 00:03:56.235 --> 00:03:59.085
+> It's the typical, um, saying of, you know, if you're try
+> 
+> 114
+> 00:03:59.085 --> 00:04:00.645
+> and chase two rabbits, you catch none, right?
+> 
+> 115
+> 00:04:00.645 --> 00:04:02.365
+> But if you go after one, you're gonna get the one.
+> 
+> 116
+> 00:04:02.465 --> 00:04:04.125
+> And that kind of speaks to the specificity
+> 
+> 117
+> 00:04:04.125 --> 00:04:05.245
+> requirement in marketing.
+> 
+> 118
+> 00:04:05.245 --> 00:04:06.325
+> You've gotta be specific,
+> 
+> 119
+> 00:04:06.505 --> 00:04:07.845
+> but you can't if you're solving
+> 
+> 120
+> 00:04:08.205 --> 00:04:09.365
+> multiple problems for multiple people.
+> 
+> 121
+> 00:04:09.585 --> 00:04:11.725
+> So not only is it gonna make your ad spend a whole lot more
+> 
+> 122
+> 00:04:11.925 --> 00:04:15.645
+> efficient, but you also co uh, create a conveyor belt type,
+> 
+> 123
+> 00:04:15.865 --> 00:04:18.805
+> uh, acquisition system to where everyone who books in a call
+> 
+> 124
+> 00:04:18.805 --> 00:04:20.605
+> with you has the same exact problems
+> 
+> 125
+> 00:04:20.605 --> 00:04:23.045
+> and by extension has the same exact desires
+> 
+> 126
+> 00:04:23.045 --> 00:04:25.485
+> because you're solving the same thing for the same person.
+> 
+> 127
+> 00:04:25.825 --> 00:04:27.845
+> So, in other words, once you close one person,
+> 
+> 128
+> 00:04:28.825 --> 00:04:30.725
+> you should be able to then replicate that process
+> 
+> 129
+> 00:04:31.105 --> 00:04:33.885
+> for every other prospect because they're all the same.
+> 
+> 130
+> 00:04:34.025 --> 00:04:36.525
+> So what then also stems from that scalability.
+> 
+> 131
+> 00:04:36.755 --> 00:04:39.005
+> This is why in order to scale, you have
+> 
+> 132
+> 00:04:39.005 --> 00:04:40.165
+> to productize, all right?
+> 
+> 133
+> 00:04:40.385 --> 00:04:44.165
+> Um, this also makes it tremendously easier to hire closers
+> 
+> 134
+> 00:04:44.165 --> 00:04:45.725
+> to take over sales calls for you as well.
+> 
+> 135
+> 00:04:46.005 --> 00:04:48.765
+> I see so many founders who have a great close rate, but
+> 
+> 136
+> 00:04:48.765 --> 00:04:52.405
+> because they rely on their gut, their past experience
+> 
+> 137
+> 00:04:52.585 --> 00:04:54.005
+> and their knowledge, et cetera,
+> 
+> 138
+> 00:04:54.025 --> 00:04:56.925
+> to get the sale across the line, it's impossible for
+> 
+> 139
+> 00:04:56.925 --> 00:04:58.765
+> that specific founder to hire a sales team
+> 
+> 140
+> 00:04:58.765 --> 00:05:00.245
+> because they don't have the,
+> 
+> 141
+> 00:05:00.305 --> 00:05:02.245
+> the same past experiences as what the founder has.
+> 
+> 142
+> 00:05:02.245 --> 00:05:04.165
+> They don't have the same knowledge on the, on the product
+> 
+> 143
+> 00:05:04.185 --> 00:05:06.805
+> or the pro, uh, prospect, uh, as the founder does.
+> 
+> 144
+> 00:05:06.985 --> 00:05:10.365
+> And so if the founder is relying on their past knowledge,
+> 
+> 145
+> 00:05:10.455 --> 00:05:13.085
+> experience, their just gut feeling, all that type of stuff
+> 
+> 146
+> 00:05:13.085 --> 00:05:15.885
+> to get the sale, they can't replicate that.
+> 
+> 147
+> 00:05:15.885 --> 00:05:18.005
+> That's not a replicable sales, uh, uh,
+> 
+> 148
+> 00:05:18.025 --> 00:05:19.245
+> uh, sales process, right?
+> 
+> 149
+> 00:05:19.425 --> 00:05:21.005
+> And so, again, they can't scale.
+> 
+> 150
+> 00:05:21.195 --> 00:05:22.285
+> Instead, it's much easier
+> 
+> 151
+> 00:05:22.285 --> 00:05:24.565
+> to build a sales team when you're selling the same person
+> 
+> 152
+> 00:05:25.075 --> 00:05:28.845
+> over and over and over again using the same script over
+> 
+> 153
+> 00:05:28.845 --> 00:05:30.085
+> and over and over again.
+> 
+> 154
+> 00:05:30.085 --> 00:05:32.365
+> But again, if you're selling multiple people, um,
+> 
+> 155
+> 00:05:32.365 --> 00:05:33.485
+> with multiple different problems,
+> 
+> 156
+> 00:05:33.665 --> 00:05:36.925
+> you can't develop one script, one sales per uh, system
+> 
+> 157
+> 00:05:36.985 --> 00:05:38.165
+> that's gonna work for everyone.
+> 
+> 158
+> 00:05:38.345 --> 00:05:40.685
+> So it makes scaling the team hard, which again,
+> 
+> 159
+> 00:05:40.785 --> 00:05:42.965
+> by extension makes scaling revenue harder, okay?
+> 
+> 160
+> 00:05:43.185 --> 00:05:44.445
+> Now, the only way you can get to this point,
+> 
+> 161
+> 00:05:44.445 --> 00:05:46.685
+> however, is through solving one problem for one person
+> 
+> 162
+> 00:05:46.865 --> 00:05:48.245
+> who really needs that problem solved.
+> 
+> 163
+> 00:05:48.245 --> 00:05:50.045
+> Obviously you've gotta make sure that the problem
+> 
+> 164
+> 00:05:50.045 --> 00:05:51.805
+> that you're solving for the particular person
+> 
+> 165
+> 00:05:51.805 --> 00:05:54.045
+> that you've chose aligns with what it is
+> 
+> 166
+> 00:05:54.045 --> 00:05:55.485
+> that their biggest desire is, right?
+> 
+> 167
+> 00:05:55.485 --> 00:05:57.245
+> So you've gotta find one person,
+> 
+> 168
+> 00:05:57.515 --> 00:05:58.525
+> what is their biggest problem?
+> 
+> 169
+> 00:05:58.525 --> 00:05:59.605
+> What is their biggest issue?
+> 
+> 170
+> 00:05:59.605 --> 00:06:01.685
+> And bikes that, you know, the inverse of that is typically
+> 
+> 171
+> 00:06:01.685 --> 00:06:02.765
+> what is their biggest desire?
+> 
+> 172
+> 00:06:02.985 --> 00:06:05.365
+> And then you just wanna focus on solving that one thing for
+> 
+> 173
+> 00:06:05.365 --> 00:06:06.405
+> that one person, all right?
+> 
+> 174
+> 00:06:06.705 --> 00:06:09.205
+> Um, and so you, you'll find a recurring theme
+> 
+> 175
+> 00:06:09.205 --> 00:06:11.485
+> with this model is once you get it working,
+> 
+> 176
+> 00:06:11.665 --> 00:06:13.845
+> and it could be the sales process, it could be, you know,
+> 
+> 177
+> 00:06:13.845 --> 00:06:15.405
+> fulfillment, it could be the ads,
+> 
+> 178
+> 00:06:15.625 --> 00:06:18.245
+> it could be whatever it is, once you get it working the
+> 
+> 179
+> 00:06:18.245 --> 00:06:19.565
+> thing working for one client,
+> 
+> 180
+> 00:06:20.185 --> 00:06:22.045
+> you then just need to repeat, okay?
+> 
+> 181
+> 00:06:22.045 --> 00:06:25.245
+> So for example, you close one client from one script, right?
+> 
+> 182
+> 00:06:25.265 --> 00:06:27.085
+> We create a script, and again, we're gonna be working
+> 
+> 183
+> 00:06:27.085 --> 00:06:28.405
+> with you on this obviously anyway,
+> 
+> 184
+> 00:06:28.585 --> 00:06:30.685
+> but, you know, we'll create one sales script with you,
+> 
+> 185
+> 00:06:31.865 --> 00:06:35.325
+> and then if you use that and you close one client, well,
+> 
+> 186
+> 00:06:35.325 --> 00:06:36.805
+> because every client's the same
+> 
+> 187
+> 00:06:36.905 --> 00:06:38.685
+> and every client has the same problem, well,
+> 
+> 188
+> 00:06:38.685 --> 00:06:40.725
+> that sales script, because it's been proven with one client,
+> 
+> 189
+> 00:06:41.185 --> 00:06:43.925
+> you can then just replicate that and just do more, alright?
+> 
+> 190
+> 00:06:43.955 --> 00:06:45.485
+> Just rinse and repeat for the next client.
+> 
+> 191
+> 00:06:45.675 --> 00:06:48.925
+> Same like every single person that we speak to, we take them
+> 
+> 192
+> 00:06:48.925 --> 00:06:51.845
+> through the exact same sales process every single time.
+> 
+> 193
+> 00:06:52.145 --> 00:06:54.725
+> So then again, it makes it way easier to hire closers,
+> 
+> 194
+> 00:06:54.725 --> 00:06:57.845
+> makes it way easier for that system to run without me in it.
+> 
+> 195
+> 00:06:58.185 --> 00:06:59.725
+> Um, and it's just way more scalable.
+> 
+> 196
+> 00:06:59.875 --> 00:07:01.805
+> It's the same thing on with your fulfillment, right?
+> 
+> 197
+> 00:07:01.905 --> 00:07:03.805
+> So you deliver results for, you know,
+> 
+> 198
+> 00:07:03.805 --> 00:07:05.205
+> if you get bring on one client
+> 
+> 199
+> 00:07:05.785 --> 00:07:07.445
+> and you get them results, well, guess what?
+> 
+> 200
+> 00:07:07.505 --> 00:07:09.485
+> Now, maybe not off after one client,
+> 
+> 201
+> 00:07:09.545 --> 00:07:10.805
+> but you know, there's gonna be some tweaks
+> 
+> 202
+> 00:07:10.805 --> 00:07:11.805
+> that you've gotta make and whatnot.
+> 
+> 203
+> 00:07:11.805 --> 00:07:14.605
+> But essentially, if you get it working for one person,
+> 
+> 204
+> 00:07:14.995 --> 00:07:17.365
+> well now you just gotta rinse and repeat that same pro.
+> 
+> 205
+> 00:07:17.685 --> 00:07:19.285
+> Whatever you did for that one person that got the result,
+> 
+> 206
+> 00:07:19.345 --> 00:07:21.285
+> you just rinse and repeat that for every other client
+> 
+> 207
+> 00:07:21.285 --> 00:07:23.045
+> because every other client is the same person
+> 
+> 208
+> 00:07:23.195 --> 00:07:24.725
+> that you just delivered the result for
+> 
+> 209
+> 00:07:24.795 --> 00:07:26.965
+> with the same problem, the same desire, the same business,
+> 
+> 210
+> 00:07:26.985 --> 00:07:29.765
+> the same, uh, you know, um, access to capital,
+> 
+> 211
+> 00:07:29.865 --> 00:07:31.205
+> the same resources, et cetera.
+> 
+> 212
+> 00:07:31.205 --> 00:07:32.045
+> So if it worked for one
+> 
+> 213
+> 00:07:32.045 --> 00:07:33.165
+> person, it can work for the next person.
+> 
+> 214
+> 00:07:33.305 --> 00:07:35.285
+> So then you just gotta do more run and repeat.
+> 
+> 215
+> 00:07:35.285 --> 00:07:37.525
+> And again, what does that mean? It means it's way more
+> 
+> 216
+> 00:07:37.725 --> 00:07:39.885
+> scalable, which goes back to this idea here.
+> 
+> 217
+> 00:07:40.145 --> 00:07:41.365
+> You have these three things in place
+> 
+> 218
+> 00:07:41.945 --> 00:07:43.245
+> and you can scale to a million a month.
+> 
+> 219
+> 00:07:43.305 --> 00:07:45.005
+> And so the way in which you achieve that is
+> 
+> 220
+> 00:07:45.005 --> 00:07:47.445
+> through productizing, because the way in which you have a
+> 
+> 221
+> 00:07:47.445 --> 00:07:48.525
+> consistent, repeatable
+> 
+> 222
+> 00:07:48.525 --> 00:07:50.525
+> and scalable, um, uh, way
+> 
+> 223
+> 00:07:50.525 --> 00:07:52.245
+> to close clients on a high ticket offer is
+> 
+> 224
+> 00:07:52.245 --> 00:07:54.245
+> by closing the same person with the same set of problems.
+> 
+> 225
+> 00:07:54.395 --> 00:07:56.925
+> Same thing with, uh, how do you deliver over deliver, um,
+> 
+> 226
+> 00:07:57.785 --> 00:08:00.565
+> on the results for a bunch of your clients in a consistent,
+> 
+> 227
+> 00:08:00.565 --> 00:08:01.645
+> repeatable, and scalable manner.
+> 
+> 228
+> 00:08:01.675 --> 00:08:03.725
+> It's by just doing the same thing for every single client.
+> 
+> 229
+> 00:08:03.725 --> 00:08:05.525
+> Just rinse and repeat, bang, next client,
+> 
+> 230
+> 00:08:05.555 --> 00:08:06.885
+> bang, bang, bang, bang.
+> 
+> 231
+> 00:08:06.965 --> 00:08:09.005
+> Whereas if it's contextual and it's tailored
+> 
+> 232
+> 00:08:09.065 --> 00:08:11.885
+> and it's sp specific for each individual client
+> 
+> 233
+> 00:08:11.905 --> 00:08:13.725
+> and things change and whatnot, that's
+> 
+> 234
+> 00:08:13.725 --> 00:08:16.445
+> where the operational complexity becomes almost too much
+> 
+> 235
+> 00:08:16.445 --> 00:08:18.645
+> to bear, and it becomes unscalable, all right?
+> 
+> 236
+> 00:08:18.745 --> 00:08:20.605
+> Or again, if you are able to manage it,
+> 
+> 237
+> 00:08:20.605 --> 00:08:22.765
+> you're gonna be massively in and into your margins
+> 
+> 238
+> 00:08:22.765 --> 00:08:25.285
+> because you're gonna be spending so much to be able
+> 
+> 239
+> 00:08:25.305 --> 00:08:26.365
+> to operate that system
+> 
+> 240
+> 00:08:26.365 --> 00:08:28.605
+> because it is so complex, it's not simple,
+> 
+> 241
+> 00:08:28.775 --> 00:08:31.325
+> which obviously simplicity typically, uh, uh,
+> 
+> 242
+> 00:08:31.345 --> 00:08:32.645
+> bleeds into efficiency,
+> 
+> 243
+> 00:08:32.785 --> 00:08:35.245
+> and efficiency is a good thing for the p and l.
+> 
+> 244
+> 00:08:35.305 --> 00:08:38.325
+> All right? So the final thing is step three, uh, which is
+> 
+> 245
+> 00:08:38.385 --> 00:08:39.765
+> to solve the particular problem
+> 
+> 246
+> 00:08:39.985 --> 00:08:43.005
+> for the particular client using one particular method.
+> 
+> 247
+> 00:08:43.235 --> 00:08:44.285
+> This is why, um,
+> 
+> 248
+> 00:08:44.485 --> 00:08:46.325
+> I think I mentioned earlier about the full service agency.
+> 
+> 249
+> 00:08:46.995 --> 00:08:49.005
+> Full service agencies are the worst to run
+> 
+> 250
+> 00:08:49.005 --> 00:08:51.485
+> because you've got a bunch of different deliverables,
+> 
+> 251
+> 00:08:51.565 --> 00:08:53.005
+> a bunch of different services, okay?
+> 
+> 252
+> 00:08:53.145 --> 00:08:54.845
+> You do not ha uh, do
+> 
+> 253
+> 00:08:54.845 --> 00:08:56.925
+> Not, not have, you do not want to have, I was gonna say
+> 
+> 254
+> 00:08:57.845 --> 00:09:00.245
+> multiple services or ways in which you deliver the result,
+> 
+> 255
+> 00:09:00.355 --> 00:09:03.765
+> have one single service slash method to getting the result.
+> 
+> 256
+> 00:09:03.865 --> 00:09:05.725
+> Why? Because again, it's impossible
+> 
+> 257
+> 00:09:05.725 --> 00:09:07.365
+> to productize an agency coaching business
+> 
+> 258
+> 00:09:07.385 --> 00:09:08.765
+> or consulting business, whatever it is
+> 
+> 259
+> 00:09:08.835 --> 00:09:11.005
+> that has five different services or deliverables
+> 
+> 260
+> 00:09:11.005 --> 00:09:12.285
+> or 10 or whatever it is, right?
+> 
+> 261
+> 00:09:12.505 --> 00:09:15.325
+> And if you do make it work, your fulfillment labor will be
+> 
+> 262
+> 00:09:15.325 --> 00:09:17.805
+> through the roof as more often than not, you'll have
+> 
+> 263
+> 00:09:17.805 --> 00:09:18.885
+> to hire an expert,
+> 
+> 264
+> 00:09:18.945 --> 00:09:22.485
+> or even if you know they're not an expert, you will have
+> 
+> 265
+> 00:09:22.485 --> 00:09:25.765
+> to hire somebody to operate Google ads, somebody
+> 
+> 266
+> 00:09:25.765 --> 00:09:28.205
+> to operate the Facebook ads, somebody to operate each one
+> 
+> 267
+> 00:09:28.205 --> 00:09:29.885
+> of the in individual deliverables
+> 
+> 268
+> 00:09:29.885 --> 00:09:31.445
+> or services that you, that you offer,
+> 
+> 269
+> 00:09:31.975 --> 00:09:34.405
+> which obviously will massively eat into your margins,
+> 
+> 270
+> 00:09:34.685 --> 00:09:36.565
+> ultimately making the model not scalable.
+> 
+> 271
+> 00:09:37.035 --> 00:09:39.445
+> Instead, you wanna create a fulfillment convey belt,
+> 
+> 272
+> 00:09:39.445 --> 00:09:41.445
+> which you'll be getting to in this, in the training.
+> 
+> 273
+> 00:09:41.605 --> 00:09:43.245
+> I have a full section on how to build this out.
+> 
+> 274
+> 00:09:43.265 --> 00:09:45.885
+> But you, you wanna create fulfillment convey belt to
+> 
+> 275
+> 00:09:45.885 --> 00:09:48.405
+> where you implement on the exact same process slash service
+> 
+> 276
+> 00:09:48.505 --> 00:09:50.405
+> or deliverables, again, whatever you wanna call it,
+> 
+> 277
+> 00:09:50.625 --> 00:09:53.405
+> in the exact same way, uh, for the ex, uh, uh,
+> 
+> 278
+> 00:09:53.405 --> 00:09:54.965
+> with the exact same cogs, cost
+> 
+> 279
+> 00:09:54.965 --> 00:09:58.805
+> of goods sold every single time for every single client.
+> 
+> 280
+> 00:09:59.195 --> 00:10:02.165
+> This is that convey belt idea, which makes it scalable.
+> 
+> 281
+> 00:10:02.235 --> 00:10:05.525
+> This is why every single, uh, you know, um, uh,
+> 
+> 282
+> 00:10:05.815 --> 00:10:08.645
+> every single, uh, manufacturing company who creates,
+> 
+> 283
+> 00:10:08.905 --> 00:10:11.765
+> you know, products, they all have conveyor belts.
+> 
+> 284
+> 00:10:11.765 --> 00:10:14.405
+> Why? Because it's scalable. You can put a thousand bottles
+> 
+> 285
+> 00:10:14.405 --> 00:10:16.205
+> on a conveyor belt, and by the end of it,
+> 
+> 286
+> 00:10:16.205 --> 00:10:18.565
+> they're all gonna have the exact same sticker stuck on the
+> 
+> 287
+> 00:10:18.565 --> 00:10:20.965
+> outside, the exact same lid on the bottle, et cetera,
+> 
+> 288
+> 00:10:20.965 --> 00:10:22.645
+> because that's what makes it scalable,
+> 
+> 289
+> 00:10:22.865 --> 00:10:24.165
+> is having conveyor belts, right?
+> 
+> 290
+> 00:10:25.185 --> 00:10:26.845
+> And that's what you wanna do with your
+> 
+> 291
+> 00:10:26.845 --> 00:10:28.085
+> agency or your coaching business.
+> 
+> 292
+> 00:10:28.085 --> 00:10:29.365
+> You want to implement or, or,
+> 
+> 293
+> 00:10:29.425 --> 00:10:30.925
+> or kind of copy that same idea.
+> 
+> 294
+> 00:10:31.705 --> 00:10:33.765
+> But the only way you'll be able to do that is through having
+> 
+> 295
+> 00:10:34.345 --> 00:10:36.525
+> one problem that you solve for one person in the
+> 
+> 296
+> 00:10:36.525 --> 00:10:37.645
+> same way every single time.
+> 
+> 297
+> 00:10:37.825 --> 00:10:38.885
+> And any variation in
+> 
+> 298
+> 00:10:38.885 --> 00:10:41.205
+> that will create massive operational complexity.
+> 
+> 299
+> 00:10:41.335 --> 00:10:42.685
+> Again, as you scale, you know,
+> 
+> 300
+> 00:10:42.685 --> 00:10:44.565
+> if you're watching this right now and you're sub a hundred
+> 
+> 301
+> 00:10:44.685 --> 00:10:47.045
+> KA month, you may be thinking
+> 
+> 302
+> 00:10:47.275 --> 00:10:48.485
+> that, you know, you can handle it.
+> 
+> 303
+> 00:10:48.485 --> 00:10:49.445
+> It's like it's not a problem.
+> 
+> 304
+> 00:10:49.445 --> 00:10:50.645
+> Like, kind of like I was saying earlier.
+> 
+> 305
+> 00:10:51.105 --> 00:10:52.485
+> Um, but you gotta realize
+> 
+> 306
+> 00:10:53.075 --> 00:10:56.605
+> what has a minor drag on fulfillment at your stage has a 10
+> 
+> 307
+> 00:10:56.845 --> 00:11:00.725
+> x that drag once you scale past two to 300 KA month, right?
+> 
+> 308
+> 00:11:00.725 --> 00:11:04.725
+> It's literally 10 x it's becomes so difficult, right?
+> 
+> 309
+> 00:11:04.785 --> 00:11:06.645
+> And again, I just know this from experience.
+> 
+> 310
+> 00:11:06.825 --> 00:11:09.205
+> Um, you know, this is kind of akin to, you know, uh,
+> 
+> 311
+> 00:11:09.265 --> 00:11:10.445
+> the drag impacts
+> 
+> 312
+> 00:11:10.445 --> 00:11:12.965
+> that you may receive going 40 kilometers an hour
+> 
+> 313
+> 00:11:13.155 --> 00:11:15.205
+> with your window down versus, uh,
+> 
+> 314
+> 00:11:15.365 --> 00:11:18.045
+> a window down in a Mercedes, AMG one competing
+> 
+> 315
+> 00:11:18.045 --> 00:11:19.285
+> for the fastest lap around the
+> 
+> 316
+> 00:11:19.445 --> 00:11:20.725
+> nuber, uh, nu berg ring, right?
+> 
+> 317
+> 00:11:20.775 --> 00:11:22.765
+> Which actually, that is the fastest car.
+> 
+> 318
+> 00:11:23.025 --> 00:11:25.645
+> And as that was going around the track to get that time,
+> 
+> 319
+> 00:11:26.105 --> 00:11:27.725
+> it doesn't have windows, but if it did
+> 
+> 320
+> 00:11:27.745 --> 00:11:31.605
+> and it had a window down, it would have such a huge negative
+> 
+> 321
+> 00:11:31.625 --> 00:11:34.525
+> impact on the performance of that car going around that lap.
+> 
+> 322
+> 00:11:34.675 --> 00:11:38.525
+> It's the same thing with your operations as you scale, they,
+> 
+> 323
+> 00:11:38.525 --> 00:11:39.645
+> because there's more volume,
+> 
+> 324
+> 00:11:39.785 --> 00:11:42.085
+> it becomes way more complex as you scale.
+> 
+> 325
+> 00:11:42.105 --> 00:11:44.805
+> And so if it's not making sense right now at the,
+> 
+> 326
+> 00:11:44.865 --> 00:11:46.805
+> at your current level, as you scale,
+> 
+> 327
+> 00:11:46.805 --> 00:11:48.925
+> it's gonna become unbearable to where again,
+> 
+> 328
+> 00:11:49.065 --> 00:11:50.485
+> it becomes not scalable, right?
+> 
+> 329
+> 00:11:50.905 --> 00:11:53.605
+> So for example, on the specifics of services
+> 
+> 330
+> 00:11:53.605 --> 00:11:56.685
+> and deliverables, all we do is Facebook ads for our clients.
+> 
+> 331
+> 00:11:56.825 --> 00:11:58.885
+> We don't do Google ads, TikTok ads, SEO
+> 
+> 332
+> 00:11:58.885 --> 00:12:00.005
+> and websites or whatever else.
+> 
+> 333
+> 00:12:00.145 --> 00:12:01.205
+> We just do Facebook.
+> 
+> 334
+> 00:12:01.225 --> 00:12:03.245
+> Now, we do have like, we do some funnel building
+> 
+> 335
+> 00:12:03.245 --> 00:12:05.605
+> and whatnot, but you know, that's kind of a side.
+> 
+> 336
+> 00:12:05.635 --> 00:12:07.445
+> It's not, I I don't really look at that as a deliverable.
+> 
+> 337
+> 00:12:07.545 --> 00:12:10.445
+> Our main deliverable is Facebook ads, and that's all we do,
+> 
+> 338
+> 00:12:10.985 --> 00:12:14.285
+> and we do Facebook ads in a very particular same way
+> 
+> 339
+> 00:12:14.465 --> 00:12:15.565
+> for every single client.
+> 
+> 340
+> 00:12:15.865 --> 00:12:18.245
+> All right? So again, we've even got a conveyor belt type
+> 
+> 341
+> 00:12:18.645 --> 00:12:21.245
+> structure in our Facebook ad department as well
+> 
+> 342
+> 00:12:21.245 --> 00:12:22.725
+> as Facebook ads being the one thing
+> 
+> 343
+> 00:12:22.725 --> 00:12:24.245
+> that's obviously the deliverable
+> 
+> 344
+> 00:12:24.245 --> 00:12:25.605
+> for the whole business as well, right?
+> 
+> 345
+> 00:12:25.905 --> 00:12:27.725
+> Uh, and whatever, um, uh, sorry,
+> 
+> 346
+> 00:12:28.005 --> 00:12:30.925
+> whatever service slash de uh, uh, slash deliverable
+> 
+> 347
+> 00:12:30.925 --> 00:12:34.605
+> that you pick, make sure it delivers obviously the outcome
+> 
+> 348
+> 00:12:34.605 --> 00:12:35.645
+> that your market wants.
+> 
+> 349
+> 00:12:35.865 --> 00:12:37.245
+> That's super important.
+> 
+> 350
+> 00:12:37.255 --> 00:12:39.725
+> Again, it ties back to what I said earlier, if the problem
+> 
+> 351
+> 00:12:39.725 --> 00:12:42.245
+> that you choose to solve for a particular person isn't the
+> 
+> 352
+> 00:12:42.245 --> 00:12:44.405
+> thing that they really care about or really want then,
+> 
+> 353
+> 00:12:44.665 --> 00:12:46.005
+> or produces the result
+> 
+> 354
+> 00:12:46.025 --> 00:12:48.165
+> or the desire that they are really needing
+> 
+> 355
+> 00:12:48.165 --> 00:12:50.485
+> and wanting right now, the thing that's top of mind, it's
+> 
+> 356
+> 00:12:50.485 --> 00:12:53.365
+> that the broken arm of their market, you know, uh,
+> 
+> 357
+> 00:12:53.545 --> 00:12:55.645
+> if it doesn't produce that, then it's useless anyway, right?
+> 
+> 358
+> 00:12:55.645 --> 00:12:56.685
+> So you can't apply this problem,
+> 
+> 359
+> 00:12:56.905 --> 00:12:59.845
+> but pick the wrong problem, uh, sorry, apply this framework
+> 
+> 360
+> 00:12:59.905 --> 00:13:01.045
+> and, uh, but apply it
+> 
+> 361
+> 00:13:01.045 --> 00:13:02.485
+> with the wrong problem to the wrong person.
+> 
+> 362
+> 00:13:02.505 --> 00:13:03.685
+> That's still not gonna work, right?
+> 
+> 363
+> 00:13:04.065 --> 00:13:06.325
+> Um, now your clients, this is also important.
+> 
+> 364
+> 00:13:06.325 --> 00:13:08.285
+> Your clients don't care what you do
+> 
+> 365
+> 00:13:08.285 --> 00:13:09.685
+> for them or coach them on.
+> 
+> 366
+> 00:13:09.715 --> 00:13:11.525
+> They really don't care about the vehicle.
+> 
+> 367
+> 00:13:11.675 --> 00:13:13.325
+> They don't, you might think they do,
+> 
+> 368
+> 00:13:13.325 --> 00:13:14.445
+> but trust me, they don't.
+> 
+> 369
+> 00:13:14.705 --> 00:13:16.085
+> All they care about is that they get
+> 
+> 370
+> 00:13:16.195 --> 00:13:17.245
+> that whatever the vehicle
+> 
+> 371
+> 00:13:17.305 --> 00:13:18.725
+> or the thing is that you do for them
+> 
+> 372
+> 00:13:18.985 --> 00:13:21.645
+> or you coach them on, if you're a coaching business, um,
+> 
+> 373
+> 00:13:21.825 --> 00:13:24.125
+> all they care is that it gets them the desired result.
+> 
+> 374
+> 00:13:24.125 --> 00:13:25.445
+> That's all they care about, right?
+> 
+> 375
+> 00:13:25.525 --> 00:13:28.205
+> For example, with you, you probably don't care if we run
+> 
+> 376
+> 00:13:28.205 --> 00:13:31.125
+> your Facebook ads or if we did your outbound email as a,
+> 
+> 377
+> 00:13:31.125 --> 00:13:32.965
+> as the done for you component of what we do,
+> 
+> 378
+> 00:13:32.965 --> 00:13:34.525
+> you probably don't care which one it is, right?
+> 
+> 379
+> 00:13:35.175 --> 00:13:36.125
+> Maybe if you're watching,
+> 
+> 380
+> 00:13:36.125 --> 00:13:37.205
+> you're like, I actually do care, okay?
+> 
+> 381
+> 00:13:37.305 --> 00:13:39.765
+> If that is you, then you're probably the 1% of the market
+> 
+> 382
+> 00:13:39.765 --> 00:13:40.965
+> that actually caress, if that, right?
+> 
+> 383
+> 00:13:41.225 --> 00:13:43.645
+> Um, but as I say,
+> 
+> 384
+> 00:13:43.645 --> 00:13:44.805
+> you don't care about the specific
+> 
+> 385
+> 00:13:44.805 --> 00:13:45.885
+> deliverables that we give you.
+> 
+> 386
+> 00:13:46.105 --> 00:13:49.965
+> As long as you get qualified sales calls, you close clients,
+> 
+> 387
+> 00:13:50.305 --> 00:13:51.885
+> you get those clients great results,
+> 
+> 388
+> 00:13:52.105 --> 00:13:54.605
+> and you actually scale from a hundred to 250
+> 
+> 389
+> 00:13:54.625 --> 00:13:55.725
+> to 500 KA month,
+> 
+> 390
+> 00:13:55.725 --> 00:13:57.405
+> to a million a month, whatever it is that your goals are.
+> 
+> 391
+> 00:13:57.505 --> 00:13:59.085
+> If you achieve that with us, you know,
+> 
+> 392
+> 00:13:59.085 --> 00:14:00.965
+> and you build a great team during that process,
+> 
+> 393
+> 00:14:01.105 --> 00:14:03.645
+> and we help you do that, um, who obviously
+> 
+> 394
+> 00:14:03.645 --> 00:14:05.565
+> that team helps you run the day-to-Day allows you
+> 
+> 395
+> 00:14:05.565 --> 00:14:07.325
+> to remove yourself from the business, all that good stuff.
+> 
+> 396
+> 00:14:07.325 --> 00:14:08.605
+> You're still scaling revenue, kind of,
+> 
+> 397
+> 00:14:08.625 --> 00:14:09.925
+> you know, spending less time in the business.
+> 
+> 398
+> 00:14:10.225 --> 00:14:13.125
+> If we help you do that, you don't care how we do it.
+> 
+> 399
+> 00:14:15.185 --> 00:14:16.085
+> All you care about is that
+> 
+> 400
+> 00:14:16.085 --> 00:14:17.285
+> we actually get you that result, right?
+> 
+> 401
+> 00:14:17.285 --> 00:14:18.565
+> You don't care if we run your Facebook ads
+> 
+> 402
+> 00:14:18.565 --> 00:14:19.565
+> or your Google Ads to do so,
+> 
+> 403
+> 00:14:19.745 --> 00:14:22.365
+> or if we do outbound, EMR, whatever it is, you don't care
+> 
+> 404
+> 00:14:22.905 --> 00:14:24.165
+> if we get you that result
+> 
+> 405
+> 00:14:24.465 --> 00:14:25.765
+> and your clients are the exact same.
+> 
+> 406
+> 00:14:25.765 --> 00:14:27.725
+> They don't care how you deliver the result.
+> 
+> 407
+> 00:14:27.795 --> 00:14:29.485
+> They care that you deliver the result.
+> 
+> 408
+> 00:14:29.625 --> 00:14:30.965
+> That's super important. All right?
+> 
+> 409
+> 00:14:30.965 --> 00:14:34.365
+> And so what is, on the topic of results, what is the result
+> 
+> 410
+> 00:14:34.625 --> 00:14:37.165
+> of implementing these three, uh, steps here?
+> 
+> 411
+> 00:14:37.165 --> 00:14:41.845
+> Well, what you then will have is, uh, every client who comes
+> 
+> 412
+> 00:14:41.845 --> 00:14:44.685
+> to you will have the exact same problems, desires,
+> 
+> 413
+> 00:14:44.965 --> 00:14:47.405
+> business model and current situ or, or current situation.
+> 
+> 414
+> 00:14:47.405 --> 00:14:48.805
+> If you're doing B two C, obviously they don't have a
+> 
+> 415
+> 00:14:48.885 --> 00:14:50.725
+> business, but they'll be in the same current situation
+> 
+> 416
+> 00:14:51.385 --> 00:14:54.045
+> and you will implement on the exact same service
+> 
+> 417
+> 00:14:54.385 --> 00:14:57.085
+> and client journey for every single client.
+> 
+> 418
+> 00:14:57.375 --> 00:14:59.605
+> Every single time it's a rinse and repeat process.
+> 
+> 419
+> 00:15:00.265 --> 00:15:02.485
+> Now you have a scalable model that will take you
+> 
+> 420
+> 00:15:02.485 --> 00:15:04.885
+> to a million a month as long as your TAM permits, as long
+> 
+> 421
+> 00:15:04.885 --> 00:15:06.485
+> as like, you know, you, you're in a big enough market
+> 
+> 422
+> 00:15:06.485 --> 00:15:07.965
+> that you can actually scale to a million a month.
+> 
+> 423
+> 00:15:08.145 --> 00:15:11.405
+> And if it doesn't, um, once you get to 500 KA month
+> 
+> 424
+> 00:15:11.405 --> 00:15:13.765
+> or so, you can then expand into adjacent markets.
+> 
+> 425
+> 00:15:13.945 --> 00:15:16.365
+> But even then, uh, usually you never need to.
+> 
+> 426
+> 00:15:16.365 --> 00:15:17.605
+> So like whatever market you're in,
+> 
+> 427
+> 00:15:17.605 --> 00:15:18.685
+> it can scale to a million a month.
+> 
+> 428
+> 00:15:18.785 --> 00:15:21.725
+> Um, I think the best person who, uh, proved that to be true
+> 
+> 429
+> 00:15:22.545 --> 00:15:24.085
+> was homo with, uh, gym launch.
+> 
+> 430
+> 00:15:24.245 --> 00:15:25.645
+> I mean, I don't think there's that many. I think there's
+> 
+> 431
+> 00:15:25.645 --> 00:15:27.005
+> maybe like 50,000 gyms or whatever.
+> 
+> 432
+> 00:15:27.185 --> 00:15:29.565
+> And I think they at their peak got to like four
+> 
+> 433
+> 00:15:29.565 --> 00:15:31.445
+> or 5 million a month, maybe even more than that
+> 
+> 434
+> 00:15:31.755 --> 00:15:33.885
+> with serving gyms who also have no money.
+> 
+> 435
+> 00:15:34.105 --> 00:15:35.165
+> You know what I mean? So it's like
+> 
+> 436
+> 00:15:35.165 --> 00:15:37.165
+> that shows you typically you don't need
+> 
+> 437
+> 00:15:37.165 --> 00:15:38.845
+> to change market or expand markets.
+> 
+> 438
+> 00:15:38.915 --> 00:15:40.325
+> Like I always see people
+> 
+> 439
+> 00:15:40.325 --> 00:15:41.645
+> who are at like a hundred KA month thinking
+> 
+> 440
+> 00:15:41.645 --> 00:15:42.765
+> they have to expand their market.
+> 
+> 441
+> 00:15:42.785 --> 00:15:43.845
+> I'm like, dude, you just gotta get better
+> 
+> 442
+> 00:15:43.905 --> 00:15:45.005
+> at serving your current market.
+> 
+> 443
+> 00:15:45.065 --> 00:15:48.045
+> You know? Um, but anyway, that's, that is the result.
+> 
+> 444
+> 00:15:48.155 --> 00:15:50.245
+> Same person coming to you with the same set of problems,
+> 
+> 445
+> 00:15:50.245 --> 00:15:52.525
+> with the same desire in which you're gonna implement on the
+> 
+> 446
+> 00:15:52.525 --> 00:15:54.645
+> same solution every single time.
+> 
+> 447
+> 00:15:55.665 --> 00:15:57.165
+> That's a scalable model, okay?
+> 
+> 448
+> 00:15:57.315 --> 00:15:59.965
+> Some additional benefits is p and l efficiency.
+> 
+> 449
+> 00:16:00.065 --> 00:16:02.325
+> So you become a lot more lean, more profitable,
+> 
+> 450
+> 00:16:02.325 --> 00:16:04.645
+> in other words, uh, when you are doing the same thing over
+> 
+> 451
+> 00:16:04.645 --> 00:16:05.765
+> and over again for your clients.
+> 
+> 452
+> 00:16:05.965 --> 00:16:08.125
+> 'cause you get the, um, you get economics of scale at
+> 
+> 453
+> 00:16:08.125 --> 00:16:10.805
+> that point, especially when it comes to fulfillment labor,
+> 
+> 454
+> 00:16:10.975 --> 00:16:12.445
+> which is usually the biggest cost
+> 
+> 455
+> 00:16:12.445 --> 00:16:14.485
+> for any service base slash one-on-one type business.
+> 
+> 456
+> 00:16:14.825 --> 00:16:17.245
+> Um, and again, as I said, uh, in this beginning,
+> 
+> 457
+> 00:16:17.315 --> 00:16:18.925
+> this is the only way you'll ever be able
+> 
+> 458
+> 00:16:18.925 --> 00:16:21.205
+> to see your labor on your p and l at 25%.
+> 
+> 459
+> 00:16:21.495 --> 00:16:24.285
+> Every agency that I've seen, particularly agencies
+> 
+> 460
+> 00:16:24.285 --> 00:16:26.765
+> with labor, because that's their biggest expense, um,
+> 
+> 461
+> 00:16:26.765 --> 00:16:29.885
+> every agency where I've seen their p uh, their labor, um,
+> 
+> 462
+> 00:16:30.705 --> 00:16:32.205
+> uh, or the, or their p
+> 
+> 463
+> 00:16:32.205 --> 00:16:35.045
+> and l, their biggest expense is always going to labor.
+> 
+> 464
+> 00:16:35.105 --> 00:16:36.325
+> And usually it's like 60
+> 
+> 465
+> 00:16:36.345 --> 00:16:38.085
+> or 70% of their p and l is going to labor.
+> 
+> 466
+> 00:16:38.385 --> 00:16:39.765
+> And then when I look at actually
+> 
+> 467
+> 00:16:39.765 --> 00:16:41.005
+> what, you know, what is your labor?
+> 
+> 468
+> 00:16:41.025 --> 00:16:42.285
+> Who are the people on your team?
+> 
+> 469
+> 00:16:42.285 --> 00:16:43.285
+> What are you paying them, et cetera.
+> 
+> 470
+> 00:16:43.285 --> 00:16:45.565
+> They're doing full service. They've got a Google Ads guy,
+> 
+> 471
+> 00:16:45.565 --> 00:16:48.085
+> they've got a website guy, they've got ACRO person,
+> 
+> 472
+> 00:16:48.085 --> 00:16:49.325
+> they've got a, you know, this person
+> 
+> 473
+> 00:16:49.385 --> 00:16:50.605
+> and that person and that person.
+> 
+> 474
+> 00:16:50.745 --> 00:16:53.165
+> I'm like, that's why their labor is so high,
+> 
+> 475
+> 00:16:53.165 --> 00:16:54.565
+> because they, they've gotta hire
+> 
+> 476
+> 00:16:54.565 --> 00:16:56.245
+> for all these different services that they provide
+> 
+> 477
+> 00:16:56.245 --> 00:16:57.685
+> for their clients, but it just doesn't make sense.
+> 
+> 478
+> 00:16:57.985 --> 00:17:00.525
+> And, and then what we do is we just cut all the way
+> 
+> 479
+> 00:17:00.685 --> 00:17:01.765
+> back to one service.
+> 
+> 480
+> 00:17:01.895 --> 00:17:04.125
+> Their laborer immediately goes to like 10%,
+> 
+> 481
+> 00:17:04.145 --> 00:17:05.645
+> or at least there's fulfillment.
+> 
+> 482
+> 00:17:05.645 --> 00:17:08.245
+> Labor specifically goes to like 10% of the p and l,
+> 
+> 483
+> 00:17:09.065 --> 00:17:10.205
+> and we just save them like
+> 
+> 484
+> 00:17:10.205 --> 00:17:12.725
+> however, a hundred grand a month in pure profit just
+> 
+> 485
+> 00:17:12.725 --> 00:17:14.405
+> by cutting back to one service, right?
+> 
+> 486
+> 00:17:14.585 --> 00:17:17.245
+> And then obviously also on the other side of the, of,
+> 
+> 487
+> 00:17:17.265 --> 00:17:19.565
+> of the pond, if you wanna call it that, uh,
+> 
+> 488
+> 00:17:19.715 --> 00:17:21.805
+> your marketing is a lot more profitable and efficient,
+> 
+> 489
+> 00:17:21.805 --> 00:17:22.925
+> because again, as I said
+> 
+> 490
+> 00:17:22.925 --> 00:17:25.845
+> before, specificity always sells,
+> 
+> 491
+> 00:17:26.295 --> 00:17:29.125
+> especially on cold ads with people who you don't know.
+> 
+> 492
+> 00:17:29.425 --> 00:17:30.965
+> You could be a little bit more broad
+> 
+> 493
+> 00:17:31.155 --> 00:17:32.445
+> with a referral type lead
+> 
+> 494
+> 00:17:32.445 --> 00:17:34.405
+> and not maybe have a specific outcome that you provide
+> 
+> 495
+> 00:17:34.405 --> 00:17:35.725
+> and whatever else, if you're gonna try
+> 
+> 496
+> 00:17:35.725 --> 00:17:36.845
+> and close a referral lead.
+> 
+> 497
+> 00:17:36.945 --> 00:17:39.085
+> But on ads gotta be specific.
+> 
+> 498
+> 00:17:39.085 --> 00:17:40.845
+> Your results have to be specific.
+> 
+> 499
+> 00:17:41.065 --> 00:17:42.845
+> The offer you have has to be specific.
+> 
+> 500
+> 00:17:43.145 --> 00:17:44.925
+> The wording has to be specific.
+> 
+> 501
+> 00:17:44.985 --> 00:17:47.085
+> The pain points in which we speak to have
+> 
+> 502
+> 00:17:47.085 --> 00:17:48.765
+> to be specific. And obviously we do all of
+> 
+> 503
+> 00:17:48.765 --> 00:17:50.340
+> Your ads, ads for you anyway, but you know, just
+> 
+> 504
+> 00:17:50.340 --> 00:17:53.845
+> so you know, um, you are not able to be as specific
+> 
+> 505
+> 00:17:53.905 --> 00:17:56.845
+> as you need to be on ads if
+> 
+> 506
+> 00:17:56.845 --> 00:17:58.085
+> you're serving more than one person.
+> 
+> 507
+> 00:17:58.345 --> 00:18:01.405
+> All right? So there again, you, uh, so by extension,
+> 
+> 508
+> 00:18:01.405 --> 00:18:03.725
+> your ad spend is spent a whole lot more efficiently,
+> 
+> 509
+> 00:18:03.855 --> 00:18:05.965
+> which then decreases your cost on the p
+> 
+> 510
+> 00:18:05.965 --> 00:18:08.925
+> and l, which ultimately increases your profit all
+> 
+> 511
+> 00:18:08.925 --> 00:18:10.485
+> because you productize the business.
+> 
+> 512
+> 00:18:10.585 --> 00:18:13.045
+> All right? Uh, another thing, hiring and ramping talent
+> 
+> 513
+> 00:18:13.145 --> 00:18:15.165
+> and scaling team becomes way more,
+> 
+> 514
+> 00:18:15.265 --> 00:18:16.845
+> um, uh, efficient as well.
+> 
+> 515
+> 00:18:17.105 --> 00:18:18.885
+> So once you hire one successful position,
+> 
+> 516
+> 00:18:18.885 --> 00:18:20.965
+> whether it's a closer or an account manager, et cetera,
+> 
+> 517
+> 00:18:21.065 --> 00:18:23.045
+> the beauty of this model is all you need to do is rinse
+> 
+> 518
+> 00:18:23.045 --> 00:18:25.605
+> and repeat that process because it's the exactly, it's,
+> 
+> 519
+> 00:
+> The file is too long and its contents have been truncated.
+
+
+---
+
+> [!abstract]- Tool
+> The file contents provided above are truncated/partial snippets. The complete content for these files IS accessible via querying.
+> 
+> If the user asks a question related to these files, and the provided snippets do not clearly answer it, you **MUST** use the `file_search` tool to search the full document contents before responding.
+> 
+> ## How to invoke the file_search tool
+> If the user's query isn't sufficiently answered by the provided snippets, parsed text, or images, you should invoke `file_search.msearch`.
+> To search the full content of the available files, you **must** send one message with recipient `to=file_search.msearch` in the analysis channel. Your message should be structured exactly as follows:
+> ```
+> {
+>   'queries': ['Example query 1', 'Example query 2']  // List of up to five queries to search for.
+> }
+> ```
+> 
+> Carefully balance the number of `file_search` calls and the quality of your response with the latency incurred by `file_search` calls.
+> 
+> Important guidelines for query formatting:
+> - Your message must be a valid JSON object. Do not include any extraneous text, backticks, markdown formatting, or comments beyond what is shown.
+> - The `queries` field must be a list of strings.
+> - One of the queries **MUST** exactly match the user's original question, but stripped of any extraneous details, and with ambiguous references clearly resolved using context from the conversation. It **MUST** be a complete sentence.
+> - Even if you suspect the user meant something else, one query **MUST** still be their original question.
+> 
+> ## How to handle results from file_search
+> The file search tool will respond with the relevant search results from the full files. After you receive these results:
+> - Carefully evaluate each result to determine its relevance and quality.
+> - Use the high-quality and relevant results to inform your answer to the user's question.
+> - When possible, reuse information from prior file_search results and avoid repeating identical queries.
+> 
+> ## Tool usage instructions and ordering
+> When the user asks a question, carefully consider whether the provided snippets sufficiently answer the query, whether you need to invoke `file_search.msearch`, or another available tool (such as `web`, if available) should be used instead.
+> 
+> Tool-ordering Guidelines:
+> 1. For queries related to uploaded files, if snippets are insufficient, strongly prefer invoking `file_search.msearch` over other tools.
+>     - Avoid using `web.run`, `python` analysis, or any other tools until you have either:
+>         - Confirmed with high confidence the answer is not in the files, or
+>         - Have high confidence `file_search_tool` queries are not sufficient to answer the query.
+> 2. Avoid usage of `web_search/web.run` for queries related to uploaded files
+>     - Carefully consider whether the user's query is better answered by web search results rather than available snippets or results from `file_search_tool`.
+>     - Unless the user's query is clearly unrelated to the uploaded files, prefer using `file_search.msearch`. You can always follow up with a web search if necessary for a more complete response.
+> 3. Avoid using `python` unless necessary or requested by user.
+>     - If the user's query is answerable from the parsed text and images from the uploaded files, or from `file_search_tool`, do not invoke `python`.
+> 
+> Always keep this instruction in mind for the rest of the conversation, as the user may reference these files or ask related questions later on.
+
+
+---
+
+## 🤖 ChatGPT
+
+Got it. I’ll **apply the $1M/mo productization framework exactly as taught** to **Ascend Prime Wealth (APW)** — no interpretation drift, no extras.
+
+Below is a **direct mapping from the transcript → APW**, followed by a **clean execution blueprint**.
+
+---
+
+## THE $1M/MO FRAMEWORK (FROM THE TEACHER)
+To scale to $1M+/mo with 50%+ margins, you must productize across three things:
+1. **Sales call generation**
+2. **High-ticket closing**
+3. **Fulfillment / results delivery**
+
+This only works if you:
+- Solve **ONE problem**
+- For **ONE person**
+- Using **ONE method** fileciteturn0file0turn0file1
+
+---
+
+# APPLYING THIS TO **ASCEND PRIME WEALTH (APW)**
+
+## STEP 1 — ONE PROBLEM (NON-NEGOTIABLE)
+
+### ❌ What APW cannot be:
+- Wealth coaching + mindset + investing + credit + tax + spirituality
+- “Holistic wealth”
+- “Everything money”
+
+That breaks productization.
+
+### ✅ The ONE problem APW solves:
+**“High-income professionals cannot reliably convert income into scalable, protected, and deployable wealth.”**
+
+Plain English:
+> They make good money — but it’s leaking, idle, taxed, or not compounding.
+
+This aligns with the “broken arm” principle in the transcript fileciteturn0file0.
+
+---
+
+## STEP 2 — ONE PERSON (EXTREME SPECIFICITY)
+
+### ❌ Not:
+- Entrepreneurs
+- Investors
+- Everyone who wants wealth
+
+### ✅ APW’s ONE person:
+**High-earning professionals ($250K–$1M+/yr) who are income-rich but system-poor**
+
+**Required traits (same for every client):**
+- High W-2 / partner / equity income
+- No unified wealth operating system
+- Fragmented advice (CPA here, advisor there)
+- Feels “behind” despite success
+
+This creates:
+- Identical pains  
+- Identical desires  
+- Identical sales conversations fileciteturn0file1
+
+---
+
+## STEP 3 — ONE METHOD (THE CONVEYOR BELT)
+
+### ❌ Not:
+- Custom planning
+- Bespoke strategies
+- “We tailor everything”
+
+### ✅ APW’s ONE METHOD:
+## **The APW Wealth Operating System™**
+
+Every client goes through the **same exact system**, in the same order, with the same deliverables.
+
+### APW Fulfillment Conveyor Belt:
+**Phase 1 — Wealth Clarity**
+- Net worth + cashflow normalization
+- Capital inefficiency diagnosis
+- Tax drag visibility
+
+**Phase 2 — Wealth Protection**
+- Structural optimization (entity, asset, liability hygiene)
+- Downside & risk containment
+- Compliance-first positioning
+
+**Phase 3 — Wealth Deployment**
+- Capital deployment rules
+- Rate-of-return hierarchy
+- Decision filters (what gets capital, what doesn’t)
+
+**Phase 4 — Wealth Automation**
+- Rules > willpower
+- Dashboards & cadence
+- Replace decision fatigue with systems
+
+> Same process. Same order. Same outcome target.  
+> No deviation.
+
+This is exactly what the transcript means by a **fulfillment conveyor belt** fileciteturn0file0turn0file1.
+
+---
+
+# THE RESULT (WHY THIS SCALES)
+
+With APW structured this way:
+
+### Every APW client has:
+- The **same problem**
+- The **same desires**
+- The **same financial profile**
+- The **same journey**
+
+### Which gives you:
+- One VSL
+- One sales script
+- One onboarding
+- One fulfillment playbook
+- One team role replicated endlessly
+
+This is how labor drops toward **≤25% of P&L** and margins expand while scaling fileciteturn0file0.
+
+---
+
+## WHAT APW IS (ONE-LINE POSITIONING)
+
+> **Ascend Prime Wealth installs a Wealth Operating System for high-income professionals so income reliably compounds into protected, scalable wealth — without guesswork.**
+
+That sentence is doing real work.
+
+---
+
+## NEXT (ONE STEP ONLY)
+If you want to proceed **correctly**, the next step is:
+
+**Lock the APW OFFER into a single, high-ticket package**  
+(name, promise, price, duration, guarantees, exclusions)
+
+Say **“Next: Offer”** and I’ll build it exactly to this framework.
+
+---
+
+## 👤 You
+
+What one problem are we hyper focused on? 
+
+Helping people learn how to get funding? How to do it themselves and repeat it infinitely
+
+---
+
+## 🤖 ChatGPT
+
+Here’s the clean, **non-negotiable answer**—aligned to the $1M/mo framework.
+
+---
+
+## THE ONE PROBLEM APW IS HYPER-FOCUSED ON
+
+### ❌ Not:
+- “Funding” (too vague)
+- “Teaching credit”
+- “Financial education”
+- “Wealth in general”
+
+Those are **vehicles**, not problems.
+
+---
+
+## ✅ THE ONE PROBLEM (CORRECTLY FRAMED)
+
+> **High-income individuals cannot reliably access, control, and redeploy capital on demand—without dependence on banks, luck, or one-off approvals.**
+
+Plain English:
+- They don’t have **repeatable access to capital**
+- Every funding event feels manual, fragile, or uncertain
+- They can’t **self-generate leverage at will**
+
+This is a **broken-arm problem**, not a “nice to have” fileciteturn0file0turn0file1.
+
+---
+
+## CLARITY ON YOUR QUESTION
+
+> *“Helping people learn how to get funding? How to do it themselves and repeat it infinitely”*
+
+You’re **close**, but here’s the precise correction:
+
+### ❌ Incorrect framing:
+> “Helping people get funding”
+
+That sounds:
+- Tactical
+- One-time
+- Vendor-dependent
+
+### ✅ Correct framing:
+> **Installing a self-sustaining capital acquisition system they can run indefinitely.**
+
+---
+
+## THE FINAL, PRODUCTIZABLE PROBLEM STATEMENT
+
+### 🔒 Lock this in:
+
+> **APW solves the problem of inconsistent, non-repeatable access to leverage by installing a permanent funding engine clients control.**
+
+Or even tighter:
+
+> **Clients don’t lack money—they lack a capital system.**
+
+---
+
+## WHY THIS PASSES THE $1M/MO TEST
+
+Per the transcript rules:
+- ✔ One problem  
+- ✔ One person  
+- ✔ One method  
+
+This problem:
+- Is universal across your ICP
+- Leads naturally to high-ticket value
+- Can be delivered via a single conveyor-belt system
+- Is repeatable, teachable, and scalable fileciteturn0file0
+
+---
+
+## WHAT THIS MEANS OPERATIONALLY
+
+APW is **NOT**:
+- A funding service
+- A credit repair company
+- A coaching program
+
+APW **IS**:
+> A **Capital Systems Installation Firm**
+
+---
+
+## NEXT DECISION (IMPORTANT)
+Before we move on, you must answer **yes or no**:
+
+**Are we committing APW to solving ONLY this problem:  
+“Permanent, repeatable access to leverage without reliance on external gatekeepers”?**
+
+Say **Yes** → I’ll lock the offer.  
+Say **No** → we must redefine before proceeding.
+
+---

@@ -1,0 +1,69 @@
+---
+title: FILE_4_summary.md
+source: claude
+type: project-doc
+project: Credit Data Sheets
+person: alan
+created: "2026-05-15T23:25:40.547334+00:00"
+uuid: 5a9337e6-7e2d-4d06-9fd6-cf852de074dc
+tags:
+  - claude
+  - alan
+  - credit
+---
+# FILE_4_summary.md
+
+> [!info] From project: [[_Project Info|Credit Data Sheets]]
+
+---
+title: File 4 · CC_Data_4 Summary
+file: CC_Data_4_-_State_by_State_hard_inquiry_database.xlsx
+tags: [APW, file_summary, hard_inquiries]
+verification: VERIFIED_BYTE
+version: 2.1
+---
+
+# File 4 · CC_Data_4.xlsx · Hard Inquiry Database
+
+**Role:** Real-world bureau-pull intel — which bureau hits when which creditor pulls in which state.
+
+## At a Glance
+- 5,443 inquiry records · 1,319 unique creditors · 41 states represented · 1 sheet
+- v1 claimed 5,379 · v2 byte-verified at 5,443 (+64)
+
+## Schema
+`State · Creditor Name · Bureau`
+
+## Bureau Distribution (normalized for typo variants)
+- TransUnion: 2,036 (37.4%)
+- Experian: 1,998 (36.7%)
+- Equifax: 1,319 (24.2%)
+- Other/unmapped: ~90
+
+## Strategic Value
+1. **Predicts bureau pull BEFORE applying** — match creditor + state → see which bureau hits
+2. **5,000+ data points** for pattern matching
+3. **41 states covered** with empirical evidence
+
+## Known Data-Quality Issues
+- Bureau name typos: `TrangUnion`, `Equitax`, `Exocrian`, `Iransunion`, `Tranaunion`
+- Some empty rows used as state dividers (must be filtered when parsing)
+- Bureau column inconsistent (sometimes mixed)
+
+## Cleaning Notes
+When parsing programmatically, normalize bureau names:
+```
+'TrangUnion' / 'Iransunion' / 'Tranaunion' → 'TransUnion'
+'Equitax' / 'Equilax' → 'Equifax'
+'Exocrian' / 'Exporian' → 'Experian'
+```
+
+## Use Case
+- Bureau prediction: "If I apply to Wells Fargo in TX, which bureau pulls?"
+- Pattern: Compare same creditor across states → variance in pull behavior
+- Risk planning: Freeze the bureau you DON'T want pulled before applying
+
+## Limitations
+- Self-reported data — accuracy depends on source contributors
+- 9 states missing entirely (41 of 50)
+- No application status / FICO / date data

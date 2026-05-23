@@ -1,0 +1,354 @@
+---
+title: MOC - Health & Mindset
+type: index
+tags:
+  - index
+  - moc
+---
+
+# MOC - Health & Mindset
+
+309 conversations  ·  42 Claude / 267 ChatGPT
+
+_🟣 Claude  ·  🟢 ChatGPT_
+
+---
+
+## High-signal (Layer-2 extraction queue)
+
+- 🟢 `2024-09-11` [[2024-09-11 - Supplement Combo Review|Supplement Combo Review]]  #alan #health #supplements #high-signal
+- 🟢 `2025-05-15` [[2025-05-15 - Baller Success Framework|Baller Success Framework]]  #alan #mindset #high-signal
+- 🟢 `2025-07-17` [[2025-07-17 - Interstellar fasting protocol|Interstellar fasting protocol]]  #alan #health #supplements #trt #high-signal
+- 🟢 `2025-08-24` [[2025-08-24 - Im8 review|Im8 review]]  #alan #fitness #health #supplements #high-signal
+- 🟢 `2025-10-04` [[2025-10-04 - Content calendar strategy|Content calendar strategy]]  #alan #mindset #high-signal
+- 🟢 `2025-10-07` [[2025-10-07 - Fat loss strategy analysis|Fat loss strategy analysis]]  #alan #fitness #health #high-signal
+- 🟢 `2025-10-20` [[2025-10-20 - Astrocartography map analysis|Astrocartography map analysis]]  #alan #mindset #high-signal
+- 🟢 `2025-12-30` [[2025-12-30 - Overcoming Subconscious Blocks|Overcoming Subconscious Blocks]]  #alan #copywriting #mindset #high-signal
+- 🟣 `2026-03-01` [[2026-03-01 - Optimizing brain performance with supplements and fuel|Optimizing brain performance with supplements and fuel]]  #alan #dispute #health #scam #supplements #high-signal
+- 🟣 `2026-03-01` [[2026-03-01 - CEO performance supplement comparison|CEO performance supplement comparison]]  #alan #health #supplements #high-signal
+- 🟣 `2026-03-06` [[2026-03-06 - Best nootropic supplements for cognitive performance|Best nootropic supplements for cognitive performance]]  #alan #health #supplements #high-signal
+- 🟣 `2026-03-09` [[2026-03-09 - Memory update review|Memory update review]]  #alan #apw #bloodwork #business-credit #copywriting #credit #dj-music #finance #fitness #funding #health #hiring #marketing #meta-ads #sales #scio #supplements #teaching #high-signal
+- 🟣 `2026-03-10` [[2026-03-10 - Low energy and stimulant crash management|Low energy and stimulant crash management]]  #alan #fitness #health #supplements #high-signal
+- 🟣 `2026-03-17` [[2026-03-17 - Tony Robbins Lifeforce Peak Rest timing and melatonin concerns|Tony Robbins Lifeforce Peak Rest timing and melatonin concerns]]  #alan #health #supplements #high-signal
+- 🟣 `2026-03-17` [[2026-03-17 - Healthy fats for blood type B nutrition|Healthy fats for blood type B nutrition]]  #alan #fitness #health #supplements #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Tony Robbins sleep supplement dosing safety|Tony Robbins sleep supplement dosing safety]]  #alan #health #supplements #high-signal
+- 🟣 `2026-03-20` [[2026-03-20 - Treating atrophic acne scars and post-inflammatory hyperpigmentation|Treating atrophic acne scars and post-inflammatory hyperpigmentation]]  #alan #health #skin #high-signal
+- 🟣 `2026-03-27` [[2026-03-27 - Uploading large ChatGPT data exports|Uploading large ChatGPT data exports]]  #alan #ai-workflow #apw #blitz #cfpb #chargeback #contracts #credit #dbfi #dispute #dj-music #fib #funding #health #legal #marketing #meta-ads #ops #scio #supplements #surgery #travel #high-signal
+- 🟣 `2026-03-31` [[2026-03-31 - Complete blood work analysis with TRT considerations|Complete blood work analysis with TRT considerations]]  #alan #bloodwork #fitness #health #supplements #trt #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - Trinity by Interstellar Blend use case|Trinity by Interstellar Blend use case]]  #alan #apw #health #sales #supplements #vsl #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Alex Hormozi naming formula|Alex Hormozi naming formula]]  #alan #apw #blitz #branding #copywriting #funding #health #hiring #prime-protocol #scio #surgery #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Memory update review|Memory update review]]  #alan #apw #blitz #business-credit #cfpb #credit #dbfi #dispute #dj-music #dsl #fib #fitness #funding #health #instagram #legal #marketing #prime-protocol #reg-z #sales #scio #supplements #tech #vsl #high-signal
+- 🟣 `2026-04-16` [[2026-04-16 - Building intuitive mastery through step-by-step learning|Building intuitive mastery through step-by-step learning]]  #alan #apw #dispute #legal #marketing #mindset #sales #scam #high-signal
+- 🟣 `2026-04-19` [[2026-04-19 - Astrocartography for relocation and business funding|Astrocartography for relocation and business funding]]  #alan #apw #contracts #funding #legal #mindset #procurement #high-signal
+
+## All conversations
+
+- 🟢 `2024-07-27` [[2024-07-27 - Career Astrology Inquiry|Career Astrology Inquiry]]  #alan #mindset
+- 🟢 `2024-07-29` [[2024-07-29 - Nutritional Meal Assessment|Nutritional Meal Assessment]]  #alan #health
+- 🟢 `2024-07-30` [[2024-07-30 - Microwaves in Cancer Research|Microwaves in Cancer Research]]  #alan #health
+- 🟢 `2024-08-07` [[2024-08-07 - Joe Rogan TRT HGH|Joe Rogan TRT HGH]]  #alan #health #trt
+- 🟢 `2024-08-10` [[2024-08-10 - Online Testosterone Prescription Process|Online Testosterone Prescription Process]]  #alan #health #trt
+- 🟢 `2024-08-11` [[2024-08-11 - Best BPC 157 Sources|Best BPC 157 Sources]]  #alan #health #surgery #trt
+- 🟢 `2024-08-15` [[2024-08-15 - Bypassing Critical Faculty Techniques|Bypassing Critical Faculty Techniques]]  #alan #mindset
+- 🟢 `2024-08-30` [[2024-08-30 - Ketamine in Health Use|Ketamine in Health Use]]  #alan #health #skin
+- 🟢 `2024-08-31` [[2024-08-31 - Getting TRT Online Today|Getting TRT Online Today]]  #alan #health #trt
+- 🟢 `2024-08-31` [[2024-08-31 - Testosterone Therapy Options|Testosterone Therapy Options]]  #alan #health #skin
+- 🟢 `2024-09-11` [[2024-09-11 - Supplement Combo Review|Supplement Combo Review]]  #alan #health #supplements #high-signal
+- 🟢 `2024-09-14` [[2024-09-14 - Dairy in Detox Diet|Dairy in Detox Diet]]  #alan #health
+- 🟢 `2024-09-26` [[2024-09-26 - Grapeseed Oil and TRT Risks|Grapeseed Oil and TRT Risks]]  #alan #health #trt
+- 🟢 `2024-10-18` [[2024-10-18 - Testosterone Boosting Supplements Guide|Testosterone Boosting Supplements Guide]]  #alan #health #supplements
+- 🟢 `2024-11-07` [[2024-11-07 - St Joseph Levitation Flights|St Joseph Levitation Flights]]  #alan #mindset
+- 🟢 `2024-11-10` [[2024-11-10 - Tongkat Ali vs TRT|Tongkat Ali vs TRT]]  #alan #health #trt
+- 🟢 `2024-11-14` [[2024-11-14 - TRT Blood Test Results|TRT Blood Test Results]]  #alan #health #trt
+- 🟢 `2024-11-18` [[2024-11-18 - Ayahuasca Diet Guide|Ayahuasca Diet Guide]]  #alan #health
+- 🟢 `2024-11-24` [[2024-11-24 - NAD+ vs TRT Comparison|NAD+ vs TRT Comparison]]  #alan #health #trt
+- 🟢 `2024-12-03` [[2024-12-03 - Julian Calendar Reforms|Julian Calendar Reforms]]  #alan #mindset
+- 🟢 `2024-12-08` [[2024-12-08 - Inflammation Management Post-Surgery|Inflammation Management Post-Surgery]]  #alan #health #supplements #surgery
+- 🟢 `2024-12-08` [[2024-12-08 - All right summary|All right summary]]  #alan #health #supplements #trt
+- 🟢 `2024-12-09` [[2024-12-09 - TRT Providers in MN|TRT Providers in MN]]  #alan #health #trt
+- 🟢 `2024-12-10` [[2024-12-10 - Liquid Stool Causes|Liquid Stool Causes]]  #alan #fitness #health
+- 🟢 `2024-12-11` [[2024-12-11 - TRT for Recovery and Motivation|TRT for Recovery and Motivation]]  #alan #health #surgery #trt
+- 🟢 `2024-12-13` [[2024-12-13 - Testosterone Boosting Supplements|Testosterone Boosting Supplements]]  #alan #health #supplements
+- 🟢 `2024-12-13` [[2024-12-13 - Acne Scar Treatments|Acne Scar Treatments]]  #alan #health #skin
+- 🟢 `2024-12-16` [[2024-12-16 - 3rd Party Tested Protein|3rd Party Tested Protein]]  #alan #fitness #health
+- 🟢 `2024-12-16` [[2024-12-16 - White Label Protein Options|White Label Protein Options]]  #alan #branding #fitness #health #supplements
+- 🟢 `2024-12-17` [[2024-12-17 - White Label Protein Dropshipping|White Label Protein Dropshipping]]  #alan #fitness #health
+- 🟢 `2024-12-18` [[2024-12-18 - Ketamine IV Dosage Guide|Ketamine IV Dosage Guide]]  #alan #health #trt
+- 🟢 `2024-12-18` [[2024-12-18 - Legal Risks in Videos|Legal Risks in Videos]]  #alan #copywriting #fitness #health #instagram #marketing #mindset
+- 🟢 `2024-12-19` [[2024-12-19 - Chest Pain and Blood Taste|Chest Pain and Blood Taste]]  #alan #bloodwork #health
+- 🟢 `2024-12-21` [[2024-12-21 - Peptides vs Amino Acids vs Proteins|Peptides vs Amino Acids vs Proteins]]  #alan #fitness #health
+- 🟢 `2025-01-15` [[2025-01-15 - LDN and Testosterone Effects|LDN and Testosterone Effects]]  #alan #health #trt
+- 🟢 `2025-01-15` [[2025-01-15 - Endocrinologist Role in TRT|Endocrinologist Role in TRT]]  #alan #health #trt
+- 🟢 `2025-01-17` [[2025-01-17 - Venus Career Success Analysis|Venus Career Success Analysis]]  #alan #mindset
+- 🟢 `2025-01-21` [[2025-01-21 - Amphetamine Stomach Ache Solutions|Amphetamine Stomach Ache Solutions]]  #alan #fitness #health
+- 🟢 `2025-02-04` [[2025-02-04 - Organic Protein Dips|Organic Protein Dips]]  #alan #fitness #health
+- 🟢 `2025-02-19` [[2025-02-19 - Corn Nutritional Value|Corn Nutritional Value]]  #alan #health
+- 🟢 `2025-02-25` [[2025-02-25 - Top Hydration Cognition Supplements|Top Hydration Cognition Supplements]]  #alan #health #supplements
+- 🟢 `2025-03-14` [[2025-03-14 - Grass Fed Beef Protein|Grass Fed Beef Protein]]  #alan #fitness #health
+- 🟢 `2025-03-19` [[2025-03-19 - Morning Protein with Leucine|Morning Protein with Leucine]]  #alan #fitness #health
+- 🟢 `2025-03-22` [[2025-03-22 - Best Anti-Nutrient Free Protein|Best Anti-Nutrient Free Protein]]  #alan #fitness #health
+- 🟢 `2025-03-23` [[2025-03-23 - TRT Order Request|TRT Order Request]]  #alan #health #trt
+- 🟢 `2025-03-24` [[2025-03-24 - TRT Carrier Oil Ranking|TRT Carrier Oil Ranking]]  #alan #health #trt
+- 🟢 `2025-03-25` [[2025-03-25 - Egg Yolk Allergy Symptoms|Egg Yolk Allergy Symptoms]]  #alan #fitness #health
+- 🟢 `2025-03-25` [[2025-03-25 - IM vs SubQ TRT|IM vs SubQ TRT]]  #alan #health #trt
+- 🟢 `2025-03-25` [[2025-03-25 - Banana Peel Skincare Benefits|Banana Peel Skincare Benefits]]  #alan #health #skin
+- 🟢 `2025-03-26` [[2025-03-26 - Creatine for Brain Health|Creatine for Brain Health]]  #alan #fitness #health
+- 🟢 `2025-03-29` [[2025-03-29 - Mindset and Growth Formula|Mindset and Growth Formula]]  #alan #mindset
+- 🟢 `2025-03-31` [[2025-03-31 - AI Success Fast Track|AI Success Fast Track]]  #alan #mindset
+- 🟢 `2025-04-01` [[2025-04-01 - High-Protein High-Fiber Breakfasts|High-Protein High-Fiber Breakfasts]]  #alan #fib #fitness #health
+- 🟢 `2025-04-02` [[2025-04-02 - 0.4ml TRT Dose Explanation|0.4ml TRT Dose Explanation]]  #alan #health #trt
+- 🟢 `2025-04-02` [[2025-04-02 - TRT for Chronic Exhaustion|TRT for Chronic Exhaustion]]  #alan #health #trt
+- 🟢 `2025-04-03` [[2025-04-03 - TRT First Aid Essentials|TRT First Aid Essentials]]  #alan #health #trt
+- 🟢 `2025-04-03` [[2025-04-03 - Optimum Nutrition Heavy Metal Test|Optimum Nutrition Heavy Metal Test]]  #alan #fitness #health #trt
+- 🟢 `2025-04-04` [[2025-04-04 - TRT Injection Soreness|TRT Injection Soreness]]  #alan #health #trt
+- 🟢 `2025-04-05` [[2025-04-05 - Eye of Round vs Top Sirloin|Eye of Round vs Top Sirloin]]  #alan #fitness #health
+- 🟢 `2025-04-07` [[2025-04-07 - TRT After All-Nighter|TRT After All-Nighter]]  #alan #health #trt
+- 🟢 `2025-04-07` [[2025-04-07 - Hydration Supplement Comparison|Hydration Supplement Comparison]]  #alan #health #supplements
+- 🟢 `2025-04-07` [[2025-04-07 - TRT Dose Effects Timeline|TRT Dose Effects Timeline]]  #alan #health #trt
+- 🟢 `2025-04-10` [[2025-04-10 - Astrocartography Life Optimization|Astrocartography Life Optimization]]  #alan #mindset
+- 🟢 `2025-04-12` [[2025-04-12 - TRT Dose Adjustment Guidance|TRT Dose Adjustment Guidance]]  #alan #health #trt
+- 🟢 `2025-04-13` [[2025-04-13 - Protein Content Breakdown|Protein Content Breakdown]]  #alan #fitness #health
+- 🟢 `2025-04-17` [[2025-04-17 - PeterMD TRT Dosage|PeterMD TRT Dosage]]  #alan #health #trt
+- 🟢 `2025-04-25` [[2025-04-25 - Refund Policy Summary|Refund Policy Summary]]  #alan #health #supplements
+- 🟢 `2025-04-27` [[2025-04-27 - Digestive Support and Nourishment|Digestive Support and Nourishment]]  #alan #health #supplements
+- 🟢 `2025-04-28` [[2025-04-28 - Rash from TRT causes|Rash from TRT causes]]  #alan #health #trt
+- 🟢 `2025-04-29` [[2025-04-29 - NFCU Loan Options|NFCU Loan Options]]  #alan #mindset
+- 🟢 `2025-05-04` [[2025-05-04 - Lower Back Pain Running|Lower Back Pain Running]]  #alan #health #surgery
+- 🟢 `2025-05-05` [[2025-05-05 - Best Iron Supplements Women|Best Iron Supplements Women]]  #alan #health #supplements
+- 🟢 `2025-05-12` [[2025-05-12 - Organic Ashwagandha Pros Cons|Organic Ashwagandha Pros Cons]]  #alan #health #trt
+- 🟢 `2025-05-13` [[2025-05-13 - Mindset Workbook Guide|Mindset Workbook Guide]]  #alan #mindset
+- 🟢 `2025-05-13` [[2025-05-13 - Top BPC-157 Supplements|Top BPC-157 Supplements]]  #alan #health #supplements
+- 🟢 `2025-05-15` [[2025-05-15 - Baller Success Framework|Baller Success Framework]]  #alan #mindset #high-signal
+- 🟢 `2025-05-15` [[2025-05-15 - Best Electrolytes on Amazon|Best Electrolytes on Amazon]]  #alan #health #supplements
+- 🟢 `2025-05-17` [[2025-05-17 - Best Electrolyte Supplements Review|Best Electrolyte Supplements Review]]  #alan #health #supplements
+- 🟢 `2025-05-24` [[2025-05-24 - Thyroid Issues and Solutions|Thyroid Issues and Solutions]]  #alan #health
+- 🟢 `2025-05-24` [[2025-05-24 - Thyroid Health Myths|Thyroid Health Myths]]  #alan #health
+- 🟢 `2025-05-24` [[2025-05-24 - Verify Health Claims Research|Verify Health Claims Research]]  #alan #health
+- 🟢 `2025-05-25` [[2025-05-25 - Natural Sleep Aids Tips|Natural Sleep Aids Tips]]  #alan #health #supplements
+- 🟢 `2025-05-25` [[2025-05-25 - NAD+ Injections for Energy|NAD+ Injections for Energy]]  #alan #health #trt
+- 🟢 `2025-05-26` [[2025-05-26 - Melatonin 3mg Onset Time|Melatonin 3mg Onset Time]]  #alan #health #supplements
+- 🟢 `2025-05-26` [[2025-05-26 - TRT Progress and Optimization|TRT Progress and Optimization]]  #alan #health #trt
+- 🟢 `2025-06-02` [[2025-06-02 - Amphetamine Anxiety Relief Guide|Amphetamine Anxiety Relief Guide]]  #alan #fitness #health #supplements
+- 🟢 `2025-06-04` [[2025-06-04 - Sleep Aid Stack Tips|Sleep Aid Stack Tips]]  #alan #health #supplements
+- 🟢 `2025-06-08` [[2025-06-08 - Scam Detection Analysis|Scam Detection Analysis]]  #alan #dispute #mindset #scam
+- 🟢 `2025-06-09` [[2025-06-09 - Belly Fat Burn Alternatives|Belly Fat Burn Alternatives]]  #alan #health #surgery
+- 🟢 `2025-06-10` [[2025-06-10 - Acne Scar Treatments|Acne Scar Treatments]]  #alan #health #skin
+- 🟢 `2025-06-14` [[2025-06-14 - TRT Frequency Adjustment Guidance|TRT Frequency Adjustment Guidance]]  #alan #health #trt
+- 🟢 `2025-06-15` [[2025-06-15 - Melatonin dosage for sleep|Melatonin dosage for sleep]]  #alan #health #supplements #trt
+- 🟢 `2025-06-18` [[2025-06-18 - Organic Rice Protein Safety|Organic Rice Protein Safety]]  #alan #fitness #health
+- 🟢 `2025-06-18` [[2025-06-18 - Protein Calorie Ratio Comparison|Protein Calorie Ratio Comparison]]  #alan #fitness #health #supplements
+- 🟢 `2025-06-18` [[2025-06-18 - TRT Dose Frequency Adjustment|TRT Dose Frequency Adjustment]]  #alan #health #trt
+- 🟢 `2025-06-21` [[2025-06-21 - Shred in 30 Days|Shred in 30 Days]]  #alan #health #legal #supplements
+- 🟢 `2025-06-23` [[2025-06-23 - Apex Love Subconscious Techniques|Apex Love Subconscious Techniques]]  #alan #mindset
+- 🟢 `2025-06-23` [[2025-06-23 - Dextroamphetamine and Sleep Impact|Dextroamphetamine and Sleep Impact]]  #alan #fitness #health #supplements
+- 🟢 `2025-06-25` [[2025-06-25 - Master Teacher Programming|Master Teacher Programming]]  #alan #mindset
+- 🟢 `2025-06-25` [[2025-06-25 - Mastery and Alignment Guide|Mastery and Alignment Guide]]  #alan #mindset
+- 🟢 `2025-06-27` [[2025-06-27 - TRT Skin Bumps Guide|TRT Skin Bumps Guide]]  #alan #health #trt
+- 🟢 `2025-07-01` [[2025-07-01 - Gallbladder Surgery and Recovery|Gallbladder Surgery and Recovery]]  #alan #fitness #health #surgery
+- 🟢 `2025-07-03` [[2025-07-03 - L-Carnitine Melatonin Sleep Issues|L-Carnitine Melatonin Sleep Issues]]  #alan #health #supplements
+- 🟢 `2025-07-06` [[2025-07-06 - Steak Comparison Guide|Steak Comparison Guide]]  #alan #fitness #health
+- 🟢 `2025-07-07` [[2025-07-07 - Gallbladder Health and Nutrition|Gallbladder Health and Nutrition]]  #alan #health
+- 🟢 `2025-07-07` [[2025-07-07 - Organic Stress Relief Stack|Organic Stress Relief Stack]]  #alan #health #supplements
+- 🟢 `2025-07-09` [[2025-07-09 - Missed TRT Injection Advice|Missed TRT Injection Advice]]  #alan #health #trt
+- 🟢 `2025-07-10` [[2025-07-10 - Steak Tips vs Sirloin|Steak Tips vs Sirloin]]  #alan #fitness #health
+- 🟢 `2025-07-10` [[2025-07-10 - Non-Dairy Protein Alternatives|Non-Dairy Protein Alternatives]]  #alan #fitness #health
+- 🟢 `2025-07-10` [[2025-07-10 - CSN Cream of Rice Protein|CSN Cream of Rice Protein]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-11` [[2025-07-11 - Hydrolyzed vs WPI Comparison|Hydrolyzed vs WPI Comparison]]  #alan #fitness #health
+- 🟢 `2025-07-13` [[2025-07-13 - Melatonin and Hormonal Impact|Melatonin and Hormonal Impact]]  #alan #health #supplements
+- 🟢 `2025-07-14` [[2025-07-14 - NOKT vs Thorne Sleep|NOKT vs Thorne Sleep]]  #alan #health #supplements
+- 🟢 `2025-07-15` [[2025-07-15 - TRT Acne and Solutions|TRT Acne and Solutions]]  #alan #credit #health #skin #trt
+- 🟢 `2025-07-17` [[2025-07-17 - BPC 157 forms comparison|BPC 157 forms comparison]]  #alan #health #trt
+- 🟢 `2025-07-17` [[2025-07-17 - Interstellar fasting protocol|Interstellar fasting protocol]]  #alan #health #supplements #trt #high-signal
+- 🟢 `2025-07-18` [[2025-07-18 - Resistance and energy misalignment|Resistance and energy misalignment]]  #alan #mindset
+- 🟢 `2025-07-18` [[2025-07-18 - Best large SUVs with audio|Best large SUVs with audio]]  #alan #mindset
+- 🟢 `2025-07-20` [[2025-07-20 - Sleep debt or deeper issues|Sleep debt or deeper issues]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-24` [[2025-07-24 - Bloating and Back Pain Causes|Bloating and Back Pain Causes]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-24` [[2025-07-24 - Taking supplements safely|Taking supplements safely]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-26` [[2025-07-26 - Generate birth chart image|Generate birth chart image]]  #alan #mindset
+- 🟢 `2025-07-27` [[2025-07-27 - Nutrition stack optimization|Nutrition stack optimization]]  #alan #fitness #health #supplements
+- 🟢 `2025-07-29` [[2025-07-29 - Spironolactone Acne Treatment Info|Spironolactone Acne Treatment Info]]  #alan #health #skin
+- 🟢 `2025-07-30` [[2025-07-30 - Repelling Woodpeckers Tips|Repelling Woodpeckers Tips]]  #alan #health #skin
+- 🟢 `2025-07-31` [[2025-07-31 - Blends and temperature preferences|Blends and temperature preferences]]  #alan #fitness #health #supplements
+- 🟢 `2025-08-01` [[2025-08-01 - Conversation check|Conversation check]]  #alan #mindset
+- 🟢 `2025-08-02` [[2025-08-02 - Protein and fat loss|Protein and fat loss]]  #alan #fitness #health #supplements
+- 🟢 `2025-08-04` [[2025-08-04 - Subconscious Resistance Transformation|Subconscious Resistance Transformation]]  #alan #mindset
+- 🟢 `2025-08-04` [[2025-08-04 - TRT follow-up labs analysis|TRT follow-up labs analysis]]  #alan #health #trt
+- 🟢 `2025-08-05` [[2025-08-05 - TRT assessment summary|TRT assessment summary]]  #alan #health #trt
+- 🟢 `2025-08-06` [[2025-08-06 - Steak comparison stores|Steak comparison stores]]  #alan #fitness #health
+- 🟢 `2025-08-08` [[2025-08-08 - Severe period pain causes|Severe period pain causes]]  #alan #health #surgery
+- 🟢 `2025-08-10` [[2025-08-10 - 8-8 portal and charts|8/8 portal and charts]]  #alan #health #skin
+- 🟢 `2025-08-11` [[2025-08-11 - Shredding belly fat tips|Shredding belly fat tips]]  #alan #fitness #health #supplements
+- 🟢 `2025-08-13` [[2025-08-13 - Birth chart interpretation|Birth chart interpretation]]  #alan #mindset
+- 🟢 `2025-08-13` [[2025-08-13 - Wedding day coordinator rates|Wedding day coordinator rates]]  #alan #fitness #health
+- 🟢 `2025-08-15` [[2025-08-15 - Interstellar blends ovarian cysts|Interstellar blends ovarian cysts]]  #alan #health #skin #supplements
+- 🟢 `2025-08-18` [[2025-08-18 - Astrological chart and money|Astrological chart and money]]  #alan #mindset
+- 🟢 `2025-08-19` [[2025-08-19 - Funny message rewrite|Funny message rewrite]]  #alan #fitness #health
+- 🟢 `2025-08-20` [[2025-08-20 - Emotional back-and-forth dynamics|Emotional back-and-forth dynamics]]  #alan #health #skin
+- 🟢 `2025-08-21` [[2025-08-21 - Stress and ovarian cysts|Stress and ovarian cysts]]  #alan #health #skin
+- 🟢 `2025-08-22` [[2025-08-22 - Drinks for clear skin|Drinks for clear skin]]  #alan #health #skin
+- 🟢 `2025-08-23` [[2025-08-23 - Best plant protein powder|Best plant protein powder]]  #alan #fitness #health
+- 🟢 `2025-08-23` [[2025-08-23 - Astrological and spiritual meanings|Astrological and spiritual meanings]]  #alan #mindset
+- 🟢 `2025-08-24` [[2025-08-24 - Im8 review|Im8 review]]  #alan #fitness #health #supplements #high-signal
+- 🟢 `2025-08-24` [[2025-08-24 - Portable supplement storage ideas|Portable supplement storage ideas]]  #alan #health #supplements
+- 🟢 `2025-08-25` [[2025-08-25 - TRT impact on relationships|TRT impact on relationships]]  #alan #health #trt
+- 🟢 `2025-08-25` [[2025-08-25 - Testosterone test alternatives|Testosterone test alternatives]]  #alan #bloodwork #health #supplements #trt
+- 🟢 `2025-08-27` [[2025-08-27 - IUD acne breakout tips|IUD acne breakout tips]]  #alan #health #skin
+- 🟢 `2025-08-28` [[2025-08-28 - Ketamine and Aya Dieta|Ketamine and Aya Dieta]]  #alan #health
+- 🟢 `2025-08-29` [[2025-08-29 - Dextroamphetamine and Aya risks|Dextroamphetamine and Aya risks]]  #alan #health #trt
+- 🟢 `2025-08-30` [[2025-08-30 - Video impact assessment|Video impact assessment]]  #alan #health #skin
+- 🟢 `2025-08-30` [[2025-08-30 - Bloating causes analysis|Bloating causes analysis]]  #alan #fitness #health
+- 🟢 `2025-08-31` [[2025-08-31 - Medication and diet prep|Medication and diet prep]]  #alan #fitness #health #supplements
+- 🟢 `2025-09-01` [[2025-09-01 - Ovarian cyst removal risks|Ovarian cyst removal risks]]  #alan #health #skin
+- 🟢 `2025-09-02` [[2025-09-02 - Testosterone boost alternatives|Testosterone boost alternatives]]  #alan #fitness #health
+- 🟢 `2025-09-02` [[2025-09-02 - Overcoming resistance and stress|Overcoming resistance and stress]]  #alan #fitness #health
+- 🟢 `2025-09-02` [[2025-09-02 - Mouth sore and cough causes|Mouth sore and cough causes]]  #alan #health
+- 🟢 `2025-09-02` [[2025-09-02 - TRT storage in heat|TRT storage in heat]]  #alan #health #trt
+- 🟢 `2025-09-02` [[2025-09-02 - Surgery during menstruation|Surgery during menstruation]]  #alan #health #skin #surgery
+- 🟢 `2025-09-05` [[2025-09-05 - Honey rose elixir safety|Honey rose elixir safety]]  #alan #fitness #health
+- 🟢 `2025-09-06` [[2025-09-06 - Big city midpoint|Big city midpoint]]  #alan #health #skin
+- 🟢 `2025-09-06` [[2025-09-06 - Cacao during aya dieta|Cacao during aya dieta]]  #alan #health
+- 🟢 `2025-09-06` [[2025-09-06 - Red flag perceptions explained|Red flag perceptions explained]]  #alan #mindset
+- 🟢 `2025-09-06` [[2025-09-06 - Smoothie comparison dieta rules|Smoothie comparison dieta rules]]  #alan #health
+- 🟢 `2025-09-07` [[2025-09-07 - Action comparison|Action comparison]]  #alan #health
+- 🟢 `2025-09-08` [[2025-09-08 - Frozen fruit dieta guidelines|Frozen fruit dieta guidelines]]  #alan #health
+- 🟢 `2025-09-08` [[2025-09-08 - Gastroperisis discussion|Gastroperisis discussion]]  #alan #health #surgery
+- 🟢 `2025-09-09` [[2025-09-09 - Pineapple and cantaloupe dieta|Pineapple and cantaloupe dieta]]  #alan #ai-workflow #health
+- 🟢 `2025-09-09` [[2025-09-09 - Organic grapes and dieta|Organic grapes and dieta]]  #alan #health
+- 🟢 `2025-09-11` [[2025-09-11 - Best Whole Foods for Aya Dieta|Best Whole Foods for Aya Dieta]]  #alan #fitness #health
+- 🟢 `2025-09-12` [[2025-09-12 - Whole Foods aya dieta|Whole Foods aya dieta]]  #alan #health
+- 🟢 `2025-09-12` [[2025-09-12 - Apple on ceremony day|Apple on ceremony day]]  #alan #fitness #health
+- 🟢 `2025-09-21` [[2025-09-21 - Love expression rewrite|Love expression rewrite]]  #alan #health #skin
+- 🟢 `2025-09-22` [[2025-09-22 - Acne causes and solutions|Acne causes and solutions]]  #alan #health #skin
+- 🟢 `2025-09-25` [[2025-09-25 - Chemical peels and acne|Chemical peels and acne]]  #alan #health #skin
+- 🟢 `2025-09-26` [[2025-09-26 - Ascend credit risk analysis|Ascend credit risk analysis]]  #alan #branding #credit #fitness #health
+- 🟢 `2025-09-30` [[2025-09-30 - Crumbl cookies after surgery|Crumbl cookies after surgery]]  #alan #health #skin #surgery
+- 🟢 `2025-10-01` [[2025-10-01 - Cravings and overeating analysis|Cravings and overeating analysis]]  #alan #health #trt
+- 🟢 `2025-10-01` [[2025-10-01 - Ideal heart rate for lifting|Ideal heart rate for lifting]]  #alan #mindset
+- 🟢 `2025-10-03` [[2025-10-03 - Deep sleep vs total sleep|Deep sleep vs total sleep]]  #alan #fitness #health
+- 🟢 `2025-10-04` [[2025-10-04 - Burning money plan|Burning money plan]]  #alan #copywriting #mindset
+- 🟢 `2025-10-04` [[2025-10-04 - Content calendar strategy|Content calendar strategy]]  #alan #mindset #high-signal
+- 🟢 `2025-10-07` [[2025-10-07 - Fat loss strategy analysis|Fat loss strategy analysis]]  #alan #fitness #health #high-signal
+- 🟢 `2025-10-11` [[2025-10-11 - Fat shred outlook|Fat shred outlook]]  #alan #fitness #health
+- 🟢 `2025-10-11` [[2025-10-11 - Calorie macro estimate|Calorie macro estimate]]  #alan #fitness #health
+- 🟢 `2025-10-12` [[2025-10-12 - Optimizing energy and vitality|Optimizing energy and vitality]]  #alan #health
+- 🟢 `2025-10-15` [[2025-10-15 - Instagram caption creation|Instagram caption creation]]  #alan #copywriting #instagram #marketing #mindset
+- 🟢 `2025-10-15` [[2025-10-15 - NAD injection vs supplement|NAD injection vs supplement]]  #alan #health #supplements
+- 🟢 `2025-10-15` [[2025-10-15 - Injection reaction concerns|Injection reaction concerns]]  #alan #health #surgery
+- 🟢 `2025-10-16` [[2025-10-16 - Inspiration vs motivation|Inspiration vs motivation]]  #alan #copywriting #mindset
+- 🟢 `2025-10-17` [[2025-10-17 - Healthier choice comparison|Healthier choice comparison]]  #alan #fitness #health
+- 🟢 `2025-10-17` [[2025-10-17 - Flirty response suggestions|Flirty response suggestions]]  #alan #fitness #health
+- 🟢 `2025-10-20` [[2025-10-20 - Astrocartography map analysis|Astrocartography map analysis]]  #alan #mindset #high-signal
+- 🟢 `2025-10-22` [[2025-10-22 - Deer diet preferences|Deer diet preferences]]  #alan #health
+- 🟢 `2025-10-25` [[2025-10-25 - Astrological transit meanings|Astrological transit meanings]]  #alan #mindset
+- 🟢 `2025-10-26` [[2025-10-26 - Subconscious mind principles|Subconscious mind principles]]  #alan #mindset #sales
+- 🟢 `2025-10-28` [[2025-10-28 - Chart insights and actions|Chart insights and actions]]  #alan #mindset
+- 🟢 `2025-11-06` [[2025-11-06 - Tattoo ideas for all|Tattoo ideas for all]]  #alan #fitness #health
+- 🟢 `2025-11-11` [[2025-11-11 - Injection pain explanation|Injection pain explanation]]  #alan #health #surgery #trt
+- 🟢 `2025-11-12` [[2025-11-12 - Nutrition estimate salad bowl|Nutrition estimate salad bowl]]  #alan #health
+- 🟢 `2025-11-14` [[2025-11-14 - TRT injections query|TRT injections query]]  #alan #health #trt
+- 🟢 `2025-11-15` [[2025-11-15 - Sildenafil quality comparison|Sildenafil quality comparison]]  #alan #health #trt
+- 🟢 `2025-11-24` [[2025-11-24 - Astrological houses vs signs|Astrological houses vs signs]]  #alan #mindset
+- 🟢 `2025-11-24` [[2025-11-24 - Birth chart details|Birth chart details]]  #alan #mindset
+- 🟢 `2025-11-24` [[2025-11-24 - Birth chart with houses|Birth chart with houses]]  #alan #mindset
+- 🟢 `2025-11-26` [[2025-11-26 - Best whole-food electrolytes|Best whole-food electrolytes]]  #alan #health #supplements
+- 🟢 `2025-11-29` [[2025-11-29 - HS cyst removal options|HS cyst removal options]]  #alan #health #skin
+- 🟢 `2025-12-02` [[2025-12-02 - Communicating coverage details|Communicating coverage details]]  #alan #health #instagram #marketing #supplements
+- 🟢 `2025-12-03` [[2025-12-03 - LMNT vs Ancient Nutrition|LMNT vs Ancient Nutrition]]  #alan #health
+- 🟢 `2025-12-04` [[2025-12-04 - Hydration sodium comparison|Hydration sodium comparison]]  #alan #health
+- 🟢 `2025-12-05` [[2025-12-05 - Word search zigzag rules|Word search zigzag rules]]  #alan #health #surgery
+- 🟢 `2025-12-10` [[2025-12-10 - Panda Express vs Chipotle|Panda Express vs Chipotle]]  #alan #fitness #health
+- 🟢 `2025-12-16` [[2025-12-16 - Coping with bloating and weakness|Coping with bloating and weakness]]  #alan #fitness #health
+- 🟢 `2025-12-16` [[2025-12-16 - Mastering Lesson 6|Mastering Lesson 6]]  #alan #mindset #teaching
+- 🟢 `2025-12-16` [[2025-12-16 - Clean transcripts for GPT|Clean transcripts for GPT]]  #alan #mindset #teaching
+- 🟢 `2025-12-17` [[2025-12-17 - Manifesting passive income|Manifesting passive income]]  #alan #health #surgery
+- 🟢 `2025-12-17` [[2025-12-17 - Summarize system teachings|Summarize system teachings]]  #alan #funding #mindset
+- 🟢 `2025-12-17` [[2025-12-17 - Wealth identity shifting|Wealth identity shifting]]  #alan #mindset
+- 🟢 `2025-12-18` [[2025-12-18 - Time tracking tools|Time tracking tools]]  #alan #mindset #sales
+- 🟢 `2025-12-18` [[2025-12-18 - Hypnotizing through conversation|Hypnotizing through conversation]]  #alan #mindset
+- 🟢 `2025-12-18` [[2025-12-18 - Electrolytes vs IV hydration|Electrolytes vs IV hydration]]  #alan #health
+- 🟢 `2025-12-30` [[2025-12-30 - Overcoming Subconscious Blocks|Overcoming Subconscious Blocks]]  #alan #copywriting #mindset #high-signal
+- 🟢 `2026-01-04` [[2026-01-04 - Steatocystoma vs Epidermoid Cyst|Steatocystoma vs Epidermoid Cyst]]  #alan #health #skin
+- 🟢 `2026-01-07` [[2026-01-07 - Venus Jupiter Neptune Astrology|Venus Jupiter Neptune Astrology]]  #alan #mindset
+- 🟢 `2026-01-12` [[2026-01-12 - Studio Setup for Trust|Studio Setup for Trust]]  #alan #mindset
+- 🟢 `2026-01-13` [[2026-01-13 - Heavy Metal Toxicity Testing|Heavy Metal Toxicity Testing]]  #alan #fitness #health #supplements
+- 🟢 `2026-01-15` [[2026-01-15 - Blood in Urine After Surgery|Blood in Urine After Surgery]]  #alan #health #surgery
+- 🟢 `2026-01-16` [[2026-01-16 - Orthopedic Clinic for Back Pain|Orthopedic Clinic for Back Pain]]  #alan #health #surgery
+- 🟢 `2026-01-17` [[2026-01-17 - Top sirloin vs eye of round|Top sirloin vs eye of round]]  #alan #fitness #health
+- 🟢 `2026-01-22` [[2026-01-22 - Nuform vs PeterMD TRT|Nuform vs PeterMD TRT]]  #alan #health #trt
+- 🟢 `2026-01-23` [[2026-01-23 - TRT Carrier Oils Inflammation|TRT Carrier Oils Inflammation]]  #alan #health #trt
+- 🟢 `2026-01-24` [[2026-01-24 - Self-hypnosis for wealth|Self-hypnosis for wealth]]  #alan #mindset
+- 🟢 `2026-01-24` [[2026-01-24 - Beef Ribs Tenderness|Beef Ribs Tenderness]]  #alan #fitness #health
+- 🟢 `2026-01-26` [[2026-01-26 - Dextroamphetamine and Sleep Impact|Dextroamphetamine and Sleep Impact]]  #alan #fitness #health
+- 🟢 `2026-01-27` [[2026-01-27 - HGH for Focus and Drive|HGH for Focus and Drive]]  #alan #health #trt
+- 🟢 `2026-01-28` [[2026-01-28 - Blue Light Sleep Block|Blue Light Sleep Block]]  #alan #health #supplements
+- 🟢 `2026-02-05` [[2026-02-05 - Dextroamphetamine dosing schedule|Dextroamphetamine dosing schedule]]  #alan #fitness #health #supplements
+- 🟢 `2026-02-08` [[2026-02-08 - Facial Sling Recovery Timeline|Facial Sling Recovery Timeline]]  #alan #fitness #health
+- 🟢 `2026-02-09` [[2026-02-09 - Fascial sling workout timeline|Fascial sling workout timeline]]  #alan #fitness #health
+- 🟢 `2026-02-11` [[2026-02-11 - Needle Comparison Guide|Needle Comparison Guide]]  #alan #health #trt
+- 🟢 `2026-02-12` [[2026-02-12 - Rare Steak Oven Method|Rare Steak Oven Method]]  #alan #fib #fitness #health
+- 🟢 `2026-02-16` [[2026-02-16 - Cysts and Cancer Concerns|Cysts and Cancer Concerns]]  #alan #health #skin
+- 🟢 `2026-02-17` [[2026-02-17 - Beef vs Whey Protein|Beef vs Whey Protein]]  #alan #fitness #health
+- 🟢 `2026-02-22` [[2026-02-22 - Beef Loin vs Top Sirloin|Beef Loin vs Top Sirloin]]  #alan #fitness #health
+- 🟢 `2026-02-23` [[2026-02-23 - Backdrop Perception for Zoom|Backdrop Perception for Zoom]]  #alan #apw #mindset #sales #tech #vsl
+- 🟢 `2026-02-23` [[2026-02-23 - Chicken recipe at 500°F|Chicken recipe at 500°F]]  #alan #fitness #health #skin
+- 🟢 `2026-02-26` [[2026-02-26 - Backdrop Perception and Trust|Backdrop Perception and Trust]]  #alan #apw #mindset #sales #tech #vsl
+- 🟢 `2026-02-27` [[2026-02-27 - Beef Sirloin Comparison|Beef Sirloin Comparison]]  #alan #ai-workflow #fitness #health
+- 🟢 `2026-02-27` [[2026-02-27 - Macro Split for Cutting|Macro Split for Cutting]]  #alan #fitness #health
+- 🟢 `2026-02-28` [[2026-02-28 - Melatonin 10 mg Kids Safety|Melatonin 10 mg Kids Safety]]  #alan #health #supplements
+- 🟣 `2026-03-01` [[2026-03-01 - Optimizing brain performance with supplements and fuel|Optimizing brain performance with supplements and fuel]]  #alan #dispute #health #scam #supplements #high-signal
+- 🟣 `2026-03-01` [[2026-03-01 - CEO performance supplement comparison|CEO performance supplement comparison]]  #alan #health #supplements #high-signal
+- 🟢 `2026-03-03` [[2026-03-03 - Dissolvable Vaginal Stitches|Dissolvable Vaginal Stitches]]  #alan #health #skin
+- 🟢 `2026-03-03` [[2026-03-03 - Air Quality Sleep Spike|Air Quality Sleep Spike]]  #alan #fitness #health #supplements
+- 🟣 `2026-03-03` [[2026-03-03 - Mother's insertional Achilles tendon surgery|Mother's insertional Achilles tendon surgery]]  #alan #health #surgery
+- 🟢 `2026-03-04` [[2026-03-04 - CEO Brain Supplements|CEO Brain Supplements]]  #alan #health #supplements
+- 🟢 `2026-03-04` [[2026-03-04 - Brain Power Supplements Comparison|Brain Power Supplements Comparison]]  #alan #health #supplements
+- 🟢 `2026-03-06` [[2026-03-06 - CEO Brain Health Efficiency|CEO Brain Health Efficiency]]  #alan #health #supplements
+- 🟣 `2026-03-06` [[2026-03-06 - Best nootropic supplements for cognitive performance|Best nootropic supplements for cognitive performance]]  #alan #health #supplements #high-signal
+- 🟣 `2026-03-06` [[2026-03-06 - Nerve hit during TRT injection|Nerve hit during TRT injection]]  #alan #health #trt
+- 🟢 `2026-03-07` [[2026-03-07 - Blood work benefits explained|Blood work benefits explained]]  #alan #bloodwork #health
+- 🟢 `2026-03-08` [[2026-03-08 - Methylation and Anxiety|Methylation and Anxiety]]  #alan #health #supplements
+- 🟣 `2026-03-09` [[2026-03-09 - Memory update review|Memory update review]]  #alan #apw #bloodwork #business-credit #copywriting #credit #dj-music #finance #fitness #funding #health #hiring #marketing #meta-ads #sales #scio #supplements #teaching #high-signal
+- 🟣 `2026-03-09` [[2026-03-09 - Tony Robbins' 10-minute morning priming routine|Tony Robbins' 10-minute morning priming routine]]  #alan #fitness #health #mindset
+- 🟣 `2026-03-10` [[2026-03-10 - Low energy and stimulant crash management|Low energy and stimulant crash management]]  #alan #fitness #health #supplements #high-signal
+- 🟢 `2026-03-11` [[2026-03-11 - Dextroamphetamine and Bloodwork|Dextroamphetamine and Bloodwork]]  #alan #bloodwork #health
+- 🟣 `2026-03-14` [[2026-03-14 - Right-sided chest pain evaluation|Right-sided chest pain evaluation]]  #alan #bloodwork #health
+- 🟢 `2026-03-14` [[2026-03-14 - Chest Pain Causes and Urgency|Chest Pain Causes and Urgency]]  #alan #bloodwork #health
+- 🟢 `2026-03-15` [[2026-03-15 - Fundable Credit Outline|Fundable Credit Outline]]  #alan #copywriting #health #surgery
+- 🟢 `2026-03-17` [[2026-03-17 - TRT Injection Safety Tips|TRT Injection Safety Tips]]  #alan #health #surgery #trt
+- 🟣 `2026-03-17` [[2026-03-17 - Tony Robbins Lifeforce Peak Rest timing and melatonin concerns|Tony Robbins Lifeforce Peak Rest timing and melatonin concerns]]  #alan #health #supplements #high-signal
+- 🟣 `2026-03-17` [[2026-03-17 - Healthy fats for blood type B nutrition|Healthy fats for blood type B nutrition]]  #alan #fitness #health #supplements #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Tony Robbins sleep supplement dosing safety|Tony Robbins sleep supplement dosing safety]]  #alan #health #supplements #high-signal
+- 🟢 `2026-03-19` [[2026-03-19 - Achilles Debridement Clarification|Achilles Debridement Clarification]]  #alan #health #surgery
+- 🟢 `2026-03-20` [[2026-03-20 - Post-surgery cramping relief|Post-surgery cramping relief]]  #alan #health #surgery
+- 🟣 `2026-03-20` [[2026-03-20 - Post-surgery stomach cramps from pain medication|Post-surgery stomach cramps from pain medication]]  #alan #fitness #health #surgery
+- 🟣 `2026-03-20` [[2026-03-20 - Treating atrophic acne scars and post-inflammatory hyperpigmentation|Treating atrophic acne scars and post-inflammatory hyperpigmentation]]  #alan #health #skin #high-signal
+- 🟣 `2026-03-21` [[2026-03-21 - Broccoli sprouts vs mature broccoli nutrition|Broccoli sprouts vs mature broccoli nutrition]]  #alan #fib #health
+- 🟢 `2026-03-21` [[2026-03-21 - Hydration and electrolytes post-surgery|Hydration and electrolytes post-surgery]]  #alan #health #supplements #surgery
+- 🟢 `2026-03-21` [[2026-03-21 - Acne Treatment Recommendations|Acne Treatment Recommendations]]  #alan #health #skin
+- 🟣 `2026-03-23` [[2026-03-23 - Post-surgery oxycodone refills|Post-surgery oxycodone refills]]  #alan #health #surgery
+- 🟣 `2026-03-23` [[2026-03-23 - Massage therapist career field|Massage therapist career field]]  #alan #health #surgery
+- 🟣 `2026-03-25` [[2026-03-25 - Dark object in chuck steak safety|Dark object in chuck steak safety]]  #alan #health #skin
+- 🟣 `2026-03-25` [[2026-03-25 - Post-surgery diet restrictions after Achilles surgery|Post-surgery diet restrictions after Achilles surgery]]  #alan #fib #health #surgery
+- 🟣 `2026-03-27` [[2026-03-27 - Uploading large ChatGPT data exports|Uploading large ChatGPT data exports]]  #alan #ai-workflow #apw #blitz #cfpb #chargeback #contracts #credit #dbfi #dispute #dj-music #fib #funding #health #legal #marketing #meta-ads #ops #scio #supplements #surgery #travel #high-signal
+- 🟣 `2026-03-30` [[2026-03-30 - B12 dosage and absorption|B12 dosage and absorption]]  #alan #health #supplements
+- 🟣 `2026-03-31` [[2026-03-31 - Complete blood work analysis with TRT considerations|Complete blood work analysis with TRT considerations]]  #alan #bloodwork #fitness #health #supplements #trt #high-signal
+- 🟣 `2026-04-01` [[2026-04-01 - Overcoming subconscious blocks to complete priority projects|Overcoming subconscious blocks to complete priority projects]]  #alan #apw #mindset #sales #scio #vsl
+- 🟣 `2026-04-08` [[2026-04-08 - Mom's chest pain after BIOHM supplements|Mom's chest pain after BIOHM supplements]]  #alan #bloodwork #health #supplements
+- 🟣 `2026-04-12` [[2026-04-12 - Trinity by Interstellar Blend use case|Trinity by Interstellar Blend use case]]  #alan #apw #health #sales #supplements #vsl #high-signal
+- 🟣 `2026-04-13` [[2026-04-13 - Chicken thigh protein cost comparison|Chicken thigh protein cost comparison]]  #alan #fitness #health
+- 🟣 `2026-04-14` [[2026-04-14 - Comparing bottom sirloin to top sirloin and chuck eye|Comparing bottom sirloin to top sirloin and chuck eye]]  #alan #fitness #health
+- 🟣 `2026-04-15` [[2026-04-15 - Alex Hormozi naming formula|Alex Hormozi naming formula]]  #alan #apw #blitz #branding #copywriting #funding #health #hiring #prime-protocol #scio #surgery #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Memory update review|Memory update review]]  #alan #apw #blitz #business-credit #cfpb #credit #dbfi #dispute #dj-music #dsl #fib #fitness #funding #health #instagram #legal #marketing #prime-protocol #reg-z #sales #scio #supplements #tech #vsl #high-signal
+- 🟣 `2026-04-16` [[2026-04-16 - Building intuitive mastery through step-by-step learning|Building intuitive mastery through step-by-step learning]]  #alan #apw #dispute #legal #marketing #mindset #sales #scam #high-signal
+- 🟣 `2026-04-17` [[2026-04-17 - Supplement ingredient effectiveness evaluation|Supplement ingredient effectiveness evaluation]]  #alan #health #supplements
+- 🟣 `2026-04-19` [[2026-04-19 - Developing reflection exercises|Developing reflection exercises]]  #alan #mindset
+- 🟣 `2026-04-19` [[2026-04-19 - Astrocartography for relocation and business funding|Astrocartography for relocation and business funding]]  #alan #apw #contracts #funding #legal #mindset #procurement #high-signal
+- 🟣 `2026-04-20` [[2026-04-20 - Understanding Google AI mode chat|Understanding Google AI mode chat]]  #alan #ai-workflow #apw #mindset
+- 🟣 `2026-04-20` [[2026-04-20 - Chest pain and TRT-related blood clot risk|Chest pain and TRT-related blood clot risk]]  #alan #bloodwork #health #trt
+- 🟣 `2026-04-20` [[2026-04-20 - Accutane side effects|Accutane side effects]]  #alan #health #skin
+- 🟣 `2026-04-20` [[2026-04-20 - Accutane side effects and cystic acne treatment|Accutane side effects and cystic acne treatment]]  #alan #health #skin
+- 🟣 `2026-04-24` [[2026-04-24 - Recurring cysts on legs and arms|Recurring cysts on legs and arms]]  #alan #health #skin
+- 🟣 `2026-04-29` [[2026-04-29 - TRT injection site location|TRT injection site location]]  #alan #health #trt
+- 🟣 `2026-05-13` [[2026-05-13 - Hypoglycemic episode and amphetamine-like symptoms|Hypoglycemic episode and amphetamine-like symptoms]]  #alan #bloodwork #health
+- 🟣 `2026-05-13` [[2026-05-13 - Personal astrological profile and birth chart|Personal astrological profile and birth chart]]  #alan #mindset
+- 🟣 `2026-05-16` [[2026-05-16 - Productivity without boundaries|Productivity without boundaries]]  #alan #mindset

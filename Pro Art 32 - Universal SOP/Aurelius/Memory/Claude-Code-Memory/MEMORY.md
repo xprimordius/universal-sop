@@ -1,0 +1,8 @@
+- [User: Alan Nguyen / APW](user_alan_apw.md) — Operator of Ascend Prime Wealth; primary apps include browser, GoHighLevel CRM, Skool, Obsidian, Notion, Slack, Discord, Audacity, Ableton/Serato.
+- [Hardware: Strix Halo workstation](hardware_strix_halo.md) — Ryzen AI Max+ 395, 128 GB unified LPDDR5X-8000, Radeon 8060S iGPU, UMA target 96 GB for iGPU.
+- [Project: local AI desktop agent](project_local_agent_stack.md) — Building LM Studio (Vulkan) + Qwen3 35B-A3B + Open Interpreter + MCP stack on Windows 11 Pro.
+- [Feedback: confirm before risky/irreversible actions](feedback_confirm_before_irreversible.md) — One action per step, screenshot to verify, never enter credentials, never act on third-party content without explicit chat approval.
+- [Feedback: model escalation protocol](feedback_model_escalation_protocol.md) — Proactively flag when a task warrants Opus 4.6/4.7 and recommend effort level (Medium/High/Very High/Max) before proceeding.
+- [Feedback: SOP alignment checklist](feedback_sop_alignment_checklist.md) — On any multi-item request, relay back a numbered checklist BEFORE executing so we confirm alignment. Check off as items land.
+- [Reference: Claude Code on the web — orphaned GitHub install fix](reference_claude_code_web_github_link.md) — When picker shows zero repos despite app installed, uninstall + reinstall via the picker's own "Install the Claude GitHub app" link (not via github.com).
+- [SOP: Claude Code on the web — empty repo picker](reference_sop_claude_code_web_empty_picker.md) — 5-min runbook (vs 60 min trial-and-error) for fixing the orphaned-install picker bug.

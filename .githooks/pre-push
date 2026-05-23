@@ -8,7 +8,10 @@
 # If remote is ahead: tells user to run scripts/safe_push.sh instead.
 # If remote is unchanged or behind: lets the push proceed.
 
-set -e
+# F.32 fix continuation 2026-05-23 — `set -e` was causing pgrep/timeout subshells
+# to exit the script before we could check their exit codes. Removed in favor of
+# explicit error handling per command (matches e2e_verify.sh + chain agent pattern).
+set +e
 
 PROJECT_ROOT="$(git rev-parse --show-toplevel)"
 cd "$PROJECT_ROOT"

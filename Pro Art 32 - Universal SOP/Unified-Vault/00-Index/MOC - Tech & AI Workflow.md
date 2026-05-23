@@ -1,0 +1,181 @@
+---
+title: MOC - Tech & AI Workflow
+type: index
+tags:
+  - index
+  - moc
+---
+
+# MOC - Tech & AI Workflow
+
+140 conversations  ·  41 Claude / 99 ChatGPT
+
+_🟣 Claude  ·  🟢 ChatGPT_
+
+---
+
+## High-signal (Layer-2 extraction queue)
+
+- 🟢 `2024-08-17` [[2024-08-17 - Program Overview Summary|Program Overview Summary]]  #alan #ai-workflow #high-signal
+- 🟢 `2026-03-09` [[2026-03-09 - System Prompt Creation|System Prompt Creation]]  #alan #ai-workflow #high-signal
+- 🟣 `2026-03-10` [[2026-03-10 - Choosing the right Claude model for comprehensive course framework design|Choosing the right Claude model for comprehensive course framework design]]  #alan #ai-workflow #apw #curriculum #teaching #high-signal
+- 🟣 `2026-03-13` [[2026-03-13 - Caching and token efficiency in Claude|Caching and token efficiency in Claude]]  #alan #ai-workflow #apw #teaching #high-signal
+- 🟣 `2026-03-15` [[2026-03-15 - Organizing content for live teaching|Organizing content for live teaching]]  #alan #credit #funding #teaching #tech #utilization #high-signal
+- 🟣 `2026-03-15` [[2026-03-15 - Encoding rules as deterministic code checks|Encoding rules as deterministic code checks]]  #alan #ai-workflow #high-signal
+- 🟣 `2026-03-18` [[2026-03-18 - Migrating dual personas to Claude|Migrating dual personas to Claude]]  #alan #ai-workflow #contracts #legal #negotiation #procurement #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Building the ultimate Claude project instructions framework|Building the ultimate Claude project instructions framework]]  #alan #ai-workflow #apw #sales #sales-framework #teaching #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Caching and file creation for process mastery|Caching and file creation for process mastery]]  #alan #ai-workflow #apw #sales #sales-framework #teaching #high-signal
+- 🟣 `2026-03-23` [[2026-03-23 - Funding timeline breakdown- blitz vs prime protocol paths|Funding timeline breakdown: blitz vs prime protocol paths]]  #alan #ai-workflow #apw #blitz #branding #business-credit #credit #funding #ops #prime-protocol #utilization #high-signal
+- 🟣 `2026-03-23` [[2026-03-23 - APW Primary Bureaus video script checklist|APW Primary Bureaus video script checklist]]  #alan #apw #credit #teaching #tech #high-signal
+- 🟣 `2026-03-24` [[2026-03-24 - Payment facilitation compliance between business entities|Payment facilitation compliance between business entities]]  #alan #chargeback #dispute #funding #legal #tech #high-signal
+- 🟣 `2026-03-27` [[2026-03-27 - Uploading large ChatGPT data exports|Uploading large ChatGPT data exports]]  #alan #ai-workflow #apw #blitz #cfpb #chargeback #contracts #credit #dbfi #dispute #dj-music #fib #funding #health #legal #marketing #meta-ads #ops #scio #supplements #surgery #travel #high-signal
+- 🟣 `2026-03-27` [[2026-03-27 - Remaining items for import|Remaining items for import]]  #alan #ai-workflow #ops #high-signal
+- 🟣 `2026-03-30` [[2026-03-30 - Legal demand letter for post removal|Legal demand letter for post removal]]  #alan #demand-letter #dispute #legal #sales #tech #high-signal
+- 🟣 `2026-04-01` [[2026-04-01 - Organizing APW launch checklist and action steps|Organizing APW launch checklist and action steps]]  #alan #apw #funding #legal #ops #scio #tech #high-signal
+- 🟣 `2026-04-09` [[2026-04-09 - A-class hire baseline requirements and screening|A-class hire baseline requirements and screening]]  #alan #ai-workflow #apw #funding #hiring #ops #sop #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Saving progress before context limit|Saving progress before context limit]]  #alan #ai-workflow #apw #dsl #funding #sales #scio #vsl #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Memory update review|Memory update review]]  #alan #apw #blitz #business-credit #cfpb #credit #dbfi #dispute #dj-music #dsl #fib #fitness #funding #health #instagram #legal #marketing #prime-protocol #reg-z #sales #scio #supplements #tech #vsl #high-signal
+- 🟣 `2026-04-20` [[2026-04-20 - Exporting APW notes to Obsidian with animated grid visualization|Exporting APW notes to Obsidian with animated grid visualization]]  #alan #ai-workflow #apw #blitz #curriculum #dsl #funding #legal #marketing #prime-protocol #sales #scio #teaching #ugc #vsl #high-signal
+
+## All conversations
+
+- 🟢 `2024-06-04` [[2024-06-04 - ChatGPT-5 Details Unknown|ChatGPT-5 Details Unknown]]  #alan #ai-workflow
+- 🟢 `2024-08-03` [[2024-08-03 - Merchant Processor Liability|Merchant Processor Liability]]  #alan #cfpb #dispute #legal #scam #tech
+- 🟢 `2024-08-12` [[2024-08-12 - Multi-Monitor FPS Drop|Multi-Monitor FPS Drop]]  #alan #credit #tech #utilization
+- 🟢 `2024-08-17` [[2024-08-17 - Program Overview Summary|Program Overview Summary]]  #alan #ai-workflow #high-signal
+- 🟢 `2024-08-21` [[2024-08-21 - Link Payment Processor Fees|Link Payment Processor Fees]]  #alan #tech
+- 🟢 `2024-09-02` [[2024-09-02 - Optimizing Apex Legends Performance|Optimizing Apex Legends Performance]]  #alan #tech
+- 🟢 `2024-09-02` [[2024-09-02 - Fixing Stuck NVIDIA FPS|Fixing Stuck NVIDIA FPS]]  #alan #tech
+- 🟢 `2024-09-09` [[2024-09-09 - SSD Boot Issues|SSD Boot Issues]]  #alan #tech
+- 🟢 `2024-09-14` [[2024-09-14 - Polling Rate vs. Refresh Rate|Polling Rate vs. Refresh Rate]]  #alan #tech
+- 🟢 `2024-09-26` [[2024-09-26 - Best DDR4 RAM for Gaming|Best DDR4 RAM for Gaming]]  #alan #tech
+- 🟢 `2024-09-29` [[2024-09-29 - CPU Overheating AIO Cooler|CPU Overheating AIO Cooler]]  #alan #ai-workflow #tech
+- 🟢 `2024-10-04` [[2024-10-04 - Intel XTU MSI Afterburner Undervolt|Intel XTU MSI Afterburner Undervolt]]  #alan #tech
+- 🟢 `2024-11-08` [[2024-11-08 - Contract Cancellation and Refunds|Contract Cancellation and Refunds]]  #alan #legal #tech
+- 🟢 `2024-11-27` [[2024-11-27 - Gigabyte Aim Stabilizer Sync|Gigabyte Aim Stabilizer Sync]]  #alan #tech
+- 🟢 `2024-11-27` [[2024-11-27 - DSC vs ELMB Apex|DSC vs ELMB Apex]]  #alan #tech
+- 🟢 `2024-12-01` [[2024-12-01 - CHG27 10-bit Monitor|CHG27 10-bit Monitor]]  #alan #tech
+- 🟢 `2024-12-02` [[2024-12-02 - KG257Q vs CHG27 Latency|KG257Q vs CHG27 Latency]]  #alan #tech
+- 🟢 `2024-12-05` [[2024-12-05 - Aim Assist 120Hz Impact|Aim Assist 120Hz Impact]]  #alan #tech
+- 🟢 `2024-12-09` [[2024-12-09 - Silicon Crystals in CPUs|Silicon Crystals in CPUs]]  #alan #tech
+- 🟢 `2024-12-13` [[2024-12-13 - Break-even Calculation Challenge|Break-even Calculation Challenge]]  #alan #ai-workflow #funding
+- 🟢 `2024-12-28` [[2024-12-28 - Sales Funding Email Draft|Sales Funding Email Draft]]  #alan #ai-workflow #hiring
+- 🟢 `2024-12-29` [[2024-12-29 - Cortana Rampancy Transition|Cortana Rampancy Transition]]  #alan #tech
+- 🟢 `2025-01-01` [[2025-01-01 - Talking to Eloise|Talking to Eloise]]  #alan #ai-workflow
+- 🟢 `2025-01-16` [[2025-01-16 - Elgato Wave 3 Monitoring Fix|Elgato Wave 3 Monitoring Fix]]  #alan #tech
+- 🟢 `2025-01-26` [[2025-01-26 - iPad Sidecar Touchscreen Limitations|iPad Sidecar Touchscreen Limitations]]  #alan #tech
+- 🟢 `2025-01-30` [[2025-01-30 - Existential Fear Unpacked|Existential Fear Unpacked]]  #alan #ai-workflow
+- 🟢 `2025-02-12` [[2025-02-12 - Purpose of Blue USB Cable|Purpose of Blue USB Cable]]  #alan #tech
+- 🟢 `2025-03-01` [[2025-03-01 - Identify ASUS Gaming Monitor|Identify ASUS Gaming Monitor]]  #alan #tech
+- 🟢 `2025-03-04` [[2025-03-04 - ASUS 4070 No Video Signal|ASUS 4070 No Video Signal]]  #alan #tech
+- 🟢 `2025-03-04` [[2025-03-04 - AEMP II BIOS Settings|AEMP II BIOS Settings]]  #alan #tech
+- 🟢 `2025-03-05` [[2025-03-05 - 12900K Idle High Clock|12900K Idle High Clock]]  #alan #tech
+- 🟢 `2025-03-12` [[2025-03-12 - 4K 240Hz Monitors|4K 240Hz Monitors]]  #alan #tech
+- 🟢 `2025-03-14` [[2025-03-14 - Samsung 49 vs 57 PPI|Samsung 49 vs 57 PPI]]  #alan #tech
+- 🟢 `2025-03-15` [[2025-03-15 - Samsung Odyssey 240Hz Issue|Samsung Odyssey 240Hz Issue]]  #alan #tech
+- 🟢 `2025-03-29` [[2025-03-29 - Best 4K Gaming Monitors|Best 4K Gaming Monitors]]  #alan #tech
+- 🟢 `2025-04-11` [[2025-04-11 - Investing in ChatGPT|Investing in ChatGPT]]  #alan #ai-workflow
+- 🟢 `2025-04-24` [[2025-04-24 - Steno.ai AI Models|Steno.ai AI Models]]  #alan #ai-workflow
+- 🟢 `2025-04-26` [[2025-04-26 - Removing Dog Pee Smell|Removing Dog Pee Smell]]  #alan #ai-workflow
+- 🟢 `2025-05-02` [[2025-05-02 - Caffeine Gel Intake Guidelines|Caffeine Gel Intake Guidelines]]  #alan #ai-workflow
+- 🟢 `2025-05-24` [[2025-05-24 - Find Wistia Video ID|Find Wistia Video ID]]  #alan #tech
+- 🟢 `2025-05-28` [[2025-05-28 - Ryzen 5 5600 vs i5-12400|Ryzen 5 5600 vs i5-12400]]  #alan #tech
+- 🟢 `2025-06-07` [[2025-06-07 - Dinner Invitation Refinement|Dinner Invitation Refinement]]  #alan #ai-workflow
+- 🟢 `2025-06-09` [[2025-06-09 - Grandma Stroke Update|Grandma Stroke Update]]  #alan #tech
+- 🟢 `2025-06-14` [[2025-06-14 - ChatGPT Ownership and Source|ChatGPT Ownership and Source]]  #alan #ai-workflow
+- 🟢 `2025-06-14` [[2025-06-14 - Overpowered 18-inch laptop specs|Overpowered 18-inch laptop specs]]  #alan #tech
+- 🟢 `2025-06-18` [[2025-06-18 - RTFD vs RTF Upload|RTFD vs RTF Upload]]  #alan #ai-workflow
+- 🟢 `2025-06-24` [[2025-06-24 - Token Count and Limits|Token Count and Limits]]  #alan #ai-workflow
+- 🟢 `2025-07-21` [[2025-07-21 - TransUnion account access legality|TransUnion account access legality]]  #alan #ai-workflow #credit #dispute #scam
+- 🟢 `2025-07-23` [[2025-07-23 - ChatGPT contract analysis|ChatGPT contract analysis]]  #alan #ai-workflow #legal
+- 🟢 `2025-07-23` [[2025-07-23 - Phone audio recording risks|Phone audio recording risks]]  #alan #tech
+- 🟢 `2025-07-27` [[2025-07-27 - ChatGPT conversations in court|ChatGPT conversations in court]]  #alan #ai-workflow
+- 🟢 `2025-07-31` [[2025-07-31 - Nest Hub YouTube issue|Nest Hub YouTube issue]]  #alan #ai-workflow
+- 🟢 `2025-08-05` [[2025-08-05 - Best Class A RVs|Best Class A RVs]]  #alan #tech
+- 🟢 `2025-08-07` [[2025-08-07 - Turn off Tesla monitoring|Turn off Tesla monitoring]]  #alan #tech
+- 🟢 `2025-08-09` [[2025-08-09 - Storm or atmospheric lightning|Storm or atmospheric lightning]]  #alan #instagram #marketing #tech
+- 🟢 `2025-08-13` [[2025-08-13 - Guidance and wisdom shared|Guidance and wisdom shared]]  #alan #ai-workflow
+- 🟢 `2025-08-17` [[2025-08-17 - Best wireless magnetic monitor|Best wireless magnetic monitor]]  #alan #tech
+- 🟢 `2025-08-18` [[2025-08-18 - AI modern hit creation|AI modern hit creation]]  #alan #ai-workflow
+- 🟢 `2025-09-09` [[2025-09-09 - Pineapple and cantaloupe dieta|Pineapple and cantaloupe dieta]]  #alan #ai-workflow #health
+- 🟢 `2025-09-23` [[2025-09-23 - Opener suggestion for girl|Opener suggestion for girl]]  #alan #ai-workflow
+- 🟢 `2025-09-29` [[2025-09-29 - Acknowledgment response|Acknowledgment response]]  #alan #ai-workflow
+- 🟢 `2025-11-11` [[2025-11-11 - Kitchen remodel layout|Kitchen remodel layout]]  #alan #procurement #tech
+- 🟢 `2025-12-04` [[2025-12-04 - Open-back vs closed-back headphones|Open-back vs closed-back headphones]]  #alan #tech
+- 🟢 `2025-12-18` [[2025-12-18 - Account extraction table|Account extraction table]]  #alan #credit #tech #tradeline #utilization
+- 🟢 `2026-01-10` [[2026-01-10 - Elgato Stream Deck Comparison|Elgato Stream Deck Comparison]]  #alan #tech
+- 🟢 `2026-01-10` [[2026-01-10 - Multiple Monitors Setup|Multiple Monitors Setup]]  #alan #tech
+- 🟢 `2026-01-11` [[2026-01-11 - Gaming with DJI Mic 2|Gaming with DJI Mic 2]]  #alan #tech
+- 🟢 `2026-01-11` [[2026-01-11 - Mic Setup with Stream Deck|Mic Setup with Stream Deck]]  #alan #tech
+- 🟢 `2026-01-14` [[2026-01-14 - Elgato XLR Comparison|Elgato XLR Comparison]]  #alan #tech
+- 🟢 `2026-01-14` [[2026-01-14 - SM7dB Bypass Issue|SM7dB Bypass Issue]]  #alan #tech
+- 🟢 `2026-01-14` [[2026-01-14 - Force Focusrite Mic Mono|Force Focusrite Mic Mono]]  #alan #tech
+- 🟢 `2026-01-15` [[2026-01-15 - Ray Volpe Gear Breakdown|Ray Volpe Gear Breakdown]]  #alan #tech
+- 🟢 `2026-01-24` [[2026-01-24 - Key Light Placement Tips|Key Light Placement Tips]]  #alan #tech
+- 🟢 `2026-01-24` [[2026-01-24 - Elgato PCIe Capture Card|Elgato PCIe Capture Card]]  #alan #tech
+- 🟢 `2026-01-25` [[2026-01-25 - Canon R5 Mark II Webcam|Canon R5 Mark II Webcam]]  #alan #tech
+- 🟢 `2026-01-30` [[2026-01-30 - PCIE Capture Card Use|PCIE Capture Card Use]]  #alan #tech
+- 🟢 `2026-02-04` [[2026-02-04 - Affiliate Agreement Risks|Affiliate Agreement Risks]]  #alan #credit #tech
+- 🟢 `2026-02-05` [[2026-02-05 - Key light positioning tips|Key light positioning tips]]  #alan #tech
+- 🟢 `2026-02-07` [[2026-02-07 - 45° Light Setup|45° Light Setup]]  #alan #tech
+- 🟢 `2026-02-08` [[2026-02-08 - Mouse Sensitivity Conversion|Mouse Sensitivity Conversion]]  #alan #tech
+- 🟢 `2026-02-10` [[2026-02-10 - DPI to Sens Conversion|DPI to Sens Conversion]]  #alan #tech
+- 🟢 `2026-02-11` [[2026-02-11 - Monitor Display Issue|Monitor Display Issue]]  #alan #tech
+- 🟢 `2026-02-18` [[2026-02-18 - Apex Lag Recording Fix|Apex Lag Recording Fix]]  #alan #tech
+- 🟢 `2026-02-19` [[2026-02-19 - Chroma key grain fix|Chroma key grain fix]]  #alan #tech
+- 🟢 `2026-02-19` [[2026-02-19 - Apex BSOD MEMORY_MANAGEMENT|Apex BSOD MEMORY_MANAGEMENT]]  #alan #tech
+- 🟢 `2026-02-22` [[2026-02-22 - 800 x 1.8 eDPI Apex|800 x 1.8 eDPI Apex]]  #alan #tech
+- 🟢 `2026-02-22` [[2026-02-22 - Intel RST BIOS ON-OFF|Intel RST BIOS ON/OFF]]  #alan #tech
+- 🟢 `2026-02-23` [[2026-02-23 - Backdrop Perception for Zoom|Backdrop Perception for Zoom]]  #alan #apw #mindset #sales #tech #vsl
+- 🟢 `2026-02-26` [[2026-02-26 - Backdrop Perception and Trust|Backdrop Perception and Trust]]  #alan #apw #mindset #sales #tech #vsl
+- 🟢 `2026-02-27` [[2026-02-27 - Beef Sirloin Comparison|Beef Sirloin Comparison]]  #alan #ai-workflow #fitness #health
+- 🟢 `2026-02-27` [[2026-02-27 - 240Hz vs 500Hz Monitors|240Hz vs 500Hz Monitors]]  #alan #tech
+- 🟣 `2026-02-28` [[2026-02-28 - Claude vs GPT-5.2 for business and sales|Claude vs GPT-5.2 for business and sales]]  #alan #ai-workflow #apw #marketing #meta-ads #sales
+- 🟣 `2026-03-01` [[2026-03-01 - Casual greeting exchange|Casual greeting exchange]]  #alan #legal #tech
+- 🟣 `2026-03-02` [[2026-03-02 - Untitled conversation-2|Untitled conversation]]  #alan #tech
+- 🟢 `2026-03-02` [[2026-03-02 - Monitor cable efficiency|Monitor cable efficiency]]  #alan #tech
+- 🟢 `2026-03-02` [[2026-03-02 - Monitor Placement Solutions|Monitor Placement Solutions]]  #alan #tech
+- 🟢 `2026-03-06` [[2026-03-06 - Samsung QD Monitor Discounts|Samsung QD Monitor Discounts]]  #alan #tech
+- 🟢 `2026-03-07` [[2026-03-07 - USB-C vs USB-B Monitors|USB-C vs USB-B Monitors]]  #alan #tech
+- 🟢 `2026-03-08` [[2026-03-08 - Fraud Detection Triggers|Fraud Detection Triggers]]  #alan #ai-workflow #dispute #legal #scam
+- 🟢 `2026-03-08` [[2026-03-08 - OpenAI DoW Agreement Summary|OpenAI DoW Agreement Summary]]  #alan #ai-workflow #procurement
+- 🟣 `2026-03-09` [[2026-03-09 - Recovering $60K from scams and reversing business decisions|Recovering $60K from scams and reversing business decisions]]  #alan #dispute #scam #tech
+- 🟢 `2026-03-09` [[2026-03-09 - System Prompt Creation|System Prompt Creation]]  #alan #ai-workflow #high-signal
+- 🟣 `2026-03-10` [[2026-03-10 - Choosing the right Claude model for comprehensive course framework design|Choosing the right Claude model for comprehensive course framework design]]  #alan #ai-workflow #apw #curriculum #teaching #high-signal
+- 🟣 `2026-03-12` [[2026-03-12 - Web vs desktop Claude differences|Web vs desktop Claude differences]]  #alan #ai-workflow
+- 🟣 `2026-03-12` [[2026-03-12 - Continuing Claude conversations across platforms|Continuing Claude conversations across platforms]]  #alan #ai-workflow
+- 🟣 `2026-03-13` [[2026-03-13 - Caching and token efficiency in Claude|Caching and token efficiency in Claude]]  #alan #ai-workflow #apw #teaching #high-signal
+- 🟣 `2026-03-15` [[2026-03-15 - Organizing content for live teaching|Organizing content for live teaching]]  #alan #credit #funding #teaching #tech #utilization #high-signal
+- 🟣 `2026-03-15` [[2026-03-15 - Encoding rules as deterministic code checks|Encoding rules as deterministic code checks]]  #alan #ai-workflow #high-signal
+- 🟢 `2026-03-17` [[2026-03-17 - Sister Data Migration Request|Sister Data Migration Request]]  #alan #ai-workflow #cfpb #chargeback #dispute #legal #scam
+- 🟣 `2026-03-18` [[2026-03-18 - Migrating dual personas to Claude|Migrating dual personas to Claude]]  #alan #ai-workflow #contracts #legal #negotiation #procurement #high-signal
+- 🟣 `2026-03-18` [[2026-03-18 - Claude project preset prompt button setup|Claude project preset prompt button setup]]  #alan #ai-workflow #copywriting #credit #ops
+- 🟣 `2026-03-18` [[2026-03-18 - USB hub power and bandwidth requirements for streaming setup|USB hub power and bandwidth requirements for streaming setup]]  #alan #tech
+- 🟣 `2026-03-19` [[2026-03-19 - Building the ultimate Claude project instructions framework|Building the ultimate Claude project instructions framework]]  #alan #ai-workflow #apw #sales #sales-framework #teaching #high-signal
+- 🟣 `2026-03-19` [[2026-03-19 - Caching and file creation for process mastery|Caching and file creation for process mastery]]  #alan #ai-workflow #apw #sales #sales-framework #teaching #high-signal
+- 🟣 `2026-03-22` [[2026-03-22 - Apex BSOD memory management error|Apex BSOD memory management error]]  #alan #tech
+- 🟣 `2026-03-22` [[2026-03-22 - Removing green screen artifacts in OBS|Removing green screen artifacts in OBS]]  #alan #tech
+- 🟣 `2026-03-23` [[2026-03-23 - Funding timeline breakdown- blitz vs prime protocol paths|Funding timeline breakdown: blitz vs prime protocol paths]]  #alan #ai-workflow #apw #blitz #branding #business-credit #credit #funding #ops #prime-protocol #utilization #high-signal
+- 🟣 `2026-03-23` [[2026-03-23 - APW Primary Bureaus video script checklist|APW Primary Bureaus video script checklist]]  #alan #apw #credit #teaching #tech #high-signal
+- 🟣 `2026-03-24` [[2026-03-24 - Payment facilitation compliance between business entities|Payment facilitation compliance between business entities]]  #alan #chargeback #dispute #funding #legal #tech #high-signal
+- 🟣 `2026-03-27` [[2026-03-27 - Uploading large ChatGPT data exports|Uploading large ChatGPT data exports]]  #alan #ai-workflow #apw #blitz #cfpb #chargeback #contracts #credit #dbfi #dispute #dj-music #fib #funding #health #legal #marketing #meta-ads #ops #scio #supplements #surgery #travel #high-signal
+- 🟣 `2026-03-27` [[2026-03-27 - Remaining items for import|Remaining items for import]]  #alan #ai-workflow #ops #high-signal
+- 🟣 `2026-03-27` [[2026-03-27 - Prompt engineering tips|Prompt engineering tips]]  #alan #ai-workflow #copywriting #credit #ops
+- 🟣 `2026-03-30` [[2026-03-30 - Legal demand letter for post removal|Legal demand letter for post removal]]  #alan #demand-letter #dispute #legal #sales #tech #high-signal
+- 🟣 `2026-04-01` [[2026-04-01 - Organizing APW launch checklist and action steps|Organizing APW launch checklist and action steps]]  #alan #apw #funding #legal #ops #scio #tech #high-signal
+- 🟣 `2026-04-01` [[2026-04-01 - Finding available prismatic domain names|Finding available prismatic domain names]]  #alan #branding #credit #domains #funding #hiring #ops #tech
+- 🟣 `2026-04-05` [[2026-04-05 - 4K 120Hz monitor compatibility issues|4K 120Hz monitor compatibility issues]]  #alan #tech
+- 🟣 `2026-04-05` [[2026-04-05 - Resetting ASUS BIOS to unlock CPU frequency scaling|Resetting ASUS BIOS to unlock CPU frequency scaling]]  #alan #negotiation #tech
+- 🟣 `2026-04-05` [[2026-04-05 - XLR Dock MK.2 vs Scarlett 2i2 for SM7dB audio|XLR Dock MK.2 vs Scarlett 2i2 for SM7dB audio]]  #alan #tech
+- 🟣 `2026-04-08` [[2026-04-08 - CPU comparison for productivity, streaming, and gaming|CPU comparison for productivity, streaming, and gaming]]  #alan #ops #tech
+- 🟣 `2026-04-09` [[2026-04-09 - AMD 9850 vs Intel processor comparison|AMD 9850 vs Intel processor comparison]]  #alan #tech
+- 🟣 `2026-04-09` [[2026-04-09 - 285K processor pricing clarification|285K processor pricing clarification]]  #alan #tech
+- 🟣 `2026-04-09` [[2026-04-09 - A-class hire baseline requirements and screening|A-class hire baseline requirements and screening]]  #alan #ai-workflow #apw #funding #hiring #ops #sop #high-signal
+- 🟣 `2026-04-12` [[2026-04-12 - Focusrite to SM7dB cable setup|Focusrite to SM7dB cable setup]]  #alan #tech
+- 🟣 `2026-04-13` [[2026-04-13 - Amex siding with merchant on return refusal|Amex siding with merchant on return refusal]]  #alan #amex #chargeback #dispute #legal #reg-z #scam #tech
+- 🟣 `2026-04-15` [[2026-04-15 - Saving progress before context limit|Saving progress before context limit]]  #alan #ai-workflow #apw #dsl #funding #sales #scio #vsl #high-signal
+- 🟣 `2026-04-15` [[2026-04-15 - Memory update review|Memory update review]]  #alan #apw #blitz #business-credit #cfpb #credit #dbfi #dispute #dj-music #dsl #fib #fitness #funding #health #instagram #legal #marketing #prime-protocol #reg-z #sales #scio #supplements #tech #vsl #high-signal
+- 🟣 `2026-04-20` [[2026-04-20 - Exporting APW notes to Obsidian with animated grid visualization|Exporting APW notes to Obsidian with animated grid visualization]]  #alan #ai-workflow #apw #blitz #curriculum #dsl #funding #legal #marketing #prime-protocol #sales #scio #teaching #ugc #vsl #high-signal
+- 🟣 `2026-04-20` [[2026-04-20 - Understanding Google AI mode chat|Understanding Google AI mode chat]]  #alan #ai-workflow #apw #mindset
+- 🟣 `2026-05-16` [[2026-05-16 - Extracting Wistia video subtitles and transcriptions|Extracting Wistia video subtitles and transcriptions]]  #alan #tech
+- 🟣 `2026-05-17` [[2026-05-17 - AI model alternatives for complex multi-agent workflows|AI model alternatives for complex multi-agent workflows]]  #alan #ai-workflow #ops
