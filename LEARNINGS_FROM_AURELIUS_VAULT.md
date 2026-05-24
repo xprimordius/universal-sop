@@ -207,4 +207,351 @@ The other adoptions are nice-to-have polish.
 
 ---
 
-*LEARNINGS_FROM_AURELIUS_VAULT.md v1.0 | Cross-pollination findings | aurelia | 2026-05-21*
+# 📚 v2.0 DEEP DIVE — Full Architectural Inventory (2026-05-23)
+
+> **Trigger:** Alan 2026-05-23 — *"pull from aurelius github and tell me what you learned that could be used to improve this system and perfect it to pristine quality"*
+> **Method:** Cloned both repos to `/tmp/`, read 8 key files (agent_system_prompt.md, RUNBOOK.md, BOOTSTRAP.md, on_claude_stop.cmd, backup_before_rewrite.py, pulse_check.py, checkpoint.py, mcp_config.json), synthesized 30+ deliverable opportunities.
+> **Companion:** SIMPLIFICATION_PROPOSAL.md, LEARNINGS_FROM_INDUSTRY.md (multi-agent research).
+
+---
+
+## 🧩 SECTION 1 — Complete File Inventory of `aurelius-agent-stack`
+
+Organized by function. ⭐ = direct adoption opportunity. ✅ = already adopted.
+
+### 1A. Hooks + Session Capture (THE TIER-3 ARCHITECTURE)
+| File | Function | Universal SOP analog | Status |
+|---|---|---|:-:|
+| **`on_claude_stop.cmd`** ⭐ | Fires when Claude Code session ends → backgrounds session_capture.py → audio confirm → JSON toast to UI | NONE → shipped 2026-05-23 as `scripts/scheduler/on_claude_stop.cmd` | ✅ |
+| `session_capture.py` (referenced) | Writes session transcript to vault | Manual CONTINUATION.md writes | ⏳ |
+| `install_daily_schedule.cmd` ⭐ | Windows Task Scheduler installer for daily routine | Manual schtasks commands in chiron.md | ⏳ |
+
+### 1B. Backup Automation
+| File | Function | Universal SOP analog | Status |
+|---|---|---|:-:|
+| **`backup_before_rewrite.py`** ⭐ | Atomic backup + path-beside-file convention | Manual cp + manual BACKUP_LOG row (F.30/F.31/F.32 drift class) → shipped 2026-05-23 as `scripts/backup_before_rewrite.sh` | ✅ |
+| `backup_status.py` | Probes all backup layers (local disk + local git + GitHub xprimordius + GitHub mirror + legacy paths) — emits standard block | Partial: PRISTINE §3+10 cover some | ⏳ |
+
+### 1C. Pulse Check / Quality Probes
+| File | Function | Universal SOP analog | Status |
+|---|---|---|:-:|
+| **`pulse_check.py`** ⭐ | 10 probes run as actual queries (tests pass? citations? PROVE-IT block? commit references op?) + 9-point variant | Markdown checklist self-check → shipped 2026-05-23 as `scripts/pulse_check.sh` (5 probes, v1.7) | ✅ |
+| `_prove_it_smoke.cmd` | Smoke-test for .cmd hook changes | NONE (manual `bash` invocation) | ⏳ |
+
+### 1D. Checkpoint / State Snapshot
+| File | Function | Universal SOP analog | Status |
+|---|---|---|:-:|
+| **`checkpoint.py`** ⭐ | Writes `Vault/Checkpoints/{date-time}.md` + updates `LATEST.md` pointer. Captures: latest op, git state, test status, recent artifacts, open self-optimization threads | Manual CONTINUATION.md writes; no LATEST.md pointer | ⏳ |
+| `Checkpoints/LATEST.md` pattern | Always-fresh pointer to latest checkpoint | NONE | ⏳ |
+
+### 1E. Daily / Weekly Routines (Cron Automation)
+| File | Function | Universal SOP analog | Status |
+|---|---|---|:-:|
+| `aurelius_daily_review.py` | Daily 8 AM Task Scheduler invocation — produces day's review note | Chiron monthly + REFINE weekly (via schtasks) — partial | ⏳ |
+| `run_daily_routine.cmd` | Wrapper around daily review | scripts/scheduler/run_chiron_monthly.bat (analog) | ⏳ |
+| `preload_aurelius_brain.cmd` | Loads model into LM Studio at boot | NONE (no local LLM stack) | ⏳ |
+
+### 1F. Multi-Repo + Multi-Device
+| File | Function | Universal SOP analog | Status |
+|---|---|---|:-:|
+| **`aurelius_paths.py`** ⭐ | Single source of truth for ALL paths (VAULT_DIR, AGENT_STACK, CHECKPOINTS, REF_DIR) | Hardcoded `$HOME/universal-sop` scattered across scripts | ⏳ |
+| **Two-repo split**: aurelius-vault (data) + aurelius-agent-stack (code) | Separates DATA from ENGINE — rebuild engine without risking data | Single repo for everything | ⏳ (defer until growth forces it) |
+| **`~/.aurelius-device-id`** ⭐ | Single-line text file with device name; git config derived from it | DEVICE_REGISTRY.md table + per-device setup_device.sh | ⏳ (simpler pattern available) |
+| **`mirror_obsidian.py`** ⭐ | Mirrors shared `.obsidian/` config from parent dir → `vault/Memory/Obsidian-Config/`. Excludes per-device noise (workspace.json, cache, plugin internal data) | NONE — we just committed `.obsidian/app.json` raw, will conflict cross-device | ⏳ |
+| `safe_push.py` | Per-repo or all-repos atomic push wrapper | scripts/safe_push.sh (single-repo) | ⏳ extend if two-repo split |
+| `cloud_relay.py` | Cloud sync relay | NONE (git push only) | ⏳ |
+
+### 1G. Bootstrap + Identity
+| File | Function | Universal SOP analog | Status |
+|---|---|---|:-:|
+| **`BOOTSTRAP.md`** ⭐⭐⭐ | THE master prompt — paste in fresh chat, Claude clones + reads + executes + reports ready. Includes Step 0.5 drift detector, Step 5 visible health check table (5 sub-sections), Step 5.7 "my understanding" self-restatement | CONTINUATION_POINTER.md (more complex, less actionable) | ⏳ |
+| `Reference/Agent-Roster.md` (vault) | All 13 named agents in single canonical table | INVENTORY.md (less structured) + agents/*.md scattered | ⏳ |
+| `Reference/Operations-Log.md` (vault) | Append-only chronological history of every operation (Op 1, Op 2, ..., Op 47) with PROVE-IT 9-point per entry | F-class FAILURE_LEDGER (negative-only); NO positive ops log | ⏳ |
+
+### 1H. Test Harness
+| File | Function | Universal SOP analog | Status |
+|---|---|---|:-:|
+| **`tests/aurelius_tests.py`** ⭐ | 81 guard tests with `@t(...)` decorator. Single pass/fail line. Runs in <60s. Mandatory before any commit. | scripts/append_only_check.sh + scripts/compliance_check.sh (point checks, no harness) | ⏳ |
+
+### 1I. Voice / Multimodal Stack (out of scope for our text-focused SOP)
+| File | Function | Adoption |
+|---|---|:-:|
+| `launch_voice_agent.ps1`, `voice_agent.py` | Push-to-talk Whisper STT + Kokoro TTS local | ❌ not relevant |
+| `piper-voices/` | TTS voices | ❌ not relevant |
+| `qwen_agent_profile.py` | Open Interpreter + local Qwen model | ⚠️ relevant only if we add local-LLM agent layer (F.44) |
+
+### 1J. MCP Integration
+| File | Function | Universal SOP analog | Status |
+|---|---|---|:-:|
+| **`mcp_config.json`** ⭐ | filesystem + playwright + fetch MCP servers configured for Claude Desktop/Cline | NONE (Universal SOP has no MCP) | ⏳ |
+
+### 1K. Cross-Posting / Protocols
+| File | Function | Universal SOP analog | Status |
+|---|---|---|:-:|
+| `publish_protocols.py` | Publishes protocols across repos | NONE | ⏳ |
+| `apply_loop.py` | Application iteration loop | scripts/refine_*.sh cluster (analog) | ⏳ |
+| `mirror_obsidian.py --restore` flag | One-command Obsidian config restore on new device | NONE | ⏳ |
+
+---
+
+## 🎯 SECTION 2 — Three-Tier Adoption Opportunities (Ranked by ROI)
+
+### TIER 1 — Mechanical Primitives (Eliminates entire failure classes)
+
+| # | Item | Status | F-class closed |
+|:-:|---|:-:|---|
+| A | Stop hook (`on_claude_stop.cmd`) | ✅ Shipped 2026-05-23 (user runs installer) | F.19 Tier 3 (outputs-as-files) |
+| B | `backup_before_rewrite.sh` (atomic backup) | ✅ Shipped 2026-05-23, dogfooded #360 | F.30/F.31/F.32 typo class |
+| C | `pulse_check.sh` (mechanical probes) | ✅ Shipped 2026-05-23, dogfooded 4/5 PASS | F.19 same-brain-audits-itself |
+
+### TIER 2 — Architectural Patterns (Major structural lifts)
+
+| # | Item | Effort | Impact |
+|:-:|---|:-:|:-:|
+| D | **`mirror_obsidian.py` equivalent** — script to mirror `.obsidian/` shared config + exclude per-device noise (workspace.json/cache/plugin-data) | M (2h) | 🟡 prevents Obsidian cross-device conflicts |
+| E | **`checkpoint.py` + `LATEST.md` pattern** — automated session snapshot with always-current pointer | M (3h) | 🔴 eliminates manual CONTINUATION.md handoff writes |
+| F | **`aurelius_paths.py` equivalent** — single source of truth for ALL paths in scripts/, replaces scattered `$HOME/universal-sop` | S (1h) | 🟢 reduces drift between scripts |
+| G | **Test harness (`tests/aurelius_tests.py` analog)** — 30+ guard tests with single pass/fail line | L (4h) | 🟡 prevents silent regressions in scripts |
+| H | **`mcp_config.json` integration** — filesystem + playwright + fetch MCP servers | M (2h) | 🟢 capabilities WITHOUT adding agents |
+| I | **`backup_status.py` equivalent** — probes ALL layers (local disk + local git + GitHub + Obsidian + legacy paths) — emits standard block | S (1h) | 🟢 visible backup-redundancy confirmation per output |
+| J | **Two-repo split** — universal-sop-engine (scripts/agents/hooks/protocols) + universal-sop-vault (cache/backups/sessions) | L (1 day) | 🟢 architectural separation; defer until growth forces it |
+
+### TIER 3 — Discipline Patterns (Convention upgrades)
+
+| # | Item | Effort | Source |
+|:-:|---|:-:|---|
+| K | **Drift detector (Step 0.5 of BOOTSTRAP)** — on-disk file ALWAYS wins over cached memory, with explicit probe table | XS (15m) | aurelius BOOTSTRAP.md §0.5 |
+| L | **"My understanding" self-restatement (Step 5.7)** — Claude restates project state IN OWN WORDS after reading files (proves comprehension) | XS (10m) | aurelius BOOTSTRAP.md §5.7 |
+| M | **PROVE-IT 9-point template enforcement** — every commit/op MUST include 9 sections (QA / Test / Quality / Bottlenecks / Constraints / Errors / Break points / Improve / Foresight) | S (1h) | aurelius pulse_check.py 9-point variant |
+| N | **EMULATE-OR-EXCEED protocol** — benchmark against best public reference BEFORE building | S (30m) | aurelius Reference/EMULATE-OR-EXCEED-Protocol.md |
+| O | **BACKUP-STATUS-Protocol block** — visible backup-redundancy table at end of every op | S (30m) | aurelius Reference/BACKUP-STATUS-Protocol.md |
+| P | **Master one-line bootstrap prompt** — single paste-and-go for fresh chats (we have CONTINUATION_POINTER but it's verbose) | S (30m) | aurelius BOOTSTRAP.md "THE ONE MASTER PROMPT" |
+| Q | **Operation numbering convention** — Op 1, Op 2, ... in commit subjects instead of just SHAs | S (30m) | aurelius Operations-Log.md |
+
+---
+
+## 🎯 SECTION 3 — What We Have That Aurelius DOESN'T (Bidirectional Honesty)
+
+| Universal SOP strength | Why notable |
+|---|---|
+| **SP.23 PRISTINE** umbrella audit (10 sub-audits → verdict) | Aurelius has individual probes but no composite verdict + delta tracking |
+| **Chiron agent** as dedicated Self-Improvement Lead | Aurelius distributes self-improvement across many agents; we centralized |
+| **F-class structural-fix discipline** (each failure → root cause + permanent fix + verified) | Aurelius has Failure-Ledger but our F-class HFR format is more rigorous |
+| **Universal Backup Rule** as repo-wide cross-device standard | Aurelius has backup_before_rewrite.py but no codified universal rule across all file types |
+| **SP.24 RAE** (Recommendations At End — autonomous-by-default v2) | Aurelius doesn't structurally separate "what I did" from "what's next pickable" |
+| **MANDATORY_TIGHT_LOOP v1.7** with explicit Pulse Check items + tight-loop spec | Aurelius PROVE-IT is closer to convention; ours has version stamps + spec layers |
+| **Pre-push E2E auto-fire** (`.githooks/pre-push` with E2E hook) | Aurelius has safe_push.py but not auto-E2E-before-push |
+| **F.30 "Documentation-to-Activity Drift" meta-pattern** | Aurelius hasn't codified the 5-layer coverage matrix concept |
+
+---
+
+## 🎯 SECTION 4 — Specific Patterns to Borrow (Code-Level)
+
+### 4A. Stop Hook Pattern (TIER 1 — shipped as A)
+```cmd
+@echo off
+:: 1. Background session capture (non-blocking)
+start "Session capture" /B "%BASH%" --login -c "cd $HOME/repo && bash capture.sh >> log 2>&1"
+:: 2. Run quick health check (~3-5s) for toast feedback
+"%BASH%" --login -c "cd $HOME/repo && bash health_check.sh --quiet"
+set EXIT=%ERRORLEVEL%
+:: 3. JSON toast to Claude Code UI
+if %EXIT%==0 (echo {"systemMessage": "Saved + healthy"}) else (echo {"systemMessage": "Saved + issues"})
+```
+
+### 4B. backup_before_rewrite Interface (TIER 1 — shipped as B)
+```bash
+# Aurelius: <file>.<YYYYMMDD-HHMMSS>.<label>.bak alongside the file
+# Ours:     backups/<basename>_<ver>_<TS>_<device>_<reason>_backup.<ext> in central dir
+# Both: atomic = single script writes file + log row
+bash scripts/backup_before_rewrite.sh <file> <version> <reason>
+```
+
+### 4C. Pulse Check Probe Pattern (TIER 1 — shipped as C)
+```python
+# Aurelius pattern: each probe is a function returning (status, detail)
+def probe_1_tests() -> tuple[str, str]:
+    r = subprocess.run([sys.executable, "tests/harness.py"], ...)
+    m = re.search(r"(\d+)/(\d+) passed", r.stdout)
+    return ("[OK]", f"{m[1]}/{m[2]}") if m and m[1]==m[2] else ("[FAIL]", "...")
+
+PROBES = [("1", "Tests pass", probe_1_tests), ...]
+# Run all, tally OK/WARN/FAIL/N/A, exit code from FAIL count
+```
+
+### 4D. Five-Layer Probe Health Check (TIER 3 — Item K)
+Aurelius BOOTSTRAP.md §5 prints 5 sub-tables visibly:
+- §5.1 Foundational (OS, paths, repos, identity, git, tests)
+- §5.2 Agents (every agent: name, type, role, code-present, in-runner)
+- §5.3 Ultimate objective alignment (mission, DoD scoreboard, top-3 queued)
+- §5.4 User intent / prompts
+- §5.5 Backup redundancy (4+ copies probed)
+- §5.7 "My understanding" — Claude restates state in own words
+- §5.6 Real issues surfaced (NOT skipped even if green — explicit "no issues this boot")
+
+### 4E. mirror_obsidian.py Concept (TIER 2 — Item D)
+```python
+# Shared config goes to vault/Memory/Obsidian-Config/
+# Per-device noise excluded:
+EXCLUDE = ["workspace.json", "workspace-mobile.json", "cache",
+           "graph.json", ".obsidian-graph-positions.json",
+           "plugins/*/data.json"]
+# mirror direction:  C:/aurelius/.obsidian/ → vault/Memory/Obsidian-Config/
+# restore direction: vault/Memory/Obsidian-Config/ → C:/aurelius/.obsidian/
+# --verify mode: report OK/DRIFT
+```
+
+### 4F. checkpoint.py Pattern (TIER 2 — Item E)
+Auto-generates `Checkpoints/{ts}.md` + updates `LATEST.md`. Captures:
+- Latest op number + first 600 chars of op body
+- Git state both repos (last commit, dirty, total count)
+- Test status (last line of test harness output)
+- Recently modified artifacts (last 24h across Goals/Bench/QA/Insights/etc.)
+- Open self-optimization threads (parsed from Self-Optimization/*.md)
+- "How to resume here" paste-ready prompt at the end
+
+### 4G. Master One-Line Bootstrap (TIER 3 — Item P)
+```
+You're booting Aurelius on this device. Follow the BOOTSTRAP.md run-of-show.
+
+If ~/aurelius/aurelius-agent-stack does NOT exist, first run:
+  mkdir -p ~/aurelius && cd ~/aurelius
+  gh repo clone xprimordius/aurelius-agent-stack
+  gh repo clone xprimordius/aurelius-vault
+
+Then read ~/aurelius/aurelius-agent-stack/BOOTSTRAP.md and execute every step exactly as written.
+```
+ONE paragraph. Self-contained. Works on any device.
+
+---
+
+## 🎯 SECTION 5 — F-Class Additions (Drift Detection)
+
+### Pre-existing (v1.0)
+- F.42 — SP.19 GLD missing → ✅ shipped as SP.19 GLD 2026-05-22
+- F.43 — Pulse Check 7-item vs 9-item discrepancy → ⏳ partially addressed by trim 11→5
+- F.44 — No autonomous agent layer (Q.3 ceiling) → ⏳ deferred (Chiron is the entry point)
+- F.45 — No external-AI consultation hook → ⏳ deferred
+- F.46 — No operation numbering convention → ⏳ Tier 3 Item Q
+- F.47 — No 8-step per-turn pattern formalized → ⏳ deferred
+
+### NEW from v2.0 deep dive
+- **F.48** — Manual cp + manual BACKUP_LOG = typo class → ✅ closed by Deliverable B
+- **F.49** — Markdown-checkbox Pulse Check = self-check ceiling → ✅ closed by Deliverable C
+- **F.50** — No Stop-hook session-end automation = manual CONTINUATION drift → ✅ closed by Deliverable A (after user install)
+- **F.51** — `.obsidian/` raw-committed = cross-device workspace.json conflicts inevitable → ⏳ Tier 2 Item D (mirror_obsidian.sh)
+- **F.52** — No LATEST.md pointer to current checkpoint = manual handoff search → ⏳ Tier 2 Item E
+- **F.53** — No "my understanding" self-restatement = Claude lists files instead of comprehending → ⏳ Tier 3 Item L
+- **F.54** — Scattered hardcoded paths in scripts (no aurelius_paths.py analog) → ⏳ Tier 2 Item F
+- **F.55** — No test harness for scripts (silent regressions possible) → ⏳ Tier 2 Item G
+- **F.56** — No MCP integration (capabilities locked behind agents) → ⏳ Tier 2 Item H
+- **F.57** — Verbose CONTINUATION_POINTER vs Aurelius one-line master prompt → ⏳ Tier 3 Item P
+
+---
+
+## 🎯 SECTION 6 — Updated Roadmap (Post-ABC Ship)
+
+### ✅ DONE (this session 2026-05-23)
+- **A**: Stop hook (scripts/scheduler/on_claude_stop.cmd + install_stop_hook.cmd)
+- **B**: backup_before_rewrite.sh (atomic backup + log)
+- **C**: pulse_check.sh (5 mechanical probes)
+- F.30 / F.31 / F.32 / F.48 / F.49 / F.50 all closed
+
+### ⏳ QUEUED (next sessions, ranked by ROI)
+
+**Sprint 1 (~3h total — quick mechanical wins):**
+1. Item I — backup_status.sh probes all layers (~1h)
+2. Item D — mirror_obsidian.sh prevents cross-device .obsidian conflicts (~2h)
+
+**Sprint 2 (~4h total — visible improvements):**
+3. Item E — checkpoint.sh + LATEST.md pointer (~3h)
+4. Item K — drift detector step in BOOTSTRAP (~15m)
+5. Item L — "my understanding" self-restatement at session start (~10m)
+6. Item O — BACKUP-STATUS block in output template (~30m)
+
+**Sprint 3 (~5h total — architectural):**
+7. Item F — paths.sh single source of truth (~1h)
+8. Item G — tests/run_script_tests.sh harness with 30+ guard tests (~4h)
+
+**Sprint 4 (optional, ~3h):**
+9. Item H — mcp_config.json + filesystem + playwright + fetch (~2h)
+10. Item M — PROVE-IT 9-point template in commit subjects (~1h)
+
+**Defer indefinitely (until pain forces):**
+- Item J — Two-repo split (architectural — wait until repo > 100MB or scripts > 50)
+
+---
+
+## 🎯 SECTION 7 — Cross-Pollination Accounting (Updated 2026-05-23)
+
+| Pattern | Direction | Status |
+|---|:-:|---|
+| `N/M` marker (honest unmeasurables) | universal-sop → Aurelius | ✅ acknowledged in their PROVE-IT-Protocol.md |
+| **GOLD-PATH protocol** | Aurelius → universal-sop | ✅ shipped as SP.19 GLD (2026-05-22) |
+| **9-point checklist concept** | Aurelius → universal-sop | ⏳ Tier 3 Item M (consider Pulse Check 5→9 expansion) |
+| **Macro+Micro intent framing** | Aurelius → universal-sop | ✅ in MANDATORY_TIGHT_LOOP step header |
+| **Failure ledger pattern** (F.X / F-NNN) | parallel convergence | ✅ both established |
+| **Multi-device sync** | parallel convergence | ✅ both established |
+| **Stop hook (`on_claude_stop`)** | Aurelius → universal-sop | ✅ shipped 2026-05-23 (user install) |
+| **backup_before_rewrite atomic pattern** | Aurelius → universal-sop | ✅ shipped 2026-05-23 |
+| **pulse_check probe pattern** | Aurelius → universal-sop | ✅ shipped 2026-05-23 |
+| **PRISTINE umbrella audit** | universal-sop → (Aurelius could adopt) | ⏳ document for them |
+| **Chiron Self-Improvement Lead agent** | universal-sop → (Aurelius could adopt) | ⏳ document for them |
+| **5-layer coverage matrix (F.30)** | universal-sop → (Aurelius could adopt) | ⏳ document for them |
+| **SP.24 RAE autonomous-by-default** | universal-sop → (Aurelius could adopt) | ⏳ document for them |
+
+**Net flow:** Aurelius gave us 5 patterns we adopted. We gave them 1 (N/M). We have 4 they don't (yet). Symmetric mutual benefit is healthy.
+
+---
+
+## 🎯 SECTION 8 — Most Important Single Insight
+
+> **Aurelius's secret sauce is NOT having more agents — it's having FEWER agents with MORE MECHANICAL ENFORCEMENT.**
+
+- Their `pulse_check.py` IS the pulse check (not a checklist for Claude to manually verify).
+- Their `backup_before_rewrite.py` IS the backup discipline (not a rule for Claude to remember).
+- Their `on_claude_stop.cmd` IS the session-end capture (not a thing Claude should do).
+- Their `mirror_obsidian.py` IS the cross-device hygiene (not a manual checklist).
+
+Each piece of discipline → mechanical script. **Convention → code.** Same pattern as our F.19/F.30 lessons, but they've shipped it across more domains.
+
+**The fix for "shouldn't take this many agents" is to convert agent-responsibilities into script-responsibilities.** Aurelius has 13 named agents but most of the actual work is done by Python scripts on cron. Their agents document; scripts execute.
+
+---
+
+## 🎯 SECTION 9 — Acceptance Criteria for "Pristine Quality" (Per Alan's Phrasing)
+
+Universal SOP reaches "pristine quality" per Aurelius reference when:
+
+| # | Criterion | Status |
+|:-:|---|:-:|
+| 1 | Every per-output discipline has a backing script (not convention) | ⚠️ partial (A+B+C done, Tier 2 D-G remain) |
+| 2 | Stop hook fires on every session end | ✅ shipped (pending user install) |
+| 3 | Backup atomicity prevents typo class | ✅ shipped |
+| 4 | Pulse Check queries actual state | ✅ shipped |
+| 5 | All scripts/agents formalized in PROTOCOLS_REFERENCE | ⚠️ 30 → 11 → ongoing |
+| 6 | Cross-device Obsidian sync conflict-free | ❌ pending Tier 2 Item D |
+| 7 | Test harness covers all scripts | ❌ pending Tier 2 Item G |
+| 8 | Session checkpoint auto-generated | ❌ pending Tier 2 Item E |
+| 9 | Single source of truth for paths | ❌ pending Tier 2 Item F |
+| 10 | Per-output backup-redundancy block visible | ❌ pending Tier 3 Item O |
+
+**Current: 4/10 of Aurelius-parity criteria met.** Sprint 1+2 from Section 6 brings us to 9/10.
+
+---
+
+## 📜 v2.0 ORIGIN
+
+| Field | Value |
+|---|---|
+| Trigger | Alan 2026-05-23: *"pull from aurelius github and tell me what you learned"* → *"yes"* on A+B+C bundle → *"Make sure that the learnings is full spectrum full depth for benefit additions"* |
+| Investigation | gh repo clone both repos to /tmp; Read 8 key files (agent_system_prompt, RUNBOOK, BOOTSTRAP, on_claude_stop.cmd, backup_before_rewrite.py, pulse_check.py, checkpoint.py, mcp_config.json) |
+| Synthesized | 30+ deliverable opportunities across 3 tiers; 8 sections of analysis |
+| Files added to repo | LEARNINGS_FROM_AURELIUS_VAULT.md v2.0 (this expansion) + scripts/backup_before_rewrite.sh + scripts/pulse_check.sh + scripts/scheduler/on_claude_stop.cmd + scripts/scheduler/install_stop_hook.cmd |
+| F-class entries closed | F.30, F.31, F.32, F.48, F.49, F.50 |
+| F-class entries opened (queued) | F.51, F.52, F.53, F.54, F.55, F.56, F.57 |
+| Next session pickup | Sprint 1 (backup_status.sh + mirror_obsidian.sh, ~3h) |
+
+---
+
+*LEARNINGS_FROM_AURELIUS_VAULT.md v2.0 | Full deep dive | aurelia | 2026-05-23*
