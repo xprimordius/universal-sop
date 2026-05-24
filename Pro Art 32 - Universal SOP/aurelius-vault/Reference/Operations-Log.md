@@ -412,6 +412,68 @@ mss.MSS().grab() ── PNG ──► imagehash.phash ──► diff_hamming >= 
 
 ---
 
+## Operation 48 — safe_push.py bug fixes: trailing uncommitted + UnicodeDecodeError (2026-05-23)
+
+Two recurring errors in `safe_push.py`, both fixed with the Op 46 named-backup-before-rewrite pattern preceding the edits.
+
+### Bug A — trailing "1 uncommitted" in BACKUP STATUS after every push
+
+**Root cause**: `append_sync_log()` was called AFTER `git commit && git push`, leaving `Sync-Log.md` modified-but-uncommitted until the next push picked it up. Every safe_push left exactly one trailing dirty file. Self-correcting but cosmetically wrong; failed the "clean working tree" property BACKUP STATUS promises.
+
+**Fix**: pull Sync-Log row INTO the commit cycle via a placeholder + amend pattern:
+1. Stage everything (first `git add .`).
+2. Risky-pattern check on staged content.
+3. If has_changes: write Sync-Log row with `__OP48_PENDING_COMMIT_SHA__` placeholder.
+4. Re-stage Sync-Log.md (only if it lives inside `repo_path`).
+5. Commit (the real commit message).
+6. Read the new commit's SHA.
+7. `resolve_sync_log_placeholder(sha)` — string-replaces the placeholder with real SHA.
+8. Re-stage Sync-Log.md + `git commit --amend --no-edit` (rewrites local commit to include resolved SHA).
+9. Push the amended commit.
+
+**Edge cases handled**:
+- Cross-repo push (agent-stack push but Sync-Log lives in vault): placeholder is written + resolved in vault, vault Sync-Log stays dirty for next vault push to pick up. `--repo all` invocation handles this cleanly because the subsequent vault push includes the row.
+- Recovery from prior-push failure (multiple stale placeholders): `resolve_sync_log_placeholder` returns the count of replacements, all get the new SHA, amend still happens.
+- First-ever push (Sync-Log doesn't exist): `append_sync_log` creates the file, then normal flow.
+
+### Bug B — UnicodeDecodeError on Windows when commit messages contain em-dashes
+
+**Root cause**: `git()` helper used `subprocess.run(..., text=True)` without explicit `encoding=`. Python defaults to system encoding (cp1252 on Windows). When `git log` or `git diff` output contains em-dash (U+2014) characters from commit messages, cp1252 can't decode them — `UnicodeDecodeError` raised mid-pipeline. User saw recurring noise in safe_push output.
+
+**Fix**: explicit `encoding="utf-8", errors="replace"` on the `subprocess.run` call inside `git()`. Defense in depth: `errors="replace"` means even if some unknown encoding appears, we get a replacement char instead of an exception.
+
+### What shipped
+
+| Change | Where | Effect |
+|---|---|---|
+| `git()` helper now sets utf-8 + errors=replace | `safe_push.py:93-99` | UnicodeDecodeError on em-dashes eliminated |
+| `SYNC_LOG_SHA_PLACEHOLDER` constant + `resolve_sync_log_placeholder()` | `safe_push.py:145-189` | Enables placeholder + amend pattern |
+| `safe_push()` rewritten: pre-commit sync-log row + post-commit amend | `safe_push.py:217-280` | Sync-Log.md committed in same commit as the rest of the work |
+| Pre-rewrite backup created | `safe_push.py.20260523-160647.op48-pre-amend-pattern.bak` | Op 46 pattern dogfooded |
+| 2 new guard tests | `tests/aurelius_tests.py` | `test_safe_push_git_helper_encoding`, `test_safe_push_sync_log_in_commit`. Tests went 107 → 109. |
+
+### PROVE-IT 9-POINT (the 9 closeout sections: QA, Test, Quality, Bottlenecks, Constraints, Errors, Break points, Improve/Resolve, Foresight)
+
+**1. QA** — Self-review: applied Op 46 named-backup pattern before edits (`.bak` file exists beside `safe_push.py`). Wrote 2 regression tests BEFORE the dogfood push (test_safe_push_git_helper_encoding + test_safe_push_sync_log_in_commit). Edge cases enumerated explicitly: cross-repo, recovery-from-failure, first-ever push.
+
+**2. Test** — 109/109 (was 107). Two new tests target the exact bug surfaces: presence of `encoding="utf-8"` in git() helper, presence of placeholder + amend logic in safe_push().
+
+**3. Quality improvement** — BACKUP STATUS now legitimately shows "0 uncommitted" after every push (assuming dogfood works on this very op). Eliminates a cosmetic-but-real inconsistency between protocol promises ("you are backed up") and reality ("but there's 1 uncommitted from the safe_push itself").
+
+**4. Bottlenecks** — None new. The amend adds one extra git operation per push (~50ms), negligible.
+
+**5. Constraints** — (a) Single-repo agent-stack push still leaves vault Sync-Log.md dirty (because the row lives in vault, not agent-stack). Acceptable: `--repo all` flow is the canonical path and it cleans up; single agent-stack push is rare and the row eventually lands on next vault push. (b) Amend rewrites the local commit BEFORE push, so it's safe — no rewriting of pushed history. (c) Placeholder approach requires Sync-Log.md to be in same git repo as the push to get amend cleanup; vault sync-log + agent-stack push remains a known cross-repo edge case (documented above).
+
+**6. Errors** — Both Bug A and Bug B are now fixed and guard-tested. F-NNN entries can be added retroactively if user wants formal HFR ledger rows (not done in this op to keep scope tight).
+
+**7. Break points** — (a) If commit fails after placeholder write (e.g., merge conflict mid-push), Sync-Log.md retains an unresolved placeholder until next successful push, at which point the new SHA resolves the orphan. Resilient but slightly ugly forensically. (b) Amend modifies the local commit's SHA between commit and push — anyone observing local state mid-push sees a different SHA than what lands on remote. Only matters if a parallel process is reading HEAD between commit and amend (extremely unlikely). (c) If two safe_push processes race in the same vault, both could write placeholders; the second would resolve both to its SHA. Auditing the actual content of the rows still shows both events, just attributed to the same commit. Race condition, low probability.
+
+**8. Improve/Resolve** — Both bugs fixed. Tests written. Op 46 named-backup pattern applied (backup exists). Dogfood push to follow this entry — expecting BACKUP STATUS to show "0 uncommitted" immediately after.
+
+**9. Foresight** — (a) Op 49 candidate: add F-013 and F-014 to Failure-Ledger.md for Bug A and Bug B retroactively, with the HFR format (Root cause + Permanent fix + Proof). (b) Consider unifying `git()` helpers across the codebase — `op_close.py`, `pulse_check.py`, etc. may have the same encoding pattern bug. Quick audit + batch fix. (c) The placeholder pattern could be generalized to any "post-commit metadata" pattern (e.g., signing trailers); worth pulling into a helper if a second use case emerges.
+
+---
+
 ## Operation 47 — Obsidian mirror (R-008 fix, optimized for parent-folder pointing) (2026-05-23)
 
 User said "just optimize for how I have it pointed" — narrow scope. Aurelion-Primary points Obsidian at `C:/aurelius/` (parent of both repos). The `.obsidian/` config at `C:/aurelius/.obsidian/` is outside both git repos, so local-only. This op solves the cross-device sync gap without moving Obsidian.

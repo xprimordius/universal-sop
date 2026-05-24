@@ -73,3 +73,5 @@ Linked: [[index]] · [[LIBRARY]]
 | 2026-05-23 15:52:42 | Aurelion-Primary | vault | push | `7bf13bb` | Op 46: Backup hygiene sweep — named-backup helper + Sync-Log committed + Multi-C |
 | 2026-05-23 15:59:57 | Aurelion-Primary | agent-stack | push | `cdf9bb6` | Op 47: Obsidian mirror — R-008 fix optimized for parent-folder pointing. mirror_ |
 | 2026-05-23 15:59:59 | Aurelion-Primary | vault | push | `46170d7` | Op 47: Obsidian mirror — R-008 fix optimized for parent-folder pointing. mirror_ |
+| 2026-05-23 23:45:11 | Aurelion-Primary | agent-stack | push | `3da9b0b` | Op 48: safe_push fixes — sync-log into commit via amend pattern + utf-8 encoding |
+| 2026-05-23 23:45:13 | Aurelion-Primary | vault | push | `f5006aa` | Op 48: safe_push fixes — sync-log into commit via amend pattern + utf-8 encoding |

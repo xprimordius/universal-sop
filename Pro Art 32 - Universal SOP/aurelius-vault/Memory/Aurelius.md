@@ -3,6 +3,8 @@
 _Append-only. All facts preserved with timestamps._
 
 ## Facts
+- [2026-05-23 16:42] Test fact alpha
+- [2026-05-23 16:41] Test fact alpha
 - [2026-05-23 15:51] Test fact alpha
 - [2026-05-22 22:53] Test fact alpha
 - [2026-05-22 22:52] Test fact alpha
@@ -102,6 +104,8 @@ _Append-only. All facts preserved with timestamps._
 - [2026-05-21 10:28] Test fact alpha
 
 ## Preferences
+- [2026-05-23 16:42] Test pref beta
+- [2026-05-23 16:41] Test pref beta
 - [2026-05-23 15:51] Test pref beta
 - [2026-05-22 22:53] Test pref beta
 - [2026-05-22 22:52] Test pref beta
