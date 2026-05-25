@@ -440,7 +440,7 @@ ONE paragraph. Self-contained. Works on any device.
 - **F.49** — Markdown-checkbox Pulse Check = self-check ceiling → ✅ closed by Deliverable C
 - **F.50** — No Stop-hook session-end automation = manual CONTINUATION drift → ✅ closed by Deliverable A (after user install)
 - **F.51** — `.obsidian/` raw-committed = cross-device workspace.json conflicts inevitable → ✅ CLOSED 2026-05-25 by `scripts/mirror_obsidian.sh` (Sprint 1 Item D ship from aurelion; --mirror/--verify/--restore + cache/obsidian-config/ shared mirror)
-- **F.52** — No LATEST.md pointer to current checkpoint = manual handoff search → ✅ CLOSED 2026-05-25 by `scripts/checkpoint.sh` + `cache/LATEST.md` (Sprint 2 Item E ship from aurelion; auto-generates `cache/checkpoints/<TS>_<device>.md` + updates LATEST.md pointer)
+- **F.52** — No LATEST.md pointer to current checkpoint = manual handoff search → ⏳ Tier 2 Item E
 - **F.53** — No "my understanding" self-restatement = Claude lists files instead of comprehending → ✅ CLOSED 2026-05-25 by SESSION_START.md STEP 2.C addition (Sprint 2 Item L)
 - **F.54** — Scattered hardcoded paths in scripts (no aurelius_paths.py analog) → ⏳ Tier 2 Item F
 - **F.55** — No test harness for scripts (silent regressions possible) → ⏳ Tier 2 Item G
@@ -463,8 +463,8 @@ ONE paragraph. Self-contained. Works on any device.
 1. Item I — backup_status.sh probes all layers (~1h) ✅ shipped `df46d00`
 2. Item D — mirror_obsidian.sh prevents cross-device .obsidian conflicts (~2h) ✅ shipped 2026-05-25
 
-**Sprint 2 (~4h total — visible improvements):** ✅ COMPLETE 2026-05-25 (aurelion)
-3. Item E — checkpoint.sh + LATEST.md pointer (~3h) ✅ shipped 2026-05-25
+**Sprint 2 (~4h total — visible improvements):** ⏳ 3 of 4 shipped 2026-05-25 (aurelion); Item E remains
+3. Item E — checkpoint.sh + LATEST.md pointer (~3h) ⏳ queued
 4. Item K — drift detector step in BOOTSTRAP (~15m) ✅ shipped 2026-05-25 (SESSION_START STEP 0.1.1 probe table)
 5. Item L — "my understanding" self-restatement at session start (~10m) ✅ shipped 2026-05-25 (SESSION_START STEP 2.C)
 6. Item O — BACKUP-STATUS block in output template (~30m) ✅ shipped 2026-05-25 (MANDATORY_TIGHT_LOOP SP.18 SSC v1.7.1)
@@ -532,7 +532,7 @@ Universal SOP reaches "pristine quality" per Aurelius reference when:
 | 5 | All scripts/agents formalized in PROTOCOLS_REFERENCE | ⚠️ 30 → 11 → ongoing |
 | 6 | Cross-device Obsidian sync conflict-free | ✅ shipped 2026-05-25 (mirror_obsidian.sh) |
 | 7 | Test harness covers all scripts | ❌ pending Tier 2 Item G |
-| 8 | Session checkpoint auto-generated | ✅ shipped 2026-05-25 (checkpoint.sh + cache/LATEST.md) |
+| 8 | Session checkpoint auto-generated | ❌ pending Tier 2 Item E |
 | 9 | Single source of truth for paths | ❌ pending Tier 2 Item F |
 | 10 | Per-output backup-redundancy block visible | ✅ shipped 2026-05-25 (Item O — SP.18 SSC v1.7.1 references backup_status.sh --block) |
 
