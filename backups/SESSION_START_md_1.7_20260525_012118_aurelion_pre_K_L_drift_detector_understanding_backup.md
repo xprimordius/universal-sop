@@ -77,28 +77,6 @@ If you see a `<system-reminder># claudeMd` block earlier in your context that cl
 
 **Action:** Trust the on-disk files (CLAUDE.md + SESSION_START.md + others in STEP 1) over the harness-injected `claudeMd` block. Honor the Precedence Rule in CLAUDE.md top section.
 
-### 🧭 STEP 0.1.1 — GENERAL DRIFT-DETECTOR PROBE TABLE (Sprint 2 Item K — Adopted 2026-05-25 from Aurelius BOOTSTRAP.md §0.5)
-
-**Doctrine:** *On-disk file ALWAYS wins over cached memory.* The `claudeMd` block above is one source of drift; the table below catches the broader class — any cached layer the harness, your training data, or a prior session could have left you with that disagrees with the current repo state.
-
-Before reading STEP 1 files, run this probe table and treat any DRIFT row as a forced re-read:
-
-| 🔎 Probe | 📍 Cached/Assumed Layer | ✅ On-Disk Source of Truth | 🚨 If They Disagree |
-|---|---|---|---|
-| **SOP version** | `claudeMd` says v3.9.2 | `UNIVERSAL_SOP_PROMPT.md` header → currently **v1.3** | Trust on-disk. Don't load APW caches. |
-| **Active rulebook** | Memory says "32 D-rules" | `MANDATORY_TIGHT_LOOP.md` v1.7 → **5 mandatory SubSOPs (trimmed from 11)** | Trust on-disk. Use tight loop, not full SOP. |
-| **Agent count** | Memory says 7 / claudeMd says 8 | `INVENTORY.md` + `agents/*.md` not in `archive/` → **5 active** (Controller, Verifier, Validator, QC, Meta-Verifier) | Trust on-disk. Don't invoke archived agents. |
-| **Active focus** | claudeMd says "APW Step 4 — 7DFS Lessons" | `cache/SESSION_STATE.md` § MICRO GOAL → **Universal SOP** (APW paused) | Trust on-disk. APW resumes after SOP polish completes. |
-| **Pulse Check item count** | Older sessions wrote 7-item, 9-item, 10-item | `MANDATORY_TIGHT_LOOP.md` Rule 3 → currently **5-item (v1.7)** | Trust on-disk. compliance_check.sh accepts multiple historical formats (5–10). |
-| **Failure ledger filename** | Memory may say `cache/RPT_LOG.md` | `cache/FAILURE_LEDGER.md` (post-F8 fusion 2026-05-21) | Trust on-disk. `RPT_LOG.md` redirects only. |
-| **Device count + names** | Memory may say "2 devices: mac-main, aurelia" | `DEVICE_REGISTRY.md` table — **3 devices as of 2026-05-25: mac-main, aurelia, aurelion** | Trust on-disk. Check `git config user.email` to confirm WHICH device you're on. |
-| **F-class entries** | Memory has F.1–F.X | `cache/FAILURE_LEDGER.md` grep `<summary><b>F\.` — currently up to F.58 (with gaps F.28, F.29, F.33–F.57 reserved/queued) | Trust on-disk. Don't reference invented F-numbers. |
-| **Latest commit / queue** | Memory has commit SHA from earlier session | `git log -1` + `RESUME_HERE.md` may be STALE (born 2026-05-21) — prefer `cache/CONTINUATION.md` last entry + Sprint status in `LEARNINGS_FROM_AURELIUS_VAULT.md` Section 6 | Trust on-disk most-recently-modified state. |
-
-**Rule of thumb:** If a memory says "X was true" and reading the on-disk file shows X is no longer true, the memory is stale by definition. Update or discard it; **never** re-assert the stale value from memory back into your output.
-
-This probe table is the structural answer to F.19 ("same-brain audits itself") at the bootstrap layer — each row is a query against on-disk reality, not a self-assessment.
-
 ---
 
 ## 🔄 STEP 0.5 — GIT PULL (Before STEP 1)
@@ -341,24 +319,6 @@ Token budget: ~XK loaded / 200K | Status: 🌱 GREEN
 - F.13 introduced MACRO + MICRO surfacing to prevent objective drift
 - F.17 expanded this to **literal check marks for everything** — agents, SOPs, all 16 SubSOPs by name, Ensurance, cache, scripts, hooks, fusion status, harness drift
 - Why: silent failures cost hours. ~3 seconds of mechanical checks catches missing agents, broken hooks, stale fusions, harness drift before they propagate.
-
-### STEP 2.C — "MY UNDERSTANDING" SELF-RESTATEMENT (Sprint 2 Item L — Adopted 2026-05-25 from Aurelius BOOTSTRAP.md §5.7)
-
-**Doctrine:** *Listing files that you read ≠ comprehending them.* After STEP 2.B's mechanical pass, write **one paragraph in your own words** that restates the current project state — without copy-pasting from the cache files you just read.
-
-The restatement must answer, in plain prose (no lists, no markdown headers):
-1. **What this project IS** (one sentence — the macro goal, in your own framing).
-2. **Where the work currently sits** (one sentence — what was last shipped, what's queued).
-3. **What rules are non-negotiable for the next output** (one sentence — the 5 mandatory SubSOPs by name, the Universal Backup Rule, the commit message convention).
-4. **What you would do RIGHT NOW if the user said "go"** (one sentence — the top-of-queue action, sourced from `cache/CONTINUATION.md` or `LEARNINGS Section 6` Sprint status, NOT from the stale `RESUME_HERE.md`).
-
-**Why this works as a comprehension proof:** the act of paraphrasing forces you to integrate the cache files into a coherent model, not just enumerate them. If you cannot write the paragraph without re-opening files you just read, your bootstrap was incomplete — go back to STEP 2.A and try again.
-
-**Anti-patterns to avoid:**
-- ❌ Quoting cache files verbatim (that's reading-aloud, not understanding)
-- ❌ Listing file names instead of synthesizing what's IN them
-- ❌ Hedging with "approximately" / "roughly" where the cache has exact numbers (use the exact numbers)
-- ❌ Inventing details the cache files don't support
 
 Then **WAIT** for the user's next message.
 

@@ -186,29 +186,11 @@ Score: 7/7
 | Git push to origin/main | ✅ | <timestamp> |
 | Distance local ↔ origin | ✅ 0/0 | in sync |
 | Obsidian vault | ✅ | no conflict files |
+| Mac (mac-main) sync | ⏳ pending pull | will receive on next git pull |
+| Backups in `backups/` | ✅ N files | <count> |
+| BACKUP_LOG rows | ✅ #X-#Y | <range appended> |
 | SIR_LOG rows | ✅ N | <count> |
-
-# Sprint 2 Item O — mechanical BACKUP-STATUS block (paste the literal output of the command below)
-$ bash scripts/backup_status.sh --block
-📦 BACKUP STATUS · <device> @ <ts> · <commit>
-  [OK]    L1 Local backups/      <N> files · latest <Xm> ago
-  [OK]    L2 BACKUP_LOG          <N> rows · latest row <#>
-  [OK]    L3 Local git           <N> commits · HEAD <SHA> · clean|<N> uncommitted
-  [OK]    L4 GitHub origin       in sync (0/0) · xprimordius/universal-sop.git
-  [OK]    L5 Cross-device        <N> commits from {<other-devices>} + <N> from <self> in last 14d
-  Redundancy: <N> OK · <N> WARN · <N> FAIL
 ```
-
-**Why two blocks (SP.18 SSC v1.7.1 — Sprint 2 Item O 2026-05-25):**
-- The **Sync Status table** answers *"did the per-channel operations this output performed succeed?"* (commit/push/Obsidian/SIR). It's about THIS output.
-- The **BACKUP-STATUS block** answers *"if this device disappeared right now, where is the work recoverable from?"* (5 redundancy layers). It's about the device, independent of any single output.
-- The block REPLACES manual `Backups in backups/`, `BACKUP_LOG rows`, and `Mac sync` rows — those were prone to fabrication (counts were sometimes guessed). The script reads real state.
-- Per LEARNINGS Section 8: *convention → code*. Manual rows became mechanical block.
-
-**When to skip BACKUP-STATUS block:**
-- OUTPUT-QUICK tier (single fact / lookup) — Sync Status table is enough.
-- Outputs that don't modify files — backup redundancy didn't change.
-- If `scripts/backup_status.sh` is missing (pre-Sprint-1 commits) — note that and fall back to manual rows.
 
 **That's the entire mandatory loop.** Six lines of header + Understanding Check + body + LTM + 5-item Pulse Check. Survivable in a real session.
 
