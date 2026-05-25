@@ -1049,7 +1049,7 @@ Bulk-formalizes the 23 utility scripts that don't warrant their own SP.X entry b
 
 | Script | Role | When invoked |
 |---|---|---|
-| `scripts/add_protocol.sh` ⭐ ENHANCED v2.0 2026-05-25 (Q.6 ~60% closure — tiered atomic propagation) | v2.0 modes: `--dry-run` (default — prints plan) and `--commit` (executes Tier A with backup→edit→verify→rollback). **Tier A** (3 files, fully automated): PROTOCOLS_REFERENCE.md, MANDATORY_TIGHT_LOOP.md, cache/BOOTSTRAP_CHECK.md. **Tier B** (3 files, snippet-emission only): scripts/validator.sh, scripts/bootstrap_verify.sh, SOP_COMPLETE_REFERENCE.html. **Tier C** (3 files, judgment-required reminders): cache/FAILURE_LEDGER.md, cache/BACKUP_LOG.md (auto-managed), agents/validator.md. Atomic rollback if any Tier A insertion verification fails. | Manual on adding new SP.X — invoke with SP_ID + acronym + name + purpose + --commit |
+| `scripts/add_protocol.sh` | Advisory v1.0 — surfaces the 9+ files that need updating when adding a new SubSOP | Manual (before shipping new SP.X); v2.0 will auto-apply |
 | `scripts/append_only_check.sh` | Mechanical block — fails commit if append-only files shrink (BACKUP_LOG, FAILURE_LEDGER, SIR_LOG, META_AUDIT_LOG, SOP_HEALTH_METRICS) | `.githooks/pre-commit` |
 | `scripts/audit_chain_health.sh` | META_AUDIT_LOG trend analyzer — per-agent activity rate + warning rate + chain completeness over N runs (F.58 empty-log handling 2026-05-25) | E2E check 6/9; weekly via Chiron |
 | `scripts/backup_before_rewrite.sh` ⭐ NEW 2026-05-23 (DELIVERABLE B from A+B+C bundle) | Atomic backup: copy → BACKUP_LOG row → done in one operation. Eliminates F.30/F.31/F.32 typo-in-BACKUP_LOG class. | Mandatory BEFORE every file modification (Universal Backup Rule sequence: backup → edit → log) |

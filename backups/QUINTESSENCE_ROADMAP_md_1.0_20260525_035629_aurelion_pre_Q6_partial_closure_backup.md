@@ -15,15 +15,13 @@ A truly self-perfecting + perfected SOP satisfies all 10. Current score (after a
 | Q.3 | External independence (cross-model / fresh sub-agent) | NO | NO | partial (drift detector probe table STEP 0.1.1 + "my understanding" restatement STEP 2.C — both push against same-brain ceiling at bootstrap layer) | full |
 | Q.4 | Proactive drift detection | session-start only | session-start only | ✅ continuous (pristine_audit per-device + checkpoint snapshot per-session) | continuous |
 | Q.5 | Self-test coverage | NO | skeleton (run_agent_tests.sh) | ✅ skeleton+ (9/9 PASS sustained; E2E pre-push gate active) | full fixtures |
-| Q.6 | Atomic cross-file propagation | NO | partial (add_protocol.sh advisory) | ✅ ~60% (add_protocol.sh v2.0 ships 2026-05-25 — Tier A auto-edits 3 files w/ backup→verify→rollback; Tier B snippet-emission for 3 code/HTML files; Tier C judgment-required reminders for 3 files) | full Tier A complete; Tier B requires structural parsers, intentionally deferred |
+| Q.6 | Atomic cross-file propagation | NO | partial (add_protocol.sh advisory) | partial (manual on aurelion ship — F.51 closure touched 3 files atomically via single commit) | full automation |
 | Q.7 | Convergence proof | NO | partial (sop_health_dashboard) | ✅ full (PRISTINE 39 → 0 issues across 9 dimensions on 2026-05-25 proves convergence is measurable AND achievable) | trended metric |
 | Q.8 | Failure-to-fix automation | NO | partial (sir_recurrence detects, manual promotion) | ✅ full (sir_recurrence.sh v2.0 `--auto-promote` ships 2026-05-25 — appends F-class stub to FAILURE_LEDGER when recur ≥ 3 AND no existing F-class match; stub marked `[AUTO-PROMOTED STUB · needs root-cause + permanent fix]` to prevent fake closure) | full automation |
 | Q.9 | Session lifecycle automation | partial | partial | ✅ partial+ (checkpoint.sh handles end-of-session; Stop hook handles end-of-session-2; LATEST.md handles start-of-session) | full (start + mid + end) |
 | Q.10 | Documentation completeness | partial | better (VERSION_MANIFEST, this roadmap) | ✅ full (PROTOCOLS_REFERENCE Auxiliary Scripts Cluster now 22 entries — all scripts formalized; Direction B coverage = 0 missing) | full |
 
-**Score after aurelion 2026-05-25 (post-Q.6 partial 03:55 CDT): 9.3/10.** **Remaining gap: 0.7/10** (Q.3 external independence + Q.6 remaining Tier B/C — architectural lifts).
-
-**Q.6 status:** ~60% closed via `add_protocol.sh` v2.0 tiered automation (Tier A = 3-of-9 files fully automated with atomic backup-edit-rollback; Tier B = 3 files snippet-emission for code/HTML; Tier C = 3 files judgment-required). Full Q.6 would auto-edit bash + HTML too, but those have higher blast radius and are correctly deferred to humans-with-snippet-guidance.
+**Score after aurelion 2026-05-25 (post-Q.8 ship 03:02 CDT): 9.0/10.** **Remaining gap: 1.0/10** (Q.3 external independence + Q.6 atomic propagation — both architectural lifts).
 
 **Earlier-in-session score: 8.5/10** before Q.8 closure via `sir_recurrence.sh --auto-promote` v2.0 ship.
 
