@@ -1257,7 +1257,7 @@ Close the observation→action loop at WEEKLY cadence. Per-output SIR (SP.17) su
 | 2/9 | Append-Only Check | `scripts/append_only_check.sh` | History files shrunk (BACKUP_LOG, FAILURE_LEDGER, SIR_LOG, META_AUDIT_LOG, SOP_HEALTH_METRICS) |
 | 3/9 | Compliance Check | `scripts/compliance_check.sh` | Bare protocol acronyms without full names; Pulse Check score validity (5/5…9/9, 10/10…19/19); STEP header completeness; MACRO+MICRO presence |
 | 4/9 | Consistency Check | `scripts/consistency_check.sh` | Version drift, stale refs, file count anomalies |
-| 5/9 | Agent Test Harness | `tests/run_agent_tests.sh` | Chain agent skeleton tests (9 currently). **Sibling:** `tests/run_script_tests.sh` (Sprint 3 Item G, NEW 2026-05-25) — 30 guard tests covering the Auxiliary Scripts Cluster; runs <60s; sibling to this one. Both feed META_AUDIT_LOG.md rows. |
+| 5/9 | Agent Test Harness | `tests/run_agent_tests.sh` | Chain agent skeleton tests (9 currently) |
 | 6/9 | Chain Health Audit | `scripts/audit_chain_health.sh` | META_AUDIT_LOG trends; degrading pass rate; missing layers in recent runs |
 | 7/9 | SIR Recurrence | `scripts/sir_recurrence.sh` | Recurring SIR insights flagged for FAILURE_LEDGER promotion |
 | 8/9 | SOP Health Dashboard | `scripts/sop_health_dashboard.sh` | Single-pane scorecard + append metric row to SOP_HEALTH_METRICS.md |
