@@ -2,19 +2,20 @@
 # Updated automatically by scripts/checkpoint.sh on every run.
 # Per Sprint 2 Item E (LEARNINGS Section 4F) — closes F.52 (no LATEST.md pointer).
 
-**Latest checkpoint:** [`2026-05-25_021737_aurelion.md`](checkpoints/2026-05-25_021737_aurelion.md)
+**Latest checkpoint:** [`2026-05-25_030903_aurelion.md`](checkpoints/2026-05-25_030903_aurelion.md)
 
-**Captured:** 2026-05-25 02:17 CDT
+**Captured:** 2026-05-25 03:09 CDT
 **Device:** aurelion
-**Commit:** `14bd288` — [aurelion | 2026-05-25 02:15 CDT] PRISTINE cycles 1-4 — 🔴 DEGRADED 39 → ✅ PRISTINE 0 (across 9 audit dimensions)
-**Dirty:** clean
+**Commit:** `9ba7b50` — [aurelion | 2026-05-25 03:05 CDT] OP-LEVEL: Q.8 CLOSED — sir_recurrence.sh v2.0 --auto-promote · Quintessence 8.5 → 9.0/10
+**Dirty:** 3 uncommitted
 **Distance from origin:** 0	0
-**Note:** PRISTINE achieved on aurelion — 39→0 issues across 9 dims · QUINTESSENCE 6.5→8.5/10
+**Note:** Q.8 CLOSED · Quintessence 9.0/10 · PRISTINE 0/9 · all Sprints 1+2+3 + Sprint 4 Item M shipped
 
 ---
 
 ## 📚 Recent checkpoints (this device)
 
+  - [`2026-05-25_030903_aurelion.md`](checkpoints/2026-05-25_030903_aurelion.md)
   - [`2026-05-25_021737_aurelion.md`](checkpoints/2026-05-25_021737_aurelion.md)
   - [`2026-05-25_013447_aurelion.md`](checkpoints/2026-05-25_013447_aurelion.md)
   - [`2026-05-25_013202_aurelion.md`](checkpoints/2026-05-25_013202_aurelion.md)
@@ -26,7 +27,7 @@
 
 ```
 # View latest checkpoint
-cat checkpoints/2026-05-25_021737_aurelion.md
+cat checkpoints/2026-05-25_030903_aurelion.md
 
 # Or use this pointer file
 cat cache/LATEST.md
