@@ -473,9 +473,9 @@ ONE paragraph. Self-contained. Works on any device.
 7. Item F — paths.sh single source of truth (~1h) ✅ shipped 2026-05-25
 8. Item G — tests/run_script_tests.sh harness with 30+ guard tests (~4h) ✅ shipped 2026-05-25
 
-**Sprint 4 (optional, ~3h):**
-9. Item H — mcp_config.json + filesystem + playwright + fetch (~2h)
-10. Item M — PROVE-IT 9-point template in commit subjects (~1h)
+**Sprint 4 (optional, ~3h):** ⏳ 1 of 2 shipped 2026-05-25
+9. Item H — mcp_config.json + filesystem + playwright + fetch (~2h) ⏳ queued (platform-specific; needs user's MCP client confirmed)
+10. Item M — PROVE-IT 9-point template in commit subjects (~1h) ✅ shipped 2026-05-25 (MANDATORY_TIGHT_LOOP RULE 5; for ops/major-ships only, optional for routine commits)
 
 **Defer indefinitely (until pain forces):**
 - Item J — Two-repo split (architectural — wait until repo > 100MB or scripts > 50)
