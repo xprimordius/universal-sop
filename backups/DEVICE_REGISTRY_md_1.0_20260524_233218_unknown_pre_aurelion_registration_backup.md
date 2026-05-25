@@ -17,7 +17,6 @@ Every device that touches this repo must be NAMED in commits so audit trail is c
 |----------------|:-------------:|--------------|----------------|----------------|
 | `mac-main` | 2026-05-21 | alan+mac-main@local | MacBook in Downloads/APW_EXPORT folder | Primary development device |
 | `aurelia` | 2026-05-21 | alan+aurelia@local | Windows Strix Halo (hostname `Aurelia`, user `nguye`, domain `AURELIA`); repo at `C:\Users\nguye\universal-sop` | Day-1 commissioning device, second Strix Halo expected |
-| `aurelion` | 2026-05-24 | alan+aurelion@local | Windows Strix Halo 128GB Flow variant (hostname `Aurelion`, user `light`); repo at `C:\Users\light\Documents\The Beginning\universal-sop` | Second Strix Halo (Flow); operates alongside `aurelia` |
 | _add new devices here_ | _date_ | alan+devicename@local | _what device_ | _primary use_ |
 
 ---

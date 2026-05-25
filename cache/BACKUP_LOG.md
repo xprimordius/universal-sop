@@ -380,3 +380,4 @@
 | 365 | 2026-05-23 | 23:55 CDT | cache/BACKUP_LOG.md | v1.0 | **(aurelia) Self-log rows #361-364 + this row** for A+B+C bundle commit. | backups/BACKUP_LOG_v1.0_20260523_235204_aurelia_pre_ABC_bundle_backup.md |
 | 366 | 2026-05-23 | 23:57 CDT | LEARNINGS_FROM_AURELIUS_VAULT.md | v1.0 | **(aurelia) pre v2 deep dive via backup_before_rewrite.sh** | backups/LEARNINGS_FROM_AURELIUS_VAULT_md_v1.0_20260523_235730_aurelia_pre_v2_deep_dive_backup.md |
 | 367 | 2026-05-24 | 00:00 CDT | cache/BACKUP_LOG.md | v1.0 | **(aurelia) pre learnings v2 via backup_before_rewrite.sh** | backups/BACKUP_LOG_md_v1.0_20260524_000014_aurelia_pre_learnings_v2_backup.md |
+| 368 | 2026-05-24 | 23:32 CDT | DEVICE_REGISTRY.md | 1.0 | **(unknown) pre aurelion registration via backup_before_rewrite.sh** | backups/DEVICE_REGISTRY_md_1.0_20260524_233218_unknown_pre_aurelion_registration_backup.md |
