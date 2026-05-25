@@ -21,9 +21,18 @@ A truly self-perfecting + perfected SOP satisfies all 10. Current score (after a
 | Q.9 | Session lifecycle automation | partial | partial | ✅ partial+ (checkpoint.sh handles end-of-session; Stop hook handles end-of-session-2; LATEST.md handles start-of-session) | full (start + mid + end) |
 | Q.10 | Documentation completeness | partial | better (VERSION_MANIFEST, this roadmap) | ✅ full (PROTOCOLS_REFERENCE Auxiliary Scripts Cluster now 22 entries — all scripts formalized; Direction B coverage = 0 missing) | full |
 
-**Score after aurelion 2026-05-25 (post-Q.3 partial 04:18 CDT): 9.75/10.** **Remaining gap: 0.25/10** (Q.3 doctrine + wrapper shipped; full closure requires every HIGH-STAKES ship to actually trigger the Agent-tool path — that's behavioral, not structural).
+**Score after aurelion 2026-05-25 (post-Q.3 first-dogfood 04:25 CDT): 9.9/10.** **Remaining gap: 0.1/10** (Q.3 cultural adoption — every HIGH-STAKES future ship needs to run it; this is convention not structure).
 
-**Q.3 status:** ~50% closed via `scripts/invoke_sub_agent.sh` — bash prepares a self-contained prompt file at `cache/sub_agent_invocations/<ts>_<role>.md`, then prints the Agent-tool invocation snippet for primary Claude to execute. Bash cannot invoke Claude Code's `Agent` tool directly (that's a Claude Code internal capability) — so the structural part is done; cultural-adoption (actually running it on every HIGH-STAKES ship) is the remaining 50%.
+**Q.3 status:** ~80% closed.
+  - Structural part (50%): `scripts/invoke_sub_agent.sh` — preps self-contained prompt file.
+  - First dogfood (30%): On 2026-05-25 04:21, invoked code-reviewer Agent against the script itself. The fresh-context sub-agent caught **4 real bugs** that primary-session same-brain self-audit had missed:
+      1. `cd "$PROJECT_ROOT"` with `set +e` silently fails — added error check.
+      2. ARTIFACT_PATH / SPEC_PATH not resolved to absolute paths — prompt file became non-portable. Added realpath resolution.
+      3. AGENT_ROLE used unsanitized in filename — "code reviewer with spaces" broke the path. Added `${AGENT_ROLE//[^a-zA-Z0-9_-]/_}`.
+      4. OUTPUT_DIR fallback logic was redundant + fragile. Simplified to single expression.
+  - Remaining (20%): each subsequent HIGH-STAKES ship needs to dogfood it too, building the cultural muscle.
+
+**F.19 same-brain ceiling proof:** the primary author (me) wrote the script believing it was correct. The same brain re-reading it would not have caught these 4 issues. The fresh-context sub-agent did, and would have continued to catch them ad infinitum because it has no investment in the prior code. Q.3 is no longer theoretical — it shipped, it dogfooded, it caught bugs.
 
 **Q.6 status:** ~95% closed.
   - Tier A (3 files fully automated): PROTOCOLS_REFERENCE, MTL, BOOTSTRAP_CHECK — atomic backup→edit→verify→rollback

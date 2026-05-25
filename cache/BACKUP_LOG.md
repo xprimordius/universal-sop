@@ -421,3 +421,4 @@
 | 406 | 2026-05-25 | 04:12 CDT | PROTOCOLS_REFERENCE.md | 1.0 | **(aurelion) pre SP 99 TEST addition via backup_before_rewrite.sh** | backups/PROTOCOLS_REFERENCE_md_1.0_20260525_041209_aurelion_pre_SP_99_TEST_addition_backup.md |
 | 407 | 2026-05-25 | 04:12 CDT | MANDATORY_TIGHT_LOOP.md | 1.0 | **(aurelion) pre SP 99 TEST addition via backup_before_rewrite.sh** | backups/MANDATORY_TIGHT_LOOP_md_1.0_20260525_041210_aurelion_pre_SP_99_TEST_addition_backup.md |
 | 408 | 2026-05-25 | 04:12 CDT | cache/BOOTSTRAP_CHECK.md | 1.0 | **(aurelion) pre SP 99 TEST addition via backup_before_rewrite.sh** | backups/BOOTSTRAP_CHECK_md_1.0_20260525_041211_aurelion_pre_SP_99_TEST_addition_backup.md |
+| 409 | 2026-05-25 | 04:21 CDT | scripts/invoke_sub_agent.sh | 1.0 | **(aurelion) pre subagent audit fixes via backup_before_rewrite.sh** | backups/invoke_sub_agent_sh_1.0_20260525_042112_aurelion_pre_subagent_audit_fixes_backup.sh |

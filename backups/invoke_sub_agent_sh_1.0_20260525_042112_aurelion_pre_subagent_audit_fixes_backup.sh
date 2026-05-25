@@ -31,13 +31,13 @@ if [ -f "$SCRIPT_DIR/paths.sh" ]; then
   source "$SCRIPT_DIR/paths.sh" > /dev/null 2>&1
 fi
 PROJECT_ROOT="${PROJECT_ROOT:-$(cd "$SCRIPT_DIR/.." && pwd)}"
-cd "$PROJECT_ROOT" || { echo "❌ Cannot cd to PROJECT_ROOT: $PROJECT_ROOT"; exit 4; }
+cd "$PROJECT_ROOT"
 
 ARTIFACT_PATH=""
 SPEC_PATH=""
 AGENT_ROLE=""
-# Sub-agent audit fix 2026-05-25: simplified — single fallback expression, no redundant reassignment
-OUTPUT_DIR="${CACHE_DIR:-$PROJECT_ROOT/cache}/sub_agent_invocations"
+OUTPUT_DIR="$CACHE_DIR/sub_agent_invocations"
+[ -z "$CACHE_DIR" ] && OUTPUT_DIR="cache/sub_agent_invocations"
 
 POSITIONAL=()
 while [ $# -gt 0 ]; do
@@ -52,9 +52,6 @@ done
 ARTIFACT_PATH="${POSITIONAL[0]:-}"
 SPEC_PATH="${POSITIONAL[1]:-}"
 AGENT_ROLE="${POSITIONAL[2]:-general-purpose}"
-
-# Sub-agent audit fix 2026-05-25 (Q.3 dogfood found this): sanitize AGENT_ROLE before using in filename
-SAFE_ROLE="${AGENT_ROLE//[^a-zA-Z0-9_-]/_}"
 
 if [ -z "$ARTIFACT_PATH" ] || [ -z "$SPEC_PATH" ]; then
   echo "Usage: bash scripts/invoke_sub_agent.sh ARTIFACT_PATH SPEC_PATH [AGENT_ROLE]"
@@ -78,18 +75,13 @@ if [ ! -f "$SPEC_PATH" ]; then
   exit 3
 fi
 
-# Sub-agent audit fix 2026-05-25 (Q.3 dogfood found this): resolve to absolute paths so the
-# prompt file embeds portable references usable from any sub-agent CWD.
-ARTIFACT_PATH="$(realpath "$ARTIFACT_PATH" 2>/dev/null || readlink -f "$ARTIFACT_PATH" 2>/dev/null || echo "$ARTIFACT_PATH")"
-SPEC_PATH="$(realpath "$SPEC_PATH" 2>/dev/null || readlink -f "$SPEC_PATH" 2>/dev/null || echo "$SPEC_PATH")"
-
 mkdir -p "$OUTPUT_DIR"
 TS=$(date +%Y%m%d_%H%M%S)
 DATE_HUMAN=$(date +"%Y-%m-%d %H:%M %Z")
 DEVICE="${DEVICE_NAME:-$(git config user.email 2>/dev/null | sed -n 's/.*alan+\([^@]*\)@local/\1/p')}"
 [ -z "$DEVICE" ] && DEVICE="unknown"
 
-PROMPT_FILE="$OUTPUT_DIR/${TS}_${SAFE_ROLE}.md"
+PROMPT_FILE="$OUTPUT_DIR/${TS}_${AGENT_ROLE}.md"
 
 cat > "$PROMPT_FILE" <<EOF
 # Sub-Agent Invocation Prompt
