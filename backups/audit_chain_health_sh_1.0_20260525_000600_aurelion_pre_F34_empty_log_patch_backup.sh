@@ -13,8 +13,7 @@ WINDOW="${1:-10}"
 [ "$1" = "--window" ] && WINDOW="${2:-10}"
 
 if [ ! -f cache/META_AUDIT_LOG.md ]; then
-  echo "ℹ️ META_AUDIT_LOG.md not found (fresh device — file is per-device per F.31, generated on first chain run)"
-  echo "✅ Chain health audit complete (vacuous — no chain data to audit yet)"
+  echo "⚠️ META_AUDIT_LOG.md not found"
   exit 0
 fi
 
@@ -27,8 +26,7 @@ echo ""
 RECENT=$(grep -E "^\| 20[0-9]{2}-" cache/META_AUDIT_LOG.md | tail -"$WINDOW")
 
 if [ -z "$RECENT" ]; then
-  echo "ℹ️  No chain-run rows yet (META_AUDIT_LOG.md exists but contains no data rows)"
-  echo "✅ Chain health audit complete (vacuous — no chain data to audit yet)"
+  echo "ℹ️  No chain-run rows yet"
   exit 0
 fi
 

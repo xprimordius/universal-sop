@@ -37,30 +37,6 @@ Every entry uses this format:
 ## 🪞 ACTIVE LEDGER (Migrated from RPT_LOG + Session 5 HFRs)
 
 <details>
-<summary><b>F.58 — audit_chain_health.sh Empty-Log Case Drops "complete" Marker [STRUCTURAL FIX 2026-05-25]</b></summary>
-
-- **Type:** FAILURE (caught on aurelion fresh-clone bootstrap: E2E test 6/9 reported FAIL "expected pattern 'complete' not in output" even though script exited 0)
-- **First Observed:** 2026-05-25 — first E2E run on freshly-cloned aurelion (Strix Halo 128GB Flow). E2E aggregate 6/9 → 8/9 after device registration → 1 stubborn failure left in test 6 Chain Health Audit.
-- **Times:** 1 explicit on aurelion + N latent on any future fresh-clone device (same failure guaranteed until patched)
-- **Root Cause:**
-  - F.31 (2026-05-23 commit `89f0aaf`) gitignored `cache/META_AUDIT_LOG.md` + `cache/SOP_HEALTH_METRICS.md` as per-device chain-write files — correct architectural choice.
-  - But `scripts/audit_chain_health.sh` early-exits on missing META_AUDIT_LOG with `echo "⚠️ META_AUDIT_LOG.md not found"; exit 0` — no "complete" string emitted.
-  - `scripts/e2e_verify.sh` test 6/9 uses `run_check` with success pattern `"complete"` — pattern-match fails on the empty-log output.
-  - Result: every fresh-clone device sees 1/9 false-failure on first E2E run until chain has been seeded.
-  - Coupling drift: F.31 changed file-presence semantics but didn't update the script that depends on that file.
-- **Permanent Fix (SHIPPED 2026-05-25 this commit):**
-  1. Both empty-log branches in `scripts/audit_chain_health.sh` now emit `"✅ Chain health audit complete (vacuous — no chain data to audit yet)"` so the E2E pattern match passes on fresh devices.
-  2. Branch 1: `META_AUDIT_LOG.md` absent (truly fresh device). Message now references F.31 explicitly so future readers see the architectural link.
-  3. Branch 2: `META_AUDIT_LOG.md` exists but has no data rows. Same "complete (vacuous)" pattern.
-  4. Symmetric with `verify_before_assert.sh` (test 9/9) which already uses "VERDICT: PASS (vacuous)" — same idiom.
-- **Fixed:** 2026-05-25 (this commit)
-- **Verified:** E2E re-run on aurelion: 8/9 → **9/9 PASS** post-patch. Same fresh-clone bootstrap that triggered the failure now lands clean.
-- **Lesson:** When a fix changes presence/absence semantics for a file (F.31 made these files per-device), grep every consumer of that file for empty-case handling. The audit was correct (exit 0 on missing file) but the messaging didn't match the consumer's success pattern. This is a sub-class of F.30 "documentation-to-activity drift" but for inter-script API: F.31 changed the contract, the consumer wasn't updated.
-- **Related:** F.30 (5-layer coverage matrix), F.31 (chain-write gitignored), F.32 (pre-push hook lock — sibling structural fix from same week).
-
-</details>
-
-<details>
 <summary><b>F.32 — Pre-Push Hook Nested/Concurrent E2E Hangs Push [STRUCTURAL FIX 2026-05-23]</b></summary>
 
 - **Type:** FAILURE (caught by Alan 2026-05-23: "why isn't it fully backed up on github online for updated pulls from external devices? fix")

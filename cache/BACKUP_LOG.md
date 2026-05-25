@@ -381,3 +381,5 @@
 | 366 | 2026-05-23 | 23:57 CDT | LEARNINGS_FROM_AURELIUS_VAULT.md | v1.0 | **(aurelia) pre v2 deep dive via backup_before_rewrite.sh** | backups/LEARNINGS_FROM_AURELIUS_VAULT_md_v1.0_20260523_235730_aurelia_pre_v2_deep_dive_backup.md |
 | 367 | 2026-05-24 | 00:00 CDT | cache/BACKUP_LOG.md | v1.0 | **(aurelia) pre learnings v2 via backup_before_rewrite.sh** | backups/BACKUP_LOG_md_v1.0_20260524_000014_aurelia_pre_learnings_v2_backup.md |
 | 368 | 2026-05-24 | 23:32 CDT | DEVICE_REGISTRY.md | 1.0 | **(unknown) pre aurelion registration via backup_before_rewrite.sh** | backups/DEVICE_REGISTRY_md_1.0_20260524_233218_unknown_pre_aurelion_registration_backup.md |
+| 369 | 2026-05-25 | 00:06 CDT | scripts/audit_chain_health.sh | 1.0 | **(aurelion) pre F34 empty log patch via backup_before_rewrite.sh** | backups/audit_chain_health_sh_1.0_20260525_000600_aurelion_pre_F34_empty_log_patch_backup.sh |
+| 370 | 2026-05-25 | 00:07 CDT | cache/FAILURE_LEDGER.md | 1.0 | **(aurelion) pre F58 audit chain empty log entry via backup_before_rewrite.sh** | backups/FAILURE_LEDGER_md_1.0_20260525_000747_aurelion_pre_F58_audit_chain_empty_log_entry_backup.md |
