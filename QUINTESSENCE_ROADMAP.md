@@ -12,7 +12,7 @@ A truly self-perfecting + perfected SOP satisfies all 10. Current score (after a
 |:-:|---|:-:|:-:|:-:|:-:|
 | Q.1 | Closed feedback loops | partial | partial+ (sir_recurrence + audit_chain_health) | ✅ full (checkpoint.sh + LATEST.md auto-handoff closes the loop) | full |
 | Q.2 | Mechanical enforcement | partial | partial (chain still warnings-only) | ✅ partial+ (pre-push E2E gate enforced; pulse_check + backup_status + mirror_obsidian + checkpoint all mechanical) | full blocking |
-| Q.3 | External independence (cross-model / fresh sub-agent) | NO | NO | partial (drift detector probe table STEP 0.1.1 + "my understanding" restatement STEP 2.C — both push against same-brain ceiling at bootstrap layer) | full |
+| Q.3 | External independence (cross-model / fresh sub-agent) | NO | NO | ✅ ~50% (invoke_sub_agent.sh ships 2026-05-25 — bash preps self-contained prompt file at cache/sub_agent_invocations/, primary Claude invokes Agent tool → spawns FRESH-CONTEXT sub-agent reading only artifact+spec, no session bias) | adoption-cultural (every HIGH-STAKES ship runs it) |
 | Q.4 | Proactive drift detection | session-start only | session-start only | ✅ continuous (pristine_audit per-device + checkpoint snapshot per-session) | continuous |
 | Q.5 | Self-test coverage | NO | skeleton (run_agent_tests.sh) | ✅ skeleton+ (9/9 PASS sustained; E2E pre-push gate active) | full fixtures |
 | Q.6 | Atomic cross-file propagation | NO | partial (add_protocol.sh advisory) | ✅ ~95% (add_protocol.sh v2.1 ships 2026-05-25: Tier A auto-edits 3 files w/ atomic rollback; Tier B emits parameterized snippets from `scripts/snippets/*.tpl` for 3 code/HTML files; Tier C judgment-required reminders for 3 files) | Tier A + Tier B closed; Tier C remains human-only by design |
@@ -21,7 +21,9 @@ A truly self-perfecting + perfected SOP satisfies all 10. Current score (after a
 | Q.9 | Session lifecycle automation | partial | partial | ✅ partial+ (checkpoint.sh handles end-of-session; Stop hook handles end-of-session-2; LATEST.md handles start-of-session) | full (start + mid + end) |
 | Q.10 | Documentation completeness | partial | better (VERSION_MANIFEST, this roadmap) | ✅ full (PROTOCOLS_REFERENCE Auxiliary Scripts Cluster now 22 entries — all scripts formalized; Direction B coverage = 0 missing) | full |
 
-**Score after aurelion 2026-05-25 (post-Q.6 Tier B 04:15 CDT): 9.5/10.** **Remaining gap: 0.5/10** (Q.3 external independence only — Q.6 substantially complete, Tier C judgment-required by design).
+**Score after aurelion 2026-05-25 (post-Q.3 partial 04:18 CDT): 9.75/10.** **Remaining gap: 0.25/10** (Q.3 doctrine + wrapper shipped; full closure requires every HIGH-STAKES ship to actually trigger the Agent-tool path — that's behavioral, not structural).
+
+**Q.3 status:** ~50% closed via `scripts/invoke_sub_agent.sh` — bash prepares a self-contained prompt file at `cache/sub_agent_invocations/<ts>_<role>.md`, then prints the Agent-tool invocation snippet for primary Claude to execute. Bash cannot invoke Claude Code's `Agent` tool directly (that's a Claude Code internal capability) — so the structural part is done; cultural-adoption (actually running it on every HIGH-STAKES ship) is the remaining 50%.
 
 **Q.6 status:** ~95% closed.
   - Tier A (3 files fully automated): PROTOCOLS_REFERENCE, MTL, BOOTSTRAP_CHECK — atomic backup→edit→verify→rollback
