@@ -37,29 +37,17 @@ echo "   (sampling last 20 commits' messages + diffs)"
 echo ""
 
 # Protocol → grep pattern (broad heuristic — pattern that should appear if protocol fired)
-# PRISTINE Cycle 2 fix 2026-05-25 (aurelion) — CATEGORY field added
-# Format: "<name> |<category>|<patterns...>"
-# Category C = commit-discoverable (expected in commit messages/diffs — drift here is real)
-# Category O = output-only (per-output discipline, NOT typically in commits — exclude from drift count;
-#              mechanical enforcement via validator.sh + compliance_check.sh handles these per-output)
-# Reclassification rationale: F.23 pattern audit output noted SP.12/SP.15/SP.17/SP.18/SP.21/EN.1
-# as "0% commits" — that's because they're output-time disciplines, not what-was-shipped descriptors.
-# Counting them as "dormant" was a category error.
 declare -a MANDATORY_PROTOCOLS=(
-  # PRISTINE Cycle 2 fix 2026-05-25 (aurelion) — patterns broadened to match how commits actually write these.
-  # Previously SP.5/SP.6/SP.9 stayed DORMANT because patterns were too narrow ("verified by" specifically).
-  # New patterns capture case-insensitive verification language + dogfood + 9/9 PASS proof + queue/foresight.
-  # Still C-category (commit-discoverable) because these protocols DO leave traces in commit subjects/bodies.
-  "SP.5  FSP   Fidelity Substantiation     |C|[Vv]erified|VERIFIED|[Dd]ogfood|DOGFOOD|evidence|fidelity|[0-9]+/[0-9]+ PASS|PASS [0-9]+/[0-9]+"
-  "SP.6  IAC   Intent Alignment Check      |O|Understanding Check|UC\.[0-9]|verbatim|interpret|intent|sub-clause"
-  "SP.9  FE    Foresight Engine            |C|[Ff]oresight|FE\.[0-9]|queued|NEXT|breakpoint|risk"
-  "SP.12 HFR   Honest Failure Report       |O|🚨 HFR|Honest Failure Report"
-  "SP.15 EEP   Execution Enforcement       |O|Execute, don't acknowledge|EEP"
-  "SP.17 SIR   System Improvement Reflect  |O|💡 SIR|System Improvement"
-  "SP.18 SSC   Sync Status Confirmation    |O|📡 Sync Status|SSC"
-  "SP.21 MES   Model Effort Selector       |O|🎯 MODEL:"
-  "EN.1  Skel  Output Skeleton             |O|^STEP:|🎯 MACRO|📌 MICRO"
-  "EN.4  Pulse Pulse Check                 |O|Pulse Check|Score:"
+  "SP.5  FSP   Fidelity Substantiation     |verified by|evidence:|fidelity"
+  "SP.6  IAC   Intent Alignment Check      |Understanding Check|UC.[0-9]|verbatim"
+  "SP.9  FE    Foresight Engine            |🔮 Foresight|FE.[0-9]"
+  "SP.12 HFR   Honest Failure Report       |🚨 HFR|Honest Failure Report"
+  "SP.15 EEP   Execution Enforcement       |Execute, don't acknowledge|EEP"
+  "SP.17 SIR   System Improvement Reflect  |💡 SIR|System Improvement"
+  "SP.18 SSC   Sync Status Confirmation    |📡 Sync Status|SSC"
+  "SP.21 MES   Model Effort Selector       |🎯 MODEL:"
+  "EN.1  Skel  Output Skeleton             |^STEP:|🎯 MACRO|📌 MICRO"
+  "EN.4  Pulse Pulse Check                 |Pulse Check|Score:"
 )
 
 SAMPLE_WINDOW=20
@@ -72,20 +60,13 @@ DORMANT_COUNT=0
 UNDERFIRED_COUNT=0
 ACTIVE_COUNT=0
 
-OUTPUT_TIME_COUNT=0
 for entry in "${MANDATORY_PROTOCOLS[@]}"; do
   NAME=$(echo "$entry" | awk -F'|' '{print $1}' | sed 's/[[:space:]]*$//')
-  CATEGORY=$(echo "$entry" | awk -F'|' '{print $2}')
-  PATTERNS=$(echo "$entry" | awk -F'|' '{for (i=3; i<=NF; i++) printf (i>3?"|%s":"%s"), $i}')
+  PATTERNS=$(echo "$entry" | awk -F'|' '{for (i=2; i<=NF; i++) printf (i>2?"|%s":"%s"), $i}')
   HIT=$(echo "$RECENT_TEXT" | grep -cE "$PATTERNS" 2>/dev/null)
   HIT=${HIT:-0}
   PCT=$(( HIT * 100 / SAMPLE_WINDOW ))
-  if [ "$CATEGORY" = "O" ]; then
-    # Output-time protocols: enforced per-output by validator + compliance_check, not in commits.
-    # Show as informational. Don't count toward drift.
-    printf "  ℹ️  %-44s  %2d/%d commits (%3d%%)  OUTPUT-TIME (mechanical per-output enforcement)\n" "$NAME" "$HIT" "$SAMPLE_WINDOW" "$PCT"
-    OUTPUT_TIME_COUNT=$((OUTPUT_TIME_COUNT+1))
-  elif [ "$PCT" -ge 50 ]; then
+  if [ "$PCT" -ge 50 ]; then
     printf "  ✅ %-44s  %2d/%d commits (%3d%%)\n" "$NAME" "$HIT" "$SAMPLE_WINDOW" "$PCT"
     ACTIVE_COUNT=$((ACTIVE_COUNT+1))
   elif [ "$PCT" -ge 25 ]; then
@@ -96,8 +77,6 @@ for entry in "${MANDATORY_PROTOCOLS[@]}"; do
     DORMANT_COUNT=$((DORMANT_COUNT+1))
   fi
 done
-echo ""
-[ "$OUTPUT_TIME_COUNT" -gt 0 ] && echo "  ℹ️  $OUTPUT_TIME_COUNT output-time protocol(s) shown as informational (not counted toward drift)."
 echo ""
 
 # ============================================================

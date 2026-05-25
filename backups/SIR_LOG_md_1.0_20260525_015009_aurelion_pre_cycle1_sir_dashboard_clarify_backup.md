@@ -67,7 +67,7 @@ Listed in:
 - **Auto-recurrence detection** — `scripts/sir_recurrence.sh` reads last N rows, increments 🔄 Recur counter when matching insights detected, flags ≥ 2 for promotion to FAILURE_LEDGER
 - **Status updater** — when a commit ships an insight, auto-update its row's `📊 Status` from `new` → `shipped (<SHA>)` (instead of manual)
 - **Cross-device merge convention** — when 2 devices append rows in parallel, merge by ordering on date+timestamp; if same insight from both, increment Recur and keep both rows
-- **Dashboard** — `<scripts/sir_dashboard.sh>` (PLANNED, not yet shipped — angle brackets mark this as a deferred-build reference per pristine_audit dead-ref convention; closest existing analog is `scripts/sir_recurrence.sh` which detects recurring insights for FAILURE_LEDGER promotion; full dashboard with top-N-by-recurrence-and-not-shipped is a Sprint 3+ candidate) shows top-recurrence-not-shipped insights — instant prioritization
+- **Dashboard** — `scripts/sir_dashboard.sh` shows top-recurrence-not-shipped insights — instant prioritization
 
 ---
 

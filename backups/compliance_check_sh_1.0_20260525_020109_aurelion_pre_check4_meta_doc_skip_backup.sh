@@ -109,19 +109,12 @@ echo ""
 # CHECK 4 — Pulse Check presence + score
 # ─────────────────────────────────────────────────────────
 echo "🔍 CHECK 4 — Pulse Check presence"
-# PRISTINE Cycle 2 fix 2026-05-25 (aurelion) — skip score check when no STEP header (meta-doc context).
-# Meta-docs (LEARNINGS, PROTOCOLS_REFERENCE, FAILURE_LEDGER, etc.) reference "Pulse Check" as
-# a TOPIC, not as a per-output checklist with Score: X/X. CHECK 3 already classifies "no STEP
-# header" as meta-doc — apply the same gate here. F.23 pattern (category-error: applying
-# output-time checks to commit-time meta-doc content).
-if ! echo "$CONTENT" | grep -q "^STEP:" 2>/dev/null; then
-  echo "  ℹ️  No STEP header — meta-doc context, skipping Pulse Check score validation"
-elif echo "$CONTENT" | grep -qiE "PULSE CHECK" 2>/dev/null; then
+if echo "$CONTENT" | grep -qiE "PULSE CHECK" 2>/dev/null; then
   if echo "$CONTENT" | grep -qE "Score:\s*(5/5|6/6|7/7|8/8|9/9|10/10|11/11|12/12|15/15|16/16|17/17|18/18|19/19)" 2>/dev/null; then
-    # Note: 5/5 = MANDATORY_TIGHT_LOOP v1.7 (current); 10/10 covers both old "full SOP" tier AND v1.6 (10-item incl. P10 RAE)
+    # Note: 10/10 covers both old "full SOP" tier AND new MANDATORY_TIGHT_LOOP v1.6 (10-item Pulse Check incl. P10 RAE)
     echo "  ✅ Pulse Check present with full score"
   else
-    echo "  ⚠️ Pulse Check present but score not full (expected 5/5 per MANDATORY_TIGHT_LOOP v1.7 current, 10/10 v1.6, 9/9 v1.5.1, 8/8 v1.3, 7/7 v1.2, 6/6 v1.1, 5/5 v1.0 OR 10/10..19/19 for full SOP)"
+    echo "  ⚠️ Pulse Check present but score not full (expected 10/10 per MANDATORY_TIGHT_LOOP v1.6, 9/9 v1.5.1, 8/8 v1.3, 7/7 v1.2, 6/6 v1.1, 5/5 v1.0 OR 10/10..19/19 for full SOP)"
     ISSUES=$((ISSUES + 1))
   fi
 else

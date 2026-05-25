@@ -1040,10 +1040,10 @@ Outputs the formatted table to stdout; AI surfaces verbatim in the output's clos
 </details>
 
 <details>
-<summary><b>Auxiliary Scripts Cluster (22 utility scripts not covered by specific SP.X)</b> ⭐ NEW 2026-05-22 (bulk-formalization for Direction B coverage) · EXPANDED 2026-05-23 (A+B+C bundle: backup_before_rewrite, pulse_check) · EXPANDED 2026-05-25 (Sprint 1 + 2 bulk: backup_status, mirror_obsidian, checkpoint, pristine_audit, protocol_coverage_audit, audit_chain_health) — F.58 PRISTINE Cycle 1 closure</summary>
+<summary><b>Auxiliary Scripts Cluster (9 utility scripts not covered by specific SP.X)</b> ⭐ NEW 2026-05-22 (bulk-formalization for Direction B coverage)</summary>
 
 ### Purpose
-Bulk-formalizes the 22 utility scripts that don't warrant their own SP.X entry but should be discoverable. Each is single-purpose. Together they form the operational support layer for the SOP. Per LEARNINGS Section 8 doctrine: *"convention → code"* — each mechanical script replaces a per-output discipline that would otherwise rely on behavioral compliance.
+Bulk-formalizes the 9 utility scripts that don't warrant their own SP.X entry but should be discoverable. Each is single-purpose. Together they form the operational support layer for the SOP.
 
 ### Scripts
 
@@ -1051,20 +1051,12 @@ Bulk-formalizes the 22 utility scripts that don't warrant their own SP.X entry b
 |---|---|---|
 | `scripts/add_protocol.sh` | Advisory v1.0 — surfaces the 9+ files that need updating when adding a new SubSOP | Manual (before shipping new SP.X); v2.0 will auto-apply |
 | `scripts/append_only_check.sh` | Mechanical block — fails commit if append-only files shrink (BACKUP_LOG, FAILURE_LEDGER, SIR_LOG, META_AUDIT_LOG, SOP_HEALTH_METRICS) | `.githooks/pre-commit` |
-| `scripts/audit_chain_health.sh` | META_AUDIT_LOG trend analyzer — per-agent activity rate + warning rate + chain completeness over N runs (F.58 empty-log handling 2026-05-25) | E2E check 6/9; weekly via Chiron |
-| `scripts/backup_before_rewrite.sh` ⭐ NEW 2026-05-23 (DELIVERABLE B from A+B+C bundle) | Atomic backup: copy → BACKUP_LOG row → done in one operation. Eliminates F.30/F.31/F.32 typo-in-BACKUP_LOG class. | Mandatory BEFORE every file modification (Universal Backup Rule sequence: backup → edit → log) |
-| `scripts/backup_status.sh` ⭐ NEW 2026-05-25 (Sprint 1 Item I) | 5-layer redundancy probe — answers "if this device vanished, where is the work recoverable?" (local backups + BACKUP_LOG + local git + GitHub origin + cross-device commits). Three modes: full table / `--block` / `--quiet`. | SP.18 SSC v1.7.1: `--block` embedded in every file-modifying output. Manual ad-hoc for visibility. |
 | `scripts/bootstrap_verify.sh` | 85-check mechanical boot self-test across 13 categories | Session start (per SESSION_START STEP 2.A); E2E check 1/9 |
 | `scripts/check_device_activity.sh` | Multi-device audit — shows recent commits per device over N days | Manual; before cross-device work |
-| `scripts/checkpoint.sh` ⭐ NEW 2026-05-25 (Sprint 2 Item E) | Automated session snapshot — writes `cache/checkpoints/<TS>_<device>.md` (commit + E2E + Pulse + Backup-Status + recent files + resume prompt) + updates `cache/LATEST.md` always-current pointer. Closes F.52 (manual handoff search). | Manual at session checkpoints / before ending session. Future: auto-fire via Stop hook. |
 | `scripts/chiron_run.sh` | Single-command Chiron invocation (audit + SIR trend + chain health + report) | Monthly via Task Scheduler `Chiron-Monthly-Audit` |
 | `scripts/compliance_check.sh` | Rule #11 + Pulse Check score + STEP header + MACRO/MICRO validation | `.githooks/pre-commit`; E2E check 3/9 |
 | `scripts/consistency_check.sh` | Version drift + stale refs + file count anomalies | E2E check 4/9 |
 | `scripts/meta_verify.sh` | Layer 4 of F.19 agent chain — verifies chain completeness + trend | `.githooks/pre-commit` |
-| `scripts/mirror_obsidian.sh` ⭐ NEW 2026-05-25 (Sprint 1 Item D) | Cross-device `.obsidian/` config hygiene — mirrors shared parts (app.json, appearance.json, core-plugins.json, plugins/<x>/{main.js,manifest.json,styles.css}) to `cache/obsidian-config/`. Three modes: `--mirror` / `--verify` / `--restore`. Whitelist (not blacklist) approach. Closes F.51 (raw-committed `.obsidian/` = inevitable workspace.json conflicts). | Manual: `--verify` on session start; `--mirror` after Obsidian setting changes; `--restore` on fresh-device setup. |
-| `scripts/pristine_audit.sh` ⭐ NEW 2026-05-22 (SP.23 PRISTINE) | 10 sub-audits beyond E2E: coverage drift, BACKUP_LOG integrity, dead refs, script perms, version drift, remote integrity, hook integrity, Chiron freshness, orphan backups. Aggregates to PRISTINE/NEAR-PRISTINE/IMPERFECT/DEGRADED verdict. | Quarterly OR before major release / quintessence milestone. Owned by Chiron. |
-| `scripts/protocol_coverage_audit.sh` | Two-direction protocol coverage (Direction A: SubSOPs invoked per commit-mention rate; Direction B: scripts/agents formalized in this file). Drift signal for chronically-skipped protocols. | Monthly via Chiron; PRISTINE sub-audit 2/10 |
-| `scripts/pulse_check.sh` ⭐ NEW 2026-05-23 (DELIVERABLE C from A+B+C bundle) | 5-item mechanical pulse — P1 Honest numbers / P2 IAC present / P3 SSC present / P4 MES integrated / P5 RAE integrated. Replaces markdown-checkbox self-check (F.19 same-brain-audits-itself ceiling). | Per-output (validator triggers it); manual ad-hoc. |
 | `scripts/qc.sh` | Layer 3 of F.19 agent chain — anti-rubber-stamp check of upstream layers | `.githooks/pre-commit` |
 | `scripts/setup_device.sh` | One-command device registration (git config user.name/email + hookspath) | New device only |
 | `scripts/sir_recurrence.sh` | Detects recurring SIR insights → flags for FAILURE_LEDGER promotion | E2E check 7/9; weekly via Chiron |

@@ -6,40 +6,22 @@
 
 ## 🎯 QUINTESSENCE — 10 Properties Of The Target State
 
-A truly self-perfecting + perfected SOP satisfies all 10. Current score (after aurelion 2026-05-25 ship): **~8.5/10**. After F.22 (2026-05-21): ~6.5/10. Pre-F.22: ~3.5/10.
+A truly self-perfecting + perfected SOP satisfies all 10. Current score (after F.22 shipment): ~6.5/10. Pre-F.22: ~3.5/10.
 
-| # | Property | Pre-F.22 | After F.22 | After aurelion 2026-05-25 | Target |
-|:-:|---|:-:|:-:|:-:|:-:|
-| Q.1 | Closed feedback loops | partial | partial+ (sir_recurrence + audit_chain_health) | ✅ full (checkpoint.sh + LATEST.md auto-handoff closes the loop) | full |
-| Q.2 | Mechanical enforcement | partial | partial (chain still warnings-only) | ✅ partial+ (pre-push E2E gate enforced; pulse_check + backup_status + mirror_obsidian + checkpoint all mechanical) | full blocking |
-| Q.3 | External independence (cross-model / fresh sub-agent) | NO | NO | partial (drift detector probe table STEP 0.1.1 + "my understanding" restatement STEP 2.C — both push against same-brain ceiling at bootstrap layer) | full |
-| Q.4 | Proactive drift detection | session-start only | session-start only | ✅ continuous (pristine_audit per-device + checkpoint snapshot per-session) | continuous |
-| Q.5 | Self-test coverage | NO | skeleton (run_agent_tests.sh) | ✅ skeleton+ (9/9 PASS sustained; E2E pre-push gate active) | full fixtures |
-| Q.6 | Atomic cross-file propagation | NO | partial (add_protocol.sh advisory) | partial (manual on aurelion ship — F.51 closure touched 3 files atomically via single commit) | full automation |
-| Q.7 | Convergence proof | NO | partial (sop_health_dashboard) | ✅ full (PRISTINE 39 → 0 issues across 9 dimensions on 2026-05-25 proves convergence is measurable AND achievable) | trended metric |
-| Q.8 | Failure-to-fix automation | NO | partial (sir_recurrence detects, manual promotion) | partial (F.58 caught-and-fixed in single session — manual but instrumented) | full automation |
-| Q.9 | Session lifecycle automation | partial | partial | ✅ partial+ (checkpoint.sh handles end-of-session; Stop hook handles end-of-session-2; LATEST.md handles start-of-session) | full (start + mid + end) |
-| Q.10 | Documentation completeness | partial | better (VERSION_MANIFEST, this roadmap) | ✅ full (PROTOCOLS_REFERENCE Auxiliary Scripts Cluster now 22 entries — all scripts formalized; Direction B coverage = 0 missing) | full |
+| # | Property | Pre-F.22 | After F.22 | Target |
+|:-:|---|:-:|:-:|:-:|
+| Q.1 | Closed feedback loops | partial | ✅ partial+ (sir_recurrence + audit_chain_health) | full |
+| Q.2 | Mechanical enforcement | partial | partial (chain still warnings-only) | full blocking |
+| Q.3 | External independence (cross-model / fresh sub-agent) | NO | NO | full |
+| Q.4 | Proactive drift detection | session-start only | session-start only | continuous |
+| Q.5 | Self-test coverage | NO | ✅ skeleton (run_agent_tests.sh) | full fixtures |
+| Q.6 | Atomic cross-file propagation | NO | partial (add_protocol.sh advisory) | full automation |
+| Q.7 | Convergence proof | NO | ✅ partial (sop_health_dashboard) | trended metric |
+| Q.8 | Failure-to-fix automation | NO | partial (sir_recurrence detects, manual promotion) | full automation |
+| Q.9 | Session lifecycle automation | partial | partial | full (start + mid + end) |
+| Q.10 | Documentation completeness | partial | ✅ better (VERSION_MANIFEST, this roadmap) | full |
 
-**Score after aurelion 2026-05-25: 8.5/10.** **Remaining gap: 1.5/10** (Q.3 + Q.6 + Q.8 — all about *full automation* of external-independence / propagation / failure-to-fix loops).
-
-### 🎯 2026-05-25 aurelion session — quintessence delta
-
-**Shipped (8 commits, 5 F-classes closed, 39→0 PRISTINE):**
-- 4 new mechanical scripts: `backup_status.sh`, `mirror_obsidian.sh`, `checkpoint.sh`, plus structural patches to `pristine_audit.sh` (gitignore-aware + unrecoverable-orphan skip) + `audit_chain_health.sh` (empty-log handling) + `compliance_check.sh` (meta-doc skip) + `protocol_coverage_audit.sh` (output-time vs commit-time category split)
-- 3 doctrine additions to SESSION_START + MANDATORY_TIGHT_LOOP: STEP 0.1.1 (drift probe table for 9 cached-vs-on-disk dimensions), STEP 2.C ("my understanding" self-restatement), SP.18 SSC v1.7.1 (mechanical BACKUP-STATUS block replaces manual sync rows)
-- 5 F-class entries CLOSED: F.51 (`.obsidian` conflicts via mirror_obsidian.sh), F.52 (no LATEST.md via checkpoint.sh), F.53 (no "my understanding" via STEP 2.C), F.58 (audit_chain_health empty-log "complete" gap)
-- PRISTINE went from 🔴 DEGRADED (39 issues) → ✅ PRISTINE (0 issues across 9 audit dimensions) — first-ever clean PRISTINE on record
-
-**Net Quintessence change:** 6.5/10 → 8.5/10 (+2.0 in one session).
-
-### 🎯 Path from 8.5/10 → 10/10 (remaining 1.5 points)
-
-| Gap | Quintessence property | Effort | Suggested next |
-|---|---|:-:|---|
-| 0.5 | Q.3 External independence | L (6-8h) | `invoke_sub_agent.sh` (F.27) — Meta-Verifier with fresh-context Agent tool. The Aurelius pattern of local-LLM agents on Task Scheduler is the alternative path. |
-| 0.5 | Q.6 Atomic cross-file propagation | L (4-6h) | Build full `add_protocol.sh` v2.0 — auto-applies snippets across 9+ files when adding new SubSOP. SP.19 GLD ship would have benefited. |
-| 0.5 | Q.8 Failure-to-fix automation | M (3-4h) | sir_recurrence currently DETECTS but humans PROMOTE — automate the promotion gate: if recur count ≥ 3 AND not-yet-shipped, auto-open F-class entry stub. |
+**Score after F.22: 6.5/10.** **Remaining gap: 3.5/10.**
 
 ---
 

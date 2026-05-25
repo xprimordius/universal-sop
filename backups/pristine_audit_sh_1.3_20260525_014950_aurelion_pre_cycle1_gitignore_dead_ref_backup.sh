@@ -94,16 +94,7 @@ echo ""
 echo "── 3/10 BACKUP_LOG Integrity ──────────────────────────"
 if [ -f cache/BACKUP_LOG.md ]; then
   MISSING_PATHS=""
-  KNOWN_UNRECOVERABLE=0
   while IFS= read -r line; do
-    # PRISTINE Cycle 2 fix 2026-05-25 (aurelion) — skip rows annotated as known-unrecoverable
-    # These are typo-corrupted rows from pre-F.31/F.32 cleanup that can't be restored
-    # (placeholders never substituted, double-date typos, descriptive text in timestamp slots).
-    # Row is kept in BACKUP_LOG per append-only rule; annotation tells audit to skip.
-    if [[ "$line" == *"[UNRECOVERABLE-ORPHAN"* ]]; then
-      KNOWN_UNRECOVERABLE=$((KNOWN_UNRECOVERABLE+1))
-      continue
-    fi
     # Extract last pipe-delimited field (backup path)
     path=$(echo "$line" | awk -F'|' '{gsub(/^ +| +$/, "", $(NF-1)); print $(NF-1)}')
     [ -z "$path" ] && continue
@@ -115,7 +106,7 @@ if [ -f cache/BACKUP_LOG.md ]; then
       MISSING_PATHS+="    • $path\n"
     fi
   done < <(grep -E "^\|[[:space:]]*[0-9]+[[:space:]]*\|" cache/BACKUP_LOG.md)
-  echo "  Missing backup files: $ISSUES_BACKUP_INT (+ $KNOWN_UNRECOVERABLE known-unrecoverable orphans, annotated, skipped)"
+  echo "  Missing backup files: $ISSUES_BACKUP_INT"
   [ "$ISSUES_BACKUP_INT" -gt 0 ] && [ "$ISSUES_BACKUP_INT" -lt 10 ] && printf "$MISSING_PATHS"
 else
   echo "  ⚠️ cache/BACKUP_LOG.md not found"
@@ -157,15 +148,6 @@ for md in "${DOC_LIST[@]}"; do
     # Template placeholders (YYYY-MM-DD patterns, etc.)
     [[ "$ref" == *YYYY-MM-DD* ]] && continue
     [[ "$ref" == *"<"* ]] && continue
-    # PRISTINE Cycle 1 fix 2026-05-25 (aurelion) — gitignored per-device files are not "dead"
-    # (e.g., cache/META_AUDIT_LOG.md is gitignored per F.31 — file is correctly referenced
-    #  in docs, just generated per-device on first chain run, not synced via git.)
-    # Match both exact ref and basename-with-prefix to handle bare-filename references.
-    if [ -f .gitignore ]; then
-      if grep -Fxq "$ref" .gitignore 2>/dev/null; then continue; fi
-      ref_basename=$(basename "$ref")
-      if grep -Eq "(^|/)$ref_basename\$" .gitignore 2>/dev/null; then continue; fi
-    fi
     # Smarter path resolution: try common locations
     if [ -e "$ref" ] || [ -e "$(dirname "$md")/$ref" ] || \
        [ -e "scripts/$ref" ] || [ -e "cache/$ref" ] || \
