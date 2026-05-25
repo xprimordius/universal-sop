@@ -442,7 +442,7 @@ ONE paragraph. Self-contained. Works on any device.
 - **F.51** — `.obsidian/` raw-committed = cross-device workspace.json conflicts inevitable → ✅ CLOSED 2026-05-25 by `scripts/mirror_obsidian.sh` (Sprint 1 Item D ship from aurelion; --mirror/--verify/--restore + cache/obsidian-config/ shared mirror)
 - **F.52** — No LATEST.md pointer to current checkpoint = manual handoff search → ✅ CLOSED 2026-05-25 by `scripts/checkpoint.sh` + `cache/LATEST.md` (Sprint 2 Item E ship from aurelion; auto-generates `cache/checkpoints/<TS>_<device>.md` + updates LATEST.md pointer)
 - **F.53** — No "my understanding" self-restatement = Claude lists files instead of comprehending → ✅ CLOSED 2026-05-25 by SESSION_START.md STEP 2.C addition (Sprint 2 Item L)
-- **F.54** — Scattered hardcoded paths in scripts (no aurelius_paths.py analog) → ✅ CLOSED 2026-05-25 by `scripts/paths.sh` (Sprint 3 Item F ship from aurelion; sourceable bash with `--show`/`--check`; ~25 exported vars covering all repo paths). Adoption is incremental — existing scripts work unchanged.
+- **F.54** — Scattered hardcoded paths in scripts (no aurelius_paths.py analog) → ⏳ Tier 2 Item F
 - **F.55** — No test harness for scripts (silent regressions possible) → ⏳ Tier 2 Item G
 - **F.56** — No MCP integration (capabilities locked behind agents) → ⏳ Tier 2 Item H
 - **F.57** — Verbose CONTINUATION_POINTER vs Aurelius one-line master prompt → ⏳ Tier 3 Item P
@@ -469,9 +469,9 @@ ONE paragraph. Self-contained. Works on any device.
 5. Item L — "my understanding" self-restatement at session start (~10m) ✅ shipped 2026-05-25 (SESSION_START STEP 2.C)
 6. Item O — BACKUP-STATUS block in output template (~30m) ✅ shipped 2026-05-25 (MANDATORY_TIGHT_LOOP SP.18 SSC v1.7.1)
 
-**Sprint 3 (~5h total — architectural):** ⏳ 1 of 2 shipped 2026-05-25
-7. Item F — paths.sh single source of truth (~1h) ✅ shipped 2026-05-25
-8. Item G — tests/run_script_tests.sh harness with 30+ guard tests (~4h) ⏳ queued
+**Sprint 3 (~5h total — architectural):**
+7. Item F — paths.sh single source of truth (~1h)
+8. Item G — tests/run_script_tests.sh harness with 30+ guard tests (~4h)
 
 **Sprint 4 (optional, ~3h):**
 9. Item H — mcp_config.json + filesystem + playwright + fetch (~2h)
@@ -533,7 +533,7 @@ Universal SOP reaches "pristine quality" per Aurelius reference when:
 | 6 | Cross-device Obsidian sync conflict-free | ✅ shipped 2026-05-25 (mirror_obsidian.sh) |
 | 7 | Test harness covers all scripts | ❌ pending Tier 2 Item G |
 | 8 | Session checkpoint auto-generated | ✅ shipped 2026-05-25 (checkpoint.sh + cache/LATEST.md) |
-| 9 | Single source of truth for paths | ✅ shipped 2026-05-25 (paths.sh — Sprint 3 Item F) |
+| 9 | Single source of truth for paths | ❌ pending Tier 2 Item F |
 | 10 | Per-output backup-redundancy block visible | ✅ shipped 2026-05-25 (Item O — SP.18 SSC v1.7.1 references backup_status.sh --block) |
 
 **Current: 4/10 of Aurelius-parity criteria met.** Sprint 1+2 from Section 6 brings us to 9/10.
