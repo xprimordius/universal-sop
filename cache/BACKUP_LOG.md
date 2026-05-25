@@ -407,3 +407,6 @@
 | 392 | 2026-05-25 | 02:51 CDT | README.md | 1.0 | **(aurelion) test harness dogfood skip in review via backup_before_rewrite.sh** | backups/README_md_1.0_20260525_025142_aurelion_test_harness_dogfood_skip_in_review_backup.md |
 | 393 | 2026-05-25 | 02:56 CDT | README.md | 1.0 | **(aurelion) test harness dogfood skip in review via backup_before_rewrite.sh** | backups/README_md_1.0_20260525_025644_aurelion_test_harness_dogfood_skip_in_review_backup.md |
 | 394 | 2026-05-25 | 02:57 CDT | MANDATORY_TIGHT_LOOP.md | 1.7.1 | **(aurelion) pre item M prove it via backup_before_rewrite.sh** | backups/MANDATORY_TIGHT_LOOP_md_1.7.1_20260525_025725_aurelion_pre_item_M_prove_it_backup.md |
+| 395 | 2026-05-25 | 03:01 CDT | scripts/sir_recurrence.sh | 1.0 | **(aurelion) pre Q8 auto promote via backup_before_rewrite.sh** | backups/sir_recurrence_sh_1.0_20260525_030109_aurelion_pre_Q8_auto_promote_backup.sh |
+| 396 | 2026-05-25 | 03:02 CDT | QUINTESSENCE_ROADMAP.md | 1.0 | **(aurelion) pre Q8 closure via backup_before_rewrite.sh** | backups/QUINTESSENCE_ROADMAP_md_1.0_20260525_030239_aurelion_pre_Q8_closure_backup.md |
+| 397 | 2026-05-25 | 03:02 CDT | PROTOCOLS_REFERENCE.md | 1.0 | **(aurelion) pre Q8 sir recurrence v2 entry via backup_before_rewrite.sh** | backups/PROTOCOLS_REFERENCE_md_1.0_20260525_030239_aurelion_pre_Q8_sir_recurrence_v2_entry_backup.md |
