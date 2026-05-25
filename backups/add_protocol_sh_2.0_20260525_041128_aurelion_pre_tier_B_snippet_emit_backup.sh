@@ -2,8 +2,6 @@
 # ➕ ADD_PROTOCOL — Atomic propagation of a new SubSOP across canonical locations
 # Per Q.F.1 / Q.6 (cross-file consistency) | F.22 quintessence audit 2026-05-21
 # v2.0 2026-05-25 aurelion: TIERED AUTOMATION (closes Q.6 from "advisory" toward "full")
-# v2.1 2026-05-25 aurelion: TIER B snippet emission via scripts/snippets/ templates
-#                            with placeholder substitution → closes Q.6 to ~95%
 #
 # Usage:
 #   bash scripts/add_protocol.sh SP_ID ACRONYM "FULL NAME" "ONE-LINE PURPOSE" [--commit|--dry-run]
@@ -290,32 +288,10 @@ echo "════════════════════════�
 echo "✅ TIER A — all 3 files edited successfully (atomic backup-edit verified)"
 echo "═══════════════════════════════════════════════════════════════"
 echo ""
-echo "📋 TIER B (3 files — paste these auto-templated snippets):"
-echo ""
-# Q.6 v2.1 closure — emit Tier B snippets with placeholder substitution (no auto-edit)
-emit_snippet() {
-  local tpl_path="$1"
-  local target_file="$2"
-  local description="$3"
-  echo "  ── $target_file ──"
-  echo "  ($description)"
-  if [ -f "$tpl_path" ]; then
-    ACRONYM_LOWER=$(echo "$ACRONYM" | tr '[:upper:]' '[:lower:]')
-    sed \
-      -e "s/{{SP_ID}}/${SP_ID}/g" \
-      -e "s/{{ACRONYM}}/${ACRONYM}/g" \
-      -e "s/{{ACRONYM_LOWER}}/${ACRONYM_LOWER}/g" \
-      -e "s/{{FULL_NAME}}/${FULL_NAME}/g" \
-      -e "s/{{PURPOSE}}/${PURPOSE}/g" \
-      "$tpl_path" | sed 's/^/    /'
-  else
-    echo "    ⚠️  Template missing: $tpl_path (paste manual snippet)"
-  fi
-  echo ""
-}
-emit_snippet "scripts/snippets/validator_VL.tpl"          "scripts/validator.sh"        "④ VL.X heuristic check"
-emit_snippet "scripts/snippets/bootstrap_verify_check.tpl" "scripts/bootstrap_verify.sh" "⑤ check_grep references"
-emit_snippet "scripts/snippets/html_details.tpl"           "SOP_COMPLETE_REFERENCE.html" "⑥ <details> block mirror"
+echo "📋 TIER B (3 files — your move):"
+echo "  ④ scripts/validator.sh — add VL.X check for ${ACRONYM} marker"
+echo "  ⑤ scripts/bootstrap_verify.sh — add check_grep '$SP_ID' + bump hardcoded count"
+echo "  ⑥ SOP_COMPLETE_REFERENCE.html — add <details> mirror of PROTOCOLS_REFERENCE entry"
 echo ""
 echo "📋 TIER C (judgment-required):"
 echo "  ⑦ cache/FAILURE_LEDGER.md — only if this protocol closes an F-class gap"

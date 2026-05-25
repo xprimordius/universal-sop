@@ -37,30 +37,6 @@ Every entry uses this format:
 ## 🪞 ACTIVE LEDGER (Migrated from RPT_LOG + Session 5 HFRs)
 
 <details>
-<summary><b>F.59 — GitHub 500 on Heavy Commit Messages (HEREDOC + Backticks + Emoji + Tables) [STRUCTURAL FIX 2026-05-25]</b></summary>
-
-- **Type:** FAILURE (caught on aurelion 2026-05-25 ~04:05 CDT — 3 consecutive `git push` attempts returned `remote: Internal Server Error` from GitHub)
-- **First Observed:** 2026-05-25 — Q.6 v2.0 commit had 5099-byte / 80-line message with embedded backticks, nested code blocks, Unicode emoji, table syntax, and PROVE-IT 9-point block. Three pushes returned `500 Internal Server Error` with distinct Request IDs (C61F/C642/E186). GitHub status page showed 0 open incidents.
-- **Times:** 1 explicit + N silent prior cases (any OP-LEVEL commit with heavy embedded markdown could trigger this; my prior session commits got lucky because they were under threshold)
-- **Root Cause:**
-  - GitHub's git-receive pipeline appears to choke on commit messages combining: (a) HEREDOC-generated content with literal backticks, (b) markdown table pipes, (c) Unicode emoji, (d) nested code-fence blocks, all in a single message > ~5KB.
-  - The 500 was server-side; local pre-push hook approved the push (E2E 9/9 PASS), the pack itself was valid (`git fsck` clean).
-  - Amending the commit to a 1-line summary message ("[device | TS] short summary") allowed the SAME pack to push successfully on the next attempt.
-- **Permanent Fix (this commit + going forward):**
-  1. **OP-LEVEL commit convention from now on:** the subject is ALWAYS a single short line. Details belong in:
-     - The corresponding `cache/chiron/PRISTINE_REPORT_<ts>.md` file (auto-generated)
-     - A dedicated `cache/op-notes/OP_<ts>_<topic>.md` file (manual when needed)
-     - Or the FAILURE_LEDGER entry (when closing an F-class)
-  2. The PROVE-IT 9-point block (MTL RULE 5) should NOT be inline in commit messages — instead saved to `cache/op-notes/` and referenced by path in the subject.
-  3. This avoids the GitHub size+content trigger AND keeps `git log --oneline` legible.
-- **Fixed:** 2026-05-25 04:10 CDT (commit `334f644` — Q.6 v2.0 push succeeded after amend-to-short-message)
-- **Verified:** Re-pushed same pack with 1-line message; landed cleanly first attempt.
-- **Lesson:** Local pre-push validation cannot detect this — it's a remote constraint we discovered empirically. The fix is convention-level, not script-level: keep subjects short, put detail in companion files. Future Validator VL.13 candidate: pre-commit check warning if commit message exceeds 4KB OR contains > 3 backticks.
-- **Related:** F.30 (Documentation-to-Activity Drift — this is a sibling: convention-vs-server-reality drift), MTL RULE 5 (PROVE-IT 9-point — needs the "save to file, not commit body" guidance added).
-
-</details>
-
-<details>
 <summary><b>F.58 — audit_chain_health.sh Empty-Log Case Drops "complete" Marker [STRUCTURAL FIX 2026-05-25]</b></summary>
 
 - **Type:** FAILURE (caught on aurelion fresh-clone bootstrap: E2E test 6/9 reported FAIL "expected pattern 'complete' not in output" even though script exited 0)
