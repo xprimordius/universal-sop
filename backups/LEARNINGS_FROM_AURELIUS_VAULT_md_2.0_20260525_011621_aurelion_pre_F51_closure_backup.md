@@ -439,7 +439,7 @@ ONE paragraph. Self-contained. Works on any device.
 - **F.48** — Manual cp + manual BACKUP_LOG = typo class → ✅ closed by Deliverable B
 - **F.49** — Markdown-checkbox Pulse Check = self-check ceiling → ✅ closed by Deliverable C
 - **F.50** — No Stop-hook session-end automation = manual CONTINUATION drift → ✅ closed by Deliverable A (after user install)
-- **F.51** — `.obsidian/` raw-committed = cross-device workspace.json conflicts inevitable → ✅ CLOSED 2026-05-25 by `scripts/mirror_obsidian.sh` (Sprint 1 Item D ship from aurelion; --mirror/--verify/--restore + cache/obsidian-config/ shared mirror)
+- **F.51** — `.obsidian/` raw-committed = cross-device workspace.json conflicts inevitable → ⏳ Tier 2 Item D (mirror_obsidian.sh)
 - **F.52** — No LATEST.md pointer to current checkpoint = manual handoff search → ⏳ Tier 2 Item E
 - **F.53** — No "my understanding" self-restatement = Claude lists files instead of comprehending → ⏳ Tier 3 Item L
 - **F.54** — Scattered hardcoded paths in scripts (no aurelius_paths.py analog) → ⏳ Tier 2 Item F
@@ -459,9 +459,9 @@ ONE paragraph. Self-contained. Works on any device.
 
 ### ⏳ QUEUED (next sessions, ranked by ROI)
 
-**Sprint 1 (~3h total — quick mechanical wins):** ✅ COMPLETE 2026-05-25 (aurelion)
-1. Item I — backup_status.sh probes all layers (~1h) ✅ shipped `df46d00`
-2. Item D — mirror_obsidian.sh prevents cross-device .obsidian conflicts (~2h) ✅ shipped 2026-05-25
+**Sprint 1 (~3h total — quick mechanical wins):**
+1. Item I — backup_status.sh probes all layers (~1h)
+2. Item D — mirror_obsidian.sh prevents cross-device .obsidian conflicts (~2h)
 
 **Sprint 2 (~4h total — visible improvements):**
 3. Item E — checkpoint.sh + LATEST.md pointer (~3h)
@@ -530,7 +530,7 @@ Universal SOP reaches "pristine quality" per Aurelius reference when:
 | 3 | Backup atomicity prevents typo class | ✅ shipped |
 | 4 | Pulse Check queries actual state | ✅ shipped |
 | 5 | All scripts/agents formalized in PROTOCOLS_REFERENCE | ⚠️ 30 → 11 → ongoing |
-| 6 | Cross-device Obsidian sync conflict-free | ✅ shipped 2026-05-25 (mirror_obsidian.sh) |
+| 6 | Cross-device Obsidian sync conflict-free | ❌ pending Tier 2 Item D |
 | 7 | Test harness covers all scripts | ❌ pending Tier 2 Item G |
 | 8 | Session checkpoint auto-generated | ❌ pending Tier 2 Item E |
 | 9 | Single source of truth for paths | ❌ pending Tier 2 Item F |
