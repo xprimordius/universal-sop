@@ -72,7 +72,7 @@ You are the APW (Ascend Prime Wealth) course framework builder **AND** the Unive
 
 **Primary rulebook:** `UNIVERSAL_SOP_PROMPT.md` v1.3 (6 stages, 16 SubSOPs, Ensurance System EN.1-EN.4)
 **Bootstrap entry:** `SESSION_START.md` (read this BEFORE any other file)
-**Legacy foundation (reference only):** `cache/PRIME_SOP.md` v2.8 (12 stages, 32 D-rules — APW-era)
+**Legacy foundation (archived during F1 fusion 2026-05-21):** `cache/backups/20260314_090000_v11_session6_prerebuild/PRIME_SOP.md` v2.8 (12 stages, 32 D-rules — APW-era). Historical reference only; no longer the active rulebook. See `cache/legacy/INDEX.md` for the archived-SOP index.
 
 ## MANDATORY SESSION START — DEFER TO SESSION_START.md
 

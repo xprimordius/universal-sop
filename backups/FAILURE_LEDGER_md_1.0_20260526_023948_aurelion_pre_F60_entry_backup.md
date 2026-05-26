@@ -37,29 +37,6 @@ Every entry uses this format:
 ## 🪞 ACTIVE LEDGER (Migrated from RPT_LOG + Session 5 HFRs)
 
 <details>
-<summary><b>F.60 — Tool Dependencies (jq, realpath, timeout, curl) Not Verified at Bootstrap [STRUCTURAL FIX 2026-05-26]</b></summary>
-
-- **Type:** FAILURE (caught on aurelion 2026-05-26 02:23 CDT — Q.3 sub-agent dogfood of `output_stop_hook.sh` discovered `jq: command not found` despite hook script's jq-required `last-assistant` extraction path)
-- **First Observed:** 2026-05-26 02:23 — testing `jq -rs '[.[] | select(.type=="assistant")] | last | ...'` returned `bash: line 7: jq: command not found`. Hook script silently falls back to grep-based extraction (acknowledged escaped-quote limitation). Means RULE 6 Stop hook's correctness depends on a tool that may not be installed.
-- **Times:** 1 explicit on aurelion + latent across any device that clones this repo without checking dependencies (mac-main + aurelia status unknown for jq)
-- **Root Cause:**
-  - 4+ scripts depend on `jq` for JSON parsing (`output_stop_hook.sh`, future bootstrap_verify.sh extensions, etc.)
-  - 2+ scripts depend on `realpath` for absolute-path resolution (`invoke_sub_agent.sh`)
-  - 3+ scripts depend on `timeout` for safety wrappers (`e2e_verify.sh`, `.githooks/pre-push`)
-  - NONE of these are checked at bootstrap. Scripts fall back silently to inferior code paths → degraded functionality without operator awareness.
-  - F.19 same-brain symptom: I authored the scripts assuming the tools were present. The sub-agent ALSO assumed they were present (it didn't probe). Both same-brain class. Real catch came from running the test command on aurelion.
-- **Permanent Fix (SHIPPED 2026-05-26 this commit):**
-  1. `scripts/bootstrap_dependencies.sh` — probes each tool with `command -v`, classifies as REQUIRED (bash/git/grep/sed/awk — exit 1 if missing) or RECOMMENDED (jq/realpath/timeout/curl — WARN, documented fallback).
-  2. Modes: full table (default), `--quiet` (exit-only), `--strict` (recommended-missing → FAIL).
-  3. Future chain: `scripts/bootstrap_verify.sh` should invoke `scripts/bootstrap_dependencies.sh --strict` as Section 0 check — deferred to next loop tick.
-- **Fixed:** 2026-05-26 (this commit — script shipped)
-- **Verified:** Dogfood on aurelion shows 5 REQUIRED present + 3 of 4 RECOMMENDED present + 1 (jq) WARN with documented fallback. Output matches expected behavior.
-- **Lesson:** Tool dependencies are runtime invariants. Bootstrap_verify already checks file existence + script permissions + git remote integrity — extending it to PATH-resolvable tools is the natural completion. Future scripts that introduce new external dependencies should be required to add their tool to `bootstrap_dependencies.sh` as part of the same commit. Validator probe candidate (VL.14): grep new scripts for `command -v` patterns OR `bash`-only-callable invocations; warn if a new tool dependency was introduced without a `bootstrap_dependencies.sh` entry.
-- **Related:** F.19 (same-brain ceiling), F.58 (audit_chain_health empty-log fix — sibling structural-completeness pattern), Q.3 (external independence — this F-class was caught BY Q.3 dogfood, validating the Q.3 ship).
-
-</details>
-
-<details>
 <summary><b>F.59 — GitHub 500 on Heavy Commit Messages (HEREDOC + Backticks + Emoji + Tables) [STRUCTURAL FIX 2026-05-25]</b></summary>
 
 - **Type:** FAILURE (caught on aurelion 2026-05-25 ~04:05 CDT — 3 consecutive `git push` attempts returned `remote: Internal Server Error` from GitHub)
