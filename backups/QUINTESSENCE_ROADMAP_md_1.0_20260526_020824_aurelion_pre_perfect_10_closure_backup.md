@@ -21,13 +21,7 @@ A truly self-perfecting + perfected SOP satisfies all 10. Current score (after a
 | Q.9 | Session lifecycle automation | partial | partial | ✅ partial+ (checkpoint.sh handles end-of-session; Stop hook handles end-of-session-2; LATEST.md handles start-of-session) | full (start + mid + end) |
 | Q.10 | Documentation completeness | partial | better (VERSION_MANIFEST, this roadmap) | ✅ full (PROTOCOLS_REFERENCE Auxiliary Scripts Cluster now 22 entries — all scripts formalized; Direction B coverage = 0 missing) | full |
 
-**Score after aurelion 2026-05-26 (post-Stop-hook 02:10 CDT): 10/10 ✅ — STRUCTURAL QUINTESSENCE ACHIEVED.**
-
-The Stop hook (`scripts/output_stop_hook.sh` + `install_output_stop_hook.cmd`) closes the last 0.05/10 gap. With the hook installed (manual one-time step per device), Claude Code BLOCKS the stop and re-prompts on ≥3 mandatory SOP failures. RULE 6 is no longer "Claude must remember to validate" — it's "Claude literally cannot stop without validating." F.19 same-brain ceiling now has a true structural answer at the chat-behavior layer.
-
-**What 10/10 means at this layer:** every quintessence property has a *structural* answer in the repo. It does NOT mean the SOP is "perfect" in the colloquial sense — drift can still occur if hooks are uninstalled, scripts get edited, or new failure modes emerge. The remaining work shifts from STRUCTURE to MAINTENANCE: keep the hook installed, keep the validator probes accurate as the SOP evolves, dogfood RULE 6 every output.
-
-**Score after aurelion 2026-05-26 (post-MTL-RULE-6 output-self-audit 02:00 CDT): 9.95/10.**
+**Score after aurelion 2026-05-26 (post-MTL-RULE-6 output-self-audit 02:00 CDT): 9.95/10.** **Remaining gap: 0.05/10** = a Claude-Code PreResponse hook that invokes validator_output on every Stop event (true mechanical enforcement at output boundary). RULE 6 currently convention+script-assisted; hook would make it impossible-to-bypass.
 
 **Q.C9 closure 2026-05-26:** User identified the chat-behavior gap — *"just following the SOP itself it has problems with"*. The repo had the SOP, but Claude's own outputs weren't following it (no 🎯 MODEL line, no STEP header, no UC table, no Sync Status, no RAE — across 24 commits worth of session). Shipped: `scripts/validator_output.sh` (7-probe checklist), `scripts/log_output.sh` (OUTPUT_LOG + prompt_archive), `templates/output_skeleton.md`, MTL RULE 6 codifying the pre-ship sequence.
 
