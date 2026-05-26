@@ -151,26 +151,6 @@ probe_fabrication() {
   return 0
 }
 
-probe_sop_expression() {
-  # MTL RULE 6.5 — every OUTPUT-STANDARD / OUTPUT-COMPLEX must include the
-  # full SOP-expression block from express_sop.sh (per user 2026-05-26).
-  local has_block has_subsops has_agents
-  has_block=$(grep -ciE "SOP EXPRESSION|MTL RULE 6\.5" "$DRAFT" 2>/dev/null)
-  has_subsops=$(grep -ciE "SP\.[0-9]+ +[A-Z]|Per-Output SubSOP" "$DRAFT" 2>/dev/null)
-  has_agents=$(grep -ciE "Agent Roster|Controller|Verifier|Meta-Verifier" "$DRAFT" 2>/dev/null)
-  has_block=${has_block:-0}; has_subsops=${has_subsops:-0}; has_agents=${has_agents:-0}
-  if [ "$has_block" -ge 1 ] && [ "$has_subsops" -ge 5 ]; then
-    echo "PASS|SOP Expression (RULE 6.5)|expression block present with $has_subsops SubSOP refs"
-    return 0
-  fi
-  if [ "$has_subsops" -ge 10 ]; then
-    echo "PASS|SOP Expression (RULE 6.5)|$has_subsops SubSOP refs detected (block-marker absent — partial credit)"
-    return 0
-  fi
-  echo "FAIL|SOP Expression (RULE 6.5)|no SOP-expression block (block=$has_block subsops=$has_subsops agents=$has_agents)"
-  return 1
-}
-
 # ─────────────────────────────────────────────────────────────────
 # Run all probes
 # ─────────────────────────────────────────────────────────────────
@@ -182,7 +162,6 @@ RESULTS+=("$(probe_ssc)")
 RESULTS+=("$(probe_rae)")
 RESULTS+=("$(probe_pulse)")
 RESULTS+=("$(probe_fabrication)")
-RESULTS+=("$(probe_sop_expression)")
 
 declare -i PASS=0
 declare -i FAIL=0

@@ -64,24 +64,16 @@ TMP_RESPONSE=$(mktemp --suffix=.md 2>/dev/null || mktemp -t hook_resp_XXXX)
 # Each line in transcript is a JSON event. Look for the last "type":"assistant" event.
 # Pull its message.content (which may be string OR array of content blocks).
 if command -v jq >/dev/null 2>&1; then
-  # Sub-agent audit fix 2026-05-26 (Q.3 dogfood — found real bug):
-  # Previous `jq -r 'select(.type=="assistant") | ...' | tail -1000` did NOT isolate
-  # the LAST assistant entry — it iterated ALL assistant entries, concatenated their
-  # text, then took the last 1000 LINES of that concatenation. That's wrong: it could
-  # validate a mix of multiple responses.
-  # Correct idiom: `-rs` slurps all JSON entries into an array, then filter to
-  # assistant type and take `last` (the genuine final assistant message).
-  jq -rs '
-    [.[] | select(.type == "assistant")] | last |
+  # Get last assistant message's text content
+  jq -r '
+    select(.type == "assistant") |
     .message.content |
     if type == "string" then . else
       map(select(.type == "text") | .text) | join("\n")
     end
-  ' "$TRANSCRIPT_PATH" 2>/dev/null > "$TMP_RESPONSE"
+  ' "$TRANSCRIPT_PATH" 2>/dev/null | tail -1000 > "$TMP_RESPONSE"
 else
-  # Grep fallback — INHERENT LIMITATION: fails on escaped quotes inside text values
-  # (e.g., \" inside the content truncates the regex match). No clean fix without jq.
-  # Acceptable as documented fallback; jq path is preferred and is the install requirement.
+  # Fallback: grep for last assistant block; less precise but functional
   grep '"type":"assistant"' "$TRANSCRIPT_PATH" 2>/dev/null | tail -1 | \
     grep -oE '"text":"[^"]+"' | sed 's/^"text":"//;s/"$//' > "$TMP_RESPONSE"
 fi
