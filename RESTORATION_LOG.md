@@ -51,6 +51,33 @@
 
 ---
 
+## 🛡️ DISCIPLINE LAYER — How 110% Consistency Is Actually Enforced (EXECUTED 2026-06-03)
+
+**The honest root cause of every failure:** rules relied on *me to remember* them. Behavioral promises drift; mechanical guards hold. The cure is not "try harder" — it is to move every critical rule from **behavioral** (AI self-checks) to **mechanical** (a script/hook that cannot be reasoned around). Evidence from this session: every git-hook guard held; every self-graded Pulse Check drifted.
+
+**Two forcing functions built + TESTED this session** (wired into `.githooks/pre-commit`, blocking, can't bypass without `--no-verify`):
+
+| Guard | File | What it makes impossible | Test result |
+|-------|------|--------------------------|:-----------:|
+| **B — Checklist Gate** | `scripts/checklist_gate.sh` | Committing changes to protected working content (SOPs/agents/docs/caches) without a **CONFIRMED checklist (PER)** for the day. Makes Prime Stage 1 *relay→💠→execute* unskippable. | ✅ blocks w/o PER, passes w/ PER |
+| **A — No-Reduction Guard** | `scripts/no_reduction_guard.sh` | A protected file **shrinking** without a versioned backup. Mechanically prevents the compaction-of-working-content that "destroyed the SOP." | ✅ blocks naked reduction, allows w/ backup |
+
+Shared protected-paths definition: `scripts/protected_paths.sh` (working content only; the enforcement machinery, backups, PER/gate, and `research/` are never gated, so the system can't brick itself).
+
+**The enforcement ladder (the operating principle going forward):**
+
+| Tier | Mechanism | Reliability | Role |
+|:--:|---|:--:|---|
+| 🥇 Mechanical | script / git hook | ~100% for what it covers | Default for everything checkable by code |
+| 🥈 External | separate-context agent / different model audits | ~95% (breaks same-brain ceiling) | Judgment scripts can't make |
+| 🥉 Behavioral | AI self-check | ~80%, collapses under load | Courtesy only — never trusted alone |
+
+**"110%" is a system property, not a model behavior.** The model's raw output is ~95%; the hooks + separate-context audits convert that into ~100% *shipped* reliability by catching and blocking the gap. The extra 10% = the proactive agent layer (insight/debugger/enhancement/foresight) — real only when those agents run **externally**, not narrated.
+
+**Still to build (Phase 3–5):** the agent chain as *real separate-context invocations* (Karen / Validation / Scope / Master Pass) — tier 🥈, the part scripts can't cover. Until then, the two mechanical guards above are the floor.
+
+---
+
 ## 🗺️ RESTORATION MAP — Every Request → Sourced Action → Status
 
 Each row ties to Alan's verbatim ask. Nothing here is approximated; all depth is restored from `cache/legacy/PRIME_SOP.md` + `USER_PROMPTS_VERBATIM.md`.
@@ -102,4 +129,4 @@ Each row ties to Alan's verbatim ask. Nothing here is approximated; all depth is
 
 ---
 
-*RESTORATION_LOG.md v1.0 | Governs the rebuild back to Prime fidelity | Prime SOP v2.8 re-elevated to Layer 0 | 2026-06-03 (mac-main)*
+*RESTORATION_LOG.md v1.1 | Governs the rebuild back to Prime fidelity | Prime SOP v2.8 re-elevated to Layer 0 + Discipline layer executed (Guard A + Guard B) | 2026-06-03 (mac-main). Was v1.0.*

@@ -37,6 +37,29 @@ Every entry uses this format:
 ## 🪞 ACTIVE LEDGER (Migrated from RPT_LOG + Session 5 HFRs)
 
 <details>
+<summary><b>F.63 — Discipline Relied On The AI Remembering (Behavioral, Not Mechanical) → Working Content Got Compacted/Approximated [META-FAILURE, ✅ TIER-1 FIXED 2026-06-03 (mac-main)]</b></summary>
+
+- **Type:** META-FAILURE (the root pattern behind F.9, F.13, F.14, F.19 and the SOP-destruction Alan called out)
+- **First Observed:** Recurring across the project; named explicitly 2026-06-03 when Alan asked *"How to fix the discipline of 110% consistency and efficiency with precision, accuracy, fidelity, and quality"* — after the AI re-elevated the Prime (Phase 1) **without** first relaying back a checklist (violating the very protocol it claimed to restore).
+- **Times:** Chronic. Every behavioral rule ("remember to relay back", "don't approximate", "don't compact working content") drifted under load.
+- **Root Cause:**
+  - **Same brain audits itself** → self-checks are theater (can mark ✅ without rigor).
+  - **The AI is stateless** → a rule in a document only binds if it's actually re-read + honored; under "help them now" pressure it isn't.
+  - **Approximation/compaction is the cheap path** → working from an in-context summary is cheaper than opening the source, so the AI drifts to the summary and calls "reduce" an improvement.
+  - Proof: every *mechanical* guard built this project (pre-push, E2E, append-only) HELD; every *behavioral* promise (Pulse self-check, "relay back first") DRIFTED.
+- **Permanent Fix (Tier 1 — mechanical, EXECUTED + TESTED):**
+  1. **Guard B — Checklist Gate** (`scripts/checklist_gate.sh`): pre-commit blocks any change to protected working content without a `STATUS: CONFIRMED` PER for the day. Makes Prime Stage 1 (relay→💠→execute) unskippable at commit.
+  2. **Guard A — No-Reduction Guard** (`scripts/no_reduction_guard.sh`): pre-commit blocks a protected file shrinking without a versioned backup. Mechanically prevents compaction-of-working-content ("destroyed the SOP").
+  3. Shared `scripts/protected_paths.sh`; both wired into `.githooks/pre-commit` (blocking). Tested: block-on-violation + pass-on-compliance, no working files harmed.
+- **Permanent Fix (Tier 2 — STAGED, Phase 3–5):** the agent chain (Karen / Validation / Scope / Master Pass) as **real separate-context sub-agent invocations** — breaks the same-brain ceiling for the judgment scripts can't make.
+- **Fixed:** 2026-06-03 Tier 1. Tier 2 staged.
+- **Verified:** Guard A + Guard B unit-tested (block + allow paths); this commit dogfoods them live.
+- **Lesson:** You cannot make a probabilistic, stateless model "disciplined" by asking. You engineer the system so non-compliance is mechanically blocked or instantly caught. **Mechanical first; separate-intelligence for judgment; the AI's word last.** "110%" is a *system* property, never a model behavior.
+- **Standing rule:** BUILD, NEVER REDUCE. Get 100% success first; optimize later only by *referencing* depth (Door Scan caching), never *deleting* it.
+
+</details>
+
+<details>
 <summary><b>F.62 — Pre-Push E2E Gate Used GNU `timeout` (Absent On macOS) → Blocked Every mac-main Push [STRUCTURAL FIX 2026-06-03 (mac-main)]</b></summary>
 
 - **Type:** FAILURE (cross-device environment incompatibility)

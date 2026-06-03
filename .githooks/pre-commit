@@ -12,6 +12,26 @@ echo "🔒 PRE-COMMIT ENFORCEMENT"
 echo "================================================"
 echo ""
 
+# CHECK 0A — Checklist Gate (Guard B, discipline layer 2026-06-03) — BLOCKING
+# Ground zero: no protected working content commits without a CONFIRMED checklist (PER).
+if [ -f scripts/checklist_gate.sh ]; then
+  echo "🚦 Running Checklist Gate (Guard B)..."
+  if ! bash scripts/checklist_gate.sh; then
+    exit 1
+  fi
+  echo ""
+fi
+
+# CHECK 0B — No-Reduction Guard (Guard A, discipline layer 2026-06-03) — BLOCKING
+# Build, never reduce: protected files can't shrink without a versioned backup.
+if [ -f scripts/no_reduction_guard.sh ]; then
+  echo "🛡️ Running No-Reduction Guard (Guard A)..."
+  if ! bash scripts/no_reduction_guard.sh; then
+    exit 1
+  fi
+  echo ""
+fi
+
 # CHECK 1 — Append-only protection
 if [ -f scripts/append_only_check.sh ]; then
   echo "🛡️ Running append_only_check.sh..."
