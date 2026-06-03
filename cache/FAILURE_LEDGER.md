@@ -37,6 +37,29 @@ Every entry uses this format:
 ## 🪞 ACTIVE LEDGER (Migrated from RPT_LOG + Session 5 HFRs)
 
 <details>
+<summary><b>F.61 — safe_push.sh `git add -A` Swept Unrelated Work Into A Commit [FAILURE × 1, self-inflicted] — ✅ FIXED 2026-06-03 (mac-main)</b></summary>
+
+- **Type:** FAILURE (bug in code shipped same session as the F.18 push-wrapper)
+- **First Observed:** 2026-06-03 (mac-main) — committing SYSTEM_BRIEF.md via `safe_push.sh`. The script's blind `git add -A` swept in ~40 unrelated untracked files from a parallel CA-funding-research workflow (`research/`), including a **168MB .mp4** that GitHub's 100MB limit would reject and that would wedge the push. A concurrent network fetch failure initially masked it.
+- **Times:** 1 (flaw latent in every prior safe_push call — they happened to have no untracked junk)
+- **Root Cause:**
+  - `safe_push.sh` used `git add -A` for convenience. In a multi-device repo that accumulates unrelated untracked work, that couples "push my one change" to "commit literally everything."
+  - No large-file guard → a 168MB file was staged (GitHub rejects >100MB).
+  - No staged-file visibility → couldn't see what was being committed until after the fact.
+  - Irony: this wrapper was built (F.18) to make multi-device SAFER; its convenience shortcut made it less safe.
+- **Permanent Fix:**
+  1. **Explicit-path mode:** `safe_push.sh "msg" file1 file2` stages ONLY those paths (now the recommended form).
+  2. **Large-file guard:** scans for files >50MB before staging; aborts with a list + remediation (gitignore / scope / git-lfs).
+  3. **Staged-file visibility:** add -A mode prints every file it will commit + warns if >30 files staged.
+  4. **Recovery executed:** polluted commit undone via `git reset --mixed HEAD~1`; research/ files left untracked for separate handling.
+- **Fixed:** 2026-06-03 (same session observed)
+- **Verified:** Re-committed the brief via explicit-path mode — only the 4 intended files included; then rebased cleanly onto origin (which had advanced to F.60).
+- **Lesson:** Convenience defaults in a shared multi-device repo are dangerous. A push wrapper must default to *visible + scoped*, not *stage-everything*. Guard the irreversible (large files, broad staging) mechanically.
+- **Note on numbering:** Authored locally as "F.19" before pulling aurelia's 82-commit backlog; renumbered to **F.61** on rebase to avoid colliding with aurelia's existing F.19 (SOP compliance decay). Multi-device ID-collision case — see also the renumber discipline this implies for FAILURE_LEDGER.
+
+</details>
+
+<details>
 <summary><b>F.60 — Tool Dependencies (jq, realpath, timeout, curl) Not Verified at Bootstrap [STRUCTURAL FIX 2026-05-26]</b></summary>
 
 - **Type:** FAILURE (caught on aurelion 2026-05-26 02:23 CDT — Q.3 sub-agent dogfood of `output_stop_hook.sh` discovered `jq: command not found` despite hook script's jq-required `last-assistant` extraction path)

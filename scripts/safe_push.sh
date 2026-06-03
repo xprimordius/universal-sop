@@ -30,7 +30,13 @@ fi
 cd "$PROJECT_ROOT"
 
 COMMIT_MSG="${1:-}"
+shift || true
+EXPLICIT_PATHS=("$@")   # optional: paths to stage. If empty, falls back to add -A (guarded).
 BRANCH=$(git branch --show-current)
+
+# GitHub hard-rejects files >100MB; warn at 50MB. F.61 fix — a 168MB mp4 + unrelated
+# research/ work got swept into a brief commit by a blind `git add -A`.
+LARGE_FILE_MB=50
 
 echo "================================================"
 echo "🚀 SAFE PUSH — Multi-Device Coordination Wrapper"
@@ -39,11 +45,57 @@ echo "Branch: $BRANCH"
 echo "Device: $(git config user.name) <$(git config user.email)>"
 echo ""
 
+# --- Large-file guard (runs regardless of staging mode) ---
+guard_large_files() {
+  local scope_desc="$1"; shift
+  local big
+  # List candidate files (respect explicit paths if given, else all changes incl. untracked)
+  if [[ ${#EXPLICIT_PATHS[@]} -gt 0 ]]; then
+    big=$(find "${EXPLICIT_PATHS[@]}" -type f -size +${LARGE_FILE_MB}M 2>/dev/null)
+  else
+    # all tracked-modified + untracked, excluding ignored
+    big=$(git status --porcelain --untracked-files=all | sed 's/^...//' | while read -r f; do
+      [[ -f "$f" ]] && [[ $(find "$f" -size +${LARGE_FILE_MB}M 2>/dev/null) ]] && echo "$f"
+    done)
+  fi
+  if [[ -n "$big" ]]; then
+    echo "🚨 LARGE FILE GUARD — files over ${LARGE_FILE_MB}MB detected ($scope_desc):"
+    echo "$big" | while read -r f; do
+      [[ -n "$f" ]] && echo "   - $f ($(du -h "$f" 2>/dev/null | cut -f1))"
+    done
+    echo ""
+    echo "   GitHub rejects files >100MB. These would wedge the push."
+    echo "   Fix one of:"
+    echo "     • Add to .gitignore if they shouldn't be tracked"
+    echo "     • Stage ONLY intended files: bash scripts/safe_push.sh \"msg\" file1 file2"
+    echo "     • Use git-lfs for large media"
+    echo "   Aborting — nothing staged."
+    exit 1
+  fi
+}
+
 # --- Optional: stage + commit if message provided ---
 if [[ -n "$COMMIT_MSG" ]]; then
   if [[ -n "$(git status --porcelain)" ]]; then
-    echo "📝 Staging + committing local changes..."
-    git add -A
+    guard_large_files "pre-stage scan"
+    if [[ ${#EXPLICIT_PATHS[@]} -gt 0 ]]; then
+      echo "📝 Staging ONLY specified paths:"
+      printf '   + %s\n' "${EXPLICIT_PATHS[@]}"
+      git add -- "${EXPLICIT_PATHS[@]}"
+    else
+      echo "📝 No paths given — staging ALL changes (git add -A)."
+      echo "   Files that will be committed:"
+      git add -A
+      git diff --cached --name-only | sed 's/^/   + /'
+      # Safety: warn if a suspiciously large number of files are staged
+      STAGED_COUNT=$(git diff --cached --name-only | wc -l | tr -d ' ')
+      if [[ "$STAGED_COUNT" -gt 30 ]]; then
+        echo ""
+        echo "   ⚠️  $STAGED_COUNT files staged — that's a lot. If unintended, Ctrl-C now."
+        echo "      (To scope: git reset, then bash scripts/safe_push.sh \"msg\" <paths>)"
+      fi
+    fi
+    echo ""
     if ! git commit -m "$COMMIT_MSG"; then
       echo "❌ Commit failed (likely pre-commit hook). Fix and re-run."
       exit 1
