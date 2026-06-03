@@ -37,6 +37,29 @@ Every entry uses this format:
 ## 🪞 ACTIVE LEDGER (Migrated from RPT_LOG + Session 5 HFRs)
 
 <details>
+<summary><b>F.64 — The Discipline Guards (v1) Had 4 Bypass Holes — My Self-Tests Missed Them; A Separate-Context Master Pass Caught Them [STRUCTURAL FIX 2026-06-03 (mac-main)]</b></summary>
+
+- **Type:** FAILURE (the same-brain ceiling, demonstrated on the discipline layer itself)
+- **First Observed:** 2026-06-03 — immediately after shipping the F.63 guards. The Master Pass agent (run for real, separate context — chain step 8) reproduced 4 bypasses in throwaway repos.
+- **Times:** 1 (caught before reliance — the chain did its job)
+- **The 4 holes (all reproduced, not theorized):**
+  - **F1** No-Reduction Guard accepted ANY backup matching the filename anywhere (even a 1999 file) — proved "a backup named X exists," not "this reduction was backed up."
+  - **F2** No-Reduction Guard compared only non-blank LINE COUNT — gut-a-file-and-refill-with-junk (same count) passed invisibly. Line count ≠ substance (and F.63's whole thesis is substance loss).
+  - **F3** Checklist Gate passed if ANY confirmed PER existed that day — zero binding to the staged files. One PER unlocked everything.
+  - **F4** Checklist Gate treated AI-typed `STATUS: CONFIRMED` as user-confirmation — Tier 🥉 (behavioral self-check) dressed as Tier 🥇 (mechanical). The exact thing RESTORATION_LOG warns "collapses under load."
+- **Root Cause:** I wrote the guards AND their tests — same brain. My tests proved the happy path + a naive violation; they did not adversarially attack the guards. Only a context with no investment in my code (the Master Pass) thought to attack them.
+- **Permanent Fix (v2, EXECUTED + RE-TESTED):**
+  - Guard A v2: set-difference of content lines (kills F2) + backup must be *staged in this commit* with sha256 == HEAD's version (kills F1).
+  - Guard B v2: each staged protected file must be *named* in the PER (kills F3) + non-placeholder `CONFIRMED_BY:` required + honest doc that a local hook can't prove human 💠 (addresses F4).
+  - v1 guards backed up at `cache/backups/*_v1_*_pre-hardening_backup.sh` (never deleted).
+- **Fixed:** 2026-06-03 (same session, before any reliance on the guards).
+- **Verified:** All 4 attacks re-run against v2 → all BLOCK; legitimate work → PASS; no working files harmed.
+- **Lesson:** **The builder cannot adversarially test their own guard — a separate context must.** This is F.63's own principle, proven on F.63's own fix. Self-tests check "does it work"; a separate brain checks "how does it break." Both are needed; only the second beats the same-brain ceiling.
+- **Honest residual:** F4 is only *partially* mechanical — a local pre-commit hook fundamentally cannot prove a human said 💠. The guard enforces a *bound, attributed* checklist; the human-in-the-loop provides the actual confirmation. Don't overstate it as full Tier 🥇.
+
+</details>
+
+<details>
 <summary><b>F.63 — Discipline Relied On The AI Remembering (Behavioral, Not Mechanical) → Working Content Got Compacted/Approximated [META-FAILURE, ✅ TIER-1 FIXED 2026-06-03 (mac-main)]</b></summary>
 
 - **Type:** META-FAILURE (the root pattern behind F.9, F.13, F.14, F.19 and the SOP-destruction Alan called out)

@@ -64,6 +64,14 @@
 
 Shared protected-paths definition: `scripts/protected_paths.sh` (working content only; the enforcement machinery, backups, PER/gate, and `research/` are never gated, so the system can't brick itself).
 
+**🔬 PROOF THE CHAIN WORKS — Master Pass found 4 real holes in v1 (then fixed → v2):** A real separate-context Master Pass audit (2026-06-03) reproduced four bypasses my own self-tests missed — exactly the same-brain ceiling (F.63) the whole layer exists to escape. This is the integrity loop working:
+> - **F1** v1 accepted any backup matching the filename (even dated 1999) → **v2** requires a backup *staged in this commit* whose sha256 == HEAD's version.
+> - **F2** v1 counted only lines, so gut-and-refill (junk, same count) passed → **v2** uses *set-difference* of content lines (count-independent).
+> - **F3** v1 passed on any confirmed PER for the day → **v2** requires each staged protected file to be *named* in the PER (bound).
+> - **F4** v1 treated AI-typed `CONFIRMED` as user-confirmation → **v2** requires a non-placeholder `CONFIRMED_BY:` and *states honestly* a local hook can't prove a human said 💠 (it enforces a bound, attributed checklist; the human in the loop is the real confirmation).
+>
+> All four re-tested: v2 blocks every attack, passes legitimate work. v1 guards preserved at `cache/backups/*_v1_*_pre-hardening_backup.sh`. (F.64)
+
 **The enforcement ladder (the operating principle going forward):**
 
 | Tier | Mechanism | Reliability | Role |

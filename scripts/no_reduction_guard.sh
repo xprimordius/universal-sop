@@ -1,13 +1,19 @@
 #!/usr/bin/env bash
-# no_reduction_guard.sh — GUARD A of the discipline layer (2026-06-03, mac-main)
-# "BUILD, NEVER REDUCE." Blocks a commit that SHRINKS a protected working file
-# unless a versioned backup of that file exists. Mechanically prevents the
-# compaction-of-working-content failure ("you destroyed the SOP").
+# no_reduction_guard.sh — GUARD A of the discipline layer
+# v2 (HARDENED 2026-06-03, mac-main) — closes F1 + F2 found by the Master Pass audit.
+# v1 backed up at cache/backups/no_reduction_guard.sh_v1_*_pre-hardening_backup.sh
 #
-# Rule: for each staged protected file that already exists in HEAD, if the staged
-# version has fewer non-blank lines than HEAD (net reduction beyond 5% noise),
-# a backup matching the file's basename MUST exist in backups/ or cache/backups/.
-# No backup + reduction => BLOCK.
+# "BUILD, NEVER REDUCE." Blocks a commit that removes meaningful CONTENT from a
+# protected working file unless THIS commit also stages a backup whose content
+# exactly matches the pre-change (HEAD) version.
+#
+# v1 holes this fixes:
+#   F2 — v1 compared only non-blank LINE COUNTS, so gut-and-refill (replace real
+#        content with junk, same count) passed. v2 uses SET DIFFERENCE: how many of
+#        HEAD's actual content lines DISAPPEARED — count-preserving swaps are caught.
+#   F1 — v1 accepted ANY backup matching the filename anywhere (even a 1999 file).
+#        v2 requires a backup STAGED IN THIS COMMIT whose sha256 == sha256(HEAD:file),
+#        proving this exact prior state is preserved here, now.
 #
 # Exit 0 = pass. Exit 1 = block.
 
@@ -17,56 +23,74 @@ cd "$ROOT"
 # shellcheck source=/dev/null
 source scripts/protected_paths.sh
 
+REMOVAL_PCT_THRESHOLD=10   # block if >10% of HEAD's content lines disappear w/o a matched backup
+
+sha256() {
+  if command -v sha256sum >/dev/null 2>&1; then sha256sum | awk '{print $1}'
+  else shasum -a 256 | awk '{print $1}'; fi
+}
+
+# normalized content lines (trim trailing ws, drop blank lines), as a sorted unique set
+content_set() { sed 's/[[:space:]]*$//' | grep -vE '^[[:space:]]*$' | sort -u; }
+
+# Does THIS commit stage a backup file whose content == HEAD version of $1?
+staged_backup_matches() {
+  local target="$1" want b bsha
+  want=$(git show "HEAD:$target" 2>/dev/null | sha256)
+  while IFS= read -r b; do
+    [ -z "$b" ] && continue
+    case "$b" in backups/*|cache/backups/*) ;; *) continue ;; esac
+    bsha=$(git show ":$b" 2>/dev/null | sha256)
+    [ "$bsha" = "$want" ] && return 0
+  done < <(git diff --cached --name-only --diff-filter=ACMR 2>/dev/null)
+  return 1
+}
+
 VIOLATIONS=0
 REPORT=""
-
-nonblank() { grep -cve '^[[:space:]]*$' 2>/dev/null; }
-
-has_backup() {
-  # $1 = basename without extension; search backups/ + cache/backups/ for a matching *backup*
-  local stem="$1"
-  { ls backups/ 2>/dev/null; ls cache/backups/ 2>/dev/null; } \
-    | grep -iqE "${stem}.*backup|${stem}_v[0-9]"
-}
 
 while IFS= read -r f; do
   [ -z "$f" ] && continue
   is_protected "$f" || continue
-  # Only files that already exist in HEAD can be "reduced"
-  git cat-file -e "HEAD:$f" 2>/dev/null || continue
+  git cat-file -e "HEAD:$f" 2>/dev/null || continue   # only existing files can lose content
 
-  old=$(git show "HEAD:$f" 2>/dev/null | nonblank); old=${old:-0}
-  # staged content:
-  new=$(git show ":$f" 2>/dev/null | nonblank); new=${new:-0}
+  oldset=$(git show "HEAD:$f" 2>/dev/null | content_set)
+  newset=$(git show ":$f"    2>/dev/null | content_set)
+  old_count=$(printf '%s\n' "$oldset" | grep -cve '^$'); old_count=${old_count:-0}
+  [ "$old_count" -eq 0 ] && continue
 
-  # net reduction beyond 5% noise threshold
-  threshold=$(( old * 95 / 100 ))
-  if [ "$new" -lt "$threshold" ] && [ "$old" -gt 0 ]; then
-    base=$(basename "$f"); stem="${base%.*}"
-    if has_backup "$stem"; then
-      REPORT+="  ⚠️  $f shrank ${old}->${new} non-blank lines — backup found, ALLOWED (build-not-reduce: backup exists)\n"
+  # lines present in HEAD but GONE from the staged version (true content loss, count-independent)
+  removed=$(comm -23 <(printf '%s\n' "$oldset") <(printf '%s\n' "$newset") | grep -cve '^$'); removed=${removed:-0}
+  pct=$(( removed * 100 / old_count ))
+
+  if [ "$pct" -gt "$REMOVAL_PCT_THRESHOLD" ]; then
+    if staged_backup_matches "$f"; then
+      REPORT+="  ⚠️  $f — ${pct}% of content lines removed (${removed}/${old_count}) — matched backup STAGED this commit, ALLOWED\n"
     else
-      REPORT+="  ❌ $f shrank ${old}->${new} non-blank lines with NO versioned backup\n"
+      REPORT+="  ❌ $f — ${pct}% of HEAD content lines REMOVED (${removed}/${old_count}) with NO content-matched backup staged in this commit\n"
       VIOLATIONS=$((VIOLATIONS+1))
     fi
   fi
 done < <(git diff --cached --name-only --diff-filter=ACMR 2>/dev/null)
 
 if [ "$VIOLATIONS" -gt 0 ]; then
-  echo "🛑 NO-REDUCTION GUARD (Guard A) — BLOCKED"
+  echo "🛑 NO-REDUCTION GUARD (Guard A v2) — BLOCKED"
   echo "================================================"
   printf "%b" "$REPORT"
   echo ""
-  echo "BUILD, NEVER REDUCE. A protected working file lost content with no backup."
+  echo "BUILD, NEVER REDUCE. Meaningful content left a protected file with no proof the"
+  echo "prior state is preserved IN THIS COMMIT."
   echo "Fix one of:"
-  echo "  • Back it up first:  cp <file> backups/<name>_v<n>_$(date +%Y%m%d_%H%M)_<device>_<reason>_backup.<ext>"
-  echo "  • If the reduction is wrong (you compacted working content) — restore it."
-  echo "  • Intentional + backed up — re-run; the guard allows it once a backup exists."
-  echo "  • Emergency override (discouraged, audited):  git commit --no-verify"
+  echo "  • Stage a content-exact backup in THIS commit:"
+  echo "      git show HEAD:<file> > backups/<name>_v<n>_$(date +%Y%m%d_%H%M)_<device>_<reason>_backup.<ext>"
+  echo "      git add backups/<that file>"
+  echo "    (its sha256 must equal HEAD's version of <file> — a stale/old backup will NOT satisfy v2)"
+  echo "  • If the removal is wrong (you compacted working content) — restore it."
+  echo "  • Emergency override (untraceable locally — declare an HFR in the commit msg):  git commit --no-verify"
   echo "================================================"
   exit 1
 fi
 
-[ -n "$REPORT" ] && { echo "🛡️ Guard A (No-Reduction): reductions present but backed up —"; printf "%b" "$REPORT"; }
-echo "✅ Guard A (No-Reduction): no naked reductions of protected files."
+[ -n "$REPORT" ] && { echo "🛡️ Guard A v2 (No-Reduction): content removed but content-matched backup staged —"; printf "%b" "$REPORT"; }
+echo "✅ Guard A v2 (No-Reduction): no protected content removed without a staged content-matched backup."
 exit 0
