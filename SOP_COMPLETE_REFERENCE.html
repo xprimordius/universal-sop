@@ -3,1465 +3,812 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Universal Output SOP v1.3 — Complete Reference</title>
+<title>Universal Output SOP — Complete Reference (Live)</title>
 <style>
-  :root {
-    --bg: #fafafa;
-    --surface: #ffffff;
-    --surface-2: #f4f4f5;
-    --border: #e5e7eb;
-    --text: #111827;
-    --text-muted: #6b7280;
-    --text-dim: #9ca3af;
-    --blue: #3B82F6;
-    --blue-bg: #DBEAFE;
-    --green: #10B981;
-    --green-bg: #D1FAE5;
-    --orange: #F97316;
-    --orange-bg: #FFEDD5;
-    --purple: #A855F7;
-    --purple-bg: #F3E8FF;
-    --grey: #6B7280;
-    --grey-bg: #F3F4F6;
-    --red: #EF4444;
-    --red-bg: #FEE2E2;
-    --amber: #F59E0B;
-    --amber-bg: #FEF3C7;
-    --teal: #14B8A6;
-    --teal-bg: #CCFBF1;
-    --shadow: 0 1px 3px rgba(0,0,0,0.06);
-    --shadow-lg: 0 4px 12px rgba(0,0,0,0.08);
+  :root{
+    --bg:#0f1115; --panel:#171a21; --panel2:#1e222b; --ink:#e6e9ef; --muted:#9aa3b2;
+    --line:#2a2f3a; --accent:#5b9bff; --green:#3fb950; --yellow:#d29922; --red:#f85149;
+    --purple:#bc8cff; --chip:#262b36;
   }
-  * { box-sizing: border-box; }
-  html { scroll-behavior: smooth; }
-  body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', system-ui, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.6;
-    font-size: 15px;
-  }
-  .layout {
-    display: grid;
-    grid-template-columns: 280px 1fr;
-    min-height: 100vh;
-  }
-  nav.toc {
-    background: var(--surface);
-    border-right: 1px solid var(--border);
-    padding: 28px 20px;
-    position: sticky;
-    top: 0;
-    height: 100vh;
-    overflow-y: auto;
-    font-size: 14px;
-  }
-  nav.toc h2 {
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--text-muted);
-    margin: 0 0 12px;
-    font-weight: 600;
-  }
-  nav.toc ul {
-    list-style: none; padding: 0; margin: 0 0 24px;
-  }
-  nav.toc li { margin: 3px 0; }
-  nav.toc a {
-    display: block;
-    padding: 5px 10px;
-    border-radius: 6px;
-    color: var(--text);
-    text-decoration: none;
-    font-size: 13.5px;
-    transition: background 0.15s;
-  }
-  nav.toc a:hover { background: var(--bg); color: var(--blue); }
-  nav.toc .meta {
-    font-size: 11px;
-    color: var(--text-muted);
-    padding: 12px 10px;
-    border-top: 1px solid var(--border);
-    margin-top: 16px;
-    line-height: 1.5;
-  }
-  main {
-    padding: 40px 56px 100px;
-    max-width: 1100px;
-  }
-  header.hero {
-    margin-bottom: 36px;
-    padding-bottom: 24px;
-    border-bottom: 1px solid var(--border);
-  }
-  header.hero h1 {
-    margin: 0 0 8px;
-    font-size: 34px;
-    letter-spacing: -0.02em;
-    font-weight: 700;
-  }
-  header.hero p.lede {
-    margin: 0 0 16px;
-    color: var(--text-muted);
-    font-size: 17px;
-    line-height: 1.5;
-  }
-  .toolbar {
-    display: flex;
-    gap: 12px;
-    margin-top: 20px;
-    flex-wrap: wrap;
-  }
-  .btn {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 8px 14px;
-    font-size: 13px;
-    cursor: pointer;
-    color: var(--text);
-    transition: all 0.15s;
-    font-family: inherit;
-  }
-  .btn:hover { background: var(--bg); border-color: var(--blue); color: var(--blue); }
-  .btn.primary {
-    background: var(--blue); color: white; border-color: var(--blue);
-  }
-  .btn.primary:hover { background: #2563EB; color: white; }
-  input.search {
-    flex: 1;
-    min-width: 220px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 8px 14px;
-    font-size: 14px;
-    font-family: inherit;
-  }
-  input.search:focus { outline: none; border-color: var(--blue); box-shadow: 0 0 0 3px rgba(59,130,246,0.1); }
-
-  section.cat {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 0;
-    margin-bottom: 24px;
-    box-shadow: var(--shadow);
-    overflow: hidden;
-  }
-  section.cat > h2 {
-    margin: 0;
-    padding: 22px 28px;
-    font-size: 20px;
-    letter-spacing: -0.01em;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    border-bottom: 1px solid var(--border);
-    background: var(--surface-2);
-  }
-  section.cat .body { padding: 24px 28px; }
-  section.cat p.lede {
-    color: var(--text-muted);
-    margin: 0 0 18px;
-    font-size: 14.5px;
-  }
-
-  details {
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 0;
-    margin: 10px 0;
-    background: var(--surface);
-    transition: all 0.15s;
-  }
-  details[open] {
-    box-shadow: var(--shadow);
-  }
-  summary {
-    cursor: pointer;
-    padding: 12px 16px;
-    font-weight: 500;
-    user-select: none;
-    list-style: none;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    font-size: 14.5px;
-  }
-  summary::-webkit-details-marker { display: none; }
-  summary::before {
-    content: '▸';
-    font-size: 12px;
-    color: var(--text-muted);
-    transition: transform 0.15s;
-    display: inline-block;
-  }
-  details[open] > summary::before { transform: rotate(90deg); }
-  details .content {
-    padding: 8px 16px 16px 30px;
-    border-top: 1px solid var(--border);
-    color: var(--text);
-    font-size: 14px;
-    line-height: 1.6;
-  }
-  details .content p { margin: 8px 0; }
-  details .content table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 12px 0;
-    font-size: 13.5px;
-  }
-  details .content th, details .content td {
-    text-align: left;
-    padding: 8px 12px;
-    border-bottom: 1px solid var(--border);
-  }
-  details .content th {
-    background: var(--surface-2);
-    font-weight: 600;
-    color: var(--text-muted);
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-  }
-  details .content code {
-    background: var(--surface-2);
-    padding: 1px 6px;
-    border-radius: 4px;
-    font-size: 12.5px;
-    font-family: 'SF Mono', Monaco, 'Cascadia Code', monospace;
-    color: var(--text);
-  }
-  details .content ul { padding-left: 20px; margin: 8px 0; }
-  details .content li { margin: 4px 0; }
-
-  .chip {
-    display: inline-flex;
-    align-items: center;
-    padding: 2px 10px;
-    border-radius: 999px;
-    font-size: 11.5px;
-    font-weight: 600;
-    color: white;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-  }
-  .chip.blue { background: var(--blue); }
-  .chip.green { background: var(--green); }
-  .chip.orange { background: var(--orange); }
-  .chip.purple { background: var(--purple); }
-  .chip.grey { background: var(--grey); }
-  .chip.red { background: var(--red); }
-  .chip.amber { background: var(--amber); color: #78350F; }
-  .chip.teal { background: var(--teal); }
-  .chip.dashed {
-    background: var(--surface-2);
-    color: var(--text-muted);
-    border: 1px dashed var(--text-dim);
-  }
-  .chip.star {
-    background: linear-gradient(135deg, #FBBF24, #F59E0B);
-    color: #78350F;
-  }
-
-  .timeline {
-    position: relative;
-    padding-left: 30px;
-    margin: 16px 0;
-  }
-  .timeline::before {
-    content: '';
-    position: absolute;
-    left: 8px;
-    top: 0;
-    bottom: 0;
-    width: 2px;
-    background: var(--border);
-  }
-  .timeline-item {
-    position: relative;
-    padding: 8px 0 8px 18px;
-  }
-  .timeline-item::before {
-    content: '';
-    position: absolute;
-    left: -27px;
-    top: 14px;
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    background: var(--blue);
-    border: 2px solid var(--bg);
-    box-shadow: 0 0 0 1px var(--border);
-  }
-  .timeline-item.green::before { background: var(--green); }
-  .timeline-item.orange::before { background: var(--orange); }
-  .timeline-item.red::before { background: var(--red); }
-  .timeline-item.purple::before { background: var(--purple); }
-  .timeline-date {
-    font-size: 12px;
-    color: var(--text-muted);
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-  }
-  .timeline-title { font-weight: 600; margin: 2px 0 4px; }
-  .timeline-detail { font-size: 13.5px; color: var(--text-muted); }
-
-  .stat-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-    gap: 12px;
-    margin: 16px 0;
-  }
-  .stat-card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 12px 14px;
-  }
-  .stat-label {
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: var(--text-muted);
-    font-weight: 600;
-  }
-  .stat-value {
-    font-size: 22px;
-    font-weight: 700;
-    margin-top: 4px;
-  }
-
-  .key { background: var(--green-bg); padding: 1px 6px; border-radius: 4px; color: #065F46; font-weight: 600; }
-  .star::before { content: '⭐ '; }
-
-  @media (max-width: 1000px) {
-    .layout { grid-template-columns: 1fr; }
-    nav.toc { position: static; height: auto; border-right: none; border-bottom: 1px solid var(--border); }
-    main { padding: 24px; }
-  }
-
-  @media print {
-    nav.toc { display: none; }
-    .toolbar { display: none; }
-    .layout { grid-template-columns: 1fr; }
-    details[open] { box-shadow: none; }
-    section.cat { box-shadow: none; break-inside: avoid; }
-  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  a{color:var(--accent)}
+  header.top{position:sticky;top:0;z-index:50;background:linear-gradient(180deg,#141821,#10131a);
+    border-bottom:1px solid var(--line);padding:14px 20px}
+  header.top h1{margin:0 0 4px;font-size:18px;letter-spacing:.2px}
+  header.top .sub{color:var(--muted);font-size:12.5px;margin-bottom:10px}
+  .controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  #search{flex:1;min-width:220px;background:var(--panel2);border:1px solid var(--line);color:var(--ink);
+    padding:9px 12px;border-radius:8px;font-size:14px}
+  .btn{background:var(--chip);border:1px solid var(--line);color:var(--ink);padding:8px 12px;border-radius:8px;
+    cursor:pointer;font-size:13px;white-space:nowrap}
+  .btn:hover{border-color:var(--accent);color:#fff}
+  .wrap{max-width:1100px;margin:0 auto;padding:22px 20px 120px}
+  nav.toc{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin:18px 0 26px}
+  nav.toc h2{margin:0 0 8px;font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+  nav.toc ol{margin:0;padding-left:20px;columns:2;column-gap:30px}
+  nav.toc li{margin:3px 0}
+  section.block{margin:30px 0;scroll-margin-top:130px}
+  section.block > h2{font-size:20px;border-bottom:2px solid var(--line);padding-bottom:8px;margin-bottom:6px}
+  section.block > .lead{color:var(--muted);margin:0 0 14px;font-size:14px}
+  section.block h3{color:var(--muted);font-size:14px;margin:18px 0 6px}
+  details{background:var(--panel);border:1px solid var(--line);border-radius:10px;margin:9px 0;overflow:hidden}
+  details[open]{border-color:#33405a}
+  summary{cursor:pointer;padding:12px 16px;font-weight:600;list-style:none;display:flex;gap:10px;align-items:flex-start}
+  summary::-webkit-details-marker{display:none}
+  summary:hover{background:var(--panel2)}
+  summary .id{color:var(--accent);font-family:ui-monospace,Menlo,monospace;font-size:13px;flex:none;min-width:64px}
+  summary .ttl{flex:1}
+  summary .tag{font-size:11px;color:var(--muted);border:1px solid var(--line);border-radius:20px;padding:2px 9px;flex:none;align-self:center}
+  .body{padding:4px 18px 16px;border-top:1px solid var(--line)}
+  .body table{border-collapse:collapse;width:100%;margin:10px 0;font-size:13.5px}
+  .body th,.body td{border:1px solid var(--line);padding:6px 9px;text-align:left;vertical-align:top}
+  .body th{background:var(--panel2);color:var(--muted)}
+  .body pre{background:#0b0d12;border:1px solid var(--line);border-radius:8px;padding:12px;overflow:auto;
+    font:12.5px/1.5 ui-monospace,Menlo,Consolas,monospace;color:#cdd6e4}
+  .body code{background:#0b0d12;border:1px solid var(--line);border-radius:4px;padding:1px 5px;font-family:ui-monospace,Menlo,monospace;font-size:12.5px}
+  .body ul{margin:8px 0;padding-left:20px}
+  .body li{margin:3px 0}
+  .kv{display:grid;grid-template-columns:130px 1fr;gap:4px 12px;margin:8px 0;font-size:13.5px}
+  .kv .k{color:var(--muted)}
+  .pill{display:inline-block;font-size:11px;padding:1px 8px;border-radius:20px;border:1px solid var(--line)}
+  .green{color:var(--green);border-color:#1c3d24}.yellow{color:var(--yellow);border-color:#3d3115}.red{color:var(--red);border-color:#3d1d1c}
+  .purple{color:var(--purple)}
+  .warn{background:#241a12;border:1px solid #4a3417;border-radius:10px;padding:12px 16px;margin:12px 0;font-size:13.5px}
+  .warn b{color:var(--yellow)}
+  .crit{background:#251315;border:1px solid #5a2326;border-radius:10px;padding:12px 16px;margin:12px 0;font-size:13.5px}
+  .crit b{color:var(--red)}
+  .count{font-size:12px;color:var(--muted);margin-left:6px}
+  .hidden{display:none!important}
+  mark{background:#5b9bff44;color:#fff;border-radius:3px}
+  .legend{font-size:12px;color:var(--muted);margin-top:4px}
+  footer{color:var(--muted);font-size:12px;border-top:1px solid var(--line);margin-top:40px;padding-top:16px}
 </style>
 </head>
 <body>
+<header class="top">
+  <h1>🗺️ Universal Output SOP — Complete Reference <span style="color:var(--green);font-size:12px">● LIVE 2026-06-03</span></h1>
+  <div class="sub">Every stage · protocol · agent · prime-SOP · D-rule · failure — full content, expand/collapse, searchable. Built from a live 4-agent read of the on-disk system. <span class="purple">Current state (24 SubSOPs · 13 agents · F.62), not a summary.</span></div>
+  <div class="controls">
+    <input id="search" type="search" placeholder="🔎 Search everything (e.g. 'pulse check', 'SP.18', 'token', 'Chiron', 'D19')…" oninput="doSearch(this.value)">
+    <button class="btn" onclick="expandAll()">⊕ Expand all</button>
+    <button class="btn" onclick="collapseAll()">⊖ Collapse all</button>
+    <button class="btn" onclick="clearSearch()">✕ Clear</button>
+  </div>
+  <div id="searchinfo" class="legend"></div>
+</header>
 
-<div class="layout">
+<div class="wrap">
 
 <nav class="toc">
-  <h2>Table of Contents</h2>
-  <ul>
-    <li><a href="#quick">🎯 Quick Start</a></li>
-    <li><a href="#timeline">📅 Project Timeline</a></li>
-    <li><a href="#architecture">🏗️ Architecture</a></li>
-    <li><a href="#rulebook">📋 The Rulebook</a></li>
-    <li><a href="#subsops">🧩 16 SubSOPs</a></li>
-    <li><a href="#ensurance">🛡️ 4 Ensurance</a></li>
-    <li><a href="#agents">🤖 Agent System</a></li>
-    <li><a href="#cache">🗄️ Cache + Append-Only</a></li>
-    <li><a href="#enforcement">⚙️ Enforcement Layer</a></li>
-    <li><a href="#multidevice">🖥️ Multi-Device</a></li>
-    <li><a href="#failures">🪞 Failure Ledger (F.1–F.19)</a></li>
-    <li><a href="#fusions">🔀 Fusions History</a></li>
-    <li><a href="#quickref">📖 Quick Reference</a></li>
-    <li><a href="#glossary">🏷️ Glossary</a></li>
-    <li><a href="#inventory">📁 File Inventory</a></li>
-  </ul>
-  <div class="meta">
-    <strong>SOP_COMPLETE_REFERENCE.html</strong><br>
-    Universal Output SOP v1.3<br>
-    Device: aurelia<br>
-    Generated: 2026-05-21<br>
-    Commit: dc12851<br><br>
-    Click any item to expand.<br>
-    Press <code>Ctrl+F</code> to search.
-  </div>
+  <h2>Jump to</h2>
+  <ol>
+    <li><a href="#read">⚠️ Read me first (why it feels broken)</a></li>
+    <li><a href="#model">🗺️ Mental model + layer cake</a></li>
+    <li><a href="#sequence">🔄 The operating sequence (current)</a></li>
+    <li><a href="#stages">📋 The 6 stages (full SOP)</a></li>
+    <li><a href="#protocols">🧩 All protocols SP.1–SP.24</a></li>
+    <li><a href="#ensurance">🛡️ Ensurance EN.1–EN.4</a></li>
+    <li><a href="#output">📊 The output format (templates)</a></li>
+    <li><a href="#token">💰 The token system (TTE)</a></li>
+    <li><a href="#pulse">✅ The Pulse Check (the broken checklist)</a></li>
+    <li><a href="#agents">🤖 The agents (13 active)</a></li>
+    <li><a href="#refine">🔬 REFINE self-improvement cluster</a></li>
+    <li><a href="#prime">📜 Prime + Bridge SOPs (legacy)</a></li>
+    <li><a href="#drules">📏 The 32 D-rules</a></li>
+    <li><a href="#timeline">📅 Evolution timeline</a></li>
+    <li><a href="#ledger">🪞 Failure ledger (F.1–F.62)</a></li>
+    <li><a href="#scripts">⚙️ Scripts + hooks</a></li>
+    <li><a href="#contradictions">🚨 Known contradictions</a></li>
+    <li><a href="#glossary">📖 Glossary</a></li>
+  </ol>
 </nav>
 
-<main>
-  <header class="hero">
-    <h1>🌐 Universal Output SOP v1.3</h1>
-    <p class="lede">Complete reference. Every category. Every protocol. Every agent. Every script. Every failure. Every fix. Click to expand.</p>
-    <div class="toolbar">
-      <input type="text" class="search" id="search" placeholder="🔍 Filter by keyword (real-time)..." oninput="filterAll(this.value)">
-      <button class="btn primary" onclick="expandAll()">Expand all</button>
-      <button class="btn" onclick="collapseAll()">Collapse all</button>
-      <button class="btn" onclick="window.print()">Print / PDF</button>
-    </div>
-  </header>
+<section class="block" id="read">
+  <h2>⚠️ Read me first — why it feels broken</h2>
+  <p class="lead">You said "the checklist is broken, the token count is broken." You're right, and here's the honest mechanical reason: <b>the system exists in two parallel forms that disagree with each other</b>, and several counters were never reconciled across 80+ commits from 3 devices.</p>
 
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- QUICK START -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="quick">
-    <h2>🎯 Quick Start</h2>
-    <div class="body">
-      <p class="lede">Three things to know.</p>
-      <div class="stat-grid">
-        <div class="stat-card"><div class="stat-label">Active rulebook</div><div class="stat-value">v1.3</div></div>
-        <div class="stat-card"><div class="stat-label">SubSOPs</div><div class="stat-value">16</div></div>
-        <div class="stat-card"><div class="stat-label">Ensurance</div><div class="stat-value">4</div></div>
-        <div class="stat-card"><div class="stat-label">Active agents</div><div class="stat-value">5</div></div>
-        <div class="stat-card"><div class="stat-label">Scripts</div><div class="stat-value">11</div></div>
-        <div class="stat-card"><div class="stat-label">Failure entries</div><div class="stat-value">F.1–F.19</div></div>
-        <div class="stat-card"><div class="stat-label">Devices</div><div class="stat-value">mac-main, aurelia</div></div>
-        <div class="stat-card"><div class="stat-label">Bootstrap verify</div><div class="stat-value">79/0/0 ✅</div></div>
-      </div>
-      <details>
-        <summary>What is the Universal SOP?</summary>
-        <div class="content">
-          <p>A portable prompt + supporting files that force any Claude session (chat or Code) to produce traceable, accurate, auditable output every time. It evolved from the APW (Ascend Prime Wealth) course-building project — when course-building demanded reliability, the SOP got built. The SOP is now mechanically complete and shippable (MIT licensed) as <code>STANDALONE_SOP.md</code>.</p>
-        </div>
-      </details>
-      <details>
-        <summary>What problem does it solve?</summary>
-        <div class="content">
-          <p>Three failure modes the SOP prevents:</p>
-          <ul>
-            <li><strong>Compliance decay over a long session</strong> — without anti-decay (EN.1-EN.4), outputs lose required sections by output #4-6.</li>
-            <li><strong>Fabrication + theatre</strong> — without honest-numbers enforcement (P1 + N/M marker), AI invents specific times, percentages, etc.</li>
-            <li><strong>Rubber-stamping</strong> — without QC + Meta-Verifier, the audit layer claims PASS without actually verifying.</li>
-          </ul>
-          <p>Per <span class="chip red">F.19</span> (the meta-failure): rules implemented as <em>conventions</em> decay. Rules implemented as <em>architecture</em> (scripts + hooks + sub-agents) hold.</p>
-        </div>
-      </details>
-      <details>
-        <summary>Where do I start?</summary>
-        <div class="content">
-          <table>
-            <tr><th>If you are…</th><th>Read first</th></tr>
-            <tr><td>An AI session bootstrapping</td><td><code>SESSION_START.md</code> → then run <code>bash scripts/bootstrap_verify.sh</code></td></tr>
-            <tr><td>A human exploring the system visually</td><td><code>SOP_MAP.html</code> (6 rendered diagrams) — or this file</td></tr>
-            <tr><td>A new device first-time setup</td><td><code>SESSION_START.md</code> + <code>DEVICE_REGISTRY.md</code> + <code>bash scripts/setup_device.sh &lt;name&gt;</code></td></tr>
-            <tr><td>An external (non-Alan) consumer</td><td><code>STANDALONE_SOP.md</code> (MIT, self-contained)</td></tr>
-            <tr><td>Producing an actual output</td><td><code>MANDATORY_TIGHT_LOOP.md</code> (the reduced operational ruleset)</td></tr>
-          </table>
-        </div>
-      </details>
-    </div>
-  </section>
+  <div class="crit">
+    <b>The core problem in one sentence:</b> There is a <b>heavy form</b> (<code>UNIVERSAL_SOP_PROMPT.md</code> v1.3 — 6 stages, 16 SubSOPs, 10-item Pulse Check) and a <b>trimmed form</b> (<code>MANDATORY_TIGHT_LOOP.md</code> v1.7 — 5 mandatory SubSOPs, 5-item Pulse Check). The trimmed form is what the AI is supposed to actually run. But the two were edited by different devices at different times and now contradict each other on the Pulse Check count, the token thresholds, the protocol count, and which block comes last.
+  </div>
 
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- PROJECT TIMELINE -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="timeline">
-    <h2>📅 Project Timeline</h2>
-    <div class="body">
-      <p class="lede">From APW course-build origin → Universal SOP v1.3 → multi-device shippable system. 70+ days.</p>
-      <div class="timeline">
-        <div class="timeline-item green">
-          <div class="timeline-date">March 13–15, 2026</div>
-          <div class="timeline-title">APW course-build foundation</div>
-          <div class="timeline-detail">SOP v2.x → v3.9.2. 12 stages, 32 D-rules, 126 prompt items. Active caches: APW_MASTER_CACHE, BUILD_STATE, SCIO_KNOWLEDGE, PROGRAM_DETAILS, USER_FOUNDATION, TOKEN_BUDGET_LOG. Agents: Jenny, Oversight, Cache Manager, Validator, Karen, Paradox Resolver, Simplicity, SOP Compliance Checker (8 active).</div>
-        </div>
-        <div class="timeline-item blue">
-          <div class="timeline-date">March 31, 2026</div>
-          <div class="timeline-title">Universal SOP v1.0 born</div>
-          <div class="timeline-detail">Alan: "Export me a prompt that will allow for a new chat to have the token & caching SOP." v1.0 → v1.2 across 9 rounds. Final session compacted at ~140K+ tokens.</div>
-        </div>
-        <div class="timeline-item blue">
-          <div class="timeline-date">April 1, 2026</div>
-          <div class="timeline-title">SOP v1.2 → v1.3 + Ensurance System</div>
-          <div class="timeline-detail">Added EN.1 Output Skeleton + EN.2 Priority 10 + EN.3 Checkpoint Cycle + EN.4 Pulse Check. Built NEW_HIRE_GUIDE.md + REPLICATION_KIT.md. Cache consolidated 5 → 3 files. Time-per-step marked N/M (honest, not fabricated).</div>
-        </div>
-        <div class="timeline-item purple">
-          <div class="timeline-date">April 16, 2026</div>
-          <div class="timeline-title">External consulting docs</div>
-          <div class="timeline-detail">Built 4 docs for outside Claude chats consulting on the project: CONSULTING_BRIEF.md, PROJECT_HISTORY.md, CHALLENGES_LOG.md, USER_PROFILE.md. Modular approach (4 docs vs 1 mega-doc) chosen to limit context-load on fresh chats.</div>
-        </div>
-        <div class="timeline-item orange">
-          <div class="timeline-date">May 18, 2026</div>
-          <div class="timeline-title">GitHub repo PRIVATE + cross-device infra</div>
-          <div class="timeline-detail">Pushed to <code>xprimordius/universal-sop</code> as PRIVATE. Installed <code>gh</code> CLI v2.92.0. Built <code>README.md</code> + <code>SESSION_START.md</code> as official entry points. CLAUDE.md updated to redirect to SESSION_START.</div>
-        </div>
-        <div class="timeline-item red">
-          <div class="timeline-date">May 21, 2026 (Session 5 — most active in project history)</div>
-          <div class="timeline-title">Mass consolidation + 8 fusions + STANDALONE shipped</div>
-          <div class="timeline-detail">F1 (historical SOPs → cache/legacy/), F2 (APW caches → legacy), F4 (Controller fusion from Oversight + Cache Manager), F5 (Jenny archived), F7 (Wrap-Up cluster), F8 (FAILURE_LEDGER unified RPT + HFR), F10 (TTE + LTM Token System), F11 (Visual System). Active cache 14 → 5. Active agents 7 → 4. STANDALONE_SOP.md built + MIT-licensed + validated ~95% cross-model portable. 14 sub-agent tests, peak friction 2/10 (PROJECT RECORD).</div>
-        </div>
-        <div class="timeline-item red">
-          <div class="timeline-date">May 21 evening (continued)</div>
-          <div class="timeline-title">F.13 macro/micro + F.14 scripts + F.15 device registry + F.16 hooks + F.17 boot-up + F.18 safe-push</div>
-          <div class="timeline-detail">Mac-main built: DEVICE_REGISTRY.md, scripts/{setup_device, append_only_check, check_device_activity, compliance_check, consistency_check}.sh, .githooks/{pre-commit, pre-push}, bootstrap_verify.sh (70 checks), safe_push.sh, MASTER_CONTINUATION_PROMPT.md.</div>
-        </div>
-        <div class="timeline-item green">
-          <div class="timeline-date">May 21, ~5pm CDT (Day-1 setup on aurelia, this device)</div>
-          <div class="timeline-title">aurelia device setup + UNIVERSAL BACKUP RULE codified</div>
-          <div class="timeline-detail">Windows Strix Halo registered as <code>aurelia</code>. Universal backup rule codified per Alan's "/remember" — no deletion + backup BEFORE every modification + timestamped filename + device hostname in filename. Multi-device hardening shipped.</div>
-        </div>
-        <div class="timeline-item green">
-          <div class="timeline-date">May 21, ~7-9pm CDT (this Session 6)</div>
-          <div class="timeline-title">F.19 META-FAILURE + agent-chain rebuild</div>
-          <div class="timeline-detail">Diagnosis: SOP keeps failing to enforce itself because it's a discipline system asked to do an architecture job. Tier 1 (scope reduction) + Tier 1 follow-up (compliance_check.sh 5/5) + full agent-chain rebuild: Verifier → Validator → QC → Meta-Verifier (closes "who verifies the verifier" gap). 3 APW-era agents archived via git mv. Bootstrap verify: 70 → 79 checks.</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- ARCHITECTURE -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="architecture">
-    <h2>🏗️ Architecture — 6 Layers + Mechanical Enforcement</h2>
-    <div class="body">
-      <p class="lede">See <code>SOP_MAP.html</code> for rendered diagrams. Color legend:</p>
-      <p>
-        <span class="chip blue">Bootstrap</span>
-        <span class="chip green">Rulebook</span>
-        <span class="chip orange">Protocols</span>
-        <span class="chip purple">Agents</span>
-        <span class="chip grey">Cache</span>
-        <span class="chip red">Enforcement</span>
-        <span class="chip dashed">Legacy</span>
-      </p>
-      <details open>
-        <summary>The 6-layer flow</summary>
-        <div class="content">
-          <table>
-            <tr><th>Layer</th><th>Purpose</th><th>Key files</th></tr>
-            <tr><td><span class="chip blue">1. Bootstrap</span></td><td>Entry point + session start</td><td><code>SESSION_START.md</code>, <code>CLAUDE.md</code>, <code>MANDATORY_TIGHT_LOOP.md</code>, <code>MULTI_DEVICE_GIT_PROTOCOL.md</code></td></tr>
-            <tr><td><span class="chip green">2. Rulebook</span></td><td>The actual rules</td><td><code>UNIVERSAL_SOP_PROMPT.md</code>, <code>STANDALONE_SOP.md</code>, <code>PROTOCOLS_REFERENCE.md</code></td></tr>
-            <tr><td><span class="chip orange">3. Protocols</span></td><td>16 SubSOPs + 4 Ensurance</td><td>Defined in <code>UNIVERSAL_SOP_PROMPT.md</code>; documented in <code>PROTOCOLS_REFERENCE.md</code></td></tr>
-            <tr><td><span class="chip purple">4. Agents</span></td><td>5-layer chain (Controller + V/VL/QC/MV)</td><td><code>agents/{controller,verifier,validator,qc,meta_verifier}.md</code></td></tr>
-            <tr><td><span class="chip grey">5. Cache</span></td><td>Active state + append-only history</td><td><code>cache/{SESSION_STATE,CONTINUATION,BACKUP_LOG,FAILURE_LEDGER,BOOTSTRAP_CHECK,META_AUDIT_LOG}.md</code></td></tr>
-            <tr><td><span class="chip red">6. Enforcement</span></td><td>Scripts + git hooks (mechanical)</td><td><code>scripts/*.sh</code> + <code>.githooks/{pre-commit,pre-push}</code></td></tr>
-          </table>
-        </div>
-      </details>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- RULEBOOK -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="rulebook">
-    <h2>📋 The Rulebook — Prime SOPs, Sub-SOPs, Companion Docs</h2>
-    <div class="body">
-      <p class="lede">All the rule-defining files. Click each for purpose, scope, and current status.</p>
-      <details>
-        <summary><span class="chip green">ACTIVE</span> <code>UNIVERSAL_SOP_PROMPT.md</code> — The canonical rulebook v1.3</summary>
-        <div class="content">
-          <p><strong>Lines:</strong> ~940 · <strong>Status:</strong> Active rulebook · <strong>Birth:</strong> Mar 31 (v1.0); v1.3 born Apr 1.</p>
-          <p><strong>Contains:</strong> 6 stages (Understand → Measure → Execute → Self-Check → Wrap-Up → Confirm), 16 SubSOPs (SP.1–SP.16), 4 Ensurance components (EN.1–EN.4), STEP header spec, Pulse Check spec, Live Token Monitor (LTM) format, tier system (QUICK / STANDARD / COMPLEX), example outputs.</p>
-          <p><strong>When invoked:</strong> Paste at start of any Claude.ai session for full-SOP mode. Skipped in operational Claude Code sessions in favor of <code>MANDATORY_TIGHT_LOOP.md</code> (per F.19 Tier 1 reduction). Preserved unchanged.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip green">ACTIVE</span> <code>STANDALONE_SOP.md</code> — Shippable MIT version (~95% cross-model portable)</summary>
-        <div class="content">
-          <p><strong>Status:</strong> MIT-licensed, sanitized (no personal references), shippable to external consumers.</p>
-          <p><strong>Purpose:</strong> Self-contained ruleset for other Claude.ai sessions, GPT-5, Gemini, or any AI tool. Validated via 14 sub-agent tests + 3 cross-model simulations.</p>
-          <p><strong>Friction score:</strong> 2/10 (PROJECT RECORD, 14th sub-agent test) — meaning external AI can follow it with very little friction.</p>
-          <p><strong>Distribution:</strong> Per <code>PUBLIC_SHARE_KIT.md</code> + <code>SHIP_INSTRUCTIONS.md</code> — ready for gist or repo publication.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip amber star">TIER 1 (F.19)</span> <code>MANDATORY_TIGHT_LOOP.md</code> — Reduced operational ruleset</summary>
-        <div class="content">
-          <p><strong>Status:</strong> Tier 1 of F.19 fix · <strong>Born:</strong> 2026-05-21 · <strong>Device:</strong> aurelia.</p>
-          <p><strong>Cuts:</strong></p>
-          <ul>
-            <li>STEP header 8 fields → 3 lines (STEP + 🎯 MACRO + 📌 MICRO)</li>
-            <li>16 SubSOPs + 4 Ensurance → 6 + 1 mandatory: SP.5 FSP, SP.6 IAC, SP.12 HFR, SP.15 EEP, EN.1 Output Skeleton, EN.4 Pulse Check</li>
-            <li>Pulse Check 17 items → 5 items (v1.0) → <strong>6 items (v1.1, adds P6 SIR per F.20 2026-05-21)</strong>: P1 Honest numbers / P2 Tables / P3 Headline-first / P4 Inference marked / P5 Promise = deliver / P6 SIR surfaced</li>
-          </ul>
-          <p><strong>Why:</strong> Full SOP overhead caused output-level compliance decay. Reduced ruleset is sized to what real sessions can carry. Full SOP preserved as reference; reductions are reversible.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip green">ACTIVE</span> <code>PROTOCOLS_REFERENCE.md</code> — Full names + acronyms for all 20 protocols</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Source of truth for protocol acronyms. Every output that references a protocol must use the full name + acronym on first use (Rule #11).</p>
-          <p><strong>Structure:</strong> Each protocol in an expandable <code>&lt;details&gt;</code> section with full name, acronym origin, scope, sub-protocols, when triggered, failure modes, token costs, related protocols.</p>
-          <p><strong>Promoted to MANDATORY STEP 1 read:</strong> 2026-05-21 per Rule #11.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">LEGACY</span> <code>cache/legacy/PRIME_SOP.md</code> v2.8 — APW-era rulebook</summary>
-        <div class="content">
-          <p><strong>Status:</strong> Archived 2026-05-21 via F1 fusion. Lines: ~1340. Era: APW course-build (Mar 13 – Apr 1).</p>
-          <p><strong>Contains:</strong> 12 stages, 32 D-rules (D1–D32), 126 prompt items. Specific to APW course deliverables (module lists, lesson lists, classroom maps, SCIO integration).</p>
-          <p><strong>Why archived:</strong> Universal SOP v1.3 superseded it. Preserved for APW resume + historical fidelity. Do NOT enforce D-rules in active work.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">LEGACY</span> <code>cache/legacy/BRIDGE_SOP.md</code> v1.1 — APW Bridge SOP</summary>
-        <div class="content">
-          <p><strong>Status:</strong> Archived 2026-05-21 via F1 fusion. Lines: ~237.</p>
-          <p><strong>Purpose:</strong> Was the bridge between APW Prime SOP and the underlying SCIO knowledge system. With APW paused, no longer needed for active work.</p>
-        </div>
-      </details>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- 16 SUBSOPS -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="subsops">
-    <h2>🧩 All 16 SubSOPs (SP.1 – SP.16)</h2>
-    <div class="body">
-      <p class="lede">⭐ marks the 6 protocols mandatory in <code>MANDATORY_TIGHT_LOOP.md</code> (Tier 1 of F.19). The other 10 are reference-only for operational use.</p>
-      <details>
-        <summary><span class="chip amber">VISUAL</span> <strong>SP.1 MagNet</strong> (Magnetic Visual Engagement Protocol)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> The visual standard — tables, emojis, scannable structure. Always-on. Prevents wall-of-text outputs.</p>
-          <p><strong>Sub-rules:</strong> MN.1 emoji-first columns · MN.2 emoji-leftmost dedicated column · MN.3 ≤ 7 rows per table without break · MN.4 alternating row shading where supported.</p>
-          <p><strong>Failure mode if skipped:</strong> Wall-of-paragraph outputs that Alan dislikes; cognitive scan-time skyrockets.</p>
-          <p><strong>Origin:</strong> R1 in v1.0 (Mar 31). REPEAT × 3 (F.1).</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip amber">VISUAL</span> <strong>SP.2 Door Scan</strong> (Door Scanning Pattern Protocol)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Emoji → brief → detail funnel in every table. Pairs with MagNet (F11 fusion).</p>
-          <p><strong>Mechanic:</strong> Every table row starts with an emoji-only cell (the "door"), then a 1-3 word brief, then detail. Reader can scan emojis to skip to relevant rows.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip blue">TOKEN</span> <strong>SP.3 TTE</strong> (Token Threshold Engine)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Token budget math with thresholds.</p>
-          <p><strong>Thresholds (200K window):</strong> 🟢 GREEN &lt;108K · 🟡 YELLOW 108-130K · 🔴 RED 130-141K · 🆘 CRITICAL &gt;141K (theoretical) · 59K reserve.</p>
-          <p><strong>Pairs with:</strong> LTM (Live Token Monitor — the per-section display).</p>
-          <p><strong>Origin:</strong> F.2 (REPEAT × 4) — Alan kept asking for token tracking that wasn't activated.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip green">PROCESS SAFETY</span> <strong>SP.4 SCP</strong> (System Change Protocol)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Safe modification of the SOP itself. Version bump + backup + cross-cache update.</p>
-          <p><strong>Triggers:</strong> Any change to <code>UNIVERSAL_SOP_PROMPT.md</code>, <code>SESSION_START.md</code>, or core agents.</p>
-          <p><strong>Steps:</strong> (1) Backup → (2) Edit → (3) Update version stamp → (4) Cross-cache update (SESSION_STATE + BACKUP_LOG) → (5) Log in CONTINUATION.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip green star">PROCESS SAFETY — MANDATORY TIGHT LOOP</span> <strong>SP.5 FSP</strong> (Fidelity Substantiation Protocol)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Every claim has cited evidence. No fabrication.</p>
-          <p><strong>Validator check:</strong> VL.2 — output's factual claims must have file paths, command outputs, log rows, or explicit "approx/N/M" qualifier.</p>
-          <p><strong>Common violations:</strong> "The script passed" without showing the log. "Took 5 minutes" without timing source (should be N/M).</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip green star">PROCESS SAFETY — MANDATORY TIGHT LOOP</span> <strong>SP.6 IAC</strong> (Intent Alignment Check / Understanding Check)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Restate user's question as a table BEFORE executing. Catch misinterpretation early.</p>
-          <p><strong>Format:</strong> Table with columns "Your words" and "My interpretation" — at least 1 row per distinct ask.</p>
-          <p><strong>Validator check:</strong> VL.1.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip purple">FORESIGHT</span> <strong>SP.7 Insights Protocol</strong></summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Surface present-adjacent helpful context not explicitly asked. Part of F7 Wrap-Up cluster (with SP.9 FE + SP.13 SHR).</p>
-          <p><strong>Position:</strong> Interleaved with Foresight items at end of output, not a separate section.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip amber">VISUAL</span> <strong>SP.8 Protocol Visibility Protocol</strong></summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Name every protocol used in the output. No hidden mechanics.</p>
-          <p><strong>Format:</strong> SubSOP Execution Report at end (per F.11 truncation fix → one row per protocol, full names mandatory, &lt;details&gt; expandable).</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip purple">FORESIGHT</span> <strong>SP.9 FE</strong> (Foresight Engine)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Predict next problems + solutions, priority-tagged (🔴 critical / 🟡 medium / 🟢 nice-to-have). Part of F7 Wrap-Up cluster.</p>
-          <p><strong>Minimum:</strong> 3 items per output (STANDARD or COMPLEX).</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip orange">SELF-CHECK</span> <strong>SP.10 SCC</strong> (Self-Compliance Check)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> "Did I follow my OWN SOP rules?" Different lens from QAC (which checks structural form).</p>
-          <p><strong>Kept separate from SP.11 QAC + EN.4 Pulse Check</strong> per F12 fusion analysis — each is a different lens.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip orange">SELF-CHECK</span> <strong>SP.11 QAC</strong> (Quality Assurance Check)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> "Is the output STRUCTURALLY well-formed?" — sections present, tables formatted, headers right.</p>
-          <p><strong>Now embodied by:</strong> The new QC agent in the F.19 chain (Layer 3).</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip red star">HONEST FAILURE — MANDATORY TIGHT LOOP</span> <strong>SP.12 HFR</strong> (Honest Failure Report)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> When something failed (visible to user or self-detected), produce root cause + permanent fix IN THE SAME OUTPUT. No "I'll fix it next time."</p>
-          <p><strong>Format template:</strong></p>
-          <p><code>🚨 HFR — Honest Failure Report<br>Entry ID: F.X<br>Type: REPEAT / FAILURE<br>What failed: …<br>Root cause: …<br>Permanent fix (structural): …<br>Verified in this output by: …</code></p>
-          <p><strong>Validator check:</strong> VL.3.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip red">REPORTING</span> <strong>SP.13 SHR</strong> (System Health Report)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Multi-dimensional end-of-output scorecard with substantiated scores. Part of F7 Wrap-Up cluster.</p>
-          <p><strong>Dimensions:</strong> Fidelity to user's question, honest numbers, solution concreteness, output-level SOP compliance, wall-clock time per section (often N/M).</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip red">HONEST FAILURE</span> <strong>SP.14 RPT</strong> (Repeated Prompt Tracker)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Catch when user asks 2+ times — signals an unenforced rule. Triggers HFR (SP.12) for permanent structural fix.</p>
-          <p><strong>Logged to:</strong> <code>cache/FAILURE_LEDGER.md</code> (was cache/RPT_LOG.md until F8 fusion).</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip teal star">EXECUTION — MANDATORY TIGHT LOOP</span> <strong>SP.15 EEP</strong> (Execution Enforcement Protocol)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Execute, don't acknowledge. No future tense. Show proof of action in the message that promises it.</p>
-          <p><strong>Common violation:</strong> "I'll create that file" without showing the file creation. "Will commit next" without the commit.</p>
-          <p><strong>Validator check:</strong> VL.4.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip teal">EXECUTION</span> <strong>SP.16 PCG</strong> (Prompt Completion Gate)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Pre-send check that every item in the user's prompt has execution proof. Acts as the final gate before sending.</p>
-          <p><strong>Position:</strong> Runs alongside EN.4 Pulse Check before any send.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip amber star">REFLECTION — MANDATORY (NEW 2026-05-21, F.20 fix)</span> <strong>SP.17 SIR</strong> (System Improvement Reflection)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Every output ends with 1-3 SYSTEM-level improvement insights surfaced DURING the output. Distinct from SP.9 FE (which is <em>content</em> foresight). SIR is <em>system</em> improvement — "what should the SOP/agents/scripts itself become next?"</p>
-          <p><strong>Per Alan (2026-05-21):</strong> <em>"insights for improvement which should be in the SOP/agents right? every time the SOP ends with this? if not implement and save for future use for all."</em></p>
-          <p><strong>Categories:</strong> 🛠️ structural · 📋 convention · 🪙 token · 🔧 tooling · 🔄 process · 📊 measurement</p>
-          <p><strong>Effort labels:</strong> S (under 1h) · M (1-4h) · L (half-day+)</p>
-          <p><strong>Format:</strong> table with #, category, insight (one-line, actionable), effort. Position: between body and Pulse Check.</p>
-          <p><strong>Mandatory:</strong> minimum 1 insight per OUTPUT-STANDARD; at least 1 of every 5 outputs is effort=L.</p>
-          <p><strong>Failure mode if skipped:</strong> The SOP stops evolving via in-session observation. All improvements come from explicit Alan-prompted rebuilds. F.20 entry documents this exact gap.</p>
-          <p><strong>Validator check:</strong> VL.7. <strong>Pulse Check item:</strong> P6.</p>
-          <p><strong>Append-only log:</strong> <code>cache/SIR_LOG.md</code> ⭐ NEW 2026-05-21 — every SIR insight logged with date/device/commit/category/effort/status/recurrence for cross-output pattern detection.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip amber star">SYNC CONFIRMATION — MANDATORY (NEW 2026-05-21, F.21 fix)</span> <strong>SP.18 SSC</strong> (Sync Status Confirmation)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Every file-modifying output ends with explicit confirmation/records of GitHub + Obsidian + cross-device sync state. Per-channel table answering: did the commit happen? did the push land? is the working tree clean? is Obsidian state OK? do other devices need to pull?</p>
-          <p><strong>Per Alan (2026-05-21):</strong> <em>"incorporate into the global SOP that at the end it lets us know if the changes were updated/uploaded to the github & obsidian or not. need confirmation or records for every output end."</em></p>
-          <p><strong>Channels reported:</strong></p>
-          <ul>
-            <li>Git branch</li>
-            <li>Last commit (SHA + subject)</li>
-            <li>Git push to origin/main (status + timestamp)</li>
-            <li>Distance local ↔ origin (0/0 = in sync)</li>
-            <li>Obsidian vault (present + no conflict files)</li>
-            <li>Cross-device propagation (mac-main + others — pending pull / in sync / diverged)</li>
-            <li>Backups created (count this output)</li>
-            <li>BACKUP_LOG total rows</li>
-            <li>SIR_LOG total rows</li>
-            <li>Device + timestamp (audit trail)</li>
-          </ul>
-          <p><strong>Status codes:</strong> ✅ confirmed · ❌ failed (with reason) · ⚪ N/A · ⚠️ partial · ⏳ pending</p>
-          <p><strong>Position:</strong> AFTER Pulse Check, as the FINAL block of every file-modifying output.</p>
-          <p><strong>Backing script:</strong> <code>scripts/sync_status.sh</code> ⭐ NEW 2026-05-21. Reads git state + Obsidian dir + cache row counts + device identity. AI invokes + surfaces output verbatim.</p>
-          <p><strong>Failure mode if skipped:</strong> Sync state opaque. User has to ask "is it on GitHub?" repeatedly. Silent push failures hide. Multi-device drift undetected. F.21 entry documents this exact gap.</p>
-          <p><strong>Validator check:</strong> VL.8. <strong>Pulse Check item:</strong> P7.</p>
-        </div>
-      </details>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- 4 ENSURANCE -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="ensurance">
-    <h2>🛡️ All 4 Ensurance Components (EN.1 – EN.4)</h2>
-    <div class="body">
-      <p class="lede">The anti-decay layer. Solves F.9 (compliance decay over 4-6 outputs). EN.1 + EN.4 are mandatory in the F.19 tight loop.</p>
-      <details>
-        <summary><span class="chip purple star">MANDATORY TIGHT LOOP</span> <strong>EN.1 Output Skeleton</strong> (Structural Anti-Decay Mechanism)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Mandatory sections never silently dropped. Skeleton forces all components every output.</p>
-          <p><strong>Mechanism:</strong> Output template with required sections (STEP → UC → body → LTM → Pulse Check → Wrap-Up). Missing sections become visible as empty headers, prompting fix.</p>
-          <p><strong>Validator check:</strong> VL.5.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip purple">ANTI-DECAY</span> <strong>EN.2 Priority 10</strong> (Cognitive Load Reduction)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Top-10 attention rules, surfaced every output. Reduces what Claude has to "remember" — the 10 most important rules are explicit.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip purple">ANTI-DECAY</span> <strong>EN.3 Checkpoint Cycle</strong> (Attention Reset)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Re-anchor after long sections. Prevents drift in multi-thousand-token outputs.</p>
-          <p><strong>Mechanic:</strong> After every ~3 sections, a checkpoint marker that restates the macro/micro goal.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip purple star">MANDATORY TIGHT LOOP</span> <strong>EN.4 Pulse Check</strong> (Compliance Pulse Check)</summary>
-        <div class="content">
-          <p><strong>Purpose:</strong> Pre-send mechanical sweep. Visible. Scored.</p>
-          <p><strong>Original (full SOP):</strong> 17 items (P1–P17).</p>
-          <p><strong>Reduced (MANDATORY_TIGHT_LOOP v1.0 per F.19 Tier 1):</strong> 5 items (P1-P5).</p>
-          <p><strong>Reduced v1.1 (per F.20 2026-05-21):</strong> <strong>6 items</strong> — adds P6 for SIR.</p>
-          <ul>
-            <li><strong>P1</strong> Honest numbers; N/M for unmeasurable</li>
-            <li><strong>P2</strong> Tables for comparisons</li>
-            <li><strong>P3</strong> Headline-first</li>
-            <li><strong>P4</strong> Inference vs fact marked</li>
-            <li><strong>P5</strong> Promise = deliver in same message</li>
-            <li><strong>P6</strong> ⭐ SIR surfaced (SP.17 — 1-3 system-improvement insights with category + effort)</li>
-          </ul>
-          <p><strong>Score:</strong> X/6 (v1.1) or X/5 (v1.0 grandfathered). Pass criterion: 6/6 (or 5/5) for ship; one item down with brief acknowledgment is acceptable; ≤ 4/6 → fix.</p>
-        </div>
-      </details>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- AGENT SYSTEM -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="agents">
-    <h2>🤖 Agent System — 5 Active + 10 Archived</h2>
-    <div class="body">
-      <p class="lede">F.19 agent-chain rebuild (2026-05-21): Controller + 4-layer chain (Verifier → Validator → QC → Meta-Verifier). Closes the "who verifies the verifier" gap.</p>
-
-      <h3 style="margin-top:24px;font-size:16px;">Active (5)</h3>
-
-      <details>
-        <summary><span class="chip purple">ORCHESTRATOR</span> <strong>Controller</strong> · <code>agents/controller.md</code></summary>
-        <div class="content">
-          <p><strong>Role:</strong> Top-level coordinator + cache integrity. F4 fusion of former Oversight Executive + Cache Manager (2026-05-21).</p>
-          <p><strong>When invoked:</strong> Session start + every framework deliverable + after locked decisions.</p>
-          <p><strong>Steps:</strong> C.1–C.21 across 6 categories — Session Start, Pre-Deliverable, Post-Deliverable, Post-Decision, Token-Budget-Alert, Data-Corruption.</p>
-          <p><strong>Token cost:</strong> ~5K/session.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip teal">LAYER 1</span> <strong>Verifier</strong> · <code>agents/verifier.md</code> + <code>scripts/verifier.sh</code></summary>
-        <div class="content">
-          <p><strong>Role:</strong> Mechanical presence check. Cheapest, fastest. Runs first.</p>
-          <p><strong>Checks V.1–V.8:</strong> STEP header line 1 / 🎯 MACRO line / 📌 MICRO line / Understanding Check table / LTM marker count / Pulse Check P1–P5 + score / Honest numbers markers (~, approx, N/M) / No bare-acronym violations.</p>
-          <p><strong>Currently:</strong> Warnings-only mode (always exits 0) until chain matures over ~10 outputs.</p>
-          <p><strong>Token cost:</strong> ~200/output (or 0 script-only).</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip green">LAYER 2</span> <strong>Validator</strong> · <code>agents/validator.md</code> + <code>scripts/validator.sh</code></summary>
-        <div class="content">
-          <p><strong>Role:</strong> Substantive check against the 6 mandatory SubSOPs.</p>
-          <p><strong>Checks VL.1–VL.6:</strong> SP.6 IAC (UC accurately restates) / SP.5 FSP (claims have evidence) / SP.12 HFR (failures named + root-caused) / SP.15 EEP (promises delivered in-message) / EN.1 (skeleton sections have content) / EN.4 (Pulse Check scores honest).</p>
-          <p><strong>Token cost:</strong> ~400/output.</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip red">LAYER 3</span> <strong>QC</strong> · <code>agents/qc.md</code> + <code>scripts/qc.sh</code></summary>
-        <div class="content">
-          <p><strong>Role:</strong> Quality control + anti-rubber-stamp of Verifier/Validator + F.16 script-enforcement preservation. Karen successor.</p>
-          <p><strong>Checks Q.1–Q.11:</strong></p>
-          <ul>
-            <li>A. Output-vs-Ask Reality: Q.1 answers question / Q.2 no TBDs / Q.3 appropriately sized / Q.4 no re-proposed rejected ideas</li>
-            <li>B. Anti-Rubber-Stamp: Q.5 Verifier actually verified / Q.6 Validator actually validated / Q.7 no automatic ✅ pattern</li>
-            <li>C. Script Enforcement (Karen's F.16): Q.8 compliance_check.sh ran / Q.9 append_only_check.sh ran / Q.10 no --no-verify bypass without HFR / Q.11 pre-commit chain fully fired</li>
-          </ul>
-          <p><strong>Token cost:</strong> ~600/output (vs Karen's ~7,500 — 92% reduction).</p>
-        </div>
-      </details>
-      <details>
-        <summary><span class="chip amber">LAYER 4 — NEW</span> <strong>Meta-Verifier</strong> · <code>agents/meta_verifier.md</code> + <code>scripts/meta_verify.sh</code></summary>
-        <div class="content">
-          <p><strong>Role:</strong> Audits the audit chain itself. Closes Alan's "who verifies the verifier" gap.</p>
-          <p><strong>Checks MV.1–MV.7:</strong> All 3 upstream layers ran / Reports have required fields / Random spot-check of upstream ✅s / No verdict contradictions / Chain trend (rolling 10-run window) / No --no-verify bypass / Script exit codes match reports.</p>
-          <p><strong>Logs to:</strong> <code>cache/META_AUDIT_LOG.md</code> (append-only).</p>
-          <p><strong>Architectural caveat:</strong> Running Meta-Verifier in same Claude session = 5 layers of same brain. Recommended escape: invoke via <code>Agent</code> tool (fresh context) or different model (per <code>CROSS_MODEL_TEST_KIT.md</code>). Staged for Tier 3 maturation.</p>
-          <p><strong>Token cost:</strong> ~500/output.</p>
-        </div>
-      </details>
-
-      <p style="margin-top:6px;color:var(--text-muted);font-size:13px;"><strong>Full chain cost:</strong> ~1,700 tokens (V+VL+QC+MV) vs Karen alone ~7,500. 77% reduction + 3 added independent layers.</p>
-
-      <h3 style="margin-top:24px;font-size:16px;">Archived (10)</h3>
-
-      <details>
-        <summary><span class="chip dashed">F.19 ARCHIVE 2026-05-21</span> <code>agents/archive/validator-merged.md</code> — APW POVP + D-rule predecessor</summary>
-        <div class="content"><p>Layer 1 — POVP (D19) + Completeness + Simplicity (D7) + Cross-ref against APW caches. Successor: Verifier + Validator.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">F.19 ARCHIVE 2026-05-21</span> <code>agents/archive/karen-reality-check.md</code> — APW Karen + F.16 script enforcement</summary>
-        <div class="content"><p>Layer 2 — anti-rubber-stamp Layer 1 + script enforcement (F.16 expansion). Successor: QC (DNA preserved + retargeted from APW to Universal SOP).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">F.19 ARCHIVE 2026-05-21</span> <code>agents/archive/paradox-resolver.md</code> — APW SCIO/APW tension</summary>
-        <div class="content"><p>SCIO ↔ APW tension resolution (on-demand). No current work (APW paused, SCIO not active). May repurpose as "SOP-conflict resolver" later, or fully retire via F20 fusion.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">F5 ARCHIVE 2026-05-21</span> <code>agents/archive/jenny-sop-verifier.md</code></summary>
-        <div class="content"><p>Layer 1 SOP spec verifier (APW SOP v3.8+ POVP). Archived via F5 — role absorbed into Validator-Merged Section A. Now further absorbed into Verifier + Validator.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">F4 ARCHIVE 2026-05-21</span> <code>agents/archive/oversight-executive.md</code></summary>
-        <div class="content"><p>Top-level coordinator (APW-era). Fused into Controller via F4.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">F4 ARCHIVE 2026-05-21</span> <code>agents/archive/cache-manager.md</code></summary>
-        <div class="content"><p>Data integrity + cache state agent (APW-era). Fused into Controller via F4.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">ARCHIVE</span> <code>agents/archive/deliverable-validator.md</code></summary>
-        <div class="content"><p>APW-era deliverable validator. Absorbed into Validator-Merged (now archived itself).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">ARCHIVE</span> <code>agents/archive/simplicity-filter.md</code></summary>
-        <div class="content"><p>APW-era D7 "5th-grader filter" agent. Absorbed into Validator-Merged (now archived).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">ARCHIVE</span> <code>agents/archive/sop-compliance-checker.md</code></summary>
-        <div class="content"><p>APW-era SOP compliance agent. Absorbed into Validator-Merged (now archived).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">INDEX</span> <code>agents/archive/APW_AGENTS_ARCHIVE_REASON.md</code></summary>
-        <div class="content"><p>Full archival rationale + timeline. Created 2026-05-21 with the F.19 rebuild commit.</p></div>
-      </details>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- CACHE -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="cache">
-    <h2>🗄️ Cache + Append-Only Files</h2>
-    <div class="body">
-      <p class="lede">Active state. Per F.19, these are <strong>append-only</strong> — never lose entries.</p>
-      <details open>
-        <summary><span class="chip grey">ACTIVE</span> <code>cache/SESSION_STATE.md</code> — Current position + decisions log + tokens</summary>
-        <div class="content"><p>Append-only DECISIONS LOG. Macro + Micro goal tracking (F.13). Token Usage Log per session.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip grey">ACTIVE</span> <code>cache/CONTINUATION.md</code> — Latest session handoff</summary>
-        <div class="content"><p>Cumulative session summary. HOW TO CONTINUE IN A NEW CHAT section. Updated at session end.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip grey">ACTIVE</span> <code>cache/BACKUP_LOG.md</code> — All backups indexed (186 rows as of this commit)</summary>
-        <div class="content"><p>Single canonical record of every file modification + pre-edit backup path. Append-only.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip grey">ACTIVE</span> <code>cache/FAILURE_LEDGER.md</code> — F.1 – F.19 (post-F8 unified)</summary>
-        <div class="content"><p>Single canonical log for ALL system failures across the project. Replaces former split between RPT_LOG (Repeated Prompt Tracker) and HFR (Honest Failure Report) via F8 fusion 2026-05-21.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip grey">ACTIVE</span> <code>cache/BOOTSTRAP_CHECK.md</code> v2.1 — 77-item boot-up spec</summary>
-        <div class="content"><p>The spec; runner is <code>scripts/bootstrap_verify.sh</code>. F.17 fix (literal-check-marks transparency). Updated for F.19 agent-chain rebuild.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip amber">F.19 NEW</span> <code>cache/META_AUDIT_LOG.md</code> — Append-only chain-run trail</summary>
-        <div class="content"><p>Every run of Verifier/Validator/QC/Meta-Verifier writes a row: date, device, agent, pass/warnings count, commit SHA. Data source for Meta-Verifier's MV.1 + MV.5 checks (chain completeness + trend).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">DEPRECATED</span> <code>cache/RPT_LOG.md</code> — redirect to FAILURE_LEDGER</summary>
-        <div class="content"><p>Pre-F8. Kept as historical redirect pointer. Do not add new entries here.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip dashed">LEGACY DIR</span> <code>cache/legacy/</code> — APW-era files (F1+F2 archives)</summary>
-        <div class="content"><p>Contains: APW_MASTER_CACHE, BUILD_STATE, SCIO_KNOWLEDGE, PROGRAM_DETAILS, USER_FOUNDATION, TOKEN_BUDGET_LOG, USER_PROMPTS_VERBATIM, USER_PROMPT_FULFILLMENT_AUDIT, USER_PROMPT_INVENTORY, PRIME_SOP v2.8, BRIDGE_SOP v1.1, SOP_FULL_REFERENCE, INDEX.md — 13 files.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip grey">BACKUPS DIR</span> <code>cache/backups/</code> — Historical snapshots before edits</summary>
-        <div class="content"><p>Pre-edit cache snapshots organized by timestamp. Format: <code>cache/backups/&lt;YYYYMMDD&gt;_&lt;HHMMSS&gt;_v&lt;ver&gt;_&lt;reason&gt;/</code>.</p></div>
-      </details>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- ENFORCEMENT -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="enforcement">
-    <h2>⚙️ Mechanical Enforcement Layer</h2>
-    <div class="body">
-      <p class="lede">Per F.19: convention decays, architecture holds. 11 scripts + 2 git hooks.</p>
-      <h3 style="font-size:16px;">Scripts (11)</h3>
-      <details>
-        <summary><code>scripts/bootstrap_verify.sh</code> · F.17 · 79 checks across 13 sections</summary>
-        <div class="content"><p>Run at session start. Mechanical verification of every component. Exit 0 = pass, 1 = fail.</p></div>
-      </details>
-      <details>
-        <summary><code>scripts/compliance_check.sh</code> · F.14 + Tier 1 follow-up</summary>
-        <div class="content"><p>Rule #11 (full-name enforcement) + Pulse Check score detection + step header completeness. Accepts 5/5 (per MANDATORY_TIGHT_LOOP) + 10/10–17/17 (per full SOP).</p></div>
-      </details>
-      <details>
-        <summary><code>scripts/append_only_check.sh</code> · F.15 · pre-commit-invoked</summary>
-        <div class="content"><p>Blocks commit if any append-only file (SESSION_STATE, BACKUP_LOG, FAILURE_LEDGER, CONTINUATION) got shorter than its previous version.</p></div>
-      </details>
-      <details>
-        <summary><code>scripts/consistency_check.sh</code> · pre-mac · version drift detection</summary>
-        <div class="content"><p>Detects version drift across files, stale RPT_LOG refs, footer/header mismatch, SubSOP count consistency.</p></div>
-      </details>
-      <details>
-        <summary><code>scripts/setup_device.sh</code> · F.15</summary>
-        <div class="content"><p><code>bash scripts/setup_device.sh DEVICE_NAME</code> — sets git user.name "Alan (DEVICE)" + user.email "alan+DEVICE@local". Per-repo (not global).</p></div>
-      </details>
-      <details>
-        <summary><code>scripts/check_device_activity.sh</code> · F.15</summary>
-        <div class="content"><p>Pre-session check. Fetches remote, shows recent commits by device, flags unpulled commits from other devices.</p></div>
-      </details>
-      <details>
-        <summary><code>scripts/safe_push.sh</code> · F.18</summary>
-        <div class="content"><p><code>git fetch && git rebase origin/main && git push</code> wrapper. Handles divergence atomically.</p></div>
-      </details>
-      <details>
-        <summary><code>chat_archive/archive_chat.sh</code> · session JSONL snapshot</summary>
-        <div class="content"><p><code>bash chat_archive/archive_chat.sh [label]</code> — snapshots full Claude Code session transcript into <code>chat_archive/&lt;label&gt;_&lt;timestamp&gt;/</code>.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip amber">F.19 NEW</span> <code>scripts/verifier.sh</code> · Layer 1 of agent chain</summary>
-        <div class="content"><p>V.1-V.8 mechanical presence check. Writes row to META_AUDIT_LOG.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip amber">F.19 NEW</span> <code>scripts/validator.sh</code> · Layer 2 of agent chain</summary>
-        <div class="content"><p>VL.1-VL.6 substantive heuristic check. Writes row to META_AUDIT_LOG.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip amber">F.19 NEW</span> <code>scripts/qc.sh</code> · Layer 3 of agent chain</summary>
-        <div class="content"><p>Q.1-Q.11 quality + anti-rubber-stamp + F.16 script enforcement. Writes row to META_AUDIT_LOG.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip amber">F.19 NEW</span> <code>scripts/meta_verify.sh</code> · Layer 4 — chain audit</summary>
-        <div class="content"><p>MV.1-MV.7 chain audit. Reads META_AUDIT_LOG + writes own row. Closes "who verifies the verifier" gap.</p></div>
-      </details>
-
-      <h3 style="font-size:16px;margin-top:20px;">Git Hooks (2)</h3>
-      <details>
-        <summary><code>.githooks/pre-commit</code> · F.16 + F.19 chain invocation</summary>
-        <div class="content">
-          <p>Runs in order: append_only_check → compliance_check → device-identity verify → verifier → validator → qc → meta_verify.</p>
-          <p>Append-only is BLOCKING (commit refused if cache file shrinks). Others are warnings-only (per F.19 Tier 1 stabilization).</p>
-          <p>Bypass: <code>git commit --no-verify</code> + must include HFR justification in commit message OR QC will flag in next commit.</p>
-        </div>
-      </details>
-      <details>
-        <summary><code>.githooks/pre-push</code> · F.18 — multi-device live sync</summary>
-        <div class="content">
-          <p>Fetches origin before push. If remote ahead, BLOCKS push and tells user to run <code>bash scripts/safe_push.sh</code>. Prevents the rejected-push-then-pull-rebase cycle that happens in multi-device parallel work.</p>
-        </div>
-      </details>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- MULTI-DEVICE -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="multidevice">
-    <h2>🖥️ Multi-Device System</h2>
-    <div class="body">
-      <p class="lede">DEVICE_REGISTRY + naming conventions + 7 Golden Rules + safe-push architecture.</p>
-      <details open>
-        <summary>Registered devices (DEVICE_REGISTRY.md)</summary>
-        <div class="content">
-          <table>
-            <tr><th>Device</th><th>Registered</th><th>Git email</th><th>Description</th></tr>
-            <tr><td><code>mac-main</code></td><td>2026-05-21</td><td>alan+mac-main@local</td><td>MacBook in Downloads/APW_EXPORT folder</td></tr>
-            <tr><td><code>aurelia</code></td><td>2026-05-21</td><td>alan+aurelia@local</td><td>Windows Strix Halo (hostname Aurelia, user nguye, domain AURELIA)</td></tr>
-          </table>
-          <p>Future devices: 2nd Strix Halo + desktop + more — per Alan's fleet.</p>
-        </div>
-      </details>
-      <details>
-        <summary>Naming protocol (per F.19 — backup filename + commit subject)</summary>
-        <div class="content">
-          <p><strong>Backup filenames:</strong> <code>&lt;original&gt;_v&lt;ver&gt;_&lt;YYYYMMDD&gt;_&lt;HHMMSS&gt;_&lt;device&gt;_&lt;reason&gt;_backup.&lt;ext&gt;</code></p>
-          <p><strong>Commit subjects:</strong> <code>[device | YYYY-MM-DD HH:MM TZ] one-line summary</code></p>
-          <p>Examples: <code>[aurelia | 2026-05-21 17:34 CDT] ...</code>, <code>[mac-main | 2026-05-21 17:19 CDT] ...</code></p>
-        </div>
-      </details>
-      <details>
-        <summary>The 7 Golden Rules (MULTI_DEVICE_GIT_PROTOCOL.md)</summary>
-        <div class="content">
-          <ol>
-            <li><strong>ALWAYS pull before work</strong></li>
-            <li><strong>ALWAYS commit + push after work</strong></li>
-            <li><strong>NEVER force-push</strong></li>
-            <li><strong>NEVER rewrite history</strong> (no <code>rebase</code> / <code>reset --hard</code> / <code>--amend</code> after push)</li>
-            <li><strong>ONE device at a time</strong> for active work (no simultaneous edit without push between)</li>
-            <li><strong>APPEND-ONLY</strong> for history files (cache/SESSION_STATE, BACKUP_LOG, FAILURE_LEDGER, CONTINUATION) — F.15</li>
-            <li><strong>NEVER delete files</strong> (use <code>cache/legacy/archived_*</code> prefix instead) — F.15</li>
-          </ol>
-        </div>
-      </details>
-      <details>
-        <summary>Universal Backup & Preservation Rule (SESSION_START.md)</summary>
-        <div class="content">
-          <p><strong>Repo-wide rule.</strong> Applies to ALL files in this repo, not just cache. 7 sub-rules:</p>
-          <ol>
-            <li>NEVER delete existing files</li>
-            <li>Backup BEFORE every modification</li>
-            <li>Timestamped filename + device identity</li>
-            <li>Log every backup in <code>cache/BACKUP_LOG.md</code></li>
-            <li>Applies to ALL files</li>
-            <li>Cross-device inheritance (lives in repo, not local config)</li>
-            <li>Device identity is non-optional</li>
-          </ol>
-        </div>
-      </details>
-      <details>
-        <summary>Conflict resolution playbook (4 scenarios)</summary>
-        <div class="content">
-          <p><strong>A. Cache file conflict (most common):</strong> KEEP BOTH blocks, renumber. Cache files are append-only — never resolve by picking one side.</p>
-          <p><strong>B. SOP file conflict:</strong> Decision tree — same section? keep newer logically. Different sections? merge both. Conflicting structural changes? request keep more comprehensive + log F.X entry.</p>
-          <p><strong>C. Mistake / want to undo:</strong> Use <code>git reset --soft HEAD~1</code> (keeps changes) BEFORE pushing. After push: never rewrite.</p>
-          <p><strong>D. Catastrophic / force-push recovery:</strong> Use <code>git reflog</code> + <code>--force-with-lease</code>. Better: never force-push in the first place.</p>
-        </div>
-      </details>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- FAILURE LEDGER -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="failures">
-    <h2>🪞 Failure Ledger (F.1 – F.19)</h2>
-    <div class="body">
-      <p class="lede">Cumulative immutable log of every system failure + root cause + permanent fix. Pattern visible: early failures (F.1–F.9) got conventional fixes that re-failed. Late failures (F.13–F.18) got mechanical fixes that hold. F.19 is the meta-insight.</p>
-      <details>
-        <summary><span class="chip red">F.1</span> Emojis far left, dedicated column [REPEAT × 3] · ✅ FIXED 2026-03-31</summary>
-        <div class="content"><p><strong>Root cause:</strong> Visual rules treated as suggestions. <strong>Fix:</strong> SP.1 MagNet sub-rule MN.2 + SP.2 Door Scan mandatory always-on.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.2</span> Live token tracking in outputs [REPEAT × 4] · ✅ FIXED 2026-03-31</summary>
-        <div class="content"><p><strong>Root cause:</strong> Defined but never activated. <strong>Fix:</strong> LTM mandatory after every section.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.3</span> Visual rules treated as suggestions [REPEAT × 2] · ✅ FIXED 2026-03-31</summary>
-        <div class="content"><p>Recurrence of F.1 pattern. Door Scan + MagNet hardened.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.4</span> Acknowledge without execute [REPEAT × 2] · ✅ FIXED 2026-04-01</summary>
-        <div class="content"><p><strong>Root cause:</strong> Future-tense promises ("I'll do X next"). <strong>Fix:</strong> SP.15 EEP + SP.16 PCG + Execution Debt Counter.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.5</span> Rules defined but never activated [REPEAT × 2] · ✅ FIXED 2026-04-01</summary>
-        <div class="content"><p><strong>Fix:</strong> Mandatory wrap-up components (F7 fusion later).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.6</span> Self-judgment override mechanical rule [REPEAT × 2] · ✅ FIXED 2026-04-01</summary>
-        <div class="content"><p><strong>Fix:</strong> EN.1 Output Skeleton + EN.4 Pulse Check (structure forced).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.7</span> Acknowledge without execute (repeat) [REPEAT × 2] · ✅ FIXED 2026-04-01</summary>
-        <div class="content"><p>F.4 pattern recurred. Reinforced EEP.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.8</span> Self-judgment override (repeat) [REPEAT × 2] · ✅ FIXED 2026-04-01</summary>
-        <div class="content"><p>F.6 pattern recurred. Reinforced Skeleton + Pulse Check.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.9</span> Compliance decay across outputs · ✅ FIXED 2026-04-01</summary>
-        <div class="content"><p><strong>Root cause:</strong> Over 4-6 outputs, mandatory sections silently dropped. <strong>Fix:</strong> Ensurance System EN.1-EN.4 added. <strong>Note:</strong> Per F.19 — Ensurance is itself convention; truly mechanical fix requires architecture (Tier 3).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.10</span> Truncation regression — bare acronyms [HFR] · ✅ FIXED 2026-05-21</summary>
-        <div class="content"><p><strong>Root cause:</strong> "SP.1 MagNet" used without "(Magnetic Visual Engagement Protocol)" expansion. <strong>Fix:</strong> Rule #11 — full names + acronyms EVERY use (was "first use"). compliance_check.sh enforces.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.11</span> No &lt;details&gt; in SubSOP Reports [HFR] · ✅ FIXED 2026-05-21</summary>
-        <div class="content"><p><strong>Fix:</strong> Rule #12 — &lt;details&gt; per protocol/agent for transparency.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.12</span> Pre-Flight Gate + Pulse Check redundancy · ✅ FIXED 2026-05-21</summary>
-        <div class="content"><p>Consolidated to Pulse Check 2.0 (later reduced to 5 items in MANDATORY_TIGHT_LOOP via F.19 Tier 1).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.13</span> Macro/Micro goal tracking absent · ✅ FIXED 2026-05-21</summary>
-        <div class="content"><p><strong>Fix:</strong> 🎯 MACRO + 📌 MICRO mandatory in STEP header (universal across all tiers). GOAL TRACKING section in SESSION_STATE.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.14</span> Rule #11 cluster violations + UC format inconsistency · ✅ FIXED 2026-05-21</summary>
-        <div class="content"><p><strong>Fix:</strong> NEW <code>scripts/compliance_check.sh</code> + NEW Rule #13 (run it) + NEW Pulse Check P17 (compliance script passed).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.15</span> Multi-device naming + append-only protection absent · ✅ FIXED 2026-05-21</summary>
-        <div class="content"><p><strong>Fix (5 new files):</strong> DEVICE_REGISTRY.md + setup_device.sh + append_only_check.sh + check_device_activity.sh + 7 Golden Rules in MULTI_DEVICE_GIT_PROTOCOL.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.16</span> Script enforcement bypassable · ✅ FIXED 2026-05-21</summary>
-        <div class="content"><p><strong>Fix:</strong> .githooks/pre-commit (mechanical enforcement, can't bypass without --no-verify which itself flags) + Karen expansion (Section 5 — script enforcement verification).</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.17</span> Bootstrap lacks component-level transparency · ✅ FIXED 2026-05-21</summary>
-        <div class="content"><p><strong>Fix:</strong> NEW <code>scripts/bootstrap_verify.sh</code> with 67-77 mechanical checks across 13 sections. BOOTSTRAP_CHECK.md rewritten v1→v2 as live checklist spec.</p></div>
-      </details>
-      <details>
-        <summary><span class="chip red">F.18</span> Multi-device live push/pull not optimized · ✅ FIXED 2026-05-21</summary>
-        <div class="content"><p><strong>Fix:</strong> NEW <code>scripts/safe_push.sh</code> + .githooks/pre-push (atomic fetch+rebase+push; blocks push if remote ahead with safe_push hint).</p></div>
-      </details>
-      <details open>
-        <summary><span class="chip amber star">F.19 META-FAILURE</span> SOP output-level compliance decays despite infrastructure · ✅ Tier 1 SHIPPED 2026-05-21 / Tier 2-3 STAGED</summary>
-        <div class="content">
-          <p><strong>Root cause:</strong> The SOP keeps failing because it's a <em>discipline</em> system asked to do an <em>architecture</em> job. Discipline cannot solve an architecture problem. Three mechanisms compound:</p>
-          <ol>
-            <li>Same-brain-audits-itself (Karen is Claude in a different prompt — same biases)</li>
-            <li>No pre-send gate (autoregressive token output; Pulse Check is fait accompli)</li>
-            <li>Convention loses to immediate task (each skip locally rational, aggregated decay global)</li>
-          </ol>
-          <p><strong>Permanent Fix (3 tiers):</strong></p>
-          <ul>
-            <li><strong>Tier 1 ✅ SHIPPED:</strong> Scope reduction (17→5, 16→6, 8→3). See <code>MANDATORY_TIGHT_LOOP.md</code>.</li>
-            <li><strong>Tier 2 ⏳ STAGED:</strong> Mode declaration as first line of every response (<code>MODE: CONVERSATION</code> vs <code>OUTPUT-X</code>).</li>
-            <li><strong>Tier 3 ⏳ STAGED:</strong> Outputs are files, not chat replies. Convention becomes architecture via pre-commit gate.</li>
-          </ul>
-          <p><strong>Also shipped in F.19 commit:</strong> Full agent-chain rebuild — Verifier + Validator + QC + Meta-Verifier replace the 3 APW-era agents (now archived).</p>
-          <p>Full diagnosis + acceptance tests: <code>SELF_COMPLIANCE_FIX.md</code>.</p>
-        </div>
-      </details>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- FUSIONS -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="fusions">
-    <h2>🔀 Fusions History (F1 – F12)</h2>
-    <div class="body">
-      <p class="lede">Operations that merged multiple SOP components to reduce surface area. All from 2026-05-21 (Session 5). See <code>FUSION_ANALYSIS.md</code> for full proposals + defense tests.</p>
-      <table>
-        <tr><th>ID</th><th>Operation</th><th>Status</th></tr>
-        <tr><td><strong>F1</strong></td><td>Archive 3 historical SOPs (PRIME_SOP, BRIDGE_SOP, SOP_FULL_REFERENCE) → <code>cache/legacy/</code></td><td>✅ EXECUTED</td></tr>
-        <tr><td><strong>F2</strong></td><td>9 APW cache files → <code>cache/legacy/</code> (active cache 14 → 5)</td><td>✅ EXECUTED</td></tr>
-        <tr><td><strong>F3</strong></td><td>Merge Validator + Karen (proposed)</td><td>❌ REJECTED — theatre compliance risk</td></tr>
-        <tr><td><strong>F4</strong></td><td>Oversight Executive + Cache Manager → Controller</td><td>✅ EXECUTED</td></tr>
-        <tr><td><strong>F5</strong></td><td>Archive Jenny (standalone) — absorbed into Validator-Merged Section A</td><td>✅ EXECUTED</td></tr>
-        <tr><td><strong>F6</strong></td><td>16 SubSOPs → 10 clusters (count reduction)</td><td>📝 DOCUMENTATION ONLY — clusters documented in PROTOCOLS_REFERENCE, count unchanged</td></tr>
-        <tr><td><strong>F7</strong></td><td>Wrap-Up cluster (SP.9 FE + SP.7 Insights + SP.13 SHR)</td><td>✅ EXECUTED</td></tr>
-        <tr><td><strong>F8</strong></td><td>RPT_LOG + HFR-scattered → FAILURE_LEDGER (unified)</td><td>✅ EXECUTED</td></tr>
-        <tr><td><strong>F9</strong></td><td>Merge SP.15 EEP + SP.16 PCG</td><td>❌ KEPT SEPARATE — timing precision (during vs pre-send)</td></tr>
-        <tr><td><strong>F10</strong></td><td>SP.3 TTE + LTM cluster → "Token System"</td><td>✅ EXECUTED (documentation)</td></tr>
-        <tr><td><strong>F11</strong></td><td>SP.1 MagNet + SP.2 Door Scan + SP.8 Protocol Visibility → "Visual System"</td><td>✅ EXECUTED (documentation)</td></tr>
-        <tr><td><strong>F12</strong></td><td>SP.10 SCC + SP.11 QAC + EN.4 Pulse Check merge</td><td>❌ KEPT SEPARATE — lens distinction (SOP rules vs structure vs mechanical)</td></tr>
-      </table>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- QUICK REFERENCE -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="quickref">
-    <h2>📖 Quick Reference Tables</h2>
-    <div class="body">
-      <details open>
-        <summary>What to read when</summary>
-        <div class="content">
-          <table>
-            <tr><th>Situation</th><th>Read</th></tr>
-            <tr><td>Fresh session, any device</td><td><code>SESSION_START.md</code> → <code>MANDATORY_TIGHT_LOOP.md</code></td></tr>
-            <tr><td>New device first-time setup</td><td><code>SESSION_START.md</code> + <code>DEVICE_REGISTRY.md</code> + run <code>bash scripts/setup_device.sh &lt;name&gt;</code></td></tr>
-            <tr><td>Producing an output (OUTPUT-STANDARD or COMPLEX)</td><td><code>MANDATORY_TIGHT_LOOP.md</code></td></tr>
-            <tr><td>Publishable deliverable</td><td><code>MANDATORY_TIGHT_LOOP.md</code> + full <code>UNIVERSAL_SOP_PROMPT.md</code> for extras</td></tr>
-            <tr><td>Protocol lookup (full name + acronym)</td><td><code>PROTOCOLS_REFERENCE.md</code></td></tr>
-            <tr><td>Investigating a failure pattern</td><td><code>cache/FAILURE_LEDGER.md</code></td></tr>
-            <tr><td>Understanding why SOP keeps failing</td><td><code>SELF_COMPLIANCE_FIX.md</code> + F.19 entry</td></tr>
-            <tr><td>Multi-device sync question</td><td><code>MULTI_DEVICE_GIT_PROTOCOL.md</code></td></tr>
-            <tr><td>Restoring a prior file state</td><td><code>cache/BACKUP_LOG.md</code> → find row → grab from <code>backups/</code></td></tr>
-            <tr><td>External consumer (other AI tool / 3rd party)</td><td><code>STANDALONE_SOP.md</code> (MIT, self-contained, ~95% cross-model)</td></tr>
-            <tr><td>Visual reference</td><td><code>SOP_MAP.html</code> (interactive) or this file</td></tr>
-            <tr><td>Bootstrap verification</td><td><code>bash scripts/bootstrap_verify.sh</code></td></tr>
-          </table>
-        </div>
-      </details>
-      <details>
-        <summary>Token budget by mode</summary>
-        <div class="content">
-          <table>
-            <tr><th>Mode</th><th>SOP overhead</th><th>Typical</th></tr>
-            <tr><td><code>MODE: CONVERSATION</code></td><td>~0 tokens</td><td>Most session turns (setup, status, q&a)</td></tr>
-            <tr><td><code>MODE: OUTPUT-QUICK</code></td><td>STEP + answer + LTM (~500)</td><td>Single fact, lookup</td></tr>
-            <tr><td><code>MODE: OUTPUT-STANDARD</code></td><td>Full tight loop (~2-3K)</td><td>Single deliverable</td></tr>
-            <tr><td><code>MODE: OUTPUT-COMPLEX</code></td><td>Tight loop + extended Foresight + SHR (~4-5K)</td><td>Multi-step / multi-file / structural change</td></tr>
-          </table>
-          <p>Full agent chain (V+VL+QC+MV) adds ~1,700 tokens for STANDARD/COMPLEX. Versus pre-F.19 Karen alone (~7,500) = 77% reduction.</p>
-        </div>
-      </details>
-      <details>
-        <summary>SP.3 TTE thresholds (200K window)</summary>
-        <div class="content">
-          <table>
-            <tr><th>Status</th><th>Range</th><th>Behavior</th></tr>
-            <tr><td>🟢 GREEN</td><td>&lt; 108K</td><td>Full operations. All agents run.</td></tr>
-            <tr><td>🟡 YELLOW</td><td>108-130K</td><td>Abbreviated validation. Skip Karen unless critical. Reserve budget.</td></tr>
-            <tr><td>🔴 RED</td><td>130-141K</td><td>Checkpoint NOW. Cache all state. No new deliverables.</td></tr>
-            <tr><td>🆘 CRITICAL</td><td>&gt; 141K (theoretical)</td><td>Stop. Emergency cache dump.</td></tr>
-          </table>
-          <p>For 1M-window models: same percentages, scaled (GREEN &lt; 540K, etc.). LTM display includes <code>/ [WINDOW]</code> parameter (CR2 fix).</p>
-        </div>
-      </details>
-    </div>
-  </section>
-
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- GLOSSARY -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="glossary">
-    <h2>🏷️ Glossary</h2>
+  <details open>
+    <summary><span class="id">!</span><span class="ttl">The 8 live contradictions (full list at bottom)</span><span class="tag">start here</span></summary>
     <div class="body">
       <table>
-        <tr><th>Term</th><th>Meaning</th></tr>
-        <tr><td><strong>SubSOP</strong></td><td>Sub-Standard-Operating-Procedure. 16 protocols SP.1–SP.16 forming the rulebook's mechanics.</td></tr>
-        <tr><td><strong>Ensurance</strong></td><td>4 anti-decay components EN.1–EN.4 that prevent compliance erosion.</td></tr>
-        <tr><td><strong>Tight Loop</strong></td><td>The 6+1 protocols selected as mandatory for every operational OUTPUT (F.19 Tier 1).</td></tr>
-        <tr><td><strong>Tier (F.19 context)</strong></td><td>One of three architectural moves to fix discipline/architecture gap. Tier 1 shipped; Tier 2+3 staged.</td></tr>
-        <tr><td><strong>Tier (SOP context)</strong></td><td>QUICK / STANDARD / COMPLEX — rigor level of an output.</td></tr>
-        <tr><td><strong>MODE</strong></td><td>First-line declaration: CONVERSATION / OUTPUT-QUICK / OUTPUT-STANDARD / OUTPUT-COMPLEX. (Tier 2 of F.19, staged.)</td></tr>
-        <tr><td><strong>Pulse Check</strong></td><td>Pre-send mechanical sweep. Original 17 items; Tier 1 reduced to 5 (P1–P5).</td></tr>
-        <tr><td><strong>HFR</strong></td><td>Honest Failure Report — root cause + permanent fix in same output that fails.</td></tr>
-        <tr><td><strong>F.X</strong></td><td>Failure-Ledger entry X. Cumulative immutable log of every failure + permanent fix.</td></tr>
-        <tr><td><strong>Mechanical enforcement</strong></td><td>Rule enforced by script or hook, not by Claude self-discipline. The category that holds per F.19.</td></tr>
-        <tr><td><strong>F1/F4/F5/F8/etc. (fusion)</strong></td><td>Operations that merged components to reduce surface area. Numbered sequentially from May 2026 work.</td></tr>
-        <tr><td><strong>SP.X</strong></td><td>SubSOP X. SP.1 through SP.16.</td></tr>
-        <tr><td><strong>EN.X</strong></td><td>Ensurance component X. EN.1 through EN.4.</td></tr>
-        <tr><td><strong>D-rule (Dx)</strong></td><td><strong>Legacy</strong> APW-era rules (D1–D32). Do NOT enforce in current work.</td></tr>
-        <tr><td><strong>LTM</strong></td><td>Live Token Monitor — per-section token display, format: <code>LTM: ~XK / [WINDOW] | Status: 🌱 GREEN</code>.</td></tr>
-        <tr><td><strong>SCIO</strong></td><td>APW-era principle system (paused).</td></tr>
-        <tr><td><strong>APW</strong></td><td>Ascend Prime Wealth — the original course-build project. Currently PAUSED.</td></tr>
+        <tr><th>#</th><th>What disagrees</th><th>The reality</th></tr>
+        <tr><td>1</td><td><b>Pulse Check count</b> appears as 5, 6, 7, 9, 10, and 17 across files</td><td>Authoritative = <b>5 items</b> (P1 Honest / P2 IAC / P3 SSC / P4 MES / P5 RAE). Everything else is stale.</td></tr>
+        <tr><td>2</td><td><b>Token GREEN threshold</b> &lt;100K (CLAUDE.md) vs &lt;108K (SOP)</td><td>Use <b>&lt;108K</b>. And on a 1M-window model the hardcoded numbers don't scale at all.</td></tr>
+        <tr><td>3</td><td><b>SubSOP count</b> 16 vs 18 vs 24</td><td><b>24 IDs exist</b> (SP.1–SP.24); 3 are name-only/deferred. The "16 SubSOPs" label is the v1.3 baseline.</td></tr>
+        <tr><td>4</td><td><b>Agent count</b> 4 (CLAUDE.md) vs 5 vs 13 (on disk)</td><td><b>13 active agents</b> on disk (Controller + 4-layer chain + Chiron + 6 REFINE).</td></tr>
+        <tr><td>5</td><td><b>SP.21 MES</b> is mandatory but has no written template</td><td>Definition deferred; only an inline spec exists. Real gap.</td></tr>
+        <tr><td>6</td><td><b>RAE</b> "pick a number" vs "autonomous auto-execute"</td><td>Current = autonomous mode (auto-executes the ⭐ option).</td></tr>
+        <tr><td>7</td><td><b>SIR</b> demoted from mandatory yet still in the template</td><td>Printed template contradicts the rule table in the same file.</td></tr>
+        <tr><td>8</td><td><b>Failure ledger</b> jumps F.32 → F.58 (27 IDs missing)</td><td>Multi-device ID allocation left holes; highest real entry is F.62.</td></tr>
       </table>
+      <p class="legend">Each is expanded with file locations + the fix in the <a href="#contradictions">Known Contradictions</a> section.</p>
     </div>
-  </section>
+  </details>
 
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <!-- FILE INVENTORY -->
-  <!-- ════════════════════════════════════════════════════════════ -->
-  <section class="cat" id="inventory">
-    <h2>📁 File Inventory (root + key dirs)</h2>
+  <details>
+    <summary><span class="id">i</span><span class="ttl">How this document was built + currency</span><span class="tag">provenance</span></summary>
     <div class="body">
-      <p class="lede">Top-level files + key subdirectories. See <code>SOP_MAP.html</code> Diagram 6 for visual tree.</p>
-      <details>
-        <summary>Governance docs (root)</summary>
-        <div class="content">
-          <ul>
-            <li><code>README.md</code> · GitHub-facing entry point</li>
-            <li><code>SESSION_START.md</code> · canonical bootstrap entry (every session reads first)</li>
-            <li><code>CLAUDE.md</code> · Claude Code project config (redirects to SESSION_START)</li>
-            <li><code>UNIVERSAL_SOP_PROMPT.md</code> · v1.3 active rulebook (940 lines)</li>
-            <li><code>STANDALONE_SOP.md</code> · MIT shippable version (~95% cross-model)</li>
-            <li><code>PROTOCOLS_REFERENCE.md</code> · 20 protocols full names + acronyms</li>
-            <li><code>USER_PROFILE.md</code> · Alan's communication preferences</li>
-            <li><code>DEVICE_REGISTRY.md</code> · multi-device naming</li>
-            <li><code>MULTI_DEVICE_GIT_PROTOCOL.md</code> · 7 Golden Rules</li>
-            <li><code>MASTER_CONTINUATION_PROMPT.md</code> · one-paste resume</li>
-            <li><code>MANDATORY_TIGHT_LOOP.md</code> · F.19 Tier 1 reduced ruleset ⭐</li>
-            <li><code>SELF_COMPLIANCE_FIX.md</code> · F.19 diagnosis + 3-tier solution ⭐</li>
-            <li><code>SOP_MAP.md</code> · visual reference (PNG-embedded markdown)</li>
-            <li><code>SOP_MAP.html</code> · interactive visual reference (Mermaid in browser)</li>
-            <li><code>SOP_COMPLETE_REFERENCE.html</code> · THIS FILE ⭐</li>
-            <li><code>FAILURE_MODES_ANALYSIS.md</code> · future failure analysis (mac-main built)</li>
-            <li><code>TOKEN_OPTIMIZATION_GUIDE.md</code> · multi-device token optimization</li>
-            <li><code>EFFICIENCY_GUIDE.md</code> · 8.5/10 ceiling analysis</li>
-            <li><code>CHALLENGES_LOG.md</code> · bottlenecks + debug history</li>
-            <li><code>CONSULTING_BRIEF.md</code> · for external Claude chats consulting</li>
-            <li><code>PROJECT_HISTORY.md</code> · 40+ hour timeline</li>
-            <li><code>NEW_HIRE_GUIDE.md</code> · plain-English onboarding</li>
-            <li><code>REPLICATION_KIT.md</code> · setup kit for new chats/machines/users</li>
-            <li><code>PUBLIC_SHARE_KIT.md</code> · publishing guidance</li>
-            <li><code>HARNESS_REFRESH_GUIDE.md</code> · Claude Code harness drift</li>
-            <li><code>CROSS_MODEL_TEST_KIT.md</code> · GPT-5 / Gemini test protocol</li>
-            <li><code>SHIP_INSTRUCTIONS.md</code> · turnkey ship package</li>
-            <li><code>REAL_DEVICE_TEST.md</code> · physical device test kit</li>
-            <li><code>INVENTORY.md</code> · full registry of all SOPs/agents/scripts</li>
-            <li><code>FUSION_ANALYSIS.md</code> · 12 fusion proposals + defense tests</li>
-          </ul>
-        </div>
-      </details>
-      <details>
-        <summary>cache/ (active state — 6 files + 2 dirs)</summary>
-        <div class="content">
-          <ul>
-            <li><code>cache/SESSION_STATE.md</code></li>
-            <li><code>cache/CONTINUATION.md</code></li>
-            <li><code>cache/BACKUP_LOG.md</code></li>
-            <li><code>cache/FAILURE_LEDGER.md</code> (F.1–F.19)</li>
-            <li><code>cache/BOOTSTRAP_CHECK.md</code> v2.1</li>
-            <li><code>cache/META_AUDIT_LOG.md</code> ⭐ F.19 NEW</li>
-            <li><code>cache/RPT_LOG.md</code> (deprecated redirect)</li>
-            <li><code>cache/legacy/</code> · 13 APW-era files</li>
-            <li><code>cache/backups/</code> · historical snapshots</li>
-          </ul>
-        </div>
-      </details>
-      <details>
-        <summary>agents/ (5 active + 10 archived)</summary>
-        <div class="content">
-          <p><strong>Active:</strong> controller.md, verifier.md ⭐, validator.md ⭐, qc.md ⭐, meta_verifier.md ⭐, VALIDATION_WORKFLOW.md v4.0</p>
-          <p><strong>Archived:</strong> 10 files in <code>agents/archive/</code> — see APW_AGENTS_ARCHIVE_REASON.md</p>
-        </div>
-      </details>
-      <details>
-        <summary>scripts/ (11 .sh) + .githooks/ (2 hooks)</summary>
-        <div class="content">
-          <p>See Mechanical Enforcement section above.</p>
-        </div>
-      </details>
-      <details>
-        <summary>backups/ (pre-edit snapshots)</summary>
-        <div class="content">
-          <p>~25+ pre-edit backup files. Naming: <code>&lt;original&gt;_v&lt;ver&gt;_&lt;YYYYMMDD&gt;_&lt;HHMMSS&gt;_&lt;device&gt;_&lt;reason&gt;_backup.&lt;ext&gt;</code>.</p>
-          <p>Append-only. Never deleted.</p>
-        </div>
-      </details>
-      <details>
-        <summary>diagrams_src/ + assets/diagrams/ (visual sources)</summary>
-        <div class="content">
-          <p>6 Mermaid source files (.mmd) + 6 rendered PNGs (3840px retina). For SOP_MAP visualization. Re-renderable via <code>npx mmdc</code>.</p>
-        </div>
-      </details>
-      <details>
-        <summary>chat_archive/ (session transcripts)</summary>
-        <div class="content">
-          <p>Full JSONL transcripts per session. <code>archive_chat.sh</code> snapshots. Excluded from bootstrap reads (token optimization O2).</p>
-        </div>
-      </details>
-      <details>
-        <summary>source_files/ (APW course material)</summary>
-        <div class="content">
-          <p>SCIO Sections 0, 1, 4 + APW source documents. Used when APW course resumes (currently paused).</p>
-        </div>
-      </details>
+      <p>Four parallel sub-agents read the actual on-disk files on 2026-06-03 (mac-main) and returned full content (not summaries): the operating sequence + stages + output/token/pulse formats; every protocol SP.1–SP.24 + EN.1–EN.4; every agent (13 active + 9 archived); and the prime SOPs + 32 D-rules + timeline + failure ledger.</p>
+      <p class="legend">An earlier <code>SOP_COMPLETE_REFERENCE.html</code> (aurelia, same day) covered only 16 SubSOPs / 5 agents / F.19 — it predated the system's own additions. It is preserved at <code>backups/SOP_COMPLETE_REFERENCE_v1_*_aurelia_*.html</code>. This file supersedes it with current counts.</p>
     </div>
-  </section>
+  </details>
+</section>
 
-  <footer style="text-align:center;margin-top:40px;padding:24px;color:var(--text-muted);font-size:13px;">
-    Universal Output SOP v1.3 · SOP_COMPLETE_REFERENCE.html v1.0 · aurelia · 2026-05-21<br>
-    Commit <code>dc12851</code> · <a href="https://github.com/xprimordius/universal-sop" target="_blank">github.com/xprimordius/universal-sop</a>
-  </footer>
-</main>
+<section class="block" id="model">
+  <h2>🗺️ Mental model + layer cake</h2>
+  <p class="lead">The whole system is: <b>one rulebook + machinery that forces the rulebook to keep firing.</b> An AI's compliance decays after a few outputs; the machinery (Ensurance + agents + scripts + hooks) is the actual innovation.</p>
+  <details open>
+    <summary><span class="id">0</span><span class="ttl">The 5 layers</span><span class="tag">overview</span></summary>
+    <div class="body">
+<pre>
+LAYER 0 — BOOTSTRAP    How a session loads + self-tests
+                       SESSION_START.md -> bootstrap_verify.sh -> STEP 2 confirm
+LAYER 1 — RULEBOOK     What "good output" means
+                       UNIVERSAL_SOP_PROMPT v1.3 (heavy) + MANDATORY_TIGHT_LOOP v1.7 (lean, wins)
+LAYER 2 — ENFORCEMENT  Stops the rulebook decaying
+                       13 agents + 39 scripts + pre-commit + pre-push hooks
+LAYER 3 — MEMORY       Survives across sessions/devices
+                       cache/ (state files) + chat_archive/ + git/GitHub (3 devices)
+LAYER 4 — REFERENCE    Deep detail, loaded on demand
+                       PROTOCOLS_REFERENCE + STANDALONE_SOP + legacy/ + guides
+</pre>
+      <p><b>One output, plain English:</b> Understand the ask -> back up files -> estimate tokens -> execute step-by-step -> self-check mid-stream -> Pulse Check before sending -> ship -> confirm/recommend next.</p>
+      <div class="kv">
+        <div class="k">Prime SOP</div><div>Original APW-era rulebook (v2.8, 12 stages, 32 D-rules). <b>Retired</b> -> <code>cache/legacy/</code>.</div>
+        <div class="k">Bridge SOP</div><div>Transitional spec that birthed the visual rules. <b>Retired</b>.</div>
+        <div class="k">Universal SOP</div><div>Current rulebook (v1.3). Project-agnostic. What's enforced today.</div>
+        <div class="k">Tight Loop</div><div>The trimmed operational version (v1.7) that <b>supersedes</b> the heavy SOP for daily use.</div>
+        <div class="k">SubSOP (SP.x)</div><div>A specific rule (24 exist). e.g. SP.3 = token tracking.</div>
+        <div class="k">Ensurance (EN.x)</div><div>The 4 anti-decay mechanisms. The "immune system."</div>
+        <div class="k">Agent</div><div>A separate AI persona for validation (13 active).</div>
+        <div class="k">Script</div><div>A bash file that mechanically checks something (~0 tokens, can't lie).</div>
+      </div>
+    </div>
+  </details>
+</section>
+
+<section class="block" id="sequence">
+  <h2>🔄 The operating sequence <span class="count">(current — MANDATORY_TIGHT_LOOP v1.7)</span></h2>
+  <p class="lead">For every STANDARD/COMPLEX output, the AI runs exactly <b>5 mandatory SubSOPs</b> in order, wrapped by a 3-line STEP header and closed by a 5-item Pulse Check. Trimmed from 11 -> 5 on 2026-05-23 because 11 × 95%-per-item = 57% odds of full compliance; 5 × 95% = 77%.</p>
+
+  <details open>
+    <summary><span class="id">SEQ</span><span class="ttl">The 5 mandatory SubSOPs (in order)</span><span class="tag">v1.7</span></summary>
+    <div class="body">
+      <table>
+        <tr><th>#</th><th>Protocol</th><th>Rule (verbatim)</th></tr>
+        <tr><td>1</td><td><b>SP.6 IAC</b> — Understanding Check</td><td>"Restate user's spec at sub-clause granularity before executing"</td></tr>
+        <tr><td>2</td><td><b>EN.1</b> — Output Skeleton</td><td>"Mandatory structural slots: STEP / UC / body / Sync / RAE — visible, not implicit"</td></tr>
+        <tr><td>3</td><td><b>SP.18 SSC</b> — Sync Status</td><td>"End-of-output per-channel sync state (git commit / push / distance / backups)"</td></tr>
+        <tr><td>4</td><td><b>SP.21 MES</b> — Model Effort Selector</td><td>"MODEL declaration at TOP + Retrospective at END"</td></tr>
+        <tr><td>5</td><td><b>SP.24 RAE</b> — Recommendations At End</td><td>"LAST block — numbered pickable list, max 5 options, effort-tagged"</td></tr>
+      </table>
+      <p><b>Demoted to situational</b> (still invoked when warranted): SP.5 FSP, SP.9 FE, SP.12 HFR, SP.15 EEP, SP.17 SIR.
+      <b>Reference-only:</b> SP.1, SP.2, SP.3, SP.4, SP.7, SP.8, SP.10, SP.11, SP.13, SP.14, SP.16, EN.2, EN.3.</p>
+      <div class="warn"><b>Contradiction in the same file:</b> RULE 1 trims to 5 items to <i>fight</i> compliance decay — then RULE 6.5 re-mandates mechanically <i>expressing</i> all 24 SubSOPs + 4 Ensurance every output via <code>express_sop.sh</code>. The file's defense: mechanical expression "has zero cognitive cost." Net: the AI's <i>thinking</i> checklist is 5; the <i>printed</i> surface is everything.</div>
+    </div>
+  </details>
+
+  <details>
+    <summary><span class="id">SEQ+</span><span class="ttl">3 extra mandates layered on top (RULE 5 / 6 / 6.5)</span><span class="tag">v1.7</span></summary>
+    <div class="body">
+      <ul>
+        <li><b>RULE 5 — PROVE-IT 9-point block</b>: only for OP-level / MAJOR-SHIP commits (closes an F-class, ships a script/doctrine, crosses a Sprint boundary). Retrospective. NOT every output.</li>
+        <li><b>RULE 6 — Output Self-Audit</b>: STANDARD/COMPLEX -> draft -> <code>bash scripts/validator_output.sh</code> (7 probes) -> fix if ≥2 FAIL -> <code>log_output.sh</code> -> send.</li>
+        <li><b>RULE 6.5 — Full SOP Expression</b>: STANDARD/COMPLEX -> include the <code>express_sop.sh</code> block expressing every SP.1–SP.24 + EN.1–EN.4 + agent roster + PRISTINE state.</li>
+      </ul>
+    </div>
+  </details>
+
+  <details>
+    <summary><span class="id">TIER</span><span class="ttl">Tiers — QUICK / STANDARD / COMPLEX (+ tight-loop modes)</span><span class="tag">routing</span></summary>
+    <div class="body">
+      <table>
+        <tr><th>Tier</th><th>When</th><th>Includes</th><th>Skips</th></tr>
+        <tr><td>⚡ QUICK</td><td>Simple question, 1-step, no files, ≤500-word bounded deliverable</td><td>STEP line + answer + LTM</td><td>Full checklist, wrap-up</td></tr>
+        <tr><td>📋 STANDARD</td><td>2–5 steps, file work</td><td>Understanding Check + 5 SubSOPs + Pulse + self-audit</td><td>Confirmation gate (executes immediately)</td></tr>
+        <tr><td>🏗️ COMPLEX</td><td>Ambiguous, 5+ steps, high-stakes, multi-file</td><td>Full Stage-1 gate + confirmation + everything</td><td>Nothing</td></tr>
+      </table>
+      <p class="legend">Tight-loop renames these OUTPUT-QUICK / OUTPUT-STANDARD / OUTPUT-COMPLEX and adds CONVERSATIONAL (clarifying Q / status — no SOP wrapper).</p>
+      <div class="warn"><b>Naming clash:</b> "Tier 1/2/3" ALSO means the F.19 architectural tiers (staged compliance fix), unrelated to QUICK/STANDARD/COMPLEX. <code>SOP_MAP.md</code> warns about this conflation.</div>
+    </div>
+  </details>
+</section>
+
+<section class="block" id="stages">
+  <h2>📋 The 6 stages <span class="count">(full SOP — UNIVERSAL_SOP_PROMPT v1.3)</span></h2>
+  <p class="lead">The canonical heavy process. Under the tight loop most collapses, but these templates are the originals. 8 checkpoints total (6 stages + Stage 1B + Stage 3.5).</p>
+
+  <details><summary><span class="id">S1</span><span class="ttl">Stage 1 — Understand</span><span class="tag">every output</span></summary>
+  <div class="body">
+    <div class="kv"><div class="k">Trigger</div><div>Every response; full table for STANDARD/COMPLEX (QUICK skips).</div>
+    <div class="k">Steps</div><div>Read prompt word-by-word, no skim, no assume -> relay back as numbered checklist (user's exact words + AI interpretation) -> becomes the end-of-output completion tracker -> if corrected, update + re-confirm.</div></div>
+<pre>## UNDERSTANDING CHECK
+SOP: v1.3 | TIER: [QUICK/STANDARD/COMPLEX]
+| #  | 🎯 | Your Words (Verbatim)      | My Interpretation          | 💠 |
+|----|----|----------------------------|-----------------------------|----|
+| 1  | .. | "[exact words]"            | [plain-English meaning]     | (box) |
+&gt; 💠 Confirm or correct, then I proceed.</pre>
+  </div></details>
+
+  <details><summary><span class="id">S1B</span><span class="ttl">Stage 1B — Pre-Execution Backup + Record</span><span class="tag">before any edit</span></summary>
+  <div class="body">
+    <div class="kv"><div class="k">Gate rule</div><div>"Stage 2 does NOT begin until backups complete. Incomplete step + safe backup &gt; complete step + broken backup. Always."</div></div>
+<pre>SAVE CONFIRMED
+- File: [filename]      Version: v[#.#]
+- Path: [full path]     Purpose: [what this file is]
+- Contents: [what's inside]
+- Why saved: [reason]   Backup: [backup filename] (or N/A if new)
+- Date: [YYYY-MM-DD HH:MM]</pre>
+  </div></details>
+
+  <details><summary><span class="id">S2</span><span class="ttl">Stage 2 — Measure</span><span class="tag">before execution</span></summary>
+  <div class="body">
+    <div class="kv"><div class="k">Steps</div><div>Estimate tokens (conservative 1.4× — "if you think ~5K, report ~7K"); estimate time; check thresholds still GREEN; plan/chunk (one piece per message); state estimates in header.</div></div>
+<pre>📊 LTM: Section: ~XK · Step: ~XK · Session: ~XK / 200K · Remaining: ~XK · 🌱 GREEN</pre>
+  </div></details>
+
+  <details><summary><span class="id">S3</span><span class="ttl">Stage 3 — Execute</span><span class="tag">building</span></summary>
+  <div class="body">
+    <div class="kv"><div class="k">Steps</div><div>Follow plan -> LTM after each section -> source every claim (read files, never memory) -> mid-execution check -> track fidelity % with WHAT was checked.</div></div>
+<pre>| # | 🎯 | Step    | Est | Actual | Cumul | Time | Fidelity | What Was Verified |
+| E1| .. | [brief] | ~XK | ~XK    | ~XK   | ~Xm  | 100%     | [specific items]   |</pre>
+  </div></details>
+
+  <details><summary><span class="id">S3.5</span><span class="ttl">Stage 3.5 — Mid-Execution Compliance Check</span><span class="tag">continuous 🟡</span></summary>
+  <div class="body"><p>6 self-checks, each with a FAIL action: (1) still tracking tokens? -> add LTM; (2) addressing ALL Stage-1 items? -> re-read checklist; (3) backed up before editing? -> stop, backup; (4) tables not text walls? -> restructure; (5) every claim traceable? -> add reference; (6) within GREEN? -> if approaching YELLOW, plan wrap-up. <span class="yellow">⚠️ Produces no logged artifact — "did it run?" is unverifiable.</span></p></div></details>
+
+  <details><summary><span class="id">S4</span><span class="ttl">Stage 4 — Self-Check (before sending)</span><span class="tag">pre-send</span></summary>
+  <div class="body"><p>Re-read ORIGINAL prompt word-by-word (not the Stage-1 summary) -> compare every request vs output -> fix any gap before sending -> log "Pre-send check: [X] checked, [Y] gaps, [Z] fixed" -> excellence check.</p></div></details>
+
+  <details><summary><span class="id">S5</span><span class="ttl">Stage 5 — Communicate (output structure)</span><span class="tag">structuring</span></summary>
+  <div class="body"><p>9 standards: 3rd–5th grade reading level · headlines first · scannable · 10-second blocks · bi-directional · tables for data · emoji column after # · Door Scan · AI-cell marker.</p>
+<pre>STEP: [what this deliverable is]
+SOP: v[VERSION] | TIER: [QUICK/STANDARD/COMPLEX]
+SCOPE: [what's included]
+EST: 📊 ~[X]K tokens · ⏱️ ~[X]m</pre>
+  <p class="legend">Acronym rule: every acronym gets full name + meaning on first use.</p></div></details>
+
+  <details><summary><span class="id">S6</span><span class="ttl">Stage 6 — Confirm &amp; Improve</span><span class="tag">after output</span></summary>
+  <div class="body"><p>Present + wait (COMPLEX only) -> after confirmation suggest improvements/bottlenecks/next steps -> label "OPTIMIZATION CYCLE - Round [#]" -> never ship without approval (COMPLEX; STANDARD/QUICK may ship and iterate). <span class="yellow">⚠️ No full output template for the optimization-cycle block.</span></p></div></details>
+</section>
+
+<section class="block" id="protocols">
+  <h2>🧩 All protocols <span class="count">(SP.1–SP.24 — 24 SubSOPs; 21 fully specified, 3 deferred)</span></h2>
+  <p class="lead">Grouped by category. Each is the real definition with verbatim sub-rules. ⚠️ = name-only/deferred (no written spec yet).</p>
+
+  <h3>🎨 Visual System (F11)</h3>
+  <details><summary><span class="id">SP.1</span><span class="ttl">MagNet — Magnetic Visual Engagement Protocol</span><span class="tag">Always-On</span></summary>
+  <div class="body"><div class="kv"><div class="k">Purpose</div><div>Make every output visually scannable so value is extracted in seconds without reading paragraphs.</div></div>
+  <ul><li><b>MN.1</b> Emojis far left — every table row starts with an emoji column</li><li><b>MN.2</b> Tables over paragraphs</li><li><b>MN.3</b> Headers with emoji anchors</li><li><b>MN.4</b> Scannable structure (bullets, short sentences)</li></ul>
+  <p class="legend">Prevents: wall-of-text. Alan's #1 trigger "too wordy". Cost ~0 (structural).</p></div></details>
+
+  <details><summary><span class="id">SP.2</span><span class="ttl">Door Scan — Door Scanning Pattern Protocol</span><span class="tag">Always-On</span></summary>
+  <div class="body"><div class="kv"><div class="k">Purpose</div><div>Funnel attention broad-&gt;specific. Every table: emoji -&gt; brief -&gt; detail.</div></div>
+  <ul><li><b>DS.1</b> Emoji column first</li><li><b>DS.2</b> Brief column second (1–3 words)</li><li><b>DS.3</b> Detail column(s) third</li><li><b>DS.4</b> Number column when ordered</li></ul></div></details>
+
+  <h3>📊 Token System (F10)</h3>
+  <details><summary><span class="id">SP.3</span><span class="ttl">TTE — Token Threshold Engine</span><span class="tag">Per-Output</span></summary>
+  <div class="body"><div class="kv"><div class="k">Purpose</div><div>Mathematical fuel budget so sessions don't crash mid-task. Math-based, not judgment.</div></div>
+  <table><tr><th>Threshold</th><th>Range /200K</th><th>Action</th></tr>
+  <tr><td><span class="pill green">GREEN</span></td><td>&lt;108K</td><td>Full operations, all SubSOPs active</td></tr>
+  <tr><td><span class="pill yellow">YELLOW</span></td><td>108–130K</td><td>Abbreviated validation, plan checkpoint</td></tr>
+  <tr><td><span class="pill red">RED</span></td><td>130–141K</td><td>Checkpoint NOW, no new deliverables</td></tr>
+  <tr><td><span class="pill red">CRITICAL</span></td><td>&gt;141K (theoretical)</td><td>Emergency dump (design says unreachable)</td></tr></table>
+  <p>Emergency reserve = ~59K (never burned). RED(130K)+reserve(59K)=189K &lt; 200K, so CRITICAL is unreachable by design.</p>
+  <p>Companion <b>LTM (Live Token Monitor)</b> after every section.</p>
+  <div class="warn"><b>Doesn't scale:</b> hardcoded 108K/130K assume a 200K window; the tight loop uses a model-aware <code>[WINDOW]</code> (200K or 1M) with no reserve restated. On a 1M model these numbers are meaningless.</div></div></details>
+
+  <h3>🛡️ Governance / Fidelity</h3>
+  <details><summary><span class="id">SP.4</span><span class="ttl">SCP — System Change Protocol</span><span class="tag">On-Demand</span></summary>
+  <div class="body"><div class="kv"><div class="k">Purpose</div><div>Governance for any change to the SOP/agents/architecture. Prevents silent drift.</div></div>
+  <ul><li><b>SCP.1</b> State current version · <b>SCP.2</b> State proposed change · <b>SCP.3</b> Before/after diff · <b>SCP.4</b> Get 💠 approval · <b>SCP.5</b> Backup before edit (D32) · <b>SCP.6</b> Apply · <b>SCP.7</b> Bump version + log · <b>SCP.8</b> Confirm completion</li></ul></div></details>
+
+  <details><summary><span class="id">SP.5</span><span class="ttl">FSP — Fidelity Substantiation Protocol</span><span class="tag">Per-Output (cond.)</span></summary>
+  <div class="body"><div class="kv"><div class="k">Purpose</div><div>Every fidelity % must name WHAT was checked + evidence. Kills "100% ✅" theater.</div></div>
+  <ul><li><b>FSP.1</b> Name what was checked · <b>FSP.2</b> List evidence (counts, line numbers) · <b>FSP.3</b> Honest gaps ("92% — failed P2") · <b>FSP.4</b> No round numbers without grounding</li></ul></div></details>
+
+  <details><summary><span class="id">SP.6</span><span class="ttl">IAC — Intent Alignment Check</span><span class="tag">★ mandatory</span></summary>
+  <div class="body"><div class="kv"><div class="k">Purpose</div><div>Verify output addresses the user's ACTUAL intent, not the surface text. The Understanding Check is its vehicle.</div></div>
+  <ul><li><b>IAC.1</b> Read prompt verbatim · <b>IAC.2</b> List literal interpretations · <b>IAC.3</b> Pick most likely + justify · <b>IAC.4</b> Flag ambiguity (if 2+ valid, ASK) · <b>IAC.5</b> Conclusion maps to interpretation</li></ul>
+  <p class="legend">F.27 fix: default = restate spec at <b>sub-clause granularity</b> (C.1, C.2…) with verbatim quotes. Trivial-message carve-out (F.28): ≤1 clause or ≤5 words -> 1-row table is sufficient.</p></div></details>
+
+  <h3>📋 Transparency / Wrap-Up (F7)</h3>
+  <details><summary><span class="id">SP.7</span><span class="ttl">Insights Protocol</span><span class="tag">Per-Output</span></summary>
+  <div class="body"><p>Surface non-obvious helpful context. Types: <b>INS.1</b> hidden cost · <b>INS.2</b> adjacent risk · <b>INS.3</b> optimization opportunity · <b>INS.4</b> counter-intuitive finding. Interleaved within Foresight items.</p></div></details>
+
+  <details><summary><span class="id">SP.8</span><span class="ttl">Protocol Visibility Protocol</span><span class="tag">Per-Output</span></summary>
+  <div class="body"><p>Name every protocol used — no hidden mechanics. <b>PV.1</b> first-use full name+acronym · <b>PV.2</b> later short-form OK · <b>PV.3</b> wrap-up lists ALL with status+evidence · <b>PV.4</b> any protocol used must appear.</p></div></details>
+
+  <details><summary><span class="id">SP.9</span><span class="ttl">FE — Foresight Engine ⭐ promoted 2026-05-22 (F.23)</span><span class="tag">mandatory</span></summary>
+  <div class="body"><div class="kv"><div class="k">Purpose</div><div>Predict 2–3 next-step problems with priority tags 🔴🟡🟢 BEFORE they happen.</div></div>
+  <ul><li><b>FE.1</b> Problem prediction · <b>FE.2</b> Solution · <b>FE.3</b> Priority tag · <b>FE.4</b> Specific not generic · <b>FE.5</b> Time horizon</li></ul>
+  <p class="legend">Was dormant (zero blocks in ~50 outputs) until Alan asked "isn't this foresight?" -> promoted to mandatory + Pulse P8 + Validator VL.9.</p></div></details>
+
+  <details><summary><span class="id">SP.13</span><span class="ttl">SHR — System Health Report</span><span class="tag">Per-Output</span></summary>
+  <div class="body"><p>End-of-output 6-dimension scorecard: <b>SHR.1</b> Compliance · <b>SHR.2</b> Fidelity · <b>SHR.3</b> Cache coherence · <b>SHR.4</b> GitHub sync · <b>SHR.5</b> Token health · <b>SHR.6</b> Trend (⬆️/➡️/⬇️).</p></div></details>
+
+  <h3>🪞 Self-Check System</h3>
+  <details><summary><span class="id">SP.10</span><span class="ttl">SCC — Self-Compliance Check</span><span class="tag">Pre-send</span></summary>
+  <div class="body"><p>"Did I follow my OWN SOP rules?" <b>SCC.1</b> header present? · <b>SCC.2</b> Understanding Check? · <b>SCC.3</b> LTM every section? · <b>SCC.4</b> step table all columns? · <b>SCC.5</b> wrap-up complete? · <b>SCC.6</b> acronyms expanded?</p></div></details>
+
+  <details><summary><span class="id">SP.11</span><span class="ttl">QAC — Quality Assurance Check</span><span class="tag">Pre-send</span></summary>
+  <div class="body"><p>"Is the output structurally well-formed?" <b>QAC.1</b> tables MagNet-compliant · <b>QAC.2</b> code blocks formatted · <b>QAC.3</b> links resolve · <b>QAC.4</b> no duplicate sections · <b>QAC.5</b> markdown renders.</p></div></details>
+
+  <h3>🔁 Failure Tracking (F8)</h3>
+  <details><summary><span class="id">SP.12</span><span class="ttl">HFR — Honest Failure Report</span><span class="tag">On detection</span></summary>
+  <div class="body"><p>When something fails: <b>HFR.1</b> what failed (specific) · <b>HFR.2</b> root cause · <b>HFR.3</b> permanent (structural) fix · <b>HFR.4</b> verify in THIS output · <b>HFR.5</b> ledger entry.</p></div></details>
+
+  <details><summary><span class="id">SP.14</span><span class="ttl">RPT — Repeated Prompt Tracker</span><span class="tag">On detection</span></summary>
+  <div class="body"><p>Catch when user asks the same thing 2+ times = system failure. <b>RPT.1</b> detect repeat · <b>RPT.2</b> HFR fires · <b>RPT.3</b> log to ledger · <b>RPT.4</b> structural fix · <b>RPT.5</b> verify now.</p></div></details>
+
+  <h3>⚡ Execution Gates (F9 — kept separate)</h3>
+  <details><summary><span class="id">SP.15</span><span class="ttl">EEP — Execution Enforcement Protocol</span><span class="tag">DURING exec</span></summary>
+  <div class="body"><p>Force execution in THIS output — no "I'll do X next time." <b>EEP.1</b> no future tense · <b>EEP.2</b> proof of execution · <b>EEP.3</b> immediate activation · <b>EEP.4</b> execution count visible · <b>EEP.5</b> defer with reason not silent · <b>EEP.6</b> RPT escalation.</p></div></details>
+
+  <details><summary><span class="id">SP.16</span><span class="ttl">PCG — Prompt Completion Gate</span><span class="tag">PRE-SEND</span></summary>
+  <div class="body"><p>Every user ask executed with evidence before ship. <b>PCG.1</b> list every ask · <b>PCG.2</b> map each to deliverable · <b>PCG.3</b> 3-round design cap · <b>PCG.4</b> debt counter balances · <b>PCG.5</b> 2-strike escalation · <b>PCG.6</b> user-prompt replay.</p></div></details>
+
+  <h3>🆕 Newer protocols (SP.17–SP.24, added 2026-05-21 → 05-26)</h3>
+  <details><summary><span class="id">SP.17</span><span class="ttl">SIR — System Improvement Reflection ⭐</span><span class="tag">Per-Output</span></summary>
+  <div class="body"><div class="kv"><div class="k">Purpose</div><div>Every output ends with 1–3 <b>system-level</b> improvement insights. (SP.9 = content foresight; SIR = "what should the SOP become next?")</div></div>
+<pre>💡 SIR — System Improvement Reflection (SP.17)
+| # | Category | Insight | Effort |
+| 1 | structural | &lt;one-line insight&gt; | S/M/L |</pre>
+  <p class="legend">Categories: structural · convention · token · tooling · process · measurement. Logged to <code>cache/SIR_LOG.md</code>.</p></div></details>
+
+  <details><summary><span class="id">SP.18</span><span class="ttl">SSC — Sync Status Confirmation ⭐ ★ mandatory</span><span class="tag">Per-Output</span></summary>
+  <div class="body"><div class="kv"><div class="k">Purpose</div><div>Every file-modifying output ends with: did the commit land? did the push reach GitHub? is the tree clean? what does another device need to pull?</div></div>
+<pre>📡 Sync Status (SP.18 SSC)
+| Channel | Status | Detail |
+| Git commit | ✅/❌/⚪ | &lt;SHA&gt; |
+| Git push to origin/main | ✅/❌/⚪ | &lt;timestamp&gt; |
+| Distance local-origin | ✅ 0/0 | up-to-date |
+| Backups in backups/ | ✅ N | &lt;count&gt; |</pre>
+  <p class="legend">Backed by <code>scripts/sync_status.sh</code> + <code>backup_status.sh --block</code>.</p></div></details>
+
+  <details><summary><span class="id">SP.19 ⚠️</span><span class="ttl">GLD — GOLD-PATH Protocol (NAME-ONLY / deferred)</span><span class="tag">no spec</span></summary>
+  <div class="body"><div class="crit"><b>No written definition exists.</b> Listed as mandatory (adopted from "Aurelius", F.23) but its formal entry is deferred. Known intent: "reach for the gold-standard solution first; deviation requires explicit constraint citation; render comparison table BEFORE recommending." Used in REFINE's Evolve step.</div></div></details>
+
+  <details><summary><span class="id">SP.20</span><span class="ttl">REFINE — Weekly Self-Improvement Cycle ⭐</span><span class="tag">Per-Week</span></summary>
+  <div class="body"><p><b>R</b>eview · <b>E</b>xtract · <b>F</b>oresee · <b>I</b>ntervene · <b>N</b>ote · <b>E</b>volve. Reads SIR_LOG + FAILURE_LEDGER + META_AUDIT_LOG and <i>acts</i>. Orchestrated by Chiron, runs Saturdays 08:00 via cron. v1.0 = stubs (propose only). Full breakdown in the <a href="#refine">REFINE section</a>.</p></div></details>
+
+  <details><summary><span class="id">SP.21 ⚠️</span><span class="ttl">MES — Model Effort Selector (NAME-ONLY / deferred) ★ mandatory</span><span class="tag">no template</span></summary>
+  <div class="body"><div class="crit"><b>Mandatory but undefined.</b> It IS in the 5-item mandatory loop, yet <code>PROTOCOLS_REFERENCE.md</code> explicitly defers its entry — the acronym isn't even expanded there. Only an inline 15-clause spec in <code>MANDATORY_TIGHT_LOOP.md</code> exists. Reconstructed format:</div>
+<pre>🎯 MODEL: &lt;effort: max / very high / medium / low&gt; · &lt;variant&gt;
+   Why: &lt;plain sentence — real-world benefit&gt;</pre>
+  <p>Placed as the literal first line of output. Conservative bias (when in doubt -&gt; higher). Mandatory MES Retrospective near the end.</p></div></details>
+
+  <details><summary><span class="id">SP.22</span><span class="ttl">E2E — End-to-End Verification ⭐</span><span class="tag">On-Demand/push</span></summary>
+  <div class="body"><p>Single-pane "is anything broken right now?" Runs 9 checks (bootstrap_verify, append_only, compliance, consistency, agent-tests, chain-health, sir-recurrence, health-dashboard, verify-before-assert), aggregates PASS/FAIL/SKIP. <code>scripts/e2e_verify.sh</code> v1.1. Wired into pre-push gate.</p>
+  <p class="legend">This is the gate that blocked the mac-main push on 2026-06-03 (F.62) because it called GNU <code>timeout</code> (absent on macOS) — now patched.</p></div></details>
+
+  <details><summary><span class="id">SP.23 ⚠️</span><span class="ttl">PRISTINE — Quarterly Audit (script only, protocol deferred)</span><span class="tag">no spec</span></summary>
+  <div class="body"><div class="crit"><b>Script exists, protocol spec doesn't.</b> <code>scripts/pristine_audit.sh</code> runs 10 sub-audits beyond E2E (coverage drift, BACKUP_LOG integrity, dead refs, perms, version drift, remote/hook integrity, Chiron freshness, orphan backups) -> verdict PRISTINE / NEAR-PRISTINE / IMPERFECT / DEGRADED. Owned by Chiron.</div></div></details>
+
+  <details><summary><span class="id">SP.24</span><span class="ttl">RAE — Recommendations At End ⭐ ★ mandatory</span><span class="tag">Per-Output</span></summary>
+  <div class="body"><div class="kv"><div class="k">Purpose</div><div>Funnel every actionable suggestion into ONE pickable list at the very end. Origin: Alan "All recommendations should be at the very end, simple to pick."</div></div>
+<pre>🎯 RECOMMENDATIONS (SP.24 RAE)
+Pick a number (or describe alternative):
+1. &lt;Option A&gt; (XS — 5 min)
+2. &lt;Option B&gt; (S — 15 min)
+⭐ Recommended: #N</pre>
+  <p>LAST visible content · max 5 options · each ≤12 words · effort tag mandatory XS/S/M/L · no inline recommendations elsewhere.</p>
+  <div class="warn"><b>Two modes:</b> the "pick a number" form above vs the v1.7 <b>Autonomous Mode</b> (<code>NEXT ACTION (auto-executing): #1</code>) which auto-runs the ⭐ option next turn. Current = autonomous.</div></div></details>
+</section>
+
+<section class="block" id="ensurance">
+  <h2>🛡️ The Ensurance System <span class="count">(EN.1–EN.4 — the anti-decay immune system)</span></h2>
+  <p class="lead">Why the SOP doesn't rot after 5 outputs. Structural, not behavioral — "fill-in-the-blank, not recall-from-memory."</p>
+
+  <details><summary><span class="id">EN.1</span><span class="ttl">Output Skeleton — Structural Anti-Decay</span><span class="tag">Always-On</span></summary>
+  <div class="body"><p>Pre-built template with mandatory sections + LTM placeholders. Paste skeleton FIRST, fill content AFTER. A blank LTM line is a <i>visible</i> failure.</p>
+  <table><tr><th>ID</th><th>Section</th><th>Position</th></tr>
+  <tr><td>EN1.1</td><td>Step Header</td><td>Line 1</td></tr>
+  <tr><td>EN1.2</td><td>Understanding Check (STANDARD+)</td><td>Stage 1</td></tr>
+  <tr><td>EN1.3</td><td>Step Tracking Table</td><td>Stage 2</td></tr>
+  <tr><td>EN1.4</td><td>LTM after each section</td><td>Throughout</td></tr>
+  <tr><td>EN1.5</td><td>Mid-execution Pulse Check</td><td>Stage 3.5</td></tr>
+  <tr><td>EN1.6</td><td>Wrap-Up Block</td><td>End</td></tr>
+  <tr><td>EN1.7</td><td>Footer line</td><td>Last line</td></tr></table>
+  <p class="legend">Later additions made SIR / SSC / RAE mandatory skeleton slots too.</p></div></details>
+
+  <details><summary><span class="id">EN.2</span><span class="ttl">Priority 10 — Cognitive Load Reduction</span><span class="tag">Always-On floor</span></summary>
+  <div class="body"><p>Reduce 43+ rules to the 10 most-critical (working memory ~7±2).</p>
+  <table><tr><th>#</th><th>Item</th></tr>
+  <tr><td>P1</td><td>Step table with ALL columns</td></tr><tr><td>P2</td><td>LTM after EVERY section</td></tr>
+  <tr><td>P3</td><td>Step header line 1</td></tr><tr><td>P4</td><td>Understanding Check (STANDARD+)</td></tr>
+  <tr><td>P5</td><td>Backup before ANY file edit</td></tr><tr><td>P6</td><td>Conclusion maps every item to prompt</td></tr>
+  <tr><td>P7</td><td>Honest Execution Debt Counter</td></tr><tr><td>P8</td><td>SubSOP execution report</td></tr>
+  <tr><td>P9</td><td>Foresight + analysis at end</td></tr><tr><td>P10</td><td>Acronyms expanded on first use</td></tr></table>
+  <div class="warn"><b>This P1–P10 ≠ the tight-loop Pulse Check.</b> The newer loop redefines P6=SIR, P7=SSC, P8=FE, P9=MES, P10=RAE. Both numbering schemes live in the repo unreconciled.</div></div></details>
+
+  <details><summary><span class="id">EN.3</span><span class="ttl">Checkpoint Cycle — Mechanical Attention Reset</span><span class="tag">Every 3rd output</span></summary>
+  <div class="body"><p>Every 3 outputs, re-read the Quick Start / PROTOCOLS_REFERENCE. <span class="yellow">⚠️ No counter/proof it happened — functionally unverifiable.</span></p></div></details>
+
+  <details><summary><span class="id">EN.4</span><span class="ttl">Pulse Check — Compliance Pulse Check (pre-send)</span><span class="tag">Per-Output</span></summary>
+  <div class="body"><p>10-second mechanical pre-send audit. The <b>heavy</b> version checks Priority-10 (P1–P10). The <b>current</b> version checks 5 items. See the dedicated <a href="#pulse">Pulse Check section</a> for the full contradiction map.</p></div></details>
+</section>
+
+<section class="block" id="output">
+  <h2>📊 The output format <span class="count">(exact templates)</span></h2>
+  <p class="lead">The copy-paste templates that should appear in every output. Current (tight-loop) and legacy (heavy) shown where they differ.</p>
+
+  <details><summary><span class="id">HDR</span><span class="ttl">Step header — current (3-line) vs legacy (4-line)</span><span class="tag">line 1</span></summary>
+  <div class="body"><b>Current (tight loop v1.7):</b>
+<pre>STEP: &lt;one-line description&gt;
+🎯 MACRO: &lt;project macro goal — e.g. "Build APW course (PAUSED)"&gt;
+📌 MICRO: &lt;this-output micro goal&gt;</pre>
+  <b>Legacy (full SOP v1.3):</b>
+<pre>STEP: [what this deliverable is]
+SOP: v[VERSION] | TIER: [QUICK/STANDARD/COMPLEX]
+SCOPE: [what's included]
+EST: 📊 ~[X]K tokens · ⏱️ ~[X]m</pre>
+  <p class="legend">The current header dropped SOP/TIER/SCOPE/EST because "they were fabricated or forgotten in practice." That's why the EST/token line you noticed was missing.</p></div></details>
+
+  <details><summary><span class="id">LTM</span><span class="ttl">Live Token Monitor</span><span class="tag">after every ---</span></summary>
+  <div class="body"><b>Current:</b> <code>LTM: ~XK / [WINDOW] | Status: 🌱 GREEN</code> (window = 200K or 1M, ~20% variance OK)<br><br>
+  <b>Legacy:</b> <code>📊 LTM: Section ~XK · Step ~XK · Session ~XK / 200K · Remaining ~XK · GREEN</code>
+  <div class="warn"><b>Honest note:</b> Claude Code can't measure exact tokens — these are <i>estimates</i>, conservative 1.4×. That's the SOP's design (prospective, marked ~), not a live meter. When it looked "broken," it was usually <i>absent</i>, not wrong.</div></div></details>
+
+  <details><summary><span class="id">RPT</span><span class="ttl">SubSOP Execution Report (16-row table)</span><span class="tag">wrap-up</span></summary>
+  <div class="body">
+<pre>📋 SUBSOP EXECUTION REPORT
+| #    | 🎯 | Protocol                | Status | Evidence |
+| SP.1 | ✨ | MagNet Protocol         | ✅/❌  | [where]  |
+| SP.2 | 🚪 | Door Scan Pattern       | ✅/❌  | [where]  |
+| ...  | .. | ...                     | ...    | ...      |
+| SP.16| 🎯 | Prompt Completion Gate  | ✅/❌  | [where]  |
+📊 SubSOP execution cost: ~[X]K tokens</pre></div></details>
+</section>
+
+<section class="block" id="token">
+  <h2>💰 The token system <span class="count">(TTE + LTM)</span></h2>
+  <p class="lead">See <a href="#protocols">SP.3 TTE</a> for full thresholds. Key honest points below.</p>
+  <details><summary><span class="id">$</span><span class="ttl">What's real vs what's estimated</span><span class="tag">honest</span></summary>
+  <div class="body">
+    <ul>
+      <li><b>Thresholds</b> (GREEN &lt;108K etc.) are real rules — but assume a 200K window. On a 1M-context model they don't scale (unreconciled).</li>
+      <li><b>The LTM number</b> is a prospective <i>estimate</i> (conservative 1.4×), not a live meter — Claude Code exposes no exact per-message token count.</li>
+      <li><b>The 59K reserve</b> math proves CRITICAL is unreachable: RED stops work at 130K, +59K = 189K &lt; 200K.</li>
+    </ul>
+    <div class="warn"><b>Why it felt "broken":</b> the LTM line was being dropped from most outputs this session. The format isn't broken — it wasn't being emitted. An execution failure (logged), not a design failure.</div>
+  </div></details>
+</section>
+
+<section class="block" id="pulse">
+  <h2>✅ The Pulse Check <span class="count">(the "broken checklist" — here's the truth)</span></h2>
+  <p class="lead">The single most contradicted thing in the repo. Six counts coexist. Here is the authoritative current state and every divergence.</p>
+
+  <details open><summary><span class="id">NOW</span><span class="ttl">The CURRENT Pulse Check — 5 items (v1.7)</span><span class="tag">authoritative</span></summary>
+  <div class="body">
+<pre>✅ Pulse Check (Reduced — 5 items v1.7)
+P1 Honest numbers; N/M for unmeasurable   ✅/❌
+P2 IAC present (SP.6 Understanding Check)  ✅/❌
+P3 SSC present (SP.18 Sync Status)         ✅/❌
+P4 MES present + retrospective (SP.21)     ✅/❌
+P5 RAE present (SP.24 Recommendations)     ✅/❌
+Score: X/5</pre>
+  <p>Pass: 5/5 ship · 4/5 with brief note OK · ≤3/5 fix before sending.</p></div></details>
+
+  <details><summary><span class="id">⚠️</span><span class="ttl">The 6 conflicting counts (why it looks broken)</span><span class="tag">contradiction</span></summary>
+  <div class="body">
+    <table>
+      <tr><th>Where</th><th>Count</th><th>Items</th></tr>
+      <tr><td>MANDATORY_TIGHT_LOOP RULE 3</td><td><b>5</b> ✅</td><td>P1 Honest / P2 IAC / P3 SSC / P4 MES / P5 RAE</td></tr>
+      <tr><td>Same file, worked example (×2)</td><td>7</td><td>header says "7 items v1.2", lists P1–P7, Score 7/7</td></tr>
+      <tr><td>Same file, "historical 10-item"</td><td>10</td><td>but its intro says "Score X/9"</td></tr>
+      <tr><td>Same file line 96</td><td>5–10</td><td>"compliance_check.sh accepts 5/5…10/10"</td></tr>
+      <tr><td>Same file line 443</td><td>10–17</td><td>"accepts 10/10…17/17 … add 5/5" (contradicts line 96)</td></tr>
+      <tr><td>SOP_MAP.md</td><td>6 or 6+1</td><td>"5 items (P1–P5)" one place, "6+1 / 7 mandatory" another</td></tr>
+      <tr><td>UNIVERSAL_SOP EN.4</td><td>10</td><td>P1–P10 (the OLD Priority-10 set — different items)</td></tr>
+      <tr><td>validator.sh VL.6 (code)</td><td>5 or 6</td><td>regex matches only <code>Score: 5/5</code> or <code>6/6</code></td></tr>
+    </table>
+    <div class="crit"><b>The concrete bug:</b> the file that defines the 5-item check still contains two worked examples hardcoded to <code>Score: 7/7</code>. Copy the template instead of the rule table -&gt; wrong count. And the two "what the script accepts" lines (5–10 vs 10–17) directly contradict each other. <b>Fix = pick 5, single-source it, delete the stale examples.</b></div>
+  </div></details>
+</section>
+
+<section class="block" id="agents">
+  <h2>🤖 The agents <span class="count">(13 active + 9 archived)</span></h2>
+  <p class="lead">1 orchestrator (Controller) + a 4-layer per-output audit chain (Verifier → Validator → QC → Meta-Verifier) + 1 self-improvement lead (Chiron) + Chiron's 6-agent REFINE cluster. <span class="yellow">CLAUDE.md still says "4 agents" — that's stale.</span></p>
+
+  <details><summary><span class="id">CTL</span><span class="ttl">Controller — orchestrator + cache integrity</span><span class="tag">meta</span></summary>
+  <div class="body"><p>Unified control-plane (F4 fusion of Oversight + Cache Manager). Does no content work. Session start: reads mandatory files, verifies cache integrity, reports STEP 2. Per-deliverable: scope -&gt; budget -&gt; delegate chain -&gt; verify validators ran -&gt; update state files. ~5K tokens/session. <span class="yellow">⚠️ Its own file still describes the OLD 3-agent hierarchy — stale; VALIDATION_WORKFLOW v4.0 is canonical.</span></p></div></details>
+
+  <details><summary><span class="id">L1</span><span class="ttl">Verifier — Layer 1 (mechanical presence)</span><span class="tag">chain</span></summary>
+  <div class="body"><p>Confirms every required element is literally present. 8 checks: V.1 STEP header · V.2 MACRO · V.3 MICRO · V.4 Understanding Check · V.5 LTM markers · V.6 Pulse P1–P5 + Score · V.7 honest-numbers · V.8 no bare acronyms. Backed by <code>compliance_check.sh</code>. ~200 tokens. Runs first.</p></div></details>
+
+  <details><summary><span class="id">L2</span><span class="ttl">Validator — Layer 2 (substantive quality)</span><span class="tag">chain</span></summary>
+  <div class="body"><p>Confirms present elements are actually correct. VL.1 IAC accurate · VL.2 FSP cited · VL.3 HFR named · VL.4 EEP delivered · VL.5 EN.1 real · VL.6 Pulse honest · VL.7 SIR · VL.8 SSC · VL.9 FE · VL.10 MES. Backed by <code>validator.sh</code>. ~400 tokens. Runs only if Verifier PASSed.</p></div></details>
+
+  <details><summary><span class="id">L3</span><span class="ttl">QC — Layer 3 (quality + anti-rubber-stamp)</span><span class="tag">chain</span></summary>
+  <div class="body"><p>Successor to "Karen." 11 checks in 3 blocks: <b>A. Output-vs-ask</b> (Q.1 answers it · Q.2 no placeholders · Q.3 right-sized · Q.4 no rejected re-proposals) · <b>B. Anti-rubber-stamp</b> (Q.5 Verifier really checked · Q.6 Validator really checked · Q.7 no auto-✅) · <b>C. Script enforcement F.16</b> (Q.8–Q.11 compliance/append-only/no-bypass/whole-pre-commit). ~600 tokens.</p></div></details>
+
+  <details><summary><span class="id">L4</span><span class="ttl">Meta-Verifier — Layer 4 (audits the audit chain)</span><span class="tag">chain</span></summary>
+  <div class="body"><p>Closes "who verifies the verifier?" Audits process not content. MV.1 all 3 layers ran · MV.2 reports complete · MV.3 spot-check 2 upstream ✅s/layer · MV.4 no verdict contradictions · MV.5 chain not degrading · MV.6 no bypass · MV.7 exit codes match. ~500 tokens. <b>Full 4-layer chain ≈ 1,700 tokens — 77% cheaper than Karen-alone (~7,500) while adding 3 layers.</b> <span class="yellow">⚠️ If one session runs all 5 roles it's still the same brain — should be audited by a fresh context / different model / human.</span></p></div></details>
+
+  <details><summary><span class="id">CHI</span><span class="ttl">Chiron — self-improvement lead (meta-system)</span><span class="tag">cron</span></summary>
+  <div class="body"><p>The only agent whose scope is the SOP's <i>own evolution</i>. Conductor of the 6-agent REFINE cluster. Weekly (Sat 8am) full REFINE cycle; monthly coverage audit; reactive on any F-class/new SubSOP/stalled quintessence score. Detects documentation-to-activity drift, curates the ledger, walks the 5-layer coverage matrix on every new SubSOP. Proposes only — never changes code without approval. Born F.30.</p></div></details>
+
+  <details><summary><span class="id">ARCH</span><span class="ttl">9 archived agents (APW-era)</span><span class="tag">retired</span></summary>
+  <div class="body"><ul>
+    <li><b>validator-merged</b> -> split into Verifier + Validator.</li>
+    <li><b>karen-reality-check</b> -> DNA preserved in QC.</li>
+    <li><b>jenny-sop-verifier</b> -> folded into Verifier/Validator.</li>
+    <li><b>oversight-executive</b> -> fused into Controller.</li>
+    <li><b>cache-manager</b> -> fused into Controller.</li>
+    <li><b>paradox-resolver</b> -> no successor (APW paused).</li>
+    <li><b>deliverable-validator</b> -> folded into validator-merged.</li>
+    <li><b>simplicity-filter</b> -> generalized into QC's Q.3.</li>
+    <li><b>sop-compliance-checker</b> -> folded into validator-merged.</li>
+  </ul></div></details>
+</section>
+
+<section class="block" id="refine">
+  <h2>🔬 REFINE self-improvement cluster <span class="count">(SP.20 — 6 sub-agents)</span></h2>
+  <p class="lead">A closed prediction-and-prevention pipeline that turns the system's own logs into preemptive fixes. Chiron conducts; the 6 agents are step-executors (v1.0 stubs). Saturdays 8am, 5-min staggered.</p>
+  <details open><summary><span class="id">R-E-F-I-N-E</span><span class="ttl">The 6 steps (how they chain)</span><span class="tag">weekly</span></summary>
+  <div class="body"><table>
+    <tr><th>Step</th><th>Agent</th><th>Role</th><th>Writes</th></tr>
+    <tr><td>R</td><td>refine_reviewer</td><td>Look back — 7d logs + last 5 F.x + 30 commits</td><td>REVIEW_&lt;date&gt;.md</td></tr>
+    <tr><td>E</td><td>refine_extractor</td><td>Find patterns ≥3 occurrences</td><td>EXTRACT_&lt;date&gt;.md</td></tr>
+    <tr><td>F</td><td>refine_foresight</td><td>Predict next break (weekly SP.9 FE)</td><td>FORESEE_&lt;date&gt;.md</td></tr>
+    <tr><td>I</td><td>refine_intervention</td><td>Propose fix per 🔴 (proposal-only v1.0)</td><td>INTERVENE_&lt;date&gt;.md</td></tr>
+    <tr><td>N</td><td>refine_scribe</td><td>Record applied fix as PREEMPTIVE ledger entry</td><td>FAILURE_LEDGER + INTERVENTION_LOG</td></tr>
+    <tr><td>E</td><td>refine_evolution</td><td><b>Quarterly</b>: change the protocol set when a pattern recurs 3×</td><td>PROPOSALS/&lt;date&gt;.md</td></tr>
+  </table>
+  <p><b>The escalation valve:</b> when a pattern was predicted, intervened-against, and came back 3+ times, patching isn't enough -> Evolution proposes changing the SubSOP set. Closes Quintessence Q.1/Q.4/Q.8/Q.9; projected 6.5 -> ~8.0/10.</p></div></details>
+</section>
+
+<section class="block" id="prime">
+  <h2>📜 Prime + Bridge SOPs <span class="count">(legacy — retired to cache/legacy/)</span></h2>
+  <p class="lead">The APW-era foundation the Universal SOP was distilled from. Historical reference only.</p>
+
+  <details><summary><span class="id">PRIME</span><span class="ttl">Prime SOP v2.8 — "The Unconditional Foundation" (12 stages)</span><span class="tag">retired</span></summary>
+  <div class="body"><p>Layer 0 of the APW system — governed "EVERY output, message, action. No exceptions." 1,340 lines. Born Mar 13, rebuilt Mar 14 (v2.0), finalized Mar 15 (v2.8). Retired via F1 fusion (2026-05-21).</p>
+  <table><tr><th>Stage</th><th>Name</th></tr>
+  <tr><td>1</td><td>🎯 Understand &amp; Relay Back</td></tr><tr><td>1.5</td><td>🔒 Pre-Execution Backup Gate + Prompt Record</td></tr>
+  <tr><td>2</td><td>📐 Align</td></tr><tr><td>3</td><td>📊 Measure (token budget)</td></tr>
+  <tr><td>4</td><td>🗺️ Plan</td></tr><tr><td>5</td><td>🔍 Verify Sources</td></tr>
+  <tr><td>6</td><td>✏️ Draft</td></tr><tr><td>6.5</td><td>🛡️ QA Mid-Execution Check</td></tr>
+  <tr><td>7</td><td>🪞 Self-Check (18-item)</td></tr><tr><td>7.5</td><td>🔬 Proactive Error Prevention</td></tr>
+  <tr><td>8</td><td>✅ Validate (independent agent)</td></tr><tr><td>9</td><td>🔬 Verify (audit-the-auditor)</td></tr>
+  <tr><td>10</td><td>📁 Document</td></tr><tr><td>11</td><td>📡 Communicate</td></tr>
+  <tr><td>12</td><td>💠🔄 Confirm &amp; Improve</td></tr></table></div></details>
+
+  <details><summary><span class="id">BRIDGE</span><span class="ttl">Bridge SOP v1.1 — interim operating framework</span><span class="tag">retired</span></summary>
+  <div class="body"><p>Layer 1 spec that governed outputs <i>while</i> the Prime SOP was being built. <b>Origin of the visual rules</b> — its mandatory Icon Guide + Debrief Block became SP.1 MagNet + SP.2 Door Scan. Also defined the "Floor" (100% accuracy, no hallucinations, promise=deliver -> SP.15 EEP). Retired via F1 fusion.</p></div></details>
+</section>
+
+<section class="block" id="drules">
+  <h2>📏 The 32 D-rules <span class="count">(APW-era D1–D32)</span></h2>
+  <p class="lead">The original rule set. ~22 carried into the Universal SOP as SubSOPs; ~10 are APW-course-specific (left behind). Source: <code>cache/legacy/APW_MASTER_CACHE.md</code>.</p>
+  <details><summary><span class="id">D1–D32</span><span class="ttl">All 32 with one-line descriptions</span><span class="tag">full list</span></summary>
+  <div class="body"><table>
+    <tr><th>ID</th><th>Rule</th><th>Scope</th></tr>
+    <tr><td>D1</td><td>Step-by-step, never combine steps in one output</td><td>General</td></tr>
+    <tr><td>D2</td><td>Confirm before proceeding — explicit OK per deliverable</td><td>General</td></tr>
+    <tr><td>D3</td><td>Suggestions cycle after every confirmation</td><td>General</td></tr>
+    <tr><td>D4</td><td>Alan chooses the next step from options</td><td>General</td></tr>
+    <tr><td>D5</td><td>7DFS core classroom built FIRST</td><td class="red">APW</td></tr>
+    <tr><td>D6</td><td>Never assume — if unclear, ask</td><td>General</td></tr>
+    <tr><td>D7</td><td>5th-grader simplicity filter</td><td>General</td></tr>
+    <tr><td>D8</td><td>Win check — every module ≥1 designed "win"</td><td class="red">APW</td></tr>
+    <tr><td>D9</td><td>Checklist check — every module has completion tasks</td><td class="red">APW</td></tr>
+    <tr><td>D10</td><td>DFY (Done-For-You) callout on every relevant lesson</td><td class="red">APW</td></tr>
+    <tr><td>D11</td><td>Credit-repair routing -&gt; Classroom 3; skip logic internal</td><td class="red">APW</td></tr>
+    <tr><td>D12</td><td>Guarantee documentation on guarantee-relevant steps</td><td class="red">APW</td></tr>
+    <tr><td>D13</td><td>Confirm-&gt;Suggest-&gt;Confirm, labeled "OPTIMIZATION CYCLE - Round #"</td><td>General</td></tr>
+    <tr><td>D14</td><td>Ascension trigger — each classroom makes next tier desirable</td><td class="red">APW</td></tr>
+    <tr><td>D15</td><td>Content source verification — every lesson traces to a source doc</td><td>General</td></tr>
+    <tr><td>D16</td><td>Filming priority tagging on every module</td><td class="red">APW</td></tr>
+    <tr><td>D17</td><td>Sarah Turner 5-part lesson check</td><td class="red">APW</td></tr>
+    <tr><td>D18</td><td>SOP compliance check before every delivery</td><td>General</td></tr>
+    <tr><td>D19</td><td>POVP — word-by-word prompt-vs-output verification</td><td>General</td></tr>
+    <tr><td>D20</td><td>Real-time checklist display (start/end of output)</td><td>General</td></tr>
+    <tr><td>D21</td><td>PFV — process-flow verification</td><td>General</td></tr>
+    <tr><td>D22</td><td>The SOP is itself a deliverable, subject to every rule</td><td>General</td></tr>
+    <tr><td>D23</td><td>Version increment on every SOP update — no silent edits</td><td>General</td></tr>
+    <tr><td>D24</td><td>State current AND proposed version numbers before changing</td><td>General</td></tr>
+    <tr><td>D25</td><td>Session-start protocol (cache load + integrity verify)</td><td>General</td></tr>
+    <tr><td>D26</td><td>Sub-cache activation before building</td><td>General</td></tr>
+    <tr><td>D27</td><td>Token transparency — per-step + cumulative + remaining + status</td><td>General</td></tr>
+    <tr><td>D28</td><td>Cache update after every locked decision</td><td>General</td></tr>
+    <tr><td>D29</td><td>Step header on every deliverable</td><td>General</td></tr>
+    <tr><td>D30</td><td>Chunked delivery — 3+ deliverables = separate messages</td><td>General</td></tr>
+    <tr><td>D31</td><td>Session checkpoint / anti-compaction</td><td>General</td></tr>
+    <tr><td>D32</td><td>Backup before any modification; log it; never delete</td><td>General</td></tr>
+  </table>
+  <p class="legend">D19 POVP -> SP.10 SCC + Pulse Check · D21 PFV -> SP.15 EEP + SP.16 PCG · D27 -> SP.3 TTE · D32 -> SP.4 SCP. The 4 "orphans" never cleanly ported: D22, D23+D24 (version discipline), D30 (chunked delivery), D3+D13 (optimization-suggestion loop).</p></div></details>
+</section>
+
+<section class="block" id="timeline">
+  <h2>📅 Evolution timeline</h2>
+  <details><summary><span class="id">⏱️</span><span class="ttl">APW era → today</span><span class="tag">full history</span></summary>
+  <div class="body"><table>
+    <tr><th>Date</th><th>Phase</th><th>What happened</th></tr>
+    <tr><td>Mar 13–15</td><td>APW era</td><td>Prime SOP v2.8 (12 stages, 32 D-rules) + Bridge SOP (visual rules born). SOP v3.9.x.</td></tr>
+    <tr><td>Mar 31</td><td>Session 1 — birth</td><td>Universal SOP v1.0-&gt;v1.2 over 9 rounds. <b>16 SubSOPs (SP.1–SP.16) established.</b></td></tr>
+    <tr><td>Apr 1</td><td>Session 2 — Ensurance</td><td>EN.1–EN.4 added -&gt; <b>v1.3</b> (still canonical). Killed cross-output decay (F.9).</td></tr>
+    <tr><td>Apr 16</td><td>Session 3</td><td>External consulting docs. <b>APW course paused here.</b></td></tr>
+    <tr><td>May 18</td><td>Session 4</td><td>GitHub repo (PRIVATE) + SESSION_START bootstrap.</td></tr>
+    <tr><td>May 21</td><td>Session 5 (aurelia)</td><td>F1/F2/F4/F5/F8 fusions. STANDALONE_SOP. FAILURE_LEDGER. F.11–F.22. SP.17 SIR + SP.18 SSC.</td></tr>
+    <tr><td>May 22</td><td>Self-improvement</td><td>SP.9 FE promoted · SP.19 GLD · SP.20 REFINE · SP.21 MES · SP.24 RAE · Chiron · F.23–F.30.</td></tr>
+    <tr><td>May 23–26</td><td>Structural fixes</td><td>F.31 (tree noise) · F.32 (push hang) · F.58/F.59 (audit/GitHub-500) · F.60 (tool deps).</td></tr>
+    <tr><td>Jun 3</td><td>Session 6 (mac-main)</td><td>F.17 boot checklist · F.18 safe_push · F.61 (add -A scope) · F.62 (macOS timeout) · this reference.</td></tr>
+  </table>
+  <p class="legend">Quintessence ("self-perfecting") target = 10 properties; currently 6.5/10; REFINE projected to lift to ~8.0.</p></div></details>
+</section>
+
+<section class="block" id="ledger">
+  <h2>🪞 Failure ledger <span class="count">(35 defined entries, max F.62 — 27 IDs are gaps)</span></h2>
+  <p class="lead">Every failure + structural fix. Gaps F.28–F.29 + F.33–F.57 are from multi-device ID allocation, not lost data.</p>
+  <details><summary><span class="id">F.1–F.62</span><span class="ttl">Complete list</span><span class="tag">35 entries</span></summary>
+  <div class="body"><table>
+    <tr><th>ID</th><th>Title</th><th>Fixed</th></tr>
+    <tr><td>F.1</td><td>Emojis far left, dedicated column</td><td>03-31</td></tr>
+    <tr><td>F.2</td><td>Live token tracking in outputs</td><td>03-31</td></tr>
+    <tr><td>F.3</td><td>MagNet visual optimization</td><td>03-31</td></tr>
+    <tr><td>F.4</td><td>Proactive suggestions / foresight</td><td>03-31</td></tr>
+    <tr><td>F.5</td><td>SubSOP execution visible</td><td>03-31</td></tr>
+    <tr><td>F.6</td><td>Token + time PER STEP with descriptions</td><td>04-01</td></tr>
+    <tr><td>F.7</td><td>Execute, don't just acknowledge</td><td>03-31</td></tr>
+    <tr><td>F.8</td><td>LTM after EVERY section incl. wrap-up</td><td>04-01</td></tr>
+    <tr><td>F.9</td><td>Compliance decay (works then breaks)</td><td>04-01</td></tr>
+    <tr><td>F.10</td><td>Protocol names truncated in reports</td><td>05-21</td></tr>
+    <tr><td>F.11</td><td>No expandable details in SubSOP reports</td><td>05-21</td></tr>
+    <tr><td>F.12</td><td>Pre-Flight Gate + Pulse Check redundancy</td><td>05-21</td></tr>
+    <tr><td>F.13</td><td>Macro/Micro goal tracking absent</td><td>05-21</td></tr>
+    <tr><td>F.14</td><td>Rule #11 cluster violations + UC inconsistency</td><td>05-21</td></tr>
+    <tr><td>F.15</td><td>Multi-device naming + append-only absent</td><td>05-21</td></tr>
+    <tr><td>F.16</td><td>Script-enforcement agent not named + bypassable</td><td>05-21</td></tr>
+    <tr><td>F.17</td><td>Bootstrap lacked component-level transparency</td><td>05-21</td></tr>
+    <tr><td>F.18</td><td>Multi-device live push/pull not optimized</td><td>05-21</td></tr>
+    <tr><td>F.19</td><td>SOP output-level compliance decays (META)</td><td>05-21 T1</td></tr>
+    <tr><td>F.20</td><td>System Improvement Reflection absent</td><td>05-21</td></tr>
+    <tr><td>F.21</td><td>Sync Status Confirmation absent</td><td>05-21</td></tr>
+    <tr><td>F.22</td><td>Universal SOP not yet self-perfecting (META)</td><td>05-21 partial</td></tr>
+    <tr><td>F.23</td><td>SP.9 FE promoted + SP.19 GLD adopted</td><td>05-22</td></tr>
+    <tr><td>F.24</td><td>SP.20 REFINE protocol shipped</td><td>05-22</td></tr>
+    <tr><td>F.25</td><td>Model Effort Selector absent at output start</td><td>05-22</td></tr>
+    <tr><td>F.26</td><td>SP.21 MES tier names were invented</td><td>05-22</td></tr>
+    <tr><td>F.27</td><td>Understanding Check compressed 15-clause spec</td><td>05-22</td></tr>
+    <tr><td>F.30</td><td>Documentation-to-activity drift (coverage matrix)</td><td>05-22</td></tr>
+    <tr><td>F.31</td><td>Steady-state working-tree noise from chain writes</td><td>05-23</td></tr>
+    <tr><td>F.32</td><td>Pre-push hook nested/concurrent E2E hangs push</td><td>05-23</td></tr>
+    <tr><td>F.58</td><td>audit_chain_health.sh empty-log drops marker</td><td>05-25</td></tr>
+    <tr><td>F.59</td><td>GitHub 500 on heavy commit messages</td><td>05-25</td></tr>
+    <tr><td>F.60</td><td>Tool deps (jq/realpath/timeout/curl) not verified</td><td>05-26</td></tr>
+    <tr><td>F.61</td><td>safe_push.sh git add -A swept unrelated work</td><td>06-03</td></tr>
+    <tr><td>F.62</td><td>Pre-push E2E used GNU timeout (absent on macOS)</td><td>06-03</td></tr>
+  </table></div></details>
+</section>
+
+<section class="block" id="scripts">
+  <h2>⚙️ Scripts + hooks <span class="count">(39 scripts, 2 hooks)</span></h2>
+  <p class="lead">The mechanical enforcement layer — "convention → code." Scripts can't lie, so they close the same-brain-self-audit ceiling.</p>
+  <details><summary><span class="id">SH</span><span class="ttl">Key scripts by function</span><span class="tag">enforcement</span></summary>
+  <div class="body"><table>
+    <tr><th>Script</th><th>Does</th></tr>
+    <tr><td>bootstrap_verify.sh</td><td>85-check boot self-test (F.17)</td></tr>
+    <tr><td>e2e_verify.sh</td><td>SP.22 — aggregates 9 checks, push gate</td></tr>
+    <tr><td>compliance_check.sh</td><td>Rule #11 full-names, Pulse score, MACRO/MICRO</td></tr>
+    <tr><td>consistency_check.sh</td><td>Version drift, stale refs, file-count anomalies</td></tr>
+    <tr><td>append_only_check.sh</td><td>History files never shrink</td></tr>
+    <tr><td>validator_output.sh</td><td>RULE 6 — 7-probe self-audit</td></tr>
+    <tr><td>express_sop.sh</td><td>RULE 6.5 — full SP/EN expression block</td></tr>
+    <tr><td>pulse_check.sh</td><td>5-item mechanical Pulse</td></tr>
+    <tr><td>sync_status.sh</td><td>SP.18 engine</td></tr>
+    <tr><td>pristine_audit.sh</td><td>SP.23 — 10 sub-audits</td></tr>
+    <tr><td>safe_push.sh</td><td>F.18/F.61 — scoped fetch+rebase+push</td></tr>
+    <tr><td>chiron_run.sh + refine_*.sh</td><td>REFINE cluster (6)</td></tr>
+    <tr><td>qc.sh / verifier.sh / validator.sh / meta_verify.sh</td><td>The 4-layer chain engines</td></tr>
+    <tr><td>.githooks/pre-commit</td><td>Blocks bad commits (F.16)</td></tr>
+    <tr><td>.githooks/pre-push</td><td>Blocks push if origin ahead + E2E gate (F.18/F.32/F.62)</td></tr>
+  </table></div></details>
+</section>
+
+<section class="block" id="contradictions">
+  <h2>🚨 Known contradictions <span class="count">(the full "why it feels broken" list)</span></h2>
+  <p class="lead">These are the fidelity bugs. Every one forces you to open a second file to settle a question — the opposite of lean. Fixing these is the highest-value work.</p>
+  <details open><summary><span class="id">8</span><span class="ttl">All 8 contradictions with file locations + the fix</span><span class="tag">fix list</span></summary>
+  <div class="body"><table>
+    <tr><th>#</th><th>Contradiction</th><th>Files</th><th>Fix</th></tr>
+    <tr><td>1</td><td>Pulse Check is 5, 6, 7, 9, 10, 17 simultaneously</td><td>MANDATORY_TIGHT_LOOP (×4 internal), SOP_MAP, UNIVERSAL_SOP, validator.sh</td><td>Pick <b>5</b>, single-source it, delete stale 7/7 examples</td></tr>
+    <tr><td>2</td><td>GREEN &lt;100K vs &lt;108K; no 1M-window scaling</td><td>CLAUDE.md vs UNIVERSAL_SOP vs MTL</td><td>Use &lt;108K; add window-relative %</td></tr>
+    <tr><td>3</td><td>SubSOP count 16 / 18 / 24</td><td>PROTOCOLS_REFERENCE header vs body</td><td>Update header to SP.24; write the 3 deferred specs</td></tr>
+    <tr><td>4</td><td>Agent count 4 / 5 / 13</td><td>CLAUDE.md, SOP_GUIDE vs on-disk</td><td>Update to 13; rewrite stale controller.md hierarchy</td></tr>
+    <tr><td>5</td><td>SP.21 MES mandatory but no template</td><td>PROTOCOLS_REFERENCE (deferred)</td><td>Write the MES spec + expand acronym</td></tr>
+    <tr><td>6</td><td>RAE "pick a number" vs "autonomous"</td><td>PROTOCOLS_REFERENCE vs MTL v1.7</td><td>Pick one mode; current = autonomous</td></tr>
+    <tr><td>7</td><td>SIR demoted yet in the template</td><td>MTL RULE 2 vs MTL example skeleton</td><td>Remove SIR from mandatory skeleton or un-demote</td></tr>
+    <tr><td>8</td><td>Ledger jumps F.32 -&gt; F.58 (27 missing IDs)</td><td>FAILURE_LEDGER + stale stats table</td><td>Document the reservation scheme; fix the "F.1–F.18 = 18" stats line</td></tr>
+  </table>
+  <p class="legend">Also: 3 protocols name-only (SP.19 GLD, SP.21 MES, SP.23 PRISTINE); document order ≠ numeric order; "23 scripts" header but ~30 listed.</p></div></details>
+</section>
+
+<section class="block" id="glossary">
+  <h2>📖 Glossary</h2>
+  <details><summary><span class="id">A–Z</span><span class="ttl">Every acronym</span><span class="tag">reference</span></summary>
+  <div class="body"><table>
+    <tr><th>Term</th><th>Means</th></tr>
+    <tr><td>SOP</td><td>Standard Operating Procedure</td></tr>
+    <tr><td>SubSOP / SP.x</td><td>A specific sub-rule of the SOP</td></tr>
+    <tr><td>EN.x</td><td>Ensurance component (anti-decay)</td></tr>
+    <tr><td>TTE</td><td>Token Threshold Engine</td></tr>
+    <tr><td>LTM</td><td>Live Token Monitor (display companion to TTE)</td></tr>
+    <tr><td>IAC</td><td>Intent Alignment Check (the Understanding Check)</td></tr>
+    <tr><td>FSP</td><td>Fidelity Substantiation Protocol</td></tr>
+    <tr><td>SCP</td><td>System Change Protocol</td></tr>
+    <tr><td>FE</td><td>Foresight Engine</td></tr>
+    <tr><td>SCC / QAC</td><td>Self-Compliance Check / Quality Assurance Check</td></tr>
+    <tr><td>HFR</td><td>Honest Failure Report</td></tr>
+    <tr><td>SHR</td><td>System Health Report</td></tr>
+    <tr><td>RPT</td><td>Repeated Prompt Tracker</td></tr>
+    <tr><td>EEP / PCG</td><td>Execution Enforcement Protocol / Prompt Completion Gate</td></tr>
+    <tr><td>SIR</td><td>System Improvement Reflection</td></tr>
+    <tr><td>SSC</td><td>Sync Status Confirmation</td></tr>
+    <tr><td>GLD</td><td>GOLD-PATH Protocol (deferred)</td></tr>
+    <tr><td>REFINE</td><td>Review·Extract·Foresee·Intervene·Note·Evolve</td></tr>
+    <tr><td>MES</td><td>Model Effort Selector (deferred spec)</td></tr>
+    <tr><td>E2E</td><td>End-to-End Verification</td></tr>
+    <tr><td>PRISTINE</td><td>Quarterly deep audit (script only)</td></tr>
+    <tr><td>RAE</td><td>Recommendations At End</td></tr>
+    <tr><td>MagNet</td><td>Magnetic Visual Engagement Protocol (SP.1)</td></tr>
+    <tr><td>Door Scan</td><td>Door Scanning Pattern Protocol (SP.2)</td></tr>
+    <tr><td>POVP / PFV</td><td>Legacy: Pre-Output Verification / Process-Flow Verification</td></tr>
+    <tr><td>D-rule</td><td>One of the 32 APW-era rules (D1–D32)</td></tr>
+    <tr><td>F.x</td><td>A failure-ledger entry</td></tr>
+    <tr><td>Chiron</td><td>The self-improvement lead agent</td></tr>
+    <tr><td>Quintessence</td><td>The 10-property "self-perfecting" target (now 6.5/10)</td></tr>
+  </table></div></details>
+</section>
+
+<footer>
+  <b>SOP_COMPLETE_REFERENCE.html</b> · built 2026-06-03 from a live 4-agent read of the on-disk system (mac-main) · Universal Output SOP v1.3 / MANDATORY_TIGHT_LOOP v1.7 · supersedes the aurelia snapshot (preserved in backups/).<br>
+  Counts reflect on-disk reality, which diverges from several in-repo labels (flagged throughout). When a label and this doc disagree, re-check the cited file — the system is mid-reconciliation across 3 devices.
+</footer>
 
 </div>
 
 <script>
-  function expandAll() {
-    document.querySelectorAll('details').forEach(d => d.open = true);
-  }
-  function collapseAll() {
-    document.querySelectorAll('details').forEach(d => d.open = false);
-  }
-  function filterAll(q) {
-    q = q.toLowerCase().trim();
-    document.querySelectorAll('section.cat details').forEach(d => {
-      const text = d.textContent.toLowerCase();
-      if (!q || text.includes(q)) {
-        d.style.display = '';
-        if (q) d.open = true;
-      } else {
-        d.style.display = 'none';
+  var allDetails = function(){return Array.prototype.slice.call(document.querySelectorAll('details'));};
+  function expandAll(){allDetails().forEach(function(d){d.open=true;});}
+  function collapseAll(){allDetails().forEach(function(d){d.open=false;});}
+  function clearSearch(){document.getElementById('search').value='';doSearch('');}
+  function doSearch(q){
+    q=(q||'').trim().toLowerCase();
+    var info=document.getElementById('searchinfo');
+    var sections=document.querySelectorAll('section.block');
+    if(!q){
+      allDetails().forEach(function(d){d.classList.remove('hidden');d.open=false;});
+      sections.forEach(function(s){s.classList.remove('hidden');});
+      info.textContent='';
+      return;
+    }
+    var hits=0;
+    sections.forEach(function(s){
+      var secHit=false;
+      var dets=s.querySelectorAll('details');
+      if(dets.length===0){
+        if(s.textContent.toLowerCase().indexOf(q)>-1){secHit=true;hits++;}
       }
+      dets.forEach(function(d){
+        if(d.textContent.toLowerCase().indexOf(q)>-1){d.classList.remove('hidden');d.open=true;secHit=true;hits++;}
+        else{d.classList.add('hidden');d.open=false;}
+      });
+      s.classList.toggle('hidden',!secHit);
     });
-    document.querySelectorAll('section.cat').forEach(s => {
-      const visible = [...s.querySelectorAll('details')].some(d => d.style.display !== 'none');
-      s.style.display = (q && !visible) ? 'none' : '';
-    });
+    info.textContent=hits+' match'+(hits===1?'':'es')+' for "'+q+'"';
   }
+  document.addEventListener('DOMContentLoaded',function(){
+    allDetails().forEach(function(d){d.open=false;});
+    var r=document.querySelector('#read details');if(r)r.open=true;
+    var m=document.querySelector('#model details');if(m)m.open=true;
+  });
 </script>
-
 </body>
 </html>
