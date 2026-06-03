@@ -37,6 +37,26 @@ Every entry uses this format:
 ## 🪞 ACTIVE LEDGER (Migrated from RPT_LOG + Session 5 HFRs)
 
 <details>
+<summary><b>F.62 — Pre-Push E2E Gate Used GNU `timeout` (Absent On macOS) → Blocked Every mac-main Push [STRUCTURAL FIX 2026-06-03 (mac-main)]</b></summary>
+
+- **Type:** FAILURE (cross-device environment incompatibility)
+- **First Observed:** 2026-06-03 (mac-main) — pushing the SYSTEM_BRIEF commit. Pre-push hook reported `🚨 PUSH BLOCKED — E2E exit code 127 (FAIL > 0)`.
+- **Times:** 1 (but would block EVERY push from any macOS device)
+- **Root Cause:**
+  - The F.32 pre-push hook wraps E2E as `timeout 90 bash scripts/e2e_verify.sh`.
+  - GNU coreutils `timeout` does **not** exist on macOS by default (nor does `gtimeout` unless coreutils is brew-installed).
+  - A missing command yields exit **127**; the gate treated 127 as "E2E FAIL > 0" and blocked the push.
+  - **The E2E itself passes 9/9** when run directly — this was a 100% false negative from a Linux-only tooling assumption (same class as F.60's dependency-verification gap).
+- **Permanent Fix:**
+  - Hook now resolves a timeout command portably: use `timeout` if present, else `gtimeout`, else run **unwrapped** (`TIMEOUT_CMD=""`). macOS path runs E2E with no wrapper → no 127.
+  - F.32's exit-124 (real-timeout) handling preserved for devices that DO have `timeout`.
+- **Fixed:** 2026-06-03 (same session observed)
+- **Verified:** `command -v timeout` → not found on mac-main; `bash scripts/e2e_verify.sh` direct → 9/9 PASS; patched hook runs E2E unwrapped and allows the push.
+- **Lesson:** Mechanical gates must be cross-platform. A gate that assumes Linux tooling becomes a hard blocker on macOS — the enforcement layer itself needs the same dependency-verification F.60 demanded for bootstrap. Suggest: add `timeout`/`gtimeout` to a tool-presence check, or vendor a pure-bash timeout.
+
+</details>
+
+<details>
 <summary><b>F.61 — safe_push.sh `git add -A` Swept Unrelated Work Into A Commit [FAILURE × 1, self-inflicted] — ✅ FIXED 2026-06-03 (mac-main)</b></summary>
 
 - **Type:** FAILURE (bug in code shipped same session as the F.18 push-wrapper)

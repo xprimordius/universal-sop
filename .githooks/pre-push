@@ -73,8 +73,19 @@ if [[ "$REMOTE" == "$BASE" ]]; then
   # F.30 fix 2026-05-22 — E2E auto-fire (user: "E2E supposed to be automatic everytime")
   # F.32 fix 2026-05-23 — Wrapped in 90s timeout to prevent hangs (avoid stuck push that needs kill)
   if [ -f scripts/e2e_verify.sh ]; then
-    echo "🧪 Running E2E verification before push (90s timeout, blocks if FAIL > 0)..."
-    E2E_OUTPUT=$(timeout 90 bash scripts/e2e_verify.sh 2>&1)
+    # F.62 fix 2026-06-03 (mac-main) — portable timeout. macOS lacks GNU `timeout`
+    # AND `gtimeout`; calling `timeout` raised exit 127 (command-not-found), which the
+    # gate mis-read as "E2E FAIL" and blocked EVERY push from mac-main (E2E actually
+    # passes 9/9). Resolve an available timeout cmd; if none, run unwrapped.
+    if command -v timeout >/dev/null 2>&1; then
+      TIMEOUT_CMD="timeout 90"
+    elif command -v gtimeout >/dev/null 2>&1; then
+      TIMEOUT_CMD="gtimeout 90"
+    else
+      TIMEOUT_CMD=""   # macOS default — no timeout binary; run unwrapped
+    fi
+    echo "🧪 Running E2E verification before push (blocks if FAIL > 0)..."
+    E2E_OUTPUT=$($TIMEOUT_CMD bash scripts/e2e_verify.sh 2>&1)
     E2E_EXIT=$?
     if [ $E2E_EXIT -eq 124 ]; then
       echo "⚠️ F.32 — E2E timed out after 90s. Allowing push with WARNING."
