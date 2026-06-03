@@ -22,6 +22,7 @@
 |:-----:|------|:-------:|---------|:------:|------|
 | 001 | 2026-03-14 | 10 | Source chains for 32 checklist items + token reset clarity + YELLOW auto-enforcement + PER system init | ✅ Complete | `PER_001_20260314_1900.md` |
 | 002 | 2026-06-03 | 6 (mac-main) | Build the Discipline layer — Checklist Gate (this ledger enforced) + No-Reduction Guard. "go best." | ✅ CONFIRMED | `PER_002_20260603_1027.md` |
+| 003 | 2026-06-03 | 6 (mac-main) | Build the Agent Chain (AGENT_CHAIN.md + 9 agents incl. Karen restored, Master Pass, Scope, Depth-Maximizer). "go 3." | ✅ CONFIRMED | `PER_003_20260603_1331.md` |
 
 ---
 
