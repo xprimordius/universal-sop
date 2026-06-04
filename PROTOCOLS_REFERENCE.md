@@ -1243,7 +1243,41 @@ Close the observation→action loop at WEEKLY cadence. Per-output SIR (SP.17) su
 ### Acronym Origin
 **E2E** — End-to-End. Single-command sweep that runs every standalone verification script and aggregates pass/fail/skip into one verdict. Naming matches `xprimordius/aurelius-agent-stack/validate_e2e.py` (cross-pollination 2026-05-22 per `LEARNINGS_FROM_AURELIUS_VAULT.md`).
 
-> **Numbering note:** SP.19 GLD, SP.20 REFINE, SP.21 MES exist in `MANDATORY_TIGHT_LOOP.md` v1.4+ but their formal `<details>` entries in this file are deferred to a separate commit (priority #3 from the QUINTESSENCE_ROADMAP-derived queue). SP.22 is added here ahead of 19–21 to ship the F.29 follow-up cluster atomically.
+> **Numbering note:** ~~SP.19 GLD~~ (DEFINED below 2026-06-04 per Tom depth audit — was the only 🔴), SP.20 REFINE, SP.21 MES exist in `MANDATORY_TIGHT_LOOP.md` v1.4+. SP.20/SP.21 formal `<details>` mirrors still deferred (SP.21 MES has its doctoral 15-clause spec at `MANDATORY_TIGHT_LOOP.md:69` — open that door, don't duplicate). SP.22 was added ahead of 19–21 to ship the F.29 cluster atomically.
+
+<details>
+<summary><b>SP.19 — GLD (GOLD-PATH Protocol) — DEFINED 2026-06-04 (mac-main), was name-only/🔴</b></summary>
+
+- **Category:** Proactive Cluster (F.23) — pre-decision discipline.
+- **Full name:** GOLD-PATH Protocol. **Acronym:** **G**old **L**ine of **D**ecision.
+- **Status:** ✅ MANDATORY, invocation-conditional (per-decision, not per-output).
+- **Trigger (exact):** fires on **any output containing a recommendation, a tool/protocol/architecture choice, or a "we should X" decision** — i.e. anywhere a `⭐ Recommended` or a proposed path appears. Not on pure status/conversational replies.
+- **Core purpose:** stop "settle for the easy option" drift. Always *name* the gold-standard solution first; any deviation must cite a **specific constraint** — so compromises are conscious and auditable, never default.
+- **Sub-rules (GLD.1–GLD.4):**
+  - **GLD.1** State the gold-standard: what a top expert with no constraints would do.
+  - **GLD.2** State your actual proposal.
+  - **GLD.3** If they differ, cite the SPECIFIC constraint forcing the deviation (token budget / tooling gap / time / risk) — not a vague "for simplicity."
+  - **GLD.4** Render the comparison table **before** the recommendation line.
+- **Output format:**
+  ```
+  ## 🏅 GOLD-PATH (SP.19 GLD)
+  | Option | Gold-standard? | Constraint forcing deviation |
+  | A <gold> | ✅ ideal | — |
+  | B <proposed> | ⚠️ compromise | <named constraint> |
+  → Recommending <X> because: <constraint citation, or "it IS the gold path">
+  ```
+- **Worked example (REAL values):**
+  ```
+  ## 🏅 GOLD-PATH (SP.19 GLD)
+  | Option | Gold-standard? | Constraint forcing deviation |
+  | A: judgment band as separate-context Agent calls | ✅ ideal | — |
+  | B: inline judgment inside run_chain.sh | ⚠️ compromise | a bash script can't spawn sub-agents (Master Pass C1) |
+  → Recommending A; the same-brain ceiling (F.19) outweighs the extra context spawn.
+  ```
+- **Measurable outcome:** 100% of recommendation-bearing outputs show a GOLD-PATH table; **0 unjustified deviations** (every deviation from gold has a named constraint).
+- **Failure mode prevented:** silently shipping the convenient option as if it were the best one.
+- **Related:** SP.24 RAE (RAE lists the pick; GLD justifies it against the ideal), Proactive Cluster (SP.9/SP.17/SP.20), `agents/master_pass.md` (Master Pass checks GLD was applied on proposals).
+</details>
 
 ### Status
 ✅ Active script (`scripts/e2e_verify.sh` v1.1, 9 checks). Not yet mandatory in `MANDATORY_TIGHT_LOOP.md` — invoked on-demand. Proposed wiring: pre-push hook or session-end script (deferred to QUINTESSENCE_ROADMAP Q.I.1).

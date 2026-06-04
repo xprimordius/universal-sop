@@ -31,6 +31,17 @@ Pick a number (or describe your own):
 ⭐ Recommended: #N — <one-line why>
 ```
 
+**WORKED EXAMPLE (real values):**
+```
+🎯 RECOMMENDATIONS
+Pick a number (or describe your own):
+1. Execute Tom's deepening — filled examples in 5 agent files (S — 20 min)
+2. Define SP.19 GLD, the only 🔴 protocol (M — 45 min)
+3. Phase 2 — deepen IAC/FSP/Insights into the active docs (L — 2h+)
+⭐ Recommended: #1 — flips 4 files 🟡→✅, highest leverage per Tom's audit
+```
+**MEASURABLE BAR:** ≤5 options · each ≤12 words · every option has an effort tag · exactly one ⭐ (or none) · this is the LAST block (nothing after it).
+
 ## RULES
 1. You only consolidate — you do not invent new actions the chain didn't surface.
 2. Nothing actionable may live outside this block (Insight/Foresight/Master Pass name things; the *picks* are here).

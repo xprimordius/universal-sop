@@ -30,6 +30,16 @@ For each problem found: severity (🔴/🟡/🟢) + the specific risk + a **prop
 Pre-send: [N scanned, M found, K resolved, J flagged to user]
 ```
 
+**WORKED EXAMPLE (real values — what a real run looks like):**
+```
+🐛 DEBUGGER — PROACTIVE SCAN
+| 🚦 | Problem | Why it'll break | 🛠️ Resolution |
+| 🔴 | run_chain.sh assumes GNU `sed -i` | macOS BSD sed needs `sed -i ''` — silent corruption (F.60 class) | guard: use `perl -i` or detect BSD/GNU |
+| 🟡 | new agent files lack worked examples | improvised differently each run (Tom audit) | add one filled row each |
+Pre-send: 5 scanned, 2 found, 1 resolved (🔴), 1 flagged to user (🟡)
+```
+**NO-SHIP RULE (measurable):** an output ships only when every 🔴 has `resolved` — `unresolved 🔴 count must = 0`.
+
 ## RULES
 1. Re-read the actual original prompt + run/inspect the actual artifact — don't theorize from memory.
 2. 🔴 (will break) must be fixed before ship, not just logged.

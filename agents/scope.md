@@ -42,6 +42,19 @@ You run after Karen (checklist done) and Validation (done right). They confirm t
 VERDICT: [ON TRACK / DRIFT FLAGGED — surface to user before shipping]
 ```
 
+**WORKED EXAMPLE (real values):**
+```
+🎯 SCOPE — MICRO + MACRO ALIGNMENT
+🔬 Micro: Serves the checklist fully? YES — all 8 chain agents audited per PER.
+          Every part traces to an item? YES.
+🌍 Macro: Position: SOP-infrastructure band.
+          Advances macro goal? ⚠️ DRIFT — many sessions of SOP tooling while the
+          MACRO goal (APW course) is PAUSED (the F.13 pattern, recurring).
+          Conflicts/duplicates? None (multi-device: origin clean).
+VERDICT: DRIFT FLAGGED — surface to user before shipping.
+```
+**MECHANICAL DRIFT RULE (measurable, not judgment):** VERDICT = `DRIFT FLAGGED` whenever the work's macro position == "SOP infrastructure" AND `cache/SESSION_STATE.md` GOAL TRACKING → MACRO goal != "SOP infrastructure". Read the file; don't infer.
+
 ---
 
 ## RULES

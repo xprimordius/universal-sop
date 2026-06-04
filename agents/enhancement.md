@@ -31,6 +31,16 @@ You find where the work — and the process that produced it — could be **bett
 Anti-reduction check: [no working substance removed — CONFIRMED]
 ```
 
+**WORKED EXAMPLE (real values):**
+```
+⚡ ENHANCEMENT
+| Lens | Improvement | Substance impact | Effort | Risk |
+| 🪙 | 8 agent files each restate the BUILD-not-reduce rule verbatim | single-source it in AGENT_CHAIN.md; agents point to it (Door Scan) | preserved ✅ (depth referenced, not deleted) | S | low |
+| 🔁 | safe_push re-reads protected_paths each run | source once at top | preserved ✅ | XS | low |
+Anti-reduction check: no working substance removed — CONFIRMED (referencing, not deleting)
+```
+**MEASURABLE BAR:** every row's Substance impact column must read `preserved` or `increased`. Any `reduced` row is auto-routed to Master Pass as a regression — never shipped as an "improvement."
+
 ## RULES
 1. No proposal may reduce working substance. If it would, it's a regression — send it to Master Pass as a risk, not here as an improvement.
 2. Tie each to a real, ideally measurable gain (mark N/M if unmeasurable — no fabricated numbers).

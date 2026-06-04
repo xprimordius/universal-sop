@@ -27,6 +27,7 @@
 | 005 | 2026-06-03 | 6 (mac-main) | Wire the chain (#2): scripts/run_chain.sh runner + CHAIN_LOG ledger + controller.md orchestration. "1." | ✅ CONFIRMED | `PER_005_20260603_2023.md` |
 | 006 | 2026-06-03 | 6 (mac-main) | Door Scan caching (#3): DOOR_SCAN.md + cache/DOOR_INDEX.md hallway + scripts/door_scan.sh navigator. "go." | ✅ CONFIRMED | `PER_006_20260603_2157.md` |
 | 007 | 2026-06-03 | 6 (mac-main) | Ran Tom (Depth-Maximizer, separate context) → depth audit: 5✅/8🟡/1🔴 + prioritized prescriptions. "1." | ✅ CONFIRMED | `PER_007_20260603_2203.md` |
+| 008 | 2026-06-04 | 6 (mac-main) | Phase 2 deepening: worked examples → 5 agent files; defined SP.19 GLD (the 🔴). Tom's highest-leverage batch. "1." | ✅ CONFIRMED | `PER_008_20260604_0851.md` |
 
 ---
 

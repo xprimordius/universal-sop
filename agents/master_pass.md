@@ -63,6 +63,22 @@ VERDICT → to USER: [SHIP AS-IS / SHIP + queued improvements / HOLD for decisio
 (Master Pass proposes. The user decides. No auto-changes.)
 ```
 
+**WORKED EXAMPLE (real values — from this project's Run 1):**
+```
+🏆 MASTER PASS REVIEW — Masterful? NOT YET
+🔎 Faults:        F1 — no_reduction_guard.sh:25-30 accepts a 1999 backup (reproduced)
+                  F2 — guard counts only lines; gut-and-refill passes (reproduced)
+⛓️ Constraints:   AI-judgment agents can't be auto-fired by the harness (C1)
+🐌 Inefficiencies: 8 agents restate BUILD-not-reduce → single-source it (build-fix)
+🚀 Opportunities: 1. Bind guards to THIS commit's evidence / reasoning: false-confidence
+                     is worse than no guard / effort: M / risk: low
+   - Previous state: backed up at cache/backups/*_v1_*_pre-hardening_backup.sh
+   - Proposed state: sha-match + set-difference
+   - Building not reducing? CONFIRMED — tightens checks, removes none
+VERDICT → to USER: HOLD — fix F1+F2 before relying on the layer.
+```
+**VERDICT GATE (measurable — the agent fails its OWN anti-reduction test otherwise):** VERDICT may not ship unless (a) Faults count is stated (not blank), (b) every Opportunity has effort + risk tags, (c) every proposed change has a real `backup <path>` filled — **any `<path>` left as a literal placeholder = Master Pass itself failed.**
+
 ---
 
 ## RULES
