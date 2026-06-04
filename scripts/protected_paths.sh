@@ -31,6 +31,7 @@ is_protected() {
     MANDATORY_TIGHT_LOOP.md|SESSION_START.md|CLAUDE.md|RESTORATION_LOG.md)        return 0 ;;
     SYSTEM_BRIEF.md|SOP_GUIDE.md|SOP_MAP.md|USER_PROFILE.md|DEVICE_REGISTRY.md)   return 0 ;;
     SOP_COMPLETE_REFERENCE.html)                                                  return 0 ;;
+    AGENT_CHAIN.md|DOOR_SCAN.md)                                                  return 0 ;;
     agents/*.md)            return 0 ;;   # active agent definitions (archive/ is under agents/ but caught below)
     cache/*.md)             return 0 ;;   # active working caches (legacy/prompt_records/backups already excluded above)
   esac

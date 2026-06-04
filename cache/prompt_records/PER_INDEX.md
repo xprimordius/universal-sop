@@ -25,6 +25,7 @@
 | 003 | 2026-06-03 | 6 (mac-main) | Build the Agent Chain (AGENT_CHAIN.md + 9 agents incl. Karen restored, Master Pass, Scope, Depth-Maximizer). "go 3." | ✅ CONFIRMED | `PER_003_20260603_1331.md` |
 | 004 | 2026-06-03 | 6 (mac-main) | Ran Master Pass (rec #1) → it found 4 guard holes → hardened guards to v2 + re-tested. "yes 1-3." | ✅ CONFIRMED | `PER_004_20260603_1400.md` |
 | 005 | 2026-06-03 | 6 (mac-main) | Wire the chain (#2): scripts/run_chain.sh runner + CHAIN_LOG ledger + controller.md orchestration. "1." | ✅ CONFIRMED | `PER_005_20260603_2023.md` |
+| 006 | 2026-06-03 | 6 (mac-main) | Door Scan caching (#3): DOOR_SCAN.md + cache/DOOR_INDEX.md hallway + scripts/door_scan.sh navigator. "go." | ✅ CONFIRMED | `PER_006_20260603_2157.md` |
 
 ---
 
