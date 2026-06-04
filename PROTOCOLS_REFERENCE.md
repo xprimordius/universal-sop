@@ -439,6 +439,16 @@ Built the wrong thing. Alan's trigger: "you missed important facts" / "do not as
 - SP.16 PCG — Prompt Completion Gate validates every prompt item is addressed
 - Understanding Check (Stage 1) is the primary IAC vehicle
 
+### Worked Example (real values — Tom deepening 2026-06-04)
+> Prompt: *"deploy another agent... call them Tom"*
+> - Interp #1 (LITERAL): build ONE depth-auditing agent file. — *"verbatim says 'another agent', singular"*
+> - Interp #2: build a whole audit subsystem.
+> - **Pick #1**, justified by the verbatim wording.
+> - Conclusion maps: `agents/depth_maximizer.md` delivers exactly #1. ✅
+
+### Measurable Pass-Bar
+PASS = (a) ≥2 interpretations listed when the prompt is non-trivial (>1 normative clause), (b) the chosen interpretation cites specific prompt words, (c) **every deliverable section traces to the chosen interpretation.** Any deliverable section with no traceable interpretation = FAIL → re-align before shipping.
+
 </details>
 
 <details>
@@ -466,7 +476,10 @@ Surface non-obvious helpful context the user didn't explicitly ask for but would
 | INS.4 | Counter-intuitive finding | "More sub-SOPs ≠ better compliance — Ensurance reduced them" |
 
 ### When Triggered
-Every output's foresight section. Voluntary but encouraged.
+**MANDATORY** on every STANDARD/COMPLEX output (was "voluntary" — hardened 2026-06-04 per Tom audit). Emit 0–4 insights; **zero is valid and must be stated explicitly** ("no non-obvious context surfaced"). Canonical executor: **`agents/insight.md`** (this reference entry points there — Door Scan; do not let the two drift).
+
+### Measurable Outcome
+Each insight names a **specific artifact** (file/number) + a **concrete consequence that changes a decision**. **Generic-insight count must = 0** — any insight with no file/number/decision is rejected as filler (mirrors the bar in `agents/insight.md`).
 
 ### Failure Mode If Skipped
 User makes decisions without full context. Avoidable surprises.
@@ -1277,6 +1290,26 @@ Close the observation→action loop at WEEKLY cadence. Per-output SIR (SP.17) su
 - **Measurable outcome:** 100% of recommendation-bearing outputs show a GOLD-PATH table; **0 unjustified deviations** (every deviation from gold has a named constraint).
 - **Failure mode prevented:** silently shipping the convenient option as if it were the best one.
 - **Related:** SP.24 RAE (RAE lists the pick; GLD justifies it against the ideal), Proactive Cluster (SP.9/SP.17/SP.20), `agents/master_pass.md` (Master Pass checks GLD was applied on proposals).
+</details>
+
+<details>
+<summary><b>SP.21 — MES (Model Effort Selector) — POINTER (Door Scan), deepened 2026-06-04</b></summary>
+
+- **NOT name-only** (Tom correction): the full **doctoral 15-clause spec (C.1–C.15)** lives at `MANDATORY_TIGHT_LOOP.md:69`. **Open that door — do not duplicate it here** (Door Scan DS.1). This entry is the hallway brief.
+- **Brief:** declare the model + effort at the TOP of every output (`🎯 MODEL: <effort> · <variant>`) with a plain-language "why"; conservative bias (when unsure, pick higher); mandatory retrospective near the end declaring the true-best setting + calibration delta.
+- **Worked example (real values):** `🎯 MODEL: max effort · Opus 4.8 1M — depth audit across 14 protocol files needs full-context reasoning; conservative bias (C.6) picks max over very-high.`
+- **Measurable outcome:** every STANDARD/COMPLEX output opens with a `🎯 MODEL:` line AND closes with a one-line MES retrospective. Missing either = FAIL.
+</details>
+
+<details>
+<summary><b>SP.23 — PRISTINE (Quarterly Deep Audit) — POINTER (Door Scan), deepened 2026-06-04</b></summary>
+
+- **Substance lives in the script:** `scripts/pristine_audit.sh` (Auxiliary Scripts Cluster above). Owned by Chiron. **Open that door for the running logic.** This is the protocol-level wrapper.
+- **The 10 sub-audits (numbered steps):** (1) coverage drift, (2) BACKUP_LOG integrity [skips `[UNRECOVERABLE-ORPHAN]`], (3) dead refs (gitignore-aware), (4) script perms, (5) version drift, (6) remote integrity, (7) hook integrity, (8) Chiron freshness, (9) orphan backups, (10) aggregate verdict.
+- **Verdict scale:** PRISTINE (0 issues) / NEAR-PRISTINE / IMPERFECT / DEGRADED (N issues).
+- **Worked example (real verdict):** aurelion 2026-05-25: **🔴 DEGRADED 39 → ✅ PRISTINE 0** (commit `14bd288`).
+- **Trigger:** quarterly OR before a major release / quintessence milestone.
+- **Measurable outcome:** a release ships only at **PRISTINE 0** or with each non-zero issue explicitly accepted by the user.
 </details>
 
 ### Status
